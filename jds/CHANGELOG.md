@@ -4,6 +4,67 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [3.1] — 2026-03-25
+
+### Changed — Repository Restructure for Authority
+- **Root reduced to 4 folders**: `jds/` (system), `projects/` (work), `scripts/` (tools), `personal/` (non-JDS). Down from 12 top-level folders.
+- **`blog/` moved to `projects/blog/`** — JDS owns the repo structure; Jekyll adapts. GitHub Actions workflow updated.
+- **`3d-modeling/` moved to `projects/3d-modeling/`** — all work output under one roof.
+- **`collections/`, `documents/`, `archive/` moved to `personal/`** — non-JDS content consolidated.
+- **Root README.md** rewritten as JDS authority page — action-oriented "I need to..." task table replaces folder tour.
+- **`jds/QUICK-REFERENCE.md`** created — one-page cheat sheet for document numbering, category/domain codes, revision sequence, common commands.
+- **`scripts/README.md`** created — tool reference with usage examples for all 7 scripts.
+- **All path references updated** — PRO-003, PRO-009, TMP-DWG-001, TMP-BLG-001, document register, CLAUDE.md.
+- **Empty placeholder folders removed** — `software-projects/`, `documents/cv/`, `documents/notes/`.
+- **CLAUDE.md §Structure** now defines the 4-folder root formally.
+
+### Added — Office Document PDF Converter
+- **`scripts/office2pdf.py`**: Reads JDS Excel workbooks (timesheet, expense, mileage) and renders as proper JDS-PRO-007 compliant PDFs using weasyprint. Same design language as `md2pdf.py` — logo header band, metadata card, navy headings, alternating rows, computed totals, running header/footer.
+
+---
+
+## [3.0] — 2026-03-25
+
+### Added — Office Document Generation
+- **`scripts/generate-office-docs.py`**: Excel workbook generator for timesheets, expense reports, and mileage logs. JDS-compliant styling (Navy Blue headers, alternating row shading, portrait A4, white background, no gridlines, logo embedding).
+- **JDS-TMP-EXP-002**: Mileage Log Template — distance tracking with SEK/km rate calculations and monthly summary.
+- **QMS-000 §6.4**: Supported File Formats — formalises Excel, PDF, and Word alongside Markdown as JDS document formats.
+- Excel workbooks include: formulas, data validation (expense categories), print setup, UNCONTROLLED COPY footer, logo support.
+- Logo is swappable via `JDS_LOGO_PATH` environment variable for client-branded documents.
+
+### Added — Language Policy & Authority
+- **JDS-QMS-000 Rev E** — Added §15 Language Policy. JDS is 100% English. All foreign loan words replaced with JDS-owned English terminology. Terminology map established.
+- **Regulatory Traceability Matrix** — New supplemental document mapping every JDS-PRO-010 requirement to AFS 2017:3 sections. Working procedures are clean; compliance evidence is separate.
+
+### Changed — Language Authority Cleanup
+- **JDS-PRO-010 Rev B** — Complete English rewrite. All Swedish terms removed from working procedure. Renamed from `fortlopande-tillsyn` to `ongoing-maintenance`.
+- **JDS-PRO-007 Rev D** — All Japanese terms replaced with JDS English terms: Active Space (was Ma), Compartment Design (was Bento), Visual Explanation (was Zukai), Craft Precision (was Monozukuri).
+- **JDS-PRJ-MEC-001 Rev C** — Project README cleaned of all Swedish terminology.
+- **JDS-TMP-LOG-002** renamed to `supervision-inventory-template` — English rewrite
+- **JDS-TMP-LOG-003** renamed to `supervision-checklist-template` — English rewrite
+- **JDS-TMP-LOG-004** renamed to `inspection-plan-template` — English rewrite
+- **Document Registry** updated with new filenames, titles, and revision numbers
+- **Design Principles table** in QMS-000 now uses JDS English terms throughout
+
+### Language Authority
+- JDS defines its own terminology. Foreign sources (Swedish regulation, Japanese design, Russian documentation) are acknowledged influences, but JDS English terms are always primary.
+
+---
+
+## [2.9] — 2026-03-25
+
+### Added — Ongoing Maintenance Program
+- **JDS-PRO-010**: Ongoing Maintenance Program Procedure — complete workflow for AFS 2017:3 ongoing maintenance programs. Covers setup, annual cycle, inspection handling, findings management.
+- **JDS-TMP-LOG-002**: Supervision Inventory Template — equipment register for client sites
+- **JDS-TMP-LOG-003**: Supervision Checklist Template — routine supervision checklist
+- **JDS-TMP-LOG-004**: Annual Inspection Plan Template — annual inspection plan with quarterly tracking
+- **JDS-TMP-RPT-003**: Inspection Report Template — post-inspection documentation with findings, wall thickness, and sign-off
+
+### Changed
+- **JDS-PRJ-MEC-001** updated to Rev B — Maintenance workflow integrated, active program folder structure documented, all templates and procedures linked
+
+---
+
 ## [2.8] — 2026-03-25
 
 ### Added

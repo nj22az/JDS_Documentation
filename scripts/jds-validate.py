@@ -181,7 +181,7 @@ def check_registry_vs_filesystem(result):
     # Check for orphan JDS files (file exists but not in registry)
     registered_paths = set(info['path'] for info in entries.values())
     jds_files = []
-    for pattern in ['jds/**/*.md', 'projects/**/*.md', 'blog/_posts/*.md']:
+    for pattern in ['jds/**/*.md', 'projects/**/*.md']:
         jds_files.extend(glob.glob(os.path.join(REPO_ROOT, pattern), recursive=True))
 
     for filepath in jds_files:
@@ -334,14 +334,14 @@ def check_internal_links(result):
 
 def check_blog_posts(result):
     """Validate blog post structure, front matter, and JDS metadata."""
-    posts_dir = os.path.join(REPO_ROOT, 'blog', '_posts')
+    posts_dir = os.path.join(REPO_ROOT, 'projects', 'blog', '_posts')
     if not os.path.isdir(posts_dir):
-        result.warn('blog/_posts/ directory not found')
+        result.warn('projects/blog/_posts/ directory not found')
         return
 
     posts = glob.glob(os.path.join(posts_dir, '*.md'))
     if not posts:
-        result.warn('No blog posts found in blog/_posts/')
+        result.warn('No blog posts found in projects/blog/_posts/')
         return
 
     for filepath in sorted(posts):
@@ -392,7 +392,7 @@ def check_blog_posts(result):
         result.ok(f'{rel}: blog post structure valid')
 
     # Check _config.yml exists
-    config_path = os.path.join(REPO_ROOT, 'blog', '_config.yml')
+    config_path = os.path.join(REPO_ROOT, 'projects', 'blog', '_config.yml')
     if os.path.exists(config_path):
         config = safe_read(config_path)
         if config:
@@ -540,12 +540,11 @@ def check_structure(result):
         'jds/templates',
         'jds/registry',
         'jds/assets',
-        'blog',
-        '3d-modeling',
         'projects',
+        'projects/3d-modeling',
+        'projects/blog',
         'scripts',
-        'documents',
-        'archive',
+        'personal',
     ]
 
     for d in required_dirs:

@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-PRO-007 |
-| **Revision** | C |
+| **Revision** | D |
 | **Date** | 2026-03-25 |
 | **Status** | APPROVED |
 | **Author** | Nils Johansson |
@@ -12,7 +12,7 @@
 
 ## 1. Purpose
 
-This standard defines how information is visually presented in JDS documents. It draws primarily on the Japanese information design tradition — the same principles that make Tokyo Metro maps, Japanese wayfinding systems, and technical infographics world-leading in clarity.
+This standard defines how information is visually presented in JDS documents. It draws on world-class information design traditions — the principles that make the best wayfinding systems, technical infographics, and engineering documents clear and effective.
 
 The core philosophy:
 
@@ -20,15 +20,15 @@ The core philosophy:
 
 ## 2. The Seven Principles
 
-| # | Principle | Origin | Meaning |
-|---|-----------|--------|---------|
-| 1 | **Ma (間) — Emptiness is structure** | Japanese | White space organises information. Never fill space for the sake of filling it. |
-| 2 | **Bento — The container is content** | Japanese | Layout, format, and templates are engineering tools, not overhead. |
-| 3 | **Zukai — If you can't diagram it, you don't understand it** | Japanese | Every report should contain at least one visual element. |
-| 4 | **Colour is language** | Tokyo Metro | Every colour means something. Use it consistently. Never decoratively. |
-| 5 | **Redundant encoding** | Japanese wayfinding | Critical information in at least two channels: colour + text, icon + word. |
-| 6 | **Reduce to essence** | Kenya Hara / MUJI | Remove every element that does not contribute to understanding. |
-| 7 | **Craft is visible** | Monozukuri | Alignment, spacing, and precision in documents reflect your engineering quality. |
+| # | Principle | Meaning |
+|---|-----------|---------|
+| 1 | **Active Space — Emptiness is structure** | White space organises information. Never fill space for the sake of filling it. |
+| 2 | **Compartment Design — The container is content** | Layout, format, and templates are engineering tools, not overhead. |
+| 3 | **Visual Explanation — If you can't diagram it, you don't understand it** | Every report should contain at least one visual element. |
+| 4 | **Colour is Language** | Every colour means something. Use it consistently. Never decoratively. |
+| 5 | **Redundant Encoding** | Critical information in at least two channels: colour + text, icon + word. |
+| 6 | **Reduce to Essence** | Remove every element that does not contribute to understanding. |
+| 7 | **Craft Precision — Visible quality** | Alignment, spacing, and precision in documents reflect your engineering quality. |
 
 ## 3. The Three-Level Reading System
 
@@ -58,7 +58,7 @@ If Level 1 and Level 2 fail, Level 3 will never be reached — the reader gives 
 ### 4.2 Body Text
 
 - **Size:** 10–11pt (never smaller than 9pt, even for notes)
-- **Line height:** 1.4–1.5x the font size (this is the ma between lines)
+- **Line height:** 1.4–1.5x the font size
 - **Paragraph spacing:** 6–8pt between paragraphs
 - **Maximum line length:** 75–85 characters (beyond this, the eye loses its way)
 
@@ -71,7 +71,7 @@ If Level 1 and Level 2 fail, Level 3 will never be reached — the reader gives 
 
 ## 5. Layout
 
-### 5.1 Margins (The Frame of Ma)
+### 5.1 Margins
 
 - **Minimum:** 20mm all sides
 - **Recommended:** 25mm left/right, 20mm top, 25mm bottom
@@ -85,9 +85,9 @@ If Level 1 and Level 2 fail, Level 3 will never be reached — the reader gives 
 - Centre short codes and status indicators
 - **A misaligned element undermines the credibility of everything around it**
 
-### 5.3 The Bento Box Layout
+### 5.3 Compartment Layout
 
-For one-page summaries, cover sheets, and project cards, use the bento principle — self-contained compartments that form a complete whole:
+For one-page summaries, cover sheets, and project cards, use the compartment principle — self-contained sections that form a complete whole:
 
 ```
 ┌────────────────────────────────┬──────────────────┐
@@ -122,7 +122,7 @@ Each compartment works independently. A reader can go directly to KEY DATA witho
 | **Amber** | Cautions, approaching deadlines, monitor items | Warning, review needed |
 | **Forest Green** | Approved, complete, current, satisfactory | Proceed, no action needed |
 | **Warm Gray** | Metadata, references, notes, archived | Supporting, non-critical |
-| **White/Off-white** | Background, breathing room | Ma — receptive space |
+| **White/Off-white** | Background, breathing room | Active space — receptive space |
 
 ### 6.2 Colour Rules
 
@@ -190,7 +190,7 @@ The Johansson Engineering stamp logo appears in a category-specific colour on ev
 - Always include **threshold lines** on charts — a measurement without a standard is meaningless
 - Tables: subtle alternating row shading, generous cell padding, units in header only
 
-## 8. The Monozukuri Standard
+## 8. The Craft Precision Standard
 
 > **The quality of your documentation is the visible surface of the quality of your engineering.**
 
@@ -205,7 +205,7 @@ Before issuing any document, verify:
 - [ ] Headings follow the 4-level hierarchy consistently
 - [ ] Text is left-aligned, numbers are right-aligned
 - [ ] Colour is used meaningfully, not decoratively
-- [ ] White space (ma) separates sections clearly
+- [ ] Active space separates sections clearly
 - [ ] At least one visual element is present (for reports)
 - [ ] Status block is complete and colour-coded
 - [ ] The document works at all three reading levels (glance, scan, read)
@@ -214,7 +214,7 @@ Before issuing any document, verify:
 
 ### 9.1 The Baseline Unit
 
-All vertical spacing derives from a **base unit of 6pt** (the paragraph spacing). This creates a consistent rhythm throughout the document — the visual equivalent of a metronome.
+All vertical spacing derives from a **base unit of 6pt** (the paragraph spacing). This creates a consistent rhythm throughout the document.
 
 | Spacing | Value | Use |
 |---------|-------|-----|
@@ -232,7 +232,7 @@ Body text occupies the full text width. The metadata identity block occupies 55�
 
 ### 9.3 Content Density
 
-Inspired by Toyota's A3 one-page thinking: **every page should carry meaningful content.** If a page is more than 40% empty (excluding the final page), restructure. White space is intentional structure (ma), not leftover gap.
+**Every page should carry meaningful content.** If a page is more than 40% empty (excluding the final page), restructure. White space is intentional structure (active space), not leftover gap.
 
 ## 10. Page Architecture
 
@@ -318,19 +318,18 @@ The metadata identity strip at the top of every document is **not** counted in t
 
 The revision history table at the end of every document has a **distinct visual treatment** from data tables — it uses the same compact, borderless style as the metadata identity strip. This signals "this is document metadata" rather than "this is technical data."
 
-## 13. Emptiness & Receptivity (Ku — 空)
+## 13. Emptiness & Receptivity
 
 > **"Emptiness is not the absence of content but the presence of potential."**
-> — Kenya Hara, Art Director of MUJI
 
 This section codifies the philosophical distinction between **minimalism** (removing things) and **emptiness** (creating receptive space). In JDS documents:
 
 - White space is not "unused" — it is **active structure** that guides the eye
 - A page with 30% white space is not wasting paper — it is **breathing**
 - The margin is not a border — it is a **frame** that gives the content meaning
-- The gap between sections is not empty — it is the **ma** (間) that separates ideas
+- The gap between sections is not empty — it is the **active space** that separates ideas
 
-This principle (drawn from Kenya Hara's work with MUJI and traditional Japanese aesthetics) distinguishes JDS from systems that merely follow formatting rules. **We design documents the way we design spaces — with intention in every absence.**
+JDS designs documents the way engineers design spaces — with intention in every absence.
 
 ## 14. Automation & Consistency
 
@@ -360,7 +359,7 @@ All JDS documents are converted to PDF using `scripts/md2pdf.py`, which enforces
 | Metadata header complete | Pre-flight checklist |
 | Revision history present | Pre-flight checklist |
 | Visual content in reports | Pre-flight checklist |
-| Three-level readability | Monozukuri self-check |
+| Three-level readability | Craft precision self-check |
 
 ---
 
@@ -368,6 +367,7 @@ All JDS documents are converted to PDF using `scripts/md2pdf.py`, which enforces
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
-| A | 2026-03-25 | Nils Johansson | Initial release — typography, colour system, layout principles, visual standards, bento box layout, monozukuri philosophy |
-| B | 2026-03-25 | Nils Johansson | Added grid system (§9), page architecture (§10), micro-typography (§11), figure/table conventions (§12), emptiness philosophy (§13), automation rules (§14). Inspired by Apple, Toyota A3, Bauhaus, Kenya Hara/MUJI, Bosch, DNV, and Instron design standards. |
+| A | 2026-03-25 | Nils Johansson | Initial release — typography, colour system, layout principles, visual standards, compartment layout, craft precision philosophy |
+| B | 2026-03-25 | Nils Johansson | Added grid system (§9), page architecture (§10), micro-typography (§11), figure/table conventions (§12), emptiness philosophy (§13), automation rules (§14) |
 | C | 2026-03-25 | Nils Johansson | Added §6.4 Logo Colour Variants — category-specific logo colours for glance-level document identification. SVG logo and automated variant generation. |
+| D | 2026-03-25 | Nils Johansson | Language authority update — all terminology now JDS English. Japanese loan words replaced with JDS-owned terms (Active Space, Compartment Design, Visual Explanation, Craft Precision). |

@@ -3,16 +3,21 @@
 ## Repository Purpose
 This repository IS the Johansson Documentation System (JDS). Every project, document, drawing, blog post, and record lives here under one unified system. JDS governs how work is created, numbered, revised, and found.
 
-## Structure
-- `jds/` - Johansson Documentation System (quality manual, procedures, templates, registry)
-- `blog/` - Jekyll engineering blog (GitHub Pages)
-- `3d-modeling/` - 3D modeling projects, each in its own JDS-DWG-[DOM]-NNN folder (Blender, Shapr3D, build123d)
-- `projects/` - Engineering projects, each in its own JDS-PRJ-[DOM]-NNN folder
-- `software-projects/` - Software development projects
-- `scripts/` - JDS tooling (md2pdf.py for document PDFs, md2letter.py for correspondence)
-- `collections/` - Personal collections (ROM archive, etc.) — uses JDS principles but not JDS document numbers
-- `documents/` - CV, cover letters, notes
-- `archive/` - Archived past projects (e.g., previous website)
+## Repository Structure (JDS-QMS-000 §21)
+
+Four root folders. Everything lives in one of them.
+
+- `jds/` - System governance (quality manual, procedures, templates, registry, assets, quick reference)
+- `projects/` - All work output
+  - Engineering projects: `projects/JDS-PRJ-[DOM]-NNN_name/`
+  - 3D models: `projects/3d-modeling/JDS-DWG-[DOM]-NNN_name/`
+  - Blog: `projects/blog/` (Jekyll, GitHub Pages)
+  - Software projects: `projects/software/` (created on demand)
+- `scripts/` - JDS automation tools (PDF generation, validation, office documents)
+- `personal/` - Non-JDS content (not document-numbered)
+  - `personal/collections/` - Personal collections (ROM archive, etc.)
+  - `personal/documents/` - CV, cover letters, notes
+  - `personal/archive/` - Archived past work
 
 ## JDS Documentation System
 - Technical documents: `JDS-[CAT]-[DOM]-[NNN]` (e.g., JDS-DWG-MEC-003)
@@ -26,14 +31,14 @@ This repository IS the Johansson Documentation System (JDS). Every project, docu
 - See `jds/README.md` for full documentation system reference
 
 ## 3D Modeling Projects
-- Each 3D project gets a DWG number with domain: `3d-modeling/JDS-DWG-MEC-001_name/`
+- Each 3D project gets a DWG number with domain: `projects/3d-modeling/JDS-DWG-MEC-001_name/`
 - Standard subfolders: `source/`, `exports/`, `references/`, `renders/`
 - Mandatory exports: STEP + 3MF + STL (always all three)
 - Every project folder has a README.md project card
 - See JDS-PRO-003 for full procedure
 
 ## Engineering Projects
-- Each project gets a PRJ number with domain: `projects/JDS-PRJ-MEC-001_name/`
+- Each project gets a PRJ number with domain: `projects/JDS-PRJ-[DOM]-NNN_name/`
 - Every project has a README.md and CHANGELOG.md (master change log)
 - All document changes within a project are logged in CHANGELOG.md
 - Every document has a status block at the top: Doc No | Rev | CURRENT/SUPERSEDED | Date | Author
@@ -41,7 +46,7 @@ This repository IS the Johansson Documentation System (JDS). Every project, docu
 ## Guidelines
 - Keep files organized in the appropriate directories
 - Use descriptive names for project folders
-- Each software project should have its own subfolder under `software-projects/`
+- Software projects go in `projects/software/` (created on demand, each in its own subfolder)
 
 ## Self-Improvement & Automation
 
@@ -65,7 +70,14 @@ JDS is a living system. Every session should leave the repo better than it was f
 - `/new-doc` — Create a new document following all JDS procedures
 - `/pdf` — Generate a JDS-compliant PDF from markdown
 
-### Continuous Improvement Cycle (Kaizen)
+### Language Policy
+- JDS is 100% English. JDS owns its terminology — foreign terms are never primary labels.
+- Japanese design terms: Active Space (not Ma), Compartment Design (not Bento), Visual Explanation (not Zukai), Craft Precision (not Monozukuri)
+- Swedish regulatory terms: Ongoing Maintenance Program (not Fortlöpande Tillsyn), Supervision Checklist (not Tillsynsprotokoll), Inspection Plan (not Kontrollplan)
+- Regulatory traceability goes in separate matrix documents, never embedded in working procedures
+- See QMS-000 §15 for the full policy
+
+### Continuous Improvement Cycle
 When you notice something that could be improved:
 1. **Fix it now** if small (< 5 min)
 2. **Log it** in `jds/registry/corrective-action-log.md` if larger
@@ -81,6 +93,8 @@ When you notice something that could be improved:
 | `scripts/jds-validate.py --fix` | Show suggested fixes for errors | Post-audit remediation |
 | `scripts/md2pdf.py` | JDS document → PDF (auto-coloured logo) | `python3 scripts/md2pdf.py <file.md>` |
 | `scripts/md2letter.py` | Letter template → PDF (Heritage Red logo) | `python3 scripts/md2letter.py <file.md>` |
+| `scripts/generate-office-docs.py` | Excel workbook generator (timesheet, expense, mileage) | `python3 scripts/generate-office-docs.py timesheet\|expense\|mileage\|all [output]` |
+| `scripts/office2pdf.py` | Excel workbook → JDS-compliant PDF | `python3 scripts/office2pdf.py <file.xlsx> [output.pdf]` |
 | `scripts/logo-variants.py` | Generate SVG logo colour variants | `python3 scripts/logo-variants.py` |
 
 ## PDF Generation (JDS-PRO-007 Compliance)
@@ -90,7 +104,8 @@ All PDFs exported from JDS documents MUST follow JDS-PRO-007 (Information Design
 ### Mandatory PDF Requirements
 - **Documents**: `python3 scripts/md2pdf.py <input.md> [output.pdf]`
 - **Letters**: `python3 scripts/md2letter.py <input.md> [output.pdf]`
-- **Dependencies**: `pip3 install weasyprint markdown` (if not installed)
+- **Office documents**: `python3 scripts/office2pdf.py <input.xlsx> [output.pdf]`
+- **Dependencies**: `pip3 install openpyxl weasyprint markdown` (if not installed)
 
 ### JDS-PRO-007 Visual Standards (enforced in stylesheet)
 - **Typography (§4)**: H1=20pt, H2=14pt, H3=12pt, H4=11pt bold italic, body=10pt, line-height=1.5x
@@ -127,9 +142,9 @@ All PDFs exported from JDS documents MUST follow JDS-PRO-007 (Information Design
 - PDF generators auto-select the correct category colour variant based on document number
 - To regenerate variants: `python3 scripts/logo-variants.py`
 
-### Monozukuri Self-Check (§8.1 — before issuing)
+### Craft Precision Self-Check (§8.1 — before issuing)
 - Headings follow 4-level hierarchy consistently
-- White space (ma) separates sections clearly
+- Active space separates sections clearly
 - Status block is complete and accurate
 - Document works at all three reading levels: glance (0.5s), scan (5s), read (minutes)
 
@@ -142,4 +157,4 @@ When any formatting, styling, layout, or content issue is found:
 5. **Log the corrective action** — record in `jds/registry/corrective-action-log.md`
 6. **Bump the version** — update `jds/README.md` and `jds/CHANGELOG.md`
 
-This is the JDS Kaizen cycle. The system must get better every session, never worse.
+This is the JDS continuous improvement cycle. The system must get better every session, never worse.
