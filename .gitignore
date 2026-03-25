@@ -35,7 +35,9 @@ __pycache__/
 .env
 .env.local
 
-# Generated PDFs — JDS-PRO-005 §6: Git is the controlled copy, PDFs are uncontrolled
+# Generated outputs — JDS-PRO-005 §6: Git is the controlled copy, exports are uncontrolled
 *.pdf
-# Exception: safe-to-delete/ review copies explicitly requested by user
-!safe-to-delete/*.pdf
+*.xlsx
+
+# safe-to-delete/ is for temporary review files — never commit generated outputs
+safe-to-delete/
