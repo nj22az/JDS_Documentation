@@ -19,6 +19,7 @@ This is the master list of all documents in the JEDS system. Every document must
 |---------|-------|-----|------|--------|--------|
 | JEDS-PRO-001 | Document Creation Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
 | JEDS-PRO-002 | Revision Control Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
+| JEDS-PRO-003 | 3D Model & Drawing Management Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
 
 ## Templates (TMP)
 

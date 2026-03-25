@@ -20,16 +20,14 @@ The `jeds/` directory contains a complete in-house documentation and quality man
 │   ├── registry/         # Master document register
 │   └── examples/         # Worked examples
 ├── blog/                 # Jekyll blog (GitHub Pages)
-├── 3d-modeling/          # 3D modeling projects
-│   ├── blender/          # Blender project files (.blend)
-│   ├── shapr3d/          # Shapr3D projects
-│   ├── build123d/        # build123d Python CAD scripts
-│   ├── references/       # Reference images and sketches
-│   └── exports/          # Exported models
-│       ├── stl/          # STL files (3D printing)
-│       ├── obj/          # OBJ files
-│       ├── gltf/         # glTF files (web/realtime)
-│       └── step/         # STEP files (CAD interchange)
+├── 3d-modeling/          # 3D modeling projects (JEDS-managed)
+│   ├── JEDS-DWG-NNN_name/ # One folder per project
+│   │   ├── README.md      # Project card
+│   │   ├── source/        # Working files (.blend, .shapr, .py)
+│   │   ├── exports/       # Output files (.stl, .step, .obj, .gltf)
+│   │   ├── references/    # Reference images, datasheets
+│   │   └── renders/       # Screenshots and renders
+│   └── _shared-references/ # Shared across all projects
 │
 ├── software-projects/    # Software development projects
 │

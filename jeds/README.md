@@ -22,6 +22,7 @@ Every document — whether it's a field service report, a 3D model drawing, a ti
 | Full quality manual | [Quality Manual](quality-manual/JEDS-QMS-000_quality-manual.md) |
 | How to create a new document | [Document Creation Procedure](procedures/JEDS-PRO-001_document-creation.md) |
 | How revisions work | [Revision Control Procedure](procedures/JEDS-PRO-002_revision-control.md) |
+| How 3D projects are managed | [3D Model Management Procedure](procedures/JEDS-PRO-003_3d-model-management.md) |
 | Document templates | [Templates folder](templates/) |
 | Master document list | [Document Registry](registry/document-register.md) |
 | Worked examples | [Examples folder](examples/) |
