@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""JDS PDF Generator — JDS-PRO-007 Information Design Standard.
+"""JDS PDF Generator — JDS-PRO-007 Information Design Standard (Rev B).
 
-Converts JDS markdown documents to PDF with Japanese information design
-principles: Ma (meaningful space), Bento (compartmented layout), Zukai
-(visual clarity), and Monozukuri (visible craftsmanship).
+Converts JDS markdown documents to PDF with a design philosophy that blends
+Japanese information design (Ma, Bento, Zukai, Monozukuri) with Apple-style
+softness and warmth. Playful but professional.
 
 Usage: python3 md2pdf.py <input.md> [output.pdf]
 """
@@ -11,8 +11,26 @@ Usage: python3 md2pdf.py <input.md> [output.pdf]
 import sys
 import os
 import re
+import base64
 import markdown
 from weasyprint import HTML
+
+# ---------------------------------------------------------------------------
+# Resolve the logo path relative to this script
+# ---------------------------------------------------------------------------
+
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+LOGO_PATH = os.path.join(SCRIPT_DIR, '..', 'jds', 'assets', 'logo.png')
+
+
+def get_logo_data_uri():
+    """Encode the logo as a base64 data URI for embedding in HTML."""
+    if not os.path.exists(LOGO_PATH):
+        return None
+    with open(LOGO_PATH, 'rb') as f:
+        data = base64.b64encode(f.read()).decode('utf-8')
+    return f'data:image/png;base64,{data}'
+
 
 # ---------------------------------------------------------------------------
 # Extract document metadata from the markdown header table
@@ -36,24 +54,33 @@ def extract_metadata(md_text):
 
 
 # ---------------------------------------------------------------------------
-# JDS-PRO-007 Compliant Stylesheet — Japanese Information Design
+# JDS-PRO-007 Rev B — Apple-Inspired Soft Design
 #
 # Design philosophy:
-#   Ma (間)        — Space has meaning. No accidental emptiness.
-#   Bento (弁当)   — Compact compartments. Each section self-contained.
-#   Zukai (図解)   — Visual clarity through structure, not decoration.
-#   Monozukuri     — Precision visible in every alignment and spacing choice.
+#   Rounded warmth  — Soft corners, subtle shadows, approachable
+#   Ma (間)         — Space has meaning. Every gap is intentional.
+#   Bento (弁当)    — Self-contained compartments with clear boundaries.
+#   Monozukuri      — Precision visible in every choice.
+#   Playful rigour  — Professional without being cold.
 #
-# References: PRO-007 §3 (three-level reading), §4 (typography),
-#             §5 (layout), §6 (colour), §7 (tables), §8 (Monozukuri)
+# Key changes from previous version:
+#   - Rounded corners on all containers (tables, blockquotes, code)
+#   - Subtle box-shadows for depth
+#   - Warmer colour temperature (warm blacks, soft grays)
+#   - Logo integrated into first page header
+#   - Softer table headers (no heavy navy rules)
+#   - More generous padding throughout
+#   - Card-like containers for metadata and tables
 # ---------------------------------------------------------------------------
 
 CSS = """
-/* === Page Setup — §5.1 ================================================= */
+/* ═══════════════════════════════════════════════════════════════════════════
+   PAGE SETUP
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 @page {{
     size: A4;
-    margin: 22mm 22mm 20mm 22mm;
+    margin: 24mm 24mm 22mm 24mm;
 
     @top-left {{
         content: "{doc_no}";
@@ -62,78 +89,121 @@ CSS = """
         color: #1B3A5C;
         font-family: 'Noto Sans', 'Inter', 'Calibri', sans-serif;
         letter-spacing: 0.5pt;
+        border-bottom: 0.5pt solid #e8ecf0;
+        padding-bottom: 6pt;
     }}
     @top-center {{
         content: string(doc-title);
         font-size: 7pt;
-        color: #8C8C8C;
+        color: #999;
         font-family: 'Noto Sans', 'Inter', 'Calibri', sans-serif;
+        border-bottom: 0.5pt solid #e8ecf0;
+        padding-bottom: 6pt;
     }}
     @top-right {{
         content: "UNCONTROLLED COPY";
         font-size: 6.5pt;
-        color: #aaa;
+        color: #bbb;
         font-family: 'Noto Sans', 'Inter', 'Calibri', sans-serif;
         letter-spacing: 0.3pt;
         text-transform: uppercase;
+        border-bottom: 0.5pt solid #e8ecf0;
+        padding-bottom: 6pt;
     }}
+
     @bottom-left {{
         content: "Rev {revision}";
         font-size: 7pt;
-        color: #8C8C8C;
+        color: #999;
         font-family: 'Noto Sans', 'Inter', 'Calibri', sans-serif;
+        border-top: 0.5pt solid #e8ecf0;
+        padding-top: 6pt;
     }}
     @bottom-center {{
         content: "Page " counter(page) " of " counter(pages);
         font-size: 7.5pt;
-        color: #8C8C8C;
+        color: #999;
         font-family: 'Noto Sans', 'Inter', 'Calibri', sans-serif;
+        border-top: 0.5pt solid #e8ecf0;
+        padding-top: 6pt;
     }}
     @bottom-right {{
         content: "{date}";
         font-size: 7pt;
-        color: #8C8C8C;
+        color: #999;
         font-family: 'Noto Sans', 'Inter', 'Calibri', sans-serif;
+        border-top: 0.5pt solid #e8ecf0;
+        padding-top: 6pt;
     }}
 }}
 
-/* First page: doc number but no title in header (visible in body) */
 @page :first {{
     @top-center {{ content: none; }}
 }}
 
-/* === Body — §4.2 ======================================================= */
+/* ═══════════════════════════════════════════════════════════════════════════
+   BODY — Warm, readable, generous
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 body {{
     font-family: 'Noto Sans', 'Inter', 'Calibri', sans-serif;
     font-size: 10pt;
-    line-height: 1.5;
-    color: #222;
+    line-height: 1.6;
+    color: #1d1d1f;
     text-align: left;
     orphans: 3;
     widows: 3;
 }}
 
-/* === Heading Hierarchy — §4.1 (4 levels) =============================== */
+/* ═══════════════════════════════════════════════════════════════════════════
+   LOGO HEADER — First page brand identity
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.logo-header {{
+    margin-bottom: 6pt;
+    line-height: 1;
+}}
+
+.logo-header img {{
+    width: 38pt;
+    height: 38pt;
+    vertical-align: middle;
+    margin-right: 10pt;
+    border-radius: 50%;
+}}
+
+.logo-header .brand-text {{
+    font-size: 7.5pt;
+    color: #86868b;
+    letter-spacing: 1.5pt;
+    text-transform: uppercase;
+    font-weight: 600;
+    vertical-align: middle;
+}}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   HEADING HIERARCHY — Warm navy, generous spacing
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 h1 {{
-    font-size: 18pt;
+    font-size: 22pt;
     font-weight: 700;
     color: #1B3A5C;
-    border-bottom: 1.5pt solid #1B3A5C;
-    padding-bottom: 5pt;
-    margin: 0 0 4pt 0;
+    border-bottom: 2.5pt solid #1B3A5C;
+    padding-bottom: 8pt;
+    margin: 4pt 0 8pt 0;
     string-set: doc-title content();
     letter-spacing: -0.3pt;
+    line-height: 1.2;
 }}
 
 h2 {{
-    font-size: 14pt;
+    font-size: 15pt;
     font-weight: 700;
     color: #1B3A5C;
-    border-bottom: 0.5pt solid #ccc;
-    padding-bottom: 3pt;
-    margin: 20pt 0 7pt 0;
+    margin: 28pt 0 12pt 0;
+    padding-bottom: 4pt;
+    border-bottom: 1pt solid #e8ecf0;
     page-break-after: avoid;
 }}
 
@@ -141,7 +211,7 @@ h3 {{
     font-size: 11.5pt;
     font-weight: 600;
     color: #4A90A4;
-    margin: 14pt 0 5pt 0;
+    margin: 20pt 0 8pt 0;
     page-break-after: avoid;
 }}
 
@@ -149,45 +219,52 @@ h4 {{
     font-size: 10.5pt;
     font-weight: 600;
     font-style: italic;
-    color: #444;
-    margin: 10pt 0 4pt 0;
+    color: #555;
+    margin: 14pt 0 6pt 0;
 }}
 
-/* === Metadata Table (first table) — Bento Identity Block =============== */
-/* Compact, refined. Not a data table — an identity strip. */
+/* ═══════════════════════════════════════════════════════════════════════════
+   METADATA IDENTITY CARD — Rounded, card-like, with soft background
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 table:first-of-type {{
     width: auto;
-    min-width: 55%;
-    max-width: 75%;
-    margin: 6pt 0 14pt 0;
+    min-width: 50%;
+    max-width: 65%;
+    margin: 8pt 0 20pt 0;
     font-size: 8.5pt;
-    border: none;
-    border-top: 2pt solid #1B3A5C;
-    border-bottom: 1pt solid #ccc;
+    border: 1pt solid #e8ecf0;
+    border-radius: 8pt;
+    overflow: hidden;
+    background: #fafbfc;
+    border-top: none;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    box-decoration-break: clone;
 }}
 
 table:first-of-type th,
 table:first-of-type td {{
     border: none;
-    border-bottom: 0.5pt solid #e0e0e0;
-    padding: 3pt 8pt;
+    border-bottom: 0.5pt solid #eef1f4;
+    padding: 5pt 12pt;
     background: none;
 }}
 
 table:first-of-type th {{
     background: none;
-    color: #8C8C8C;
+    color: #86868b;
     font-weight: 600;
     text-transform: uppercase;
     font-size: 7pt;
     letter-spacing: 0.5pt;
-    width: 30%;
+    width: 28%;
     vertical-align: top;
 }}
 
 table:first-of-type td {{
-    color: #222;
+    color: #1d1d1f;
     font-weight: 500;
 }}
 
@@ -200,36 +277,40 @@ table:first-of-type tr:last-child td {{
     border-bottom: none;
 }}
 
-/* === Data Tables — §7.3 ================================================ */
-/* Light header, clean lines. Not heavy navy blocks — refined precision. */
+/* ═══════════════════════════════════════════════════════════════════════════
+   DATA TABLES — Rounded card containers, soft headers
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 table {{
-    border-collapse: collapse;
+    border-collapse: separate;
+    border-spacing: 0;
     width: 100%;
-    margin: 6pt 0 10pt 0;
+    margin: 8pt 0 14pt 0;
     font-size: 9pt;
     page-break-inside: avoid;
-    border-top: 1.5pt solid #1B3A5C;
-    border-bottom: 1pt solid #1B3A5C;
+    border: 1pt solid #e2e6ea;
+    border-radius: 8pt;
+    overflow: hidden;
 }}
 
 th {{
-    background-color: #f0f3f6;
+    background-color: #f5f7f9;
     color: #1B3A5C;
     font-weight: 600;
     font-size: 8.5pt;
     text-align: left;
     text-transform: uppercase;
     letter-spacing: 0.3pt;
-    padding: 5pt 6pt;
-    border-bottom: 1pt solid #1B3A5C;
+    padding: 8pt 10pt;
+    border-bottom: 1pt solid #e2e6ea;
     border-left: none;
     border-right: none;
+    border-top: none;
 }}
 
 td {{
-    padding: 4pt 6pt;
-    border-bottom: 0.5pt solid #e0e0e0;
+    padding: 7pt 10pt;
+    border-bottom: 0.5pt solid #eef1f4;
     border-left: none;
     border-right: none;
     vertical-align: top;
@@ -244,103 +325,229 @@ tr:last-child td {{
     border-bottom: none;
 }}
 
-/* === Horizontal Rules — Ma Dividers ==================================== */
+/* First column of first row — top-left radius */
+th:first-child {{
+    border-top-left-radius: 7pt;
+}}
+
+/* Last column of first row — top-right radius */
+th:last-child {{
+    border-top-right-radius: 7pt;
+}}
+
+/* Bottom-left radius */
+tr:last-child td:first-child {{
+    border-bottom-left-radius: 7pt;
+}}
+
+/* Bottom-right radius */
+tr:last-child td:last-child {{
+    border-bottom-right-radius: 7pt;
+}}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   REVISION HISTORY TABLE — Compact, metadata feel
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+div.rev-history table {{
+    width: auto;
+    min-width: 70%;
+    max-width: 100%;
+    font-size: 8.5pt;
+    background: #fafbfc;
+}}
+
+div.rev-history th {{
+    background-color: transparent;
+    color: #86868b;
+    font-size: 7.5pt;
+    border-bottom: 0.5pt solid #e2e6ea;
+}}
+
+div.rev-history td {{
+    font-size: 8.5pt;
+    color: #555;
+}}
+
+div.rev-history tr:nth-child(even) {{
+    background: none;
+}}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   HORIZONTAL RULES — Soft dividers
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 hr {{
     border: none;
-    border-top: 0.5pt solid #ddd;
-    margin: 14pt 0;
+    border-top: 1pt solid #eef1f4;
+    margin: 20pt 0;
 }}
 
-/* === Blockquotes — Callout Strips ====================================== */
+/* ═══════════════════════════════════════════════════════════════════════════
+   BLOCKQUOTES — Rounded callout cards
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 blockquote {{
-    border-left: 2pt solid #4A90A4;
-    margin: 8pt 0;
-    padding: 6pt 12pt;
-    background-color: #f7f9fb;
-    color: #333;
+    border-left: 3pt solid #4A90A4;
+    margin: 14pt 0;
+    padding: 10pt 16pt;
+    background-color: #f0f6f9;
+    border-radius: 0 8pt 8pt 0;
+    color: #2c2c2e;
     font-size: 9.5pt;
-    font-style: italic;
 }}
 
 blockquote p {{
-    margin: 0 0 4pt 0;
+    margin: 0 0 6pt 0;
 }}
 
-/* === Code — §4.3 ======================================================= */
+blockquote p:last-child {{
+    margin-bottom: 0;
+}}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   CODE — Rounded pill for inline, rounded block for pre
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 code {{
     font-family: 'DejaVu Sans Mono', 'Consolas', monospace;
-    background-color: #f5f5f5;
-    padding: 0.5pt 2.5pt;
+    background-color: #f2f3f5;
+    padding: 1.5pt 5pt;
     font-size: 8.5pt;
-    border-radius: 1.5pt;
+    border-radius: 4pt;
     color: #1B3A5C;
 }}
 
 pre {{
-    background-color: #f8f8f8;
-    padding: 8pt 10pt;
-    border-left: 2pt solid #ccc;
-    border-radius: 0;
+    background-color: #f8f9fa;
+    padding: 12pt 14pt;
+    border-left: 3pt solid #d1d5db;
+    border-radius: 0 8pt 8pt 0;
     font-size: 8pt;
-    line-height: 1.4;
+    line-height: 1.5;
     overflow-x: auto;
     page-break-inside: avoid;
-    margin: 6pt 0 10pt 0;
+    margin: 8pt 0 14pt 0;
 }}
 
 pre code {{
     background: none;
     padding: 0;
     color: #333;
+    border-radius: 0;
 }}
 
-/* === Lists ============================================================= */
+/* ═══════════════════════════════════════════════════════════════════════════
+   LISTS — Generous spacing, warm bullets
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 ul, ol {{
-    margin: 4pt 0 6pt 0;
-    padding-left: 18pt;
+    margin: 6pt 0 8pt 0;
+    padding-left: 20pt;
 }}
 
 li {{
-    margin-bottom: 2pt;
-    line-height: 1.45;
+    margin-bottom: 4pt;
+    line-height: 1.6;
+}}
+
+li > ul, li > ol {{
+    margin-top: 4pt;
+    margin-bottom: 0;
 }}
 
 li input[type="checkbox"] {{
-    margin-right: 3pt;
+    margin-right: 4pt;
 }}
 
-/* === Links — Steel Blue ================================================ */
+/* ═══════════════════════════════════════════════════════════════════════════
+   LINKS — Steel Blue, no underline
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 a {{
     color: #4A90A4;
     text-decoration: none;
 }}
 
-/* === Paragraphs — §4.2 ================================================= */
+/* ═══════════════════════════════════════════════════════════════════════════
+   PARAGRAPHS
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 p {{
-    margin: 0 0 6pt 0;
+    margin: 0 0 8pt 0;
 }}
 
 strong {{
-    color: #111;
+    color: #1d1d1f;
     font-weight: 600;
 }}
 
-/* === Print helpers ====================================================== */
+em {{
+    color: #333;
+}}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PRINT HELPERS
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 h2, h3 {{
     page-break-after: avoid;
 }}
 
+h1, h2, h3, h4 {{
+    page-break-inside: avoid;
+}}
+
 table, pre, blockquote {{
     page-break-inside: avoid;
 }}
+
+h2 + *, h3 + * {{
+    page-break-before: avoid;
+}}
 """
+
+
+def wrap_revision_history(html_content):
+    """Wrap the last table in a div.rev-history container."""
+    last_table_pos = html_content.rfind('<table>')
+    if last_table_pos == -1:
+        return html_content
+
+    preceding = html_content[:last_table_pos]
+    if 'Revision History' in preceding[max(0, len(preceding)-200):]:
+        closing_pos = html_content.find('</table>', last_table_pos)
+        if closing_pos != -1:
+            closing_pos += len('</table>')
+            table_html = html_content[last_table_pos:closing_pos]
+            html_content = (
+                html_content[:last_table_pos]
+                + '<div class="rev-history">'
+                + table_html
+                + '</div>'
+                + html_content[closing_pos:]
+            )
+    return html_content
+
+
+def inject_logo_header(html_content, logo_uri):
+    """Inject a logo + brand name header at the top of the body."""
+    if not logo_uri:
+        return html_content
+
+    logo_html = (
+        '<div class="logo-header">'
+        f'<img src="{logo_uri}" alt="Logo">'
+        '<span class="brand-text">Johansson Engineering</span>'
+        '</div>'
+    )
+
+    # Insert before the first <h1> (which may have attributes like id="...")
+    h1_match = re.search(r'<h1[\s>]', html_content)
+    if h1_match:
+        pos = h1_match.start()
+        html_content = html_content[:pos] + logo_html + html_content[pos:]
+    return html_content
 
 
 def md_to_pdf(input_path, output_path=None):
@@ -367,6 +574,13 @@ def md_to_pdf(input_path, output_path=None):
         md_content,
         extensions=["tables", "fenced_code", "toc", "sane_lists"],
     )
+
+    # Post-process: wrap revision history table
+    html_content = wrap_revision_history(html_content)
+
+    # Post-process: inject logo header
+    logo_uri = get_logo_data_uri()
+    html_content = inject_logo_header(html_content, logo_uri)
 
     full_html = f"""<!DOCTYPE html>
 <html lang="en">
