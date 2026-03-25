@@ -65,7 +65,14 @@ JDS is a living system. Every session should leave the repo better than it was f
 - `/new-doc` — Create a new document following all JDS procedures
 - `/pdf` — Generate a JDS-compliant PDF from markdown
 
-### Continuous Improvement Cycle (Kaizen)
+### Language Policy
+- JDS is 100% English. JDS owns its terminology — foreign terms are never primary labels.
+- Japanese design terms: Active Space (not Ma), Compartment Design (not Bento), Visual Explanation (not Zukai), Craft Precision (not Monozukuri)
+- Swedish regulatory terms: Ongoing Maintenance Program (not Fortlöpande Tillsyn), Supervision Checklist (not Tillsynsprotokoll), Inspection Plan (not Kontrollplan)
+- Regulatory traceability goes in separate matrix documents, never embedded in working procedures
+- See QMS-000 §15 for the full policy
+
+### Continuous Improvement Cycle
 When you notice something that could be improved:
 1. **Fix it now** if small (< 5 min)
 2. **Log it** in `jds/registry/corrective-action-log.md` if larger
@@ -127,9 +134,9 @@ All PDFs exported from JDS documents MUST follow JDS-PRO-007 (Information Design
 - PDF generators auto-select the correct category colour variant based on document number
 - To regenerate variants: `python3 scripts/logo-variants.py`
 
-### Monozukuri Self-Check (§8.1 — before issuing)
+### Craft Precision Self-Check (§8.1 — before issuing)
 - Headings follow 4-level hierarchy consistently
-- White space (ma) separates sections clearly
+- Active space separates sections clearly
 - Status block is complete and accurate
 - Document works at all three reading levels: glance (0.5s), scan (5s), read (minutes)
 
@@ -142,4 +149,4 @@ When any formatting, styling, layout, or content issue is found:
 5. **Log the corrective action** — record in `jds/registry/corrective-action-log.md`
 6. **Bump the version** — update `jds/README.md` and `jds/CHANGELOG.md`
 
-This is the JDS Kaizen cycle. The system must get better every session, never worse.
+This is the JDS continuous improvement cycle. The system must get better every session, never worse.

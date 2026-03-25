@@ -1,4 +1,4 @@
-# Kontrollplan — Annual Inspection Plan
+# Annual Inspection Plan
 
 | | |
 |---|---|
@@ -6,7 +6,7 @@
 | **Revision** | DRAFT |
 | **Date** | YYYY-MM-DD |
 | **Status** | DRAFT |
-| **Author** | Nils Johansson |
+| **Author** | [Author name] |
 | **Project** | JDS-PRJ-MEC-001 |
 | **Client** | [Client name] |
 | **Site** | [Site name] |
@@ -16,7 +16,7 @@
 
 ## 1. Purpose
 
-This document is the annual inspection plan (kontrollplan) for all pressurised vessels at [site name]. It schedules every formal inspection and routine supervision for the calendar year, ensuring AFS 2017:3 compliance.
+This document is the annual inspection plan for all pressurised vessels at [site name]. It schedules every formal inspection and routine supervision for the calendar year under the Ongoing Maintenance Program.
 
 ---
 
@@ -24,12 +24,12 @@ This document is the annual inspection plan (kontrollplan) for all pressurised v
 
 | Vessel ID | Type | Due Date | Inspector | Booked | Status |
 |-----------|------|----------|-----------|--------|--------|
-| | Utvändig | | | Yes / No | Planned / Done / Overdue |
-| | Invändig | | | Yes / No | Planned / Done / Overdue |
-| | Tryckprov | | | Yes / No | Planned / Done / Overdue |
-| | Utvändig | | | Yes / No | Planned / Done / Overdue |
+| | External | | | Yes / No | Planned / Done / Overdue |
+| | Internal | | | Yes / No | Planned / Done / Overdue |
+| | Pressure test | | | Yes / No | Planned / Done / Overdue |
+| | External | | | Yes / No | Planned / Done / Overdue |
 
-**Type codes:** Utvändig = External / Invändig = Internal revision / Tryckprov = Pressure test / FK = Första kontroll
+**Type codes:** External = External visual inspection / Internal = Internal examination / Pressure test = Hydrostatic or pneumatic test / Initial = First inspection
 
 ---
 
@@ -42,7 +42,7 @@ This document is the annual inspection plan (kontrollplan) for all pressurised v
 
 ---
 
-## 4. Routine Tillsyn Schedule
+## 4. Routine Supervision Schedule
 
 | Month | Planned | Done | Inspected By | Protocol No. |
 |-------|---------|------|-------------|-------------|
@@ -63,8 +63,8 @@ This document is the annual inspection plan (kontrollplan) for all pressurised v
 
 ## 5. Quarterly Summary
 
-| Quarter | Inspections Planned | Completed | Overdue | Tillsyn Done |
-|---------|-------------------|-----------|---------|-------------|
+| Quarter | Inspections Planned | Completed | Overdue | Supervision Done |
+|---------|-------------------|-----------|---------|-----------------|
 | Q1 | | | | |
 | Q2 | | | | |
 | Q3 | | | | |
@@ -80,7 +80,7 @@ This document is the annual inspection plan (kontrollplan) for all pressurised v
 | All findings closed | Yes / No | |
 | All overdue items resolved | Yes / No | |
 | Equipment register updated | Yes / No | |
-| Next year's kontrollplan started | Yes / No | |
+| Next year's inspection plan started | Yes / No | |
 
 ---
 

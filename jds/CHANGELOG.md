@@ -4,20 +4,38 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [3.0] — 2026-03-25
+
+### Added — Language Policy & Authority
+- **JDS-QMS-000 Rev E** — Added §15 Language Policy. JDS is 100% English. All foreign loan words replaced with JDS-owned English terminology. Terminology map established.
+- **Regulatory Traceability Matrix** — New supplemental document mapping every JDS-PRO-010 requirement to AFS 2017:3 sections. Working procedures are clean; compliance evidence is separate.
+
+### Changed — Language Authority Cleanup
+- **JDS-PRO-010 Rev B** — Complete English rewrite. All Swedish terms removed from working procedure. Renamed from `fortlopande-tillsyn` to `ongoing-maintenance`.
+- **JDS-PRO-007 Rev D** — All Japanese terms replaced with JDS English terms: Active Space (was Ma), Compartment Design (was Bento), Visual Explanation (was Zukai), Craft Precision (was Monozukuri).
+- **JDS-PRJ-MEC-001 Rev C** — Project README cleaned of all Swedish terminology.
+- **JDS-TMP-LOG-002** renamed to `supervision-inventory-template` — English rewrite
+- **JDS-TMP-LOG-003** renamed to `supervision-checklist-template` — English rewrite
+- **JDS-TMP-LOG-004** renamed to `inspection-plan-template` — English rewrite
+- **Document Registry** updated with new filenames, titles, and revision numbers
+- **Design Principles table** in QMS-000 now uses JDS English terms throughout
+
+### Language Authority
+- JDS defines its own terminology. Foreign sources (Swedish regulation, Japanese design, Russian documentation) are acknowledged influences, but JDS English terms are always primary.
+
+---
+
 ## [2.9] — 2026-03-25
 
-### Added — Fortlöpande Tillsyn (FLT) System
-- **JDS-PRO-010**: Fortlöpande Tillsyn Procedure — complete FLT workflow for AFS 2017:3 ongoing maintenance programs. Covers setup, annual cycle, inspection handling, findings management.
-- **JDS-TMP-LOG-002**: FLT Inventory Template — equipment register for client sites
-- **JDS-TMP-LOG-003**: Tillsynsprotokoll Template — routine supervision checklist (tillsyn walk-around)
-- **JDS-TMP-LOG-004**: Kontrollplan Template — annual inspection plan with quarterly tracking
+### Added — Ongoing Maintenance Program
+- **JDS-PRO-010**: Ongoing Maintenance Program Procedure — complete workflow for AFS 2017:3 ongoing maintenance programs. Covers setup, annual cycle, inspection handling, findings management.
+- **JDS-TMP-LOG-002**: Supervision Inventory Template — equipment register for client sites
+- **JDS-TMP-LOG-003**: Supervision Checklist Template — routine supervision checklist
+- **JDS-TMP-LOG-004**: Annual Inspection Plan Template — annual inspection plan with quarterly tracking
 - **JDS-TMP-RPT-003**: Inspection Report Template — post-inspection documentation with findings, wall thickness, and sign-off
 
 ### Changed
-- **JDS-PRJ-MEC-001** updated to Rev B — FLT workflow integrated, active program folder structure documented, all templates and procedures linked
-
-### Language Note
-- JDS is 100% English. Swedish regulatory terms (Fortlöpande Tillsyn, Tillsynsprotokoll, Kontrollplan, etc.) are always explained in English on first use.
+- **JDS-PRJ-MEC-001** updated to Rev B — Maintenance workflow integrated, active program folder structure documented, all templates and procedures linked
 
 ---
 

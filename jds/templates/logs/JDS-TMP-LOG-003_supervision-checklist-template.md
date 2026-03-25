@@ -1,4 +1,4 @@
-# Tillsynsprotokoll — Routine Supervision Checklist
+# Supervision Checklist — Routine Walk-Around
 
 | | |
 |---|---|
@@ -15,7 +15,7 @@
 
 ## 1. Purpose
 
-This checklist documents routine **tillsyn** (supervision) of pressurised vessels between formal inspections, as required by AFS 2017:3. The operator shall perform regular monitoring to ensure safe operation.
+This checklist documents routine supervision of pressurised vessels between formal inspections. The operator shall perform regular monitoring to ensure safe operation as part of the Ongoing Maintenance Program.
 
 ---
 
@@ -86,7 +86,7 @@ This checklist documents routine **tillsyn** (supervision) of pressurised vessel
 |---|---|
 | **Inspected by** | [Name, signature] |
 | **Date** | YYYY-MM-DD |
-| **Next scheduled tillsyn** | YYYY-MM-DD |
+| **Next scheduled supervision** | YYYY-MM-DD |
 
 ---
 

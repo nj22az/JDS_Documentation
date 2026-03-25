@@ -1,4 +1,4 @@
-# Fortlöpande Tillsyn — Equipment Inventory
+# Equipment Inventory — Ongoing Maintenance Program
 
 | | |
 |---|---|
@@ -6,17 +6,16 @@
 | **Revision** | DRAFT |
 | **Date** | YYYY-MM-DD |
 | **Status** | DRAFT |
-| **Author** | Nils Johansson |
+| **Author** | [Author name] |
 | **Project** | JDS-PRJ-MEC-001 |
 | **Client** | [Client name] |
 | **Site** | [Site name / address] |
-| **Regulatory Basis** | AFS 2017:3 |
 
 ---
 
 ## 1. Purpose
 
-This register is the master inventory of all pressurised vessels at [site name] under the Fortlöpande Tillsyn (FLT) program. It satisfies the förteckning requirement of AFS 2017:3.
+This register is the master inventory of all pressurised vessels at [site name] under the Ongoing Maintenance Program. It provides the complete equipment record required for regulatory compliance.
 
 ---
 
@@ -42,7 +41,7 @@ This register is the master inventory of all pressurised vessels at [site name] 
 
 ## 4. Regulatory Classification
 
-| Vessel ID | Fluid Group | PED Category | AFS Klass | CE Marked | EU DoC on file |
+| Vessel ID | Fluid Group | PED Category | Risk Class | CE Marked | EU DoC on file |
 |-----------|------------|-------------|-----------|-----------|---------------|
 | PV-001 | 1 / 2 | I–IV / Art.4.3 | A / B | Yes / No | Yes / No |
 | PV-002 | 1 / 2 | I–IV / Art.4.3 | A / B | Yes / No | Yes / No |
@@ -58,7 +57,7 @@ This register is the master inventory of all pressurised vessels at [site name] 
 | PV-002 | | | | | | |
 | PV-003 | | | | | | |
 
-**Result:** GODKÄND / GODKÄND MED ANMÄRKNING / UNDERKÄND
+**Result:** APPROVED / APPROVED WITH REMARKS / REJECTED
 
 **Status:** IN SERVICE / OUT OF SERVICE / AWAITING INSPECTION / DECOMMISSIONED
 
@@ -83,7 +82,7 @@ This register is the master inventory of all pressurised vessels at [site name] 
 | Nameplate photo on file | | | |
 | EU DoC on file | | | |
 | Risk assessment done | | | |
-| AFS Klass confirmed | | | |
+| Risk class confirmed | | | |
 | Safety devices documented | | | |
 | Current certificate on file | | | |
 | Next inspection not overdue | | | |
