@@ -4,6 +4,21 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [2.5] — 2026-03-25
+
+### Added
+- **JDS-TMP-COR-001**: Cold Introduction Letter Template — old-world stationery design with Johansson Engineering 1983 stamp letterhead
+- **md2letter.py**: Dedicated letter PDF generator — serif typography (Noto Serif Display), engraved-style letterhead, ornamental dividers, "Est. 1983" footer
+- **jds/assets/logo.png**: Johansson Engineering 1983 circular stamp logo (sailor, anchor, girl with wrench) — cropped to square, replaces old text logo
+- **jds/assets/fonts/**: Bundled M PLUS Rounded 1c font for consistent rendering
+- **jds/templates/correspondence/**: New template category for business letters
+
+### Changed
+- **md2pdf.py** redesigned with Apple-style warmth — rounded corners, card containers, soft table headers, warmer colour temperature (#1d1d1f warm black), logo integration via base64 data URI
+- **Document Registry** updated with JDS-TMP-COR-001
+
+---
+
 ## [2.4] — 2026-03-25
 
 ### Changed
