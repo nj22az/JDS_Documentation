@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-QMS-000 |
-| **Revision** | C |
+| **Revision** | D |
 | **Date** | 2026-03-25 |
 | **Status** | APPROVED |
 | **Author** | Nils Johansson |
@@ -183,7 +183,17 @@ The documentation system itself shall be reviewed annually (or after significant
 
 Review findings are recorded in a Management Review Report (JDS-RPT series) or as a Git commit.
 
-## 13. Continuous Improvement
+## 13. Corrective Action
+
+When nonconformances are found — whether in deliverables, documentation, or processes — they are systematically investigated and corrected using [JDS-PRO-008](../procedures/JDS-PRO-008_corrective-action.md). This procedure satisfies ISO 9001:2015 clause 10.2 and ensures:
+
+- Immediate containment of the problem
+- Root cause analysis using the 5 Whys method
+- Corrective action to prevent recurrence
+- Horizontal deployment (Samsung principle) — checking where else the same problem could occur
+- Tracking in the [Corrective Action Log](../registry/corrective-action-log.md)
+
+## 14. Continuous Improvement
 
 Improvements to the system can come from:
 
@@ -192,11 +202,12 @@ Improvements to the system can come from:
 - Feedback from clients or collaborators
 - Quarterly 5S audits
 - Annual management review
+- Corrective action findings
 - Study of external best practices (technology absorption)
 
 All improvement actions are tracked through the revision control process and recorded in the [JDS CHANGELOG](../CHANGELOG.md).
 
-### 13.1 Technology Absorption
+### 14.1 Technology Absorption
 
 When new tools, methods, or standards are studied and adopted, the learning process is documented:
 - What was studied
@@ -206,7 +217,7 @@ When new tools, methods, or standards are studied and adopted, the learning proc
 
 This practice, drawn from Chinese engineering tradition, builds a compounding knowledge base over time.
 
-## 14. Information Design
+## 15. Information Design
 
 Documents are not just carriers of information — they are engineered artifacts. The visual presentation of a document is inseparable from its content. JDS follows the Japanese information design tradition, codified in [JDS-PRO-007](../procedures/JDS-PRO-007_information-design.md).
 
@@ -219,13 +230,13 @@ Documents are not just carriers of information — they are engineered artifacts
 
 > *The quality of your documentation is the visible surface of the quality of your engineering.* — Monozukuri principle
 
-## 15. Heritage and Reuse
+## 16. Heritage and Reuse
 
 When starting a new project, explicitly identify what is reused from previous work versus what is new. Only fully document new elements. Reference previous project documentation for heritage items. This practice, drawn from ISRO's frugal engineering tradition, can reduce documentation effort by 50–70% on repeat projects.
 
 Implementation: every project README should include a "Heritage" section listing reused elements and their source.
 
-## 16. Tiered Change Control
+## 17. Tiered Change Control
 
 Not all changes deserve the same documentation overhead. JDS uses three tiers, adapted from Embraer's aerospace practice:
 
@@ -235,7 +246,7 @@ Not all changes deserve the same documentation overhead. JDS uses three tiers, a
 | **Quality-Affecting** | Changes to technical content, calculations, or specifications | Revision with documented rationale |
 | **Administrative** | Typos, formatting, broken links | Git commit with descriptive message, same revision letter |
 
-## 17. Knowledge Gaps and Documentation Confidence
+## 18. Knowledge Gaps and Documentation Confidence
 
 For projects at the edge of proven experience, explicitly document what you do NOT know. This practice, drawn from Petrobras' deepwater engineering, prevents the dangerous illusion of complete knowledge.
 
@@ -252,7 +263,7 @@ For projects at the edge of proven experience, explicitly document what you do N
 
 Use these to mark critical data points in reports and specifications.
 
-## 18. Design Principles
+## 19. Design Principles
 
 JDS incorporates the best principles from global documentation traditions:
 
@@ -289,3 +300,4 @@ JDS incorporates the best principles from global documentation traditions:
 | A | 2026-03-25 | Nils Johansson | Initial release |
 | B | 2026-03-25 | Nils Johansson | Added Komplekt concept, 5S document management, classification tiers, before/after tracking, design principles from global best practices, technology absorption, archive structure |
 | C | 2026-03-25 | Nils Johansson | Added Information Design (Japanese), Heritage & Reuse (ISRO), Tiered Change Control (Embraer), Knowledge Gaps & Documentation Confidence (Petrobras/Baikonur), expanded design principles table with 21 principles from 15+ global traditions |
+| D | 2026-03-25 | Nils Johansson | Added Corrective Action section (§13) with reference to JDS-PRO-008, ISO 9001:2015 clause 10.2 alignment |

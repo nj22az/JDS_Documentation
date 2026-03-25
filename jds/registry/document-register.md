@@ -10,7 +10,7 @@ This is the master list of all documents in the JDS system. Every document must 
 
 | Doc No. | Title | Rev | Date | Status | Author |
 |---------|-------|-----|------|--------|--------|
-| [JDS-QMS-000](../quality-manual/JDS-QMS-000_quality-manual.md) | Quality Manual | C | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-QMS-000](../quality-manual/JDS-QMS-000_quality-manual.md) | Quality Manual | D | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-QMS-001](../quality-manual/JDS-QMS-001_document-numbering.md) | Document Numbering Standard | C | 2026-03-25 | APPROVED | N. Johansson |
 
 ## Procedures (PRO)
@@ -24,6 +24,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | [JDS-PRO-005](../procedures/JDS-PRO-005_document-review-audit.md) | Document Review & Audit Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-PRO-006](../procedures/JDS-PRO-006_project-komplekt.md) | Project Komplekt Standard | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-PRO-007](../procedures/JDS-PRO-007_information-design.md) | Information Design Standard | A | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-PRO-008](../procedures/JDS-PRO-008_corrective-action.md) | Corrective Action Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
 
 ## Templates (TMP)
 
@@ -37,6 +38,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | [JDS-TMP-PRJ-001](../templates/projects/JDS-TMP-PRJ-001_project-template.md) | Project Document Template | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-TMP-BLG-001](../templates/blog-posts/JDS-TMP-BLG-001_blog-post-template.md) | Blog Post Template | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-TMP-LOG-001](../templates/logs/JDS-TMP-LOG-001_pressure-vessel-inventory-template.md) | Pressure Vessel Inventory Template | A | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-TMP-RPT-002](../templates/reports/JDS-TMP-RPT-002_management-review-template.md) | Management Review Record Template | A | 2026-03-25 | APPROVED | N. Johansson |
 
 ## Reports (RPT)
 
