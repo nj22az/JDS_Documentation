@@ -1,73 +1,121 @@
 # Pressure Vessel Ongoing Maintenance Program
 
-> **JDS-PRJ-MEC-001** | **Rev A** | **CURRENT** | 2026-03-25 | N. Johansson
+| | |
+|---|---|
+| **Document No.** | JDS-PRJ-MEC-001 |
+| **Revision** | B |
+| **Date** | 2026-03-25 |
+| **Status** | CURRENT |
+| **Author** | N. Johansson |
 
 ---
 
 ## What Is This?
 
-A complete, reusable service for managing ongoing maintenance and inspection of pressurised vessels. Built on Swedish regulations (AFS 2017:3) as the foundation, but designed so it can be adapted to any country's requirements.
+A complete, reusable service for managing **Fortlöpande Tillsyn (FLT)** — ongoing maintenance and inspection of pressurised vessels. Built on Swedish regulations (AFS 2017:3) as the foundation, designed to be adapted to any country's requirements.
 
 This is a service you can offer to clients: *"I will set up and manage your pressure vessel maintenance program, ensuring regulatory compliance and full documentation traceability."*
+
+The JDS system drives the entire FLT workflow — every inventory, inspection plan, supervision round, and inspection report is a JDS document with full traceability.
+
+---
+
+## The FLT Cycle
+
+```
+SET UP → INVENTORY → CLASSIFY → PLAN → INSPECT → REPORT → UPDATE → REPEAT
+  │         │           │         │        │         │         │
+  │     TMP-LOG-002  Reg.Ref   TMP-LOG-004  Accredited  TMP-RPT-003  Equipment
+  │     (inventory)            (kontrollplan) Inspector  (report)     Register
+  │                                                                   Update
+  └── JDS-PRO-010 (master procedure) governs every step
+```
+
+---
 
 ## How This Program Is Organised
 
 ```
 JDS-PRJ-MEC-001_pressure-vessel-maintenance/
 │
-├── 01-framework/                ← UNIVERSAL (works in any country)
-│   ├── equipment-register.md    ← Master inventory of all vessels
-│   ├── inspection-planning.md   ← How to schedule inspections
-│   └── documentation-guide.md   ← What records you must keep
+├── 01-framework/                         ← UNIVERSAL (works in any country)
+│   ├── JDS-LOG-MEC-001_equipment-register.md   ← Master register template
+│   ├── JDS-PRO-004_inspection-planning.md      ← How to schedule inspections
+│   └── JDS-MAN-MEC-001_documentation-guide.md  ← What records you must keep
 │
-├── 02-regulations/              ← COUNTRY-SPECIFIC rules
-│   ├── SE-sweden/               ← Swedish rules (AFS 2017:3)
-│   └── [add countries here]/    ← Norway, Germany, etc.
+├── 02-regulations/                       ← COUNTRY-SPECIFIC rules
+│   └── SE-sweden/
+│       └── regulatory-reference.md       ← AFS 2017:3 practical reference
 │
-├── 03-active-programs/          ← CLIENT WORK (real inventories)
-│   └── [client-name]/           ← One folder per client
+├── 03-active-programs/                   ← CLIENT WORK (real data)
+│   ├── JDS-LOG-MEC-002_*.md              ← AFS 2017:3 inventory guide
+│   └── [client-name]/                    ← One folder per client
+│       ├── JDS-LOG-MEC-NNN_inventory.md  ← Client equipment register
+│       ├── JDS-LOG-MEC-NNN_kontrollplan.md ← Annual inspection plan
+│       ├── inspections/                  ← JDS-RPT-MEC-NNN reports
+│       ├── tillsyn/                      ← JDS-LOG-MEC-NNN checklists
+│       ├── certificates/                 ← Inspector certificates
+│       └── vessel-files/                 ← Per-vessel documentation
 │
-└── CHANGELOG.md                 ← Master log of ALL changes
+└── CHANGELOG.md                          ← Master log of ALL changes
 ```
 
-### What goes where?
+---
 
-| Folder | What's in it | When it changes |
-|--------|-------------|-----------------|
-| **01-framework/** | The universal building blocks — equipment register template, inspection logic, documentation requirements. Works regardless of country. | Only when you improve the service itself |
-| **02-regulations/** | Country-specific rules and requirements. Each country has its own subfolder. | When regulations change or you add a new country |
-| **03-active-programs/** | Real client work. Each client has their own subfolder with their actual equipment register, inspection schedules, and reports. | During active client work |
+## How to Run an FLT Program
+
+Follow **JDS-PRO-010** (Fortlöpande Tillsyn Procedure) for the complete workflow. Quick reference:
+
+| Step | What to Do | JDS Template |
+|------|-----------|-------------|
+| 1. Create client folder | Set up `03-active-programs/[client]/` | — |
+| 2. Build equipment register | Walk the site, record every vessel | JDS-TMP-LOG-002 |
+| 3. Classify vessels | Determine AFS Klass A/B, PED category | Regulatory reference |
+| 4. Build kontrollplan | Schedule all inspections for the year | JDS-TMP-LOG-004 |
+| 5. Perform tillsyn | Regular supervision walk-arounds | JDS-TMP-LOG-003 |
+| 6. Perform inspections | Accredited inspector (Klass A) or own (Klass B) | JDS-TMP-RPT-003 |
+| 7. Report and update | Document findings, update register | JDS-PRO-008 |
+
+---
+
+## Related Documents
+
+### Procedures
+
+| Doc No. | Title |
+|---------|-------|
+| JDS-PRO-010 | Fortlöpande Tillsyn (FLT) Procedure |
+| JDS-PRO-004 | Inspection Planning Procedure |
+| JDS-PRO-008 | Corrective Action Procedure |
+| JDS-PRO-009 | Competence Management Procedure |
+
+### Templates
+
+| Doc No. | Title | Use |
+|---------|-------|-----|
+| JDS-TMP-LOG-002 | FLT Inventory Template | Equipment register |
+| JDS-TMP-LOG-003 | Tillsynsprotokoll Template | Supervision checklists |
+| JDS-TMP-LOG-004 | Kontrollplan Template | Annual inspection plan |
+| JDS-TMP-RPT-003 | Inspection Report Template | Post-inspection reports |
+
+### Framework
+
+| Doc No. | Title |
+|---------|-------|
+| JDS-LOG-MEC-001 | Equipment Register (Framework) |
+| JDS-MAN-MEC-001 | Documentation Guide |
+| JDS-LOG-MEC-002 | AFS 2017:3 Inventory Guide |
+
+---
 
 ## How to Expand to a New Country
 
 1. Create a new folder under `02-regulations/` (e.g., `NO-norway/`)
 2. Document that country's pressure vessel regulations
-3. Map their requirements to the framework categories
-4. The equipment register and inspection planning from `01-framework/` still apply — just reference the new country's inspection intervals and categories
+3. Map their inspection types and intervals to the framework
+4. The templates and procedures still apply — only the regulatory reference changes
 
 **You never touch the Swedish files to add another country.**
-
-## Related Documents
-
-| Doc No. | Title | Location |
-|---------|-------|----------|
-| JDS-LOG-MEC-001 | Equipment Register (Framework Template) | `01-framework/equipment-register.md` |
-| JDS-PRO-004 | Inspection Planning Procedure | `01-framework/inspection-planning.md` |
-| JDS-MAN-MEC-001 | Documentation Guide | `01-framework/documentation-guide.md` |
-
-## How to Know You Have the Latest Version
-
-Every document in this program has a status block at the very top:
-
-```
-> JDS-XXX-MEC-NNN | Rev A | CURRENT | 2026-03-25 | N. Johansson
-```
-
-- **CURRENT** = This is the version you should use
-- **SUPERSEDED** = A newer version exists — do NOT use this
-- **DRAFT** = Not yet approved
-
-The **CHANGELOG.md** in this folder logs every single change across all documents. Open it to see the full history.
 
 ---
 
@@ -76,3 +124,4 @@ The **CHANGELOG.md** in this folder logs every single change across all document
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
 | A | 2026-03-25 | N. Johansson | Initial release — project structure and framework |
+| B | 2026-03-25 | N. Johansson | Added FLT workflow, linked to PRO-010, templates, and active program structure |

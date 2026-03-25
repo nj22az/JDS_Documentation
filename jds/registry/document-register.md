@@ -27,6 +27,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | [JDS-PRO-007](../procedures/JDS-PRO-007_information-design.md) | Information Design Standard | C | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-PRO-008](../procedures/JDS-PRO-008_corrective-action.md) | Corrective Action Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-PRO-009](../procedures/JDS-PRO-009_competence-management.md) | Competence Management Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-PRO-010](../procedures/JDS-PRO-010_fortlopande-tillsyn.md) | Fortlöpande Tillsyn (FLT) Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
 
 ## Templates (TMP)
 
@@ -42,6 +43,10 @@ This is the master list of all documents in the JDS system. Every document must 
 | [JDS-TMP-LOG-001](../templates/logs/JDS-TMP-LOG-001_pressure-vessel-inventory-template.md) | Pressure Vessel Inventory Template | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-TMP-RPT-002](../templates/reports/JDS-TMP-RPT-002_management-review-template.md) | Management Review Record Template | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-TMP-COR-001](../templates/correspondence/JDS-TMP-COR-001_cold-letter-template.md) | Cold Introduction Letter Template | A | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-TMP-LOG-002](../templates/logs/JDS-TMP-LOG-002_flt-inventory-template.md) | FLT Inventory Template | A | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-TMP-LOG-003](../templates/logs/JDS-TMP-LOG-003_tillsynsprotokoll-template.md) | Tillsynsprotokoll (Supervision Checklist) Template | A | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-TMP-LOG-004](../templates/logs/JDS-TMP-LOG-004_kontrollplan-template.md) | Kontrollplan (Annual Inspection Plan) Template | A | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-TMP-RPT-003](../templates/reports/JDS-TMP-RPT-003_inspection-report-template.md) | Inspection Report Template | A | 2026-03-25 | APPROVED | N. Johansson |
 
 ## Reports (RPT)
 
@@ -65,7 +70,7 @@ This is the master list of all documents in the JDS system. Every document must 
 
 | Doc No. | Title | Rev | Date | Status | Author |
 |---------|-------|-----|------|--------|--------|
-| [JDS-PRJ-MEC-001](../../projects/JDS-PRJ-MEC-001_pressure-vessel-maintenance/README.md) | Pressure Vessel Ongoing Maintenance Program | A | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-PRJ-MEC-001](../../projects/JDS-PRJ-MEC-001_pressure-vessel-maintenance/README.md) | Pressure Vessel Ongoing Maintenance Program | B | 2026-03-25 | APPROVED | N. Johansson |
 
 ## Timesheets (TSH)
 

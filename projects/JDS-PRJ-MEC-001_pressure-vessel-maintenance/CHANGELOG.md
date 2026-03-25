@@ -26,3 +26,9 @@ Each entry shows:
 | 2026-03-25 | JDS-PRO-004 (Inspection Planning) | A | N. Johansson | Initial release — inspection scheduling procedure |
 | 2026-03-25 | JDS-MAN-MEC-001 (Documentation Guide) | A | N. Johansson | Initial release — what records to keep and why |
 | 2026-03-25 | SE-sweden/regulatory-reference.md | A | N. Johansson | Initial release — AFS 2017:3 reference summary |
+| 2026-03-25 | JDS-PRJ-MEC-001 (README) | B | N. Johansson | Added FLT workflow, linked PRO-010, templates, active program structure |
+| 2026-03-25 | JDS-PRO-010 (FLT Procedure) | A | N. Johansson | Master procedure for AFS 2017:3 ongoing maintenance programs |
+| 2026-03-25 | JDS-TMP-LOG-002 (FLT Inventory) | A | N. Johansson | Equipment register template for client sites |
+| 2026-03-25 | JDS-TMP-LOG-003 (Tillsynsprotokoll) | A | N. Johansson | Routine supervision checklist template |
+| 2026-03-25 | JDS-TMP-LOG-004 (Kontrollplan) | A | N. Johansson | Annual inspection plan template |
+| 2026-03-25 | JDS-TMP-RPT-003 (Inspection Report) | A | N. Johansson | Post-inspection report template with findings and sign-off |

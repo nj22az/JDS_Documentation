@@ -4,6 +4,23 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [2.9] — 2026-03-25
+
+### Added — Fortlöpande Tillsyn (FLT) System
+- **JDS-PRO-010**: Fortlöpande Tillsyn Procedure — complete FLT workflow for AFS 2017:3 ongoing maintenance programs. Covers setup, annual cycle, inspection handling, findings management.
+- **JDS-TMP-LOG-002**: FLT Inventory Template — equipment register for client sites
+- **JDS-TMP-LOG-003**: Tillsynsprotokoll Template — routine supervision checklist (tillsyn walk-around)
+- **JDS-TMP-LOG-004**: Kontrollplan Template — annual inspection plan with quarterly tracking
+- **JDS-TMP-RPT-003**: Inspection Report Template — post-inspection documentation with findings, wall thickness, and sign-off
+
+### Changed
+- **JDS-PRJ-MEC-001** updated to Rev B — FLT workflow integrated, active program folder structure documented, all templates and procedures linked
+
+### Language Note
+- JDS is 100% English. Swedish regulatory terms (Fortlöpande Tillsyn, Tillsynsprotokoll, Kontrollplan, etc.) are always explained in English on first use.
+
+---
+
 ## [2.8] — 2026-03-25
 
 ### Added
