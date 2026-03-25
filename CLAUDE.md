@@ -7,6 +7,7 @@ Personal workspace for Nils Johansson's project files, including 3D modeling and
 - `jds/` - Johansson Documentation System (quality manual, procedures, templates, registry)
 - `blog/` - Jekyll engineering blog (GitHub Pages)
 - `3d-modeling/` - 3D modeling projects, each in its own JDS-DWG-[DOM]-NNN folder (Blender, Shapr3D, build123d)
+- `projects/` - Engineering projects, each in its own JDS-PRJ-[DOM]-NNN folder
 - `software-projects/` - Software development projects
 - `documents/` - CV, cover letters, notes
 - `archive/` - Archived past projects (e.g., previous website)
@@ -28,6 +29,12 @@ Personal workspace for Nils Johansson's project files, including 3D modeling and
 - Mandatory exports: STEP + 3MF + STL (always all three)
 - Every project folder has a README.md project card
 - See JDS-PRO-003 for full procedure
+
+## Engineering Projects
+- Each project gets a PRJ number with domain: `projects/JDS-PRJ-MEC-001_name/`
+- Every project has a README.md and CHANGELOG.md (master change log)
+- All document changes within a project are logged in CHANGELOG.md
+- Every document has a status block at the top: Doc No | Rev | CURRENT/SUPERSEDED | Date | Author
 
 ## Guidelines
 - Keep files organized in the appropriate directories

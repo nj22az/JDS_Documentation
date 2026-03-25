@@ -6,7 +6,7 @@ Personal workspace for 3D modeling, software projects, and an engineering blog.
 
 The `blog/` directory is a Jekyll site served via GitHub Pages — a classical technical engineering blog documenting practical problem-solving, 3D modeling, and lessons from the field.
 
-## JDS — Johansson Engineering Documentation System
+## JDS — Johansson Documentation System
 
 The `jds/` directory contains a complete in-house documentation and quality management system. It defines how all documents are numbered, created, revised, and tracked. See [jds/README.md](jds/README.md) for the full guide.
 
@@ -28,6 +28,9 @@ The `jds/` directory contains a complete in-house documentation and quality mana
 │   │   ├── references/    # Reference images, datasheets
 │   │   └── renders/       # Screenshots and renders
 │   └── _shared-references/ # Shared across all projects
+│
+├── projects/             # Engineering projects (JDS-managed)
+│   └── JDS-PRJ-MEC-001_pressure-vessel-maintenance/
 │
 ├── software-projects/    # Software development projects
 │

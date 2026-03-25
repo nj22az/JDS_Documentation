@@ -11,7 +11,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | Doc No. | Title | Rev | Date | Status | Author |
 |---------|-------|-----|------|--------|--------|
 | JDS-QMS-000 | Quality Manual | A | 2026-03-25 | APPROVED | N. Johansson |
-| JDS-QMS-001 | Document Numbering Standard | A | 2026-03-25 | APPROVED | N. Johansson |
+| JDS-QMS-001 | Document Numbering Standard | B | 2026-03-25 | APPROVED | N. Johansson |
 
 ## Procedures (PRO)
 
@@ -19,7 +19,8 @@ This is the master list of all documents in the JDS system. Every document must 
 |---------|-------|-----|------|--------|--------|
 | JDS-PRO-001 | Document Creation Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
 | JDS-PRO-002 | Revision Control Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
-| JDS-PRO-003 | 3D Model & Drawing Management Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
+| JDS-PRO-003 | 3D Model & Drawing Management Procedure | B | 2026-03-25 | APPROVED | N. Johansson |
+| JDS-PRO-004 | Inspection Planning Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
 
 ## Templates (TMP)
 
@@ -43,6 +44,7 @@ This is the master list of all documents in the JDS system. Every document must 
 
 | Doc No. | Title | Rev | Date | Status | Author |
 |---------|-------|-----|------|--------|--------|
+| JDS-MAN-MEC-001 | Documentation Guide — Pressure Vessel Records | A | 2026-03-25 | APPROVED | N. Johansson |
 
 ## Drawings (DWG)
 
@@ -53,6 +55,7 @@ This is the master list of all documents in the JDS system. Every document must 
 
 | Doc No. | Title | Rev | Date | Status | Author |
 |---------|-------|-----|------|--------|--------|
+| JDS-PRJ-MEC-001 | Pressure Vessel Ongoing Maintenance Program | A | 2026-03-25 | APPROVED | N. Johansson |
 
 ## Timesheets (TSH)
 
@@ -68,6 +71,7 @@ This is the master list of all documents in the JDS system. Every document must 
 
 | Doc No. | Title | Rev | Date | Status | Author |
 |---------|-------|-----|------|--------|--------|
+| JDS-LOG-MEC-001 | Equipment Register — Pressure Vessels (Framework) | A | 2026-03-25 | APPROVED | N. Johansson |
 
 ## Correspondence (COR)
 
