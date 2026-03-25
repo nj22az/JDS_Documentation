@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-QMS-001 |
-| **Revision** | C |
+| **Revision** | D |
 | **Date** | 2026-03-25 |
 | **Status** | APPROVED |
 | **Author** | Nils Johansson |
@@ -66,11 +66,11 @@ JDS-TMP-005    Template
 | PRJ (Project Documents) | |
 | LOG (Logs & Records) | |
 | COR (Correspondence) | |
-| BLG (Blog Posts) | |
+| BLG (Blog Posts) — optional | |
 | TSH (Timesheets) — optional | |
 | EXP (Expenses) — optional | |
 
-For timesheets and expenses, the domain code is optional. Use it if the time/expense is project-specific, omit it for general records.
+For blog posts, timesheets, and expenses, the domain code is optional. Use it if the content is discipline-specific (e.g., JDS-BLG-MEC-001 for a mechanical engineering article), omit it for general or cross-discipline records (e.g., JDS-BLG-001).
 
 ### 2.4 With Revision
 
@@ -242,7 +242,7 @@ JDS-RPT-MEC-015-PROJ01_commissioning-report.md
 | Write a client letter | COR | GEN, MEC |
 | Create a blank form | TMP | *(target category code, e.g. TMP-RPT)* |
 | Define a system rule | QMS | *(no domain)* |
-| Publish a blog article | BLG | MEC, MAR, SFW |
+| Publish a blog article | BLG | *(optional: MEC, MAR, SFW)* |
 
 ---
 
@@ -253,3 +253,4 @@ JDS-RPT-MEC-015-PROJ01_commissioning-report.md
 | A | 2026-03-25 | Nils Johansson | Initial release |
 | B | 2026-03-25 | Nils Johansson | Renamed JEDS to JDS. Added engineering domain codes. Restructured numbering format. |
 | C | 2026-03-25 | Nils Johansson | Templates now use target category codes (JDS-TMP-RPT-001 instead of JDS-TMP-001). |
+| D | 2026-03-25 | Nils Johansson | BLG domain code changed from required to optional (aligns with existing blog posts). |

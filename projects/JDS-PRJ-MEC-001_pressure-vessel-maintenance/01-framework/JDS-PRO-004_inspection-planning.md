@@ -1,6 +1,12 @@
 # Inspection Planning Procedure
 
-> **JDS-PRO-004** | **Rev A** | **CURRENT** | 2026-03-25 | N. Johansson
+| | |
+|---|---|
+| **Document No.** | JDS-PRO-004 |
+| **Revision** | A |
+| **Date** | 2026-03-25 |
+| **Status** | CURRENT |
+| **Author** | N. Johansson |
 
 ---
 

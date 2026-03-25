@@ -2,7 +2,7 @@
 
 **The Office of Nils Johansson** — Marine · Mechanical · Industrial Engineering
 
-**JDS Version:** 2.5 | **Effective Date:** 2026-03-25 | **Owner:** Nils Johansson
+**JDS Version:** 2.7 | **Effective Date:** 2026-03-25 | **Owner:** Nils Johansson
 
 ---
 

@@ -4,6 +4,21 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [2.7] — 2026-03-25
+
+### Fixed
+- **Root README.md** version synced to 2.6 → 2.7 (was showing 2.5)
+- **JDS-QMS-001** Rev D — BLG domain code changed from required to optional (aligns with actual blog posts)
+- **JDS-RPT-MEC-002** bumped to Rev B with revision history entry for table split
+- **Project framework files** renamed to JDS convention: `JDS-PRO-004_`, `JDS-MAN-MEC-001_`, `JDS-LOG-MEC-001_`
+- **Corrective action log** restructured from unreadable 7-column table to one CA per section
+
+### Added (Validator)
+- **Registry Rev vs file Rev** check — catches mismatches between document-register.md and actual file metadata
+- **Root README version** sync check — ensures root README matches CHANGELOG version
+
+---
+
 ## [2.6] — 2026-03-25
 
 ### Changed

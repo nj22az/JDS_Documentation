@@ -75,7 +75,7 @@ class AuditResult:
 
 
 def parse_registry(result):
-    """Parse the document register and return all registered doc numbers with their paths."""
+    """Parse the document register and return all registered doc numbers with their paths and revisions."""
     if not os.path.exists(REGISTRY_PATH):
         result.error('Document register not found at jds/registry/document-register.md')
         return {}
@@ -84,17 +84,21 @@ def parse_registry(result):
         content = f.read()
 
     entries = {}
-    # Match markdown table links: [JDS-XXX-NNN](relative/path)
-    link_pattern = re.compile(r'\[([^\]]+)\]\(([^)]+)\)')
-    for match in link_pattern.finditer(content):
+    # Match full registry table rows: | [JDS-XXX](path) | Title | Rev | Date | Status | Author |
+    row_pattern = re.compile(
+        r'\|\s*\[([^\]]+)\]\(([^)]+)\)\s*\|'   # doc_no and path
+        r'[^|]*\|'                                # title
+        r'\s*([A-Z]+)\s*\|'                       # revision
+    )
+    for match in row_pattern.finditer(content):
         doc_no = match.group(1)
         rel_path = match.group(2)
+        rev = match.group(3)
         if JDS_PATTERN.search(doc_no):
-            # Resolve relative path from registry location
             abs_path = os.path.normpath(
                 os.path.join(os.path.dirname(REGISTRY_PATH), rel_path)
             )
-            entries[doc_no] = abs_path
+            entries[doc_no] = {'path': abs_path, 'rev': rev}
 
     return entries
 
@@ -108,14 +112,39 @@ def check_registry_vs_filesystem(result):
     result.ok(f'Document register contains {len(entries)} entries')
 
     # Check for phantom entries (registry entry but no file)
-    for doc_no, path in entries.items():
+    for doc_no, info in entries.items():
+        path = info['path']
         if os.path.exists(path):
             result.ok(f'{doc_no} → file exists')
         else:
             result.error(f'PHANTOM: {doc_no} registered but file missing: {path}')
 
+    # Check registry Rev vs actual file Rev
+    for doc_no, info in entries.items():
+        path = info['path']
+        reg_rev = info['rev']
+        if not os.path.exists(path):
+            continue
+        # Skip templates — they contain placeholder metadata (DRAFT), not their own revision
+        if doc_no.startswith('JDS-TMP-'):
+            continue
+        with open(path, 'r') as f:
+            content = f.read()
+        # Look for **Revision** | X or **Rev** | X in metadata table
+        rev_match = re.search(r'\*\*Revision?\*\*\s*\|\s*([A-Z]+)', content)
+        if not rev_match:
+            # Try front matter style: revision: A
+            rev_match = re.search(r'^revision:\s*([A-Z]+)', content, re.MULTILINE)
+        if rev_match:
+            file_rev = rev_match.group(1)
+            if file_rev != reg_rev:
+                rel = os.path.relpath(path, REPO_ROOT)
+                result.error(
+                    f'{doc_no}: registry says Rev {reg_rev} but file says Rev {file_rev} ({rel})'
+                )
+
     # Check for orphan JDS files (file exists but not in registry)
-    registered_paths = set(entries.values())
+    registered_paths = set(info['path'] for info in entries.values())
     jds_files = []
     for pattern in ['jds/**/*.md', 'projects/**/*.md', 'blog/_posts/*.md']:
         jds_files.extend(glob.glob(os.path.join(REPO_ROOT, pattern), recursive=True))
@@ -287,11 +316,23 @@ def check_changelog_version(result):
 
     if changelog_ver and readme_ver:
         if changelog_ver == readme_ver:
-            result.ok(f'Version consistent: CHANGELOG={changelog_ver}, README={readme_ver}')
+            result.ok(f'Version consistent: CHANGELOG={changelog_ver}, jds/README={readme_ver}')
         else:
-            result.error(f'Version mismatch: CHANGELOG={changelog_ver}, README={readme_ver}')
+            result.error(f'Version mismatch: CHANGELOG={changelog_ver}, jds/README={readme_ver}')
     else:
-        result.warn('Could not parse version from CHANGELOG or README')
+        result.warn('Could not parse version from CHANGELOG or jds/README')
+
+    # Also check root README version
+    root_readme = os.path.join(REPO_ROOT, 'README.md')
+    if os.path.exists(root_readme):
+        with open(root_readme, 'r') as f:
+            match = re.search(r'\*\*JDS Version:\*\*\s*(\d+\.\d+)', f.read())
+            if match:
+                root_ver = match.group(1)
+                if changelog_ver and root_ver != changelog_ver:
+                    result.error(f'Root README version {root_ver} != CHANGELOG {changelog_ver}')
+                else:
+                    result.ok(f'Root README version consistent: {root_ver}')
 
 
 def main():
