@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-RPT-MEC-002 |
-| **Revision** | A |
+| **Revision** | B |
 | **Date** | 2026-03-25 |
 | **Status** | EXAMPLE |
 | **Author** | Nils Johansson |
@@ -129,3 +129,4 @@ Risk is assessed using a 5×5 matrix per ISO 31000 and SS-EN 16991:
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
 | A | 2026-03-25 | Nils Johansson | Example risk assessment for JDS demonstration |
+| B | 2026-03-25 | Nils Johansson | Split 9-column risk register into hazard identification + risk evaluation tables (max 7 cols for A4) |

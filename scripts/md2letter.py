@@ -20,19 +20,41 @@ from weasyprint import HTML
 # ---------------------------------------------------------------------------
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-LOGO_PATH = os.path.join(SCRIPT_DIR, '..', 'jds', 'assets', 'logo.png')
-FONTS_DIR = os.path.join(SCRIPT_DIR, '..', 'jds', 'assets', 'fonts')
+ASSETS_DIR = os.path.join(SCRIPT_DIR, '..', 'jds', 'assets')
+LOGO_PATH_PNG = os.path.join(ASSETS_DIR, 'logo.png')
+LOGO_PATH_SVG = os.path.join(ASSETS_DIR, 'logo.svg')
+LOGO_VARIANTS_DIR = os.path.join(ASSETS_DIR, 'logo-variants')
+FONTS_DIR = os.path.join(ASSETS_DIR, 'fonts')
 
 
-def get_logo_data_uri():
-    """Encode the logo as a base64 data URI for embedding in HTML."""
-    if not os.path.exists(LOGO_PATH):
-        return None
-    with open(LOGO_PATH, 'rb') as f:
-        data = base64.b64encode(f.read()).decode('utf-8')
-    ext = os.path.splitext(LOGO_PATH)[1].lower()
-    mime = 'image/png' if ext == '.png' else 'image/jpeg'
-    return f'data:{mime};base64,{data}'
+def get_logo_data_uri(category=None):
+    """Encode the logo as a base64 data URI for embedding in HTML.
+
+    Letters use the COR (Heritage Red) variant by default.
+    """
+    # Default to COR for letters
+    cat = category or 'COR'
+
+    # Try category-specific SVG variant
+    variant_path = os.path.join(LOGO_VARIANTS_DIR, f'logo-{cat.lower()}.svg')
+    if os.path.exists(variant_path):
+        with open(variant_path, 'r', encoding='utf-8') as f:
+            data = base64.b64encode(f.read().encode('utf-8')).decode('utf-8')
+        return f'data:image/svg+xml;base64,{data}'
+
+    # Fall back to default SVG
+    if os.path.exists(LOGO_PATH_SVG):
+        with open(LOGO_PATH_SVG, 'r', encoding='utf-8') as f:
+            data = base64.b64encode(f.read().encode('utf-8')).decode('utf-8')
+        return f'data:image/svg+xml;base64,{data}'
+
+    # Fall back to PNG
+    if os.path.exists(LOGO_PATH_PNG):
+        with open(LOGO_PATH_PNG, 'rb') as f:
+            data = base64.b64encode(f.read()).decode('utf-8')
+        return f'data:image/png;base64,{data}'
+
+    return None
 
 
 def get_font_face_css():

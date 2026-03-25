@@ -20,16 +20,52 @@ from weasyprint import HTML
 # ---------------------------------------------------------------------------
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-LOGO_PATH = os.path.join(SCRIPT_DIR, '..', 'jds', 'assets', 'logo.png')
+ASSETS_DIR = os.path.join(SCRIPT_DIR, '..', 'jds', 'assets')
+LOGO_PATH_PNG = os.path.join(ASSETS_DIR, 'logo.png')
+LOGO_PATH_SVG = os.path.join(ASSETS_DIR, 'logo.svg')
+LOGO_VARIANTS_DIR = os.path.join(ASSETS_DIR, 'logo-variants')
 
 
-def get_logo_data_uri():
-    """Encode the logo as a base64 data URI for embedding in HTML."""
-    if not os.path.exists(LOGO_PATH):
+def get_logo_data_uri(category=None):
+    """Encode the logo as a base64 data URI for embedding in HTML.
+
+    If a category is provided (e.g. 'PRO', 'COR', 'RPT') and an SVG colour
+    variant exists, use that. Otherwise fall back to the default SVG, then PNG.
+    """
+    # Try category-specific SVG variant first
+    if category:
+        variant_path = os.path.join(LOGO_VARIANTS_DIR, f'logo-{category.lower()}.svg')
+        if os.path.exists(variant_path):
+            with open(variant_path, 'r', encoding='utf-8') as f:
+                data = base64.b64encode(f.read().encode('utf-8')).decode('utf-8')
+            return f'data:image/svg+xml;base64,{data}'
+
+    # Fall back to default SVG
+    if os.path.exists(LOGO_PATH_SVG):
+        with open(LOGO_PATH_SVG, 'r', encoding='utf-8') as f:
+            data = base64.b64encode(f.read().encode('utf-8')).decode('utf-8')
+        return f'data:image/svg+xml;base64,{data}'
+
+    # Fall back to PNG
+    if os.path.exists(LOGO_PATH_PNG):
+        with open(LOGO_PATH_PNG, 'rb') as f:
+            data = base64.b64encode(f.read()).decode('utf-8')
+        return f'data:image/png;base64,{data}'
+
+    return None
+
+
+def extract_category(doc_no):
+    """Extract the document category code from a JDS document number.
+
+    JDS-PRO-007 → PRO
+    JDS-DWG-MEC-003 → DWG
+    JDS-BLG-001 → BLG
+    """
+    if not doc_no:
         return None
-    with open(LOGO_PATH, 'rb') as f:
-        data = base64.b64encode(f.read()).decode('utf-8')
-    return f'data:image/png;base64,{data}'
+    match = re.match(r'JDS-([A-Z]{3})', doc_no)
+    return match.group(1) if match else None
 
 
 # ---------------------------------------------------------------------------
@@ -577,8 +613,9 @@ def md_to_pdf(input_path, output_path=None):
     # Post-process: wrap revision history table
     html_content = wrap_revision_history(html_content)
 
-    # Post-process: inject logo header
-    logo_uri = get_logo_data_uri()
+    # Post-process: inject logo header (category-coloured SVG if available)
+    category = extract_category(doc_no)
+    logo_uri = get_logo_data_uri(category=category)
     html_content = inject_logo_header(html_content, logo_uri)
 
     full_html = f"""<!DOCTYPE html>

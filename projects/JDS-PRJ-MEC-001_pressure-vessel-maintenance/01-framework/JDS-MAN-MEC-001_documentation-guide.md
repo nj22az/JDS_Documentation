@@ -1,6 +1,12 @@
 # Documentation Guide — What Records to Keep and Why
 
-> **JDS-MAN-MEC-001** | **Rev A** | **CURRENT** | 2026-03-25 | N. Johansson
+| | |
+|---|---|
+| **Document No.** | JDS-MAN-MEC-001 |
+| **Revision** | A |
+| **Date** | 2026-03-25 |
+| **Status** | CURRENT |
+| **Author** | N. Johansson |
 
 ---
 

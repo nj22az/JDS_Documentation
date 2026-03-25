@@ -76,10 +76,12 @@ When you notice something that could be improved:
 ### Automation Tools
 | Tool | Purpose | Usage |
 |------|---------|-------|
-| `scripts/jds-validate.py` | Automated 5S audit checks | `python3 scripts/jds-validate.py` |
+| `scripts/jds-validate.py` | Automated 5S audit (10 checks, 100+) | `python3 scripts/jds-validate.py` |
 | `scripts/jds-validate.py --quick` | Quick registry check only | Pre-commit validation |
-| `scripts/md2pdf.py` | JDS document → PDF | `python3 scripts/md2pdf.py <file.md>` |
-| `scripts/md2letter.py` | Letter template → PDF | `python3 scripts/md2letter.py <file.md>` |
+| `scripts/jds-validate.py --fix` | Show suggested fixes for errors | Post-audit remediation |
+| `scripts/md2pdf.py` | JDS document → PDF (auto-coloured logo) | `python3 scripts/md2pdf.py <file.md>` |
+| `scripts/md2letter.py` | Letter template → PDF (Heritage Red logo) | `python3 scripts/md2letter.py <file.md>` |
+| `scripts/logo-variants.py` | Generate SVG logo colour variants | `python3 scripts/logo-variants.py` |
 
 ## PDF Generation (JDS-PRO-007 Compliance)
 
@@ -115,11 +117,15 @@ All PDFs exported from JDS documents MUST follow JDS-PRO-007 (Information Design
 - For very wide data sets, consider landscape orientation or restructuring as card layouts
 
 ### Logo & Brand Rules
-- The Johansson Engineering 1983 stamp logo is at `jds/assets/logo.png`
+- The Johansson Engineering 1983 stamp logo exists in two formats:
+  - **SVG (vector)**: `jds/assets/logo.svg` — scalable, crisp at any size, preferred
+  - **PNG (bitmap)**: `jds/assets/logo.png` — 752×752px, fallback
+- **Colour variants**: `jds/assets/logo-variants/` — auto-generated per category (PRO-007 §6.4)
 - The logo is a circular stamp — **never squish, crop to circle, or apply border-radius**
 - Minimum display size: **52pt** in documents, **72pt** in letterheads
 - The logo is Nils Johansson's brand and image — it must be clearly readable at all times
-- Both `md2pdf.py` and `md2letter.py` embed the logo via base64 data URI
+- PDF generators auto-select the correct category colour variant based on document number
+- To regenerate variants: `python3 scripts/logo-variants.py`
 
 ### Monozukuri Self-Check (§8.1 — before issuing)
 - Headings follow 4-level hierarchy consistently

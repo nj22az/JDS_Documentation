@@ -1,6 +1,12 @@
 # Equipment Register — Pressure Vessels
 
-> **JDS-LOG-MEC-001** | **Rev A** | **CURRENT** | 2026-03-25 | N. Johansson
+| | |
+|---|---|
+| **Document No.** | JDS-LOG-MEC-001 |
+| **Revision** | A |
+| **Date** | 2026-03-25 |
+| **Status** | CURRENT |
+| **Author** | N. Johansson |
 
 ---
 
@@ -50,14 +56,31 @@ Before filling in the register, here's what each column means:
 
 ### The Register
 
-*Copy the table below and fill in your vessels. Add rows as needed.*
+*Copy the tables below and fill in your vessels. Add rows as needed. All tables are linked by Vessel ID.*
 
-| Vessel ID | Description | Location | Manufacturer | Year | Serial No. | Design Pressure | Design Temp | Volume | Medium | Class | Inspection Interval | Last Inspection | Next Inspection | Inspector | Certificate Ref | Status | Notes |
-|-----------|-------------|----------|-------------|------|-----------|----------------|-------------|--------|--------|-------|-------------------|----------------|----------------|-----------|----------------|--------|-------|
-| PV-001 | *Example: Air receiver* | *Machine hall* | *Atlas Copco* | *2018* | *AC-44521* | *11 bar* | *200°C* | *500 L* | *Air* | *B* | *24 months* | *2025-06-15* | *2027-06-15* | *DEKRA* | *DK-2025-123* | *IN SERVICE* | *Example row — delete and replace with real data* |
-| | | | | | | | | | | | | | | | | | |
-| | | | | | | | | | | | | | | | | | |
-| | | | | | | | | | | | | | | | | | |
+#### Table 1 — Vessel Identification
+
+| Vessel ID | Description | Location | Manufacturer | Year | Serial No. | Status |
+|-----------|-------------|----------|-------------|------|-----------|--------|
+| PV-001 | *Air receiver* | *Machine hall* | *Atlas Copco* | *2018* | *AC-44521* | *IN SERVICE* |
+| | | | | | | |
+| | | | | | | |
+
+#### Table 2 — Design Parameters
+
+| Vessel ID | Design Pressure | Design Temp | Volume | Medium | Class |
+|-----------|----------------|-------------|--------|--------|-------|
+| PV-001 | *11 bar* | *200°C* | *500 L* | *Air* | *B* |
+| | | | | | |
+| | | | | | |
+
+#### Table 3 — Inspection Tracking
+
+| Vessel ID | Insp. Interval | Last Inspection | Next Inspection | Inspector | Certificate Ref | Notes |
+|-----------|---------------|----------------|----------------|-----------|----------------|-------|
+| PV-001 | *24 months* | *2025-06-15* | *2027-06-15* | *DEKRA* | *DK-2025-123* | *Example row — replace with real data* |
+| | | | | | | |
+| | | | | | | |
 
 ---
 
