@@ -13,10 +13,11 @@ Personal workspace for Nils Johansson's project files, including 3D modeling and
 
 ## JEDS Documentation System
 - All documents follow the JEDS numbering standard: `JEDS-[CAT]-[NNN]` (e.g., JEDS-RPT-003)
-- Categories: QMS, PRO, RPT, MAN, DWG, PRJ, TSH, EXP, TMP, LOG, COR
+- Categories: QMS, PRO, RPT, MAN, DWG, PRJ, TSH, EXP, TMP, LOG, COR, BLG
 - Always use the appropriate template from `jeds/templates/`
 - Always register new documents in `jeds/registry/document-register.md`
 - Revisions follow letter sequence: A, B, C, D... (skip I, O, Q, S, X, Z)
+- Blog posts are tracked as BLG category (e.g., JEDS-BLG-001) with JEDS number in front matter
 - See `jeds/README.md` for full documentation system reference
 
 ## Guidelines

@@ -30,6 +30,7 @@ This is the master list of all documents in the JEDS system. Every document must
 | JEDS-TMP-004 | Manual Template | A | 2026-03-25 | APPROVED | N. Johansson |
 | JEDS-TMP-005 | Drawing / Model Documentation Template | A | 2026-03-25 | APPROVED | N. Johansson |
 | JEDS-TMP-006 | Project Document Template | A | 2026-03-25 | APPROVED | N. Johansson |
+| JEDS-TMP-007 | Blog Post Template | A | 2026-03-25 | APPROVED | N. Johansson |
 
 ## Reports (RPT)
 
@@ -71,3 +72,11 @@ This is the master list of all documents in the JEDS system. Every document must
 
 | Doc No. | Title | Rev | Date | Status | Author |
 |---------|-------|-----|------|--------|--------|
+
+## Blog Posts (BLG)
+
+| Doc No. | Title | Rev | Date | Status | Author |
+|---------|-------|-----|------|--------|--------|
+| JEDS-BLG-001 | Why I Started This Blog | A | 2026-03-25 | PUBLISHED | N. Johansson |
+| JEDS-BLG-002 | What the Engine Room Teaches You About Problem-Solving | A | 2026-03-25 | PUBLISHED | N. Johansson |
+| JEDS-BLG-003 | Why I Chose build123d for Parametric CAD | A | 2026-03-25 | PUBLISHED | N. Johansson |

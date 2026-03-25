@@ -2,7 +2,12 @@
 layout: post
 title: "What the Engine Room Teaches You About Problem-Solving"
 date: 2026-03-25
+jeds_no: JEDS-BLG-002
+revision: A
 ---
+
+| **JEDS No.** | JEDS-BLG-002 | **Rev** | A | **Date** | 2026-03-25 |
+|---|---|---|---|---|---|
 
 Before I ever touched a PLC or opened a CAD program, I learned to solve problems in engine rooms. Cargo ships, ferries, naval vessels — they all have one thing in common: when something breaks, you fix it with what you have, where you are.
 

@@ -43,6 +43,7 @@ Every document — whether it's a field service report, a 3D model drawing, a ti
 | **TMP** | Templates | Blank templates for all document types |
 | **LOG** | Logs & Records | Equipment logs, maintenance records, training logs |
 | **COR** | Correspondence | Formal letters, proposals, quotations |
+| **BLG** | Blog Posts | Published blog articles (tracked and revision-controlled) |
 
 ---
 

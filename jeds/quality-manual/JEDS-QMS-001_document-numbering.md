@@ -72,6 +72,7 @@ JEDS-PRO-001_document-creation.md
 | **TMP** | Templates | Blank templates for any document type |
 | **LOG** | Logs & Records | Equipment logs, maintenance records, calibration records, training logs |
 | **COR** | Correspondence | Formal letters, proposals, quotations, contracts |
+| **BLG** | Blog Posts | Published blog articles, tracked and revision-controlled |
 
 ## 4. Number Assignment Rules
 
@@ -123,7 +124,23 @@ JEDS-TMP-002_timesheet-template.md
 JEDS-TMP-003_expense-template.md
 ```
 
-### 6.2 Project-Specific Documents
+### 6.2 Blog Posts
+
+Blog posts live in `blog/_posts/` and follow Jekyll's naming convention for the filename, but carry a JEDS number in the front matter and as a visible header on the published page:
+
+```yaml
+---
+layout: post
+title: "Article Title"
+date: 2026-03-25
+jeds_no: JEDS-BLG-001
+revision: A
+---
+```
+
+The JEDS number links the published article back to the registry so every post is traceable and revision-controlled like any other document.
+
+### 6.3 Project-Specific Documents
 
 For large projects, you may optionally add a project code after the document number:
 
@@ -148,6 +165,7 @@ This is optional and should only be used when a project generates many documents
 | Write a client letter or quote | COR (Correspondence) |
 | Create a blank form | TMP (Template) |
 | Define a system rule | QMS (Quality) |
+| Publish a blog article | BLG (Blog Post) |
 
 ---
 

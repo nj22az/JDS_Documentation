@@ -2,7 +2,12 @@
 layout: post
 title: "Why I Chose build123d for Parametric CAD"
 date: 2026-03-25
+jeds_no: JEDS-BLG-003
+revision: A
 ---
+
+| **JEDS No.** | JEDS-BLG-003 | **Rev** | A | **Date** | 2026-03-25 |
+|---|---|---|---|---|---|
 
 I've been exploring 3D modeling tools for a while now. Blender is excellent for visualization and organic modeling. Shapr3D is intuitive and great for quick concept work on the iPad. But when I wanted to create precise, parametric engineering parts — the kind where you change one dimension and everything updates — I found build123d.
 
