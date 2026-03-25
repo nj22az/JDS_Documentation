@@ -66,6 +66,7 @@ This is the master list of all documents in the JDS system. Every document must 
 
 | Doc No. | Title | Rev | Date | Status | Author |
 |---------|-------|-----|------|--------|--------|
+| [JDS-DWG-FAB-001](../../projects/3d-modeling/JDS-DWG-FAB-001_logo-box/README.md) | Circular Logo Box with Screw Lid | A | 2026-03-25 | CURRENT | N. Johansson |
 
 ## Project Documents (PRJ)
 
