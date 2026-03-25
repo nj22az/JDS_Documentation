@@ -4,6 +4,36 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [2.4] — 2026-03-25
+
+### Changed
+- **JDS-PRO-007** Information Design Standard updated to Rev B — expanded from 8 to 14 sections
+- **md2pdf.py** stylesheet upgraded to world-class level with design tokens, baseline grid, and accessibility compliance
+
+### Added (PRO-007 New Sections)
+- **§9 Grid System & Vertical Rhythm** — 6pt baseline unit, horizontal grid rules, content density (Toyota A3-inspired)
+- **§10 Page Architecture** — five-zone page model with header/footer separator lines, first-page title block, continuation page rules
+- **§11 Micro-Typography** — letter-spacing table, font weight discipline, WCAG 2.1 Level AA contrast ratios
+- **§12 Figure & Table Conventions** — sequential numbering, revision history distinct styling
+- **§13 Emptiness & Receptivity (Ku)** — Kenya Hara/MUJI philosophy codified: white space as active structure
+- **§14 Automation & Consistency** — what the system enforces vs. what authors verify
+
+### Stylesheet Improvements (md2pdf.py)
+- Header/footer separator lines (0.25pt rules framing content zone)
+- H1 increased to 20pt with 2pt bottom rule for authority
+- All spacing aligned to 6pt baseline grid (24pt above H2, 18pt above H3, 12pt above H4)
+- Improved table cell padding (6pt/8pt headers, 5pt/8pt cells)
+- Revision history table gets distinct compact styling via HTML post-processing
+- Blockquotes no longer force italic (better readability for long passages)
+- Design token documentation in CSS comments
+- Complete CSS comment structure referencing PRO-007 section numbers
+
+### Design Research
+- Analysed corporate document design from: Apple (San Francisco, optical hierarchy), Toyota (A3 one-page thinking), Bauhaus (grid systems, form follows function), Kenya Hara/MUJI (emptiness over minimalism), Bosch (WCAG accessibility, Red Dot Award design system), DNV (classification document architecture), Instron (engineering quality manual format)
+- Synthesised 15 world-class design principles into JDS standards
+
+---
+
 ## [2.3] — 2026-03-25
 
 ### Added

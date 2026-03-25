@@ -1,9 +1,19 @@
 #!/usr/bin/env python3
-"""JDS PDF Generator — JDS-PRO-007 Information Design Standard.
+"""JDS PDF Generator — JDS-PRO-007 Information Design Standard (Rev B).
 
 Converts JDS markdown documents to PDF with Japanese information design
 principles: Ma (meaningful space), Bento (compartmented layout), Zukai
-(visual clarity), and Monozukuri (visible craftsmanship).
+(visual clarity), Monozukuri (visible craftsmanship), and Ku (emptiness
+as receptive potential).
+
+Design references:
+  - Apple: optical hierarchy, dynamic tracking, weight discipline
+  - Toyota A3: constraint-driven clarity, no information waste
+  - Bauhaus: grid system, geometric precision, form follows function
+  - Kenya Hara / MUJI: emptiness over minimalism, white as structure
+  - Bosch: WCAG accessibility, systematic design tokens
+  - DNV: classification document hierarchy, formal page architecture
+  - Instron: engineering report structure, sequential numbering
 
 Usage: python3 md2pdf.py <input.md> [output.pdf]
 """
@@ -36,25 +46,46 @@ def extract_metadata(md_text):
 
 
 # ---------------------------------------------------------------------------
-# JDS-PRO-007 Compliant Stylesheet — Japanese Information Design
+# JDS-PRO-007 Rev B — World-Class Stylesheet
 #
 # Design philosophy:
-#   Ma (間)        — Space has meaning. No accidental emptiness.
+#   Ma (間)        — Space has meaning. Every gap is a 6pt multiple.
 #   Bento (弁当)   — Compact compartments. Each section self-contained.
 #   Zukai (図解)   — Visual clarity through structure, not decoration.
-#   Monozukuri     — Precision visible in every alignment and spacing choice.
+#   Monozukuri     — Precision visible in every alignment choice.
+#   Ku (空)        — Emptiness is not absence. It is receptive potential.
 #
-# References: PRO-007 §3 (three-level reading), §4 (typography),
-#             §5 (layout), §6 (colour), §7 (tables), §8 (Monozukuri)
+# Design tokens (6pt baseline grid):
+#   1 unit = 6pt   |   2 units = 12pt   |   3 units = 18pt
+#   4 units = 24pt  |   5 units = 30pt
+#
+# Colour tokens:
+#   Navy     #1B3A5C  — Authority, primary headings
+#   Steel    #4A90A4  — Supporting, subheadings
+#   Dark     #222222  — Body text (16.8:1 contrast)
+#   Gray600  #444444  — H4, secondary text
+#   Warm     #8C8C8C  — Metadata, annotations
+#   Light    #AAAAAA  — Uncontrolled copy watermark
+#   Tint     #f0f3f6  — Table header background
+#   Subtle   #fafbfc  — Alternating row tint
+#   Divider  #e0e0e0  — Table cell borders
+#   Rule     #cccccc  — Section dividers
+#   BgBlock  #f7f9fb  — Blockquote background
+#   BgCode   #f5f5f5  — Inline code background
+#
+# References: PRO-007 §3–§14
 # ---------------------------------------------------------------------------
 
 CSS = """
-/* === Page Setup — §5.1 ================================================= */
+/* ═══════════════════════════════════════════════════════════════════════════
+   PAGE SETUP — §5.1, §10.1 Page Architecture
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 @page {{
     size: A4;
     margin: 22mm 22mm 20mm 22mm;
 
+    /* --- Header zone ---------------------------------------------------- */
     @top-left {{
         content: "{doc_no}";
         font-size: 7.5pt;
@@ -62,12 +93,16 @@ CSS = """
         color: #1B3A5C;
         font-family: 'Noto Sans', 'Inter', 'Calibri', sans-serif;
         letter-spacing: 0.5pt;
+        border-bottom: 0.25pt solid #e0e0e0;
+        padding-bottom: 4pt;
     }}
     @top-center {{
         content: string(doc-title);
         font-size: 7pt;
         color: #8C8C8C;
         font-family: 'Noto Sans', 'Inter', 'Calibri', sans-serif;
+        border-bottom: 0.25pt solid #e0e0e0;
+        padding-bottom: 4pt;
     }}
     @top-right {{
         content: "UNCONTROLLED COPY";
@@ -76,33 +111,45 @@ CSS = """
         font-family: 'Noto Sans', 'Inter', 'Calibri', sans-serif;
         letter-spacing: 0.3pt;
         text-transform: uppercase;
+        border-bottom: 0.25pt solid #e0e0e0;
+        padding-bottom: 4pt;
     }}
+
+    /* --- Footer zone ---------------------------------------------------- */
     @bottom-left {{
         content: "Rev {revision}";
         font-size: 7pt;
         color: #8C8C8C;
         font-family: 'Noto Sans', 'Inter', 'Calibri', sans-serif;
+        border-top: 0.25pt solid #e0e0e0;
+        padding-top: 4pt;
     }}
     @bottom-center {{
         content: "Page " counter(page) " of " counter(pages);
         font-size: 7.5pt;
         color: #8C8C8C;
         font-family: 'Noto Sans', 'Inter', 'Calibri', sans-serif;
+        border-top: 0.25pt solid #e0e0e0;
+        padding-top: 4pt;
     }}
     @bottom-right {{
         content: "{date}";
         font-size: 7pt;
         color: #8C8C8C;
         font-family: 'Noto Sans', 'Inter', 'Calibri', sans-serif;
+        border-top: 0.25pt solid #e0e0e0;
+        padding-top: 4pt;
     }}
 }}
 
-/* First page: doc number but no title in header (visible in body) */
+/* First page: title visible in body, so suppress running title in header */
 @page :first {{
     @top-center {{ content: none; }}
 }}
 
-/* === Body — §4.2 ======================================================= */
+/* ═══════════════════════════════════════════════════════════════════════════
+   BODY — §4.2, §9.1 Baseline Grid (6pt)
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 body {{
     font-family: 'Noto Sans', 'Inter', 'Calibri', sans-serif;
@@ -114,17 +161,20 @@ body {{
     widows: 3;
 }}
 
-/* === Heading Hierarchy — §4.1 (4 levels) =============================== */
+/* ═══════════════════════════════════════════════════════════════════════════
+   HEADING HIERARCHY — §4.1 (4 levels max), §11.1 Tracking, §11.2 Weights
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 h1 {{
-    font-size: 18pt;
+    font-size: 20pt;
     font-weight: 700;
     color: #1B3A5C;
-    border-bottom: 1.5pt solid #1B3A5C;
-    padding-bottom: 5pt;
-    margin: 0 0 4pt 0;
+    border-bottom: 2pt solid #1B3A5C;
+    padding-bottom: 6pt;
+    margin: 0 0 6pt 0;
     string-set: doc-title content();
     letter-spacing: -0.3pt;
+    line-height: 1.2;
 }}
 
 h2 {{
@@ -133,7 +183,7 @@ h2 {{
     color: #1B3A5C;
     border-bottom: 0.5pt solid #ccc;
     padding-bottom: 3pt;
-    margin: 20pt 0 7pt 0;
+    margin: 24pt 0 12pt 0;
     page-break-after: avoid;
 }}
 
@@ -141,7 +191,7 @@ h3 {{
     font-size: 11.5pt;
     font-weight: 600;
     color: #4A90A4;
-    margin: 14pt 0 5pt 0;
+    margin: 18pt 0 6pt 0;
     page-break-after: avoid;
 }}
 
@@ -150,17 +200,19 @@ h4 {{
     font-weight: 600;
     font-style: italic;
     color: #444;
-    margin: 10pt 0 4pt 0;
+    margin: 12pt 0 6pt 0;
 }}
 
-/* === Metadata Table (first table) — Bento Identity Block =============== */
-/* Compact, refined. Not a data table — an identity strip. */
+/* ═══════════════════════════════════════════════════════════════════════════
+   METADATA IDENTITY STRIP — §10.2 Title Page Zone (Bento)
+   Compact, refined. Not a data table — an identity strip.
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 table:first-of-type {{
     width: auto;
-    min-width: 55%;
-    max-width: 75%;
-    margin: 6pt 0 14pt 0;
+    min-width: 50%;
+    max-width: 70%;
+    margin: 6pt 0 18pt 0;
     font-size: 8.5pt;
     border: none;
     border-top: 2pt solid #1B3A5C;
@@ -171,7 +223,7 @@ table:first-of-type th,
 table:first-of-type td {{
     border: none;
     border-bottom: 0.5pt solid #e0e0e0;
-    padding: 3pt 8pt;
+    padding: 3pt 10pt 3pt 8pt;
     background: none;
 }}
 
@@ -182,7 +234,7 @@ table:first-of-type th {{
     text-transform: uppercase;
     font-size: 7pt;
     letter-spacing: 0.5pt;
-    width: 30%;
+    width: 28%;
     vertical-align: top;
 }}
 
@@ -200,13 +252,15 @@ table:first-of-type tr:last-child td {{
     border-bottom: none;
 }}
 
-/* === Data Tables — §7.3 ================================================ */
-/* Light header, clean lines. Not heavy navy blocks — refined precision. */
+/* ═══════════════════════════════════════════════════════════════════════════
+   DATA TABLES — §7.3, §12.1 Sequential Numbering
+   Light header, clean lines. Refined precision, not heavy blocks.
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 table {{
     border-collapse: collapse;
     width: 100%;
-    margin: 6pt 0 10pt 0;
+    margin: 6pt 0 12pt 0;
     font-size: 9pt;
     page-break-inside: avoid;
     border-top: 1.5pt solid #1B3A5C;
@@ -221,14 +275,14 @@ th {{
     text-align: left;
     text-transform: uppercase;
     letter-spacing: 0.3pt;
-    padding: 5pt 6pt;
+    padding: 6pt 8pt;
     border-bottom: 1pt solid #1B3A5C;
     border-left: none;
     border-right: none;
 }}
 
 td {{
-    padding: 4pt 6pt;
+    padding: 5pt 8pt;
     border-bottom: 0.5pt solid #e0e0e0;
     border-left: none;
     border-right: none;
@@ -244,36 +298,80 @@ tr:last-child td {{
     border-bottom: none;
 }}
 
-/* === Horizontal Rules — Ma Dividers ==================================== */
+/* ═══════════════════════════════════════════════════════════════════════════
+   REVISION HISTORY TABLE — §12.2 Distinct from data tables
+   Last table in document uses identity strip style (compact, metadata feel)
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* We target "Revision History" via the last table heuristic. Since CSS
+   cannot reliably select "last table", we style all tables the same but
+   provide a .rev-history class for HTML post-processing. The md2pdf.py
+   script wraps the last table in a div.rev-history container. */
+
+div.rev-history table {{
+    width: auto;
+    min-width: 70%;
+    max-width: 100%;
+    font-size: 8.5pt;
+    border-top: 1.5pt solid #1B3A5C;
+    border-bottom: 1pt solid #ccc;
+}}
+
+div.rev-history th {{
+    background-color: transparent;
+    color: #8C8C8C;
+    font-size: 7.5pt;
+    border-bottom: 0.5pt solid #ccc;
+}}
+
+div.rev-history td {{
+    font-size: 8.5pt;
+    color: #444;
+}}
+
+div.rev-history tr:nth-child(even) {{
+    background: none;
+}}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   HORIZONTAL RULES — Ma Dividers (§9.1 baseline unit)
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 hr {{
     border: none;
     border-top: 0.5pt solid #ddd;
-    margin: 14pt 0;
+    margin: 18pt 0;
 }}
 
-/* === Blockquotes — Callout Strips ====================================== */
+/* ═══════════════════════════════════════════════════════════════════════════
+   BLOCKQUOTES — Callout Strips (§13 Emptiness)
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 blockquote {{
-    border-left: 2pt solid #4A90A4;
-    margin: 8pt 0;
-    padding: 6pt 12pt;
+    border-left: 2.5pt solid #4A90A4;
+    margin: 12pt 0;
+    padding: 8pt 14pt;
     background-color: #f7f9fb;
     color: #333;
     font-size: 9.5pt;
-    font-style: italic;
 }}
 
 blockquote p {{
-    margin: 0 0 4pt 0;
+    margin: 0 0 6pt 0;
 }}
 
-/* === Code — §4.3 ======================================================= */
+blockquote p:last-child {{
+    margin-bottom: 0;
+}}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   CODE — §4.3 Monospace
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 code {{
     font-family: 'DejaVu Sans Mono', 'Consolas', monospace;
     background-color: #f5f5f5;
-    padding: 0.5pt 2.5pt;
+    padding: 1pt 3pt;
     font-size: 8.5pt;
     border-radius: 1.5pt;
     color: #1B3A5C;
@@ -281,14 +379,14 @@ code {{
 
 pre {{
     background-color: #f8f8f8;
-    padding: 8pt 10pt;
-    border-left: 2pt solid #ccc;
+    padding: 10pt 12pt;
+    border-left: 2.5pt solid #ccc;
     border-radius: 0;
     font-size: 8pt;
-    line-height: 1.4;
+    line-height: 1.45;
     overflow-x: auto;
     page-break-inside: avoid;
-    margin: 6pt 0 10pt 0;
+    margin: 6pt 0 12pt 0;
 }}
 
 pre code {{
@@ -297,30 +395,41 @@ pre code {{
     color: #333;
 }}
 
-/* === Lists ============================================================= */
+/* ═══════════════════════════════════════════════════════════════════════════
+   LISTS — §9.1 Baseline spacing
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 ul, ol {{
-    margin: 4pt 0 6pt 0;
-    padding-left: 18pt;
+    margin: 6pt 0 6pt 0;
+    padding-left: 20pt;
 }}
 
 li {{
-    margin-bottom: 2pt;
-    line-height: 1.45;
+    margin-bottom: 3pt;
+    line-height: 1.5;
+}}
+
+li > ul, li > ol {{
+    margin-top: 3pt;
+    margin-bottom: 0;
 }}
 
 li input[type="checkbox"] {{
-    margin-right: 3pt;
+    margin-right: 4pt;
 }}
 
-/* === Links — Steel Blue ================================================ */
+/* ═══════════════════════════════════════════════════════════════════════════
+   LINKS — Steel Blue, no underline (clean precision)
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 a {{
     color: #4A90A4;
     text-decoration: none;
 }}
 
-/* === Paragraphs — §4.2 ================================================= */
+/* ═══════════════════════════════════════════════════════════════════════════
+   PARAGRAPHS — §4.2 Body text, §9.1 baseline grid
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 p {{
     margin: 0 0 6pt 0;
@@ -331,16 +440,59 @@ strong {{
     font-weight: 600;
 }}
 
-/* === Print helpers ====================================================== */
+em {{
+    color: #333;
+}}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PRINT HELPERS — Page break control
+   ═══════════════════════════════════════════════════════════════════════════ */
 
 h2, h3 {{
     page-break-after: avoid;
 }}
 
+h1, h2, h3, h4 {{
+    page-break-inside: avoid;
+}}
+
 table, pre, blockquote {{
     page-break-inside: avoid;
 }}
+
+/* Keep heading with at least 3 lines of following content */
+h2 + *, h3 + * {{
+    page-break-before: avoid;
+}}
 """
+
+
+def wrap_revision_history(html_content):
+    """Wrap the last table in a div.rev-history container.
+
+    The last table in a JDS document is always the revision history.
+    This allows CSS to style it distinctly from data tables.
+    """
+    # Find the last <table> ... </table> block and wrap it
+    last_table_pos = html_content.rfind('<table>')
+    if last_table_pos == -1:
+        return html_content
+
+    # Check if the preceding heading contains "Revision History"
+    preceding = html_content[:last_table_pos]
+    if 'Revision History' in preceding[max(0, len(preceding)-200):]:
+        closing_pos = html_content.find('</table>', last_table_pos)
+        if closing_pos != -1:
+            closing_pos += len('</table>')
+            table_html = html_content[last_table_pos:closing_pos]
+            html_content = (
+                html_content[:last_table_pos]
+                + '<div class="rev-history">'
+                + table_html
+                + '</div>'
+                + html_content[closing_pos:]
+            )
+    return html_content
 
 
 def md_to_pdf(input_path, output_path=None):
@@ -367,6 +519,9 @@ def md_to_pdf(input_path, output_path=None):
         md_content,
         extensions=["tables", "fenced_code", "toc", "sane_lists"],
     )
+
+    # Post-process: wrap revision history table
+    html_content = wrap_revision_history(html_content)
 
     full_html = f"""<!DOCTYPE html>
 <html lang="en">
