@@ -87,6 +87,7 @@ This is the master list of all documents in the JDS system. Every document must 
 
 | Doc No. | Title | Rev | Date | Status | Author |
 |---------|-------|-----|------|--------|--------|
+| [JDS-COR-GEN-001](../examples/JDS-COR-GEN-001_cold-letter-example.md) | Example Cold Letter — Marine Engineering Services | A | 2026-03-25 | EXAMPLE | N. Johansson |
 
 ## Blog Posts (BLG)
 
