@@ -48,7 +48,7 @@ JDS BLOG POST CHECKLIST:
       jds_no: JDS-BLG-[DOM]-[NNN]
       revision: A
       ---
-- [ ] File saved as: blog/_posts/YYYY-MM-DD-short-slug.md
+- [ ] File saved as: projects/blog/_posts/YYYY-MM-DD-short-slug.md
 - [ ] Document registry updated
 - [ ] Committed to repository
 -->

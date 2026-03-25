@@ -102,6 +102,6 @@ This is the master list of all documents in the JDS system. Every document must 
 
 | Doc No. | Title | Rev | Date | Status | Author |
 |---------|-------|-----|------|--------|--------|
-| [JDS-BLG-001](../../blog/_posts/2026-03-25-why-i-started-this-blog.md) | Why I Started This Blog | A | 2026-03-25 | PUBLISHED | N. Johansson |
-| [JDS-BLG-002](../../blog/_posts/2026-03-25-what-the-engine-room-teaches-you.md) | What the Engine Room Teaches You About Problem-Solving | A | 2026-03-25 | PUBLISHED | N. Johansson |
-| [JDS-BLG-003](../../blog/_posts/2026-03-25-why-i-chose-build123d.md) | Why I Chose build123d for Parametric CAD | A | 2026-03-25 | PUBLISHED | N. Johansson |
+| [JDS-BLG-001](../../projects/blog/_posts/2026-03-25-why-i-started-this-blog.md) | Why I Started This Blog | A | 2026-03-25 | PUBLISHED | N. Johansson |
+| [JDS-BLG-002](../../projects/blog/_posts/2026-03-25-what-the-engine-room-teaches-you.md) | What the Engine Room Teaches You About Problem-Solving | A | 2026-03-25 | PUBLISHED | N. Johansson |
+| [JDS-BLG-003](../../projects/blog/_posts/2026-03-25-why-i-chose-build123d.md) | Why I Chose build123d for Parametric CAD | A | 2026-03-25 | PUBLISHED | N. Johansson |

@@ -43,25 +43,57 @@ This repository **is** the Johansson Documentation System. Every project, docume
 
 ---
 
-## Repository Map
+## Repository Structure
 
-### System Governance
+The root has four folders. Everything lives in one of them.
 
-| Folder | Purpose |
+```
+theofficeofnilsjohansson/
+├── jds/                ← System governance (quality manual, procedures, templates, registry)
+├── projects/           ← All work output (engineering, 3D models, blog)
+├── scripts/            ← Automation tools (PDF generation, validation, office docs)
+└── personal/           ← Non-JDS content (collections, documents, archive)
+```
+
+### System — `jds/`
+
+| Folder | Contents |
+|--------|----------|
+| `quality-manual/` | QMS-000 Quality Manual, QMS-001 Numbering, QMS-002 Retention |
+| `procedures/` | PRO-001 through PRO-010 (creation, revision, audit, design, etc.) |
+| `templates/` | Blank templates for every document type |
+| `examples/` | Worked examples (reports, inventories, letters) |
+| `registry/` | Master document register + corrective action log |
+| `assets/` | Logo, fonts, colour variants |
+
+### Work — `projects/`
+
+| Folder | Contents |
+|--------|----------|
+| `JDS-PRJ-MEC-001_…/` | Engineering projects (`JDS-PRJ-[DOM]-NNN`) |
+| `3d-modeling/` | 3D CAD projects (`JDS-DWG-[DOM]-NNN`) — [procedure](jds/procedures/JDS-PRO-003_3d-model-management.md) |
+| `blog/` | Engineering blog — [Live site](https://nj22az.github.io/theofficeofnilsjohansson/) |
+
+### Tools — `scripts/`
+
+| Script | Purpose |
 |--------|---------|
-| [`jds/`](jds/) | Quality manual, procedures, templates, examples, registry, brand assets |
-| [`scripts/`](scripts/) | Automation tools — PDF generation, validation, office documents |
+| `jds-validate.py` | Automated 5S audit (100+ checks) |
+| `md2pdf.py` | JDS document to PDF |
+| `md2letter.py` | Letter template to PDF |
+| `office2pdf.py` | Excel workbook to PDF |
+| `generate-office-docs.py` | Generate Excel workbooks (timesheet, expense, mileage) |
+| `logo-variants.py` | Generate SVG logo colour variants |
 
-### Work Areas
+### Personal — `personal/`
 
-| Folder | Purpose |
-|--------|---------|
-| [`projects/`](projects/) | Engineering projects (`JDS-PRJ-[DOM]-NNN`) |
-| [`3d-modeling/`](3d-modeling/) | 3D CAD projects (`JDS-DWG-[DOM]-NNN`) |
-| [`blog/`](blog/) | Engineering blog — [Live site](https://nj22az.github.io/theofficeofnilsjohansson/) |
-| [`documents/`](documents/) | Personal documents (CV, cover letters, notes) |
-| [`collections/`](collections/) | Personal collections (JDS principles, not JDS-numbered) |
-| [`archive/`](archive/) | Archived past work |
+Non-JDS content. Uses JDS principles for structure but not JDS document numbers.
+
+| Folder | Contents |
+|--------|----------|
+| `collections/` | Personal collections (ROM archive) |
+| `documents/` | CV, cover letters, notes |
+| `archive/` | Archived past work |
 
 ---
 
@@ -75,9 +107,9 @@ This repository **is** the Johansson Documentation System. Every project, docume
 
 | JDS No. | Title |
 |---------|-------|
-| [JDS-BLG-001](blog/_posts/2026-03-25-why-i-started-this-blog.md) | Why I Started This Blog |
-| [JDS-BLG-002](blog/_posts/2026-03-25-what-the-engine-room-teaches-you.md) | What the Engine Room Teaches You About Problem-Solving |
-| [JDS-BLG-003](blog/_posts/2026-03-25-why-i-chose-build123d.md) | Why I Chose build123d for Parametric CAD |
+| [JDS-BLG-001](projects/blog/_posts/2026-03-25-why-i-started-this-blog.md) | Why I Started This Blog |
+| [JDS-BLG-002](projects/blog/_posts/2026-03-25-what-the-engine-room-teaches-you.md) | What the Engine Room Teaches You About Problem-Solving |
+| [JDS-BLG-003](projects/blog/_posts/2026-03-25-why-i-chose-build123d.md) | Why I Chose build123d for Parametric CAD |
 
 ---
 

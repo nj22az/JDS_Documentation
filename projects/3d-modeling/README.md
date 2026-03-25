@@ -5,7 +5,7 @@ Each project has its own folder named with its JDS drawing number and engineerin
 ## Structure
 
 ```
-3d-modeling/
+projects/3d-modeling/
 ├── JDS-DWG-MEC-001_project-name/  # Mechanical project
 │   ├── README.md                   # Project card
 │   ├── source/                     # Working files (.blend, .shapr, .py)
@@ -44,14 +44,14 @@ Every project must export: **STEP** + **3MF** + **STL**
 ## Creating a New Project
 
 1. Pick the domain code (MEC, MAR, FAB, etc.)
-2. Get the next DWG number from the [Document Registry](../jds/registry/document-register.md)
+2. Get the next DWG number from the [Document Registry](../../jds/registry/document-register.md)
 3. Create the folder: `JDS-DWG-[DOM]-[NNN]_short-name/`
 4. Add subfolders: `source/`, `exports/`, `references/`, `renders/`
 5. Fill in the README.md project card
 6. Export STEP + 3MF + STL to `exports/`
 7. Register in the document registry
 
-Full procedure: [JDS-PRO-003](../jds/procedures/JDS-PRO-003_3d-model-management.md)
+Full procedure: [JDS-PRO-003](../../jds/procedures/JDS-PRO-003_3d-model-management.md)
 
 ## Tools
 

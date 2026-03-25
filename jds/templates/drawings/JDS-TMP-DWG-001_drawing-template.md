@@ -30,9 +30,9 @@
 
 | File | Tool | Location |
 |------|------|----------|
-| [filename.blend] | Blender | `3d-modeling/blender/` |
-| [filename.shapr] | Shapr3D | `3d-modeling/shapr3d/` |
-| [filename.py] | build123d | `3d-modeling/build123d/` |
+| [filename.blend] | Blender | `projects/3d-modeling/blender/` |
+| [filename.shapr] | Shapr3D | `projects/3d-modeling/shapr3d/` |
+| [filename.py] | build123d | `projects/3d-modeling/build123d/` |
 
 ## 4. Exports
 

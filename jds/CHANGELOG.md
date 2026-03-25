@@ -7,12 +7,16 @@ All changes to the JDS documentation system itself are recorded here. This provi
 ## [3.1] — 2026-03-25
 
 ### Changed — Repository Restructure for Authority
-- **Root README.md** rewritten as JDS authority page — action-oriented "I need to..." task table replaces folder tour. System governance and work areas clearly separated.
-- **`jds/QUICK-REFERENCE.md`** created — one-page cheat sheet for document numbering, category/domain codes, revision sequence, common commands, and new document checklist.
-- **`scripts/README.md`** created — tool reference with usage examples for all 7 automation scripts.
-- **`collections/README.md`** and **`documents/README.md`** created — every folder now self-documents its purpose.
-- **Empty placeholder folders removed** — `software-projects/`, `documents/cv/`, `documents/notes/` (all `.gitkeep` only). Folders are created on demand, not as empty scaffolding.
-- **CLAUDE.md** updated — structure reflects changes, `office2pdf.py` added to automation tools.
+- **Root reduced to 4 folders**: `jds/` (system), `projects/` (work), `scripts/` (tools), `personal/` (non-JDS). Down from 12 top-level folders.
+- **`blog/` moved to `projects/blog/`** — JDS owns the repo structure; Jekyll adapts. GitHub Actions workflow updated.
+- **`3d-modeling/` moved to `projects/3d-modeling/`** — all work output under one roof.
+- **`collections/`, `documents/`, `archive/` moved to `personal/`** — non-JDS content consolidated.
+- **Root README.md** rewritten as JDS authority page — action-oriented "I need to..." task table replaces folder tour.
+- **`jds/QUICK-REFERENCE.md`** created — one-page cheat sheet for document numbering, category/domain codes, revision sequence, common commands.
+- **`scripts/README.md`** created — tool reference with usage examples for all 7 scripts.
+- **All path references updated** — PRO-003, PRO-009, TMP-DWG-001, TMP-BLG-001, document register, CLAUDE.md.
+- **Empty placeholder folders removed** — `software-projects/`, `documents/cv/`, `documents/notes/`.
+- **CLAUDE.md §Structure** now defines the 4-folder root formally.
 
 ### Added — Office Document PDF Converter
 - **`scripts/office2pdf.py`**: Reads JDS Excel workbooks (timesheet, expense, mileage) and renders as proper JDS-PRO-007 compliant PDFs using weasyprint. Same design language as `md2pdf.py` — logo header band, metadata card, navy headings, alternating rows, computed totals, running header/footer.

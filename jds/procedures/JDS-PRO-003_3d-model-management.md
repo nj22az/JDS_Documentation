@@ -28,10 +28,10 @@ Applies to all 3D modeling and drawing work, including:
 
 ### 3.1 Overview
 
-Each modeling project gets its own folder under `3d-modeling/`, named with its JDS drawing number:
+Each modeling project gets its own folder under `projects/3d-modeling/`, named with its JDS drawing number:
 
 ```
-3d-modeling/
+projects/3d-modeling/
 ├── JDS-DWG-MEC-001_flange-adapter/    # One folder per project
 │   ├── README.md                       # Project card (quick reference)
 │   ├── source/                         # Source/working files
@@ -190,7 +190,7 @@ Check the [Document Registry](../registry/document-register.md) for the next ava
 ### Step 2: Create the project folder
 
 ```bash
-mkdir -p 3d-modeling/JDS-DWG-MEC-001_short-name/{source,exports,references,renders}
+mkdir -p projects/3d-modeling/JDS-DWG-MEC-001_short-name/{source,exports,references,renders}
 ```
 
 ### Step 3: Create the project card
@@ -275,7 +275,7 @@ Binary files (`.blend`, `.shapr`, images, STL) don't diff well in Git. Best prac
 ## 9. Quick Checklist: New 3D Project
 
 - [ ] DWG number with domain code assigned from registry
-- [ ] Project folder created: `3d-modeling/JDS-DWG-[DOM]-[NNN]_name/`
+- [ ] Project folder created: `projects/3d-modeling/JDS-DWG-[DOM]-[NNN]_name/`
 - [ ] Subfolders created: `source/`, `exports/`, `references/`, `renders/`
 - [ ] README.md project card filled in
 - [ ] Source files saved in `source/`

@@ -3,7 +3,7 @@ name: Deploy Jekyll Blog
 on:
   push:
     branches: ["main"]
-    paths: ["blog/**"]
+    paths: ["projects/blog/**"]
   workflow_dispatch:
 
 permissions:
@@ -25,12 +25,12 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
         with:
-          source: blog
+          source: projects/blog
 
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
-          source: ./blog
+          source: ./projects/blog
           destination: ./_site
 
       - name: Upload artifact

@@ -24,7 +24,7 @@ Applies to:
 
 ## 3. Competence Register
 
-A competence register is maintained at `documents/cv/competence-register.md`. It contains:
+A competence register is maintained at `personal/documents/cv/competence-register.md`. It contains:
 
 ### 3.1 Formal Qualifications
 
@@ -84,7 +84,7 @@ Before engaging a sub-contractor for quality-affecting work:
 
 ### 5.1 Storage
 
-- Digital copies of all certificates stored in `documents/cv/certificates/`
+- Digital copies of all certificates stored in `personal/documents/cv/certificates/`
 - Named as: `YYYY-MM-DD_issuer_certificate-name.pdf`
 - Original hard copies maintained in personal files
 

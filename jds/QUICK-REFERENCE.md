@@ -63,8 +63,8 @@ Valid statuses: **DRAFT** → **CURRENT** → **SUPERSEDED** / **VOID**
 | Document type | Folder |
 |---------------|--------|
 | Engineering projects | `projects/JDS-PRJ-[DOM]-NNN_name/` |
-| 3D models & drawings | `3d-modeling/JDS-DWG-[DOM]-NNN_name/` |
-| Blog posts | `blog/_posts/YYYY-MM-DD-slug.md` |
+| 3D models & drawings | `projects/3d-modeling/JDS-DWG-[DOM]-NNN_name/` |
+| Blog posts | `projects/blog/_posts/YYYY-MM-DD-slug.md` |
 | System procedures | `jds/procedures/` |
 | Templates | `jds/templates/[type]/` |
 | Examples | `jds/examples/[type]/` |
