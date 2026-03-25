@@ -11,7 +11,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | Doc No. | Title | Rev | Date | Status | Author |
 |---------|-------|-----|------|--------|--------|
 | [JDS-QMS-000](../quality-manual/JDS-QMS-000_quality-manual.md) | Quality Manual | C | 2026-03-25 | APPROVED | N. Johansson |
-| [JDS-QMS-001](../quality-manual/JDS-QMS-001_document-numbering.md) | Document Numbering Standard | B | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-QMS-001](../quality-manual/JDS-QMS-001_document-numbering.md) | Document Numbering Standard | C | 2026-03-25 | APPROVED | N. Johansson |
 
 ## Procedures (PRO)
 
@@ -29,14 +29,14 @@ This is the master list of all documents in the JDS system. Every document must 
 
 | Doc No. | Title | Rev | Date | Status | Author |
 |---------|-------|-----|------|--------|--------|
-| [JDS-TMP-001](../templates/JDS-TMP-001_report-template.md) | Report Template | A | 2026-03-25 | APPROVED | N. Johansson |
-| [JDS-TMP-002](../templates/JDS-TMP-002_timesheet-template.md) | Timesheet Template | A | 2026-03-25 | APPROVED | N. Johansson |
-| [JDS-TMP-003](../templates/JDS-TMP-003_expense-report-template.md) | Expense Report Template | A | 2026-03-25 | APPROVED | N. Johansson |
-| [JDS-TMP-004](../templates/JDS-TMP-004_manual-template.md) | Manual Template | A | 2026-03-25 | APPROVED | N. Johansson |
-| [JDS-TMP-005](../templates/JDS-TMP-005_drawing-model-template.md) | Drawing / Model Documentation Template | A | 2026-03-25 | APPROVED | N. Johansson |
-| [JDS-TMP-006](../templates/JDS-TMP-006_project-document-template.md) | Project Document Template | A | 2026-03-25 | APPROVED | N. Johansson |
-| [JDS-TMP-007](../templates/JDS-TMP-007_blog-post-template.md) | Blog Post Template | A | 2026-03-25 | APPROVED | N. Johansson |
-| [JDS-TMP-008](../templates/logs/JDS-TMP-008_pressure-vessel-inventory-template.md) | Pressure Vessel Inventory Template | A | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-TMP-RPT-001](../templates/reports/JDS-TMP-RPT-001_report-template.md) | Report Template | A | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-TMP-TSH-001](../templates/timesheets/JDS-TMP-TSH-001_timesheet-template.md) | Timesheet Template | A | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-TMP-EXP-001](../templates/expenses/JDS-TMP-EXP-001_expense-template.md) | Expense Report Template | A | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-TMP-MAN-001](../templates/manuals/JDS-TMP-MAN-001_manual-template.md) | Manual Template | A | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-TMP-DWG-001](../templates/drawings/JDS-TMP-DWG-001_drawing-template.md) | Drawing / Model Documentation Template | A | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-TMP-PRJ-001](../templates/projects/JDS-TMP-PRJ-001_project-template.md) | Project Document Template | A | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-TMP-BLG-001](../templates/blog-posts/JDS-TMP-BLG-001_blog-post-template.md) | Blog Post Template | A | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-TMP-LOG-001](../templates/logs/JDS-TMP-LOG-001_pressure-vessel-inventory-template.md) | Pressure Vessel Inventory Template | A | 2026-03-25 | APPROVED | N. Johansson |
 
 ## Reports (RPT)
 

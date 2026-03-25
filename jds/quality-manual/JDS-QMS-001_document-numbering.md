@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-QMS-001 |
-| **Revision** | B |
+| **Revision** | C |
 | **Date** | 2026-03-25 |
 | **Status** | APPROVED |
 | **Author** | Nils Johansson |
@@ -189,12 +189,19 @@ Check the [Document Registry](../registry/document-register.md) for the last use
 
 ### 8.1 Templates
 
-Templates use the TMP category (no domain code):
+Templates use the TMP category with a **target category code** instead of a domain code. The target code identifies what type of document the template produces:
 
 ```
-JDS-TMP-001_report-template.md
-JDS-TMP-002_timesheet-template.md
+JDS-TMP-[TARGET]-[NNN]
+
+JDS-TMP-RPT-001    Template for Reports
+JDS-TMP-TSH-001    Template for Timesheets
+JDS-TMP-LOG-001    Template for Logs & Records
+JDS-TMP-DWG-001    Template for Drawings
+JDS-TMP-PRJ-001    Template for Project Documents
 ```
+
+This way you can tell at a glance what kind of document a template creates. Numbering is sequential within each target category (RPT-001, RPT-002, etc.).
 
 ### 8.2 Blog Posts
 
@@ -233,7 +240,7 @@ JDS-RPT-MEC-015-PROJ01_commissioning-report.md
 | Plan a project | PRJ | MEC, FAB, SFW |
 | Record maintenance | LOG | MAR, MEC |
 | Write a client letter | COR | GEN, MEC |
-| Create a blank form | TMP | *(no domain)* |
+| Create a blank form | TMP | *(target category code, e.g. TMP-RPT)* |
 | Define a system rule | QMS | *(no domain)* |
 | Publish a blog article | BLG | MEC, MAR, SFW |
 
@@ -245,3 +252,4 @@ JDS-RPT-MEC-015-PROJ01_commissioning-report.md
 |-----|------|--------|-------------|
 | A | 2026-03-25 | Nils Johansson | Initial release |
 | B | 2026-03-25 | Nils Johansson | Renamed JEDS to JDS. Added engineering domain codes. Restructured numbering format. |
+| C | 2026-03-25 | Nils Johansson | Templates now use target category codes (JDS-TMP-RPT-001 instead of JDS-TMP-001). |
