@@ -32,11 +32,14 @@ The `jds/` directory contains a complete in-house documentation and quality mana
 ├── projects/             # Engineering projects (JDS-managed)
 │   └── JDS-PRJ-MEC-001_pressure-vessel-maintenance/
 │
+├── scripts/              # JDS tooling
+│   ├── md2pdf.py          # JDS-PRO-007 compliant PDF generator
+│   └── md2letter.py       # Correspondence letter PDF generator
+│
 ├── software-projects/    # Software development projects
 │
 ├── collections/          # Personal collections
 │   └── rom-archive/      # Classical video game ROM preservation
-│       └── game-boy-color/links-awakening-dx/  # Example game folder
 │
 ├── documents/            # Personal documents
 │   ├── cv/               # CV and cover letters

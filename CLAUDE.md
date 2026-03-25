@@ -9,6 +9,8 @@ Personal workspace for Nils Johansson's project files, including 3D modeling and
 - `3d-modeling/` - 3D modeling projects, each in its own JDS-DWG-[DOM]-NNN folder (Blender, Shapr3D, build123d)
 - `projects/` - Engineering projects, each in its own JDS-PRJ-[DOM]-NNN folder
 - `software-projects/` - Software development projects
+- `scripts/` - JDS tooling (md2pdf.py for document PDFs, md2letter.py for correspondence)
+- `collections/` - Personal collections (ROM archive, etc.) — uses JDS principles but not JDS document numbers
 - `documents/` - CV, cover letters, notes
 - `archive/` - Archived past projects (e.g., previous website)
 
@@ -46,7 +48,8 @@ Personal workspace for Nils Johansson's project files, including 3D modeling and
 All PDFs exported from JDS documents MUST follow JDS-PRO-007 (Information Design Standard). Use `/pdf <filepath>` to generate compliant PDFs.
 
 ### Mandatory PDF Requirements
-- **Tool**: `python3 scripts/md2pdf.py <input.md> [output.pdf]`
+- **Documents**: `python3 scripts/md2pdf.py <input.md> [output.pdf]`
+- **Letters**: `python3 scripts/md2letter.py <input.md> [output.pdf]`
 - **Dependencies**: `pip3 install weasyprint markdown` (if not installed)
 
 ### JDS-PRO-007 Visual Standards (enforced in stylesheet)
