@@ -10,7 +10,7 @@ This is the master list of all documents in the JDS system. Every document must 
 
 | Doc No. | Title | Rev | Date | Status | Author |
 |---------|-------|-----|------|--------|--------|
-| [JDS-QMS-000](../quality-manual/JDS-QMS-000_quality-manual.md) | Quality Manual | B | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-QMS-000](../quality-manual/JDS-QMS-000_quality-manual.md) | Quality Manual | C | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-QMS-001](../quality-manual/JDS-QMS-001_document-numbering.md) | Document Numbering Standard | B | 2026-03-25 | APPROVED | N. Johansson |
 
 ## Procedures (PRO)
@@ -23,6 +23,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | [JDS-PRO-004](../../projects/JDS-PRJ-MEC-001_pressure-vessel-maintenance/01-framework/inspection-planning.md) | Inspection Planning Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-PRO-005](../procedures/JDS-PRO-005_document-review-audit.md) | Document Review & Audit Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-PRO-006](../procedures/JDS-PRO-006_project-komplekt.md) | Project Komplekt Standard | A | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-PRO-007](../procedures/JDS-PRO-007_information-design.md) | Information Design Standard | A | 2026-03-25 | APPROVED | N. Johansson |
 
 ## Templates (TMP)
 

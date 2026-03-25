@@ -4,6 +4,24 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [2.2] — 2026-03-25
+
+### Added
+- **JDS-PRO-007**: Information Design Standard — Japanese-inspired visual design principles for all JDS documents (Ma, Bento layout, colour system, typography, three-level reading, Monozukuri)
+- **Heritage & Reuse** principle in quality manual — from ISRO's frugal engineering (only document what's new)
+- **Tiered Change Control** in quality manual — from Embraer (3 tiers: safety-critical, quality-affecting, administrative)
+- **Knowledge Gaps & Documentation Confidence** in quality manual — from Petrobras/Baikonur (explicitly document unknowns and data reliability)
+- **21 design principles** in quality manual from 15+ global traditions including: Lagom (Swedish), Grundlichkeit (German), Golden Project (Taiwan/TSMC), Commander's Intent (Israeli IDF), Design vs. As-Found (DNV), Horizontal Deployment (Samsung Korea), Lifecycle Documentation (NORSOK Norway), Failure Memory (Indian Railways)
+
+### Changed
+- **JDS-QMS-000** Quality Manual updated to Rev C — added information design, heritage reuse, tiered change control, knowledge gaps, expanded design principles table
+- **Document Registry** updated with PRO-007 and QMS-000 Rev C
+
+### Research Basis
+Compared JDS against documentation systems from: Taiwan (TSMC), South Korea (Hyundai Heavy/Samsung), Norway (NORSOK/DNV), Germany (DIN/Mittelstand/VDI), Switzerland (CERN/watchmaking), Israel (IDF/defense), India (ISRO/Railways), Brazil (Embraer/Petrobras), Kazakhstan (Baikonur), Ukraine (Antonov), Belarus (BelAZ)
+
+---
+
 ## [2.1] — 2026-03-25
 
 ### Added

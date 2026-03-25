@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-QMS-000 |
-| **Revision** | B |
+| **Revision** | C |
 | **Date** | 2026-03-25 |
 | **Status** | APPROVED |
 | **Author** | Nils Johansson |
@@ -206,13 +206,59 @@ When new tools, methods, or standards are studied and adopted, the learning proc
 
 This practice, drawn from Chinese engineering tradition, builds a compounding knowledge base over time.
 
-## 14. Design Principles
+## 14. Information Design
+
+Documents are not just carriers of information — they are engineered artifacts. The visual presentation of a document is inseparable from its content. JDS follows the Japanese information design tradition, codified in [JDS-PRO-007](../procedures/JDS-PRO-007_information-design.md).
+
+**Core visual principles:**
+- **Ma (間)** — meaningful white space that organises information
+- **Bento box layout** — self-contained compartments forming a complete whole
+- **Zukai (図解)** — if you can't diagram it, you don't understand it
+- **Colour is language** — every colour means something, used consistently, never decoratively
+- **Three-level reading** — every document works at glance (0.5s), scan (5s), and read (minutes) levels
+
+> *The quality of your documentation is the visible surface of the quality of your engineering.* — Monozukuri principle
+
+## 15. Heritage and Reuse
+
+When starting a new project, explicitly identify what is reused from previous work versus what is new. Only fully document new elements. Reference previous project documentation for heritage items. This practice, drawn from ISRO's frugal engineering tradition, can reduce documentation effort by 50–70% on repeat projects.
+
+Implementation: every project README should include a "Heritage" section listing reused elements and their source.
+
+## 16. Tiered Change Control
+
+Not all changes deserve the same documentation overhead. JDS uses three tiers, adapted from Embraer's aerospace practice:
+
+| Tier | Scope | Process |
+|------|-------|---------|
+| **Safety-Critical** | Changes affecting safety, structural integrity, or regulatory compliance | Full revision process (JDS-PRO-002), review, registry update |
+| **Quality-Affecting** | Changes to technical content, calculations, or specifications | Revision with documented rationale |
+| **Administrative** | Typos, formatting, broken links | Git commit with descriptive message, same revision letter |
+
+## 17. Knowledge Gaps and Documentation Confidence
+
+For projects at the edge of proven experience, explicitly document what you do NOT know. This practice, drawn from Petrobras' deepwater engineering, prevents the dangerous illusion of complete knowledge.
+
+**Knowledge Gaps section:** Mandatory for complex or novel projects. Must be non-empty. Lists uncertainties, assumptions, and areas requiring further investigation.
+
+**Documentation Confidence Levels** (from Baikonur Cosmodrome practice):
+
+| Level | Meaning |
+|-------|---------|
+| **Verified** | Based on direct measurement or physical confirmation |
+| **Calculated** | Based on engineering analysis with verified inputs |
+| **Estimated** | Based on engineering judgment or analogous experience |
+| **Assumed** | Based on assumptions that have not been verified |
+
+Use these to mark critical data points in reports and specifications.
+
+## 18. Design Principles
 
 JDS incorporates the best principles from global documentation traditions:
 
 | Principle | Origin | Application |
 |-----------|--------|-------------|
-| **One page per topic** | Toyota A3 | Keep documents focused; split if too long |
+| **One page per topic** | Toyota A3 / Korean Bogoser | Keep documents focused; split if too long |
 | **Komplekt completeness** | Russian ESKD | Define required documents upfront |
 | **5S for documents** | Japanese Lean | Quarterly audit cycle for system health |
 | **Single source of truth** | ISO 9001 / Apple DRI | Main branch = the truth. One owner per document. |
@@ -221,6 +267,18 @@ JDS incorporates the best principles from global documentation traditions:
 | **Personal accountability** | Chinese quality practice | Named owner on every document |
 | **Risk-based control** | ISO 9001:2015 | Safety-critical docs get rigorous review; notes get lighter treatment |
 | **Craftsmanship** | Japanese Monozukuri | The document itself reflects professional pride |
+| **Lagom** | Swedish tradition | Just the right amount of documentation — not too much, not too little |
+| **Grundlichkeit** | German Mittelstand | Document it once, document it completely |
+| **Heritage reuse** | ISRO India | Only fully document what is new; reference previous work |
+| **Commander's Intent** | Israeli IDF | Every project starts with a clear statement of what success looks like |
+| **Golden Project** | Taiwan TSMC | Designate reference projects; document only deviations for similar work |
+| **Design vs. As-Found** | DNV Classification | Always document both intended state and actual state |
+| **Zero ambiguity** | Swiss precision | A specification should leave nothing to interpretation |
+| **Horizontal deployment** | Samsung Korea | When something goes wrong, ask: where else could this happen? |
+| **Ma — meaningful space** | Japanese information design | White space organises; never fill space for the sake of filling it |
+| **Lifecycle documentation** | NORSOK Norway | Documents follow equipment from cradle to grave |
+| **Knowledge gaps** | Petrobras Brazil | Explicitly document what you don't know |
+| **Failure memory** | Indian Railways | Maintain a failure register; consult it at every project start |
 
 ---
 
@@ -230,3 +288,4 @@ JDS incorporates the best principles from global documentation traditions:
 |-----|------|--------|-------------|
 | A | 2026-03-25 | Nils Johansson | Initial release |
 | B | 2026-03-25 | Nils Johansson | Added Komplekt concept, 5S document management, classification tiers, before/after tracking, design principles from global best practices, technology absorption, archive structure |
+| C | 2026-03-25 | Nils Johansson | Added Information Design (Japanese), Heritage & Reuse (ISRO), Tiered Change Control (Embraer), Knowledge Gaps & Documentation Confidence (Petrobras/Baikonur), expanded design principles table with 21 principles from 15+ global traditions |
