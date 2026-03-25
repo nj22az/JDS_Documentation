@@ -165,11 +165,10 @@ body {{
 }}
 
 .logo-header img {{
-    width: 38pt;
-    height: 38pt;
+    width: 52pt;
+    height: 52pt;
     vertical-align: middle;
     margin-right: 10pt;
-    border-radius: 50%;
 }}
 
 .logo-header .brand-text {{

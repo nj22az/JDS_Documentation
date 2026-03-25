@@ -1,7 +1,7 @@
 # Project Instructions for Claude
 
 ## Repository Purpose
-Personal workspace for Nils Johansson's project files, including 3D modeling and software projects.
+This repository IS the Johansson Documentation System (JDS). Every project, document, drawing, blog post, and record lives here under one unified system. JDS governs how work is created, numbered, revised, and found.
 
 ## Structure
 - `jds/` - Johansson Documentation System (quality manual, procedures, templates, registry)
@@ -108,8 +108,32 @@ All PDFs exported from JDS documents MUST follow JDS-PRO-007 (Information Design
 4. Reports (RPT) over 3 pages have at least one visual element (§7.1)
 5. Only JDS palette colours used (§6.1)
 
+### Table Design Rules
+- **Maximum 7 columns per table** on A4 portrait — wider tables get truncated and are unreadable
+- If data needs more columns, **split into multiple related tables** linked by a shared ID column
+- The validator (`jds-validate.py`) will flag tables with >7 columns as errors
+- For very wide data sets, consider landscape orientation or restructuring as card layouts
+
+### Logo & Brand Rules
+- The Johansson Engineering 1983 stamp logo is at `jds/assets/logo.png`
+- The logo is a circular stamp — **never squish, crop to circle, or apply border-radius**
+- Minimum display size: **52pt** in documents, **72pt** in letterheads
+- The logo is Nils Johansson's brand and image — it must be clearly readable at all times
+- Both `md2pdf.py` and `md2letter.py` embed the logo via base64 data URI
+
 ### Monozukuri Self-Check (§8.1 — before issuing)
 - Headings follow 4-level hierarchy consistently
 - White space (ma) separates sections clearly
 - Status block is complete and accurate
 - Document works at all three reading levels: glance (0.5s), scan (5s), read (minutes)
+
+### Preventing Recurring Issues (Self-Improvement Protocol)
+When any formatting, styling, layout, or content issue is found:
+1. **Fix the immediate instance** — correct the document
+2. **Fix the root cause** — update the template, script, or stylesheet that produced it
+3. **Add automated detection** — add a check to `jds-validate.py` so it's caught automatically
+4. **Update CLAUDE.md** — add the rule here so it's never repeated
+5. **Log the corrective action** — record in `jds/registry/corrective-action-log.md`
+6. **Bump the version** — update `jds/README.md` and `jds/CHANGELOG.md`
+
+This is the JDS Kaizen cycle. The system must get better every session, never worse.

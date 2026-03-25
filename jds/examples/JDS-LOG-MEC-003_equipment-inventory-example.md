@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-LOG-MEC-003 |
-| **Revision** | A |
+| **Revision** | B |
 | **Date** | 2026-03-25 |
 | **Status** | EXAMPLE |
 | **Author** | Nils Johansson |
@@ -16,14 +16,27 @@ This inventory provides a complete register of pressure vessels and pressurised 
 
 ## 2. Equipment Register
 
-| Vessel ID | Description | Location | Manufacturer | Year | Serial No. | PS (bar) | V (L) | PS×V | Medium | Class |
-|-----------|-------------|----------|-------------|------|------------|----------|-------|------|--------|-------|
-| PV-001 | Compressed air receiver | Compressor room | Atlas Copco | 2018 | AC-2018-4472 | 11 | 500 | 5500 | Air | A |
-| PV-002 | Compressed air receiver | Workshop south | Pneumatech | 2015 | PT-15-882 | 10 | 250 | 2500 | Air | B |
-| PV-003 | Hydraulic accumulator | Press station 1 | Hydac | 2020 | HY-20-1193 | 250 | 50 | 12500 | N₂/Oil | A |
-| PV-004 | Steam boiler | Boiler house | Bosch | 2012 | BSH-12-5561 | 6 | 800 | 4800 | Steam | A |
-| HE-001 | Shell & tube heat exchanger | Engine room | Alfa Laval | 2019 | AL-19-7034 | 16 | 120 | 1920 | Glycol | B |
-| AR-001 | Nitrogen cylinder bank | Gas store | AGA | 2021 | AGA-21-0044 | 200 | 50×6 | 60000 | N₂ | A |
+### 2.1 Identification
+
+| Vessel ID | Description | Location | Manufacturer | Year | Serial No. |
+|-----------|-------------|----------|-------------|------|------------|
+| PV-001 | Compressed air receiver | Compressor room | Atlas Copco | 2018 | AC-2018-4472 |
+| PV-002 | Compressed air receiver | Workshop south | Pneumatech | 2015 | PT-15-882 |
+| PV-003 | Hydraulic accumulator | Press station 1 | Hydac | 2020 | HY-20-1193 |
+| PV-004 | Steam boiler | Boiler house | Bosch | 2012 | BSH-12-5561 |
+| HE-001 | Shell & tube heat exchanger | Engine room | Alfa Laval | 2019 | AL-19-7034 |
+| AR-001 | Nitrogen cylinder bank | Gas store | AGA | 2021 | AGA-21-0044 |
+
+### 2.2 Technical Data
+
+| Vessel ID | PS (bar) | V (L) | PS×V | Medium | Class |
+|-----------|----------|-------|------|--------|-------|
+| PV-001 | 11 | 500 | 5500 | Air | A |
+| PV-002 | 10 | 250 | 2500 | Air | B |
+| PV-003 | 250 | 50 | 12500 | N₂/Oil | A |
+| PV-004 | 6 | 800 | 4800 | Steam | A |
+| HE-001 | 16 | 120 | 1920 | Glycol | B |
+| AR-001 | 200 | 50×6 | 60000 | N₂ | A |
 
 ## 3. Inspection Status
 
@@ -48,14 +61,14 @@ This inventory provides a complete register of pressure vessels and pressurised 
 
 ## 5. Annual Inspection Calendar 2026
 
-| Vessel | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
-|--------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| PV-001 | | | | | | | | | | | | |
-| PV-002 | | | | | | | | | | | | |
-| PV-003 | | | | | | | | | | | R | |
-| PV-004 | | | | | | | | | R | | | |
-| HE-001 | | | | | | | | | | | | |
-| AR-001 | | | | | | | | | | | | |
+| Vessel | Q1 (Jan–Mar) | Q2 (Apr–Jun) | Q3 (Jul–Sep) | Q4 (Oct–Dec) |
+|--------|-------------|-------------|-------------|-------------|
+| PV-001 | — | — | — | — |
+| PV-002 | — | — | — | — |
+| PV-003 | — | — | — | R (Nov) |
+| PV-004 | — | — | R (Sep) | — |
+| HE-001 | — | — | — | — |
+| AR-001 | — | — | — | — |
 
 R = Revision (internal), E = External, P = Pressure test
 
@@ -66,3 +79,4 @@ R = Revision (internal), E = External, P = Pressure test
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
 | A | 2026-03-25 | Nils Johansson | Example inventory for JDS demonstration |
+| B | 2026-03-25 | Nils Johansson | Split wide tables to ≤7 columns for A4 readability |

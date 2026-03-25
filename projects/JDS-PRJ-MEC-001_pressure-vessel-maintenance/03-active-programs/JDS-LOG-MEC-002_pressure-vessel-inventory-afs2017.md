@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-LOG-MEC-002 |
-| **Revision** | A |
+| **Revision** | B |
 | **Date** | 2026-03-25 |
 | **Status** | APPROVED |
 | **Author** | Nils Johansson |
@@ -114,33 +114,47 @@ Fill **one row per vessel**. All fields marked (M) are mandatory under AFS 2017:
 
 ### 4.2 Identification Data
 
-| Vessel ID (M) | Tag/KKS | Description (M) | Location (M) | Manufacturer (M) | Model | Year (M) | Serial No. (M) |
-|---------------|---------|-----------------|--------------|-------------------|-------|----------|-----------------|
-| PV-001 | | | | | | | |
-| PV-002 | | | | | | | |
-| PV-003 | | | | | | | |
-| PV-004 | | | | | | | |
-| PV-005 | | | | | | | |
+| Vessel ID (M) | Tag/KKS | Description (M) | Location (M) | Manufacturer (M) | Year (M) | Serial No. (M) |
+|---------------|---------|-----------------|--------------|-------------------|----------|-----------------|
+| PV-001 | | | | | | |
+| PV-002 | | | | | | |
+| PV-003 | | | | | | |
+| PV-004 | | | | | | |
+| PV-005 | | | | | | |
 
-### 4.3 Technical Data
+*Note: Manufacturer model/type designation is recorded in the Technical Data table below.*
 
-| Vessel ID | PS bar (M) | TS max °C (M) | TS min °C | Volume L (M) | DN mm | PS×V bar·L (M) | Medium (M) | Fluid Group (M) | Material |
-|-----------|-----------|---------------|-----------|-------------|-------|----------------|-----------|-----------------|----------|
-| PV-001 | | | | | | | | | |
-| PV-002 | | | | | | | | | |
-| PV-003 | | | | | | | | | |
-| PV-004 | | | | | | | | | |
-| PV-005 | | | | | | | | | |
+### 4.3 Technical Data — Pressure & Volume
+
+| Vessel ID | PS bar (M) | TS max °C (M) | TS min °C | Volume L (M) | DN mm | PS×V bar·L (M) |
+|-----------|-----------|---------------|-----------|-------------|-------|----------------|
+| PV-001 | | | | | | |
+| PV-002 | | | | | | |
+| PV-003 | | | | | | |
+| PV-004 | | | | | | |
+| PV-005 | | | | | | |
+
+### 4.3b Technical Data — Medium & Construction
+
+| Vessel ID | Medium (M) | Fluid Group (M) | Material | Model |
+|-----------|-----------|-----------------|----------|-------|
+| PV-001 | | | | |
+| PV-002 | | | | |
+| PV-003 | | | | |
+| PV-004 | | | | |
+| PV-005 | | | | |
 
 ### 4.4 Regulatory Classification
 
-| Vessel ID | PED Category (M) | AFS Klass (M) | CE Marked (M) | NB No. | EU DoC on file (M) | Design Standard |
-|-----------|-----------------|---------------|---------------|--------|--------------------|--------------------|
-| PV-001 | | A / B | Yes / No | | Yes / No | |
-| PV-002 | | A / B | Yes / No | | Yes / No | |
-| PV-003 | | A / B | Yes / No | | Yes / No | |
-| PV-004 | | A / B | Yes / No | | Yes / No | |
-| PV-005 | | A / B | Yes / No | | Yes / No | |
+| Vessel ID | PED Category (M) | AFS Klass (M) | CE Marked (M) | NB No. | EU DoC on file (M) |
+|-----------|-----------------|---------------|---------------|--------|---------------------|
+| PV-001 | | A / B | Yes / No | | Yes / No |
+| PV-002 | | A / B | Yes / No | | Yes / No |
+| PV-003 | | A / B | Yes / No | | Yes / No |
+| PV-004 | | A / B | Yes / No | | Yes / No |
+| PV-005 | | A / B | Yes / No | | Yes / No |
+
+*Note: Design standard is recorded in the Document References section.*
 
 ### 4.5 Operational Data
 
@@ -154,13 +168,23 @@ Fill **one row per vessel**. All fields marked (M) are mandatory under AFS 2017:
 
 ### 4.6 Inspection Status
 
-| Vessel ID | Last Inspection (M) | Type (M) | Next Due (M) | Inspector/Organ (M) | Certificate Ref (M) | Result (M) | Status (M) | Condition |
-|-----------|--------------------|---------|--------------|--------------------|-----------------------|-----------|-----------|-----------|
-| PV-001 | | | | | | | | |
-| PV-002 | | | | | | | | |
-| PV-003 | | | | | | | | |
-| PV-004 | | | | | | | | |
-| PV-005 | | | | | | | | |
+| Vessel ID | Last Inspection (M) | Type (M) | Next Due (M) | Inspector/Organ (M) | Result (M) | Status (M) |
+|-----------|--------------------|---------|--------------|--------------------|-----------|-----------|
+| PV-001 | | | | | | |
+| PV-002 | | | | | | |
+| PV-003 | | | | | | |
+| PV-004 | | | | | | |
+| PV-005 | | | | | | |
+
+### 4.6b Inspection Details
+
+| Vessel ID | Certificate Ref (M) | Condition | Notes |
+|-----------|---------------------|-----------|-------|
+| PV-001 | | | |
+| PV-002 | | | |
+| PV-003 | | | |
+| PV-004 | | | |
+| PV-005 | | | |
 
 **Status values:** IN SERVICE / IN SERVICE — MONITOR / OUT OF SERVICE / AWAITING INSPECTION / DECOMMISSIONED / NEW — NOT YET COMMISSIONED
 
@@ -174,11 +198,19 @@ Fill **one row per vessel**. All fields marked (M) are mandatory under AFS 2017:
 
 Every pressure vessel must have identified safety devices. Test safety valves at intervals specified by the manufacturer or accredited body.
 
-| Device ID | Type | Protects Vessel | Set Pressure bar | Capacity | Test Interval | Last Test | Next Test | Result | Tested By | Certificate |
-|-----------|------|-----------------|-----------------|----------|---------------|-----------|-----------|--------|-----------|-------------|
-| SV-001 | | PV-001 | | | | | | | | |
-| SV-002 | | PV-002 | | | | | | | | |
-| BD-001 | | | | | | | | | | |
+| Device ID | Type | Protects Vessel | Set Pressure bar | Capacity | Test Interval |
+|-----------|------|-----------------|-----------------|----------|---------------|
+| SV-001 | | PV-001 | | | |
+| SV-002 | | PV-002 | | | |
+| BD-001 | | | | | |
+
+### 5.1 Safety Device Test Records
+
+| Device ID | Last Test | Next Test | Result | Tested By | Certificate |
+|-----------|-----------|-----------|--------|-----------|-------------|
+| SV-001 | | | | | |
+| SV-002 | | | | | |
+| BD-001 | | | | | |
 
 **Device types:** Safety valve (SV) / Rupture disc (BD) / Pressure switch (PS) / Fusible plug (FP)
 
@@ -188,13 +220,13 @@ Every pressure vessel must have identified safety devices. Test safety valves at
 
 Mark planned inspections. Replace with **✓** when completed, **✗** if missed/postponed.
 
-| Vessel ID | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
-|-----------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| PV-001 | | | | | | | | | | | | |
-| PV-002 | | | | | | | | | | | | |
-| PV-003 | | | | | | | | | | | | |
-| SV-001 | | | | | | | | | | | | |
-| SV-002 | | | | | | | | | | | | |
+| Vessel ID | Q1 (Jan–Mar) | Q2 (Apr–Jun) | Q3 (Jul–Sep) | Q4 (Oct–Dec) |
+|-----------|-------------|-------------|-------------|-------------|
+| PV-001 | — | — | — | — |
+| PV-002 | — | — | — | — |
+| PV-003 | — | — | — | — |
+| SV-001 | — | — | — | — |
+| SV-002 | — | — | — | — |
 
 **Codes:** EXT = Utvändig kontroll / INT = Invändig revision / PT = Tryckprov / SV = Säkerhetsventilprov / FK = Första kontroll
 
@@ -263,3 +295,4 @@ For each vessel, verify these documents exist and are filed:
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
 | A | 2026-03-25 | Nils Johansson | Initial release — AFS 2017:3 compliant inventory with classification guide, inspection intervals, and safety device register |
+| B | 2026-03-25 | Nils Johansson | Split wide tables to max 7 columns for A4 readability (JDS-PRO-007 compliance) |

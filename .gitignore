@@ -37,3 +37,5 @@ __pycache__/
 
 # Generated PDFs — JDS-PRO-005 §6: Git is the controlled copy, PDFs are uncontrolled
 *.pdf
+# Exception: safe-to-delete/ review copies explicitly requested by user
+!safe-to-delete/*.pdf

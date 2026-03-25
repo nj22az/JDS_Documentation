@@ -89,13 +89,31 @@ This inventory is the master register of all pressurised vessels at [site name].
 
 ## 4. Inventory Register
 
-*Copy the table below and fill one row per vessel. Add rows as needed.*
+*Copy the tables below and fill one row per vessel. Add rows as needed. Tables are linked by Vessel ID.*
 
-| Vessel ID | Description | Location | Manufacturer | Year | Serial No. | PS (bar) | V (L) | PS×V | Medium | Group | Class | Last Insp. | Next Insp. | Inspector | Status |
-|-----------|-------------|----------|--------------|------|------------|----------|-------|------|--------|-------|-------|------------|------------|-----------|--------|
-| PV-001 | *[example]* | *[loc]* | *[mfr]* | *[yr]* | *[s/n]* | *[bar]* | *[L]* | *[bar·L]* | *[medium]* | *[1/2]* | *[A/B/C]* | *[date]* | *[date]* | *[name]* | *[status]* |
-| | | | | | | | | | | | | | | | |
-| | | | | | | | | | | | | | | | |
+### 4.1 Identification
+
+| Vessel ID | Description | Location | Manufacturer | Year | Serial No. |
+|-----------|-------------|----------|--------------|------|------------|
+| PV-001 | *[example]* | *[loc]* | *[mfr]* | *[yr]* | *[s/n]* |
+| | | | | | |
+| | | | | | |
+
+### 4.2 Technical Data
+
+| Vessel ID | PS (bar) | V (L) | PS×V | Medium | Group | Class |
+|-----------|----------|-------|------|--------|-------|-------|
+| PV-001 | *[bar]* | *[L]* | *[bar·L]* | *[medium]* | *[1/2]* | *[A/B/C]* |
+| | | | | | | |
+| | | | | | | |
+
+### 4.3 Inspection Status
+
+| Vessel ID | Last Insp. | Next Insp. | Inspector | Status |
+|-----------|------------|------------|-----------|--------|
+| PV-001 | *[date]* | *[date]* | *[name]* | *[status]* |
+| | | | | |
+| | | | | |
 
 ---
 
@@ -103,10 +121,17 @@ This inventory is the master register of all pressurised vessels at [site name].
 
 *Track safety devices (relief valves, rupture discs, pressure switches) separately for test scheduling.*
 
-| Device ID | Type | Protects Vessel | Set Pressure | Test Interval | Last Test | Next Test | Test Result | Tested By |
-|-----------|------|-----------------|-------------|---------------|-----------|-----------|-------------|-----------|
-| SV-001 | Relief valve | PV-001 | 11.5 bar | 12 months | *[date]* | *[date]* | Pass / Fail | *[name]* |
-| | | | | | | | | |
+| Device ID | Type | Protects Vessel | Set Pressure | Test Interval |
+|-----------|------|-----------------|-------------|---------------|
+| SV-001 | Relief valve | PV-001 | 11.5 bar | 12 months |
+| | | | | |
+
+### 5.1 Safety Device Test Records
+
+| Device ID | Last Test | Next Test | Test Result | Tested By |
+|-----------|-----------|-----------|-------------|-----------|
+| SV-001 | *[date]* | *[date]* | Pass / Fail | *[name]* |
+| | | | | |
 
 ---
 
@@ -114,10 +139,10 @@ This inventory is the master register of all pressurised vessels at [site name].
 
 *Fill in planned inspection dates for each vessel. Mark completed inspections with ✓.*
 
-| Vessel ID | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
-|-----------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| PV-001 | | | | | | EXT | | | | | | |
-| | | | | | | | | | | | | |
+| Vessel ID | Q1 (Jan–Mar) | Q2 (Apr–Jun) | Q3 (Jul–Sep) | Q4 (Oct–Dec) |
+|-----------|-------------|-------------|-------------|-------------|
+| PV-001 | — | EXT (Jun) | — | — |
+| | | | | |
 
 **Inspection type codes:** EXT = External, INT = Internal, PT = Pressure test, SV = Safety valve test
 

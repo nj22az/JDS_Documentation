@@ -57,24 +57,43 @@ Risk is assessed using a 5×5 matrix per ISO 31000 and SS-EN 16991:
 
 ## 4. Risk Register
 
-### 4.1 Operational Hazards
+### 4.1 Hazard Identification — Operational
 
-| ID | Hazard | Cause | Consequence | L | C | Risk | Controls | Residual |
-|----|--------|-------|-------------|---|---|------|----------|----------|
-| R-001 | Overpressure event | Relief valve failure, blocked outlet | Vessel rupture, projectiles, blast | 2 | 5 | 10 HIGH | Relief valve testing per schedule, pressure switch backup (PS-001), operator training | 4 MED |
-| R-002 | Corrosion-induced wall thinning | Internal corrosion, condensate accumulation | Leak or burst at weakened point | 3 | 4 | 12 HIGH | Internal revision inspections per AFS 2017:3, UT thickness measurements, drain condensate weekly | 6 MED |
-| R-003 | Steam boiler dry firing | Low water level, level gauge failure | Boiler tube failure, steam release | 2 | 5 | 10 HIGH | Low water cutoff device, daily water level checks, annual boiler inspection by DNV | 4 MED |
-| R-004 | Hydraulic accumulator bladder failure | Fatigue, over-cycling | Sudden pressure loss, press malfunction | 3 | 3 | 9 MED | Pre-charge pressure checks quarterly, bladder replacement at 5-year interval | 4 LOW |
-| R-005 | Nitrogen cylinder bank leak | Fitting failure, impact damage | Oxygen displacement in confined gas store | 2 | 4 | 8 MED | O₂ monitoring alarm in gas store, ventilation, restricted access, cylinder restraints | 4 LOW |
+| ID | Hazard | Cause | Consequence |
+|----|--------|-------|-------------|
+| R-001 | Overpressure event | Relief valve failure, blocked outlet | Vessel rupture, projectiles, blast |
+| R-002 | Corrosion-induced wall thinning | Internal corrosion, condensate accumulation | Leak or burst at weakened point |
+| R-003 | Steam boiler dry firing | Low water level, level gauge failure | Boiler tube failure, steam release |
+| R-004 | Hydraulic accumulator bladder failure | Fatigue, over-cycling | Sudden pressure loss, press malfunction |
+| R-005 | Nitrogen cylinder bank leak | Fitting failure, impact damage | Oxygen displacement in confined gas store |
 
-### 4.2 Maintenance Activity Hazards
+### 4.1b Risk Evaluation & Controls — Operational
 
-| ID | Hazard | Cause | Consequence | L | C | Risk | Controls | Residual |
-|----|--------|-------|-------------|---|---|------|----------|----------|
-| R-006 | Stored energy release during maintenance | Incomplete depressurisation, isolation failure | Burns, impact injury | 2 | 4 | 8 MED | Lock-out/tag-out procedure, double block and bleed, pressure gauge verification at zero | 3 LOW |
-| R-007 | Confined space entry (vessel internal inspection) | Oxygen depletion, toxic atmosphere | Asphyxiation, poisoning | 2 | 5 | 10 HIGH | Confined space permit, gas testing, standby person, rescue plan, ventilation | 4 MED |
-| R-008 | Lifting injury during safety valve removal | Heavy components, awkward access | Musculoskeletal injury | 3 | 2 | 6 MED | Mechanical lifting aids, two-person lift policy, pre-task briefing | 2 LOW |
-| R-009 | Chemical exposure during cleaning | Descaling agents, degreasing solvents | Skin/eye irritation, fume inhalation | 3 | 2 | 6 MED | SDS review, PPE (gloves, goggles, respirator), local exhaust ventilation | 2 LOW |
+| ID | L | C | Risk | Controls | Residual |
+|----|---|---|------|----------|----------|
+| R-001 | 2 | 5 | 10 HIGH | Relief valve testing per schedule, pressure switch backup (PS-001), operator training | 4 MED |
+| R-002 | 3 | 4 | 12 HIGH | Internal revision inspections per AFS 2017:3, UT thickness measurements, drain condensate weekly | 6 MED |
+| R-003 | 2 | 5 | 10 HIGH | Low water cutoff device, daily water level checks, annual boiler inspection by DNV | 4 MED |
+| R-004 | 3 | 3 | 9 MED | Pre-charge pressure checks quarterly, bladder replacement at 5-year interval | 4 LOW |
+| R-005 | 2 | 4 | 8 MED | O₂ monitoring alarm in gas store, ventilation, restricted access, cylinder restraints | 4 LOW |
+
+### 4.2 Hazard Identification — Maintenance Activities
+
+| ID | Hazard | Cause | Consequence |
+|----|--------|-------|-------------|
+| R-006 | Stored energy release during maintenance | Incomplete depressurisation, isolation failure | Burns, impact injury |
+| R-007 | Confined space entry (vessel internal inspection) | Oxygen depletion, toxic atmosphere | Asphyxiation, poisoning |
+| R-008 | Lifting injury during safety valve removal | Heavy components, awkward access | Musculoskeletal injury |
+| R-009 | Chemical exposure during cleaning | Descaling agents, degreasing solvents | Skin/eye irritation, fume inhalation |
+
+### 4.2b Risk Evaluation & Controls — Maintenance Activities
+
+| ID | L | C | Risk | Controls | Residual |
+|----|---|---|------|----------|----------|
+| R-006 | 2 | 4 | 8 MED | Lock-out/tag-out procedure, double block and bleed, pressure gauge verification at zero | 3 LOW |
+| R-007 | 2 | 5 | 10 HIGH | Confined space permit, gas testing, standby person, rescue plan, ventilation | 4 MED |
+| R-008 | 3 | 2 | 6 MED | Mechanical lifting aids, two-person lift policy, pre-task briefing | 2 LOW |
+| R-009 | 3 | 2 | 6 MED | SDS review, PPE (gloves, goggles, respirator), local exhaust ventilation | 2 LOW |
 
 ## 5. Risk Matrix Summary
 

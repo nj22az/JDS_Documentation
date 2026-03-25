@@ -184,6 +184,20 @@ def check_document_metadata(result):
                     result.warn(f'{rel}: skipped heading level ({levels[i-1]} → {levels[i]})')
                     break
 
+            # Check for wide tables (>7 columns will overflow A4 portrait)
+            table_rows = re.findall(r'^\|(.+)\|', stripped, re.MULTILINE)
+            for row in table_rows:
+                cols = [c.strip() for c in row.split('|') if c.strip()]
+                # Skip separator rows (all dashes)
+                if all(re.match(r'^-+$', c) for c in cols):
+                    continue
+                if len(cols) > 7:
+                    result.error(
+                        f'{rel}: table has {len(cols)} columns (max 7 for A4). '
+                        f'Split into multiple tables.'
+                    )
+                    break
+
 
 def check_naming_conventions(result):
     """Check that JDS files follow naming conventions."""
@@ -191,7 +205,7 @@ def check_naming_conventions(result):
         ('jds/quality-manual/', r'JDS-QMS-\d{3}_[\w-]+\.md'),
         ('jds/procedures/', r'JDS-PRO-\d{3}_[\w-]+\.md'),
         ('jds/templates/**/', r'JDS-TMP-[A-Z]{3}-\d{3}_[\w-]+\.md'),
-        ('jds/examples/', r'JDS-RPT-\d{3}_[\w-]+\.md'),
+        ('jds/examples/', r'JDS-[A-Z]{3}(?:-[A-Z]{3})?-\d{3}_[\w-]+\.md'),
     ]
 
     for directory, name_pattern in patterns:

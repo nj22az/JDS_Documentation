@@ -4,6 +4,19 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [2.6] — 2026-03-25
+
+### Changed
+- **Root README.md** rewritten — repo is now THE JDS, not "a repo with JDS in a subfolder"
+- **Repository identity**: "The Office of Nils Johansson" is now the Johansson Documentation System
+- Root README serves as the definitive landing page: find-what-you-need table, full structure, categories, domains, quick start guide
+- All wide tables split to ≤7 columns for A4 readability (TMP-LOG-001, LOG-MEC-002, LOG-MEC-003, RPT-MEC-002)
+- **jds-validate.py** — added table column width check (max 7), fixed naming pattern for examples/
+- **md2pdf.py** — logo increased to 52pt, removed border-radius: 50%
+- **Corrective action log** — first 3 CAs raised and closed (CA-2026-001 to 003)
+
+---
+
 ## [2.5] — 2026-03-25
 
 ### Added
@@ -12,10 +25,13 @@ All changes to the JDS documentation system itself are recorded here. This provi
 - **jds/assets/logo.png**: Johansson Engineering 1983 circular stamp logo (sailor, anchor, girl with wrench) — cropped to square, replaces old text logo
 - **jds/assets/fonts/**: Bundled M PLUS Rounded 1c font for consistent rendering
 - **jds/templates/correspondence/**: New template category for business letters
+- **jds-validate.py**: Automated JDS 5S audit script (70+ checks)
+- **Example documents**: RPT-MEC-002, LOG-MEC-003, LOG-MEC-004, COR-GEN-001
+- **.gitignore** — added `*.pdf` rule (PRO-005 §6: Git is controlled copy)
 
 ### Changed
 - **md2pdf.py** redesigned with Apple-style warmth — rounded corners, card containers, soft table headers, warmer colour temperature (#1d1d1f warm black), logo integration via base64 data URI
-- **Document Registry** updated with JDS-TMP-COR-001
+- **Document Registry** updated with all new documents
 
 ---
 
