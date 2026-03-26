@@ -1,6 +1,6 @@
 # JDS Document Register
 
-**Last updated:** 2026-03-25
+**Last updated:** 2026-03-26
 
 This is the master list of all documents in the JDS system. Every document must be registered here when created.
 
@@ -48,6 +48,11 @@ This is the master list of all documents in the JDS system. Every document must 
 | [JDS-TMP-LOG-003](../templates/logs/JDS-TMP-LOG-003_supervision-checklist-template.md) | Supervision Checklist Template | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-TMP-LOG-004](../templates/logs/JDS-TMP-LOG-004_inspection-plan-template.md) | Annual Inspection Plan Template | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-TMP-RPT-003](../templates/reports/JDS-TMP-RPT-003_inspection-report-template.md) | Inspection Report Template | A | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-TMP-COR-002](../templates/correspondence/JDS-TMP-COR-002_cv-template.md) | CV / Resume Template | A | 2026-03-26 | APPROVED | N. Johansson |
+| [JDS-TMP-COR-003](../templates/correspondence/JDS-TMP-COR-003_personal-letter-template.md) | Personal Letter Template | A | 2026-03-26 | APPROVED | N. Johansson |
+| [JDS-TMP-LOG-005](../templates/logs/JDS-TMP-LOG-005_field-service-logbook-template.md) | Field Service Logbook Template | A | 2026-03-26 | APPROVED | N. Johansson |
+| [JDS-TMP-RPT-004](../templates/reports/JDS-TMP-RPT-004_maintenance-report-template.md) | Maintenance Report Template | A | 2026-03-26 | APPROVED | N. Johansson |
+| [JDS-TMP-RPT-005](../templates/reports/JDS-TMP-RPT-005_deviation-report-template.md) | Deviation Report Template | A | 2026-03-26 | APPROVED | N. Johansson |
 
 ## Reports (RPT)
 
@@ -55,6 +60,8 @@ This is the master list of all documents in the JDS system. Every document must 
 |---------|-------|-----|------|--------|--------|
 | [JDS-RPT-001](../examples/JDS-RPT-001_pump-inspection-example.md) | Example: Pump Inspection Report | A | 2026-03-25 | EXAMPLE | N. Johansson |
 | [JDS-RPT-MEC-002](../examples/JDS-RPT-MEC-002_risk-assessment-example.md) | Example: Risk Assessment — Pressure Vessel Maintenance | B | 2026-03-25 | EXAMPLE | N. Johansson |
+| [JDS-RPT-MEC-003](../examples/JDS-RPT-MEC-003_maintenance-report-example.md) | Example: Maintenance Report — Pump Seal Replacement | A | 2026-03-26 | EXAMPLE | N. Johansson |
+| [JDS-RPT-MEC-004](../examples/JDS-RPT-MEC-004_deviation-report-example.md) | Example: Deviation Report — Pressure Vessel Wall Thinning | A | 2026-03-26 | EXAMPLE | N. Johansson |
 
 ## Manuals (MAN)
 
@@ -92,12 +99,15 @@ This is the master list of all documents in the JDS system. Every document must 
 | [JDS-LOG-MEC-002](../../projects/JDS-PRJ-MEC-001_pressure-vessel-maintenance/03-active-programs/JDS-LOG-MEC-002_pressure-vessel-inventory-afs2017.md) | Pressure Vessel Inventory — AFS 2017:3 Compliance Guide | B | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-LOG-MEC-003](../examples/JDS-LOG-MEC-003_equipment-inventory-example.md) | Example: Equipment Inventory — Göteborg Workshop | B | 2026-03-25 | EXAMPLE | N. Johansson |
 | [JDS-LOG-MEC-004](../examples/JDS-LOG-MEC-004_equipment-life-journal-example.md) | Example: Equipment Life Journal — PV-001 Air Receiver | A | 2026-03-25 | EXAMPLE | N. Johansson |
+| [JDS-LOG-MEC-005](../examples/JDS-LOG-MEC-005_field-service-logbook-example.md) | Example: Field Service Logbook — SPI Annual Inspection | A | 2026-03-26 | EXAMPLE | N. Johansson |
 
 ## Correspondence (COR)
 
 | Doc No. | Title | Rev | Date | Status | Author |
 |---------|-------|-----|------|--------|--------|
 | [JDS-COR-GEN-001](../examples/JDS-COR-GEN-001_cold-letter-example.md) | Example Cold Letter — Marine Engineering Services | A | 2026-03-25 | EXAMPLE | N. Johansson |
+| [JDS-COR-GEN-002](../examples/JDS-COR-GEN-002_cv-example.md) | Example: CV — Mechanical Engineer | A | 2026-03-26 | EXAMPLE | N. Johansson |
+| [JDS-COR-GEN-003](../examples/JDS-COR-GEN-003_personal-letter-example.md) | Example: Personal Letter — Site Access Request | A | 2026-03-26 | EXAMPLE | N. Johansson |
 
 ## Blog Posts (BLG)
 
