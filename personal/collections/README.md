@@ -4,4 +4,4 @@ Personal collections maintained with JDS principles (structure, traceability, co
 
 ## Current Collections
 
-- [`rom-archive/`](rom-archive/) — Classical video game preservation (ROM files, saves, documentation)
+- [`rom-archive/`](rom-archive/) — Personal digital archive (organised using JDS folder principles)

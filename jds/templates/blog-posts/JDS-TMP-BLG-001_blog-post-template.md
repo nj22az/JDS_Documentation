@@ -6,7 +6,7 @@
 | **Revision** | A |
 | **Date** | YYYY-MM-DD |
 | **Status** | DRAFT |
-| **Author** | Nils Johansson |
+| **Author** | [Author Name] |
 
 ---
 
@@ -34,7 +34,7 @@
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
-| A | YYYY-MM-DD | Nils Johansson | Initial draft |
+| A | YYYY-MM-DD | [Author Name] | Initial draft |
 
 <!--
 JDS BLOG POST CHECKLIST:

@@ -6,7 +6,7 @@
 | **Revision** | DRAFT |
 | **Date** | YYYY-MM-DD |
 | **Status** | DRAFT |
-| **Author** | Nils Johansson |
+| **Author** | [Author Name] |
 | **Review period** | [e.g., Q1 2026 / Annual 2026] |
 
 ---
@@ -135,4 +135,4 @@
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
-| DRAFT | YYYY-MM-DD | Nils Johansson | Initial draft |
+| DRAFT | YYYY-MM-DD | [Author Name] | Initial draft |

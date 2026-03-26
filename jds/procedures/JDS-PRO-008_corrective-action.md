@@ -141,7 +141,7 @@ Track all corrective actions using this format in a Git issue or markdown file:
 | **Horizontal deployment** | [Other areas checked/updated] |
 ```
 
-For a sole-proprietor practice, a single corrective action log file (`jds/registry/corrective-action-log.md`) is sufficient. Create individual entries as nonconformances arise.
+For most organisations, a single corrective action log file (`jds/registry/corrective-action-log.md`) is sufficient. Create individual entries as nonconformances arise. Larger teams may split into separate logs per department or project.
 
 ## 6. Integration with Other JDS Procedures
 

@@ -6,7 +6,7 @@
 | **Revision** | DRAFT |
 | **Date** | YYYY-MM-DD |
 | **Status** | DRAFT |
-| **Author** | Nils Johansson |
+| **Author** | [Author Name] |
 | **Project** | [JDS-PRJ reference or N/A] |
 | **Client** | [Client name or Internal] |
 | **Site** | [Physical location / facility name] |

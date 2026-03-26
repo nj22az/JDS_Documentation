@@ -14,7 +14,7 @@
 
 This is the master inventory of all pressurised vessels under your maintenance program. Every vessel gets one row. This register is the **single source of truth** for what equipment exists, what condition it's in, and when it needs attention.
 
-Think of it as the ship's engine room logbook, but for pressure vessels.
+It works like a lifecycle record — each piece of equipment is tracked from installation to retirement, with every inspection and status change recorded in one place.
 
 ## How to Use This Register
 

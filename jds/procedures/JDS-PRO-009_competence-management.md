@@ -18,8 +18,8 @@ This procedure defines how competence (education, training, skills, and experien
 
 Applies to:
 
-- The principal (Nils Johansson)
-- Any sub-contractors or collaborators engaged for project work
+- All personnel producing work under this system
+- Sub-contractors or collaborators engaged for project work
 - Competence relevant to the quality of engineering deliverables
 
 ## 3. Competence Register

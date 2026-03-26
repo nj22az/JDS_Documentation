@@ -1,12 +1,12 @@
-# Cold Introduction Letter
+# Professional Introduction Letter
 
 | | |
 |---|---|
 | **Document No.** | JDS-COR-GEN-XXX |
 | **Revision** | A |
-| **Date** | 2026-XX-XX |
+| **Date** | YYYY-MM-DD |
 | **Status** | DRAFT |
-| **Author** | Nils Johansson |
+| **Author** | [Author Name] |
 
 ---
 
@@ -20,28 +20,24 @@
 
 **Date:** [Date]
 
-**Subject:** [Brief, compelling subject line]
+**Subject:** [Brief, specific subject line]
 
 ---
 
 Dear [Mr./Ms. Surname],
 
-I am writing to introduce myself and Johansson Engineering — a marine and mechanical engineering consultancy with over 40 years of combined field experience across shipboard systems, pressure equipment, and industrial process installations.
+[Opening paragraph — state who you are and why you are writing. Reference something specific about the recipient or their organisation to show this is targeted, not generic.]
 
-[Opening paragraph — establish relevance. Reference something specific about the recipient's company, a recent project, or an industry challenge that connects to your capabilities. Show that this is not a mass mailing.]
+[Middle paragraph — your value proposition. What specific expertise, service, or capability is relevant to them? Be concrete. Keep it focused on what matters to the recipient.]
 
-[Middle paragraph — your value proposition. What specific expertise or service would benefit them? Be concrete: mention relevant certifications, past project types, or technical specialisations. Keep it focused on what matters to them, not a full CV.]
+[Optional third paragraph — a brief example of relevant work. One or two sentences about a comparable project, the challenge, and the outcome.]
 
-[Optional third paragraph — a specific example or brief case study. One sentence about a comparable project you delivered, the challenge, and the outcome.]
-
-I would welcome the opportunity to discuss how Johansson Engineering could support [Company Name]'s upcoming projects. I am available for a brief call or meeting at your convenience.
-
-Thank you for your time and consideration.
+[Closing paragraph — propose a next step. A call, meeting, or specific follow-up. Make it easy for them to respond.]
 
 Kind regards,
 
-**Nils Johansson**<br>
-Johansson Engineering<br>
+**[Your Name]**<br>
+[Organisation / Company]<br>
 [Email address]<br>
 [Phone number]<br>
 [Website / LinkedIn]
@@ -52,4 +48,4 @@ Johansson Engineering<br>
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
-| A | 2026-XX-XX | Nils Johansson | Initial draft |
+| A | YYYY-MM-DD | [Author Name] | Initial draft |

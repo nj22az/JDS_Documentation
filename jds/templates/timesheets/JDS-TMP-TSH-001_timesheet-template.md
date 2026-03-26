@@ -7,7 +7,7 @@
 | **Period** | YYYY-MM-DD to YYYY-MM-DD |
 | **Date** | YYYY-MM-DD |
 | **Status** | DRAFT |
-| **Author** | Nils Johansson |
+| **Author** | [Author Name] |
 
 ---
 
@@ -42,4 +42,4 @@
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
-| DRAFT | YYYY-MM-DD | Nils Johansson | Initial draft |
+| DRAFT | YYYY-MM-DD | [Author Name] | Initial draft |

@@ -6,7 +6,7 @@
 | **Revision** | DRAFT |
 | **Date** | YYYY-MM-DD |
 | **Status** | DRAFT |
-| **Author** | Nils Johansson |
+| **Author** | [Author Name] |
 | **Project** | [Project name or N/A] |
 | **Client** | [Client name or Internal] |
 
@@ -61,4 +61,4 @@
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
-| DRAFT | YYYY-MM-DD | Nils Johansson | Initial draft |
+| DRAFT | YYYY-MM-DD | [Author Name] | Initial draft |

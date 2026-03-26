@@ -4,6 +4,43 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [3.2] — 2026-03-26
+
+### Changed — Self-Improving System & Plain Language
+
+**Quality Manual (QMS-000) Rev F:**
+- **§14 Continuous Improvement** completely rewritten — now codifies the self-improvement enforcement chain: validator catches problems, corrective action log tracks them, changelog records fixes, management review ensures the cycle works. Added §14.3 Self-Improvement Enforcement (mandatory validation before/after every session) and §14.4 How to Propose Changes to JDS.
+- **§4 Quality Policy** strengthened with plain language requirement — documents must be readable by anyone, not just engineers.
+- **§20 Design Principles** rewritten — removed unexplained cultural references, added enforcement links showing how each principle is actually applied in JDS.
+- **§3.2 Authority** and **§8 Complete Document Sets** — removed "sole-proprietor" and company-specific language so JDS is reusable by any organisation.
+
+**New QMS-000 sections:**
+- **§21 Repository Structure** — formal definition of 4-folder root, universal project folder rules (every folder has a README, subfolders by purpose not file type), standard project pattern, collection folder pattern.
+- **§22 Offline Resilience** — everything lives in the repo, Markdown for portability, scripts run locally, no cloud dependencies for core operation.
+- **§23 Glossary** — 20+ terms defined in plain language (JDS, QMS, Git, Markdown, STEP, STL, 3MF, controlled copy, etc.).
+
+**Templates genericised:**
+- All template Author fields changed from hardcoded name to `[Author Name]` placeholder.
+- Correspondence template rewritten as generic professional letter (no company-specific sales language).
+- Templates are now reusable by anyone adopting JDS.
+
+**Other document fixes:**
+- **JDS-PRO-008** — removed "sole-proprietor" wording.
+- **JDS-PRO-009** — scope changed from named individual to "all personnel producing work under this system."
+- **JDS-LOG-MEC-001** — removed "ship's engine room" analogy, replaced with proper explanation of lifecycle records.
+- **ROM archive README** — rewritten to reference QMS-000 §21 folder structure principles instead of ad-hoc rules.
+
+**Steering documents strengthened:**
+- **jds/README.md** — added "Why This System Exists" section, offline usage guide, link to §14 for self-improvement, link to §21 for structure rules.
+- **QUICK-REFERENCE.md** — added explanation of why revision letters are skipped, project folder pattern, 3D export format glossary, key terms table, explanation of why validation matters.
+- **Root README.md** — added "How to Improve This System" section, sixth principle (offline-first), updated Core Principles to emphasise plain language and self-improvement.
+
+### Added — First 3D Model (JDS-DWG-FAB-001)
+- **JDS-DWG-FAB-001** — Circular logo box with screw lid and divider. Parametric build123d script with self-correcting geometry (chamfer fallback, thread fallback, STL-to-3MF conversion). Exports STEP + STL + 3MF per JDS-PRO-003.
+- Registered in document register.
+
+---
+
 ## [3.1] — 2026-03-25
 
 ### Changed — Repository Restructure for Authority
