@@ -516,6 +516,11 @@ class App(ctk.CTk):
                       fg_color=C["fill"], text_color=C["text"],
                       hover_color=C["sep"],
                       command=self._do_multi_swap).pack(side="left", padx=(0, 4))
+        ctk.CTkButton(swap_row2, text="Switch", width=65,
+                      corner_radius=8, height=28,
+                      font=("SF Pro Text", 11),
+                      fg_color="#5856D6", hover_color="#4240A8",
+                      command=self._do_bidi_swap).pack(side="left", padx=(0, 4))
         self.refine_var = ctk.BooleanVar(value=False)
         ctk.CTkCheckBox(swap_row2, text="Refine (SD)",
                         variable=self.refine_var,
@@ -965,6 +970,41 @@ class App(ctk.CTk):
             done=lambda img: self.after(0, lambda: self._finish(img)),
             error=lambda e: self.after(0, lambda: show_error("Face Swap Error",
                 f"Multi-swap failed:\n\n{e}")))
+
+    def _do_bidi_swap(self):
+        """Switch faces between two photos. Loads Photo B via dialog."""
+        photo_a = self.swap_face_src or self.current_image or self.input_image
+        if not photo_a:
+            show_error("No Photo A",
+                       "Load or generate the first photo, then click Switch.")
+            return
+        p = filedialog.askopenfilename(
+            title="Select Photo B (faces will be switched)",
+            filetypes=[("Images", "*.png *.jpg *.jpeg *.webp *.bmp")])
+        if not p:
+            return
+        try:
+            photo_b = Image.open(p)
+        except Exception as e:
+            show_error("Image Error", str(e)); return
+
+        def _on_done(result_a, result_b):
+            # Show result_b (A's face on B's body) as primary,
+            # auto-save result_a (B's face on A's body) to history
+            import history
+            history.save(result_a, {"type": "bidi_swap",
+                                    "note": "B's face on A's body"})
+            self.after(0, lambda: self._finish(result_b))
+            self.after(100, lambda: self._msg(
+                "Both results saved. Second result in history."))
+
+        faceswap.bidi_swap(
+            photo_a, photo_b, refine=self.refine_var.get(),
+            status=self._msg,
+            done=lambda a, b: self.after(0, lambda: _on_done(a, b)),
+            error=lambda e: self.after(0, lambda: show_error(
+                "Face Switch Error",
+                f"Bidirectional swap failed:\n\n{e}")))
 
     def _save_identity(self):
         name = self.id_name.get().strip()

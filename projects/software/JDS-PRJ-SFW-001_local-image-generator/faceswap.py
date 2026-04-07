@@ -216,7 +216,7 @@ def _diffusion_refine(result_img, mask_np, status=None, done=None, error=None):
 
 
 # ---------------------------------------------------------------------------
-# Public API — swap / multi_swap
+# Public API — swap / multi_swap / bidi_swap
 # ---------------------------------------------------------------------------
 
 def swap(source, target, refine=False, status=None, done=None, error=None):
@@ -329,6 +329,81 @@ def multi_swap(source, target, refine=False,
             if status: status(f"Swapped {len(tgt_faces)} face(s).")
             if done: done(Image.fromarray(result))
 
+        except Exception as e:
+            if error: error(str(e))
+    _bg(_run)
+
+
+def bidi_swap(photo_a, photo_b, refine=False,
+              status=None, done=None, error=None):
+    """Bidirectional swap: A's face on B's body AND B's face on A's body.
+    Returns both results via done(result_a, result_b)."""
+    def _run():
+        try:
+            import cv2
+
+            if status: status("Detecting faces in both photos...")
+            np_a = np.array(photo_a.convert("RGB"))
+            np_b = np.array(photo_b.convert("RGB"))
+
+            app = _get_analyser()
+            faces_a = app.get(np_a)
+            faces_b = app.get(np_b)
+
+            if not faces_a:
+                if error: error("No face found in Photo A."); return
+            if not faces_b:
+                if error: error("No face found in Photo B."); return
+
+            face_a = _largest_face(faces_a)
+            face_b = _largest_face(faces_b)
+            swapper = _get_swapper()
+
+            # Result 1: A's face on B's body
+            if status: status("Putting face A on body B...")
+            if swapper is not None:
+                res_b = swapper.get(np_b.copy(), face_b, face_a, paste_back=True)
+                mask_b = _landmark_mask(res_b.shape, face_b)
+                res_b = _colour_correct(res_b, np_b, mask_b)
+            else:
+                res_b = _affine_swap(np_a, np_b, face_a, face_b)
+
+            # Result 2: B's face on A's body
+            if status: status("Putting face B on body A...")
+            if swapper is not None:
+                res_a = swapper.get(np_a.copy(), face_a, face_b, paste_back=True)
+                mask_a = _landmark_mask(res_a.shape, face_a)
+                res_a = _colour_correct(res_a, np_a, mask_a)
+            else:
+                res_a = _affine_swap(np_b, np_a, face_b, face_a)
+
+            img_a = Image.fromarray(res_a)
+            img_b = Image.fromarray(res_b)
+
+            if refine:
+                if status: status("Refining result 1...")
+                # Refine both — chain the callbacks
+                mask_b_ref = _landmark_mask(res_b.shape, face_b)
+                mask_a_ref = _landmark_mask(res_a.shape, face_a)
+
+                def _refine_second(refined_b):
+                    _diffusion_refine(
+                        img_a, mask_a_ref, status,
+                        done=lambda refined_a: (
+                            done(refined_a, refined_b) if done else None),
+                        error=error)
+
+                _diffusion_refine(img_b, mask_b_ref, status,
+                                  done=_refine_second, error=error)
+                return
+
+            if status: status("Bidirectional swap complete.")
+            if done: done(img_a, img_b)
+
+        except ImportError:
+            if error:
+                error("Missing packages.\n\n"
+                      "Run: pip install insightface opencv-python onnxruntime")
         except Exception as e:
             if error: error(str(e))
     _bg(_run)

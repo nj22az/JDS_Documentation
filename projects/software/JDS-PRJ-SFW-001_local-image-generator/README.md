@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Document No.** | JDS-PRJ-SFW-001 |
-| **Revision** | J |
+| **Revision** | K |
 | **Date** | 2026-04-07 |
 | **Status** | CURRENT |
 | **Author** | N. Johansson |
@@ -34,6 +34,7 @@ Double-click to launch. Close to quit. Nothing stays running.
 - **Neural face swap** — ReActor-grade INSwapper model, auto-downloads, Poisson fallback
 - **Multi-face swap** — swap all faces in a group photo, similarity-ranked (FaceSwapLab)
 - **Diffusion refinement** — optional SD inpaint pass over swapped face to fix artifacts (DiffFace)
+- **Face switch** — swap faces between two photos (A's face on B, B's face on A), both results saved
 - **Face checkpoints** — save/reuse faces across sessions (FaceSwapLab concept)
 - **Unrestricted** — no safety filters, no content restrictions, your machine your rules
 - **5 curated models** — Realistic Vision v5.1 (default), Deliberate v2, Dreamlike, SD 1.5, SD 2.1
@@ -101,6 +102,7 @@ JDS-PRJ-SFW-001_local-image-generator/
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
+| K | 2026-04-07 | N. Johansson | Bidirectional face switch: upload two photos, faces swap both ways. Primary shown on screen, second auto-saved to history |
 | J | 2026-04-07 | N. Johansson | Neural face swap (ReActor INSwapper + FaceSwapLab landmark masks + DiffFace refinement). Auto-downloads swapper model, convex hull masking, Lab colour correction, face similarity ranking, face checkpoints, optional SD inpaint refinement |
 | H | 2026-04-07 | N. Johansson | Face swap: warp source face onto target with affine alignment, Poisson seamless blending, colour correction. Single and multi-face swap modes |
 | G | 2026-04-07 | N. Johansson | Character identity consistency (IP-Adapter concept): save a face, generate new scenes keeping the same person. insightface for face embedding |
