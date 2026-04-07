@@ -10,6 +10,7 @@ Each entry records what changed, when, and why. Latest changes appear first.
 
 | Date | Document | Rev | Author | What Changed |
 |------|----------|-----|--------|-------------|
+| 2026-04-07 | JDS-PRJ-SFW-001 | N | N. Johansson | Expanded cloud model registry with NSFW-capable models per web research. AI Horde set as default backend (free, no key, unrestricted). New Horde models: AlbedoBase XL, ICBINP XL, WAI-NSFW-illustrious-SDXL, Pony Diffusion XL, PPP. New HF model: WAI-NSFW SDXL. All backends explicitly pass nsfw:true/censor_nsfw:false |
 | 2026-04-07 | JDS-PRJ-SFW-001 | M | N. Johansson | Cloud generation backends: HuggingFace Inference API (zero deps, free), Prodia (free key), AI Horde (no key, community GPUs). "Use Cloud" toggle routes txt2img/img2img through cloud for SDXL/Flux quality. Backend picker, cloud model selector, API key settings popup. New cloudgen.py (315 lines). 12 files, 3283 total lines |
 | 2026-04-07 | JDS-PRJ-SFW-001 | L | N. Johansson | Face pose quality scoring using 5-point landmark symmetry analysis. Detects extreme angles (profile, turned away) and warns before swap. Handles any pose/size/angle mismatch between source and target — neural swap aligns automatically |
 | 2026-04-07 | JDS-PRJ-SFW-001 | K | N. Johansson | Bidirectional face switch: upload two photos, faces swap both ways (A→B and B→A). Primary result shown on screen, second auto-saved to history. New bidi_swap() function with chained diffusion refinement for both results. "Switch" button in GUI |

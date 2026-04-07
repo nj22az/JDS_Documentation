@@ -27,9 +27,9 @@ def _bg(fn):
 # ---------------------------------------------------------------------------
 
 def load_settings():
-    defaults = {"backend": "huggingface", "hf_token": "",
+    defaults = {"backend": "horde", "hf_token": "",
                 "prodia_key": "", "horde_key": "0000000000",
-                "cloud_model": "stabilityai/stable-diffusion-xl-base-1.0"}
+                "cloud_model": "AlbedoBase XL (SDXL)"}
     if _SETTINGS_FILE.exists():
         try:
             with open(_SETTINGS_FILE) as f:
@@ -53,10 +53,12 @@ CLOUD_MODELS = {
     "huggingface": [
         {"id": "stabilityai/stable-diffusion-xl-base-1.0",
          "name": "SDXL 1.0", "desc": "Best quality. 1024x1024 native."},
+        {"id": "stablediffusionapi/wai-nsfw-illustrious-sdxl",
+         "name": "WAI-NSFW SDXL", "desc": "SDXL fine-tune. Unrestricted."},
         {"id": "SG161222/Realistic_Vision_V5.1_noVAE",
-         "name": "Realistic Vision v5.1", "desc": "Photorealistic humans."},
+         "name": "Realistic Vision v5.1", "desc": "Photorealistic humans. Uncensored."},
         {"id": "stablediffusionapi/deliberate-v2",
-         "name": "Deliberate v2", "desc": "Versatile realistic."},
+         "name": "Deliberate v2", "desc": "Versatile realistic. Uncensored."},
         {"id": "dreamlike-art/dreamlike-photoreal-2.0",
          "name": "Dreamlike Photoreal", "desc": "Photo + artistic flair."},
         {"id": "black-forest-labs/FLUX.1-schnell",
@@ -67,17 +69,27 @@ CLOUD_MODELS = {
     "prodia": [
         {"id": "sdxl", "name": "SDXL", "desc": "High quality 1024px."},
         {"id": "realistic_vision_v5.1", "name": "Realistic Vision v5.1",
-         "desc": "Photorealistic humans."},
+         "desc": "Photorealistic. Uncensored."},
         {"id": "deliberate_v2", "name": "Deliberate v2",
-         "desc": "Versatile realistic."},
+         "desc": "Versatile realistic. Uncensored."},
         {"id": "rev_animated", "name": "RevAnimated",
          "desc": "Anime + semi-realistic."},
     ],
     "horde": [
-        {"id": "SDXL 1.0", "name": "SDXL 1.0",
-         "desc": "Best quality on Horde."},
+        {"id": "AlbedoBase XL (SDXL)", "name": "AlbedoBase XL",
+         "desc": "High-quality SDXL. Unrestricted."},
+        {"id": "ICBINP XL", "name": "ICBINP XL",
+         "desc": "Photorealistic SDXL. Unrestricted."},
+        {"id": "WAI-NSFW-illustrious-SDXL", "name": "WAI-NSFW SDXL",
+         "desc": "SDXL NSFW fine-tune. Best for unrestricted."},
+        {"id": "Pony Diffusion XL", "name": "Pony Diffusion XL",
+         "desc": "SDXL fine-tune. Versatile unrestricted."},
         {"id": "Deliberate", "name": "Deliberate",
-         "desc": "Versatile realistic."},
+         "desc": "Realistic. Uncensored."},
+        {"id": "PPP", "name": "PPP",
+         "desc": "Realistic humans. NSFW-tuned."},
+        {"id": "SDXL 1.0", "name": "SDXL 1.0",
+         "desc": "Standard SDXL baseline."},
         {"id": "stable_diffusion", "name": "SD 1.5",
          "desc": "Fastest on Horde."},
     ],

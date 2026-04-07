@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Document No.** | JDS-PRJ-SFW-001 |
-| **Revision** | M |
+| **Revision** | N |
 | **Date** | 2026-04-07 |
 | **Status** | CURRENT |
 | **Author** | N. Johansson |
@@ -37,7 +37,7 @@ Double-click to launch. Close to quit. Nothing stays running.
 - **Face switch** — swap faces between two photos (A's face on B, B's face on A), both results saved
 - **Pose quality check** — warns if face is at extreme angle before swapping, proceeds anyway
 - **Face checkpoints** — save/reuse faces across sessions (FaceSwapLab concept)
-- **Cloud generation** — optional HuggingFace / Prodia / AI Horde backends for SDXL, Flux quality
+- **Cloud generation** — optional HuggingFace / Prodia / AI Horde backends for SDXL, Flux quality, NSFW-capable models
 - **Unrestricted** — no safety filters, no content restrictions, your machine your rules
 - **5 curated models** — Realistic Vision v5.1 (default), Deliberate v2, Dreamlike, SD 1.5, SD 2.1
 - **Model Manager** — download any HuggingFace model from inside the app
@@ -105,6 +105,7 @@ JDS-PRJ-SFW-001_local-image-generator/
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
+| N | 2026-04-07 | N. Johansson | Expanded cloud model registry with NSFW-capable models. AI Horde default (free, no key, unrestricted). Added WAI-NSFW SDXL, AlbedoBase XL, ICBINP XL, Pony Diffusion XL, PPP to Horde. WAI-NSFW SDXL on HuggingFace. All backends pass nsfw:true/censor_nsfw:false flags |
 | M | 2026-04-07 | N. Johansson | Cloud generation: three free backends (HuggingFace Inference API, Prodia, AI Horde). Toggle "Use Cloud" for SDXL/Flux quality without local GPU load. Backend selector, cloud model picker, API key settings popup. New cloudgen.py module (315 lines) |
 | L | 2026-04-07 | N. Johansson | Face pose quality scoring: detects extreme angles using landmark symmetry, warns before swap. Works with any pose/size/angle difference — neural swap handles alignment automatically |
 | K | 2026-04-07 | N. Johansson | Bidirectional face switch: upload two photos, faces swap both ways. Primary shown on screen, second auto-saved to history |
