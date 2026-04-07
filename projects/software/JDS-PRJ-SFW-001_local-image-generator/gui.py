@@ -17,6 +17,7 @@ import prompts
 import fixer
 import consistency
 import faceswap
+import cloudgen
 from models import (APP_NAME, APP_VERSION, MODELS, NEG_PRESETS, C,
                     LIGHT_DIRS, OUTPUT_DIR, load_config, save_config)
 from painter import MaskPainter
@@ -580,6 +581,49 @@ class App(ctk.CTk):
                       fg_color=C["accent"], hover_color=C["hover"],
                       command=self._load_model).pack(fill="x", padx=px, pady=(2, 8))
 
+        # Cloud generation (optional)
+        ctk.CTkFrame(sc, height=1, fg_color=C["sep"]).pack(fill="x", padx=px, pady=(0, 6))
+        cr = ctk.CTkFrame(sc, fg_color="transparent")
+        cr.pack(fill="x", padx=px)
+        self.cloud_var = ctk.BooleanVar(value=False)
+        ctk.CTkCheckBox(cr, text="Use Cloud",
+                        variable=self.cloud_var, font=("SF Pro Text", 11, "bold"),
+                        width=20, height=20, corner_radius=4,
+                        fg_color="#5856D6", hover_color="#4240A8",
+                        command=self._toggle_cloud
+                        ).pack(side="left")
+        ctk.CTkButton(cr, text="Cloud Settings", width=100, corner_radius=8,
+                      height=24, font=("SF Pro Text", 10),
+                      fg_color=C["fill"], text_color=C["text"],
+                      hover_color=C["sep"],
+                      command=self._cloud_settings).pack(side="right")
+
+        cloud_cfg = cloudgen.load_settings()
+        self.cloud_backend = ctk.StringVar(value=cloud_cfg["backend"])
+        self.cloud_model = ctk.StringVar(value=cloud_cfg["cloud_model"])
+
+        cb_row = ctk.CTkFrame(sc, fg_color="transparent")
+        cb_row.pack(fill="x", padx=px, pady=(2, 0))
+        ctk.CTkLabel(cb_row, text="Backend:", font=("SF Pro Text", 10),
+                     text_color=C["muted"]).pack(side="left")
+        self.backend_menu = ctk.CTkOptionMenu(
+            cb_row, values=["huggingface", "prodia", "horde"],
+            variable=self.cloud_backend, width=110, height=24,
+            corner_radius=8, font=("SF Pro Text", 10),
+            fg_color=C["fill"], text_color=C["text"],
+            command=self._on_backend_change)
+        self.backend_menu.pack(side="left", padx=(4, 0))
+
+        models = cloudgen.CLOUD_MODELS.get(cloud_cfg["backend"], [])
+        model_names = [m["name"] for m in models]
+        self.cloud_model_menu = ctk.CTkOptionMenu(
+            sc, values=model_names or ["SDXL 1.0"],
+            width=260, height=24, corner_radius=8,
+            font=("SF Pro Text", 10),
+            fg_color=C["fill"], text_color=C["text"],
+            command=self._on_cloud_model_change)
+        self.cloud_model_menu.pack(fill="x", padx=px, pady=(2, 6))
+
         # --- Bottom buttons (outside scroll) ---
         self.gen_btn = ctk.CTkButton(
             sb, text="Generate", corner_radius=12, height=46,
@@ -737,6 +781,85 @@ class App(ctk.CTk):
         engine.load(mid, status=self._msg,
                     done=lambda: self.after(0, lambda: self.gen_btn.configure(state="normal")),
                     error=on_err)
+
+    # --- Cloud generation ---
+
+    def _toggle_cloud(self):
+        on = self.cloud_var.get()
+        lbl = "Cloud: ready" if on else "Local mode"
+        self._msg(lbl)
+
+    def _on_backend_change(self, backend):
+        models = cloudgen.CLOUD_MODELS.get(backend, [])
+        names = [m["name"] for m in models]
+        self.cloud_model_menu.configure(values=names or ["—"])
+        if names:
+            self.cloud_model_menu.set(names[0])
+            self._on_cloud_model_change(names[0])
+        cfg = cloudgen.load_settings()
+        cfg["backend"] = backend
+        cloudgen.save_settings(cfg)
+
+    def _on_cloud_model_change(self, name):
+        backend = self.cloud_backend.get()
+        models = cloudgen.CLOUD_MODELS.get(backend, [])
+        for m in models:
+            if m["name"] == name:
+                cfg = cloudgen.load_settings()
+                cfg["cloud_model"] = m["id"]
+                cfg["backend"] = backend
+                cloudgen.save_settings(cfg)
+                return
+
+    def _cloud_settings(self):
+        """Popup to set API keys for cloud backends."""
+        dlg = ctk.CTkToplevel(self)
+        dlg.title("Cloud Settings")
+        dlg.geometry("420x280")
+        dlg.configure(fg_color=C["bg"])
+        dlg.transient(self)
+        dlg.grab_set()
+
+        cfg = cloudgen.load_settings()
+        pad = {"padx": 16, "pady": (4, 0), "anchor": "w"}
+
+        ctk.CTkLabel(dlg, text="Cloud API Settings",
+                     font=("SF Pro Display", 16, "bold"),
+                     text_color=C["text"]).pack(padx=16, pady=(16, 8), anchor="w")
+
+        ctk.CTkLabel(dlg, text="HuggingFace Token (optional, higher rate limits):",
+                     font=("SF Pro Text", 11), text_color=C["muted"]).pack(**pad)
+        hf_entry = ctk.CTkEntry(dlg, width=380, placeholder_text="hf_...")
+        hf_entry.pack(padx=16, pady=(2, 6))
+        if cfg.get("hf_token"):
+            hf_entry.insert(0, cfg["hf_token"])
+
+        ctk.CTkLabel(dlg, text="Prodia API Key (free at prodia.com):",
+                     font=("SF Pro Text", 11), text_color=C["muted"]).pack(**pad)
+        pr_entry = ctk.CTkEntry(dlg, width=380, placeholder_text="xxxxxxxx-xxxx-xxxx...")
+        pr_entry.pack(padx=16, pady=(2, 6))
+        if cfg.get("prodia_key"):
+            pr_entry.insert(0, cfg["prodia_key"])
+
+        ctk.CTkLabel(dlg, text="AI Horde Key (optional, leave blank for anonymous):",
+                     font=("SF Pro Text", 11), text_color=C["muted"]).pack(**pad)
+        ho_entry = ctk.CTkEntry(dlg, width=380, placeholder_text="0000000000")
+        ho_entry.pack(padx=16, pady=(2, 6))
+        if cfg.get("horde_key") and cfg["horde_key"] != "0000000000":
+            ho_entry.insert(0, cfg["horde_key"])
+
+        def _save():
+            cfg["hf_token"] = hf_entry.get().strip()
+            cfg["prodia_key"] = pr_entry.get().strip()
+            cfg["horde_key"] = ho_entry.get().strip() or "0000000000"
+            cloudgen.save_settings(cfg)
+            dlg.destroy()
+            self._msg("Cloud settings saved.")
+
+        ctk.CTkButton(dlg, text="Save", corner_radius=10, height=32,
+                      font=("SF Pro Text", 12, "bold"),
+                      fg_color=C["accent"], hover_color=C["hover"],
+                      command=_save).pack(fill="x", padx=16, pady=(10, 16))
 
     def _open_photo(self):
         p = filedialog.askopenfilename(
@@ -1121,6 +1244,26 @@ class App(ctk.CTk):
                 "Check that a model is loaded and your settings are valid."))
 
         mode = self.mode.get()
+
+        # Cloud generation (txt2img / img2img only)
+        if self.cloud_var.get():
+            img_in = None
+            strength = 0.75
+            if mode in ("img2img", "edit"):
+                img_in = self.input_image if mode == "img2img" else (
+                    self.current_image or self.input_image)
+                if not img_in:
+                    self._msg("Load a photo first."); fail("No photo"); return
+                strength = self.str_sl.get() if mode == "img2img" else 0.5
+            elif mode == "inpaint":
+                fail("Cloud inpainting not supported. Uncheck 'Use Cloud'.")
+                return
+            cloudgen.generate(prompt, neg, w, h, steps, cfg,
+                              image=img_in, strength=strength,
+                              status=self._msg, done=ok, error=fail)
+            return
+
+        # Local generation
         if mode == "txt2img":
             engine.txt2img(prompt, neg, w, h, steps, cfg, seed,
                            status=self._msg, done=ok, error=fail)
@@ -1138,7 +1281,6 @@ class App(ctk.CTk):
                            steps, cfg, seed, self.inp_str.get(),
                            status=self._msg, done=ok, error=fail)
         elif mode == "edit":
-            # In edit mode, Generate = img2img on the current/input image
             img = self.current_image or self.input_image
             if not img:
                 self._msg("Load a photo first."); fail("No photo"); return

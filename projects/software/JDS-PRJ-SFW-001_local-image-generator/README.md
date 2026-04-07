@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Document No.** | JDS-PRJ-SFW-001 |
-| **Revision** | L |
+| **Revision** | M |
 | **Date** | 2026-04-07 |
 | **Status** | CURRENT |
 | **Author** | N. Johansson |
@@ -12,7 +12,7 @@
 
 ## What Is This?
 
-A fully local, unrestricted image generation and photo editing app. Runs on Apple Silicon via Stable Diffusion. No cloud, no filters, no restrictions.
+A fully local image generation and photo editing app, with optional cloud backends for higher quality. Runs on Apple Silicon via Stable Diffusion. No filters, no restrictions.
 
 Double-click to launch. Close to quit. Nothing stays running.
 
@@ -20,8 +20,8 @@ Double-click to launch. Close to quit. Nothing stays running.
 
 | Mode | What It Does |
 |------|-------------|
-| **txt2img** | Generate images from text prompts |
-| **img2img** | Transform photos with a prompt + strength |
+| **txt2img** | Generate images from text prompts (local or cloud) |
+| **img2img** | Transform photos with a prompt + strength (local or cloud) |
 | **inpaint** | Paint a mask, regenerate just that area (change outfits, remove items) |
 | **edit** | Background removal/replacement, directional lighting effects |
 
@@ -37,6 +37,7 @@ Double-click to launch. Close to quit. Nothing stays running.
 - **Face switch** — swap faces between two photos (A's face on B, B's face on A), both results saved
 - **Pose quality check** — warns if face is at extreme angle before swapping, proceeds anyway
 - **Face checkpoints** — save/reuse faces across sessions (FaceSwapLab concept)
+- **Cloud generation** — optional HuggingFace / Prodia / AI Horde backends for SDXL, Flux quality
 - **Unrestricted** — no safety filters, no content restrictions, your machine your rules
 - **5 curated models** — Realistic Vision v5.1 (default), Deliberate v2, Dreamlike, SD 1.5, SD 2.1
 - **Model Manager** — download any HuggingFace model from inside the app
@@ -81,6 +82,7 @@ JDS-PRJ-SFW-001_local-image-generator/
     prompts.py      Dynamic prompt templating {a|b|c}
     consistency.py  Character identity persistence (IP-Adapter)
     faceswap.py     Neural face swap (ReActor + FaceSwapLab + DiffFace)
+    cloudgen.py     Cloud backends (HuggingFace, Prodia, AI Horde)
     gui.py          Main window, sidebar, all modes
     setup.command               One-time installer
     JDS Image Studio.command    App launcher
@@ -103,6 +105,7 @@ JDS-PRJ-SFW-001_local-image-generator/
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
+| M | 2026-04-07 | N. Johansson | Cloud generation: three free backends (HuggingFace Inference API, Prodia, AI Horde). Toggle "Use Cloud" for SDXL/Flux quality without local GPU load. Backend selector, cloud model picker, API key settings popup. New cloudgen.py module (315 lines) |
 | L | 2026-04-07 | N. Johansson | Face pose quality scoring: detects extreme angles using landmark symmetry, warns before swap. Works with any pose/size/angle difference — neural swap handles alignment automatically |
 | K | 2026-04-07 | N. Johansson | Bidirectional face switch: upload two photos, faces swap both ways. Primary shown on screen, second auto-saved to history |
 | J | 2026-04-07 | N. Johansson | Neural face swap (ReActor INSwapper + FaceSwapLab landmark masks + DiffFace refinement). Auto-downloads swapper model, convex hull masking, Lab colour correction, face similarity ranking, face checkpoints, optional SD inpaint refinement |
