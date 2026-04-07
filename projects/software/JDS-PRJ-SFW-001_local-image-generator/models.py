@@ -86,6 +86,44 @@ C = {
 LIGHT_DIRS = ["left", "right", "top", "bottom",
               "top-left", "top-right", "bottom-left", "bottom-right"]
 
+# Inpaint workflow presets — prompt + negative for common edit tasks
+INPAINT_PRESETS = {
+    "Custom (manual)": {"prompt": "", "neg": ""},
+    "Remove clothing": {
+        "prompt": "bare skin, natural body, realistic anatomy, "
+                  "detailed skin texture, photorealistic",
+        "neg": "clothing, fabric, cloth, shirt, dress, pants, underwear, "
+               "deformed, bad anatomy, blurry, doll, plastic, cartoon",
+    },
+    "Change outfit": {
+        "prompt": "wearing elegant dress, high fashion, photorealistic, "
+                  "detailed fabric texture",
+        "neg": "deformed, bad anatomy, blurry, low quality, cartoon",
+    },
+    "Swimwear": {
+        "prompt": "wearing bikini swimsuit, beach, realistic skin, "
+                  "photorealistic, natural body",
+        "neg": "deformed, bad anatomy, blurry, cartoon, plastic",
+    },
+    "Lingerie": {
+        "prompt": "wearing delicate lace lingerie, photorealistic, "
+                  "detailed fabric, natural body proportions",
+        "neg": "deformed, bad anatomy, blurry, plastic, cartoon",
+    },
+    "Artistic nude": {
+        "prompt": "fine art nude photograph, studio lighting, "
+                  "museum quality, elegant pose, realistic anatomy",
+        "neg": "vulgar, deformed, bad anatomy, blurry, low quality, "
+               "cartoon, plastic, oversized breasts",
+    },
+    "Enhance body": {
+        "prompt": "fit athletic body, natural proportions, "
+                  "realistic anatomy, detailed skin texture",
+        "neg": "deformed, bad anatomy, disproportionate, oversized, "
+               "blurry, plastic, cartoon",
+    },
+}
+
 
 def load_config():
     defaults = {

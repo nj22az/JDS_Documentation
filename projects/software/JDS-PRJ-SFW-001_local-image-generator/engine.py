@@ -173,6 +173,97 @@ def inpaint(prompt, image, mask, neg="", steps=30, cfg=7.0, seed=-1,
 
 
 # ---------------------------------------------------------------------------
+# ControlNet — preserve pose/structure while regenerating
+# ---------------------------------------------------------------------------
+
+_controlnet = None
+_cn_type = None
+
+CONTROLNET_MODELS = {
+    "openpose": "lllyasviel/sd-controlnet-openpose",
+    "canny": "lllyasviel/sd-controlnet-canny",
+    "depth": "lllyasviel/control_v11f1p_sd15_depth",
+}
+
+
+def controlnet_generate(prompt, image, control_type="openpose",
+                        neg="", steps=30, cfg=7.0, seed=-1,
+                        strength=1.0, status=None, done=None, error=None):
+    """Generate with ControlNet conditioning (preserves pose/edges/depth)."""
+    def _run():
+        global _controlnet, _cn_type
+        try:
+            if not _pipe:
+                if error: error("No model loaded."); return
+
+            import torch, cv2, numpy as np
+            from diffusers import ControlNetModel, StableDiffusionControlNetPipeline
+
+            # Load ControlNet model if needed
+            if _controlnet is None or _cn_type != control_type:
+                model_id = CONTROLNET_MODELS.get(control_type)
+                if not model_id:
+                    if error: error(f"Unknown control type: {control_type}")
+                    return
+                if status: status(f"Loading ControlNet ({control_type})...")
+                _controlnet = ControlNetModel.from_pretrained(
+                    model_id, torch_dtype=torch.float32,
+                    cache_dir=str(MODELS_DIR))
+                _cn_type = control_type
+
+            # Prepare control image
+            img_np = np.array(image.convert("RGB"))
+            if control_type == "canny":
+                if status: status("Extracting edges...")
+                gray = cv2.cvtColor(img_np, cv2.COLOR_RGB2GRAY)
+                edges = cv2.Canny(gray, 100, 200)
+                ctrl_img = Image.fromarray(
+                    cv2.cvtColor(edges, cv2.COLOR_GRAY2RGB))
+            elif control_type == "openpose":
+                # Pass image directly — ControlNet preprocessor handles it
+                ctrl_img = image.convert("RGB")
+            elif control_type == "depth":
+                ctrl_img = image.convert("RGB")
+            else:
+                ctrl_img = image.convert("RGB")
+
+            if status: status(f"Generating with {control_type} control...")
+
+            dev = device()
+            cn = _controlnet.to(dev)
+            p = StableDiffusionControlNetPipeline(
+                vae=_pipe.vae, text_encoder=_pipe.text_encoder,
+                tokenizer=_pipe.tokenizer, unet=_pipe.unet,
+                scheduler=_pipe.scheduler, controlnet=cn,
+                safety_checker=None, feature_extractor=None)
+            p = p.to(dev)
+            p.enable_attention_slicing()
+
+            s = _seed(seed)
+            g = torch.Generator(device="cpu").manual_seed(s)
+            ww, hh = image.width // 8 * 8, image.height // 8 * 8
+
+            result = p(prompt=prompt,
+                       image=ctrl_img.resize((ww, hh)),
+                       negative_prompt=neg or None,
+                       num_inference_steps=steps,
+                       guidance_scale=cfg,
+                       controlnet_conditioning_scale=strength,
+                       generator=g)
+
+            if status: status("ControlNet generation complete.")
+            if done: done(result.images[0], s)
+
+        except ImportError as e:
+            if error:
+                error(f"ControlNet requires extra packages:\n\n{e}\n\n"
+                      "Run: pip install controlnet-aux")
+        except Exception as e:
+            if error: error(str(e))
+    _bg(_run)
+
+
+# ---------------------------------------------------------------------------
 # Upscaling
 # ---------------------------------------------------------------------------
 

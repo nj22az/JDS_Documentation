@@ -18,8 +18,10 @@ import fixer
 import consistency
 import faceswap
 import cloudgen
+import smartmask
 from models import (APP_NAME, APP_VERSION, MODELS, NEG_PRESETS, C,
-                    LIGHT_DIRS, OUTPUT_DIR, load_config, save_config)
+                    LIGHT_DIRS, INPAINT_PRESETS, OUTPUT_DIR,
+                    load_config, save_config)
 from painter import MaskPainter
 
 MODES = ["txt2img", "img2img", "inpaint", "edit"]
@@ -383,6 +385,68 @@ class App(ctk.CTk):
                       fg_color=C["fill"], text_color=C["text"],
                       hover_color=C["sep"],
                       command=self._get_mask).pack(side="left")
+
+        # Smart masking (auto-detect clothing, skin, body)
+        self._label(self.p_edit, "Smart Mask")
+        sm_row = ctk.CTkFrame(self.p_edit, fg_color="transparent")
+        sm_row.pack(fill="x", pady=(0, 4))
+        ctk.CTkButton(sm_row, text="Clothing", width=75,
+                      corner_radius=8, height=28,
+                      font=("SF Pro Text", 11),
+                      fg_color="#FF2D55", hover_color="#CC1A3D",
+                      command=self._mask_clothing).pack(side="left", padx=(0, 4))
+        ctk.CTkButton(sm_row, text="Skin", width=55,
+                      corner_radius=8, height=28,
+                      font=("SF Pro Text", 11),
+                      fg_color=C["fill"], text_color=C["text"],
+                      hover_color=C["sep"],
+                      command=self._mask_skin).pack(side="left", padx=(0, 4))
+        ctk.CTkButton(sm_row, text="Body (no face)", width=100,
+                      corner_radius=8, height=28,
+                      font=("SF Pro Text", 11),
+                      fg_color=C["fill"], text_color=C["text"],
+                      hover_color=C["sep"],
+                      command=self._mask_body).pack(side="left", padx=(0, 4))
+        ctk.CTkButton(sm_row, text="Face", width=50,
+                      corner_radius=8, height=28,
+                      font=("SF Pro Text", 11),
+                      fg_color=C["fill"], text_color=C["text"],
+                      hover_color=C["sep"],
+                      command=self._mask_face).pack(side="left")
+
+        # Inpaint workflow presets
+        self._label(self.p_edit, "Inpaint Preset")
+        preset_names = list(INPAINT_PRESETS.keys())
+        self.inpaint_preset = ctk.CTkOptionMenu(
+            self.p_edit, values=preset_names,
+            font=("SF Pro Text", 11),
+            fg_color=C["fill"], text_color=C["text"],
+            button_color=C["sep"], button_hover_color=C["muted"],
+            command=self._apply_inpaint_preset)
+        self.inpaint_preset.set("Custom (manual)")
+        self.inpaint_preset.pack(fill="x", pady=(0, 4))
+        ctk.CTkButton(self.p_edit, text="Auto Mask + Inpaint",
+                      corner_radius=8, height=28,
+                      font=("SF Pro Text", 11, "bold"),
+                      fg_color="#FF2D55", hover_color="#CC1A3D",
+                      command=self._auto_inpaint).pack(fill="x", pady=(0, 6))
+
+        # ControlNet (pose/structure preservation)
+        self._label(self.p_edit, "ControlNet")
+        cn_row = ctk.CTkFrame(self.p_edit, fg_color="transparent")
+        cn_row.pack(fill="x", pady=(0, 6))
+        self.cn_type = ctk.CTkOptionMenu(
+            cn_row, values=["openpose", "canny", "depth"],
+            width=100, font=("SF Pro Text", 11),
+            fg_color=C["fill"], text_color=C["text"],
+            button_color=C["sep"], button_hover_color=C["muted"])
+        self.cn_type.set("openpose")
+        self.cn_type.pack(side="left", padx=(0, 4))
+        ctk.CTkButton(cn_row, text="Generate with Pose", width=140,
+                      corner_radius=8, height=28,
+                      font=("SF Pro Text", 11, "bold"),
+                      fg_color="#5856D6", hover_color="#4240A8",
+                      command=self._controlnet_gen).pack(side="left")
 
         self._label(self.p_edit, "Lighting")
         self.light_dir = ctk.CTkOptionMenu(
@@ -931,6 +995,108 @@ class App(ctk.CTk):
         result = lighting.apply(img, self.light_dir.get(),
                                 self.li_sl.get(), self.warm_sl.get())
         self._finish(result)
+
+    # --- Smart masking ---
+
+    def _get_edit_image(self):
+        img = self.current_image or self.input_image
+        if not img:
+            show_error("No Image", "Load or generate a photo first.")
+        return img
+
+    def _apply_mask_to_painter(self, mask):
+        """Load mask into inpaint painter and switch to inpaint mode."""
+        self.input_image = self.current_image or self.input_image
+        self.mode.set("inpaint")
+        self._mode_changed("inpaint")
+        self.painter.set_image(self.input_image)
+        self.painter.set_mask(mask)
+        self._msg("Mask applied. Edit with brush, then Generate.")
+
+    def _mask_clothing(self):
+        img = self._get_edit_image()
+        if not img: return
+        smartmask.clothing_mask(img, status=self._msg,
+            done=lambda m: self.after(0, lambda: self._apply_mask_to_painter(m)),
+            error=lambda e: self.after(0, lambda: show_error("Mask Error", str(e))))
+
+    def _mask_skin(self):
+        img = self._get_edit_image()
+        if not img: return
+        smartmask.skin_only_mask(img, status=self._msg,
+            done=lambda m: self.after(0, lambda: self._apply_mask_to_painter(m)),
+            error=lambda e: self.after(0, lambda: show_error("Mask Error", str(e))))
+
+    def _mask_body(self):
+        img = self._get_edit_image()
+        if not img: return
+        smartmask.body_no_face_mask(img, status=self._msg,
+            done=lambda m: self.after(0, lambda: self._apply_mask_to_painter(m)),
+            error=lambda e: self.after(0, lambda: show_error("Mask Error", str(e))))
+
+    def _mask_face(self):
+        img = self._get_edit_image()
+        if not img: return
+        smartmask.face_region_mask(img, status=self._msg,
+            done=lambda m: self.after(0, lambda: self._apply_mask_to_painter(m)),
+            error=lambda e: self.after(0, lambda: show_error("Mask Error", str(e))))
+
+    # --- Inpaint presets ---
+
+    def _apply_inpaint_preset(self, name):
+        preset = INPAINT_PRESETS.get(name, {})
+        p = preset.get("prompt", "")
+        n = preset.get("neg", "")
+        if p:
+            self.prompt.delete("1.0", "end")
+            self.prompt.insert("1.0", p)
+        if n:
+            self.neg.delete("1.0", "end")
+            self.neg.insert("1.0", n)
+
+    def _auto_inpaint(self):
+        """One-click: auto-mask clothing + fill with preset prompt."""
+        img = self._get_edit_image()
+        if not img: return
+
+        prompt = self.prompt.get("1.0", "end").strip()
+        if not prompt:
+            show_error("No Prompt",
+                       "Pick an inpaint preset or write a prompt first.")
+            return
+
+        neg = self.neg.get("1.0", "end").strip()
+        steps, cfg, seed = self._params()
+
+        def _on_mask(mask):
+            self._msg("Auto-inpainting with mask...")
+            engine.inpaint(prompt, img, mask, neg, steps, cfg, seed,
+                           strength=0.85, status=self._msg,
+                           done=lambda r, s: self.after(0, lambda: self._finish(r, s)),
+                           error=lambda e: self.after(0, lambda: show_error(
+                               "Inpaint Error", str(e))))
+
+        smartmask.clothing_mask(img, status=self._msg,
+            done=lambda m: self.after(0, lambda: _on_mask(m)),
+            error=lambda e: self.after(0, lambda: show_error("Mask Error", str(e))))
+
+    # --- ControlNet ---
+
+    def _controlnet_gen(self):
+        img = self._get_edit_image()
+        if not img: return
+        prompt = self.prompt.get("1.0", "end").strip()
+        if not prompt:
+            self._msg("Enter a prompt first."); return
+        neg = self.neg.get("1.0", "end").strip()
+        steps, cfg, seed = self._params()
+        engine.controlnet_generate(
+            prompt, img, control_type=self.cn_type.get(),
+            neg=neg, steps=steps, cfg=cfg, seed=seed,
+            status=self._msg,
+            done=lambda r, s: self.after(0, lambda: self._finish(r, s)),
+            error=lambda e: self.after(0, lambda: show_error(
+                "ControlNet Error", str(e))))
         self._msg("Lighting applied.")
 
     def _upscale(self, scale=2):

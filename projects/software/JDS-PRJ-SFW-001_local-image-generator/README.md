@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Document No.** | JDS-PRJ-SFW-001 |
-| **Revision** | N |
+| **Revision** | P |
 | **Date** | 2026-04-07 |
 | **Status** | CURRENT |
 | **Author** | N. Johansson |
@@ -23,10 +23,14 @@ Double-click to launch. Close to quit. Nothing stays running.
 | **txt2img** | Generate images from text prompts (local or cloud) |
 | **img2img** | Transform photos with a prompt + strength (local or cloud) |
 | **inpaint** | Paint a mask, regenerate just that area (change outfits, remove items) |
-| **edit** | Background removal/replacement, directional lighting effects |
+| **edit** | Smart masks, inpaint presets, ControlNet, background, lighting, face swap |
 
 ## Key Features
 
+- **Smart masking** — auto-detect clothing, skin, body, face regions for targeted editing
+- **Inpaint presets** — one-click workflows: remove clothing, change outfit, swimwear, lingerie, artistic nude, enhance body
+- **ControlNet** — preserve pose/structure while regenerating (openpose, canny edge, depth)
+- **Auto Mask + Inpaint** — one-click: detect clothing, apply preset prompt, inpaint
 - **Inpainting** — brush over socks, clothes, objects to remove or replace them
 - **Background removal** — one click, subject detected automatically (rembg)
 - **Background replacement** — describe new background, AI generates it around the subject
@@ -82,6 +86,7 @@ JDS-PRJ-SFW-001_local-image-generator/
     prompts.py      Dynamic prompt templating {a|b|c}
     consistency.py  Character identity persistence (IP-Adapter)
     faceswap.py     Neural face swap (ReActor + FaceSwapLab + DiffFace)
+    smartmask.py    Smart auto-masking (clothing, skin, body, face)
     cloudgen.py     Cloud backends (HuggingFace, Prodia, AI Horde)
     gui.py          Main window, sidebar, all modes
     setup.command               One-time installer
@@ -105,6 +110,7 @@ JDS-PRJ-SFW-001_local-image-generator/
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
+| P | 2026-04-07 | N. Johansson | Smart masking (clothing/skin/body/face auto-detection via rembg + HSV/YCrCb skin detection), ControlNet (openpose/canny/depth for pose preservation), inpaint workflow presets (7 presets), one-click Auto Mask + Inpaint. New smartmask.py (184 lines). 13 files, 3774 total lines |
 | N | 2026-04-07 | N. Johansson | Expanded cloud model registry with NSFW-capable models. AI Horde default (free, no key, unrestricted). Added WAI-NSFW SDXL, AlbedoBase XL, ICBINP XL, Pony Diffusion XL, PPP to Horde. WAI-NSFW SDXL on HuggingFace. All backends pass nsfw:true/censor_nsfw:false flags |
 | M | 2026-04-07 | N. Johansson | Cloud generation: three free backends (HuggingFace Inference API, Prodia, AI Horde). Toggle "Use Cloud" for SDXL/Flux quality without local GPU load. Backend selector, cloud model picker, API key settings popup. New cloudgen.py module (315 lines) |
 | L | 2026-04-07 | N. Johansson | Face pose quality scoring: detects extreme angles using landmark symmetry, warns before swap. Works with any pose/size/angle difference — neural swap handles alignment automatically |
