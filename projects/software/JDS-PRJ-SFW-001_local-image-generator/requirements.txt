@@ -21,3 +21,7 @@ huggingface-hub>=0.20.0
 # Background removal (local, uses u2net)
 rembg>=2.0.50
 onnxruntime>=1.16.0
+
+# Upscaling (optional — hires fix works without these)
+realesrgan>=0.3.0
+basicsr>=1.4.2

@@ -450,6 +450,16 @@ class App(ctk.CTk):
                       hover_color=C["sep"],
                       command=self._copy_seed).pack(side="left", padx=(6, 0))
 
+        # Upscale buttons
+        ctk.CTkButton(bar, text="Upscale 2x", width=90, corner_radius=10,
+                      height=32, font=("SF Pro Text", 12),
+                      fg_color=C["green"], hover_color="#2AA847",
+                      command=lambda: self._upscale(2)).pack(side="left", padx=(6, 0))
+        ctk.CTkButton(bar, text="Hires Fix", width=80, corner_radius=10,
+                      height=32, font=("SF Pro Text", 12),
+                      fg_color=C["orange"], hover_color="#CC7700",
+                      command=self._hires_fix).pack(side="left", padx=(6, 0))
+
         self.seed_lbl = ctk.CTkLabel(bar, text="", font=("SF Pro Text", 11),
                                       text_color=C["muted"])
         self.seed_lbl.pack(side="right")
@@ -587,6 +597,38 @@ class App(ctk.CTk):
                                 self.li_sl.get(), self.warm_sl.get())
         self._finish(result)
         self._msg("Lighting applied.")
+
+    def _upscale(self, scale=2):
+        if not self.current_image:
+            show_error("No Image", "Generate or load an image first.")
+            return
+        self._msg(f"Upscaling {scale}x with Real-ESRGAN...")
+        engine.upscale(
+            self.current_image, scale=scale,
+            status=self._msg,
+            done=lambda img: self.after(0, lambda: self._finish(img)),
+            error=lambda e: self.after(0, lambda: show_error("Upscale Error",
+                f"Upscaling failed:\n\n{e}\n\n"
+                "Install the upscaler:\n  pip install realesrgan basicsr")))
+
+    def _hires_fix(self):
+        if not self.current_image:
+            show_error("No Image", "Generate an image first, then upscale it.")
+            return
+        prompt = self.prompt.get("1.0", "end").strip()
+        if not prompt:
+            self._msg("Enter the original prompt for detail enhancement.")
+            return
+        neg = self.neg.get("1.0", "end").strip()
+        steps, cfg, seed = self._params()
+        self._msg("Running hires fix (upscale + detail)...")
+        engine.hires_fix(
+            self.current_image, prompt, neg=neg, scale=2, strength=0.35,
+            steps=steps, cfg=cfg, seed=seed,
+            status=self._msg,
+            done=lambda img, s: self.after(0, lambda: self._finish(img, s)),
+            error=lambda e: self.after(0, lambda: show_error("Hires Fix Error",
+                f"Hires fix failed:\n\n{e}")))
 
     def _params(self):
         """Read steps, cfg, seed from entries."""

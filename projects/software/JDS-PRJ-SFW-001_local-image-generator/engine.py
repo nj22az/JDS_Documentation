@@ -172,6 +172,91 @@ def inpaint(prompt, image, mask, neg="", steps=30, cfg=7.0, seed=-1,
     _bg(_run)
 
 
+# ---------------------------------------------------------------------------
+# Upscaling
+# ---------------------------------------------------------------------------
+
+_upscaler = None
+
+
+def upscale(image, scale=2, status=None, done=None, error=None):
+    """Upscale image 2x or 4x using Real-ESRGAN."""
+    def _run():
+        global _upscaler
+        try:
+            if status: status(f"Upscaling {scale}x...")
+            import numpy as np
+            from PIL import Image as PILImage
+            try:
+                from realesrgan import RealESRGANer
+                from basicsr.archs.rrdbnet_arch import RRDBNet
+            except ImportError:
+                if error:
+                    error("Upscaler not installed.\n\n"
+                          "Run: pip install realesrgan basicsr")
+                return
+
+            if _upscaler is None or getattr(_upscaler, '_sc', 0) != scale:
+                model = RRDBNet(num_in_ch=3, num_out_ch=3, num_feat=64,
+                                num_block=23, num_grow_ch=32, scale=scale)
+                _up = RealESRGANer(
+                    scale=scale, model_path=None, model=model,
+                    tile=256, tile_pad=10, pre_pad=0, half=False)
+                _up._sc = scale
+                _upscaler = _up  # noqa
+
+            img_np = np.array(image.convert("RGB"))
+            output, _ = _upscaler.enhance(img_np, outscale=scale)
+            result = PILImage.fromarray(output)
+            if status: status(f"Upscaled to {result.width}x{result.height}")
+            if done: done(result)
+        except Exception as e:
+            if error: error(str(e))
+    _bg(_run)
+
+
+def hires_fix(image, prompt, neg="", scale=2, strength=0.35,
+              steps=20, cfg=7.0, seed=-1,
+              status=None, done=None, error=None):
+    """Upscale with Lanczos then img2img at low strength to add detail.
+    No extra packages needed — uses the loaded model."""
+    def _run():
+        try:
+            if not _pipe:
+                if error: error("No model loaded."); return
+            import torch
+            from diffusers import StableDiffusionImg2ImgPipeline
+            from PIL import Image as PILImage
+
+            new_w, new_h = image.width * scale, image.height * scale
+            cap = 1536  # memory safety for 16GB
+            if max(new_w, new_h) > cap:
+                r = cap / max(new_w, new_h)
+                new_w, new_h = int(new_w * r), int(new_h * r)
+            new_w, new_h = new_w // 8 * 8, new_h // 8 * 8
+
+            if status: status(f"Upscaling to {new_w}x{new_h}...")
+            up = image.convert("RGB").resize((new_w, new_h), PILImage.LANCZOS)
+
+            if status: status("Enhancing detail...")
+            p = StableDiffusionImg2ImgPipeline(
+                vae=_pipe.vae, text_encoder=_pipe.text_encoder,
+                tokenizer=_pipe.tokenizer, unet=_pipe.unet,
+                scheduler=_pipe.scheduler,
+                safety_checker=None, feature_extractor=None)
+            p = p.to(_pipe.device); p.enable_attention_slicing()
+            s = _seed(seed)
+            g = torch.Generator(device="cpu").manual_seed(s)
+            res = p(prompt=prompt, image=up, strength=strength,
+                    negative_prompt=neg or None, num_inference_steps=steps,
+                    guidance_scale=cfg, generator=g)
+            if status: status(f"Done — {new_w}x{new_h}")
+            if done: done(res.images[0], s)
+        except Exception as e:
+            if error: error(str(e))
+    _bg(_run)
+
+
 def remove_bg(image, status=None, done=None, error=None):
     def _run():
         try:
