@@ -12,6 +12,9 @@ import customtkinter as ctk
 
 import engine
 import lighting
+import history
+import prompts
+import fixer
 from models import (APP_NAME, APP_VERSION, MODELS, NEG_PRESETS, C,
                     LIGHT_DIRS, OUTPUT_DIR, load_config, save_config)
 from painter import MaskPainter
@@ -125,6 +128,88 @@ class ModelManager(ctk.CTkToplevel):
         mid = self._custom.get().strip()
         if mid:
             self._dl_load({"id": mid, "name": mid})
+
+
+# -----------------------------------------------------------------------
+# History Gallery
+# -----------------------------------------------------------------------
+class HistoryWindow(ctk.CTkToplevel):
+    def __init__(self, master):
+        super().__init__(master)
+        self.master_app = master
+        self.title("Generation History")
+        self.geometry("700x500")
+        self.configure(fg_color=C["bg"])
+
+        ctk.CTkLabel(self, text="History",
+                     font=("SF Pro Display", 20, "bold"),
+                     text_color=C["text"]).pack(padx=20, pady=(16, 4), anchor="w")
+        ctk.CTkLabel(self, text="All generated images are saved automatically.",
+                     font=("SF Pro Text", 12),
+                     text_color=C["muted"]).pack(padx=20, pady=(0, 8), anchor="w")
+
+        self._scroll = ctk.CTkScrollableFrame(self, fg_color=C["bg"])
+        self._scroll.pack(fill="both", expand=True, padx=12, pady=(0, 12))
+
+        self._thumbs = []  # keep references alive
+        entries = history.list_all(limit=50)
+        if not entries:
+            ctk.CTkLabel(self._scroll, text="No images yet.",
+                         font=("SF Pro Text", 13),
+                         text_color=C["muted"]).pack(pady=20)
+            return
+
+        for img_path, meta in entries:
+            self._entry(img_path, meta)
+
+    def _entry(self, path, meta):
+        row = ctk.CTkFrame(self._scroll, corner_radius=10, fg_color=C["surface"])
+        row.pack(fill="x", pady=3)
+        inner = ctk.CTkFrame(row, fg_color="transparent")
+        inner.pack(fill="x", padx=12, pady=8)
+
+        # Thumbnail
+        thumb = history.load_thumb(path, (80, 80))
+        if thumb:
+            tk_img = ImageTk.PhotoImage(thumb)
+            self._thumbs.append(tk_img)
+            ctk.CTkLabel(inner, image=tk_img, text="").pack(side="left", padx=(0, 10))
+
+        # Info
+        info = ctk.CTkFrame(inner, fg_color="transparent")
+        info.pack(side="left", fill="x", expand=True)
+        prompt = meta.get("prompt", "")[:80]
+        ctk.CTkLabel(info, text=prompt, font=("SF Pro Text", 11),
+                     text_color=C["text"], wraplength=380,
+                     justify="left").pack(anchor="w")
+        details = (f"Seed: {meta.get('seed', '?')} | "
+                   f"{meta.get('mode', '')} | "
+                   f"{meta.get('timestamp', '')}")
+        ctk.CTkLabel(info, text=details, font=("SF Pro Text", 10),
+                     text_color=C["muted"]).pack(anchor="w")
+
+        # Load button
+        ctk.CTkButton(inner, text="Load", width=60, corner_radius=8,
+                      height=28, font=("SF Pro Text", 11),
+                      fg_color=C["accent"], hover_color=C["hover"],
+                      command=lambda p=path, m=meta: self._load(p, m)
+                      ).pack(side="right")
+
+    def _load(self, path, meta):
+        try:
+            img = Image.open(path)
+            self.master_app.current_image = img
+            self.master_app._show(img)
+            self.master_app._msg(f"Loaded from history: seed {meta.get('seed', '?')}")
+            # Restore prompt
+            self.master_app.prompt.delete("1.0", "end")
+            self.master_app.prompt.insert("1.0", meta.get("prompt", ""))
+            # Restore seed
+            self.master_app.e_seed.delete(0, "end")
+            self.master_app.e_seed.insert(0, str(meta.get("seed", -1)))
+            self.destroy()
+        except Exception as e:
+            show_error("Load Error", str(e))
 
 
 # -----------------------------------------------------------------------
@@ -459,6 +544,15 @@ class App(ctk.CTk):
                       height=32, font=("SF Pro Text", 12),
                       fg_color=C["orange"], hover_color="#CC7700",
                       command=self._hires_fix).pack(side="left", padx=(6, 0))
+        ctk.CTkButton(bar, text="Fix Faces", width=80, corner_radius=10,
+                      height=32, font=("SF Pro Text", 12),
+                      fg_color="#AF52DE", hover_color="#8B3FBF",
+                      command=self._fix_faces).pack(side="left", padx=(6, 0))
+        ctk.CTkButton(bar, text="History", width=70, corner_radius=10,
+                      height=32, font=("SF Pro Text", 12),
+                      fg_color=C["fill"], text_color=C["text"],
+                      hover_color=C["sep"],
+                      command=self._show_history).pack(side="left", padx=(6, 0))
 
         self.seed_lbl = ctk.CTkLabel(bar, text="", font=("SF Pro Text", 11),
                                       text_color=C["muted"])
@@ -630,6 +724,44 @@ class App(ctk.CTk):
             error=lambda e: self.after(0, lambda: show_error("Hires Fix Error",
                 f"Hires fix failed:\n\n{e}")))
 
+    def _fix_faces(self):
+        if not self.current_image:
+            show_error("No Image", "Generate an image first.")
+            return
+        prompt = self.prompt.get("1.0", "end").strip() or "detailed face, sharp eyes"
+        neg = self.neg.get("1.0", "end").strip()
+        steps, cfg, _ = self._params()
+
+        def pipe_fn(pr, img, mask, ng, st, cf, strength):
+            """Synchronous inpaint for the fixer."""
+            import torch
+            from diffusers import StableDiffusionInpaintPipeline
+            p = StableDiffusionInpaintPipeline(
+                vae=engine._pipe.vae, text_encoder=engine._pipe.text_encoder,
+                tokenizer=engine._pipe.tokenizer, unet=engine._pipe.unet,
+                scheduler=engine._pipe.scheduler,
+                safety_checker=None, feature_extractor=None)
+            p = p.to(engine._pipe.device); p.enable_attention_slicing()
+            g = torch.Generator(device="cpu").manual_seed(
+                torch.randint(0, 2**32 - 1, (1,)).item())
+            ww, hh = img.width // 8 * 8, img.height // 8 * 8
+            r = p(prompt=pr, image=img.convert("RGB").resize((ww, hh)),
+                  mask_image=mask.convert("RGB").resize((ww, hh)),
+                  negative_prompt=ng or None, num_inference_steps=st,
+                  guidance_scale=cf, strength=strength, generator=g)
+            return r.images[0]
+
+        fixer.fix_faces(
+            self.current_image, pipe_fn, prompt, neg, steps, cfg,
+            status=self._msg,
+            done=lambda img: self.after(0, lambda: self._finish(img)),
+            error=lambda e: self.after(0, lambda: show_error("Face Fix Error",
+                f"Face fix failed:\n\n{e}\n\n"
+                "Install: pip install opencv-python")))
+
+    def _show_history(self):
+        HistoryWindow(self)
+
     def _params(self):
         """Read steps, cfg, seed from entries."""
         try:
@@ -640,9 +772,14 @@ class App(ctk.CTk):
 
     def _generate(self):
         if self._busy: return
-        prompt = self.prompt.get("1.0", "end").strip()
-        if not prompt:
+        raw_prompt = self.prompt.get("1.0", "end").strip()
+        if not raw_prompt:
             self._msg("Enter a prompt."); return
+
+        # Dynamic prompt expansion
+        prompt = prompts.expand(raw_prompt) if prompts.has_dynamic(raw_prompt) else raw_prompt
+        if prompt != raw_prompt:
+            self._msg(f"Expanded: {prompt[:80]}...")
 
         neg = self.neg.get("1.0", "end").strip()
         steps, cfg, seed = self._params()
@@ -699,6 +836,15 @@ class App(ctk.CTk):
             self.last_seed = seed
             self.seed_lbl.configure(text=f"Seed: {seed}")
         self._show(img)
+        # Auto-save to history
+        try:
+            prompt = self.prompt.get("1.0", "end").strip()
+            neg = self.neg.get("1.0", "end").strip()
+            model = self.cfg.get("model_id", "")
+            history.save(img, prompt, neg, seed or 0, model,
+                         self.mode.get(), *self._params())
+        except Exception:
+            pass  # History save is best-effort
         self._msg("Done.")
 
     def _show(self, img):

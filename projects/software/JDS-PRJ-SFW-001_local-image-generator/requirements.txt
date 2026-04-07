@@ -25,3 +25,6 @@ onnxruntime>=1.16.0
 # Upscaling (optional — hires fix works without these)
 realesrgan>=0.3.0
 basicsr>=1.4.2
+
+# Face detection (for face auto-fix)
+opencv-python>=4.8.0

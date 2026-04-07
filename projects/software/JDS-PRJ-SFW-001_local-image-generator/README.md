@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Document No.** | JDS-PRJ-SFW-001 |
-| **Revision** | E |
+| **Revision** | F |
 | **Date** | 2026-04-07 |
 | **Status** | CURRENT |
 | **Author** | N. Johansson |
@@ -65,11 +65,14 @@ Double-click to launch. Close to quit. Nothing stays running.
 
 ```
 JDS-PRJ-SFW-001_local-image-generator/
-    app.py          Entry point (10 lines)
+    app.py          Entry point
     models.py       Config, constants, model registry
-    engine.py       All ML pipelines (txt2img, img2img, inpaint, bg)
+    engine.py       All ML pipelines (txt2img, img2img, inpaint, bg, upscale)
     painter.py      Mask painting canvas widget
     lighting.py     Directional light effects
+    fixer.py        Face/hand auto-detection and fix (Adetailer concept)
+    history.py      Auto-save generations with metadata, gallery browser
+    prompts.py      Dynamic prompt templating {a|b|c}
     gui.py          Main window, sidebar, all modes
     setup.command               One-time installer
     JDS Image Studio.command    App launcher
@@ -92,6 +95,7 @@ JDS-PRJ-SFW-001_local-image-generator/
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
+| F | 2026-04-07 | N. Johansson | Face auto-fix (Adetailer), image history gallery, dynamic prompts {a|b|c}, inspired by Forge ecosystem research |
 | E | 2026-04-07 | N. Johansson | Upscaling: Real-ESRGAN 2x/4x upscaler + Hires Fix (model-based detail enhancement), capped at 1536px for 16GB safety |
 | D | 2026-04-07 | N. Johansson | Error dialogs, dependency checker, body proportion presets (4 negative prompt presets), syntax validated |
 | C | 2026-04-07 | N. Johansson | Inpainting, background removal/replacement, lighting effects, subject detection, edit mode, code split into 6 files per JDS |
