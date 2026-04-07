@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Document No.** | JDS-PRJ-SFW-001 |
-| **Revision** | B |
+| **Revision** | C |
 | **Date** | 2026-04-07 |
 | **Status** | CURRENT |
 | **Author** | N. Johansson |
@@ -12,25 +12,31 @@
 
 ## What Is This?
 
-A fully local, unrestricted image generation desktop app that runs on Apple Silicon using Stable Diffusion. No cloud, no internet required after model download, no content filters. Your machine, your rules.
+A fully local, unrestricted image generation and photo editing app. Runs on Apple Silicon via Stable Diffusion. No cloud, no filters, no restrictions.
 
-Double-click to launch. Close the window to shut down. Nothing stays running.
+Double-click to launch. Close to quit. Nothing stays running.
+
+## Modes
+
+| Mode | What It Does |
+|------|-------------|
+| **txt2img** | Generate images from text prompts |
+| **img2img** | Transform photos with a prompt + strength |
+| **inpaint** | Paint a mask, regenerate just that area (change outfits, remove items) |
+| **edit** | Background removal/replacement, directional lighting effects |
 
 ## Key Features
 
-- **Double-click launch** — `setup.command` (one-time), then `JDS Image Studio.command` to run
-- **Model Manager** — Browse, download, and switch models from inside the app
-- **Optimised for realistic humans** — Recommended models curated for photorealistic faces and skin
-- **Text-to-Image** — Generate images from text prompts
-- **Image-to-Image** — Transform existing photos with strength control
-- **No safety filters** — Full unrestricted generation (safety checker disabled)
-- **Photo negative preset** — One-click negative prompt for clean realistic photos
-- **Quick size presets** — 512x512, 512x768, 768x512, 768x768
-- **Flat iOS-style GUI** — Clean, modern interface built with CustomTkinter
-- **Apple Silicon native** — Runs on MPS (Metal Performance Shaders) backend
-- **DPM++ 2M Karras scheduler** — Fast, high-quality sampling
-- **Seed control** — Reproduce and copy seeds
-- **Clean shutdown** — Close window to unload model and free all memory
+- **Inpainting** — brush over socks, clothes, objects to remove or replace them
+- **Background removal** — one click, subject detected automatically (rembg)
+- **Background replacement** — describe new background, AI generates it around the subject
+- **Lighting effects** — simulate sun, lamp, any direction with warmth control
+- **Unrestricted** — no safety filters, no content restrictions, your machine your rules
+- **5 curated models** — Realistic Vision v5.1 (default), Deliberate v2, Dreamlike, SD 1.5, SD 2.1
+- **Model Manager** — download any HuggingFace model from inside the app
+- **Photo negative preset** — one click anti-artifact prompt for clean realistic photos
+- **DPM++ 2M Karras** — fast, high-quality sampling
+- **Clean shutdown** — close window, model unloaded, memory freed
 
 ## System Requirements
 
@@ -44,73 +50,48 @@ Double-click to launch. Close the window to shut down. Nothing stays running.
 
 ## Quick Start
 
-### First time (one-time setup)
+### First time
 
 1. Double-click **`setup.command`** in Finder
-2. Wait for dependencies to install (~2-5 min)
+2. Wait for install (~3 min)
 
-### Every time after
+### Every time
 
-1. Double-click **`JDS Image Studio.command`** in Finder
-2. The Model Manager opens automatically on first launch
-3. Click **Download & Load** on "Realistic Vision v5.1" (recommended)
-4. Enter a prompt and hit **Generate**
-
-### Alternative (terminal)
-
-```bash
-cd projects/software/JDS-PRJ-SFW-001_local-image-generator/
-python3 -m venv venv && source venv/bin/activate
-pip install -r requirements.txt
-python3 app.py
-```
-
-## Recommended Models for Realistic Humans
-
-| Model | Size | Best For |
-|-------|------|----------|
-| **Realistic Vision v5.1** | ~5 GB | Photorealistic humans, faces, skin (recommended) |
-| Dreamlike Photoreal 2.0 | ~4 GB | Photorealistic with artistic flair |
-| Stable Diffusion 2.1 | ~5 GB | General purpose baseline |
-| Stable Diffusion 1.5 | ~4 GB | Lighter, faster, huge LoRA ecosystem |
-
-All models are downloaded via the in-app Model Manager and cached at `~/.jds-image-studio/models/`.
-
-## How It Works
-
-```
-Double-click → App launches → Model loads into MPS (Metal)
-    → Enter prompt → Generate → Image preview → Save
-Close window → Model unloaded → Memory freed → Process exits
-```
-
-No server. No background processes. Everything runs inside the app process.
+1. Double-click **`JDS Image Studio.command`**
+2. Model Manager opens on first launch — click **Download & Load** on Realistic Vision
+3. Pick a mode, enter a prompt, hit **Generate**
 
 ## Project Structure
 
 ```
 JDS-PRJ-SFW-001_local-image-generator/
-    app.py                      # Main application
-    requirements.txt            # Python dependencies
-    setup.command               # One-time installer (double-click)
-    JDS Image Studio.command    # App launcher (double-click)
-    README.md                   # This file (project card)
-    CHANGELOG.md                # All revisions tracked here
+    app.py          Entry point (10 lines)
+    models.py       Config, constants, model registry
+    engine.py       All ML pipelines (txt2img, img2img, inpaint, bg)
+    painter.py      Mask painting canvas widget
+    lighting.py     Directional light effects
+    gui.py          Main window, sidebar, all modes
+    setup.command               One-time installer
+    JDS Image Studio.command    App launcher
+    requirements.txt
+    README.md
+    CHANGELOG.md
 ```
 
-## Configuration
+## Recommended Models
 
-Settings persist at `~/.jds-image-studio/config.json`:
-- Selected model
-- Downloaded model list
-- Default image dimensions, steps, guidance scale
-- Output directory
-
-Models cached at `~/.jds-image-studio/models/` (survives app updates).
+| Model | Best For |
+|-------|----------|
+| **Realistic Vision v5.1** | Photorealistic humans, faces (default) |
+| Deliberate v2 | Versatile realistic, strong anatomy |
+| Dreamlike Photoreal 2.0 | Photorealistic with artistic flair |
+| Stable Diffusion 1.5 | Fast, huge LoRA ecosystem |
+| Stable Diffusion 2.1 | General purpose baseline |
 
 ## Revision History
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
-| B | 2026-04-07 | N. Johansson | Model Manager, double-click launch, realistic human models, DPM++ scheduler, negative presets, size presets, copy seed, clean shutdown |
+| C | 2026-04-07 | N. Johansson | Inpainting, background removal/replacement, lighting effects, subject detection, edit mode, code split into 6 files per JDS |
+| B | 2026-04-07 | N. Johansson | Model Manager, double-click launch, realistic human models, DPM++ scheduler, negative presets, clean shutdown |
 | A | 2026-04-07 | N. Johansson | Initial release — txt2img, img2img, flat iOS GUI, MPS backend |

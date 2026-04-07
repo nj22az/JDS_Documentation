@@ -16,3 +16,7 @@ customtkinter>=5.2.0
 
 # Hugging Face model hub (for downloading models)
 huggingface-hub>=0.20.0
+
+# Background removal (local, uses u2net)
+rembg>=2.0.50
+onnxruntime>=1.16.0
