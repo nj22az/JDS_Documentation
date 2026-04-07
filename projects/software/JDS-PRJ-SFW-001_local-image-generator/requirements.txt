@@ -10,6 +10,7 @@ safetensors>=0.4.0
 
 # Image handling
 Pillow>=10.0.0
+numpy>=1.24.0
 
 # GUI
 customtkinter>=5.2.0

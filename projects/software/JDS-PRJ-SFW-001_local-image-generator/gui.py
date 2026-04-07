@@ -2,20 +2,31 @@
 
 import os
 import sys
+import traceback
 import datetime
 from pathlib import Path
-from tkinter import filedialog
+from tkinter import filedialog, messagebox
 from PIL import Image, ImageTk
 
 import customtkinter as ctk
 
 import engine
 import lighting
-from models import (APP_NAME, APP_VERSION, MODELS, NEG_PHOTO, C,
+from models import (APP_NAME, APP_VERSION, MODELS, NEG_PRESETS, C,
                     LIGHT_DIRS, OUTPUT_DIR, load_config, save_config)
 from painter import MaskPainter
 
 MODES = ["txt2img", "img2img", "inpaint", "edit"]
+
+
+def show_error(title, msg):
+    """Show a popup error dialog."""
+    messagebox.showerror(title, msg)
+
+
+def show_info(title, msg):
+    """Show a popup info dialog."""
+    messagebox.showinfo(title, msg)
 
 
 # -----------------------------------------------------------------------
@@ -184,11 +195,14 @@ class App(ctk.CTk):
         nr = ctk.CTkFrame(sc, fg_color="transparent")
         nr.pack(fill="x", padx=px)
         self._label(nr, "Negative Prompt", pack=False).pack(side="left")
-        ctk.CTkButton(nr, text="Photo preset", width=80, corner_radius=8,
-                      height=22, font=("SF Pro Text", 10),
-                      fg_color=C["fill"], text_color=C["accent"],
-                      hover_color=C["sep"],
-                      command=self._neg_preset).pack(side="right")
+        self.neg_preset = ctk.CTkOptionMenu(
+            nr, values=list(NEG_PRESETS.keys()),
+            font=("SF Pro Text", 10), width=120, height=22,
+            fg_color=C["fill"], text_color=C["accent"],
+            button_color=C["sep"], button_hover_color=C["muted"],
+            command=self._apply_neg_preset)
+        self.neg_preset.set("Preset...")
+        self.neg_preset.pack(side="right")
         self.neg = ctk.CTkTextbox(sc, height=40, corner_radius=10,
                                    font=("SF Pro Text", 12),
                                    fg_color=C["fill"], text_color=C["text"],
@@ -469,9 +483,10 @@ class App(ctk.CTk):
     def _msg(self, t):
         self.after(0, lambda: self.status.configure(text=t))
 
-    def _neg_preset(self):
+    def _apply_neg_preset(self, name):
+        text = NEG_PRESETS.get(name, "")
         self.neg.delete("1.0", "end")
-        self.neg.insert("1.0", NEG_PHOTO)
+        self.neg.insert("1.0", text)
 
     def _models(self):
         ModelManager(self, self.cfg, self._on_model)
@@ -485,31 +500,45 @@ class App(ctk.CTk):
     def _load_model(self):
         mid = self.cfg.get("model_id", "").strip()
         if not mid:
-            self._msg("No model selected."); return
+            show_error("No Model", "No model selected.\n\nOpen Model Manager to download one.")
+            return
         self.gen_btn.configure(state="disabled")
+        self._msg(f"Loading {mid}...")
+
+        def on_err(e):
+            self._msg("Model load failed.")
+            self.after(0, lambda: self.gen_btn.configure(state="normal"))
+            self.after(0, lambda: show_error("Model Load Error",
+                f"Could not load model:\n{mid}\n\n{e}\n\n"
+                "Try downloading it first via Model Manager."))
+
         engine.load(mid, status=self._msg,
                     done=lambda: self.after(0, lambda: self.gen_btn.configure(state="normal")),
-                    error=lambda e: (self._msg(f"Error: {e}"),
-                                     self.after(0, lambda: self.gen_btn.configure(state="normal"))))
+                    error=on_err)
 
     def _open_photo(self):
         p = filedialog.askopenfilename(
             filetypes=[("Images", "*.png *.jpg *.jpeg *.webp *.bmp")])
         if p:
-            self.input_image = Image.open(p)
-            self._show(self.input_image)
-            self._msg(f"Loaded: {os.path.basename(p)}")
+            try:
+                self.input_image = Image.open(p)
+                self._show(self.input_image)
+                self._msg(f"Loaded: {os.path.basename(p)}")
+            except Exception as e:
+                show_error("Image Error", f"Could not open image:\n{p}\n\n{e}")
 
     def _open_for_paint(self):
         p = filedialog.askopenfilename(
             filetypes=[("Images", "*.png *.jpg *.jpeg *.webp *.bmp")])
         if p:
-            img = Image.open(p)
-            # Fit to reasonable canvas size
-            img.thumbnail((768, 768), Image.LANCZOS)
-            self.input_image = img
-            self.painter.set_image(img)
-            self._msg(f"Paint over areas to edit: {os.path.basename(p)}")
+            try:
+                img = Image.open(p)
+                img.thumbnail((768, 768), Image.LANCZOS)
+                self.input_image = img
+                self.painter.set_image(img)
+                self._msg(f"Paint over areas to edit: {os.path.basename(p)}")
+            except Exception as e:
+                show_error("Image Error", f"Could not open image:\n{p}\n\n{e}")
 
     def _brush_changed(self, v):
         v = int(v)
@@ -527,14 +556,14 @@ class App(ctk.CTk):
             self._msg("Load a photo first."); return
         engine.subject_mask(self.input_image, status=self._msg,
                             done=lambda m: self.after(0, lambda: self._show(m)),
-                            error=lambda e: self._msg(f"Error: {e}"))
+                            error=lambda e: self.after(0, lambda: show_error("Error", str(e))))
 
     def _remove_bg(self):
         if not self.input_image:
             self._msg("Load a photo first."); return
         engine.remove_bg(self.input_image, status=self._msg,
                          done=lambda img: self.after(0, lambda: self._finish(img)),
-                         error=lambda e: self._msg(f"Error: {e}"))
+                         error=lambda e: self.after(0, lambda: show_error("Error", str(e))))
 
     def _replace_bg(self):
         if not self.input_image:
@@ -548,7 +577,7 @@ class App(ctk.CTk):
                           steps=s, cfg=g, seed=seed,
                           status=self._msg,
                           done=lambda img, sd: self.after(0, lambda: self._finish(img, sd)),
-                          error=lambda e: self._msg(f"Error: {e}"))
+                          error=lambda e: self.after(0, lambda: show_error("Error", str(e))))
 
     def _apply_light(self):
         img = self.current_image or self.input_image
@@ -591,8 +620,11 @@ class App(ctk.CTk):
 
         def fail(e):
             self._busy = False
-            self._msg(f"Error: {e}")
+            self._msg("Generation failed.")
             self.after(0, lambda: self.gen_btn.configure(state="normal", text="Generate"))
+            self.after(0, lambda: show_error("Generation Error",
+                f"Image generation failed:\n\n{e}\n\n"
+                "Check that a model is loaded and your settings are valid."))
 
         mode = self.mode.get()
         if mode == "txt2img":

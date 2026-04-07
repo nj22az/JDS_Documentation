@@ -35,13 +35,37 @@ MODELS = [
      "size": "~5 GB"},
 ]
 
-# Photo-optimised negative prompt
-NEG_PHOTO = (
-    "cartoon, anime, drawing, painting, illustration, sketch, 3d render, "
-    "cgi, doll, plastic, deformed, ugly, blurry, bad anatomy, bad hands, "
-    "extra fingers, missing fingers, extra limbs, disfigured, out of frame, "
-    "watermark, text, logo, signature, low quality, jpeg artifacts"
-)
+# Negative prompt presets (selectable in GUI)
+NEG_PRESETS = {
+    "Photo (general)": (
+        "cartoon, anime, drawing, painting, illustration, sketch, 3d render, "
+        "cgi, doll, plastic, deformed, ugly, blurry, bad anatomy, bad hands, "
+        "extra fingers, missing fingers, extra limbs, disfigured, out of frame, "
+        "watermark, text, logo, signature, low quality, jpeg artifacts"
+    ),
+    "Realistic body": (
+        "cartoon, anime, 3d render, cgi, doll, plastic, deformed, ugly, blurry, "
+        "bad anatomy, bad hands, extra fingers, missing fingers, extra limbs, "
+        "disfigured, disproportionate body, oversized breasts, unnaturally large breasts, "
+        "unrealistic body proportions, inflated body parts, bad feet, fused fingers, "
+        "too many fingers, long neck, mutated hands, poorly drawn hands, "
+        "poorly drawn face, mutation, extra legs, extra arms, malformed limbs, "
+        "watermark, text, logo, signature, low quality, jpeg artifacts"
+    ),
+    "Portrait (face)": (
+        "bad eyes, asymmetric eyes, deformed iris, deformed pupils, "
+        "bad teeth, crooked teeth, extra teeth, deformed face, ugly face, "
+        "blurry face, poorly drawn face, asymmetric face, bad skin, "
+        "plastic skin, waxy skin, doll face, uncanny valley, "
+        "cartoon, anime, 3d render, painting, watermark, text, low quality"
+    ),
+    "Artistic (minimal)": (
+        "blurry, low quality, watermark, text, logo, signature, "
+        "jpeg artifacts, deformed, ugly, bad anatomy"
+    ),
+}
+# Default key for backward compat
+NEG_PHOTO = NEG_PRESETS["Photo (general)"]
 
 # iOS flat colour palette
 C = {
