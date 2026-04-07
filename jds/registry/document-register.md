@@ -73,7 +73,7 @@ This is the master list of all documents in the JDS system. Every document must 
 |---------|-------|-----|------|--------|--------|
 | [JDS-PRJ-MEC-001](../../projects/JDS-PRJ-MEC-001_pressure-vessel-maintenance/README.md) | Pressure Vessel Ongoing Maintenance Program | C | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-PRO-004](../../jds/procedures/JDS-PRO-004_code-audit.md) | Software Code Quality Standard | A | 2026-04-07 | CURRENT | N. Johansson |
-| [JDS-PRJ-SFW-001](../../projects/software/JDS-PRJ-SFW-001_local-image-generator/README.md) | Local Image Generator (JDS Image Studio) | T | 2026-04-07 | CURRENT | N. Johansson |
+| [JDS-PRJ-SFW-001](../../projects/software/JDS-PRJ-SFW-001_local-image-generator/README.md) | Local Image Generator (JDS Image Studio) | U | 2026-04-07 | CURRENT | N. Johansson |
 
 ## Timesheets (TSH)
 

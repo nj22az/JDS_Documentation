@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Document No.** | JDS-PRJ-SFW-001 |
-| **Revision** | T |
+| **Revision** | U |
 | **Date** | 2026-04-07 |
 | **Status** | CURRENT |
 | **Author** | N. Johansson |
@@ -42,6 +42,7 @@ Double-click to launch. Close to quit. Nothing stays running.
 - **Pose quality check** — warns if face is at extreme angle before swapping, proceeds anyway
 - **Face checkpoints** — save/reuse faces across sessions (FaceSwapLab concept)
 - **Cloud generation** — optional HuggingFace / Prodia / AI Horde backends for SDXL, Flux quality, NSFW-capable models
+- **Prompt Enhance** — one-click quality anchors (photorealistic/gravure/portrait/cinematic), lighting presets (studio/golden hour/Rembrandt/ring light), lens simulation (85mm/50mm/135mm bokeh)
 - **Gravure presets** — optimized prompts for Japanese glamour photography (swimwear, lingerie, portrait)
 - **Unrestricted** — no safety filters, no content restrictions, your machine your rules
 - **5 curated models** — Realistic Vision v5.1 (default), Deliberate v2, Dreamlike, SD 1.5, SD 2.1
@@ -111,6 +112,7 @@ JDS-PRJ-SFW-001_local-image-generator/
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
+| U | 2026-04-07 | N. Johansson | Prompt Enhance system: quality anchors (Photorealistic/Gravure/Portrait/Cinematic), 6 lighting presets, 4 lens presets, enhanced master negative prompt. Enhance checkbox in GUI with dynamic dropdowns. prompts.py enhance() function. Version 4.2.0 |
 | T | 2026-04-07 | N. Johansson | Gravure photography presets: 3 inpaint presets (swimwear, lingerie, portrait) + 1 negative prompt preset with optimized prompts for Japanese glamour photography. Version 4.1.0 |
 | R | 2026-04-07 | N. Johansson | Full 7-point code audit per JDS-PRO-004. Fixed: critical Image import bug in engine.py, removed dead code (_gen, NEG_PHOTO, IP_ADAPTER_FACEID, unused import), consolidated 6 duplicate _bg() into shared bg_thread(), extracted 30+ hardcoded values to models.py config, centralized 3 missing UI colours. Version 4.0.0 |
 | P | 2026-04-07 | N. Johansson | Smart masking (clothing/skin/body/face auto-detection via rembg + HSV/YCrCb skin detection), ControlNet (openpose/canny/depth for pose preservation), inpaint workflow presets (7 presets), one-click Auto Mask + Inpaint. New smartmask.py (184 lines). 13 files, 3774 total lines |

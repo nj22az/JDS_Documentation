@@ -21,7 +21,9 @@ import smartmask
 from models import (APP_NAME, APP_VERSION, MODELS, NEG_PRESETS, C,
                     LIGHT_DIRS, INPAINT_PRESETS, SIZE_PRESETS,
                     WINDOW_SIZE, WINDOW_MIN, SIDEBAR_WIDTH,
-                    OUTPUT_DIR, load_config, save_config)
+                    OUTPUT_DIR, QUALITY_ANCHORS, LIGHTING_PRESETS,
+                    LENS_PRESETS, ENHANCED_NEGATIVE,
+                    load_config, save_config)
 from painter import MaskPainter
 
 MODES = ["txt2img", "img2img", "inpaint", "edit"]
@@ -280,7 +282,37 @@ class App(ctk.CTk):
                                       font=("SF Pro Text", 12),
                                       fg_color=C["fill"], text_color=C["text"],
                                       border_width=0)
-        self.prompt.pack(fill="x", padx=px, pady=(0, 6))
+        self.prompt.pack(fill="x", padx=px, pady=(0, 4))
+
+        # Prompt Enhance row
+        enh_row = ctk.CTkFrame(sc, fg_color="transparent")
+        enh_row.pack(fill="x", padx=px, pady=(0, 2))
+        self.enhance_var = ctk.BooleanVar(value=False)
+        ctk.CTkCheckBox(enh_row, text="Enhance",
+                        variable=self.enhance_var,
+                        font=("SF Pro Text", 11),
+                        checkbox_height=18, checkbox_width=18,
+                        command=self._toggle_enhance).pack(side="left")
+        self.quality_menu = ctk.CTkOptionMenu(
+            enh_row, values=list(QUALITY_ANCHORS.keys()),
+            font=("SF Pro Text", 10), width=110, height=22,
+            fg_color=C["fill"], text_color=C["accent"],
+            button_color=C["sep"], button_hover_color=C["muted"])
+        self.quality_menu.set("Photorealistic")
+        self.lighting_menu = ctk.CTkOptionMenu(
+            enh_row, values=list(LIGHTING_PRESETS.keys()),
+            font=("SF Pro Text", 10), width=100, height=22,
+            fg_color=C["fill"], text_color=C["accent"],
+            button_color=C["sep"], button_hover_color=C["muted"])
+        self.lighting_menu.set("Studio soft")
+        self.lens_menu = ctk.CTkOptionMenu(
+            enh_row, values=list(LENS_PRESETS.keys()),
+            font=("SF Pro Text", 10), width=110, height=22,
+            fg_color=C["fill"], text_color=C["accent"],
+            button_color=C["sep"], button_hover_color=C["muted"])
+        self.lens_menu.set("85mm portrait")
+        # Hidden by default, shown when Enhance checked
+        self._enh_menus = [self.quality_menu, self.lighting_menu, self.lens_menu]
 
         # Negative prompt
         nr = ctk.CTkFrame(sc, fg_color="transparent")
@@ -812,6 +844,15 @@ class App(ctk.CTk):
     # -------------------------------------------------------------------
     def _msg(self, t):
         self.after(0, lambda: self.status.configure(text=t))
+
+    def _toggle_enhance(self):
+        """Show/hide quality, lighting, lens dropdowns."""
+        if self.enhance_var.get():
+            for menu in self._enh_menus:
+                menu.pack(side="left", padx=(4, 0))
+        else:
+            for menu in self._enh_menus:
+                menu.pack_forget()
 
     def _apply_neg_preset(self, name):
         text = NEG_PRESETS.get(name, "")
@@ -1385,7 +1426,19 @@ class App(ctk.CTk):
         if prompt != raw_prompt:
             self._msg(f"Expanded: {prompt[:80]}...")
 
+        # Prompt enhancement (quality anchors + lighting + lens)
+        if self.enhance_var.get():
+            prompt = prompts.enhance(
+                prompt,
+                quality=self.quality_menu.get(),
+                lighting=self.lighting_menu.get(),
+                lens=self.lens_menu.get())
+            self._msg(f"Enhanced: {prompt[:100]}...")
+
         neg = self.neg.get("1.0", "end").strip()
+        # Auto-apply enhanced negative when Enhance is on and neg is empty
+        if self.enhance_var.get() and not neg:
+            neg = ENHANCED_NEGATIVE
         steps, cfg, seed = self._params()
         try:
             w = int(self.e_w.get()) // 8 * 8

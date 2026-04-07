@@ -43,3 +43,31 @@ def expand_batch(template, count=4, seed=None):
 def has_dynamic(text):
     """Return True if text contains {a|b} patterns."""
     return bool(re.search(r'\{[^{}]*\|[^{}]*\}', text))
+
+
+def enhance(user_prompt, quality="Photorealistic", lighting="Studio soft",
+            lens="85mm portrait"):
+    """Wrap user prompt with quality anchors, lighting, and lens descriptors.
+
+    Returns an enhanced prompt string optimized for photorealistic output.
+    Pass quality/lighting/lens="None" to skip that component.
+    """
+    from models import QUALITY_ANCHORS, LIGHTING_PRESETS, LENS_PRESETS
+
+    parts = []
+
+    anchor = QUALITY_ANCHORS.get(quality, "")
+    if anchor:
+        parts.append(anchor)
+
+    parts.append(user_prompt)
+
+    light = LIGHTING_PRESETS.get(lighting, "")
+    if light:
+        parts.append(light)
+
+    lens_desc = LENS_PRESETS.get(lens, "")
+    if lens_desc:
+        parts.append(lens_desc)
+
+    return ", ".join(parts)

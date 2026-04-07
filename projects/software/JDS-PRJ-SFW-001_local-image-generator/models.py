@@ -5,7 +5,7 @@ import threading
 from pathlib import Path
 
 APP_NAME = "JDS Image Studio"
-APP_VERSION = "4.1.0"
+APP_VERSION = "4.2.0"
 
 CONFIG_DIR = Path.home() / ".jds-image-studio"
 CONFIG_FILE = CONFIG_DIR / "config.json"
@@ -62,6 +62,75 @@ WINDOW_SIZE = "1200x820"
 WINDOW_MIN = (1000, 700)
 SIDEBAR_WIDTH = 330
 SIZE_PRESETS = [(512, 512), (512, 768), (768, 512), (768, 768), (1024, 1024)]
+
+# --- Prompt Enhancement (Playbox-grade realism) ---
+# Quality anchors prepended to user prompt when "Enhance" is on
+QUALITY_ANCHORS = {
+    "Photorealistic": (
+        "photorealistic, ultra-detailed skin textures with visible pores "
+        "and subsurface scattering, sharp focus, natural skin tones, "
+        "realistic anatomy, highly detailed face and body"
+    ),
+    "Gravure": (
+        "photorealistic, japanese gravure idol photography, magazine quality, "
+        "ultra-detailed skin textures, natural skin tones, sharp focus, "
+        "professional studio photography, highly detailed face and body"
+    ),
+    "Portrait": (
+        "photorealistic portrait, ultra-detailed face, catchlight in eyes, "
+        "visible skin pores, natural skin tones, sharp focus, "
+        "professional headshot, studio photography"
+    ),
+    "Cinematic": (
+        "photorealistic, cinematic still frame, ultra-detailed, "
+        "film grain, anamorphic lens, natural skin tones, "
+        "highly detailed face and body, movie quality"
+    ),
+}
+
+# Lighting presets appended to enhanced prompts
+LIGHTING_PRESETS = {
+    "Studio soft": "soft volumetric studio lighting, even illumination, "
+                   "subtle shadows, professional photography",
+    "Golden hour": "golden hour side lighting, warm tones, "
+                   "long soft shadows, natural sunlight",
+    "Rembrandt": "Rembrandt lighting, dramatic side light, "
+                 "triangle highlight on cheek, dark background",
+    "High key": "high key lighting, bright even illumination, "
+                "minimal shadows, white background",
+    "Natural window": "soft natural window light, gentle shadows, "
+                      "ambient fill, indoor photography",
+    "Ring light": "ring light, even face illumination, "
+                  "catchlight rings in eyes, beauty photography",
+    "None": "",
+}
+
+# Lens simulation terms appended for extra realism
+LENS_PRESETS = {
+    "85mm portrait": "85mm lens at f/1.8, shallow depth of field, "
+                     "creamy bokeh background",
+    "50mm standard": "50mm lens at f/2.8, natural perspective, "
+                     "moderate depth of field",
+    "135mm telephoto": "135mm lens at f/2.0, compressed background, "
+                       "strong bokeh, subject isolation",
+    "35mm wide": "35mm lens at f/4.0, environmental context, "
+                 "wide angle, full scene visible",
+    "None": "",
+}
+
+# Master enhanced negative — comprehensive artifact prevention
+ENHANCED_NEGATIVE = (
+    "cartoon, anime, drawing, painting, illustration, sketch, 3d render, "
+    "cgi, doll, plastic, deformed, ugly, blurry, bad anatomy, bad hands, "
+    "extra fingers, missing fingers, extra limbs, disfigured, out of frame, "
+    "mutated anatomy, fused fingers, too many fingers, long neck, "
+    "malformed limbs, poorly drawn face, poorly drawn hands, "
+    "disproportionate body, oversized breasts, unrealistic body proportions, "
+    "bad eyes, asymmetric eyes, deformed iris, deformed pupils, "
+    "bad skin, waxy skin, plastic skin, uncanny valley, "
+    "overexposed, underexposed, flat lighting, "
+    "watermark, text, logo, signature, low quality, lowres, jpeg artifacts"
+)
 
 # Curated models — realistic humans, faces, unrestricted
 MODELS = [
