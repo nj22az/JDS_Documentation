@@ -5,7 +5,7 @@ import threading
 from pathlib import Path
 
 APP_NAME = "JDS Image Studio"
-APP_VERSION = "4.0.0"
+APP_VERSION = "4.1.0"
 
 CONFIG_DIR = Path.home() / ".jds-image-studio"
 CONFIG_FILE = CONFIG_DIR / "config.json"
@@ -115,6 +115,14 @@ NEG_PRESETS = {
         "blurry, low quality, watermark, text, logo, signature, "
         "jpeg artifacts, deformed, ugly, bad anatomy"
     ),
+    "Gravure (glamour)": (
+        "cartoon, anime, 3d render, cgi, doll, plastic, deformed, ugly, blurry, "
+        "bad anatomy, bad hands, extra fingers, missing fingers, extra limbs, "
+        "disfigured, disproportionate body, oversized breasts, bad skin, "
+        "waxy skin, flat lighting, harsh shadows, underexposed, overexposed, "
+        "watermark, text, logo, signature, low quality, jpeg artifacts, "
+        "bad eyes, asymmetric face, poorly drawn face, bad teeth"
+    ),
 }
 
 # iOS flat colour palette (all UI colours centralized here)
@@ -183,6 +191,27 @@ INPAINT_PRESETS = {
                   "realistic anatomy, detailed skin texture",
         "neg": "deformed, bad anatomy, disproportionate, oversized, "
                "blurry, plastic, cartoon",
+    },
+    "Gravure — swimwear": {
+        "prompt": "gravure idol swimsuit photoshoot, japanese model, bikini, "
+                  "natural body, soft studio lighting, professional photography, "
+                  "magazine quality, warm skin tones, detailed skin texture",
+        "neg": "cartoon, anime, 3d render, deformed, bad anatomy, blurry, "
+               "plastic, doll, oversized breasts, harsh shadows, low quality",
+    },
+    "Gravure — lingerie": {
+        "prompt": "gravure idol lingerie photoshoot, japanese model, delicate lace, "
+                  "soft diffused lighting, warm tones, natural body proportions, "
+                  "professional studio, magazine editorial, photorealistic",
+        "neg": "cartoon, anime, 3d render, deformed, bad anatomy, blurry, "
+               "plastic, doll, oversized breasts, harsh shadows, low quality",
+    },
+    "Gravure — portrait": {
+        "prompt": "gravure idol close-up portrait, japanese model, beautiful face, "
+                  "soft bokeh background, natural makeup, warm studio lighting, "
+                  "magazine cover quality, catchlight in eyes, photorealistic",
+        "neg": "cartoon, anime, 3d render, deformed, bad eyes, asymmetric face, "
+               "blurry face, plastic skin, waxy, bad teeth, low quality",
     },
 }
 
