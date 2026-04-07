@@ -4,6 +4,16 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [3.2] — 2026-04-07
+
+### Added — JDS Image Studio (JDS-PRJ-SFW-001)
+- **JDS-PRJ-SFW-001**: Local Image Generator — fully on-device image generation app using Stable Diffusion via HuggingFace Diffusers with Apple MPS backend
+- **Features**: Text-to-image, image-to-image, unrestricted generation (no safety filters), flat iOS-style GUI (CustomTkinter), model selector, seed control
+- **Platform**: Optimised for Apple Silicon (M1 Pro, 16GB RAM)
+- **`projects/software/`** directory created — first JDS software project
+
+---
+
 ## [3.1] — 2026-03-25
 
 ### Changed — Repository Restructure for Authority

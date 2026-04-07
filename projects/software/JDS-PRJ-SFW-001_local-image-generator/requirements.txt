@@ -1,0 +1,18 @@
+# JDS-PRJ-SFW-001 — Local Image Generator
+# Tested on: macOS (Apple Silicon M1 Pro, 16GB RAM)
+
+# Core ML / Diffusion
+torch>=2.1.0
+diffusers>=0.25.0
+transformers>=4.36.0
+accelerate>=0.25.0
+safetensors>=0.4.0
+
+# Image handling
+Pillow>=10.0.0
+
+# GUI
+customtkinter>=5.2.0
+
+# Hugging Face model hub (for downloading models)
+huggingface-hub>=0.20.0
