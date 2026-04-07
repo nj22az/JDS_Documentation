@@ -5,7 +5,7 @@ import threading
 from pathlib import Path
 
 APP_NAME = "JDS Image Studio"
-APP_VERSION = "4.2.0"
+APP_VERSION = "4.3.0"
 
 CONFIG_DIR = Path.home() / ".jds-image-studio"
 CONFIG_FILE = CONFIG_DIR / "config.json"
@@ -52,10 +52,17 @@ MASK_OVERLAY_ALPHA = 100
 HORDE_ANON_KEY = "0000000000"
 HORDE_API_BASE = "https://stablehorde.net/api/v2"
 PRODIA_API_URL = "https://api.prodia.com/v1/sd/generate"
+REPLICATE_API_BASE = "https://api.replicate.com/v1"
 HTTP_TIMEOUT = 30
 HTTP_TIMEOUT_SHORT = 15
 PRODIA_MAX_POLLS = 120
 HORDE_MAX_POLLS = 180
+REPLICATE_MAX_POLLS = 180
+
+# Video generation
+VIDEO_FRAMES_DEFAULT = 25
+VIDEO_FPS_DEFAULT = 7
+VIDEO_MOTION_STRENGTH = 127
 
 # GUI
 WINDOW_SIZE = "1200x820"

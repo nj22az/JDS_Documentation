@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Document No.** | JDS-PRJ-SFW-001 |
-| **Revision** | U |
+| **Revision** | V |
 | **Date** | 2026-04-07 |
 | **Status** | CURRENT |
 | **Author** | N. Johansson |
@@ -41,7 +41,8 @@ Double-click to launch. Close to quit. Nothing stays running.
 - **Face switch** — swap faces between two photos (A's face on B, B's face on A), both results saved
 - **Pose quality check** — warns if face is at extreme angle before swapping, proceeds anyway
 - **Face checkpoints** — save/reuse faces across sessions (FaceSwapLab concept)
-- **Cloud generation** — optional HuggingFace / Prodia / AI Horde backends for SDXL, Flux quality, NSFW-capable models
+- **Cloud generation** — HuggingFace (free) / AI Horde (free) / Prodia (free key) / Replicate (free tier) for SDXL, Flux, NSFW-capable models
+- **Cloud video** — image-to-video via HuggingFace SVD (free) or Replicate (free tier), generates 25-frame .mp4 from any image
 - **Prompt Enhance** — one-click quality anchors (photorealistic/gravure/portrait/cinematic), lighting presets (studio/golden hour/Rembrandt/ring light), lens simulation (85mm/50mm/135mm bokeh)
 - **Gravure presets** — optimized prompts for Japanese glamour photography (swimwear, lingerie, portrait)
 - **Unrestricted** — no safety filters, no content restrictions, your machine your rules
@@ -112,6 +113,7 @@ JDS-PRJ-SFW-001_local-image-generator/
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
+| V | 2026-04-07 | N. Johansson | Cloud video generation (image-to-video): HuggingFace SVD-XT (free) and Replicate backends. Replicate as 4th cloud backend for Flux models. Video button in edit panel, video backend selector, Replicate token in Cloud Settings. All free backends prioritized. Version 4.3.0 |
 | U | 2026-04-07 | N. Johansson | Prompt Enhance system: quality anchors (Photorealistic/Gravure/Portrait/Cinematic), 6 lighting presets, 4 lens presets, enhanced master negative prompt. Enhance checkbox in GUI with dynamic dropdowns. prompts.py enhance() function. Version 4.2.0 |
 | T | 2026-04-07 | N. Johansson | Gravure photography presets: 3 inpaint presets (swimwear, lingerie, portrait) + 1 negative prompt preset with optimized prompts for Japanese glamour photography. Version 4.1.0 |
 | R | 2026-04-07 | N. Johansson | Full 7-point code audit per JDS-PRO-004. Fixed: critical Image import bug in engine.py, removed dead code (_gen, NEG_PHOTO, IP_ADAPTER_FACEID, unused import), consolidated 6 duplicate _bg() into shared bg_thread(), extracted 30+ hardcoded values to models.py config, centralized 3 missing UI colours. Version 4.0.0 |

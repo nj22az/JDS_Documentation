@@ -631,6 +631,27 @@ class App(ctk.CTk):
             font=("SF Pro Text", 10), text_color=C["muted"])
         self.swap_status.pack(anchor="w", pady=(0, 6))
 
+        # --- Cloud Video ---
+        self._label(self.p_edit, "Cloud Video")
+        vid_row = ctk.CTkFrame(self.p_edit, fg_color="transparent")
+        vid_row.pack(fill="x", pady=(0, 2))
+        self.video_backend_menu = ctk.CTkOptionMenu(
+            vid_row, values=["huggingface", "replicate"],
+            font=("SF Pro Text", 10), width=110, height=24,
+            fg_color=C["fill"], text_color=C["accent"],
+            button_color=C["sep"], button_hover_color=C["muted"])
+        self.video_backend_menu.set("huggingface")
+        self.video_backend_menu.pack(side="left")
+        ctk.CTkButton(vid_row, text="Generate Video",
+                      corner_radius=8, height=26,
+                      font=("SF Pro Text", 11, "bold"),
+                      fg_color=C["purple"], hover_color=C["purple_h"],
+                      command=self._generate_video).pack(side="left", padx=(6, 0))
+        self.video_status = ctk.CTkLabel(
+            self.p_edit, text="Generate a short video from current image (free via HuggingFace).",
+            font=("SF Pro Text", 10), text_color=C["muted"])
+        self.video_status.pack(anchor="w", pady=(0, 6))
+
         # --- Settings ---
         ctk.CTkFrame(sc, height=1, fg_color=C["sep"]).pack(fill="x", padx=px, pady=(4, 6))
         self._label(sc, "Settings")
@@ -703,7 +724,7 @@ class App(ctk.CTk):
         ctk.CTkLabel(cb_row, text="Backend:", font=("SF Pro Text", 10),
                      text_color=C["muted"]).pack(side="left")
         self.backend_menu = ctk.CTkOptionMenu(
-            cb_row, values=["huggingface", "prodia", "horde"],
+            cb_row, values=["huggingface", "prodia", "horde", "replicate"],
             variable=self.cloud_backend, width=110, height=24,
             corner_radius=8, font=("SF Pro Text", 10),
             fg_color=C["fill"], text_color=C["text"],
@@ -920,7 +941,7 @@ class App(ctk.CTk):
         """Popup to set API keys for cloud backends."""
         dlg = ctk.CTkToplevel(self)
         dlg.title("Cloud Settings")
-        dlg.geometry("420x280")
+        dlg.geometry("420x360")
         dlg.configure(fg_color=C["bg"])
         dlg.transient(self)
         dlg.grab_set()
@@ -953,10 +974,18 @@ class App(ctk.CTk):
         if cfg.get("horde_key") and cfg["horde_key"] != "0000000000":
             ho_entry.insert(0, cfg["horde_key"])
 
+        ctk.CTkLabel(dlg, text="Replicate Token (optional, for Flux + video):",
+                     font=("SF Pro Text", 11), text_color=C["muted"]).pack(**pad)
+        rep_entry = ctk.CTkEntry(dlg, width=380, placeholder_text="r8_...")
+        rep_entry.pack(padx=16, pady=(2, 6))
+        if cfg.get("replicate_token"):
+            rep_entry.insert(0, cfg["replicate_token"])
+
         def _save():
             cfg["hf_token"] = hf_entry.get().strip()
             cfg["prodia_key"] = pr_entry.get().strip()
             cfg["horde_key"] = ho_entry.get().strip() or "0000000000"
+            cfg["replicate_token"] = rep_entry.get().strip()
             cloudgen.save_settings(cfg)
             dlg.destroy()
             self._msg("Cloud settings saved.")
@@ -1139,6 +1168,34 @@ class App(ctk.CTk):
             error=lambda e: self.after(0, lambda: show_error(
                 "ControlNet Error", str(e))))
         self._msg("Lighting applied.")
+
+    # --- Cloud Video ---
+
+    def _generate_video(self):
+        """Generate a short video from the current image via cloud."""
+        img = self.current_image or self.input_image
+        if not img:
+            show_error("No Image", "Generate or load an image first.")
+            return
+
+        backend = self.video_backend_menu.get()
+
+        def _vid_done(path, fps):
+            self.after(0, lambda: self.video_status.configure(
+                text=f"Saved: {path}"))
+            self.after(0, lambda: show_info("Video Ready",
+                f"Video saved to:\n{path}\n\nOpen with QuickTime or VLC."))
+
+        def _vid_error(msg):
+            self.after(0, lambda: self.video_status.configure(
+                text="Video generation failed."))
+            self.after(0, lambda: show_error("Video Error", str(msg)))
+
+        self.video_status.configure(text="Generating video... (may take 1-3 min)")
+        cloudgen.generate_video(
+            img, backend=backend,
+            status=lambda m: self.after(0, lambda: self.video_status.configure(text=m)),
+            done=_vid_done, error=_vid_error)
 
     def _upscale(self, scale=2):
         if not self.current_image:
