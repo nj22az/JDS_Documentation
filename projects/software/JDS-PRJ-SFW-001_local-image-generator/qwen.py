@@ -28,13 +28,16 @@ EDIT_TRANSFORMER = "linoyts/Qwen-Image-Edit-Rapid-AIO"
 EDIT_BASE_PIPE = "Qwen/Qwen-Image-Edit-2509"
 EDIT_CLOUD_MODEL = "Qwen/Qwen-Image-Edit"
 
+# Pruned model: 13.6B params (40 layers vs 60), fits easier in low RAM
+EDIT_PRUNED = "OPPOer/Qwen-Image-Edit-2509-13B-4steps"
+
 # Rapid-AIO v23: 4 steps, CFG 1, no neg prompt
 RAPID_STEPS = 4
 RAPID_CFG = 1.0
 
 
 def load_settings():
-    defaults = {"mode": "cloud"}
+    defaults = {"mode": "cloud", "local_model": "rapid"}
     if _SETTINGS_FILE.exists():
         try:
             with open(_SETTINGS_FILE) as f:
@@ -58,42 +61,66 @@ _pipe = None
 
 
 def _load_pipe(status=None):
-    """Load QwenImageEditPlusPipeline locally. First run downloads ~14GB."""
+    """Load QwenImageEditPlusPipeline locally with memory optimization.
+
+    Uses sequential CPU offloading on M1 (16GB) so the full 20B model
+    fits by keeping only one transformer block in memory at a time.
+    On CUDA with enough VRAM, loads normally for speed.
+    """
     global _pipe
     if _pipe is not None:
         return True
 
     try:
         import torch
-        from diffusers.models import QwenImageTransformer2DModel
         from diffusers import QwenImageEditPlusPipeline
 
-        if status:
-            status("Qwen: downloading transformer (~14GB first time)...")
+        settings = load_settings()
+        use_pruned = settings.get("local_model") == "pruned"
 
-        transformer = QwenImageTransformer2DModel.from_pretrained(
-            EDIT_TRANSFORMER, subfolder="transformer",
-            torch_dtype=torch.bfloat16)
-
-        if status:
-            status("Qwen: loading pipeline...")
-
-        _pipe = QwenImageEditPlusPipeline.from_pretrained(
-            EDIT_BASE_PIPE, transformer=transformer,
-            torch_dtype=torch.bfloat16)
-
-        # Device selection: CUDA > MPS > CPU
-        if torch.cuda.is_available():
-            _pipe.to("cuda")
-        elif hasattr(torch.backends, "mps") and torch.backends.mps.is_available():
-            _pipe.to("mps")
-            _pipe.enable_attention_slicing()
+        if use_pruned:
+            # Pruned: 13.6B (40 layers), fits better in 16GB
+            if status:
+                status("Qwen: loading pruned model (13.6B, ~9GB)...")
+            _pipe = QwenImageEditPlusPipeline.from_pretrained(
+                EDIT_PRUNED, torch_dtype=torch.bfloat16)
         else:
-            _pipe.to("cpu")
-            _pipe.enable_attention_slicing()
+            # Full Rapid-AIO: 20B, 4-step accelerated
+            from diffusers.models import QwenImageTransformer2DModel
+            if status:
+                status("Qwen: downloading transformer (~14GB first time)...")
+            transformer = QwenImageTransformer2DModel.from_pretrained(
+                EDIT_TRANSFORMER, subfolder="transformer",
+                torch_dtype=torch.bfloat16)
+            if status:
+                status("Qwen: loading pipeline...")
+            _pipe = QwenImageEditPlusPipeline.from_pretrained(
+                EDIT_BASE_PIPE, transformer=transformer,
+                torch_dtype=torch.bfloat16)
 
-        if status:
-            status("Qwen: pipeline ready.")
+        if torch.cuda.is_available():
+            vram_gb = torch.cuda.get_device_properties(0).total_mem / 1e9
+            if vram_gb >= 16:
+                # Enough VRAM — load fully for speed
+                _pipe.to("cuda")
+            else:
+                # Low VRAM — offload layers to CPU sequentially
+                _pipe.enable_sequential_cpu_offload()
+            if status:
+                status(f"Qwen: loaded on CUDA ({vram_gb:.0f}GB).")
+        elif hasattr(torch.backends, "mps") and torch.backends.mps.is_available():
+            # M1/M2/M3: sequential offload — keeps one layer on GPU at a time
+            # This lets 20B model run in 16GB unified memory
+            _pipe.enable_sequential_cpu_offload(device="mps")
+            _pipe.enable_attention_slicing()
+            if status:
+                status("Qwen: loaded with MPS sequential offload (M1 optimized).")
+        else:
+            _pipe.enable_sequential_cpu_offload(device="cpu")
+            _pipe.enable_attention_slicing()
+            if status:
+                status("Qwen: loaded on CPU (slow).")
+
         return True
 
     except ImportError:

@@ -578,8 +578,8 @@ class App(ctk.CTk):
             fg_color=C["fill"], text_color=C["text"], border_width=0)
         self.qwen_instruction.pack(side="left", fill="x", expand=True, padx=(0, 4))
         self.qwen_mode_menu = ctk.CTkOptionMenu(
-            qwen_row, values=["cloud", "local"],
-            font=("SF Pro Text", 10), width=65, height=24,
+            qwen_row, values=["cloud", "local", "local-pruned"],
+            font=("SF Pro Text", 10), width=90, height=24,
             fg_color=C["fill"], text_color=C["accent"],
             button_color=C["sep"], button_hover_color=C["muted"])
         self.qwen_mode_menu.set("cloud")
@@ -1397,7 +1397,9 @@ class App(ctk.CTk):
 
         # Save mode
         cfg = qwen.load_settings()
-        cfg["mode"] = self.qwen_mode_menu.get()
+        selected = self.qwen_mode_menu.get()
+        cfg["mode"] = "local" if "local" in selected else "cloud"
+        cfg["local_model"] = "pruned" if selected == "local-pruned" else "rapid"
         qwen.save_settings(cfg)
 
         # No image = text-to-image, no instruction = error
