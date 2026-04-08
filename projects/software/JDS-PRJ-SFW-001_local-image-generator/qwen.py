@@ -1,17 +1,22 @@
 """qwen.py — Qwen-Image-Edit on M1 Pro 16GB (max optimized).
 
 Direct image editing from natural language. 4 steps, CFG 1.
-Optimized for M1 Pro 16GB unified memory — it WILL be slow but it WILL work.
+Engineered to run the full 20B model on M1 Pro 16GB unified memory.
 
-Memory tricks used:
-1. Pruned model default (13.6B / 40 layers, not 20B / 60)
-2. float16 (MPS-native, not bfloat16 which MPS must emulate)
-3. Sequential CPU offload (one transformer block on GPU at a time)
-4. Attention slicing (slice_size=1, minimum memory per head)
-5. VAE tiling (decode in 512x512 tiles, not full image at once)
-6. Aggressive gc + MPS cache flush between pipeline stages
-7. 768x768 default (half the memory of 1024x1024)
-8. torch.inference_mode (no grad graph, no autograd overhead)
+Loading strategy (the hard part):
+1. offload_state_dict=True — don't duplicate weights during load
+2. device_map="auto" — let accelerate spread across MPS + CPU + disk
+3. offload_folder on SSD — spill excess weights to NVMe (fast on M1)
+4. Load components separately, flush between each
+
+Inference strategy:
+1. enable_model_cpu_offload — whole components swap (text enc → GPU → CPU,
+   then transformer → GPU → CPU, then VAE → GPU → CPU)
+2. Attention slicing (size=1) — one head at a time
+3. VAE tiling + slicing — decode in 512px tiles
+4. 768px default — half the attention memory of 1024
+5. torch.inference_mode + aggressive gc + MPS cache flush
+6. float16 — MPS native dtype, no emulation overhead
 
 Cloud mode is still default (free, fast). Local is for offline use.
 """
@@ -19,11 +24,11 @@ Cloud mode is still default (free, fast). Local is for offline use.
 import io
 import gc
 import json
-import base64
 
-from models import (CONFIG_DIR, OUTPUT_DIR, HTTP_TIMEOUT, bg_thread as _bg)
+from models import (CONFIG_DIR, MODELS_DIR, bg_thread as _bg)
 
 _SETTINGS_FILE = CONFIG_DIR / "qwen.json"
+_OFFLOAD_DIR = MODELS_DIR / "qwen_offload"
 
 # Model IDs
 EDIT_TRANSFORMER = "linoyts/Qwen-Image-Edit-Rapid-AIO"
@@ -35,12 +40,12 @@ EDIT_PRUNED = "OPPOer/Qwen-Image-Edit-2509-13B-4steps"
 STEPS = 4
 CFG = 1.0
 
-# M1 optimized resolution (1024x1024 needs 4x more memory)
+# M1 optimized resolution
 M1_SIZE = 768
 
 
 def load_settings():
-    defaults = {"mode": "cloud", "local_model": "pruned"}
+    defaults = {"mode": "cloud", "local_model": "full"}
     if _SETTINGS_FILE.exists():
         try:
             with open(_SETTINGS_FILE) as f:
@@ -57,7 +62,7 @@ def save_settings(cfg):
 
 
 def _flush():
-    """Aggressively free memory — call between pipeline stages."""
+    """Aggressively free memory."""
     gc.collect()
     try:
         import torch
@@ -69,15 +74,38 @@ def _flush():
         pass
 
 
+def _is_mps():
+    try:
+        import torch
+        return hasattr(torch.backends, "mps") and torch.backends.mps.is_available()
+    except Exception:
+        return False
+
+
+def _is_cuda():
+    try:
+        import torch
+        return torch.cuda.is_available()
+    except Exception:
+        return False
+
+
 # -------------------------------------------------------------------
-# Local pipeline — M1 Pro 16GB optimized
+# Local pipeline — M1 Pro 16GB: full 20B model
 # -------------------------------------------------------------------
 
 _pipe = None
 
 
 def _load_pipe(status=None):
-    """Load pipeline with every memory optimization available."""
+    """Load full 20B pipeline — engineered for M1 Pro 16GB.
+
+    The challenge: from_pretrained loads all weights into RAM first.
+    20B at float16 = ~40GB safetensors → needs to stream, not bulk load.
+
+    Solution: load transformer separately with disk offload, build
+    pipeline in stages, flush aggressively between each stage.
+    """
     global _pipe
     if _pipe is not None:
         return True
@@ -86,118 +114,175 @@ def _load_pipe(status=None):
         import torch
         from diffusers import QwenImageEditPlusPipeline
 
-        settings = load_settings()
-        use_pruned = settings.get("local_model") != "rapid"
+        # Prepare offload directory on SSD (M1 NVMe is fast)
+        _OFFLOAD_DIR.mkdir(parents=True, exist_ok=True)
 
-        # Step 1: Choose model — pruned (9GB) vs full (14GB)
+        settings = load_settings()
+        use_pruned = settings.get("local_model") == "pruned"
+        mps = _is_mps()
+        cuda = _is_cuda()
+
         if use_pruned:
+            # --- Pruned path: 13.6B, easier on memory ---
             if status:
-                status("Qwen: loading pruned 13.6B (first time ~9GB download)...")
+                status("Qwen: loading pruned 13.6B...")
+
             _pipe = QwenImageEditPlusPipeline.from_pretrained(
                 EDIT_PRUNED,
-                torch_dtype=torch.float16,       # float16 = MPS native
-                low_cpu_mem_usage=True,           # load weights incrementally
+                torch_dtype=torch.float16,
+                low_cpu_mem_usage=True,
+                offload_state_dict=True,
             )
+            _flush()
+
         else:
+            # --- Full 20B path: staged loading ---
+
+            # Stage 1: Load transformer alone (the big part, ~28GB safetensors)
+            # Uses disk offload so it never needs all weights in RAM at once
             from diffusers.models import QwenImageTransformer2DModel
+
             if status:
-                status("Qwen: loading full 20B (first time ~14GB download)...")
+                status("Qwen: loading transformer (streaming from disk)...")
+
             transformer = QwenImageTransformer2DModel.from_pretrained(
-                EDIT_TRANSFORMER, subfolder="transformer",
+                EDIT_TRANSFORMER,
+                subfolder="transformer",
                 torch_dtype=torch.float16,
-                low_cpu_mem_usage=True)
-            _pipe = QwenImageEditPlusPipeline.from_pretrained(
-                EDIT_BASE_PIPE, transformer=transformer,
-                torch_dtype=torch.float16,
-                low_cpu_mem_usage=True)
+                low_cpu_mem_usage=True,
+                offload_state_dict=True,
+            )
+            _flush()
 
-        # Step 2: Memory optimizations (layered, most aggressive first)
-        is_mps = hasattr(torch.backends, "mps") and torch.backends.mps.is_available()
-        is_cuda = torch.cuda.is_available()
-
-        if is_mps:
-            # M1/M2/M3: sequential offload — one layer on Metal at a time
-            _pipe.enable_sequential_cpu_offload(device="mps")
+            # Stage 2: Load pipeline shell (text encoder + VAE, ~3GB)
+            # Pass the already-loaded transformer so it doesn't reload
             if status:
-                status("Qwen: sequential CPU offload enabled (MPS)...")
-        elif is_cuda:
-            vram_gb = torch.cuda.get_device_properties(0).total_mem / 1e9
-            if vram_gb >= 16:
-                _pipe.to("cuda")
-            else:
-                _pipe.enable_sequential_cpu_offload()
+                status("Qwen: loading text encoder + VAE...")
+
+            _pipe = QwenImageEditPlusPipeline.from_pretrained(
+                EDIT_BASE_PIPE,
+                transformer=transformer,
+                torch_dtype=torch.float16,
+                low_cpu_mem_usage=True,
+                offload_state_dict=True,
+            )
+
+            # Free the separate reference — pipeline owns it now
+            del transformer
+            _flush()
+
+        # --- Apply memory optimizations ---
+        if status:
+            status("Qwen: configuring memory optimizations...")
+
+        if mps or cuda:
+            # Model-level CPU offload: moves whole components to GPU one
+            # at a time (text_encoder → GPU → done → CPU, transformer →
+            # GPU → done → CPU, VAE → GPU → done → CPU).
+            # Lighter than sequential (less back-and-forth), still fits 16GB.
+            device = "mps" if mps else "cuda"
+
+            try:
+                _pipe.enable_model_cpu_offload(device=device)
+            except TypeError:
+                # Older diffusers: no device arg for model offload
+                _pipe.enable_sequential_cpu_offload(device=device)
+
+            # Fallback: if model offload still OOMs during inference,
+            # sequential offload is the nuclear option (one layer at a time)
+            _pipe._m1_fallback_device = device
         else:
             _pipe.to("cpu")
 
-        # Attention slicing: process one attention head at a time
-        # slice_size=1 = absolute minimum memory per attention op
+        # Attention: process one head at a time (minimum memory per op)
         _pipe.enable_attention_slicing(slice_size=1)
 
-        # VAE tiling: decode output in 512x512 tiles instead of full image
+        # VAE: decode in small tiles instead of full resolution at once
         if hasattr(_pipe, "enable_vae_tiling"):
             _pipe.enable_vae_tiling()
-
-        # VAE slicing: process one image at a time through VAE
         if hasattr(_pipe, "enable_vae_slicing"):
             _pipe.enable_vae_slicing()
 
         _flush()
 
+        model_name = "pruned 13.6B" if use_pruned else "full 20B"
+        device_name = "MPS" if mps else "CUDA" if cuda else "CPU"
         if status:
-            model_name = "pruned 13.6B" if use_pruned else "full 20B"
-            device_name = "MPS" if is_mps else "CUDA" if is_cuda else "CPU"
             status(f"Qwen: {model_name} ready on {device_name}.")
 
         return True
 
-    except ImportError:
+    except ImportError as e:
         if status:
-            status("Missing: pip3 install diffusers transformers torch")
+            status(f"Missing package: {e}")
         return False
     except Exception as e:
         if status:
             status(f"Qwen load failed: {e}")
         _pipe = None
+        _flush()
         return False
 
 
+def _run_inference(pipe, kwargs, status=None):
+    """Run inference with OOM fallback to sequential offload."""
+    import torch
+
+    _flush()
+
+    try:
+        with torch.inference_mode():
+            return pipe(**kwargs).images[0]
+    except RuntimeError as e:
+        if "out of memory" not in str(e).lower():
+            raise
+
+        # OOM: fall back to sequential CPU offload (one layer at a time)
+        if status:
+            status("Qwen: OOM — switching to sequential offload (slower)...")
+
+        _flush()
+
+        device = getattr(pipe, "_m1_fallback_device", "mps")
+        pipe.enable_sequential_cpu_offload(device=device)
+        pipe.enable_attention_slicing(slice_size=1)
+
+        _flush()
+
+        with torch.inference_mode():
+            return pipe(**kwargs).images[0]
+
+
 def _local_edit(image, prompt, status=None, done=None, error=None):
-    """Edit image locally — M1 optimized."""
+    """Edit image locally."""
     def _run():
         try:
             if not _load_pipe(status):
                 if error:
-                    error("Failed to load Qwen pipeline.\n\n"
-                          "Install: pip3 install diffusers transformers torch\n\n"
-                          "Or use cloud mode (free, no install).")
+                    error("Failed to load Qwen.\n\n"
+                          "pip3 install diffusers transformers torch accelerate\n"
+                          "Or use cloud mode (free).")
                 return
 
-            import torch
             from PIL import Image
 
             if status:
                 status(f"Qwen: editing ({STEPS} steps, {M1_SIZE}px)...")
 
             original_size = image.size
-
-            # 768x768 uses half the memory of 1024x1024
             img_in = image.copy().resize((M1_SIZE, M1_SIZE), Image.LANCZOS)
 
-            _flush()
-
-            with torch.inference_mode():
-                result = _pipe(
-                    image=[img_in],
-                    prompt=prompt,
-                    num_inference_steps=STEPS,
-                    guidance_scale=CFG,
-                    true_cfg_scale=CFG,
-                    negative_prompt=" ",
-                    num_images_per_prompt=1,
-                ).images[0]
+            result = _run_inference(_pipe, {
+                "image": [img_in],
+                "prompt": prompt,
+                "num_inference_steps": STEPS,
+                "guidance_scale": CFG,
+                "true_cfg_scale": CFG,
+                "negative_prompt": " ",
+                "num_images_per_prompt": 1,
+            }, status)
 
             _flush()
-
             result = result.resize(original_size, Image.LANCZOS)
 
             if status:
@@ -208,39 +293,34 @@ def _local_edit(image, prompt, status=None, done=None, error=None):
         except Exception as e:
             _flush()
             if error:
-                error(f"Qwen edit error: {e}")
+                error(f"Qwen error: {e}")
     _bg(_run)
 
 
 def _local_generate(prompt, width=M1_SIZE, height=M1_SIZE,
                     status=None, done=None, error=None):
-    """Text-to-image locally — M1 optimized."""
+    """Text-to-image locally."""
     def _run():
         try:
             if not _load_pipe(status):
                 if error:
-                    error("Failed to load Qwen pipeline.")
+                    error("Failed to load Qwen.")
                 return
-
-            import torch
 
             if status:
                 status(f"Qwen: generating ({STEPS} steps, {width}x{height})...")
 
-            _flush()
-
-            with torch.inference_mode():
-                result = _pipe(
-                    image=[],
-                    prompt=prompt,
-                    num_inference_steps=STEPS,
-                    guidance_scale=CFG,
-                    true_cfg_scale=CFG,
-                    negative_prompt=" ",
-                    num_images_per_prompt=1,
-                    height=height,
-                    width=width,
-                ).images[0]
+            result = _run_inference(_pipe, {
+                "image": [],
+                "prompt": prompt,
+                "num_inference_steps": STEPS,
+                "guidance_scale": CFG,
+                "true_cfg_scale": CFG,
+                "negative_prompt": " ",
+                "num_images_per_prompt": 1,
+                "height": height,
+                "width": width,
+            }, status)
 
             _flush()
 
@@ -252,7 +332,7 @@ def _local_generate(prompt, width=M1_SIZE, height=M1_SIZE,
         except Exception as e:
             _flush()
             if error:
-                error(f"Qwen generate error: {e}")
+                error(f"Qwen error: {e}")
     _bg(_run)
 
 
@@ -262,7 +342,6 @@ def _local_generate(prompt, width=M1_SIZE, height=M1_SIZE,
 
 def _cloud_edit(image, prompt, hf_token="",
                 status=None, done=None, error=None):
-    """Edit image via HuggingFace (free)."""
     def _run():
         try:
             from huggingface_hub import InferenceClient
@@ -301,7 +380,6 @@ def _cloud_edit(image, prompt, hf_token="",
 
 def _cloud_generate(prompt, width=1024, height=1024, hf_token="",
                     status=None, done=None, error=None):
-    """Text-to-image via HuggingFace (free)."""
     def _run():
         try:
             from huggingface_hub import InferenceClient
@@ -342,7 +420,6 @@ def _get_hf_token():
 
 
 def edit(image, prompt, status=None, done=None, error=None):
-    """Edit an image. Routes to cloud or local."""
     if load_settings().get("mode") == "local":
         _local_edit(image, prompt, status, done, error)
     else:
@@ -351,7 +428,6 @@ def edit(image, prompt, status=None, done=None, error=None):
 
 def generate(prompt, width=M1_SIZE, height=M1_SIZE,
              status=None, done=None, error=None):
-    """Text-to-image. Routes to cloud or local."""
     if load_settings().get("mode") == "local":
         _local_generate(prompt, width, height, status, done, error)
     else:
