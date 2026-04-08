@@ -568,45 +568,30 @@ class App(ctk.CTk):
                       fg_color="#FF2D55", hover_color="#CC1A3D",
                       command=self._auto_inpaint).pack(fill="x", pady=(0, 6))
 
-        # Qwen AI — vision analysis + direct image editing
+        # Qwen AI Edit — direct neural image editing
         self._label(self.p_edit, "Qwen AI Edit")
-        qwen_edit_row = ctk.CTkFrame(self.p_edit, fg_color="transparent")
-        qwen_edit_row.pack(fill="x", pady=(0, 2))
+        qwen_row = ctk.CTkFrame(self.p_edit, fg_color="transparent")
+        qwen_row.pack(fill="x", pady=(0, 2))
         self.qwen_instruction = ctk.CTkEntry(
-            qwen_edit_row, placeholder_text="e.g. remove her clothes, change to bikini...",
+            qwen_row, placeholder_text="e.g. remove her clothes, change to bikini...",
             font=("SF Pro Text", 11), height=28, corner_radius=8,
             fg_color=C["fill"], text_color=C["text"], border_width=0)
         self.qwen_instruction.pack(side="left", fill="x", expand=True, padx=(0, 4))
-
-        qwen_btn_row = ctk.CTkFrame(self.p_edit, fg_color="transparent")
-        qwen_btn_row.pack(fill="x", pady=(0, 2))
-        ctk.CTkButton(qwen_btn_row, text="AI Edit",
-                      corner_radius=8, height=26, width=80,
-                      font=("SF Pro Text", 11, "bold"),
-                      fg_color=C["indigo"], hover_color=C["indigo_h"],
-                      command=self._qwen_edit).pack(side="left")
-        ctk.CTkButton(qwen_btn_row, text="Analyze",
-                      corner_radius=8, height=26, width=70,
-                      font=("SF Pro Text", 11),
-                      fg_color=C["fill"], text_color=C["text"],
-                      hover_color=C["sep"],
-                      command=self._qwen_analyze).pack(side="left", padx=(4, 0))
-        ctk.CTkButton(qwen_btn_row, text="Suggest",
-                      corner_radius=8, height=26, width=70,
-                      font=("SF Pro Text", 11),
-                      fg_color=C["fill"], text_color=C["text"],
-                      hover_color=C["sep"],
-                      command=self._qwen_suggest).pack(side="left", padx=(4, 0))
         self.qwen_mode_menu = ctk.CTkOptionMenu(
-            qwen_btn_row, values=["cloud", "local"],
-            font=("SF Pro Text", 10), width=70, height=22,
+            qwen_row, values=["cloud", "local"],
+            font=("SF Pro Text", 10), width=65, height=24,
             fg_color=C["fill"], text_color=C["accent"],
             button_color=C["sep"], button_hover_color=C["muted"])
         self.qwen_mode_menu.set("cloud")
         self.qwen_mode_menu.pack(side="right")
+        ctk.CTkButton(self.p_edit, text="AI Edit (Qwen)",
+                      corner_radius=8, height=28,
+                      font=("SF Pro Text", 11, "bold"),
+                      fg_color=C["indigo"], hover_color=C["indigo_h"],
+                      command=self._qwen_edit).pack(fill="x", pady=(2, 2))
         self.qwen_status = ctk.CTkLabel(
             self.p_edit,
-            text="Type an edit instruction or use Analyze/Suggest. Cloud = free via HuggingFace.",
+            text="Type what to change. 4 steps, no neg prompt needed. Cloud = free.",
             font=("SF Pro Text", 9), text_color=C["muted"])
         self.qwen_status.pack(anchor="w", pady=(0, 6))
 
@@ -1406,138 +1391,39 @@ class App(ctk.CTk):
     # --- Qwen AI ---
 
     def _qwen_edit(self):
-        """Direct AI edit using Qwen-Image-Edit."""
+        """Direct AI image edit via Qwen-Image-Edit."""
         img = self.current_image or self.input_image
-        if not img:
-            show_error("No Image", "Generate or load an image first.")
-            return
         instruction = self.qwen_instruction.get().strip()
+
+        # Save mode
+        cfg = qwen.load_settings()
+        cfg["mode"] = self.qwen_mode_menu.get()
+        qwen.save_settings(cfg)
+
+        # No image = text-to-image, no instruction = error
+        if not img and not instruction:
+            self._msg("Enter an instruction (and optionally load an image).")
+            return
         if not instruction:
             self._msg("Enter an edit instruction.")
             return
 
-        # Save mode preference
-        mode = self.qwen_mode_menu.get()
-        cfg = qwen.load_settings()
-        cfg["mode"] = mode
-        qwen.save_settings(cfg)
+        self.qwen_status.configure(text=f"Qwen: '{instruction[:50]}...'")
 
-        self.qwen_status.configure(text=f"AI editing: '{instruction[:40]}...'")
-
-        def _done(result, seed):
+        def _ok(result, seed):
             self.after(0, lambda: self._finish(result, seed))
-            self.after(0, lambda: self.qwen_status.configure(
-                text="AI edit complete."))
+            self.after(0, lambda: self.qwen_status.configure(text="Done."))
 
-        def _err(msg):
-            self.after(0, lambda: show_error("Qwen Edit Error", str(msg)))
-            self.after(0, lambda: self.qwen_status.configure(
-                text="AI edit failed."))
-
-        qwen.dispatch_edit(
-            img, instruction,
-            status=lambda m: self.after(0, lambda: self.qwen_status.configure(text=m)),
-            done=_done, error=_err)
-
-    def _qwen_analyze(self):
-        """Analyze current image with Qwen VL."""
-        img = self.current_image or self.input_image
-        if not img:
-            show_error("No Image", "Generate or load an image first.")
-            return
-
-        mode = self.qwen_mode_menu.get()
-        cfg = qwen.load_settings()
-        cfg["mode"] = mode
-        qwen.save_settings(cfg)
-
-        self.qwen_status.configure(text="Analyzing image...")
-
-        def _done(reply):
-            self.after(0, lambda: self._show_qwen_result("Image Analysis", reply))
-            self.after(0, lambda: self.qwen_status.configure(
-                text="Analysis complete."))
-
-        def _err(msg):
+        def _fail(msg):
             self.after(0, lambda: show_error("Qwen Error", str(msg)))
-            self.after(0, lambda: self.qwen_status.configure(
-                text="Analysis failed."))
+            self.after(0, lambda: self.qwen_status.configure(text="Failed."))
 
-        qwen.analyze(
-            img,
-            status=lambda m: self.after(0, lambda: self.qwen_status.configure(text=m)),
-            done=_done, error=_err)
+        _status = lambda m: self.after(0, lambda: self.qwen_status.configure(text=m))
 
-    def _qwen_suggest(self):
-        """Get AI edit suggestions for current image."""
-        img = self.current_image or self.input_image
-        if not img:
-            show_error("No Image", "Generate or load an image first.")
-            return
-
-        mode = self.qwen_mode_menu.get()
-        cfg = qwen.load_settings()
-        cfg["mode"] = mode
-        qwen.save_settings(cfg)
-
-        self.qwen_status.configure(text="Getting suggestions...")
-
-        def _done(reply):
-            self.after(0, lambda: self._show_qwen_result("Edit Suggestions", reply))
-            self.after(0, lambda: self.qwen_status.configure(
-                text="Suggestions ready."))
-
-        def _err(msg):
-            self.after(0, lambda: show_error("Qwen Error", str(msg)))
-            self.after(0, lambda: self.qwen_status.configure(
-                text="Suggestions failed."))
-
-        qwen.auto_edit(
-            img,
-            status=lambda m: self.after(0, lambda: self.qwen_status.configure(text=m)),
-            done=_done, error=_err)
-
-    def _show_qwen_result(self, title, text):
-        """Show Qwen AI response in a popup."""
-        dlg = ctk.CTkToplevel(self)
-        dlg.title(title)
-        dlg.geometry("600x450")
-        dlg.configure(fg_color=C["bg"])
-        dlg.transient(self)
-
-        ctk.CTkLabel(dlg, text=title,
-                     font=("SF Pro Display", 16, "bold"),
-                     text_color=C["text"]).pack(padx=16, pady=(16, 8), anchor="w")
-
-        textbox = ctk.CTkTextbox(dlg, font=("SF Pro Text", 12),
-                                  fg_color=C["fill"], text_color=C["text"],
-                                  corner_radius=10, border_width=0)
-        textbox.pack(fill="both", expand=True, padx=16, pady=(0, 8))
-        textbox.insert("1.0", text)
-
-        btn_row = ctk.CTkFrame(dlg, fg_color="transparent")
-        btn_row.pack(fill="x", padx=16, pady=(0, 16))
-
-        def _use_as_prompt():
-            parsed = qwen.parse_edit_response(text)
-            if parsed["positive"]:
-                self.prompt.delete("1.0", "end")
-                self.prompt.insert("1.0", parsed["positive"])
-            if parsed["negative"]:
-                self.neg.delete("1.0", "end")
-                self.neg.insert("1.0", parsed["negative"])
-            dlg.destroy()
-            self._msg("Qwen prompt applied.")
-
-        ctk.CTkButton(btn_row, text="Use as Prompt", corner_radius=8,
-                      height=30, font=("SF Pro Text", 12, "bold"),
-                      fg_color=C["accent"], hover_color=C["hover"],
-                      command=_use_as_prompt).pack(side="left")
-        ctk.CTkButton(btn_row, text="Close", corner_radius=8,
-                      height=30, font=("SF Pro Text", 12),
-                      fg_color=C["fill"], text_color=C["text"],
-                      hover_color=C["sep"],
-                      command=dlg.destroy).pack(side="right")
+        if img:
+            qwen.edit(img, instruction, status=_status, done=_ok, error=_fail)
+        else:
+            qwen.generate(instruction, status=_status, done=_ok, error=_fail)
 
     # --- ControlNet ---
 

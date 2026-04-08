@@ -43,7 +43,7 @@ Double-click to launch. Close to quit. Nothing stays running.
 - **Face checkpoints** — save/reuse faces across sessions (FaceSwapLab concept)
 - **Cloud generation** — HuggingFace (free) / AI Horde (free) / Prodia (free key) / Replicate (free tier) for SDXL, Flux, NSFW-capable models
 - **Cloud video** — image-to-video via HuggingFace SVD (free) or Replicate (free tier), generates 25-frame .mp4 from any image
-- **Qwen AI Edit** — direct neural image editing: type "remove her clothes" or "change to bikini" and Qwen-Image-Edit (Rapid-AIO NSFW v23) edits the image directly. Cloud (free via HuggingFace) or local (GGUF Q4 for M1). Vision analysis, edit suggestions, prompt engineering.
+- **Qwen AI Edit** — type "remove her clothes" or "change to bikini" and Qwen-Image-Edit edits the image directly in 4 steps. Cloud (free via HuggingFace) or local (QwenImageEditPlusPipeline on M1 MPS). Also does text-to-image with no input photo.
 - **Avatar Creator** — full character builder: ethnicity, age, face shape, skin tone, eye shape/colour, hair style/colour, makeup, lips, expression, breast size, butt size, body type, height/weight, pose, outfit, setting — builds optimized prompt from selections
 - **Prompt Enhance** — one-click quality anchors (photorealistic/Asian realism/gravure/K-beauty/portrait/cinematic), lighting presets, lens simulation (photorealistic/gravure/portrait/cinematic), lighting presets (studio/golden hour/Rembrandt/ring light), lens simulation (85mm/50mm/135mm bokeh)
 - **Gravure presets** — optimized prompts for Japanese glamour photography (swimwear, lingerie, portrait)
