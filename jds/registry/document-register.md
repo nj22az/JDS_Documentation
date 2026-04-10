@@ -1,6 +1,6 @@
 # JDS Document Register
 
-**Last updated:** 2026-03-25
+**Last updated:** 2026-04-10
 
 This is the master list of all documents in the JDS system. Every document must be registered here when created.
 
@@ -48,6 +48,9 @@ This is the master list of all documents in the JDS system. Every document must 
 | [JDS-TMP-LOG-003](../templates/logs/JDS-TMP-LOG-003_supervision-checklist-template.md) | Supervision Checklist Template | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-TMP-LOG-004](../templates/logs/JDS-TMP-LOG-004_inspection-plan-template.md) | Annual Inspection Plan Template | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-TMP-RPT-003](../templates/reports/JDS-TMP-RPT-003_inspection-report-template.md) | Inspection Report Template | A | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-TMP-LOG-005](../../projects/JDS-PRJ-MEC-002_vessel-supervision-system/03-program-templates/JDS-TMP-LOG-005_supervision-program-template.md) | Supervision Program Template | A | 2026-04-10 | APPROVED | N. Johansson |
+| [JDS-TMP-LOG-006](../../projects/JDS-PRJ-MEC-002_vessel-supervision-system/03-program-templates/JDS-TMP-LOG-006_supervision-round-template.md) | Supervision Round Record Template | A | 2026-04-10 | APPROVED | N. Johansson |
+| [JDS-TMP-LOG-007](../../projects/JDS-PRJ-MEC-002_vessel-supervision-system/03-program-templates/JDS-TMP-LOG-007_annual-review-template.md) | Annual Supervision Program Review Template | A | 2026-04-10 | APPROVED | N. Johansson |
 
 ## Reports (RPT)
 
@@ -55,12 +58,14 @@ This is the master list of all documents in the JDS system. Every document must 
 |---------|-------|-----|------|--------|--------|
 | [JDS-RPT-001](../examples/JDS-RPT-001_pump-inspection-example.md) | Example: Pump Inspection Report | A | 2026-03-25 | EXAMPLE | N. Johansson |
 | [JDS-RPT-MEC-002](../examples/JDS-RPT-MEC-002_risk-assessment-example.md) | Example: Risk Assessment — Pressure Vessel Maintenance | B | 2026-03-25 | EXAMPLE | N. Johansson |
+| [JDS-RPT-MEC-003](../../projects/JDS-PRJ-MEC-002_vessel-supervision-system/02-regulations/SE-sweden/JDS-RPT-MEC-003_afs2017-3-consolidated.md) | AFS 2017:3 Consolidated Supervision Requirements | A | 2026-04-10 | APPROVED | N. Johansson |
 
 ## Manuals (MAN)
 
 | Doc No. | Title | Rev | Date | Status | Author |
 |---------|-------|-----|------|--------|--------|
 | [JDS-MAN-MEC-001](../../projects/JDS-PRJ-MEC-001_pressure-vessel-maintenance/01-framework/JDS-MAN-MEC-001_documentation-guide.md) | Documentation Guide — Pressure Vessel Records | A | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-MAN-MEC-002](../../projects/JDS-PRJ-MEC-002_vessel-supervision-system/01-system/JDS-MAN-MEC-002_supervision-program-manual.md) | Supervision Program Manual — Pressurised Vessels | A | 2026-04-10 | APPROVED | N. Johansson |
 
 ## Drawings (DWG)
 
@@ -72,6 +77,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | Doc No. | Title | Rev | Date | Status | Author |
 |---------|-------|-----|------|--------|--------|
 | [JDS-PRJ-MEC-001](../../projects/JDS-PRJ-MEC-001_pressure-vessel-maintenance/README.md) | Pressure Vessel Ongoing Maintenance Program | C | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-PRJ-MEC-002](../../projects/JDS-PRJ-MEC-002_vessel-supervision-system/README.md) | Vessel Supervision System | A | 2026-04-10 | APPROVED | N. Johansson |
 
 ## Timesheets (TSH)
 
@@ -91,6 +97,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | [JDS-LOG-MEC-002](../../projects/JDS-PRJ-MEC-001_pressure-vessel-maintenance/03-active-programs/JDS-LOG-MEC-002_pressure-vessel-inventory-afs2017.md) | Pressure Vessel Inventory — AFS 2017:3 Compliance Guide | B | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-LOG-MEC-003](../examples/JDS-LOG-MEC-003_equipment-inventory-example.md) | Example: Equipment Inventory — Göteborg Workshop | B | 2026-03-25 | EXAMPLE | N. Johansson |
 | [JDS-LOG-MEC-004](../examples/JDS-LOG-MEC-004_equipment-life-journal-example.md) | Example: Equipment Life Journal — PV-001 Air Receiver | A | 2026-03-25 | EXAMPLE | N. Johansson |
+| [JDS-LOG-MEC-005](../../projects/JDS-PRJ-MEC-002_vessel-supervision-system/01-system/JDS-LOG-MEC-005_program-register.md) | Supervision Program Register | A | 2026-04-10 | APPROVED | N. Johansson |
 
 ## Correspondence (COR)
 

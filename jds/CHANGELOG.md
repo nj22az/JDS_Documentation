@@ -4,6 +4,20 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [3.2] — 2026-04-10
+
+### Added — Vessel Supervision System (JDS-PRJ-MEC-002)
+- **JDS-PRJ-MEC-002**: Vessel Supervision System — complete project for creating, managing, and performing ongoing supervision programs for pressurised vessels. Built on AFS 2017:3 consolidated with all amendments (AFS 2019:1, AFS 2020:10, AFS 2022:2).
+- **JDS-MAN-MEC-002**: Supervision Program Manual — full methodology for building and running supervision programs: site survey, risk assessment, check design, documentation, annual review.
+- **JDS-LOG-MEC-005**: Supervision Program Register — master tracker for all active supervision programs.
+- **JDS-RPT-MEC-003**: AFS 2017:3 Consolidated Supervision Requirements — English-language summary of the base regulation and all three amendments, focused on ongoing supervision requirements.
+- **JDS-TMP-LOG-005**: Supervision Program Template — complete template for creating site-specific supervision programs with daily/weekly/monthly/quarterly/annual check schedules.
+- **JDS-TMP-LOG-006**: Supervision Round Record Template — execution record for supervision rounds with per-vessel checks, findings management, and sign-off.
+- **JDS-TMP-LOG-007**: Annual Supervision Program Review Template — structured annual review covering execution summary, equipment changes, regulatory changes, personnel review, and effectiveness assessment.
+- **Regulatory Traceability Matrix** — maps every supervision program element to specific AFS 2017:3 sections, including amendment-specific impacts.
+
+---
+
 ## [3.1] — 2026-03-25
 
 ### Changed — Repository Restructure for Authority
