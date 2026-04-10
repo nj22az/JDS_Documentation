@@ -48,10 +48,13 @@ JDS-PRJ-MEC-002_vessel-supervision-system/
 ├── 03-program-templates/                         ← TEMPLATES FOR BUILDING PROGRAMS
 │   ├── JDS-TMP-LOG-005_supervision-program-template.md ← The main program document
 │   ├── JDS-TMP-LOG-006_supervision-round-template.md   ← Round execution record
-│   └── JDS-TMP-LOG-007_annual-review-template.md       ← Annual program review
+│   ├── JDS-TMP-LOG-007_annual-review-template.md       ← Annual program review
+│   └── JDS-TMP-LOG-008_inventory-template.md           ← Equipment inventory (auto-classify)
 │
 └── 04-active-programs/                           ← WHERE REAL PROGRAMS LIVE
-    └── README.md                                 ← How to create a new program
+    ├── README.md                                 ← How to create a new program
+    ├── example-vessels.csv                       ← Example CSV for jds-classify.py
+    └── JDS-LOG-MEC-006_example-inventory.md      ← Example: 7 vessels, auto-classified
 ```
 
 ---
@@ -96,6 +99,8 @@ JDS-PRJ-MEC-002_vessel-supervision-system/
 | JDS-TMP-LOG-005 | Supervision Program Template | Create new programs |
 | JDS-TMP-LOG-006 | Supervision Round Record | Execute and record rounds |
 | JDS-TMP-LOG-007 | Annual Review Template | Review program annually |
+| JDS-TMP-LOG-008 | Inventory Template | Equipment register with auto-classification |
+| JDS-LOG-MEC-006 | Example Inventory | Working example (7 vessels, auto-classified) |
 
 ### JDS System Documents
 

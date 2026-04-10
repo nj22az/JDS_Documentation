@@ -1,0 +1,8 @@
+vessel_id,description,location,manufacturer,year,serial,ps_bar,ts_max_c,volume_l,medium,ce_marked,eu_doc,last_inspection,last_type
+PV-001,Main air receiver,Compressor room,Atlas Copco,2015,AC-2015-4521,11,40,1000,compressed air,yes,yes,2024-06-15,external
+PV-002,Workshop air receiver,Workshop B,Kaeser,2018,KS-2018-7892,8,50,250,compressed air,yes,yes,2025-01-20,external
+PV-003,Steam boiler,Boiler house,Bosch,2010,BO-2010-3341,13,180,2000,steam,yes,yes,2023-09-01,internal
+PV-004,Refrigeration receiver,Engine room,Bitzer,2019,BZ-2019-0087,25,60,200,ammonia,yes,yes,2025-03-10,external
+PV-005,Hydraulic accumulator,Workshop A,Parker,2020,PK-2020-1155,250,80,10,hydraulic oil,yes,yes,2024-11-30,external
+PV-006,Expansion vessel,Heating system,Flamco,2021,FL-2021-6629,3,90,25,water,yes,yes,,
+PV-007,Sandblast receiver,Yard,Clemco,2012,CL-2012-9944,10,50,500,compressed air,yes,no,2023-04-22,external

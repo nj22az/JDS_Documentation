@@ -96,6 +96,9 @@ When you notice something that could be improved:
 | `scripts/generate-office-docs.py` | Excel workbook generator (timesheet, expense, mileage) | `python3 scripts/generate-office-docs.py timesheet\|expense\|mileage\|all [output]` |
 | `scripts/office2pdf.py` | Excel workbook → JDS-compliant PDF | `python3 scripts/office2pdf.py <file.xlsx> [output.pdf]` |
 | `scripts/logo-variants.py` | Generate SVG logo colour variants | `python3 scripts/logo-variants.py` |
+| `scripts/jds-classify.py` | Vessel classification & inventory generator (AFS 2017:3) | `python3 scripts/jds-classify.py` (interactive) |
+| `scripts/jds-classify.py --quick` | Quick single-vessel classification | `python3 scripts/jds-classify.py --quick --ps 11 --volume 1000` |
+| `scripts/jds-classify.py --csv` | Generate inventory from CSV data | `python3 scripts/jds-classify.py --csv vessels.csv --output inventory.md` |
 
 ## PDF Generation (JDS-PRO-007 Compliance)
 

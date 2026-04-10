@@ -15,6 +15,12 @@ All changes to the JDS documentation system itself are recorded here. This provi
 - **JDS-TMP-LOG-006**: Supervision Round Record Template — execution record for supervision rounds with per-vessel checks, findings management, and sign-off.
 - **JDS-TMP-LOG-007**: Annual Supervision Program Review Template — structured annual review covering execution summary, equipment changes, regulatory changes, personnel review, and effectiveness assessment.
 - **Regulatory Traceability Matrix** — maps every supervision program element to specific AFS 2017:3 sections, including amendment-specific impacts.
+- **JDS-TMP-LOG-008**: Equipment Inventory Template — blank inventory with auto-classification reference and CSV quick-start instructions.
+- **JDS-LOG-MEC-006**: Example inventory (Gothenburg Workshop) — 7 vessels auto-classified: 4 Class A, 2 Class B, 1 Simple PV, with overdue inspections flagged.
+
+### Added — Vessel Classification Script
+- **`scripts/jds-classify.py`**: Automatic vessel classification per AFS 2017:3 (consolidated). Three modes: interactive (guided input), quick (single vessel), CSV batch (generates complete JDS inventory). Calculates PS x V, determines fluid group, assigns risk class and PED category, computes inspection intervals, flags overdue inspections. Supports 30+ media with automatic Group 1/2 lookup.
+- **CLAUDE.md** updated with jds-classify.py in automation tools table.
 
 ---
 

@@ -51,6 +51,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | [JDS-TMP-LOG-005](../../projects/JDS-PRJ-MEC-002_vessel-supervision-system/03-program-templates/JDS-TMP-LOG-005_supervision-program-template.md) | Supervision Program Template | A | 2026-04-10 | APPROVED | N. Johansson |
 | [JDS-TMP-LOG-006](../../projects/JDS-PRJ-MEC-002_vessel-supervision-system/03-program-templates/JDS-TMP-LOG-006_supervision-round-template.md) | Supervision Round Record Template | A | 2026-04-10 | APPROVED | N. Johansson |
 | [JDS-TMP-LOG-007](../../projects/JDS-PRJ-MEC-002_vessel-supervision-system/03-program-templates/JDS-TMP-LOG-007_annual-review-template.md) | Annual Supervision Program Review Template | A | 2026-04-10 | APPROVED | N. Johansson |
+| [JDS-TMP-LOG-008](../../projects/JDS-PRJ-MEC-002_vessel-supervision-system/03-program-templates/JDS-TMP-LOG-008_inventory-template.md) | Equipment Inventory Template (Auto-Classification) | A | 2026-04-10 | APPROVED | N. Johansson |
 
 ## Reports (RPT)
 
@@ -98,6 +99,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | [JDS-LOG-MEC-003](../examples/JDS-LOG-MEC-003_equipment-inventory-example.md) | Example: Equipment Inventory — Göteborg Workshop | B | 2026-03-25 | EXAMPLE | N. Johansson |
 | [JDS-LOG-MEC-004](../examples/JDS-LOG-MEC-004_equipment-life-journal-example.md) | Example: Equipment Life Journal — PV-001 Air Receiver | A | 2026-03-25 | EXAMPLE | N. Johansson |
 | [JDS-LOG-MEC-005](../../projects/JDS-PRJ-MEC-002_vessel-supervision-system/01-system/JDS-LOG-MEC-005_program-register.md) | Supervision Program Register | A | 2026-04-10 | APPROVED | N. Johansson |
+| [JDS-LOG-MEC-006](../../projects/JDS-PRJ-MEC-002_vessel-supervision-system/04-active-programs/JDS-LOG-MEC-006_example-inventory.md) | Example: Equipment Inventory — Gothenburg Workshop (Auto-Classified) | A | 2026-04-10 | EXAMPLE | N. Johansson |
 
 ## Correspondence (COR)
 

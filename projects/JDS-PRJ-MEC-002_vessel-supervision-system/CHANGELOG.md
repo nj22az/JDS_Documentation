@@ -29,3 +29,6 @@ Each entry shows:
 | 2026-04-10 | JDS-TMP-LOG-005 (Supervision Program Template) | A | N. Johansson | Initial release — template for creating site-specific supervision programs |
 | 2026-04-10 | JDS-TMP-LOG-006 (Supervision Round Record) | A | N. Johansson | Initial release — template for recording supervision round execution |
 | 2026-04-10 | JDS-TMP-LOG-007 (Annual Review Template) | A | N. Johansson | Initial release — template for annual supervision program review |
+| 2026-04-10 | JDS-TMP-LOG-008 (Inventory Template) | A | N. Johansson | Initial release — equipment inventory template with auto-classification support |
+| 2026-04-10 | JDS-LOG-MEC-006 (Example Inventory) | A | N. Johansson | Example: 7 vessels auto-classified by jds-classify.py — Gothenburg Workshop |
+| 2026-04-10 | jds-classify.py (Script) | — | N. Johansson | New automation tool — classifies vessels per AFS 2017:3, calculates intervals, generates inventories |
