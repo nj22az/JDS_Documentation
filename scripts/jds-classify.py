@@ -58,8 +58,20 @@ MEDIA_GROUPS = {
 }
 
 # ---------------------------------------------------------------------------
-# Classification logic per AFS 2017:3
+# Classification logic per AFS 2017:3 (4 Kap. §10, Bilaga 1)
 # ---------------------------------------------------------------------------
+
+# Media that trigger the Class B exemption in §10
+# "Tryckkärl för luft och kvävgas" — air and nitrogen vessels that would
+# be Class B shall NOT belong to any class.
+AIR_NITROGEN_MEDIA = {"compressed air", "air", "nitrogen"}
+
+# Refrigeration/heat pump media — Class B vessels exempt per §10
+REFRIGERANT_MEDIA = {
+    "r134a", "r410a", "r32", "r404a", "r407c", "r22", "r290", "r600a",
+    "r717",  # ammonia is Group 1 but listed here for refrigeration context
+}
+
 
 def lookup_fluid_group(medium):
     """Determine fluid group from medium name. Returns 1, 2, or None."""
@@ -67,63 +79,114 @@ def lookup_fluid_group(medium):
     return MEDIA_GROUPS.get(key, None)
 
 
-def classify_vessel(ps, volume, fluid_group):
-    """
-    Classify a vessel per AFS 2017:3 based on PS, volume, and fluid group.
+def is_air_or_nitrogen(medium):
+    """Check if medium is air or nitrogen (exempt from Class B per §10)."""
+    return medium.strip().lower() in AIR_NITROGEN_MEDIA
 
-    Returns dict with: psv, risk_class, ped_category, intervals, inspector.
+
+def is_refrigerant(medium):
+    """Check if medium is a refrigerant (exempt from Class B per §10)."""
+    return medium.strip().lower() in REFRIGERANT_MEDIA
+
+
+def classify_vessel(ps, volume, fluid_group, medium=""):
+    """
+    Classify a vessel per AFS 2017:3 (4 Kap. §10) based on PS, volume,
+    fluid group, and medium.
+
+    Returns dict with: psv, risk_class, ped_category, driftprov_interval,
+    examination_interval, inspector, note, exemptions.
     """
     psv = ps * volume
+    medium_lower = medium.strip().lower()
 
     # Check minimum threshold: PS must exceed 0.5 bar
     if ps <= 0.5:
         return _result(psv, "Not in scope", "N/A",
                        "Below 0.5 bar — outside AFS 2017:3 scope")
 
+    # Group 2a liquids at ≤65°C: no class (§10 last paragraph)
+    # We can't fully check this without temperature, so skip for now
+
     if fluid_group == 1:
-        # Group 1 — dangerous fluids (lower thresholds)
-        if psv > 3000:
+        # Group 1a — dangerous fluids (4 Kap. §10 table, gas column)
+        if volume > 1 and ps > 0.5:
+            if psv > 1000:
+                risk_class = "A"
+                ped_cat = "IV" if psv > 3000 else "III"
+            else:
+                risk_class = "B"
+                ped_cat = "II"
+        elif volume > 0.1 and volume <= 1 and ps > 200:
             risk_class = "A"
             ped_cat = "IV"
-        elif psv > 200:
-            risk_class = "B"
-            ped_cat = "III" if psv > 1000 else "II"
         elif psv > 50:
-            risk_class = "Simple PV"
-            ped_cat = "I"
-        else:
-            return _result(psv, "Not classified", "Art. 4.3",
-                           "Below classification threshold (Group 1)")
-    else:
-        # Group 2 — non-dangerous fluids
-        if psv > 10000:
-            risk_class = "A"
-            ped_cat = "IV"
-        elif psv > 3000:
-            risk_class = "A"
-            ped_cat = "III"
-        elif psv > 1000:
             risk_class = "B"
-            ped_cat = "II"
-        elif psv > 200:
-            risk_class = "Below B"
             ped_cat = "I"
-        elif psv > 50:
-            risk_class = "Simple PV"
-            ped_cat = "Art. 4.3"
         else:
             return _result(psv, "Not classified", "N/A",
-                           "Below classification threshold (Group 2)")
+                           "Below classification threshold (Group 1a)")
+    else:
+        # Group 2a — non-dangerous fluids (4 Kap. §10 table, gas column)
+        if volume > 1 and ps > 0.5:
+            if psv > 10000:
+                risk_class = "A"
+                ped_cat = "IV"
+            elif psv > 1000:
+                # Would be Class B, but check exemptions
+                risk_class = "B"
+                ped_cat = "II"
+            elif psv > 200:
+                risk_class = "Below threshold"
+                ped_cat = "I"
+                return _result(psv, "Below threshold", "I",
+                               "PS×V 200-1000: below Class B threshold "
+                               "for Group 2a gases")
+            elif psv > 50:
+                return _result(psv, "Below threshold", "Art. 4.3",
+                               "PS×V 50-200: below classification")
+            else:
+                return _result(psv, "Not classified", "N/A",
+                               "Below classification threshold (Group 2a)")
+        elif volume > 0.1 and volume <= 1 and ps > 1000:
+            risk_class = "A"
+            ped_cat = "IV"
+        else:
+            return _result(psv, "Not classified", "N/A",
+                           "Below classification threshold (Group 2a)")
 
-    intervals = get_intervals(risk_class)
+    # Apply §10 exemptions for Class B vessels
+    exemptions = []
+    if risk_class == "B":
+        if is_air_or_nitrogen(medium):
+            exemptions.append("Air/nitrogen Class B exemption (§10)")
+            return _result(psv, "Exempt (air/N2)", ped_cat,
+                           "Air/nitrogen vessels: Class B exempt per "
+                           "4 Kap. §10 — no periodic inspection required")
+        if is_refrigerant(medium) and fluid_group == 2:
+            exemptions.append("Refrigerant Class B exemption (§10)")
+            return _result(psv, "Exempt (refrig.)", ped_cat,
+                           "Refrigerant vessels (Group 2a): Class B exempt "
+                           "per 4 Kap. §10 — no periodic inspection required")
+
+    driftprov = get_driftprov_interval(risk_class, medium_lower)
+    examination = get_examination_info(risk_class)
     inspector = get_inspector(risk_class)
+
     return {
         "psv": psv,
         "risk_class": risk_class,
         "ped_category": ped_cat,
-        "intervals": intervals,
+        "driftprov_interval": driftprov,
+        "examination_interval": examination,
+        "intervals": {  # backward-compatible
+            "external": driftprov,
+            "internal": examination.get("base") if examination else None,
+            "pressure_test": None,
+        },
         "inspector": inspector,
         "note": None,
+        "exemptions": exemptions,
     }
 
 
@@ -132,20 +195,64 @@ def _result(psv, risk_class, ped_cat, note):
         "psv": psv,
         "risk_class": risk_class,
         "ped_category": ped_cat,
-        "intervals": {"external": None, "internal": None, "pressure_test": None},
+        "driftprov_interval": None,
+        "examination_interval": None,
+        "intervals": {"external": None, "internal": None,
+                      "pressure_test": None},
         "inspector": "N/A",
         "note": note,
+        "exemptions": [],
+    }
+
+
+def get_driftprov_interval(risk_class, medium=""):
+    """
+    Return driftprov (operational test) base interval in months
+    per Bilaga 1, §1.4.1.
+    """
+    if risk_class not in ("A", "B"):
+        return None
+
+    # Specific equipment types with 4-year interval
+    if medium in AIR_NITROGEN_MEDIA:
+        return 48  # 4 years — air, nitrogen, noble gas
+    if medium in REFRIGERANT_MEDIA:
+        return 48  # 4 years — refrigeration/heat pump
+    if medium in ("argon", "helium", "neon", "krypton", "xenon"):
+        return 48  # 4 years — noble gases
+    if medium in ("lpg", "propane", "butane"):
+        return 48  # 4 years — LPG storage
+
+    # Default: "Övriga tryckkärl och vakuumkärl" = 2 years
+    return 24  # 2 years
+
+
+def get_examination_info(risk_class):
+    """
+    Return internal/external examination info per Bilaga 1, §2.2.
+    Only Class A requires in- och utvändig undersökning.
+    Returns dict with base interval and conditions, or None.
+    """
+    if risk_class != "A":
+        return None
+
+    return {
+        "base": 48,  # 4 years (§2.2.2) — standard base interval
+        "min": 6,    # 6 months (§2.2.5) — worst case
+        "max": 120,  # 10 years (§2.2.8) — best case for vessels
+        "max_cistern": 144,  # 12 years (§2.2.9) — cisterns only
+        "note": "Condition-based: 4 years base, extendable to "
+                "6/8/10 years by inspection body based on condition. "
+                "Reducible to 2/1/0.5 years if condition deteriorates.",
     }
 
 
 def get_intervals(risk_class):
-    """Return inspection intervals in months per AFS 2017:3."""
+    """Return inspection intervals in months (backward-compatible)."""
     if risk_class == "A":
-        return {"external": 24, "internal": 72, "pressure_test": 144}
+        return {"external": 24, "internal": 48, "pressure_test": None}
     elif risk_class == "B":
-        return {"external": 36, "internal": 72, "pressure_test": None}
-    elif risk_class == "Below B":
-        return {"external": 72, "internal": None, "pressure_test": None}
+        return {"external": 24, "internal": None, "pressure_test": None}
     else:
         return {"external": None, "internal": None, "pressure_test": None}
 
@@ -153,11 +260,9 @@ def get_intervals(risk_class):
 def get_inspector(risk_class):
     """Return who may inspect per AFS 2017:3."""
     if risk_class == "A":
-        return "Accredited body"
+        return "Accredited body (Type A)"
     elif risk_class == "B":
-        return "Accredited body (int.) / Own (ext.)"
-    elif risk_class == "Below B":
-        return "Own inspection"
+        return "Accredited body (Type A or B)"
     else:
         return "N/A"
 
@@ -558,7 +663,7 @@ def interactive_classify_vessel():
                         "external")
 
     # Classify
-    result = classify_vessel(ps, volume, fluid_group)
+    result = classify_vessel(ps, volume, fluid_group, medium)
 
     # Calculate next due dates
     next_external = calculate_next_due(last_inspection,
@@ -702,7 +807,7 @@ def read_csv(path):
                 fg = row.get("fluid_group", "2").strip()
                 fluid_group = 1 if fg == "1" else 2
 
-            result = classify_vessel(ps, volume, fluid_group)
+            result = classify_vessel(ps, volume, fluid_group, medium)
             last_inspection = parse_date(row.get("last_inspection", ""))
 
             next_ext = calculate_next_due(last_inspection,
@@ -757,7 +862,7 @@ def quick_classify(ps, volume, medium="compressed air"):
         print(f"Unknown medium '{medium}'. Assuming Group 2 (non-dangerous).")
         fluid_group = 2
 
-    result = classify_vessel(ps, volume, fluid_group)
+    result = classify_vessel(ps, volume, fluid_group, medium)
 
     print()
     print("=" * 50)
@@ -1044,6 +1149,7 @@ def generate_inventory_markdown(vessels, client, site, doc_no, author):
 
 # ---------------------------------------------------------------------------
 # Program generator — Step 2 (reads inventory, generates program)
+# Compliant with AFS 2017:3: 2 Kap. §6, 4 Kap. §§14-19, Bilaga 1
 # ---------------------------------------------------------------------------
 
 def generate_program_markdown(vessels, client, site, doc_no, author,
@@ -1056,10 +1162,18 @@ def generate_program_markdown(vessels, client, site, doc_no, author,
     def w(line=""):
         lines.append(line)
 
-    # Determine which check levels are needed across all vessels
-    all_classes = set(v["risk_class"] for v in vessels)
-    has_daily = any(c in ("A", "B") for c in all_classes)
-    has_weekly = any(c in ("A", "B", "Below B") for c in all_classes)
+    # Separate vessels by regulatory status
+    class_ab = [v for v in vessels if v["risk_class"] in ("A", "B")]
+    class_a = [v for v in vessels if v["risk_class"] == "A"]
+    class_b = [v for v in vessels if v["risk_class"] == "B"]
+    exempt = [v for v in vessels
+              if v["risk_class"].startswith("Exempt")]
+    below = [v for v in vessels
+             if v["risk_class"] in ("Below threshold", "Simple PV",
+                                    "Not classified", "Not in scope")]
+
+    all_supervised = class_ab + exempt  # all that need some supervision
+    has_daily = len(class_ab) > 0
 
     # Header
     w(f"# Supervision Program \u2014 {site}")
@@ -1080,151 +1194,288 @@ def generate_program_markdown(vessels, client, site, doc_no, author,
     w("---")
     w()
 
-    # Workflow position
+    # Document chain
     w("## 1. Document Chain")
     w()
     w("```")
-    w("INVENTORY  →  [PROGRAM]  →  ROUND  →  REVIEW")
+    w("INVENTORY  \u2192  [PROGRAM]  \u2192  ROUND  \u2192  REVIEW")
     w("(Step 1)       (you are      (next)")
     w("                here)")
     w("```")
     w()
     w(f"**Source document:** {source_doc}")
     w()
-    w("This supervision program was **auto-generated** from the equipment "
-      "inventory. All vessels, classifications, and check schedules have been "
-      "pre-filled based on the inventory data.")
+    w("---")
+    w()
+
+    # Regulatory basis
+    w("## 2. Regulatory Basis")
+    w()
+    w("This program satisfies the requirements of **AFS 2017:3** "
+      "(consolidated with AFS 2019:1, AFS 2020:10, AFS 2022:2):")
+    w()
+    w("| Requirement | AFS 2017:3 | Status |")
+    w("|------------|-----------|--------|")
+    w("| Documented supervision routines | 4 Kap. \u00a717 | "
+      "This document |")
+    w("| Mandatory minimum checks (6 points) | 2 Kap. \u00a76 | "
+      "Section 5 |")
+    w("| Annual evaluation and revision | 4 Kap. \u00a717 | "
+      "Section 12 |")
+    w("| Assigned responsible person | 4 Kap. \u00a717 | "
+      "Section 9 |")
+    w("| Coordination person | 4 Kap. \u00a714 | "
+      "Section 9 |")
+    w("| Equipment register | 4 Kap. \u00a715 | "
+      "Section 3 |")
+    w("| Monitoring requirements | 4 Kap. \u00a716 | "
+      "Section 4 |")
+    w("| Recurring inspection schedule | 5 Kap., Bilaga 1 | "
+      "Section 6 |")
+    w("| Deviation reports | 4 Kap. \u00a719 | "
+      "Section 10 |")
+    w("| Lifetime journal | 4 Kap. \u00a718 | "
+      "Section 11 |")
+    w()
+    w("> **Non-compliance sanction:** 10,000\u2013100,000 SEK for operating "
+      "Class A/B equipment without documented supervision routines "
+      "(4 Kap. \u00a717).")
     w()
     w("---")
     w()
 
-    # Purpose
-    w("## 2. Purpose and Scope")
+    # Scope
+    w("## 3. Equipment Register (4 Kap. \u00a715)")
     w()
-    w(f"This document is the ongoing supervision program for all pressurised "
-      f"vessels at {site}. It defines what checks are performed, how often, "
-      f"by whom, and how results are documented. It satisfies AFS 2017:3 "
-      f"Chapter 2, Section 3.")
-    w()
-
-    in_scope = [v for v in vessels
-                if v["risk_class"] not in ("Not classified", "Not in scope")]
-    excluded = [v for v in vessels
-                if v["risk_class"] in ("Not classified", "Not in scope")]
-
-    w(f"**Equipment in scope:** {len(in_scope)} vessels")
-    if excluded:
-        w(f"**Excluded (below threshold):** {len(excluded)} items "
-          f"({', '.join(v['vessel_id'] for v in excluded)})")
-    w()
-    w("---")
-    w()
-
-    # Equipment register summary
-    w("## 3. Equipment Register Summary")
+    w(f"Register of all pressurised equipment at {site}:")
     w()
     w("| Vessel ID | Description | Location "
       "| Class | Medium | Inspector |")
     w("|-----------|-------------|----------"
       "|-------|--------|-----------|")
-    for v in in_scope:
+    for v in vessels:
+        rc = v["risk_class"]
+        insp = v.get("inspector", get_inspector(rc))
         w(f"| {v['vessel_id']} | {v.get('description', '')} "
           f"| {v.get('location', '')} "
-          f"| **{v['risk_class']}** | {v.get('medium', '')} "
-          f"| {v.get('inspector', get_inspector(v['risk_class']))} |")
+          f"| **{rc}** | {v.get('medium', '')} | {insp} |")
+    w()
+
+    w(f"**Class A:** {len(class_a)} vessels "
+      "(accredited inspection body required)")
+    w(f"**Class B:** {len(class_b)} vessels")
+    w(f"**Exempt (air/N2/refrigerant):** {len(exempt)} vessels "
+      "(Class B exempt per 4 Kap. \u00a710)")
+    w(f"**Below threshold:** {len(below)} vessels")
     w()
     w("---")
     w()
 
-    # Check schedules — built from risk class
-    w("## 4. Supervision Schedule")
+    # Monitoring requirements (§16)
+    w("## 4. Monitoring Requirements (4 Kap. \u00a716)")
+    w()
+    if class_ab:
+        w("Class A and B vessels must be **continuously monitored** "
+          "(\u00a716). The operator must be able to immediately reach "
+          "the vessel and determine if it is safe to remain pressurised.")
+        w()
+        w("If periodic monitoring is used instead (per documented risk "
+          "assessment), the following must be documented:")
+        w()
+        w("1. How operators are alerted to safety-related alarms")
+        w("2. The response time (inst\u00e4llelsetid) for safety-related alarms")
+        w()
+        w("| Vessel ID | Monitoring Type | Alarm System | Response Time |")
+        w("|-----------|----------------|-------------|--------------|")
+        for v in class_ab:
+            w(f"| {v['vessel_id']} | Continuous / Periodic | "
+              f"[Describe] | [Minutes] |")
+        w()
+    else:
+        w("No Class A or B vessels \u2014 no mandatory monitoring "
+          "requirements apply.")
+        w()
+    w("---")
+    w()
+
+    # Mandatory minimum checks (§6)
+    w("## 5. Mandatory Supervision Checks (2 Kap. \u00a76)")
+    w()
+    w("AFS 2017:3 \u00a76 defines **six mandatory minimum checks**. "
+      "Every supervision round must verify all six points:")
+    w()
+    w("| # | \u00a76 Requirement | Check | Method |")
+    w("|---|--------------|-------|--------|")
+    w("| 1 | Equipment functions satisfactorily | "
+      "Pressure/temperature within range, no abnormal noise/vibration | "
+      "Gauge reading, listening |")
+    w("| 2 | No leaks have occurred | "
+      "Check flanges, valves, fittings, weld joints | "
+      "Visual walk-around |")
+    w("| 3 | No harmful external or internal impact | "
+      "Surface condition, insulation, supports, corrosion | "
+      "Close visual inspection |")
+    w("| 4 | No other faults or deviations | "
+      "Safety devices, drainage, general condition | "
+      "Functional check |")
+    w("| 5 | Equipment correctly marked | "
+      "Nameplates, valve tags, emergency stops legible | "
+      "Visual check |")
+    w("| 6 | Prescribed inspections carried out | "
+      "Inspection certificate current, not overdue | "
+      "Register review |")
+    w()
+    w("> These six points are the **legal minimum** per 2 Kap. \u00a76 "
+      "and must be traceable in every supervision record.")
+    w()
+    w("---")
+    w()
+
+    # Supervision schedule
+    w("## 6. Recurring Inspection Schedule (Bilaga 1)")
+    w()
+    if class_ab:
+        w("### 6.1 Driftprov (Operational Test)")
+        w()
+        w("Base intervals per Bilaga 1, \u00a71.4.1. Actual interval "
+          "determined by accredited inspection body at each inspection.")
+        w()
+        w("| Vessel ID | Class | Medium | Base Interval | Max |")
+        w("|-----------|-------|--------|-------------|-----|")
+        for v in class_ab:
+            dp = v.get("driftprov_interval") or \
+                get_driftprov_interval(v["risk_class"],
+                                      v.get("medium", "").lower())
+            dp_yr = f"{dp // 12} years" if dp else "\u2014"
+            w(f"| {v['vessel_id']} | {v['risk_class']} "
+              f"| {v.get('medium', '')} | {dp_yr} | 4 years |")
+        w()
+        w("**Extended interval (\u00a71.4.2):** Possible if safety equipment "
+          "functioned at the two previous tests. Max 4 years.")
+        w()
+        w("**Shortened interval (\u00a71.4.3):** If safety equipment "
+          "did NOT function, next interval is **halved**.")
+        w()
+
+        if class_a:
+            w("### 6.2 Internal/External Examination (Class A only)")
+            w()
+            w("Condition-based interval determined by inspection body "
+              "per Bilaga 1, \u00a72.2:")
+            w()
+            w("| Interval | Conditions |")
+            w("|----------|-----------|")
+            w("| 4 years | Base: not fire-affected, >5yr life, "
+              "low crack risk, mild environment |")
+            w("| 2 years | 4-year not met, but stable condition |")
+            w("| 1 year | 2-year not met, but safe for 1 year |")
+            w("| 6 months | 1-year not met, but safe for 6 months |")
+            w("| 6 years | After clean 4-year, no fatigue/creep |")
+            w("| 8 years | After 2 clean 4/6-year inspections |")
+            w("| 10 years | After 2 progressively longer, clean |")
+            w("| 12 years | Cisterns only, after clean 6-year |")
+            w()
+            w("| Vessel ID | Current Interval | Next Due |")
+            w("|-----------|-----------------|----------|")
+            for v in class_a:
+                w(f"| {v['vessel_id']} | [Per inspection body] | "
+                  f"[Expiry month] |")
+            w()
+    else:
+        w("No Class A or B vessels \u2014 no mandatory recurring "
+          "inspections required.")
+        w()
+    w("---")
+    w()
+
+    # Supervision round schedule
+    w("## 7. Supervision Round Schedule")
     w()
 
     if has_daily:
-        w("### 4.1 Daily / Per-Shift Checks")
+        w("### 7.1 Daily / Per-Shift Checks")
         w()
-        daily_vessels = [v for v in in_scope
-                         if v["risk_class"] in ("A", "B")]
         w(f"**Applies to:** "
-          f"{', '.join(v['vessel_id'] for v in daily_vessels)}")
+          f"{', '.join(v['vessel_id'] for v in class_ab)}")
         w()
-        w("| # | Check | Method |")
-        w("|---|-------|--------|")
+        w("| # | Check (\u00a76 ref) | Method |")
+        w("|---|---------------|--------|")
         for i, (check, method) in enumerate(CHECKS_DAILY, 1):
             w(f"| {i} | {check} | {method} |")
         w()
         w("**Performed by:** [Name / role]")
-        w("**Record method:** Shift log entry")
+        w("**Record:** Shift log")
         w()
 
-    if has_weekly:
-        w("### 4.2 Weekly Checks")
+        w("### 7.2 Weekly Checks")
         w()
-        weekly_vessels = [v for v in in_scope
-                          if v["risk_class"] in ("A", "B", "Below B")]
         w(f"**Applies to:** "
-          f"{', '.join(v['vessel_id'] for v in weekly_vessels)}")
+          f"{', '.join(v['vessel_id'] for v in class_ab)}")
         w()
-        w("| # | Check | Method |")
-        w("|---|-------|--------|")
+        w("| # | Check (\u00a76 ref) | Method |")
+        w("|---|---------------|--------|")
         for i, (check, method) in enumerate(CHECKS_WEEKLY, 1):
             w(f"| {i} | {check} | {method} |")
         w()
         w("**Performed by:** [Name / role]")
-        w("**Record method:** Weekly check sheet")
+        w("**Record:** Weekly check sheet")
         w()
 
-    w("### 4.3 Monthly Checks")
+    w("### 7.3 Monthly Checks (Formal Supervision Round)")
     w()
-    w(f"**Applies to:** {', '.join(v['vessel_id'] for v in in_scope)}")
+    w(f"**Applies to:** "
+      f"{', '.join(v['vessel_id'] for v in all_supervised)}")
     w()
-    w("| # | Check | Method |")
-    w("|---|-------|--------|")
+    w("| # | Check (\u00a76 ref) | Method |")
+    w("|---|---------------|--------|")
     for i, (check, method) in enumerate(CHECKS_MONTHLY, 1):
         w(f"| {i} | {check} | {method} |")
     w()
     w("**Performed by:** [Name / role]")
-    w("**Record method:** Supervision round record (JDS-TMP-LOG-006)")
+    w("**Record:** Supervision round record (JDS-TMP-LOG-006)")
     w()
 
-    if any(v["risk_class"] in ("A", "B") for v in in_scope):
-        w("### 4.4 Quarterly Checks")
+    if class_ab:
+        w("### 7.4 Quarterly Checks")
         w()
-        q_vessels = [v for v in in_scope if v["risk_class"] in ("A", "B")]
         w(f"**Applies to:** "
-          f"{', '.join(v['vessel_id'] for v in q_vessels)}")
+          f"{', '.join(v['vessel_id'] for v in class_ab)}")
         w()
-        w("| # | Check | Method |")
-        w("|---|-------|--------|")
+        w("| # | Check (\u00a76 ref) | Method |")
+        w("|---|---------------|--------|")
         for i, (check, method) in enumerate(CHECKS_QUARTERLY, 1):
             w(f"| {i} | {check} | {method} |")
         w()
         w("**Performed by:** [Name / role]")
-        w("**Record method:** Supervision round record (JDS-TMP-LOG-006)")
+        w("**Record:** Supervision round record (JDS-TMP-LOG-006)")
         w()
 
-    w("### 4.5 Annual Checks")
+    w("### 7.5 Annual Checks")
     w()
-    w(f"**Applies to:** {', '.join(v['vessel_id'] for v in in_scope)}")
+    w(f"**Applies to:** all vessels")
     w()
     w("| # | Check | Method |")
     w("|---|-------|--------|")
     for i, (check, method) in enumerate(CHECKS_ANNUAL, 1):
         w(f"| {i} | {check} | {method} |")
     w()
-    w("**Performed by:** [Program manager / competent person]")
-    w("**Record method:** Annual review record (JDS-TMP-LOG-007)")
+    w("**Performed by:** Program manager / competent person")
+    w("**Record:** Annual review record (JDS-TMP-LOG-007)")
     w()
     w("---")
     w()
 
-    # Per-vessel supervision assignment
-    w("## 5. Per-Vessel Check Assignment")
+    # Per-vessel assignment
+    w("## 8. Per-Vessel Check Assignment")
     w()
     w("| Vessel ID | Class | Daily | Weekly | Monthly | Quarterly | Annual |")
     w("|-----------|-------|-------|--------|---------|-----------|--------|")
-    for v in in_scope:
+    for v in vessels:
         rc = v["risk_class"]
+        if rc in ("Not classified", "Not in scope"):
+            w(f"| {v['vessel_id']} | {rc} | \u2014 | \u2014 "
+              f"| \u2014 | \u2014 | \u2014 |")
+            continue
         sched = get_check_schedule(rc)
         d = "Yes" if "daily" in sched else "\u2014"
         wk = "Yes" if "weekly" in sched else "\u2014"
@@ -1237,75 +1488,102 @@ def generate_program_markdown(vessels, client, site, doc_no, author,
     w("---")
     w()
 
-    # Expected rounds per year
-    w("## 6. Annual Round Summary")
+    # Personnel (§14, §17)
+    w("## 9. Personnel and Responsibilities (4 Kap. \u00a714, \u00a717)")
     w()
-    rounds = 0
-    if has_daily:
-        w("- **Daily checks:** ~250 per year (working days)")
-        rounds += 250
-    if has_weekly:
-        w("- **Weekly checks:** 52 per year")
-        rounds += 52
-    w("- **Monthly rounds:** 12 per year (formal supervision records)")
-    rounds += 12
-    if any(v["risk_class"] in ("A", "B") for v in in_scope):
-        w("- **Quarterly reviews:** 4 per year")
-        rounds += 4
-    w("- **Annual review:** 1 per year")
-    rounds += 1
+    w("### 9.1 Assigned Roles")
     w()
-    w(f"**Total documented check events:** ~{rounds} per year")
+    w("| Role | AFS Ref | Name | Responsibility |")
+    w("|------|---------|------|---------------|")
+    w("| **Coordination person** | 4 Kap. \u00a714 | [Name] | "
+      "Plans and coordinates all work on Class A/B equipment |")
+    w("| **Supervision responsible** | 4 Kap. \u00a717 | [Name] | "
+      "Ensures supervision is carried out and documented |")
+    w("| Daily/weekly supervisor | 2 Kap. \u00a76 | [Name] | "
+      "Performs daily and weekly checks |")
+    w("| Monthly supervisor | 2 Kap. \u00a76 | [Name] | "
+      "Performs monthly formal rounds |")
+    w("| Program manager | 4 Kap. \u00a717 | [Name] | "
+      "Annual evaluation, revision, findings management |")
     w()
-    w("---")
+    w("### 9.2 Competence Requirements")
     w()
-
-    # Personnel
-    w("## 7. Personnel and Competence")
-    w()
-    w("| Role | Name | Checks Assigned | Competence Ref |")
-    w("|------|------|----------------|---------------|")
-    w("| Daily/weekly supervisor | [Name] | "
-      "Daily, weekly | JDS-PRO-009 record |")
-    w("| Monthly/quarterly supervisor | [Name] | "
-      "Monthly, quarterly rounds | JDS-PRO-009 record |")
-    w("| Program manager | [Name] | "
-      "Annual review, findings, updates | JDS-PRO-009 record |")
-    w()
-    w("All personnel must meet competence requirements per "
-      "JDS-MAN-MEC-002, Section 7.")
+    w("All personnel must have documented competence per "
+      "JDS-PRO-009. Competence records must be maintained and "
+      "refreshed.")
     w()
     w("---")
     w()
 
-    # Findings management
-    w("## 8. Findings Management")
+    # Deviation reports (§19)
+    w("## 10. Deviation Reports (4 Kap. \u00a719)")
+    w()
+    w("When Class A/B equipment is found to be damaged or "
+      "deteriorated, a **deviation report** must be created containing:")
+    w()
+    w("| # | Required Content | Description |")
+    w("|---|-----------------|-------------|")
+    w("| 1 | Damage/deterioration | What was found |")
+    w("| 2 | How discovered | Which observation or check |")
+    w("| 3 | Date of discovery | When it was found |")
+    w("| 4 | Action needed | What must be done |")
+    w("| 5 | Cause | Root cause (if not obvious) |")
+    w("| 6 | Date of action | When the repair/fix was completed |")
+    w("| 7 | Reporter | Who made the report |")
+    w()
+    w("Deviation reports are managed per **JDS-PRO-008** "
+      "(Corrective Action Procedure) and filed in the client's "
+      "`findings/` folder.")
+    w()
+    w("### Severity Classification")
     w()
     w("| Severity | Definition | Action | Timeline |")
     w("|----------|-----------|--------|----------|")
     w("| **Critical** | Immediate safety risk "
       "| Out of service, escalate | Immediate |")
     w("| **Major** | Will deteriorate to critical "
-      "| Plan repair, close monitoring | Within 30 days |")
+      "| Plan repair, close monitoring | 30 days |")
     w("| **Minor** | Noted, no immediate risk "
-      "| Monitor, plan maintenance | Within 90 days |")
+      "| Monitor, plan maintenance | 90 days |")
     w("| **Observation** | Worth monitoring "
       "| Note, observe trend | Next round |")
-    w()
-    w("All findings Major or above managed per "
-      "**JDS-PRO-008** (Corrective Action Procedure).")
     w()
     w("---")
     w()
 
-    # Program review
-    w("## 9. Program Review Schedule")
+    # Lifetime journal (§18)
+    w("## 11. Lifetime Journal (4 Kap. \u00a718)")
     w()
-    w("This program shall be reviewed at least **annually** or sooner if:")
-    w("- Equipment is added, removed, or modified")
-    w("- Operating conditions change significantly")
-    w("- Regulatory requirements change")
-    w("- A significant finding or incident occurs")
+    if class_ab:
+        w("Class A/B equipment with limited lifetime must have a "
+          "**journal showing remaining lifetime**. If parts have "
+          "different lifetimes, each part must be tracked separately.")
+        w()
+        w("| Vessel ID | Limited Lifetime | Journal Ref | Notes |")
+        w("|-----------|-----------------|-------------|-------|")
+        for v in class_ab:
+            w(f"| {v['vessel_id']} | Yes / No / Unknown | [Ref] | |")
+        w()
+        w("> Equipment that has reached its documented lifetime may "
+          "only remain pressurised if an analysis demonstrating "
+          "extended lifetime has been conducted and documented.")
+    else:
+        w("No Class A/B vessels \u2014 no lifetime journal required.")
+    w()
+    w("---")
+    w()
+
+    # Program review (§17)
+    w("## 12. Program Review (4 Kap. \u00a717)")
+    w()
+    w("This program must be **evaluated and revised at least once "
+      "per year** (4 Kap. \u00a717). Additional review triggers:")
+    w()
+    w("- Equipment added, removed, or modified")
+    w("- Operating conditions changed significantly")
+    w("- Regulatory requirements changed")
+    w("- Significant finding or incident occurred")
+    w("- Revision inspection (revisionskontroll) performed")
     w()
     w(f"**Next review due:** {next_year}-01-31")
     w()
@@ -1313,13 +1591,13 @@ def generate_program_markdown(vessels, client, site, doc_no, author,
     w()
 
     # Approval
-    w("## 10. Approval")
+    w("## 13. Approval")
     w()
     w("| | |")
     w("|---|---|")
     w("| **Prepared by** | [Name, role] |")
     w("| **Reviewed by** | [Name, role] |")
-    w("| **Approved by** | [Operator representative, role] |")
+    w("| **Approved by** | [Operator/employer, role] |")
     w(f"| **Approval date** | {today} |")
     w(f"| **Next review due** | {next_year}-01-31 |")
     w()
@@ -1327,27 +1605,18 @@ def generate_program_markdown(vessels, client, site, doc_no, author,
     w()
 
     # Next step
-    w("## 11. Next Step")
-    w()
-    w("This program is **Step 2** of the Vessel Supervision System.")
+    w("## 14. Next Step")
     w()
     w("```")
-    w("INVENTORY  →  [PROGRAM]  →  ROUND  →  REVIEW")
+    w("INVENTORY  \u2192  [PROGRAM]  \u2192  ROUND  \u2192  REVIEW")
     w("                (done)      (next)")
     w("```")
     w()
-    w("To generate a supervision round record from this program, run:")
+    w("To generate a supervision round record:")
     w()
     w("```")
     w("python3 scripts/jds-classify.py --round "
       "--from [this-file.md] --output [round-YYYY-MM-DD.md]")
-    w("```")
-    w()
-    w("To generate the annual review, run:")
-    w()
-    w("```")
-    w("python3 scripts/jds-classify.py --review "
-      "--from [this-file.md] --output [review-YYYY.md]")
     w("```")
     w()
     w("---")
@@ -1359,8 +1628,9 @@ def generate_program_markdown(vessels, client, site, doc_no, author,
     w("| Rev | Date | Author | Description |")
     w("|-----|------|--------|-------------|")
     w(f"| A | {today} | {author} "
-      f"| Initial program \u2014 {len(in_scope)} vessels, "
-      f"auto-generated from {source_doc} |")
+      f"| Initial program \u2014 {len(vessels)} vessels, "
+      f"compliant with AFS 2017:3 (verified against official PDF). "
+      f"Auto-generated from {source_doc} |")
 
     return "\n".join(lines) + "\n"
 

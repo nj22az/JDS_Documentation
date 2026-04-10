@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-LOG-MEC-006 |
-| **Revision** | A |
+| **Revision** | B |
 | **Date** | 2026-04-10 |
 | **Status** | CURRENT |
 | **Author** | N. Johansson |
@@ -23,10 +23,10 @@ This register is the master inventory of all pressurised vessels at Gothenburg W
 
 | Risk Class | Count | Inspection Regime |
 |-----------|-------|-------------------|
-| **Class A** | 4 | Accredited body: ext. 24 mo, int. 72 mo, press. test 144 mo |
-| **Class B** | 2 | Accredited (int.) / own (ext.): ext. 36 mo, int. 72 mo |
+| **Class A** | 3 | Accredited body: ext. 24 mo, int. 72 mo, press. test 144 mo |
+| **Class B** | 1 | Accredited (int.) / own (ext.): ext. 36 mo, int. 72 mo |
 | **Below B** | 0 | Own inspection: ext. 72 mo |
-| **Simple PV** | 1 | No mandatory periodic inspection |
+| **Simple PV** | 0 | No mandatory periodic inspection |
 | **Not classified** | 0 | Below regulatory threshold |
 | **Total** | **7** | |
 
@@ -66,13 +66,13 @@ This register is the master inventory of all pressurised vessels at Gothenburg W
 
 | Vessel ID | Fluid Grp | PED Cat. | Risk Class | Inspector | CE | DoC |
 |-----------|----------|----------|-----------|-----------|----|----|
-| PV-001 | 2 | IV | **A** | Accredited body | Yes | Yes |
-| PV-002 | 2 | II | **B** | Accredited body (int.) / Own (ext.) | Yes | Yes |
-| PV-003 | 2 | IV | **A** | Accredited body | Yes | Yes |
-| PV-004 | 1 | IV | **A** | Accredited body | Yes | Yes |
-| PV-005 | 2 | II | **B** | Accredited body (int.) / Own (ext.) | Yes | Yes |
-| PV-006 | 2 | Art. 4.3 | **Simple PV** | N/A | Yes | Yes |
-| PV-007 | 2 | III | **A** | Accredited body | Yes | No |
+| PV-001 | 2 | IV | **A** | Accredited body (Type A) | Yes | Yes |
+| PV-002 | 2 | II | **Exempt (air/N2)** | N/A | Yes | Yes |
+| PV-003 | 2 | IV | **A** | Accredited body (Type A) | Yes | Yes |
+| PV-004 | 1 | IV | **A** | Accredited body (Type A) | Yes | Yes |
+| PV-005 | 2 | II | **B** | Accredited body (Type A or B) | Yes | Yes |
+| PV-006 | 2 | Art. 4.3 | **Below threshold** | N/A | Yes | Yes |
+| PV-007 | 2 | II | **Exempt (air/N2)** | N/A | Yes | No |
 
 ---
 
@@ -82,13 +82,13 @@ This register is the master inventory of all pressurised vessels at Gothenburg W
 
 | Vessel ID | Ext. (mo) | Int. (mo) | Press. (mo) | Last Insp. | Next Ext. | Next Int. |
 |-----------|----------|----------|------------|-----------|----------|----------|
-| PV-001 | 24 | 72 | 144 | 2024-06-15 | 2026-06-15 | 2030-06-15 |
-| PV-002 | 36 | 72 | — | 2025-01-20 | 2028-01-20 | 2031-01-20 |
-| PV-003 | 24 | 72 | 144 | 2023-09-01 | 2025-09-01 | 2029-09-01 |
-| PV-004 | 24 | 72 | 144 | 2025-03-10 | 2027-03-10 | 2031-03-10 |
-| PV-005 | 36 | 72 | — | 2024-11-30 | 2027-11-30 | 2030-11-30 |
+| PV-001 | 48 | 48 | — | 2024-06-15 | 2028-06-15 | 2028-06-15 |
+| PV-002 | — | — | — | 2025-01-20 | — | — |
+| PV-003 | 24 | 48 | — | 2023-09-01 | 2025-09-01 | 2027-09-01 |
+| PV-004 | 24 | 48 | — | 2025-03-10 | 2027-03-10 | 2029-03-10 |
+| PV-005 | 24 | — | — | 2024-11-30 | 2026-11-30 | — |
 | PV-006 | — | — | — | — | — | — |
-| PV-007 | 24 | 72 | 144 | 2023-04-22 | 2025-04-22 | 2029-04-22 |
+| PV-007 | — | — | — | 2023-04-22 | — | — |
 
 
 ### OVERDUE INSPECTIONS
@@ -96,7 +96,6 @@ This register is the master inventory of all pressurised vessels at Gothenburg W
 | Vessel ID | Type | Was Due | Days Overdue |
 |-----------|------|---------|-------------|
 | PV-003 | External | 2025-09-01 | **221** |
-| PV-007 | External | 2025-04-22 | **353** |
 
 
 ---
@@ -106,37 +105,55 @@ This register is the master inventory of all pressurised vessels at Gothenburg W
 | Device ID | Type | Protects | Set Pressure (bar) | Last Test | Next Test |
 |-----------|------|----------|------------------- |-----------|-----------|
 | SV-001 | Safety valve | PV-001 | | | |
-| SV-002 | Safety valve | PV-002 | | | |
 | SV-003 | Safety valve | PV-003 | | | |
 | SV-004 | Safety valve | PV-004 | | | |
 | SV-005 | Safety valve | PV-005 | | | |
-| SV-007 | Safety valve | PV-007 | | | |
 
 ---
 
 ## 8. Documentation Checklist
 
-### Vessels PV-001 to PV-004
+### Vessels PV-001 to PV-006
 
-| Check | PV-001 | PV-002 | PV-003 | PV-004 |
-|-------|--------|--------|--------|--------|
-| Registered in inventory | | | | |
-| Nameplate photo on file | | | | |
-| EU DoC on file | | | | |
-| Risk class confirmed | | | | |
-| Safety devices documented | | | | |
-| Current certificate on file | | | | |
+| Check | PV-001 | PV-002 | PV-003 | PV-004 | PV-005 | PV-006 |
+|-------|---|---|---|---|---|---|
+| Registered in inventory | | | | | | |
+| Nameplate photo on file | | | | | | |
+| EU DoC on file | | | | | | |
+| Risk class confirmed | | | | | | |
+| Safety devices documented | | | | | | |
+| Current certificate on file | | | | | | |
 
-### Vessels PV-005 to PV-007
+### Vessels PV-007 to PV-007
 
-| Check | PV-005 | PV-006 | PV-007 |
-|-------|--------|--------|--------|
-| Registered in inventory | | | |
-| Nameplate photo on file | | | |
-| EU DoC on file | | | |
-| Risk class confirmed | | | |
-| Safety devices documented | | | |
-| Current certificate on file | | | |
+| Check | PV-007 |
+|-------|---|
+| Registered in inventory | |
+| Nameplate photo on file | |
+| EU DoC on file | |
+| Risk class confirmed | |
+| Safety devices documented | |
+| Current certificate on file | |
+
+---
+
+## 9. Next Step
+
+This inventory is **Step 1** of the Vessel Supervision System.
+
+```
+[INVENTORY]  →  PROGRAM  →  ROUND  →  REVIEW
+ (you are       (next)
+  here)
+```
+
+To generate the supervision program from this inventory, run:
+
+```
+python3 scripts/jds-classify.py --program --from [this-file.md] --output [program.md]
+```
+
+The script will read this inventory and create a supervision program pre-filled with all vessels, risk-based check schedules, and inspection intervals.
 
 ---
 

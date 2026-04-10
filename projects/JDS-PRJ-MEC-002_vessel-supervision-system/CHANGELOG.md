@@ -35,3 +35,8 @@ Each entry shows:
 | 2026-04-10 | jds-classify.py --program | — | N. Johansson | Document chain: reads inventory, generates pre-filled supervision program with risk-based check schedules |
 | 2026-04-10 | jds-classify.py --round | — | N. Johansson | Document chain: reads program, generates pre-filled supervision round record with per-vessel checks |
 | 2026-04-10 | jds-classify.py --review | — | N. Johansson | Document chain: reads program, generates pre-filled annual review with equipment register and metrics |
+| 2026-04-10 | JDS-RPT-MEC-003 (Regulatory Summary) | B | N. Johansson | Complete rewrite verified against official AFS 2017:3 PDF. Corrected: driftprov intervals (Bilaga 1 §1.4.1), condition-based examination intervals (§2.2), air/nitrogen Class B exemption (§10), deviation reports (§19), lifetime journal (§18), monitoring (§16), sanction fees |
+| 2026-04-10 | jds-classify.py (Classification Logic) | — | N. Johansson | Fixed: air/nitrogen Class B exemption per §10, refrigerant exemption, driftprov intervals per Bilaga 1 (type-dependent: 2-4 years), medium passed to classifier |
+| 2026-04-10 | jds-classify.py --program | — | N. Johansson | Rewritten for full §17 compliance: regulatory basis traceability table, §6 mandatory checks, §14 coordination person, §16 monitoring, §18 lifetime journal, §19 deviation reports, Bilaga 1 driftprov + examination tables, sanction fees |
+| 2026-04-10 | JDS-LOG-MEC-006 (Example Inventory) | B | N. Johansson | Regenerated with corrected classification: PV-002 and PV-007 now Exempt (air/N2 per §10) |
+| 2026-04-10 | JDS-LOG-MEC-007 (Example Program) | A | N. Johansson | Generated from corrected inventory — fully §17-compliant supervision program |
