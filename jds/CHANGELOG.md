@@ -18,9 +18,9 @@ All changes to the JDS documentation system itself are recorded here. This provi
 - **JDS-TMP-LOG-008**: Equipment Inventory Template — blank inventory with auto-classification reference and CSV quick-start instructions.
 - **JDS-LOG-MEC-006**: Example inventory (Gothenburg Workshop) — 7 vessels auto-classified: 4 Class A, 2 Class B, 1 Simple PV, with overdue inspections flagged.
 
-### Added — Vessel Classification Script
-- **`scripts/jds-classify.py`**: Automatic vessel classification per AFS 2017:3 (consolidated). Three modes: interactive (guided input), quick (single vessel), CSV batch (generates complete JDS inventory). Calculates PS x V, determines fluid group, assigns risk class and PED category, computes inspection intervals, flags overdue inspections. Supports 30+ media with automatic Group 1/2 lookup.
-- **CLAUDE.md** updated with jds-classify.py in automation tools table.
+### Added — Vessel Classification Script & Document Chain
+- **`scripts/jds-classify.py`**: Automatic vessel classification per AFS 2017:3 (consolidated). Six modes: interactive, quick, CSV batch, `--program` (from inventory), `--round` (from program), `--review` (from program). Each document is self-contained and links to the next step in the chain: INVENTORY → PROGRAM → ROUND → REVIEW.
+- **CLAUDE.md** updated with all jds-classify.py modes in automation tools table.
 
 ---
 

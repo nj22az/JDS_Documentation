@@ -6,10 +6,27 @@ Classifies pressurised vessels per AFS 2017:3 (consolidated with AFS 2019:1,
 AFS 2020:10, AFS 2022:2) and generates JDS-compliant inventory documents with
 automatic risk classification and inspection interval calculation.
 
+Document chain — each step reads the previous document and generates the next:
+
+    INVENTORY  →  PROGRAM  →  ROUND  →  REVIEW
+    (Step 1)      (Step 2)    (Step 3)   (Step 4)
+
 Usage:
-    Interactive:  python3 scripts/jds-classify.py
-    From CSV:     python3 scripts/jds-classify.py --csv vessels.csv [--output inventory.md]
-    Quick check:  python3 scripts/jds-classify.py --quick --ps 11 --volume 1000
+    Step 1 — Inventory:
+      python3 scripts/jds-classify.py --csv vessels.csv --output inventory.md
+      python3 scripts/jds-classify.py  (interactive)
+
+    Step 2 — Supervision Program (from inventory):
+      python3 scripts/jds-classify.py --program --from inventory.md
+
+    Step 3 — Supervision Round (from program):
+      python3 scripts/jds-classify.py --round --from program.md
+
+    Step 4 — Annual Review (from program):
+      python3 scripts/jds-classify.py --review --from program.md
+
+    Quick classification:
+      python3 scripts/jds-classify.py --quick --ps 11 --volume 1000
 
 Part of JDS-PRJ-MEC-002 (Vessel Supervision System).
 """
@@ -180,6 +197,297 @@ def calculate_next_due(last_date, interval_months):
     if not last_date or not interval_months:
         return None
     return add_months(last_date, interval_months)
+
+
+# ---------------------------------------------------------------------------
+# Markdown table parser — reads data from generated JDS documents
+# ---------------------------------------------------------------------------
+
+def parse_table_row(line):
+    """Parse a markdown table row into a list of cell values."""
+    line = line.strip()
+    if line.startswith("|"):
+        line = line[1:]
+    if line.endswith("|"):
+        line = line[:-1]
+    return [cell.strip() for cell in line.split("|")]
+
+
+def is_separator_row(line):
+    """Check if a line is a markdown table separator (|---|---|)."""
+    return all(c in "-| :" for c in line.strip())
+
+
+def extract_tables(filepath):
+    """Extract all markdown tables from a file as list of (headers, rows)."""
+    with open(filepath, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    tables = []
+    i = 0
+    while i < len(lines):
+        line = lines[i].strip()
+        # Look for table header: line with | that is followed by separator
+        if (line.startswith("|") and i + 1 < len(lines)
+                and is_separator_row(lines[i + 1])):
+            headers = parse_table_row(line)
+            i += 2  # skip header and separator
+            rows = []
+            while i < len(lines) and lines[i].strip().startswith("|"):
+                if not is_separator_row(lines[i]):
+                    row = parse_table_row(lines[i])
+                    # Pad row to match header length
+                    while len(row) < len(headers):
+                        row.append("")
+                    rows.append(dict(zip(headers, row)))
+                i += 1
+            tables.append((headers, rows))
+        else:
+            i += 1
+    return tables
+
+
+def extract_metadata(filepath):
+    """Extract JDS metadata block (key-value pairs) from a document."""
+    meta = {}
+    with open(filepath, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if line.startswith("| **") and "|" in line[3:]:
+                parts = parse_table_row(line)
+                if len(parts) >= 2:
+                    key = parts[0].replace("**", "").strip()
+                    val = parts[1].replace("**", "").strip()
+                    if key and val:
+                        meta[key] = val
+    return meta
+
+
+def parse_inventory_file(filepath):
+    """
+    Parse a JDS inventory document and return vessel data.
+
+    Returns (metadata_dict, list_of_vessel_dicts).
+    """
+    meta = extract_metadata(filepath)
+    tables = extract_tables(filepath)
+
+    # Build vessel dict by joining tables on Vessel ID
+    vessels_by_id = {}
+
+    for headers, rows in tables:
+        for row in rows:
+            vid = row.get("Vessel ID", "").strip()
+            if not vid or vid.startswith("—") or vid == "":
+                continue
+            if vid not in vessels_by_id:
+                vessels_by_id[vid] = {"vessel_id": vid}
+            v = vessels_by_id[vid]
+
+            # Identification table
+            if "Description" in row:
+                v["description"] = row.get("Description", "")
+            if "Location" in row:
+                v["location"] = row.get("Location", "")
+            if "Manufacturer" in row:
+                v["manufacturer"] = row.get("Manufacturer", "")
+            if "Year" in row:
+                v["year"] = row.get("Year", "")
+            if "Serial No." in row:
+                v["serial"] = row.get("Serial No.", "")
+
+            # Technical data table
+            if "PS (bar)" in row:
+                try:
+                    v["ps"] = float(row["PS (bar)"])
+                except (ValueError, TypeError):
+                    v["ps"] = 0
+            if "Volume (L)" in row:
+                try:
+                    v["volume"] = float(row["Volume (L)"].replace(",", ""))
+                except (ValueError, TypeError):
+                    v["volume"] = 0
+            if "Medium" in row:
+                v["medium"] = row.get("Medium", "")
+
+            # Classification table (handles both inventory and program formats)
+            if "Risk Class" in row:
+                rc = row.get("Risk Class", "").replace("**", "").strip()
+                v["risk_class"] = rc
+            if "Class" in row and "risk_class" not in v:
+                rc = row.get("Class", "").replace("**", "").strip()
+                if rc and rc not in ("", "Class"):
+                    v["risk_class"] = rc
+            if "Fluid Grp" in row:
+                try:
+                    v["fluid_group"] = int(row["Fluid Grp"])
+                except (ValueError, TypeError):
+                    v["fluid_group"] = 2
+            if "PED Cat." in row:
+                v["ped_category"] = row.get("PED Cat.", "")
+            if "Inspector" in row:
+                v["inspector"] = row.get("Inspector", "")
+
+            # Inspection schedule table
+            if "Ext. (mo)" in row:
+                v["intervals"] = {
+                    "external": _parse_int(row.get("Ext. (mo)")),
+                    "internal": _parse_int(row.get("Int. (mo)")),
+                    "pressure_test": _parse_int(row.get("Press. (mo)")),
+                }
+            if "Last Insp." in row:
+                v["last_inspection"] = parse_date(row.get("Last Insp.", ""))
+            if "Next Ext." in row:
+                v["next_external"] = parse_date(row.get("Next Ext.", ""))
+
+    # Ensure all vessels have required fields with defaults
+    vessels = []
+    for vid in sorted(vessels_by_id.keys()):
+        v = vessels_by_id[vid]
+        v.setdefault("description", "")
+        v.setdefault("location", "")
+        v.setdefault("manufacturer", "")
+        v.setdefault("year", "")
+        v.setdefault("serial", "")
+        v.setdefault("ps", 0)
+        v.setdefault("volume", 0)
+        v.setdefault("medium", "")
+        v.setdefault("risk_class", "")
+        v.setdefault("fluid_group", 2)
+        v.setdefault("ped_category", "")
+        v.setdefault("inspector", "")
+        # If intervals not parsed from table, derive from risk class
+        if "intervals" not in v and v.get("risk_class"):
+            v["intervals"] = get_intervals(v["risk_class"])
+        v.setdefault("intervals",
+                      {"external": None, "internal": None, "pressure_test": None})
+        # If inspector not set, derive from risk class
+        if not v.get("inspector") and v.get("risk_class"):
+            v["inspector"] = get_inspector(v["risk_class"])
+        v.setdefault("last_inspection", None)
+        v.setdefault("next_external", None)
+        v["psv"] = v["ps"] * v["volume"]
+        vessels.append(v)
+
+    return meta, vessels
+
+
+def _parse_int(s):
+    """Parse string to int, returning None for non-numeric."""
+    if not s:
+        return None
+    s = s.strip().replace(",", "")
+    if s in ("\u2014", "—", "-", "N/A", ""):
+        return None
+    try:
+        return int(s)
+    except ValueError:
+        return None
+
+
+def parse_program_file(filepath):
+    """
+    Parse a JDS supervision program document.
+
+    Returns (metadata_dict, list_of_vessel_dicts).
+    Reads the equipment register summary table from Section 2.
+    """
+    meta = extract_metadata(filepath)
+    tables = extract_tables(filepath)
+
+    vessels = []
+    for headers, rows in tables:
+        if "Vessel ID" in headers and "Class" in headers:
+            for row in rows:
+                vid = row.get("Vessel ID", "").strip()
+                if not vid or vid.startswith("—"):
+                    continue
+                risk_class = row.get("Class", "").replace("**", "").strip()
+                vessels.append({
+                    "vessel_id": vid,
+                    "description": row.get("Description", ""),
+                    "location": row.get("Location", ""),
+                    "risk_class": risk_class,
+                    "medium": row.get("Medium", ""),
+                    "ps": 0, "volume": 0, "psv": 0,
+                    "fluid_group": 2,
+                    "intervals": get_intervals(risk_class),
+                })
+            break  # use the first matching table
+
+    return meta, vessels
+
+
+# ---------------------------------------------------------------------------
+# Check schedule definitions per risk class
+# ---------------------------------------------------------------------------
+
+CHECKS_DAILY = [
+    ("Pressure gauge within normal range", "Visual reading"),
+    ("Temperature within design limits", "Visual reading"),
+    ("No audible leaks or unusual noise", "Listening"),
+    ("Control system: no standing alarms", "Control panel check"),
+]
+
+CHECKS_WEEKLY = [
+    ("No visible leaks at flanges, valves, fittings", "Walk-around visual"),
+    ("Safety valves not gagged or blocked", "Visual check"),
+    ("Drain valves functional (operate drain)", "Manual operation"),
+    ("Condensate drainage working", "Visual / operate trap"),
+]
+
+CHECKS_MONTHLY = [
+    ("External surface: no corrosion, dents, cracks", "Close visual"),
+    ("Insulation intact, no moisture indicators", "Visual check"),
+    ("Support and foundation integrity", "Visual check"),
+    ("Safety valve seal intact", "Visual check"),
+    ("Vessel access clear and safe", "Visual check"),
+]
+
+CHECKS_QUARTERLY = [
+    ("Nameplate legible and not obscured", "Visual check"),
+    ("Pressure switch function test", "Simulate / trip test"),
+    ("Paint / coating condition", "Visual check"),
+    ("Review open findings from previous rounds", "Register review"),
+]
+
+CHECKS_ANNUAL = [
+    ("Safety valve function test (lift test)", "On-line or bench test"),
+    ("Equipment register accuracy verification", "Compare to physical"),
+    ("Competence records current", "Record review"),
+    ("Formal inspection schedule review", "Inspection plan review"),
+]
+
+
+def get_check_schedule(risk_class):
+    """Return which check categories apply to a risk class."""
+    if risk_class == "A":
+        return {
+            "daily": CHECKS_DAILY,
+            "weekly": CHECKS_WEEKLY,
+            "monthly": CHECKS_MONTHLY,
+            "quarterly": CHECKS_QUARTERLY,
+            "annual": CHECKS_ANNUAL,
+        }
+    elif risk_class == "B":
+        return {
+            "daily": CHECKS_DAILY[:2],  # gauge + temp only
+            "weekly": CHECKS_WEEKLY,
+            "monthly": CHECKS_MONTHLY,
+            "quarterly": CHECKS_QUARTERLY[:1] + CHECKS_QUARTERLY[2:3],
+            "annual": CHECKS_ANNUAL,
+        }
+    elif risk_class == "Below B":
+        return {
+            "weekly": CHECKS_WEEKLY[:2],  # leak + safety valve
+            "monthly": CHECKS_MONTHLY[:3],  # surface + insulation + support
+            "annual": CHECKS_ANNUAL,
+        }
+    else:  # Simple PV, not classified
+        return {
+            "monthly": CHECKS_MONTHLY[:1],  # surface only
+            "annual": CHECKS_ANNUAL[1:3],  # register + competence
+        }
 
 
 # ---------------------------------------------------------------------------
@@ -698,13 +1006,812 @@ def generate_inventory_markdown(vessels, client, site, doc_no, author):
     w("---")
     w()
 
+    # Next step
+    w("## 9. Next Step")
+    w()
+    w("This inventory is **Step 1** of the Vessel Supervision System.")
+    w()
+    w("```")
+    w("[INVENTORY]  →  PROGRAM  →  ROUND  →  REVIEW")
+    w(" (you are       (next)")
+    w("  here)")
+    w("```")
+    w()
+    w("To generate the supervision program from this inventory, run:")
+    w()
+    w(f"```")
+    w(f"python3 scripts/jds-classify.py --program "
+      f"--from [this-file.md] --output [program.md]")
+    w(f"```")
+    w()
+    w("The script will read this inventory and create a supervision "
+      "program pre-filled with all vessels, risk-based check schedules, "
+      "and inspection intervals.")
+    w()
+    w("---")
+    w()
+
     # Revision history
     w("## Revision History")
     w()
     w("| Rev | Date | Author | Description |")
     w("|-----|------|--------|-------------|")
     w(f"| A | {today} | {author} "
-      f"| Initial inventory — {len(vessels)} vessels classified |")
+      f"| Initial inventory \u2014 {len(vessels)} vessels classified |")
+
+    return "\n".join(lines) + "\n"
+
+
+# ---------------------------------------------------------------------------
+# Program generator — Step 2 (reads inventory, generates program)
+# ---------------------------------------------------------------------------
+
+def generate_program_markdown(vessels, client, site, doc_no, author,
+                              source_doc=""):
+    """Generate a supervision program pre-filled from inventory data."""
+    today = date.today().strftime("%Y-%m-%d")
+    next_year = date.today().year + 1
+    lines = []
+
+    def w(line=""):
+        lines.append(line)
+
+    # Determine which check levels are needed across all vessels
+    all_classes = set(v["risk_class"] for v in vessels)
+    has_daily = any(c in ("A", "B") for c in all_classes)
+    has_weekly = any(c in ("A", "B", "Below B") for c in all_classes)
+
+    # Header
+    w(f"# Supervision Program \u2014 {site}")
+    w()
+    w("| | |")
+    w("|---|---|")
+    w(f"| **Document No.** | {doc_no} |")
+    w("| **Revision** | A |")
+    w(f"| **Date** | {today} |")
+    w("| **Status** | CURRENT |")
+    w(f"| **Author** | {author} |")
+    w("| **Project** | JDS-PRJ-MEC-002 |")
+    w(f"| **Client** | {client} |")
+    w(f"| **Site** | {site} |")
+    w(f"| **Program ID** | SP-[NNN] |")
+    w(f"| **Source** | {source_doc} |")
+    w()
+    w("---")
+    w()
+
+    # Workflow position
+    w("## 1. Document Chain")
+    w()
+    w("```")
+    w("INVENTORY  →  [PROGRAM]  →  ROUND  →  REVIEW")
+    w("(Step 1)       (you are      (next)")
+    w("                here)")
+    w("```")
+    w()
+    w(f"**Source document:** {source_doc}")
+    w()
+    w("This supervision program was **auto-generated** from the equipment "
+      "inventory. All vessels, classifications, and check schedules have been "
+      "pre-filled based on the inventory data.")
+    w()
+    w("---")
+    w()
+
+    # Purpose
+    w("## 2. Purpose and Scope")
+    w()
+    w(f"This document is the ongoing supervision program for all pressurised "
+      f"vessels at {site}. It defines what checks are performed, how often, "
+      f"by whom, and how results are documented. It satisfies AFS 2017:3 "
+      f"Chapter 2, Section 3.")
+    w()
+
+    in_scope = [v for v in vessels
+                if v["risk_class"] not in ("Not classified", "Not in scope")]
+    excluded = [v for v in vessels
+                if v["risk_class"] in ("Not classified", "Not in scope")]
+
+    w(f"**Equipment in scope:** {len(in_scope)} vessels")
+    if excluded:
+        w(f"**Excluded (below threshold):** {len(excluded)} items "
+          f"({', '.join(v['vessel_id'] for v in excluded)})")
+    w()
+    w("---")
+    w()
+
+    # Equipment register summary
+    w("## 3. Equipment Register Summary")
+    w()
+    w("| Vessel ID | Description | Location "
+      "| Class | Medium | Inspector |")
+    w("|-----------|-------------|----------"
+      "|-------|--------|-----------|")
+    for v in in_scope:
+        w(f"| {v['vessel_id']} | {v.get('description', '')} "
+          f"| {v.get('location', '')} "
+          f"| **{v['risk_class']}** | {v.get('medium', '')} "
+          f"| {v.get('inspector', get_inspector(v['risk_class']))} |")
+    w()
+    w("---")
+    w()
+
+    # Check schedules — built from risk class
+    w("## 4. Supervision Schedule")
+    w()
+
+    if has_daily:
+        w("### 4.1 Daily / Per-Shift Checks")
+        w()
+        daily_vessels = [v for v in in_scope
+                         if v["risk_class"] in ("A", "B")]
+        w(f"**Applies to:** "
+          f"{', '.join(v['vessel_id'] for v in daily_vessels)}")
+        w()
+        w("| # | Check | Method |")
+        w("|---|-------|--------|")
+        for i, (check, method) in enumerate(CHECKS_DAILY, 1):
+            w(f"| {i} | {check} | {method} |")
+        w()
+        w("**Performed by:** [Name / role]")
+        w("**Record method:** Shift log entry")
+        w()
+
+    if has_weekly:
+        w("### 4.2 Weekly Checks")
+        w()
+        weekly_vessels = [v for v in in_scope
+                          if v["risk_class"] in ("A", "B", "Below B")]
+        w(f"**Applies to:** "
+          f"{', '.join(v['vessel_id'] for v in weekly_vessels)}")
+        w()
+        w("| # | Check | Method |")
+        w("|---|-------|--------|")
+        for i, (check, method) in enumerate(CHECKS_WEEKLY, 1):
+            w(f"| {i} | {check} | {method} |")
+        w()
+        w("**Performed by:** [Name / role]")
+        w("**Record method:** Weekly check sheet")
+        w()
+
+    w("### 4.3 Monthly Checks")
+    w()
+    w(f"**Applies to:** {', '.join(v['vessel_id'] for v in in_scope)}")
+    w()
+    w("| # | Check | Method |")
+    w("|---|-------|--------|")
+    for i, (check, method) in enumerate(CHECKS_MONTHLY, 1):
+        w(f"| {i} | {check} | {method} |")
+    w()
+    w("**Performed by:** [Name / role]")
+    w("**Record method:** Supervision round record (JDS-TMP-LOG-006)")
+    w()
+
+    if any(v["risk_class"] in ("A", "B") for v in in_scope):
+        w("### 4.4 Quarterly Checks")
+        w()
+        q_vessels = [v for v in in_scope if v["risk_class"] in ("A", "B")]
+        w(f"**Applies to:** "
+          f"{', '.join(v['vessel_id'] for v in q_vessels)}")
+        w()
+        w("| # | Check | Method |")
+        w("|---|-------|--------|")
+        for i, (check, method) in enumerate(CHECKS_QUARTERLY, 1):
+            w(f"| {i} | {check} | {method} |")
+        w()
+        w("**Performed by:** [Name / role]")
+        w("**Record method:** Supervision round record (JDS-TMP-LOG-006)")
+        w()
+
+    w("### 4.5 Annual Checks")
+    w()
+    w(f"**Applies to:** {', '.join(v['vessel_id'] for v in in_scope)}")
+    w()
+    w("| # | Check | Method |")
+    w("|---|-------|--------|")
+    for i, (check, method) in enumerate(CHECKS_ANNUAL, 1):
+        w(f"| {i} | {check} | {method} |")
+    w()
+    w("**Performed by:** [Program manager / competent person]")
+    w("**Record method:** Annual review record (JDS-TMP-LOG-007)")
+    w()
+    w("---")
+    w()
+
+    # Per-vessel supervision assignment
+    w("## 5. Per-Vessel Check Assignment")
+    w()
+    w("| Vessel ID | Class | Daily | Weekly | Monthly | Quarterly | Annual |")
+    w("|-----------|-------|-------|--------|---------|-----------|--------|")
+    for v in in_scope:
+        rc = v["risk_class"]
+        sched = get_check_schedule(rc)
+        d = "Yes" if "daily" in sched else "\u2014"
+        wk = "Yes" if "weekly" in sched else "\u2014"
+        m = "Yes" if "monthly" in sched else "\u2014"
+        q = "Yes" if "quarterly" in sched else "\u2014"
+        a = "Yes" if "annual" in sched else "\u2014"
+        w(f"| {v['vessel_id']} | **{rc}** "
+          f"| {d} | {wk} | {m} | {q} | {a} |")
+    w()
+    w("---")
+    w()
+
+    # Expected rounds per year
+    w("## 6. Annual Round Summary")
+    w()
+    rounds = 0
+    if has_daily:
+        w("- **Daily checks:** ~250 per year (working days)")
+        rounds += 250
+    if has_weekly:
+        w("- **Weekly checks:** 52 per year")
+        rounds += 52
+    w("- **Monthly rounds:** 12 per year (formal supervision records)")
+    rounds += 12
+    if any(v["risk_class"] in ("A", "B") for v in in_scope):
+        w("- **Quarterly reviews:** 4 per year")
+        rounds += 4
+    w("- **Annual review:** 1 per year")
+    rounds += 1
+    w()
+    w(f"**Total documented check events:** ~{rounds} per year")
+    w()
+    w("---")
+    w()
+
+    # Personnel
+    w("## 7. Personnel and Competence")
+    w()
+    w("| Role | Name | Checks Assigned | Competence Ref |")
+    w("|------|------|----------------|---------------|")
+    w("| Daily/weekly supervisor | [Name] | "
+      "Daily, weekly | JDS-PRO-009 record |")
+    w("| Monthly/quarterly supervisor | [Name] | "
+      "Monthly, quarterly rounds | JDS-PRO-009 record |")
+    w("| Program manager | [Name] | "
+      "Annual review, findings, updates | JDS-PRO-009 record |")
+    w()
+    w("All personnel must meet competence requirements per "
+      "JDS-MAN-MEC-002, Section 7.")
+    w()
+    w("---")
+    w()
+
+    # Findings management
+    w("## 8. Findings Management")
+    w()
+    w("| Severity | Definition | Action | Timeline |")
+    w("|----------|-----------|--------|----------|")
+    w("| **Critical** | Immediate safety risk "
+      "| Out of service, escalate | Immediate |")
+    w("| **Major** | Will deteriorate to critical "
+      "| Plan repair, close monitoring | Within 30 days |")
+    w("| **Minor** | Noted, no immediate risk "
+      "| Monitor, plan maintenance | Within 90 days |")
+    w("| **Observation** | Worth monitoring "
+      "| Note, observe trend | Next round |")
+    w()
+    w("All findings Major or above managed per "
+      "**JDS-PRO-008** (Corrective Action Procedure).")
+    w()
+    w("---")
+    w()
+
+    # Program review
+    w("## 9. Program Review Schedule")
+    w()
+    w("This program shall be reviewed at least **annually** or sooner if:")
+    w("- Equipment is added, removed, or modified")
+    w("- Operating conditions change significantly")
+    w("- Regulatory requirements change")
+    w("- A significant finding or incident occurs")
+    w()
+    w(f"**Next review due:** {next_year}-01-31")
+    w()
+    w("---")
+    w()
+
+    # Approval
+    w("## 10. Approval")
+    w()
+    w("| | |")
+    w("|---|---|")
+    w("| **Prepared by** | [Name, role] |")
+    w("| **Reviewed by** | [Name, role] |")
+    w("| **Approved by** | [Operator representative, role] |")
+    w(f"| **Approval date** | {today} |")
+    w(f"| **Next review due** | {next_year}-01-31 |")
+    w()
+    w("---")
+    w()
+
+    # Next step
+    w("## 11. Next Step")
+    w()
+    w("This program is **Step 2** of the Vessel Supervision System.")
+    w()
+    w("```")
+    w("INVENTORY  →  [PROGRAM]  →  ROUND  →  REVIEW")
+    w("                (done)      (next)")
+    w("```")
+    w()
+    w("To generate a supervision round record from this program, run:")
+    w()
+    w("```")
+    w("python3 scripts/jds-classify.py --round "
+      "--from [this-file.md] --output [round-YYYY-MM-DD.md]")
+    w("```")
+    w()
+    w("To generate the annual review, run:")
+    w()
+    w("```")
+    w("python3 scripts/jds-classify.py --review "
+      "--from [this-file.md] --output [review-YYYY.md]")
+    w("```")
+    w()
+    w("---")
+    w()
+
+    # Revision history
+    w("## Revision History")
+    w()
+    w("| Rev | Date | Author | Description |")
+    w("|-----|------|--------|-------------|")
+    w(f"| A | {today} | {author} "
+      f"| Initial program \u2014 {len(in_scope)} vessels, "
+      f"auto-generated from {source_doc} |")
+
+    return "\n".join(lines) + "\n"
+
+
+# ---------------------------------------------------------------------------
+# Round record generator — Step 3 (reads program, generates round)
+# ---------------------------------------------------------------------------
+
+def generate_round_markdown(vessels, client, site, doc_no, author,
+                            source_doc="", round_type="Monthly"):
+    """Generate a supervision round record pre-filled from program data."""
+    today = date.today().strftime("%Y-%m-%d")
+    lines = []
+
+    def w(line=""):
+        lines.append(line)
+
+    in_scope = [v for v in vessels
+                if v["risk_class"] not in
+                ("Not classified", "Not in scope", "Simple PV", "")]
+
+    w(f"# Supervision Round Record \u2014 {site}")
+    w()
+    w("| | |")
+    w("|---|---|")
+    w(f"| **Document No.** | {doc_no} |")
+    w("| **Revision** | DRAFT |")
+    w(f"| **Date** | {today} |")
+    w("| **Status** | DRAFT |")
+    w(f"| **Author** | {author} |")
+    w("| **Project** | JDS-PRJ-MEC-002 |")
+    w(f"| **Client** | {client} |")
+    w(f"| **Site** | {site} |")
+    w(f"| **Source** | {source_doc} |")
+    w()
+    w("---")
+    w()
+
+    # Workflow
+    w("## 1. Document Chain")
+    w()
+    w("```")
+    w("INVENTORY  →  PROGRAM  →  [ROUND]  →  REVIEW")
+    w("                          (you are      (next,")
+    w("                           here)        annual)")
+    w("```")
+    w()
+    w(f"**Source program:** {source_doc}")
+    w()
+    w("---")
+    w()
+
+    # Round details
+    w("## 2. Round Details")
+    w()
+    w("| | |")
+    w("|---|---|")
+    w(f"| **Round type** | {round_type} |")
+    w(f"| **Round date** | {today} |")
+    w("| **Start time** | HH:MM |")
+    w("| **End time** | HH:MM |")
+    w("| **Performed by** | [Name] |")
+    w("| **Weather / conditions** | [Indoor / outdoor, temperature] |")
+    w("| **Previous round date** | YYYY-MM-DD |")
+    w("| **Open findings from previous** | [List or None] |")
+    w()
+    w("---")
+    w()
+
+    # General site checks
+    w("## 3. General Site Checks")
+    w()
+    w("| # | Check Item | OK | Not OK | N/A | Notes |")
+    w("|---|-----------|:--:|:------:|:---:|-------|")
+    site_checks = [
+        "Access to all vessels clear and safe",
+        "Lighting adequate for inspection",
+        "No unusual odours or sounds in area",
+        "Housekeeping around vessels acceptable",
+        "Emergency equipment accessible",
+    ]
+    for i, check in enumerate(site_checks, 1):
+        w(f"| {i} | {check} | | | | |")
+    w()
+    w("---")
+    w()
+
+    # Per-vessel checks
+    w("## 4. Per-Vessel Checks")
+    w()
+
+    for v in in_scope:
+        rc = v["risk_class"]
+        sched = get_check_schedule(rc)
+
+        # Get the checks for this round type
+        if round_type.lower() == "monthly":
+            checks = sched.get("monthly", CHECKS_MONTHLY[:3])
+        elif round_type.lower() == "quarterly":
+            checks = sched.get("monthly", []) + sched.get("quarterly", [])
+        else:
+            checks = sched.get("monthly", CHECKS_MONTHLY[:3])
+
+        w(f"### {v['vessel_id']} \u2014 {v.get('description', '')} "
+          f"(Class {rc})")
+        w()
+        w("**Operating conditions at time of check:**")
+        w()
+        w("| Parameter | Reading | Normal Range | OK |")
+        w("|-----------|---------|-------------|:--:|")
+        w("| Pressure (bar) | | | |")
+        w("| Temperature (\u00b0C) | | | |")
+        w()
+        w("**Supervision checks:**")
+        w()
+        w("| # | Check Item | OK | Not OK | N/A | Notes |")
+        w("|---|-----------|:--:|:------:|:---:|-------|")
+        for i, (check, method) in enumerate(checks, 1):
+            w(f"| {i} | {check} | | | | |")
+        w()
+
+    w("---")
+    w()
+
+    # Safety device checks
+    w("## 5. Safety Device Checks")
+    w()
+    w("| Device ID | Type | Protects | Check | Result | Notes |")
+    w("|-----------|------|----------|-------|--------|-------|")
+    for v in in_scope:
+        dev_id = v["vessel_id"].replace("PV", "SV")
+        w(f"| {dev_id} | Safety valve | {v['vessel_id']} "
+          f"| Seal check | OK / Not OK | |")
+    w()
+    w("---")
+    w()
+
+    # Findings summary
+    w("## 6. Findings Summary")
+    w()
+    w("| # | Vessel | Finding | Severity | Photo | Action |")
+    w("|---|--------|---------|----------|-------|--------|")
+    w("| 1 | | | Crit / Maj / Min / Obs | Y / N | |")
+    w("| 2 | | | Crit / Maj / Min / Obs | Y / N | |")
+    w("| 3 | | | Crit / Maj / Min / Obs | Y / N | |")
+    w()
+
+    w("### Corrective Actions Raised")
+    w()
+    w("| # | Finding | CA Ref. | Assigned To | Due Date |")
+    w("|---|---------|---------|-------------|----------|")
+    w("| 1 | | JDS-PRO-008 | | |")
+    w()
+    w("---")
+    w()
+
+    # Previous findings follow-up
+    w("## 7. Previous Findings Follow-Up")
+    w()
+    w("| Finding Ref | Original Date | Description | Status |")
+    w("|------------|---------------|-------------|--------|")
+    w("| | | | Open / Closed |")
+    w()
+    w("---")
+    w()
+
+    # Round summary
+    w("## 8. Round Summary")
+    w()
+    w("| | |")
+    w("|---|---|")
+    w(f"| **Total vessels inspected** | {len(in_scope)} |")
+    w("| **Checks performed** | [N] |")
+    w("| **Findings this round** | [N] |")
+    w("| **Previous findings closed** | [N] |")
+    w("| **Previous findings still open** | [N] |")
+    w("| **Overall site condition** | Good / Acceptable / Needs attention |")
+    w()
+    w("---")
+    w()
+
+    # Sign-off
+    w("## 9. Sign-Off")
+    w()
+    w("| | |")
+    w("|---|---|")
+    w("| **Inspected by** | [Name, signature] |")
+    w(f"| **Date** | {today} |")
+    w("| **Next scheduled round** | YYYY-MM-DD |")
+    w("| **Reviewed by** | [Name, signature, date] |")
+    w()
+    w("---")
+    w()
+
+    # Next step
+    w("## 10. Next Step")
+    w()
+    w("```")
+    w("INVENTORY  →  PROGRAM  →  [ROUND]  →  REVIEW")
+    w("                          (done)       (annual)")
+    w("```")
+    w()
+    w("**After completing this round:**")
+    w("1. File this record in the client's `rounds/` folder")
+    w("2. Update the program register (JDS-LOG-MEC-005)")
+    w("3. Raise corrective actions for any findings (JDS-PRO-008)")
+    w("4. Generate the next round when scheduled:")
+    w()
+    w("```")
+    w("python3 scripts/jds-classify.py --round "
+      f"--from {source_doc} --output round-YYYY-MM-DD.md")
+    w("```")
+    w()
+    w("---")
+    w()
+
+    # Revision history
+    w("## Revision History")
+    w()
+    w("| Rev | Date | Author | Description |")
+    w("|-----|------|--------|-------------|")
+    w(f"| DRAFT | {today} | {author} | {round_type} supervision round |")
+
+    return "\n".join(lines) + "\n"
+
+
+# ---------------------------------------------------------------------------
+# Annual review generator — Step 4 (reads program, generates review)
+# ---------------------------------------------------------------------------
+
+def generate_review_markdown(vessels, client, site, doc_no, author,
+                             source_doc=""):
+    """Generate an annual review pre-filled from program data."""
+    today = date.today().strftime("%Y-%m-%d")
+    year = date.today().year
+    lines = []
+
+    def w(line=""):
+        lines.append(line)
+
+    in_scope = [v for v in vessels
+                if v["risk_class"] not in
+                ("Not classified", "Not in scope", "Simple PV", "")]
+
+    w(f"# Annual Supervision Program Review \u2014 {site}")
+    w()
+    w("| | |")
+    w("|---|---|")
+    w(f"| **Document No.** | {doc_no} |")
+    w("| **Revision** | DRAFT |")
+    w(f"| **Date** | {today} |")
+    w("| **Status** | DRAFT |")
+    w(f"| **Author** | {author} |")
+    w("| **Project** | JDS-PRJ-MEC-002 |")
+    w(f"| **Client** | {client} |")
+    w(f"| **Site** | {site} |")
+    w(f"| **Source** | {source_doc} |")
+    w(f"| **Review period** | {year}-01-01 to {year}-12-31 |")
+    w()
+    w("---")
+    w()
+
+    # Workflow
+    w("## 1. Document Chain")
+    w()
+    w("```")
+    w("INVENTORY  →  PROGRAM  →  ROUND  →  [REVIEW]")
+    w("                                     (you are")
+    w("                                      here)")
+    w("```")
+    w()
+    w(f"**Source program:** {source_doc}")
+    w()
+    w("This review closes the annual cycle. After completion, "
+      "update the program and begin the next cycle.")
+    w()
+    w("---")
+    w()
+
+    # Round completion
+    w("## 2. Program Execution Summary")
+    w()
+    has_daily = any(v["risk_class"] in ("A", "B") for v in in_scope)
+    has_quarterly = any(v["risk_class"] in ("A", "B") for v in in_scope)
+
+    w("### 2.1 Round Completion")
+    w()
+    w("| Round Type | Planned | Completed | Missed | Rate |")
+    w("|-----------|---------|-----------|--------|------|")
+    w("| Monthly | 12 | | | % |")
+    if has_quarterly:
+        w("| Quarterly | 4 | | | % |")
+    w("| Annual | 1 | | | % |")
+    w("| Special | \u2014 | | | \u2014 |")
+    w()
+
+    w("### 2.2 Findings Summary")
+    w()
+    w("| Severity | Raised | Closed | Open | Rate |")
+    w("|----------|--------|--------|------|------|")
+    w("| Critical | | | | % |")
+    w("| Major | | | | % |")
+    w("| Minor | | | | % |")
+    w("| Observation | | | | % |")
+    w("| **Total** | | | | **%** |")
+    w()
+
+    w("### 2.3 Recurring Findings")
+    w()
+    w("| Finding | Occurrences | Vessels | Root Cause | Action |")
+    w("|---------|-------------|---------|-----------|--------|")
+    w("| | | | Yes / No | |")
+    w()
+    w("---")
+    w()
+
+    # Equipment changes
+    w("## 3. Equipment Changes")
+    w()
+    w("### 3.1 Current Register")
+    w()
+    w("| Vessel ID | Description | Class | Status |")
+    w("|-----------|-------------|-------|--------|")
+    for v in in_scope:
+        w(f"| {v['vessel_id']} | {v.get('description', '')} "
+          f"| {v['risk_class']} | In service |")
+    w()
+
+    w("### 3.2 Changes This Year")
+    w()
+    w("| Change | Vessel ID | Description | Date | Action |")
+    w("|--------|-----------|-------------|------|--------|")
+    w("| Added / Removed / Modified | | | | |")
+    w()
+    w("---")
+    w()
+
+    # Operating conditions
+    w("## 4. Operating Condition Changes")
+    w()
+    w("| Change | Affected Vessels | Program Update |")
+    w("|--------|-----------------|---------------|")
+    w("| Pressure change | | Yes / No |")
+    w("| Temperature change | | Yes / No |")
+    w("| Medium change | | Yes / No |")
+    w("| Duty cycle change | | Yes / No |")
+    w()
+    w("---")
+    w()
+
+    # Regulatory changes
+    w("## 5. Regulatory Changes")
+    w()
+    w("| Regulation | Change | Impact |")
+    w("|-----------|--------|--------|")
+    w("| | | None / Update required |")
+    w()
+    w("---")
+    w()
+
+    # Personnel
+    w("## 6. Personnel Review")
+    w()
+    w("| Name | Role | Competence Current | Refresher Due |")
+    w("|------|------|-------------------|--------------|")
+    w("| | Daily/weekly supervisor | Yes / No | YYYY-MM-DD |")
+    w("| | Monthly/quarterly supervisor | Yes / No | YYYY-MM-DD |")
+    w("| | Program manager | Yes / No | YYYY-MM-DD |")
+    w()
+    w("---")
+    w()
+
+    # Effectiveness
+    w("## 7. Program Effectiveness")
+    w()
+    w("| Criterion | Rating | Evidence |")
+    w("|----------|--------|---------|")
+    w("| All scheduled rounds completed | Good / Acceptable / Poor | |")
+    w("| Findings identified promptly | Good / Acceptable / Poor | |")
+    w("| Corrective actions closed on time | Good / Acceptable / Poor | |")
+    w("| No repeat critical findings | Good / Acceptable / Poor | |")
+    w("| Equipment register current | Good / Acceptable / Poor | |")
+    w("| Personnel competence maintained | Good / Acceptable / Poor | |")
+    w("| Documentation complete | Good / Acceptable / Poor | |")
+    w()
+    w("**Overall effectiveness:** Good / Acceptable / Needs Improvement")
+    w()
+    w("---")
+    w()
+
+    # Improvements
+    w("## 8. Improvement Actions")
+    w()
+    w("| # | Improvement | Reason | Owner | Target Date |")
+    w("|---|-----------|--------|-------|-------------|")
+    w("| 1 | | | | |")
+    w("| 2 | | | | |")
+    w()
+    w("---")
+    w()
+
+    # Decision
+    w("## 9. Program Update Decision")
+    w()
+    w("| | |")
+    w("|---|---|")
+    w("| **Program revision required?** | Yes / No |")
+    w("| **Changes needed** | [Describe] |")
+    w(f"| **New revision due by** | {year + 1}-01-31 |")
+    w(f"| **Next annual review due** | {year + 1}-12-31 |")
+    w()
+    w("---")
+    w()
+
+    # Sign-off
+    w("## 10. Sign-Off")
+    w()
+    w("| | |")
+    w("|---|---|")
+    w("| **Reviewed by** | [Name, role, signature] |")
+    w(f"| **Date** | {today} |")
+    w("| **Approved by** | [Operator representative, signature] |")
+    w("| **Date** | |")
+    w()
+    w("---")
+    w()
+
+    # Next step
+    w("## 11. Next Step")
+    w()
+    w("```")
+    w("INVENTORY  →  PROGRAM  →  ROUND  →  [REVIEW]")
+    w("                 ↑                    (done)")
+    w("                 └──── update program, begin next cycle")
+    w("```")
+    w()
+    w("**After completing this review:**")
+    w("1. Update the supervision program if changes are needed (new revision)")
+    w("2. Update the program register (JDS-LOG-MEC-005)")
+    w("3. Update the equipment inventory if vessels changed")
+    w("4. Begin the next annual cycle")
+    w()
+    w("---")
+    w()
+
+    # Revision history
+    w("## Revision History")
+    w()
+    w("| Rev | Date | Author | Description |")
+    w("|-----|------|--------|-------------|")
+    w(f"| DRAFT | {today} | {author} | Annual review for {year} |")
 
     return "\n".join(lines) + "\n"
 
@@ -713,29 +1820,72 @@ def generate_inventory_markdown(vessels, client, site, doc_no, author):
 # Main
 # ---------------------------------------------------------------------------
 
+def write_output(md, output_path, label):
+    """Write markdown to file and print confirmation."""
+    with open(output_path, "w") as f:
+        f.write(md)
+    print(f"\n{label} written to: {output_path}")
+
+
 def main():
     parser = argparse.ArgumentParser(
         description="JDS Vessel Classification & Inventory Generator "
                     "(AFS 2017:3)",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
-Examples:
-  Interactive mode:
-    python3 scripts/jds-classify.py
+Document chain — each step reads the previous and generates the next:
 
-  Quick classification:
+  Step 1 — Inventory (from CSV or interactive):
+    python3 scripts/jds-classify.py --csv vessels.csv --output inventory.md
+    python3 scripts/jds-classify.py   (interactive)
+
+  Step 2 — Supervision Program (reads inventory):
+    python3 scripts/jds-classify.py --program --from inventory.md
+
+  Step 3 — Supervision Round (reads program):
+    python3 scripts/jds-classify.py --round --from program.md
+
+  Step 4 — Annual Review (reads program):
+    python3 scripts/jds-classify.py --review --from program.md
+
+  Quick classification (standalone):
     python3 scripts/jds-classify.py --quick --ps 11 --volume 1000
     python3 scripts/jds-classify.py --quick --ps 25 --volume 200 --medium ammonia
-
-  From CSV file:
-    python3 scripts/jds-classify.py --csv vessels.csv --output inventory.md
-    python3 scripts/jds-classify.py --csv vessels.csv --client "ACME" --site "Workshop"
 
 CSV format (header row required):
   vessel_id,description,location,manufacturer,year,serial,ps_bar,ts_max_c,volume_l,medium,ce_marked,eu_doc,last_inspection,last_type
         """,
     )
 
+    # Step 1: Inventory (existing)
+    parser.add_argument("--csv", metavar="FILE",
+                        help="Step 1: Read vessel data from CSV, "
+                             "generate inventory")
+
+    # Step 2: Program
+    parser.add_argument("--program", action="store_true",
+                        help="Step 2: Generate supervision program "
+                             "from inventory (requires --from)")
+
+    # Step 3: Round
+    parser.add_argument("--round", action="store_true",
+                        help="Step 3: Generate supervision round record "
+                             "from program (requires --from)")
+    parser.add_argument("--round-type", default="Monthly",
+                        help="Round type: Monthly, Quarterly (default: Monthly)")
+
+    # Step 4: Review
+    parser.add_argument("--review", action="store_true",
+                        help="Step 4: Generate annual review "
+                             "from program (requires --from)")
+
+    # Chain input
+    parser.add_argument("--from", dest="from_file", metavar="FILE",
+                        help="Source document for chain generation "
+                             "(inventory for --program, program for "
+                             "--round/--review)")
+
+    # Quick classify
     parser.add_argument("--quick", action="store_true",
                         help="Quick single-vessel classification")
     parser.add_argument("--ps", type=float,
@@ -745,14 +1895,13 @@ CSV format (header row required):
     parser.add_argument("--medium", default="compressed air",
                         help="Medium (default: compressed air)")
 
-    parser.add_argument("--csv", metavar="FILE",
-                        help="Read vessel data from CSV file")
+    # Common options
     parser.add_argument("--output", "-o", metavar="FILE",
                         help="Output markdown file")
-    parser.add_argument("--client", default="Internal",
-                        help="Client name (for CSV mode)")
-    parser.add_argument("--site", default="Site",
-                        help="Site name (for CSV mode)")
+    parser.add_argument("--client", default=None,
+                        help="Client name")
+    parser.add_argument("--site", default=None,
+                        help="Site name")
     parser.add_argument("--doc-no", default="JDS-LOG-MEC-[NNN]",
                         help="JDS document number")
     parser.add_argument("--author", default="N. Johansson",
@@ -760,16 +1909,102 @@ CSV format (header row required):
 
     args = parser.parse_args()
 
+    # --- Quick classify ---
     if args.quick:
         if not args.ps or not args.volume:
             parser.error("--quick requires --ps and --volume")
         quick_classify(args.ps, args.volume, args.medium)
+        return
 
-    elif args.csv:
+    # --- Step 2: Program from inventory ---
+    if args.program:
+        if not args.from_file:
+            parser.error("--program requires --from <inventory.md>")
+        if not os.path.exists(args.from_file):
+            print(f"Error: Source file not found: {args.from_file}")
+            sys.exit(1)
+
+        print(f"Reading inventory: {args.from_file}")
+        meta, vessels = parse_inventory_file(args.from_file)
+        client = args.client or meta.get("Client", "Internal")
+        site = args.site or meta.get("Site", "Site")
+
+        print(f"  Found {len(vessels)} vessels")
+        for v in vessels:
+            print(f"    {v['vessel_id']}: {v['risk_class']} "
+                  f"({v.get('description', '')})")
+
+        md = generate_program_markdown(
+            vessels, client, site, args.doc_no, args.author,
+            source_doc=os.path.basename(args.from_file),
+        )
+
+        output = args.output or \
+            f"program-{site.lower().replace(' ', '-')}.md"
+        write_output(md, output, "Supervision program")
+        print(f"\nNext step: python3 scripts/jds-classify.py --round "
+              f"--from {output}")
+        return
+
+    # --- Step 3: Round from program ---
+    if args.round:
+        if not args.from_file:
+            parser.error("--round requires --from <program.md>")
+        if not os.path.exists(args.from_file):
+            print(f"Error: Source file not found: {args.from_file}")
+            sys.exit(1)
+
+        print(f"Reading program: {args.from_file}")
+        meta, vessels = parse_inventory_file(args.from_file)
+        client = args.client or meta.get("Client", "Internal")
+        site = args.site or meta.get("Site", "Site")
+
+        print(f"  Found {len(vessels)} vessels for round record")
+
+        md = generate_round_markdown(
+            vessels, client, site, args.doc_no, args.author,
+            source_doc=os.path.basename(args.from_file),
+            round_type=args.round_type,
+        )
+
+        today_str = date.today().strftime("%Y-%m-%d")
+        output = args.output or f"round-{today_str}.md"
+        write_output(md, output, "Supervision round record")
+        return
+
+    # --- Step 4: Review from program ---
+    if args.review:
+        if not args.from_file:
+            parser.error("--review requires --from <program.md>")
+        if not os.path.exists(args.from_file):
+            print(f"Error: Source file not found: {args.from_file}")
+            sys.exit(1)
+
+        print(f"Reading program: {args.from_file}")
+        meta, vessels = parse_inventory_file(args.from_file)
+        client = args.client or meta.get("Client", "Internal")
+        site = args.site or meta.get("Site", "Site")
+
+        print(f"  Found {len(vessels)} vessels for annual review")
+
+        md = generate_review_markdown(
+            vessels, client, site, args.doc_no, args.author,
+            source_doc=os.path.basename(args.from_file),
+        )
+
+        year = date.today().year
+        output = args.output or f"review-{year}.md"
+        write_output(md, output, "Annual review")
+        return
+
+    # --- Step 1: Inventory from CSV ---
+    if args.csv:
         if not os.path.exists(args.csv):
             print(f"Error: CSV file not found: {args.csv}")
             sys.exit(1)
 
+        client = args.client or "Internal"
+        site = args.site or "Site"
         vessels = read_csv(args.csv)
         print(f"Read {len(vessels)} vessels from {args.csv}")
 
@@ -778,16 +2013,18 @@ CSV format (header row required):
                   f"\u2192 {v['risk_class']}")
 
         md = generate_inventory_markdown(
-            vessels, args.client, args.site, args.doc_no, args.author
+            vessels, client, site, args.doc_no, args.author
         )
 
-        output = args.output or f"inventory-{args.site.lower().replace(' ', '-')}.md"
-        with open(output, "w") as f:
-            f.write(md)
-        print(f"\nInventory written to: {output}")
+        output = args.output or \
+            f"inventory-{site.lower().replace(' ', '-')}.md"
+        write_output(md, output, "Inventory")
+        print(f"\nNext step: python3 scripts/jds-classify.py --program "
+              f"--from {output}")
+        return
 
-    else:
-        interactive_mode()
+    # --- Default: interactive mode ---
+    interactive_mode()
 
 
 if __name__ == "__main__":

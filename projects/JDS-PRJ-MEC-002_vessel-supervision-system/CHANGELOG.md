@@ -32,3 +32,6 @@ Each entry shows:
 | 2026-04-10 | JDS-TMP-LOG-008 (Inventory Template) | A | N. Johansson | Initial release — equipment inventory template with auto-classification support |
 | 2026-04-10 | JDS-LOG-MEC-006 (Example Inventory) | A | N. Johansson | Example: 7 vessels auto-classified by jds-classify.py — Gothenburg Workshop |
 | 2026-04-10 | jds-classify.py (Script) | — | N. Johansson | New automation tool — classifies vessels per AFS 2017:3, calculates intervals, generates inventories |
+| 2026-04-10 | jds-classify.py --program | — | N. Johansson | Document chain: reads inventory, generates pre-filled supervision program with risk-based check schedules |
+| 2026-04-10 | jds-classify.py --round | — | N. Johansson | Document chain: reads program, generates pre-filled supervision round record with per-vessel checks |
+| 2026-04-10 | jds-classify.py --review | — | N. Johansson | Document chain: reads program, generates pre-filled annual review with equipment register and metrics |

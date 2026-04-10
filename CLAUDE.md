@@ -99,6 +99,9 @@ When you notice something that could be improved:
 | `scripts/jds-classify.py` | Vessel classification & inventory generator (AFS 2017:3) | `python3 scripts/jds-classify.py` (interactive) |
 | `scripts/jds-classify.py --quick` | Quick single-vessel classification | `python3 scripts/jds-classify.py --quick --ps 11 --volume 1000` |
 | `scripts/jds-classify.py --csv` | Generate inventory from CSV data | `python3 scripts/jds-classify.py --csv vessels.csv --output inventory.md` |
+| `scripts/jds-classify.py --program` | Generate supervision program from inventory | `python3 scripts/jds-classify.py --program --from inventory.md` |
+| `scripts/jds-classify.py --round` | Generate supervision round from program | `python3 scripts/jds-classify.py --round --from program.md` |
+| `scripts/jds-classify.py --review` | Generate annual review from program | `python3 scripts/jds-classify.py --review --from program.md` |
 
 ## PDF Generation (JDS-PRO-007 Compliance)
 
