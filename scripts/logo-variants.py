@@ -22,6 +22,8 @@ REPO_ROOT = os.path.normpath(os.path.join(SCRIPT_DIR, '..'))
 ASSETS_DIR = os.path.join(REPO_ROOT, 'jds', 'assets')
 SVG_SOURCE = os.path.join(ASSETS_DIR, 'logo.svg')
 VARIANTS_DIR = os.path.join(ASSETS_DIR, 'logo-variants')
+CATEGORY_DIR = os.path.join(VARIANTS_DIR, 'category')
+DOMAIN_DIR = os.path.join(VARIANTS_DIR, 'domain')
 
 # ─────────────────────────────────────────────────────────────────────────────
 # JDS Document Category Colour Map
@@ -104,8 +106,9 @@ def main():
     with open(SVG_SOURCE, 'r', encoding='utf-8') as f:
         svg_content = f.read()
 
-    # Create variants directory
-    os.makedirs(VARIANTS_DIR, exist_ok=True)
+    # Create variants directories
+    os.makedirs(CATEGORY_DIR, exist_ok=True)
+    os.makedirs(DOMAIN_DIR, exist_ok=True)
 
     # Check for single category mode
     single = None
@@ -121,7 +124,7 @@ def main():
             continue
 
         filename = f'logo-{cat.lower()}.svg'
-        output_path = os.path.join(VARIANTS_DIR, filename)
+        output_path = os.path.join(CATEGORY_DIR, filename)
         generate_variant(svg_content, info['hex'], output_path)
         size_kb = os.path.getsize(output_path) / 1024
         print(f'  {cat:8s} → {filename:25s} {info["hex"]}  {info["name"]:20s} ({size_kb:.0f} KB)')
@@ -131,13 +134,13 @@ def main():
     if not single or single == 'DOMAINS':
         for dom, info in DOMAIN_COLOURS.items():
             filename = f'logo-domain-{dom.lower()}.svg'
-            output_path = os.path.join(VARIANTS_DIR, filename)
+            output_path = os.path.join(DOMAIN_DIR, filename)
             generate_variant(svg_content, info['hex'], output_path)
             generated += 1
 
         print(f'\n  + {len(DOMAIN_COLOURS)} domain variants generated')
 
-    print(f'\nTotal: {generated} logo variants in jds/assets/logo-variants/')
+    print(f'\nTotal: {generated} logo variants in jds/assets/logo-variants/{{category,domain}}/')
 
     # Print colour reference table
     if not single:

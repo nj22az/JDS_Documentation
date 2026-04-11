@@ -36,7 +36,7 @@ def get_logo_data_uri(category=None):
     cat = category or 'COR'
 
     # Try category-specific SVG variant
-    variant_path = os.path.join(LOGO_VARIANTS_DIR, f'logo-{cat.lower()}.svg')
+    variant_path = os.path.join(LOGO_VARIANTS_DIR, 'category', f'logo-{cat.lower()}.svg')
     if os.path.exists(variant_path):
         with open(variant_path, 'r', encoding='utf-8') as f:
             data = base64.b64encode(f.read().encode('utf-8')).decode('utf-8')

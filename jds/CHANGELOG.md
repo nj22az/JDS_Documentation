@@ -25,6 +25,12 @@ All changes to the JDS documentation system itself are recorded here. This provi
 - **JDS-TMP-LOG-008 Rev B**: Added placement and environmental risk checklist per AFS 2017:3 2 Kap. §2-3 (accessibility, blast zone, temperature, structural risk).
 - **JDS-TMP-LOG-009 Rev B**: Added previous experience assessment per AFS 2017:3 2 Kap. §1 (usage history, repairs, incidents, deviations, monitoring need).
 
+### Improved — Image Asset Organization
+- **Logo variants reorganized** — 24 SVG logo variants moved from flat `logo-variants/` into `logo-variants/category/` (13 document category variants) and `logo-variants/domain/` (11 engineering domain variants).
+- **All scripts updated** — `logo-variants.py`, `md2pdf.py`, `md2letter.py`, `office2pdf.py`, and `jds-validate.py` now use the new subfolder paths.
+- **Blog image infrastructure** — created `projects/blog/assets/images/posts/` and `projects/blog/assets/images/shared/` for future blog post images.
+- **Project image infrastructure** — created `projects/JDS-PRJ-MEC-001/assets/images/` for engineering project visuals.
+
 ---
 
 ## [3.2] — 2026-04-10

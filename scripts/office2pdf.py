@@ -53,7 +53,7 @@ def get_logo_data_uri(category=None):
     """Encode the JDS logo as base64 data URI. Category-coloured if available."""
     # Try category-specific SVG variant
     if category:
-        variant = os.path.join(LOGO_VARIANTS_DIR, f'logo-{category.lower()}.svg')
+        variant = os.path.join(LOGO_VARIANTS_DIR, 'category', f'logo-{category.lower()}.svg')
         if os.path.exists(variant):
             with open(variant, 'r', encoding='utf-8') as f:
                 data = base64.b64encode(f.read().encode('utf-8')).decode('utf-8')

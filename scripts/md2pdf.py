@@ -41,7 +41,7 @@ def get_logo_data_uri(category=None):
 
     # Fall back to SVG if PNG not available
     if category:
-        variant_path = os.path.join(LOGO_VARIANTS_DIR, f'logo-{category.lower()}.svg')
+        variant_path = os.path.join(LOGO_VARIANTS_DIR, 'category', f'logo-{category.lower()}.svg')
         if os.path.exists(variant_path):
             with open(variant_path, 'r', encoding='utf-8') as f:
                 data = base64.b64encode(f.read().encode('utf-8')).decode('utf-8')

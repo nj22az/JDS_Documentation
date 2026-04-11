@@ -423,14 +423,21 @@ def check_script_consistency(result):
     else:
         result.warn('Logo SVG missing: jds/assets/logo.svg (run: python3 scripts/logo-variants.py)')
 
-    # Check logo colour variants
+    # Check logo colour variants (organized in category/ and domain/ subfolders)
     variants_dir = os.path.join(REPO_ROOT, 'jds', 'assets', 'logo-variants')
     if os.path.isdir(variants_dir):
-        variants = [f for f in os.listdir(variants_dir) if f.endswith('.svg')]
-        if variants:
-            result.ok(f'Logo variants: {len(variants)} colour variants in logo-variants/')
+        total_variants = 0
+        for subdir in ('category', 'domain'):
+            sub_path = os.path.join(variants_dir, subdir)
+            if os.path.isdir(sub_path):
+                count = len([f for f in os.listdir(sub_path) if f.endswith('.svg')])
+                total_variants += count
+            else:
+                result.warn(f'Logo variants {subdir}/ subfolder missing')
+        if total_variants:
+            result.ok(f'Logo variants: {total_variants} colour variants in logo-variants/{{category,domain}}/')
         else:
-            result.warn('Logo variants directory exists but is empty')
+            result.warn('Logo variants directories exist but contain no SVGs')
     else:
         result.warn('Logo variants directory missing (run: python3 scripts/logo-variants.py)')
 

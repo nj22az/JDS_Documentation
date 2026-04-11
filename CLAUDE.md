@@ -141,7 +141,7 @@ All PDFs exported from JDS documents MUST follow JDS-PRO-007 (Information Design
 - The Johansson Engineering 1983 stamp logo exists in two formats:
   - **SVG (vector)**: `jds/assets/logo.svg` — scalable, crisp at any size, preferred
   - **PNG (bitmap)**: `jds/assets/logo.png` — 752×752px, fallback
-- **Colour variants**: `jds/assets/logo-variants/` — auto-generated per category (PRO-007 §6.4)
+- **Colour variants**: `jds/assets/logo-variants/category/` (13 category) and `jds/assets/logo-variants/domain/` (11 domain) — auto-generated per PRO-007 §6.4
 - The logo is a circular stamp — **never squish, crop to circle, or apply border-radius**
 - Minimum display size: **52pt** in documents, **72pt** in letterheads
 - The logo is Nils Johansson's brand and image — it must be clearly readable at all times
