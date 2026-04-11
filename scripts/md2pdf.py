@@ -21,6 +21,7 @@ from weasyprint import HTML
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 ASSETS_DIR = os.path.join(SCRIPT_DIR, '..', 'jds', 'assets')
+FONTS_DIR = os.path.join(ASSETS_DIR, 'fonts')
 LOGO_PATH_PNG = os.path.join(ASSETS_DIR, 'logo.png')
 LOGO_PATH_SVG = os.path.join(ASSETS_DIR, 'logo.svg')
 LOGO_VARIANTS_DIR = os.path.join(ASSETS_DIR, 'logo-variants')
@@ -53,6 +54,34 @@ def get_logo_data_uri(category=None):
         return f'data:image/svg+xml;base64,{data}'
 
     return None
+
+
+def get_font_face_css():
+    """Build @font-face declarations for M PLUS Rounded 1c.
+
+    Uses file:// URLs so WeasyPrint loads the TTF files directly
+    from the assets/fonts/ directory. Three weights: Regular (400),
+    Medium (500), Bold (700).
+    """
+    fonts_abs = os.path.abspath(FONTS_DIR)
+    weights = [
+        ('400', 'normal', 'MPLUSRounded1c-Regular.ttf'),
+        ('500', 'normal', 'MPLUSRounded1c-Medium.ttf'),
+        ('700', 'normal', 'MPLUSRounded1c-Bold.ttf'),
+    ]
+    declarations = []
+    for weight, style, filename in weights:
+        font_path = os.path.join(fonts_abs, filename)
+        if os.path.exists(font_path):
+            declarations.append(
+                f"@font-face {{\n"
+                f"    font-family: 'M PLUS Rounded 1c';\n"
+                f"    src: url('file://{font_path}');\n"
+                f"    font-weight: {weight};\n"
+                f"    font-style: {style};\n"
+                f"}}"
+            )
+    return '\n'.join(declarations)
 
 
 def extract_category(doc_no):
@@ -114,9 +143,9 @@ CSS = """
     @top-left {{
         content: "{doc_no}";
         font-size: 7.5pt;
-        font-weight: 600;
+        font-weight: 500;
         color: #1B3A5C;
-        font-family: 'Noto Sans', 'Inter', 'Calibri', sans-serif;
+        font-family: 'M PLUS Rounded 1c', 'Noto Sans', sans-serif;
         letter-spacing: 0.5pt;
         border-bottom: 0.5pt solid #e8ecf0;
         padding-bottom: 6pt;
@@ -125,7 +154,7 @@ CSS = """
         content: string(doc-title);
         font-size: 7pt;
         color: #999;
-        font-family: 'Noto Sans', 'Inter', 'Calibri', sans-serif;
+        font-family: 'M PLUS Rounded 1c', 'Noto Sans', sans-serif;
         border-bottom: 0.5pt solid #e8ecf0;
         padding-bottom: 6pt;
     }}
@@ -133,7 +162,7 @@ CSS = """
         content: "UNCONTROLLED COPY";
         font-size: 6.5pt;
         color: #bbb;
-        font-family: 'Noto Sans', 'Inter', 'Calibri', sans-serif;
+        font-family: 'M PLUS Rounded 1c', 'Noto Sans', sans-serif;
         letter-spacing: 0.3pt;
         text-transform: uppercase;
         border-bottom: 0.5pt solid #e8ecf0;
@@ -144,7 +173,7 @@ CSS = """
         content: "Rev {revision}";
         font-size: 7pt;
         color: #999;
-        font-family: 'Noto Sans', 'Inter', 'Calibri', sans-serif;
+        font-family: 'M PLUS Rounded 1c', 'Noto Sans', sans-serif;
         border-top: 0.5pt solid #e8ecf0;
         padding-top: 6pt;
     }}
@@ -152,7 +181,7 @@ CSS = """
         content: "Page " counter(page) " of " counter(pages);
         font-size: 7.5pt;
         color: #999;
-        font-family: 'Noto Sans', 'Inter', 'Calibri', sans-serif;
+        font-family: 'M PLUS Rounded 1c', 'Noto Sans', sans-serif;
         border-top: 0.5pt solid #e8ecf0;
         padding-top: 6pt;
     }}
@@ -160,7 +189,7 @@ CSS = """
         content: "{date}";
         font-size: 7pt;
         color: #999;
-        font-family: 'Noto Sans', 'Inter', 'Calibri', sans-serif;
+        font-family: 'M PLUS Rounded 1c', 'Noto Sans', sans-serif;
         border-top: 0.5pt solid #e8ecf0;
         padding-top: 6pt;
     }}
@@ -175,7 +204,7 @@ CSS = """
    ═══════════════════════════════════════════════════════════════════════════ */
 
 body {{
-    font-family: 'Noto Sans', 'Inter', 'Calibri', sans-serif;
+    font-family: 'M PLUS Rounded 1c', 'Noto Sans', sans-serif;
     font-size: 10pt;
     line-height: 1.6;
     color: #1d1d1f;
@@ -213,7 +242,7 @@ p {{
     color: #86868b;
     letter-spacing: 1.5pt;
     text-transform: uppercase;
-    font-weight: 600;
+    font-weight: 500;
     vertical-align: middle;
 }}
 
@@ -245,7 +274,7 @@ h2 {{
 
 h3 {{
     font-size: 11pt;
-    font-weight: 600;
+    font-weight: 700;
     color: #4A90A4;
     margin: 24pt 0 8pt 0;
     page-break-after: avoid;
@@ -253,7 +282,7 @@ h3 {{
 
 h4 {{
     font-size: 10.5pt;
-    font-weight: 600;
+    font-weight: 500;
     font-style: italic;
     color: #555;
     margin: 14pt 0 6pt 0;
@@ -291,7 +320,7 @@ table:first-of-type td {{
 table:first-of-type th {{
     background: none;
     color: #86868b;
-    font-weight: 600;
+    font-weight: 500;
     text-transform: uppercase;
     font-size: 7pt;
     letter-spacing: 0.5pt;
@@ -333,7 +362,7 @@ table {{
 th {{
     background-color: #1B3A5C;
     color: #ffffff;
-    font-weight: 600;
+    font-weight: 700;
     font-size: 8pt;
     text-align: left;
     text-transform: uppercase;
@@ -566,7 +595,7 @@ p {{
 
 strong {{
     color: #1d1d1f;
-    font-weight: 600;
+    font-weight: 700;
 }}
 
 em {{
@@ -713,8 +742,11 @@ def md_to_pdf(input_path, output_path=None):
     revision = meta.get('revision', '')
     date = meta.get('date', '')
 
+    # Build @font-face declarations for M PLUS Rounded 1c
+    font_face_css = get_font_face_css()
+
     # Format CSS with metadata
-    formatted_css = CSS.format(
+    formatted_css = font_face_css + '\n' + CSS.format(
         doc_no=doc_no,
         revision=revision,
         date=date,
