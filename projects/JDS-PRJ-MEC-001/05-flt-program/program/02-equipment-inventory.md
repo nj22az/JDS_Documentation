@@ -1,51 +1,24 @@
 # 02 — What Equipment Do You Have
 
-> **Note:** This document has two parts. **Part A** is a blank field sheet — print it and take it to the site. **Part B** is the desk version — transfer your field data, classify each vessel, and complete the checks.
+> **Note:** Walk your site and list every pressurised vessel. For each one, read the nameplate and write down the data. Then classify each vessel to determine what inspections it needs.
 
 ---
 
-## Part A — Field Survey Sheet
+## How to Fill This In
 
-> **Important:** Print this page. Take it to the site with a pen and a torch. Walk to every pressurised vessel, find the nameplate, and write down what you see. One row per vessel.
-
-| What is it | Where on site | PS (bar) | Vol (L) | Medium | Mfr / Serial |
-|------------|---------------|:--------:|:-------:|--------|---------------|
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-
-**Site:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Date:** \_\_\_\_\_\_\_\_\_\_\_\_ **Surveyed by:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> **PS** = design pressure (bar), stamped on nameplate. **Vol** = internal volume (litres), stamped on nameplate. **Medium** = what fluid is inside (air, steam, ammonia, oil, etc.). If no nameplate is visible, write "NO PLATE" and photograph the vessel.
-
----
-
-## Part B — Desk Classification
-
-> **Note:** Transfer data from the field sheet above. Give each vessel a number (Nr) and an ID code. Then classify it using the reference tables below.
-
-### How to Fill This In
-
-1. Copy each vessel from the field sheet into table B1 below — assign a **Nr** and **Vessel ID**
-2. Copy the nameplate data into table B2 — calculate **PS x V**
-3. Use the classification guide (section B3) to determine the **risk class**
-4. Write the classification in table B4
-5. Complete the safety devices, placement check, and document check
+1. Go to each vessel and find the **nameplate** (metal plate bolted to the vessel)
+2. Write the nameplate data in the tables below — one row per vessel
+3. Calculate **PS x V** (pressure in bar multiplied by volume in litres)
+4. Use the classification guide to determine the **risk class** (A, B, or exempt)
+5. Write down the last inspection date and calculate when the next one is due
 
 > **Important:** If you cannot find a nameplate, check the manufacturer's data sheet or the EU Declaration of Conformity. A vessel without identification must be assessed by an accredited inspection body before use.
 
 ---
 
-### B1. Vessel Register
+## 1. Vessel Register
+
+> Write one row per vessel. **Vessel ID** — give each vessel a short code (e.g. PV-001, AR-001). **Description** — what it is (e.g. "Air receiver", "Steam boiler"). **Location** — where on site it is (e.g. "Compressor room", "Boiler house").
 
 | Nr | Vessel ID | Description | Location |
 |:--:|-----------|-------------|----------|
@@ -62,7 +35,7 @@
 
 ---
 
-### B2. Technical Data
+## 2. Technical Data
 
 > Read these values from the **nameplate** on each vessel. **PS** = design pressure (bar). **Volume** = internal volume (litres). **PS x V** = multiply them together. **Medium** = what fluid is inside the vessel.
 
@@ -85,11 +58,11 @@
 
 ---
 
-### B3. Classification Reference
+## 3. Classification
 
-Use **PS x V** from table B2 and the **medium** to determine the risk class.
+Use **PS x V** from the table above and the **medium** to determine the risk class.
 
-#### Non-dangerous fluids (Group 2)
+### Non-dangerous fluids (Group 2)
 
 > Includes: compressed air, nitrogen, noble gases, water, steam, hydraulic oil, and other non-hazardous fluids.
 
@@ -100,7 +73,7 @@ Use **PS x V** from table B2 and the **medium** to determine the risk class.
 | 51 — 1,000 | Below | Owner responsibility, no mandatory inspection |
 | 50 or less | — | Not classified under AFS 2017:3 |
 
-#### Dangerous fluids (Group 1)
+### Dangerous fluids (Group 1)
 
 > **Warning:** These thresholds are much lower because dangerous fluids have severe consequences if released.
 
@@ -115,7 +88,7 @@ Use **PS x V** from table B2 and the **medium** to determine the risk class.
 
 ---
 
-### B4. Write Your Classification Here
+### Write your classification here
 
 | Nr | Vessel ID | Medium | Group | PS x V | Class | Inspector |
 |:--:|-----------|--------|:-----:|:------:|:-----:|-----------|
@@ -134,7 +107,7 @@ Use **PS x V** from table B2 and the **medium** to determine the risk class.
 
 ---
 
-### B5. Safety Devices
+## 4. Safety Devices
 
 > List every safety valve, bursting disc, or pressure switch protecting your vessels. These are usually mounted directly on the vessel or on the piping close to it.
 
@@ -150,7 +123,7 @@ Use **PS x V** from table B2 and the **medium** to determine the risk class.
 
 ---
 
-### B6. Placement Check
+## 5. Placement Check
 
 > For each vessel, check that its physical location is safe. Mark OK or X. Numbers correspond to vessel Nr above.
 
@@ -166,7 +139,7 @@ Use **PS x V** from table B2 and the **medium** to determine the risk class.
 
 ---
 
-### B7. Document Check
+## 6. Document Check
 
 > For each vessel, verify that the required paperwork exists. Mark OK or X.
 
@@ -174,8 +147,8 @@ Use **PS x V** from table B2 and the **medium** to determine the risk class.
 |-------|:-:|:-:|:-:|:-:|:-:|
 | Nameplate readable on vessel | | | | | |
 | EU Declaration of Conformity on file | | | | | |
-| Classification confirmed (section B3) | | | | | |
-| Safety devices documented (section B5) | | | | | |
+| Classification confirmed (section 3) | | | | | |
+| Safety devices documented (section 4) | | | | | |
 | Current inspection certificate on file | | | | | |
 | Operating instructions available | | | | | |
 
@@ -188,3 +161,99 @@ Use **PS x V** from table B2 and the **medium** to determine the risk class.
 | **Name** | |
 | **Signature** | |
 | **Date** | |
+
+---
+
+## Blank Continuation Pages
+
+> **Note:** Print the pages below when you have more than 10 vessels. The tables are identical to sections 1-6 above but without pre-filled numbers — write your own Nr starting from where you left off.
+
+---
+
+### Vessel Register (continuation)
+
+| Nr | Vessel ID | Description | Location |
+|:--:|-----------|-------------|----------|
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+
+---
+
+### Technical Data (continuation)
+
+| Nr | PS (bar) | Temp. max (C) | Volume (L) | PS x V | Medium |
+|:--:|:--------:|:-------------:|:----------:|:------:|--------|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+---
+
+### Classification (continuation)
+
+| Nr | Vessel ID | Medium | Group | PS x V | Class | Inspector |
+|:--:|-----------|--------|:-----:|:------:|:-----:|-----------|
+| | | | 1 / 2 | | A / B / - | |
+| | | | 1 / 2 | | A / B / - | |
+| | | | 1 / 2 | | A / B / - | |
+| | | | 1 / 2 | | A / B / - | |
+| | | | 1 / 2 | | A / B / - | |
+| | | | 1 / 2 | | A / B / - | |
+| | | | 1 / 2 | | A / B / - | |
+| | | | 1 / 2 | | A / B / - | |
+| | | | 1 / 2 | | A / B / - | |
+| | | | 1 / 2 | | A / B / - | |
+
+**Totals:** Class A: \_\_\_\_ | Class B: \_\_\_\_ | Exempt: \_\_\_\_ | **Total vessels:** \_\_\_\_
+
+---
+
+### Safety Devices (continuation)
+
+| Device | Type | Protects vessel | Set pressure (bar) | Last test | Next test |
+|--------|------|---------:|:------------------:|:---------:|:---------:|
+| | SV / BD / PS | | | | |
+| | SV / BD / PS | | | | |
+| | SV / BD / PS | | | | |
+| | SV / BD / PS | | | | |
+| | SV / BD / PS | | | | |
+
+---
+
+### Placement Check (continuation)
+
+| Check | | | | | |
+|-------|:-:|:-:|:-:|:-:|:-:|
+| Can be maintained and inspected | | | | | |
+| Protected from nearby activities | | | | | |
+| Personnel can shut off if needed | | | | | |
+| Personnel can evacuate if needed | | | | | |
+| Temperature within design range | | | | | |
+
+---
+
+### Document Check (continuation)
+
+| Check | | | | | |
+|-------|:-:|:-:|:-:|:-:|:-:|
+| Nameplate readable on vessel | | | | | |
+| EU Declaration of Conformity on file | | | | | |
+| Classification confirmed (section 3) | | | | | |
+| Safety devices documented (section 4) | | | | | |
+| Current inspection certificate on file | | | | | |
+| Operating instructions available | | | | | |
