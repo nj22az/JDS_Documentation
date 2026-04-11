@@ -1,143 +1,131 @@
-# 07 — Annual Supervision Program Review
+# 07 — How Did the Year Go
+
+Fill this in once per year (typically December). Look back at all your rounds, findings, and changes. Decide if the program needs updating for next year.
+
+---
 
 | | |
 |---|---|
-| **Program ID** | SP-\_\_\_\_\_ |
-| **Review period** | \_\_\_\_\_\_\_\_ to \_\_\_\_\_\_\_\_ |
-| **Review date** | \_\_\_\_ / \_\_\_\_ / \_\_\_\_\_\_\_\_ |
-| **Site** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Reviewed by** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-
-> **AFS 2017:3, 4 Kap. §17:** Supervision routines shall be evaluated and revised at least once per year.
+| **Program ID** | SP- |
+| **Year reviewed** | |
+| **Review date** | |
+| **Reviewed by** | |
 
 ---
 
-## 1. Round Completion
+## 1. Did You Complete All Rounds?
 
-| Round Type | Planned | Completed | Missed | Rate |
-|-----------|:-------:|:---------:|:------:|:----:|
-| Monthly | 12 | | | % |
-| Quarterly | 4 | | | % |
-| Annual | 1 | | | % |
-| Special | — | | | — |
-| **Total** | **17** | | | **%** |
-
----
-
-## 2. Findings Summary
-
-| Severity | Raised | Closed | Open | Rate |
-|----------|:------:|:------:|:----:|:----:|
-| Critical | | | | % |
-| Major | | | | % |
-| Minor | | | | % |
-| Observation | | | | % |
-| **Total** | | | | **%** |
+| Round type | Planned | Done | Missed |
+|-----------|:-------:|:----:|:------:|
+| Monthly | 12 | | |
+| Quarterly | 4 | | |
+| Annual | 1 | | |
+| Special | — | | |
 
 ---
 
-## 3. Recurring Findings
+## 2. What Did You Find?
 
-| Finding | Occurrences | Vessels | Root Cause Known | Action |
-|---------|:-----------:|---------|:----------------:|--------|
-| | | | Y / N | |
-| | | | Y / N | |
+| Severity | Found | Fixed | Still open |
+|----------|:-----:|:-----:|:----------:|
+| Critical | | | |
+| Major | | | |
+| Minor | | | |
+| Observation | | | |
+
+**Any recurring findings?** (same problem showing up repeatedly)
+
+| What keeps happening | How many times | Which vessels | Root cause known? |
+|---------------------|:--------------:|---------------|:-----------------:|
+| | | | Y / N |
+| | | | Y / N |
 
 ---
 
-## 4. Equipment Changes This Year
+## 3. Did Equipment Change?
 
 **Added:**
 
-| Vessel ID | Description | Class | Added to Program |
-|-----------|-------------|:-----:|:----------------:|
+| Vessel ID | Description | Class | Added to program? |
+|-----------|-------------|:-----:|:-----------------:|
 | | | | Y / N |
 
-**Removed / Decommissioned:**
+**Removed:**
 
-| Vessel ID | Description | Date | Reason |
-|-----------|-------------|:----:|--------|
-| | | | |
+| Vessel ID | Why removed | Date |
+|-----------|------------|:----:|
+| | | |
 
 **Modified:**
 
-| Vessel ID | Modification | Reclass. Needed |
-|-----------|-------------|:---------------:|
+| Vessel ID | What changed | Reclassify? |
+|-----------|-------------|:-----------:|
 | | | Y / N |
 
 ---
 
-## 5. Operating Condition Changes
+## 4. Did Anything Else Change?
 
-| Change | Affected Vessels | Program Update Needed |
-|--------|-----------------|:--------------------:|
+| Change | Details | Update program? |
+|--------|---------|:---------------:|
+| Operating conditions | | Y / N |
+| Regulations | | Y / N |
+| Personnel | | Y / N |
+
+---
+
+## 5. How Is Your Team?
+
+| Name | Role | Competence current? |
+|------|------|:-------------------:|
 | | | Y / N |
 | | | Y / N |
 
 ---
 
-## 6. Regulatory Changes
+## 6. Overall — How Did It Go?
 
-| Regulation | Change | Impact |
-|-----------|--------|:------:|
-| | | None / Update |
-| | | None / Update |
-
----
-
-## 7. Personnel
-
-| Name | Role | Competence Current | Refresher Due |
-|------|------|:------------------:|:-------------:|
-| | | Y / N | |
-| | | Y / N | |
-
----
-
-## 8. Program Effectiveness
-
-| Criterion | Rating |
+| Question | Rating |
 |----------|:------:|
-| Rounds completed on time | G / A / P |
-| Findings identified promptly | G / A / P |
-| Corrective actions closed within target | G / A / P |
-| No repeat critical findings | G / A / P |
-| Equipment register accurate | G / A / P |
-| Personnel competence maintained | G / A / P |
-| Documentation complete | G / A / P |
+| All rounds done on time? | G / A / P |
+| Problems found early? | G / A / P |
+| Findings fixed on time? | G / A / P |
+| No repeat critical issues? | G / A / P |
+| Equipment register up to date? | G / A / P |
+| Documentation complete? | G / A / P |
 
 > **G** = Good | **A** = Acceptable | **P** = Poor
 
-**Overall effectiveness:** Good / Acceptable / Needs Improvement
+**Overall:** Good / Acceptable / Needs Improvement
 
 ---
 
-## 9. Improvements for Next Year
+## 7. What Will You Improve Next Year?
 
-| # | Improvement | Responsible | Target Date |
-|:-:|-----------|-------------|:-----------:|
+| # | Improvement | Who | By when |
+|:-:|-----------|-----|:-------:|
 | 1 | | | |
 | 2 | | | |
 | 3 | | | |
 
 ---
 
-## 10. Decision
+## 8. Decision
 
 | | |
 |---|---|
-| **Program revision required?** | Yes / No |
-| **Changes needed** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **New revision to be issued by** | \_\_\_\_ / \_\_\_\_ / \_\_\_\_\_\_\_\_ |
-| **Next annual review due** | \_\_\_\_ / \_\_\_\_ / \_\_\_\_\_\_\_\_ |
+| **Does the program need updating?** | Yes / No |
+| **If yes, what changes?** | |
+| **New version to be issued by** | |
+| **Next annual review due** | |
 
 ---
 
-## 11. Sign-Off
+## Sign-Off
 
 | | |
 |---|---|
-| **Reviewed by (signature)** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Date** | \_\_\_\_ / \_\_\_\_ / \_\_\_\_\_\_\_\_ |
-| **Approved by (signature)** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Date** | \_\_\_\_ / \_\_\_\_ / \_\_\_\_\_\_\_\_ |
+| **Reviewed by (signature)** | |
+| **Date** | |
+| **Approved by (signature)** | |
+| **Date** | |

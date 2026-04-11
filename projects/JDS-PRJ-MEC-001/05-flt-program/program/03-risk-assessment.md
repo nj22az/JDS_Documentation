@@ -1,150 +1,111 @@
-# 03 — Risk Assessment
+# 03 — What Can Go Wrong
 
-| | |
-|---|---|
-| **Document No.** | JDS-RPT-MEC-\_\_\_\_\_ |
-| **Program ID** | SP-\_\_\_\_\_ |
-| **Date** | \_\_\_\_ / \_\_\_\_ / \_\_\_\_\_\_\_\_ |
-| **Site** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-
-> **AFS 2017:3, 2 Kap. §1:** The employer shall assess risks considering: experience from use, remaining lifetime information, repairs and modifications, accidents and incidents, and deviation reports.
+For each vessel in your inventory (Doc 02), think about what hazards exist, what could cause them, and how bad it would be. Rate each risk and decide if you need to do something about it.
 
 ---
 
-## 1. Risk Matrix
+## How to Rate a Risk
 
-**Probability (P):**
-1 = Very unlikely | 2 = Unlikely | 3 = Possible | 4 = Likely | 5 = Very likely
+**Probability (P)** — how likely is it?
 
-**Consequence (C):**
-1 = Negligible | 2 = Minor injury | 3 = Medical treatment | 4 = Serious injury | 5 = Fatal
+| 1 | 2 | 3 | 4 | 5 |
+|:-:|:-:|:-:|:-:|:-:|
+| Very unlikely | Unlikely | Possible | Likely | Very likely |
 
-**Risk = P x C:**
-1-4 Low (acceptable) | 5-9 Medium (monitor) | 10-15 High (action needed) | 16-25 Critical (stop)
+**Consequence (C)** — how bad would it be?
 
----
+| 1 | 2 | 3 | 4 | 5 |
+|:-:|:-:|:-:|:-:|:-:|
+| Negligible | Minor injury | Medical treatment | Serious injury | Fatal |
 
-## 2. Risk Assessment Per Vessel
+**Risk = P x C**
 
-### Vessel Nr: \_\_\_\_ ID: \_\_\_\_\_\_\_\_\_\_ Description: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-**Hazard identification:**
-
-| # | Hazard | Cause | Consequence |
-|:-:|--------|-------|-------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-
-**Risk rating:**
-
-| # | Existing Safeguard | P | C | Risk | Action Required |
-|:-:|-------------------|:-:|:-:|:----:|----------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| 1-4 | 5-9 | 10-15 | 16-25 |
+|:---:|:---:|:-----:|:-----:|
+| Low — OK | Medium — monitor | High — fix it | Critical — stop |
 
 ---
 
-### Vessel Nr: \_\_\_\_ ID: \_\_\_\_\_\_\_\_\_\_ Description: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+## Vessel: Nr \_\_\_\_ ID: \_\_\_\_\_\_\_\_\_\_\_\_ Description: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Hazard identification:**
+| # | What can happen | Why it happens | How bad is it | What protects it now | P | C | Risk |
+|:-:|----------------|---------------|--------------|---------------------|:-:|:-:|:----:|
+| 1 | | | | | | | |
+| 2 | | | | | | | |
+| 3 | | | | | | | |
+| 4 | | | | | | | |
+| 5 | | | | | | | |
 
-| # | Hazard | Cause | Consequence |
-|:-:|--------|-------|-------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-
-**Risk rating:**
-
-| # | Existing Safeguard | P | C | Risk | Action Required |
-|:-:|-------------------|:-:|:-:|:----:|----------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+**Action needed?** No / Yes: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ---
 
-### Vessel Nr: \_\_\_\_ ID: \_\_\_\_\_\_\_\_\_\_ Description: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+## Vessel: Nr \_\_\_\_ ID: \_\_\_\_\_\_\_\_\_\_\_\_ Description: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Hazard identification:**
+| # | What can happen | Why it happens | How bad is it | What protects it now | P | C | Risk |
+|:-:|----------------|---------------|--------------|---------------------|:-:|:-:|:----:|
+| 1 | | | | | | | |
+| 2 | | | | | | | |
+| 3 | | | | | | | |
+| 4 | | | | | | | |
+| 5 | | | | | | | |
 
-| # | Hazard | Cause | Consequence |
-|:-:|--------|-------|-------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-
-**Risk rating:**
-
-| # | Existing Safeguard | P | C | Risk | Action Required |
-|:-:|-------------------|:-:|:-:|:----:|----------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
-
-*(Print additional copies of this page for more vessels)*
+**Action needed?** No / Yes: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ---
 
-## 3. Common Hazards Reference
+## Vessel: Nr \_\_\_\_ ID: \_\_\_\_\_\_\_\_\_\_\_\_ Description: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Use this list as a starting point when identifying hazards:
+| # | What can happen | Why it happens | How bad is it | What protects it now | P | C | Risk |
+|:-:|----------------|---------------|--------------|---------------------|:-:|:-:|:----:|
+| 1 | | | | | | | |
+| 2 | | | | | | | |
+| 3 | | | | | | | |
+| 4 | | | | | | | |
+| 5 | | | | | | | |
 
-| Hazard | Typical Cause | Typical Consequence |
-|--------|--------------|---------------------|
-| Over-pressure / burst | Control failure, safety valve failure | Blast, equipment damage |
-| Internal corrosion | Condensate, corrosive medium | Wall thinning, failure |
-| External corrosion | Environmental exposure, CUI | Wall thinning, failure |
-| Leakage | Failed gasket, cracked weld | Fluid release, scald |
-| External impact | Nearby works, vehicle collision | Equipment damage |
-| Safety valve stuck open | Corrosion, seized | Uncontrolled release |
-| Safety valve stuck closed | Corrosion, seized | Over-pressure risk |
+**Action needed?** No / Yes: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(Print extra copies of this page for more vessels)*
+
+---
+
+## Common Hazards — Use This As a Starting Point
+
+| What can happen | Why it happens | How bad |
+|----------------|---------------|---------|
+| Over-pressure / burst | Safety valve or control failure | Blast, equipment damage |
+| Internal corrosion | Condensate, corrosive medium | Wall thins, eventual failure |
+| External corrosion | Weather, dripping, insulation damage | Wall thins, eventual failure |
+| Leakage | Failed gasket, cracked weld | Fluid release, scald risk |
+| External impact | Vehicle, nearby works | Equipment damage |
+| Safety valve stuck | Corrosion, seized mechanism | Over-pressure or release |
 | High temperature | Control failure | Damage, fire risk |
-| Low water level (boilers) | Control failure, leak | Dry-fire, explosion |
-| Fatigue | Pressure cycling | Crack initiation |
-| Creep | Sustained high temperature | Deformation, rupture |
-| Oxygen displacement (cryogenic) | Leak in confined space | Asphyxiation |
 
 ---
 
-## 4. Risk Summary
+## Risk Summary
 
-| Nr | Vessel ID | Highest Risk | Overall | Action Required |
-|:--:|-----------|:------------:|:-------:|----------------|
-| 1 | | | Low / Med / High | |
-| 2 | | | Low / Med / High | |
-| 3 | | | Low / Med / High | |
-| 4 | | | Low / Med / High | |
-| 5 | | | Low / Med / High | |
-| 6 | | | Low / Med / High | |
-| 7 | | | Low / Med / High | |
-| 8 | | | Low / Med / High | |
-| 9 | | | Low / Med / High | |
-| 10 | | | Low / Med / High | |
+| Nr | Vessel ID | Highest risk | Action needed |
+|:--:|-----------|:------------:|---------------|
+| 1 | | Low / Med / High | |
+| 2 | | Low / Med / High | |
+| 3 | | Low / Med / High | |
+| 4 | | Low / Med / High | |
+| 5 | | Low / Med / High | |
+| 6 | | Low / Med / High | |
+| 7 | | Low / Med / High | |
+| 8 | | Low / Med / High | |
+| 9 | | Low / Med / High | |
+| 10 | | Low / Med / High | |
 
 ---
 
-## 5. Sign-Off
+## Sign-Off
 
 | | |
 |---|---|
-| **Assessed by** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Signature** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Date** | \_\_\_\_ / \_\_\_\_ / \_\_\_\_\_\_\_\_ |
-| **Reviewed by** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Date** | \_\_\_\_ / \_\_\_\_ / \_\_\_\_\_\_\_\_ |
-| **Next review due** | \_\_\_\_ / \_\_\_\_ / \_\_\_\_\_\_\_\_ |
+| **Assessed by** | |
+| **Signature** | |
+| **Date** | |
+| **Next review due** | |

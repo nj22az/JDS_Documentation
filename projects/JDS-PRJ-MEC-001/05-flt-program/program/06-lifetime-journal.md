@@ -1,126 +1,94 @@
-# 06 — Lifetime Journal
+# 06 — How Long Will It Last
 
-| | |
-|---|---|
-| **Document No.** | JDS-LOG-MEC-\_\_\_\_\_ |
-| **Program ID** | SP-\_\_\_\_\_ |
-| **Date** | \_\_\_\_ / \_\_\_\_ / \_\_\_\_\_\_\_\_ |
-| **Site** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-
-> **AFS 2017:3, 4 Kap. §18:** The employer shall maintain a journal showing remaining lifetime for Class A/B equipment with limited lifetime. Equipment that has reached its documented lifetime may only remain pressurised if an analysis demonstrating extended lifetime has been conducted and documented.
+This journal tracks the remaining life of your vessels. Update it after each wall thickness measurement or formal inspection. If a vessel reaches its calculated end of life, it must be taken out of service or have a documented lifetime extension analysis.
 
 ---
 
-## 1. Previous Experience (AFS 2017:3, 2 Kap. §1)
+## Which Vessels Need This Journal?
 
-| Nr | Vessel ID | Usage experience considered | Repairs/modifications considered | Incidents considered | Deviations considered |
-|:--:|-----------|:--:|:--:|:--:|:--:|
-| 1 | | Y / N | Y / N | Y / N | Y / N |
-| 2 | | Y / N | Y / N | Y / N | Y / N |
-| 3 | | Y / N | Y / N | Y / N | Y / N |
-| 4 | | Y / N | Y / N | Y / N | Y / N |
-| 5 | | Y / N | Y / N | Y / N | Y / N |
+> Only Class A and B vessels with limited lifetime need this journal (AFS 2017:3, 4 Kap. §18). If corrosion, fatigue, or creep could shorten the vessel's life, track it here.
 
----
-
-## 2. Damage Mechanism Assessment
-
-| Nr | Vessel ID | Corrosion | Fatigue | Creep | Other |
-|:--:|-----------|:---------:|:-------:|:-----:|:-----:|
-| 1 | | Y / N | Y / N | Y / N | Y / N |
-| 2 | | Y / N | Y / N | Y / N | Y / N |
-| 3 | | Y / N | Y / N | Y / N | Y / N |
-| 4 | | Y / N | Y / N | Y / N | Y / N |
-| 5 | | Y / N | Y / N | Y / N | Y / N |
+| Nr | Vessel ID | Corrosion? | Fatigue? | Creep? |
+|:--:|-----------|:----------:|:--------:|:------:|
+| 1 | | Y / N | Y / N | Y / N |
+| 2 | | Y / N | Y / N | Y / N |
+| 3 | | Y / N | Y / N | Y / N |
+| 4 | | Y / N | Y / N | Y / N |
+| 5 | | Y / N | Y / N | Y / N |
 
 ---
 
-## 3. Design Parameters
+## Design Data
 
-| Nr | Vessel ID | Material | Wall (mm) | Min. Req. (mm) | Corrosion Allow. (mm) |
-|:--:|-----------|----------|:---------:|:--------------:|:--------------------:|
+> Get this from the manufacturer data sheet or design documentation.
+
+| Nr | Vessel ID | Material | Wall (mm) | Min. required (mm) | Allowance (mm) |
+|:--:|-----------|----------|:---------:|:------------------:|:--------------:|
 | 1 | | | | | |
 | 2 | | | | | |
 | 3 | | | | | |
 | 4 | | | | | |
 | 5 | | | | | |
 
+> **Allowance** = Wall minus Min. required. This is how much material can corrode away before the vessel is unsafe.
+
 ---
 
-## 4. Wall Thickness Measurements
+## Wall Thickness Measurements
 
-### Vessel Nr: \_\_\_\_ ID: \_\_\_\_\_\_\_\_\_\_
+> After each ultrasonic measurement, add a row. Calculate the corrosion rate and remaining life.
 
-| Date | Location | Measured (mm) | Rate (mm/yr) | Remaining (yr) | Inspector |
+### Vessel Nr \_\_\_ ID: \_\_\_\_\_\_\_\_\_\_
+
+| Date | Location | Measured (mm) | Rate (mm/yr) | Life left (yr) | Inspector |
 |:----:|----------|:------------:|:------------:|:--------------:|-----------|
 | | | | | | |
 | | | | | | |
 | | | | | | |
-| | | | | | |
 
-> **Rate** = (previous - current) / years between | **Remaining** = (measured - min. required) / rate
+> **Rate** = (previous - current) / years between. **Life left** = (measured - min. required) / rate.
 
-**Condition trend:** Stable / Declining / Accelerating
+**Trend:** Stable / Getting worse / Getting worse fast
 
 ---
 
-### Vessel Nr: \_\_\_\_ ID: \_\_\_\_\_\_\_\_\_\_
+### Vessel Nr \_\_\_ ID: \_\_\_\_\_\_\_\_\_\_
 
-| Date | Location | Measured (mm) | Rate (mm/yr) | Remaining (yr) | Inspector |
+| Date | Location | Measured (mm) | Rate (mm/yr) | Life left (yr) | Inspector |
 |:----:|----------|:------------:|:------------:|:--------------:|-----------|
 | | | | | | |
 | | | | | | |
 | | | | | | |
-| | | | | | |
 
-**Condition trend:** Stable / Declining / Accelerating
+**Trend:** Stable / Getting worse / Getting worse fast
 
 ---
 
-### Vessel Nr: \_\_\_\_ ID: \_\_\_\_\_\_\_\_\_\_
+### Vessel Nr \_\_\_ ID: \_\_\_\_\_\_\_\_\_\_
 
-| Date | Location | Measured (mm) | Rate (mm/yr) | Remaining (yr) | Inspector |
+| Date | Location | Measured (mm) | Rate (mm/yr) | Life left (yr) | Inspector |
 |:----:|----------|:------------:|:------------:|:--------------:|-----------|
 | | | | | | |
 | | | | | | |
 | | | | | | |
-| | | | | | |
 
-**Condition trend:** Stable / Declining / Accelerating
+**Trend:** Stable / Getting worse / Getting worse fast
 
-*(Print additional copies of this page for more vessels)*
-
----
-
-## 5. Fatigue Tracking (if applicable)
-
-| Nr | Vessel ID | Design Cycles | Counted | Remaining | Rate (/yr) | Est. Life (yr) |
-|:--:|-----------|:------------:|:-------:|:---------:|:----------:|:--------------:|
-| | | | | | | |
-| | | | | | | |
+*(Print extra copies for more vessels)*
 
 ---
 
-## 6. Creep Tracking (if applicable)
+## Lifetime Summary
 
-| Nr | Vessel ID | Design Hours | Logged | Remaining | Rate (hr/yr) | Est. Life (yr) |
-|:--:|-----------|:-----------:|:------:|:---------:|:------------:|:--------------:|
-| | | | | | | |
-| | | | | | | |
-
----
-
-## 7. Lifetime Summary
-
-| Nr | Vessel ID | Limiting Mechanism | Remaining Life | Status |
-|:--:|-----------|-------------------|:--------------:|:------:|
+| Nr | Vessel ID | Main problem | Life left | Status |
+|:--:|-----------|-------------|:---------:|:------:|
 | 1 | | | yr | S / M / C / E |
 | 2 | | | yr | S / M / C / E |
 | 3 | | | yr | S / M / C / E |
 | 4 | | | yr | S / M / C / E |
 | 5 | | | yr | S / M / C / E |
 
-> **S** = Safe (> 2x inspection interval) | **M** = Monitor (1-2x interval) | **C** = Critical (< 1x interval) | **E** = Expired (must not pressurise)
+> **S** = Safe (plenty of life left) | **M** = Monitor (getting close) | **C** = Critical (needs engineering assessment) | **E** = Expired (must not be pressurised)
 
 ---
 
@@ -128,6 +96,6 @@
 
 | | |
 |---|---|
-| **Name** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Signature** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Date** | \_\_\_\_ / \_\_\_\_ / \_\_\_\_\_\_\_\_ |
+| **Name** | |
+| **Signature** | |
+| **Date** | |

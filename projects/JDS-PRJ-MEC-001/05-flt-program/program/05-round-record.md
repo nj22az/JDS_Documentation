@@ -1,141 +1,133 @@
-# 05 — Supervision Round Record
+# 05 — Round Checklist
 
-> **Print multiple copies.** You need one per round (typically 12-17 per year).
+> **Print multiple copies.** You need one for every round (12-17 per year). Take this to the site, check every vessel, mark OK or X, sign and file.
 
 | | |
 |---|---|
-| **Program ID** | SP-\_\_\_\_\_ |
-| **Round date** | \_\_\_\_ / \_\_\_\_ / \_\_\_\_\_\_\_\_ |
-| **Round type** | Monthly / Quarterly / Special |
-| **Performed by** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| **Date** | |
+| **Round type** | Monthly / Quarterly |
+| **Performed by** | |
+| **Program ID** | SP- |
 
 ---
 
-## 1. General Site Checks
+## Site Checks
 
-| # | Check | OK | X | N/A | Notes |
-|:-:|-------|:--:|:-:|:---:|-------|
-| 1 | Access to all vessels clear and safe | | | | |
-| 2 | Lighting adequate for inspection | | | | |
-| 3 | No unusual sounds or odours | | | | |
-| 4 | Housekeeping around vessels acceptable | | | | |
-| 5 | Emergency equipment accessible | | | | |
-
----
-
-## 2. Vessel Checks
-
-### Vessel Nr: \_\_\_\_ ID: \_\_\_\_\_\_\_\_\_\_ Description: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-**Readings:** Pressure: \_\_\_\_\_\_ bar | Temperature: \_\_\_\_\_\_ C
-
-| # | Check (AFS 2017:3, 2 Kap. §6) | OK | X | N/A |
-|:-:|-------------------------------|:--:|:-:|:---:|
-| 1 | Equipment functions satisfactorily | | | |
-| 2 | No leaks at connections, flanges, valves | | | |
-| 3 | No harmful external or internal impact | | | |
-| 4 | No other faults or deviations | | | |
-| 5 | Correctly marked (nameplate, labels) | | | |
-| 6 | Prescribed inspections carried out | | | |
-
-| # | Additional Check | OK | X | N/A |
-|:-:|-----------------|:--:|:-:|:---:|
-| 7 | Safety valve seal intact, not gagged | | | |
-| 8 | External surface: no corrosion, dents, cracks | | | |
-| 9 | Insulation intact (if applicable) | | | |
-| 10 | Supports and foundation intact | | | |
-| 11 | Drain valve functional | | | |
-
-**Notes:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+| # | Check | OK | X | Notes |
+|:-:|-------|:--:|:-:|-------|
+| 1 | Access to all vessels clear and safe | | | |
+| 2 | Lighting adequate | | | |
+| 3 | No unusual sounds or smells | | | |
+| 4 | Area around vessels clean and tidy | | | |
+| 5 | Emergency equipment accessible | | | |
 
 ---
 
-### Vessel Nr: \_\_\_\_ ID: \_\_\_\_\_\_\_\_\_\_ Description: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+## Vessel: Nr \_\_\_ ID: \_\_\_\_\_\_\_\_\_\_ Type: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Readings:** Pressure: \_\_\_\_\_\_ bar | Temperature: \_\_\_\_\_\_ C
+**Readings:** Pressure \_\_\_\_\_ bar | Temperature \_\_\_\_\_ C
 
-| # | Check (AFS 2017:3, 2 Kap. §6) | OK | X | N/A |
-|:-:|-------------------------------|:--:|:-:|:---:|
-| 1 | Equipment functions satisfactorily | | | |
-| 2 | No leaks at connections, flanges, valves | | | |
-| 3 | No harmful external or internal impact | | | |
-| 4 | No other faults or deviations | | | |
-| 5 | Correctly marked (nameplate, labels) | | | |
-| 6 | Prescribed inspections carried out | | | |
+| # | The 6 mandatory checks | OK | X |
+|:-:|----------------------|:--:|:-:|
+| 1 | Works properly — no abnormal noise, vibration, or behaviour | | |
+| 2 | No leaks at flanges, valves, connections | | |
+| 3 | No damage — no dents, corrosion, cracks, impact marks | | |
+| 4 | No other faults or deviations | | |
+| 5 | Correctly marked — nameplate readable, labels in place | | |
+| 6 | Inspections up to date — certificate not expired | | |
 
-| # | Additional Check | OK | X | N/A |
-|:-:|-----------------|:--:|:-:|:---:|
-| 7 | Safety valve seal intact, not gagged | | | |
-| 8 | External surface: no corrosion, dents, cracks | | | |
-| 9 | Insulation intact (if applicable) | | | |
-| 10 | Supports and foundation intact | | | |
-| 11 | Drain valve functional | | | |
+| # | Additional checks | OK | X |
+|:-:|------------------|:--:|:-:|
+| 7 | Safety valve seal intact, not blocked | | |
+| 8 | Insulation intact (if applicable) | | |
+| 9 | Supports and foundation solid | | |
+| 10 | Drain valve works | | |
 
-**Notes:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
----
-
-### Vessel Nr: \_\_\_\_ ID: \_\_\_\_\_\_\_\_\_\_ Description: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-**Readings:** Pressure: \_\_\_\_\_\_ bar | Temperature: \_\_\_\_\_\_ C
-
-| # | Check (AFS 2017:3, 2 Kap. §6) | OK | X | N/A |
-|:-:|-------------------------------|:--:|:-:|:---:|
-| 1 | Equipment functions satisfactorily | | | |
-| 2 | No leaks at connections, flanges, valves | | | |
-| 3 | No harmful external or internal impact | | | |
-| 4 | No other faults or deviations | | | |
-| 5 | Correctly marked (nameplate, labels) | | | |
-| 6 | Prescribed inspections carried out | | | |
-
-| # | Additional Check | OK | X | N/A |
-|:-:|-----------------|:--:|:-:|:---:|
-| 7 | Safety valve seal intact, not gagged | | | |
-| 8 | External surface: no corrosion, dents, cracks | | | |
-| 9 | Insulation intact (if applicable) | | | |
-| 10 | Supports and foundation intact | | | |
-| 11 | Drain valve functional | | | |
-
-**Notes:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-*(Print additional copies of this page for more vessels)*
+**Notes:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ---
 
-## 3. Findings
+## Vessel: Nr \_\_\_ ID: \_\_\_\_\_\_\_\_\_\_ Type: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-| # | Vessel | Description | Severity | Action Required |
-|:-:|--------|-------------|:--------:|----------------|
+**Readings:** Pressure \_\_\_\_\_ bar | Temperature \_\_\_\_\_ C
+
+| # | The 6 mandatory checks | OK | X |
+|:-:|----------------------|:--:|:-:|
+| 1 | Works properly — no abnormal noise, vibration, or behaviour | | |
+| 2 | No leaks at flanges, valves, connections | | |
+| 3 | No damage — no dents, corrosion, cracks, impact marks | | |
+| 4 | No other faults or deviations | | |
+| 5 | Correctly marked — nameplate readable, labels in place | | |
+| 6 | Inspections up to date — certificate not expired | | |
+
+| # | Additional checks | OK | X |
+|:-:|------------------|:--:|:-:|
+| 7 | Safety valve seal intact, not blocked | | |
+| 8 | Insulation intact (if applicable) | | |
+| 9 | Supports and foundation solid | | |
+| 10 | Drain valve works | | |
+
+**Notes:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+---
+
+## Vessel: Nr \_\_\_ ID: \_\_\_\_\_\_\_\_\_\_ Type: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Readings:** Pressure \_\_\_\_\_ bar | Temperature \_\_\_\_\_ C
+
+| # | The 6 mandatory checks | OK | X |
+|:-:|----------------------|:--:|:-:|
+| 1 | Works properly — no abnormal noise, vibration, or behaviour | | |
+| 2 | No leaks at flanges, valves, connections | | |
+| 3 | No damage — no dents, corrosion, cracks, impact marks | | |
+| 4 | No other faults or deviations | | |
+| 5 | Correctly marked — nameplate readable, labels in place | | |
+| 6 | Inspections up to date — certificate not expired | | |
+
+| # | Additional checks | OK | X |
+|:-:|------------------|:--:|:-:|
+| 7 | Safety valve seal intact, not blocked | | |
+| 8 | Insulation intact (if applicable) | | |
+| 9 | Supports and foundation solid | | |
+| 10 | Drain valve works | | |
+
+**Notes:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(Print extra copies for more vessels)*
+
+---
+
+## Findings
+
+| # | Vessel | What is wrong | How serious | Action needed |
+|:-:|--------|--------------|:----------:|---------------|
 | 1 | | | C / Ma / Mi / O | |
 | 2 | | | C / Ma / Mi / O | |
 | 3 | | | C / Ma / Mi / O | |
 
-> C = Critical | Ma = Major | Mi = Minor | O = Observation
+> C = Critical (stop now) | Ma = Major (fix within 30 days) | Mi = Minor (fix within 90 days) | O = Observation (watch it)
 
 ---
 
-## 4. Previous Findings Follow-Up
+## Previous Findings
 
-| Ref | Original Date | Description | Status |
-|-----|:-------------:|-------------|:------:|
-| | | | Open / Closed |
-| | | | Open / Closed |
-| | | | Open / Closed |
+| From when | What was it | Fixed now? |
+|:---------:|------------|:----------:|
+| | | Yes / No |
+| | | Yes / No |
+| | | Yes / No |
 
 ---
 
-## 5. Round Summary and Sign-Off
+## Round Complete
 
 | | |
 |---|---|
-| **Vessels inspected** | \_\_\_\_ of \_\_\_\_ |
-| **Findings this round** | \_\_\_\_ (C: \_\_ Ma: \_\_ Mi: \_\_ O: \_\_) |
-| **Previous findings closed** | \_\_\_\_ |
-| **Previous findings still open** | \_\_\_\_ |
-| **Overall site condition** | Good / Acceptable / Needs attention |
-
+| **Vessels checked** | \_\_\_ of \_\_\_ |
+| **Findings this round** | \_\_\_ |
+| **Old findings closed** | \_\_\_ |
+| **Overall condition** | Good / OK / Needs attention |
 | | |
-|---|---|
-| **Inspected by (signature)** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Date** | \_\_\_\_ / \_\_\_\_ / \_\_\_\_\_\_\_\_ |
-| **Next scheduled round** | \_\_\_\_ / \_\_\_\_ / \_\_\_\_\_\_\_\_ |
+| **Signature** | |
+| **Date** | |
+| **Next round** | |

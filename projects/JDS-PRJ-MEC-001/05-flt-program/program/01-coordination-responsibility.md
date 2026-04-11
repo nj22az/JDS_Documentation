@@ -1,84 +1,85 @@
-# 01 — Coordination Responsibility
+# 01 — Who Is Responsible
 
-| | |
-|---|---|
-| **Document No.** | JDS-LOG-MEC-\_\_\_\_\_ |
-| **Program ID** | SP-\_\_\_\_\_ |
-| **Date** | \_\_\_\_ / \_\_\_\_ / \_\_\_\_\_\_\_\_ |
-
-> **AFS 2017:3, 4 Kap. §14:** A physical person shall be appointed to plan and coordinate work on pressurised equipment — including assembly, installation, maintenance, and inspection. This person ensures written instructions exist and that ongoing supervision is carried out and documented.
+One person must be in charge of this supervision program. The law requires a named individual — not a department, not a role. Write their name below and have both parties sign.
 
 ---
 
-## 1. Company Information
+## The Coordination Person
+
+> This is the person who makes sure supervision happens, inspections are booked, and findings are acted on.
 
 | | |
 |---|---|
-| **Company name** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Organisation number** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Site / Facility** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Address** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| **Full name** | |
+| **Title / Role** | |
+| **Phone** | |
+| **Email** | |
+| **Date appointed** | |
 
----
-
-## 2. Coordination Person
-
-| | |
-|---|---|
-| **Full name** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Role / Title** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Phone** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Email** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Appointed date** | \_\_\_\_ / \_\_\_\_ / \_\_\_\_\_\_\_\_ |
-
----
-
-## 3. Deputy Coordination Person
+## Deputy (backup)
 
 | | |
 |---|---|
-| **Full name** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Role / Title** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Phone** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Appointed date** | \_\_\_\_ / \_\_\_\_ / \_\_\_\_\_\_\_\_ |
+| **Full name** | |
+| **Title / Role** | |
+| **Phone** | |
+| **Date appointed** | |
 
 ---
 
-## 4. Responsibilities
-
-The coordination person is responsible for:
-
-- [ ] Ensuring this supervision program is implemented and followed
-- [ ] Ensuring ongoing supervision is carried out and documented
-- [ ] Ensuring written operating instructions exist for all vessels
-- [ ] Coordinating assembly, installation, maintenance, and inspection work
-- [ ] Ensuring personnel performing supervision have documented competence
-- [ ] Ensuring findings are acted upon and corrective actions are closed
-- [ ] Ensuring formal inspections are scheduled and performed on time
-- [ ] Reviewing this program at least once per year (document 07)
-
----
-
-## 5. Accredited Inspection Body
+## Company and Site
 
 | | |
 |---|---|
-| **Name** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Contact person** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Phone** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Contract / ref** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| **Company name** | |
+| **Organisation number** | |
+| **Site / Facility** | |
+| **Address** | |
 
 ---
 
-## 6. Sign-Off
+## Accredited Inspection Body
 
-By signing below, the operator confirms that a coordination person has been appointed and is aware of their responsibilities under AFS 2017:3.
+> This is the company that performs formal inspections on Class A equipment (e.g. DEKRA, Kiwa, RISE).
 
 | | |
 |---|---|
-| **Operator signature** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Name (print)** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Date** | \_\_\_\_ / \_\_\_\_ / \_\_\_\_\_\_\_\_ |
+| **Name** | |
+| **Contact person** | |
+| **Phone** | |
+| **Contract / reference** | |
+
+---
+
+## What The Coordination Person Must Do
+
+The coordination person is responsible for making sure that:
+
+| # | Responsibility | Check |
+|:-:|---------------|:-----:|
+| 1 | This supervision program is followed | |
+| 2 | Every supervision round is performed and documented | |
+| 3 | Written operating instructions exist for all vessels | |
+| 4 | Personnel doing supervision have documented competence | |
+| 5 | Findings are acted on and corrective actions are closed | |
+| 6 | Formal inspections are booked and performed on time | |
+| 7 | This program is reviewed at least once per year (Doc 07) | |
+| 8 | Equipment added or removed is updated in Doc 02 | |
+
+> AFS 2017:3, 4 Kap. §14 and §17. Non-compliance: 10,000 — 100,000 SEK.
+
+---
+
+## Signatures
+
+By signing below, both parties confirm that a coordination person has been appointed and understands their responsibilities.
+
 | | |
-| **Coordination person signature** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Date** | \_\_\_\_ / \_\_\_\_ / \_\_\_\_\_\_\_\_ |
+|---|---|
+| **Operator (company representative)** | |
+| **Signature** | |
+| **Date** | |
+| | |
+| **Coordination person** | |
+| **Signature** | |
+| **Date** | |

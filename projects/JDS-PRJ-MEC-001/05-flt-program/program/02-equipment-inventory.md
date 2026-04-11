@@ -1,81 +1,44 @@
-# 02 — Equipment Inventory
+# 02 — What Equipment Do You Have
 
-| | |
-|---|---|
-| **Document No.** | JDS-LOG-MEC-\_\_\_\_\_ |
-| **Program ID** | SP-\_\_\_\_\_ |
-| **Date** | \_\_\_\_ / \_\_\_\_ / \_\_\_\_\_\_\_\_ |
-| **Site** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-
-> **AFS 2017:3, 4 Kap. §15:** The employer shall maintain a register of all Class A and Class B pressurised equipment at each workplace.
+Walk your site and list every pressurised vessel. For each one, write down the nameplate data. Then classify it to determine what inspections are required.
 
 ---
 
-## 1. Vessel Identification
+## How to Fill This In
 
-| Nr | Vessel ID | Description | Location | Manufacturer | Year | Serial No. |
-|:--:|-----------|-------------|----------|-------------|:----:|-----------|
-| 1 | | | | | | |
-| 2 | | | | | | |
-| 3 | | | | | | |
-| 4 | | | | | | |
-| 5 | | | | | | |
-| 6 | | | | | | |
-| 7 | | | | | | |
-| 8 | | | | | | |
-| 9 | | | | | | |
-| 10 | | | | | | |
+1. Go to each vessel and read the nameplate
+2. Write the data in the tables below (one row per vessel)
+3. Calculate PS x V (pressure times volume) for each vessel
+4. Use the classification guide to determine the risk class
+5. Write down when it was last inspected and when the next one is due
 
 ---
 
-## 2. Technical Data
+## Vessel Register
 
-| Nr | Vessel ID | PS (bar) | Ts max (C) | Volume (L) | PS x V | Medium |
-|:--:|-----------|:--------:|:----------:|:----------:|:------:|--------|
-| 1 | | | | | | |
-| 2 | | | | | | |
-| 3 | | | | | | |
-| 4 | | | | | | |
-| 5 | | | | | | |
-| 6 | | | | | | |
-| 7 | | | | | | |
-| 8 | | | | | | |
-| 9 | | | | | | |
-| 10 | | | | | | |
+> Write one row per vessel. Use the nameplate on the vessel for manufacturer data.
 
----
-
-## 3. Classification
-
-> **Classification rule (Group 2 — non-dangerous fluids):**
-> Class A: PS x V > 10,000 | Class B: PS x V > 1,000 | Below: PS x V > 200 | Simple PV: PS x V > 50
->
-> **Group 1 (dangerous fluids):**
-> Class A: PS x V > 3,000 | Class B: PS x V > 200 | Simple PV: PS x V > 50
-
-| Nr | Vessel ID | Fluid Group | Risk Class | Inspector | CE marked | DoC on file |
-|:--:|-----------|:-----------:|:----------:|-----------|:---------:|:-----------:|
-| 1 | | 1 / 2 | A / B | | Y / N | Y / N |
-| 2 | | 1 / 2 | A / B | | Y / N | Y / N |
-| 3 | | 1 / 2 | A / B | | Y / N | Y / N |
-| 4 | | 1 / 2 | A / B | | Y / N | Y / N |
-| 5 | | 1 / 2 | A / B | | Y / N | Y / N |
-| 6 | | 1 / 2 | A / B | | Y / N | Y / N |
-| 7 | | 1 / 2 | A / B | | Y / N | Y / N |
-| 8 | | 1 / 2 | A / B | | Y / N | Y / N |
-| 9 | | 1 / 2 | A / B | | Y / N | Y / N |
-| 10 | | 1 / 2 | A / B | | Y / N | Y / N |
-
-**Classification summary:** Class A: \_\_\_\_ | Class B: \_\_\_\_ | Below: \_\_\_\_ | Simple PV: \_\_\_\_ | **Total:** \_\_\_\_
+| Nr | Vessel ID | Description | Location |
+|:--:|-----------|-------------|----------|
+| 1 | | | |
+| 2 | | | |
+| 3 | | | |
+| 4 | | | |
+| 5 | | | |
+| 6 | | | |
+| 7 | | | |
+| 8 | | | |
+| 9 | | | |
+| 10 | | | |
 
 ---
 
-## 4. Inspection Schedule
+## Technical Data
 
-> **Standard intervals:** Class A: ext. 24 mo, int. 72 mo, pressure test 144 mo | Class B: ext. 36 mo, int. 72 mo
+> Read PS (design pressure) and volume from the nameplate. Multiply PS x V yourself.
 
-| Nr | Vessel ID | Class | Last Inspection | Type | Next Due |
-|:--:|-----------|:-----:|:---------------:|------|:--------:|
+| Nr | PS (bar) | Temp. max (C) | Volume (L) | PS x V | Medium |
+|:--:|:--------:|:-------------:|:----------:|:------:|--------|
 | 1 | | | | | |
 | 2 | | | | | |
 | 3 | | | | | |
@@ -89,46 +52,66 @@
 
 ---
 
-## 5. Safety Devices
+## Classification
 
-| Device ID | Type | Protects Vessel | Set Pressure (bar) | Last Test | Next Test |
-|-----------|------|--------------:|:------------------:|:---------:|:---------:|
-| | SV / BD / PS | | | | |
-| | SV / BD / PS | | | | |
-| | SV / BD / PS | | | | |
-| | SV / BD / PS | | | | |
-| | SV / BD / PS | | | | |
+> Use PS x V from the table above and the guide below to determine the risk class.
 
-> SV = Safety valve | BD = Bursting disc | PS = Pressure switch
+**Classification guide:**
+
+| If the medium is... | And PS x V is... | Then the class is... |
+|---|---|---|
+| Non-dangerous (air, nitrogen, water, steam) | Over 10,000 | **Class A** |
+| Non-dangerous | 1,001 — 10,000 | **Class B** |
+| Non-dangerous | 51 — 1,000 | Below B |
+| Dangerous (LPG, ammonia, hydrogen, chlorine) | Over 3,000 | **Class A** |
+| Dangerous | 201 — 3,000 | **Class B** |
+| Any medium | 50 or less | Not classified |
+
+> **Air and nitrogen exception:** Vessels for air or nitrogen that would be Class B are exempt from periodic inspection.
+
+| Nr | Vessel ID | Class | Inspector needed | CE marked | Next inspection due |
+|:--:|-----------|:-----:|:----------------:|:---------:|:-------------------:|
+| 1 | | A / B / - | Accredited / Own / - | Y / N | |
+| 2 | | A / B / - | Accredited / Own / - | Y / N | |
+| 3 | | A / B / - | Accredited / Own / - | Y / N | |
+| 4 | | A / B / - | Accredited / Own / - | Y / N | |
+| 5 | | A / B / - | Accredited / Own / - | Y / N | |
+| 6 | | A / B / - | Accredited / Own / - | Y / N | |
+| 7 | | A / B / - | Accredited / Own / - | Y / N | |
+| 8 | | A / B / - | Accredited / Own / - | Y / N | |
+| 9 | | A / B / - | Accredited / Own / - | Y / N | |
+| 10 | | A / B / - | Accredited / Own / - | Y / N | |
+
+**Summary:** Class A: \_\_\_\_ | Class B: \_\_\_\_ | Below/Exempt: \_\_\_\_ | **Total:** \_\_\_\_
 
 ---
 
-## 6. Placement Risk Assessment (AFS 2017:3, 2 Kap. §2-3)
+## Safety Devices
+
+> List every safety valve, bursting disc, or pressure switch. You can find them mounted on or near each vessel.
+
+| Device | Type | Protects vessel | Set pressure (bar) | Last test | Next test |
+|--------|------|---------:|:------------------:|:---------:|:---------:|
+| | SV / BD / PS | | | | |
+| | SV / BD / PS | | | | |
+| | SV / BD / PS | | | | |
+| | SV / BD / PS | | | | |
+
+---
+
+## Placement Check
+
+> For each vessel, check that it is safely placed. Mark OK or X.
 
 | Check | 1 | 2 | 3 | 4 | 5 |
 |-------|:-:|:-:|:-:|:-:|:-:|
-| Accessible for maintenance and inspection | | | | | |
+| Can be maintained and inspected | | | | | |
 | Protected from nearby activities | | | | | |
 | Personnel can shut off if needed | | | | | |
 | Personnel can evacuate if needed | | | | | |
-| Ambient temp. within design range | | | | | |
-| Load-bearing structures not at risk | | | | | |
+| Temperature within design range | | | | | |
 
-> Mark OK or X per vessel number. Vessel numbers correspond to section 1.
-
----
-
-## 7. Documentation Checklist
-
-| Check | 1 | 2 | 3 | 4 | 5 |
-|-------|:-:|:-:|:-:|:-:|:-:|
-| Registered in this inventory | | | | | |
-| Nameplate photo on file | | | | | |
-| EU DoC on file | | | | | |
-| Risk class confirmed | | | | | |
-| Safety devices documented | | | | | |
-| Current inspection certificate on file | | | | | |
-| Operating instructions available | | | | | |
+> Numbers correspond to vessel Nr above.
 
 ---
 
@@ -136,6 +119,6 @@
 
 | | |
 |---|---|
-| **Name** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Signature** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Date** | \_\_\_\_ / \_\_\_\_ / \_\_\_\_\_\_\_\_ |
+| **Name** | |
+| **Signature** | |
+| **Date** | |
