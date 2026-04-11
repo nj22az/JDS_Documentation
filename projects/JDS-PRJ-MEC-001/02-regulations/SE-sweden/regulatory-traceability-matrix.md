@@ -3,8 +3,8 @@
 | | |
 |---|---|
 | **Document No.** | — (supplemental reference) |
-| **Revision** | A |
-| **Date** | 2026-03-25 |
+| **Revision** | B |
+| **Date** | 2026-04-11 |
 | **Status** | CURRENT |
 | **Author** | Nils Johansson |
 | **Regulation** | AFS 2017:3 — Use and Inspection of Pressurised Equipment |
@@ -50,14 +50,16 @@ JDS-PRO-010 is the authoritative working procedure. This matrix is the evidence 
 
 ## 5. Traceability — Inspection Intervals
 
-| JDS Requirement (PRO-010) | AFS 2017:3 Section | Regulatory Requirement (Swedish) | Regulatory Requirement (English) |
-|---|---|---|---|
-| Class A: External every 2 years | Kap. 4, §15 | Utvändig undersökning vart 24:e månad | External examination every 24 months |
-| Class A: Internal every 6 years | Kap. 4, §15 | Invändig undersökning vart 72:a månad | Internal examination every 72 months |
-| Class A: Pressure test every 12 years | Kap. 4, §15 | Tryckprov vart 144:e månad | Pressure test every 144 months |
-| Class B: External every 2 years | Kap. 4, §16 | Utvändig undersökning | External examination |
-| Class B: Internal every 6 years | Kap. 4, §16 | Invändig undersökning | Internal examination |
-| Book inspectors 3 months ahead | Best practice | — | Not a regulatory requirement; JDS operational standard |
+> **Important correction (Rev B):** Inspection intervals are NOT fixed values. They are determined by the accredited inspection body based on equipment condition per Bilaga 1. The values below are base intervals that may be extended or shortened.
+
+| JDS Requirement (PRO-010) | AFS 2017:3 Section | Regulatory Requirement (English) |
+|---|---|---|
+| Class A/B: Driftprov at base intervals | 5 Kap. §4, Bilaga 1 §1.4.1 | Recurring operational test: 2 years (general) or 4 years (air/nitrogen, refrigeration, LPG, vacuum-insulated) |
+| Class A: Int./ext. examination — condition-based | 5 Kap. §4, Bilaga 1 §2.2 | Interval set by inspection body: 6 months to 10 years based on equipment condition |
+| Class B: Recurring inspection = driftprov only | 5 Kap. §4, para. 3 | Class B requires only driftprov, no mandatory int./ext. examination |
+| Extended driftprov interval (max 4 years) | Bilaga 1 §1.4.2 | If safety equipment functioned without action at 2 previous tests |
+| Shortened driftprov interval (halved) | Bilaga 1 §1.4.3 | If safety equipment did NOT function at previous test |
+| Book inspectors 3 months ahead | Best practice | Not a regulatory requirement; JDS operational standard |
 
 ---
 
@@ -146,3 +148,4 @@ This section provides the Swedish-to-English mapping for regulatory terms encoun
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
 | A | 2026-03-25 | N. Johansson | Initial release — full traceability mapping of JDS-PRO-010 to AFS 2017:3 |
+| B | 2026-04-11 | N. Johansson | Corrected inspection intervals: changed from incorrect fixed values (24/72/144 mo) to condition-based intervals per Bilaga 1. Added driftprov extension/shortening rules. |
