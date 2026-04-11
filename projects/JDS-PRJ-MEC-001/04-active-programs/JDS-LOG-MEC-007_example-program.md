@@ -44,7 +44,7 @@ This program satisfies the requirements of **AFS 2017:3** (consolidated with AFS
 | Deviation reports | 4 Kap. §19 | Section 10 |
 | Lifetime journal | 4 Kap. §18 | Section 11 |
 
-> **Non-compliance sanction:** 10,000–100,000 SEK for operating Class A/B equipment without documented supervision routines (4 Kap. §17).
+> **Warning:** Non-compliance sanction: **10,000–100,000 SEK** for operating Class A/B equipment without documented supervision routines (4 Kap. §17).
 
 ---
 
@@ -100,7 +100,7 @@ AFS 2017:3 §6 defines **six mandatory minimum checks**. Every supervision round
 | 5 | Equipment correctly marked | Nameplates, valve tags, emergency stops legible | Visual check |
 | 6 | Prescribed inspections carried out | Inspection certificate current, not overdue | Register review |
 
-> These six points are the **legal minimum** per 2 Kap. §6 and must be traceable in every supervision record.
+> **Important:** These six points are the **legal minimum** per 2 Kap. §6 and must be traceable in every supervision record.
 
 ---
 
@@ -289,7 +289,7 @@ Class A/B equipment with limited lifetime must have a **journal showing remainin
 | PV-004 | Yes / No / Unknown | [Ref] | |
 | PV-005 | Yes / No / Unknown | [Ref] | |
 
-> Equipment that has reached its documented lifetime may only remain pressurised if an analysis demonstrating extended lifetime has been conducted and documented.
+> **Warning:** Equipment that has reached its documented lifetime **may not remain pressurised** unless an analysis demonstrating extended lifetime has been conducted and documented by an accredited body.
 
 ---
 

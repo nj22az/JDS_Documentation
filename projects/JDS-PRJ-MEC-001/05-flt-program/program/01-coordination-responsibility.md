@@ -1,6 +1,6 @@
 # 01 — Who Is Responsible
 
-One person must be in charge of this supervision program. The law requires a named individual — not a department, not a role. Write their name below and have both parties sign.
+> **Important:** One person must be in charge of this supervision program. The law requires a named individual — not a department, not a role. Write their name below and have both parties sign.
 
 ---
 
@@ -66,7 +66,7 @@ The coordination person is responsible for making sure that:
 | 7 | This program is reviewed at least once per year (Doc 07) | |
 | 8 | Equipment added or removed is updated in Doc 02 | |
 
-> AFS 2017:3, 4 Kap. §14 and §17. Non-compliance: 10,000 — 100,000 SEK.
+> **Warning:** Non-compliance with 4 Kap. §14 and §17: **10,000 — 100,000 SEK** (AFS 2017:3).
 
 ---
 

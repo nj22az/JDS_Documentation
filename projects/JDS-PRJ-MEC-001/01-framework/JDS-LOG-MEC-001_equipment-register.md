@@ -120,11 +120,7 @@ Example: MALMO-AR-001 (Air receiver #1 at Malmö site)
 
 ## Inspection Overdue Alert
 
-Any vessel where today's date is **past the Next Inspection date** is overdue. Overdue vessels must be:
-
-1. Taken out of service immediately (or risk assessed)
-2. Inspection scheduled as soon as possible
-3. Flagged in the Notes column: **"OVERDUE — [action taken]"**
+> **Warning:** Any vessel where today's date is **past the Next Inspection date** is overdue. Overdue vessels must be taken out of service immediately (or risk assessed), the inspection scheduled as soon as possible, and flagged in the Notes column: **"OVERDUE — [action taken]"**.
 
 ---
 

@@ -1,6 +1,6 @@
 # 05 — Round Checklist
 
-> **Print multiple copies.** You need one for every round (12-17 per year). Take this to the site, check every vessel, mark OK or X, sign and file.
+> **Important:** Print multiple copies. You need one for every round (12-17 per year). Take this to the site, check every vessel, mark OK or X, sign and file.
 
 | | |
 |---|---|
@@ -105,7 +105,7 @@
 | 2 | | | C / Ma / Mi / O | |
 | 3 | | | C / Ma / Mi / O | |
 
-> C = Critical (stop now) | Ma = Major (fix within 30 days) | Mi = Minor (fix within 90 days) | O = Observation (watch it)
+> **Important:** **C** = Critical (stop now) | **Ma** = Major (fix within 30 days) | **Mi** = Minor (fix within 90 days) | **O** = Observation (watch it)
 
 ---
 

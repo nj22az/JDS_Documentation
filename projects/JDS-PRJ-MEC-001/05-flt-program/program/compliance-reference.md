@@ -187,6 +187,8 @@ The inspection body sets the interval based on condition. Progressive system:
 
 ## 5. Sanctions
 
+> **Warning:** These fines are imposed per workplace, per violation. Multiple violations at one site can be compounded.
+
 | Violation | Fine |
 |-----------|------|
 | No documented supervision routines (4 Kap §17) | 10,000 — 100,000 SEK |

@@ -1,6 +1,6 @@
 # 06 — How Long Will It Last
 
-This journal tracks the remaining life of your vessels. Update it after each wall thickness measurement or formal inspection. If a vessel reaches its calculated end of life, it must be taken out of service or have a documented lifetime extension analysis.
+> **Note:** This journal tracks the remaining life of your vessels. Update it after each wall thickness measurement or formal inspection. If a vessel reaches its calculated end of life, it must be taken out of service or have a documented lifetime extension analysis.
 
 ---
 
@@ -88,7 +88,7 @@ This journal tracks the remaining life of your vessels. Update it after each wal
 | 4 | | | yr | S / M / C / E |
 | 5 | | | yr | S / M / C / E |
 
-> **S** = Safe (plenty of life left) | **M** = Monitor (getting close) | **C** = Critical (needs engineering assessment) | **E** = Expired (must not be pressurised)
+> **Warning:** **E** = Expired — vessel **must not be pressurised** until a documented lifetime extension analysis is completed by an accredited body. **C** = Critical — needs engineering assessment before next round. **M** = Monitor — getting close, measure more frequently. **S** = Safe — plenty of life left.
 
 ---
 

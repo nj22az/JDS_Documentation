@@ -1,6 +1,6 @@
 # 03 — What Can Go Wrong
 
-For each vessel in your inventory (Doc 02), think about what hazards exist, what could cause them, and how bad it would be. Rate each risk and decide if you need to do something about it.
+> **Note:** For each vessel in your inventory (Doc 02), think about what hazards exist, what could cause them, and how bad it would be. Rate each risk and decide if you need to do something about it.
 
 ---
 
@@ -23,6 +23,8 @@ For each vessel in your inventory (Doc 02), think about what hazards exist, what
 | 1-4 | 5-9 | 10-15 | 16-25 |
 |:---:|:---:|:-----:|:-----:|
 | Low — OK | Medium — monitor | High — fix it | Critical — stop |
+
+> **Warning:** A risk score of **16-25** means **stop work immediately**. The vessel must not be pressurised until the hazard is eliminated or controlled. Scores of **10-15** require a documented corrective action before the next round.
 
 ---
 

@@ -93,6 +93,8 @@ This register is the master inventory of all pressurised vessels at Gothenburg W
 
 ### OVERDUE INSPECTIONS
 
+> **Warning:** The following vessels have overdue inspections. Overdue vessels must be risk-assessed and scheduled for inspection immediately. A vessel overdue by more than 90 days must be taken out of service.
+
 | Vessel ID | Type | Was Due | Days Overdue |
 |-----------|------|---------|-------------|
 | PV-003 | External | 2025-09-01 | **221** |

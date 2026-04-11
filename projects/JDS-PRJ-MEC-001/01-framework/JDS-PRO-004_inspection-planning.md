@@ -128,7 +128,7 @@ If an inspection is overdue:
 | 30-90 days | Vessel should be taken out of service until inspected. Notify responsible person. |
 | 90+ days | Vessel **must** be taken out of service. May require re-certification before returning to service. |
 
-**Note:** Specific rules vary by country. Always check the regulatory requirements in `02-regulations/`.
+> **Warning:** A vessel overdue by more than 90 days must be taken out of service. Operating an overdue vessel may result in sanctions under national regulations. Always check the specific rules in `02-regulations/`.
 
 ---
 

@@ -1,6 +1,6 @@
 # Ongoing Supervision Program
 
-This binder contains everything needed to supervise pressurised vessels at your site. Work through documents 01 to 04 once during setup, then use 05 for every round.
+> **Note:** This binder contains everything needed to supervise pressurised vessels at your site. Work through documents 01 to 04 once during setup, then use 05 for every round.
 
 ---
 
@@ -43,7 +43,7 @@ This binder contains everything needed to supervise pressurised vessels at your 
 
 **Step 5** Print several copies of Doc 05 — you need one blank copy for every round.
 
-**Done.** You now have a compliant supervision program. Go do your first round with Doc 05.
+> **Done.** You now have a compliant supervision program. Go do your first round with Doc 05.
 
 ---
 
@@ -63,4 +63,4 @@ Every month (or quarter), take a blank Doc 05 to the site:
 
 This program satisfies **AFS 2017:3** (consolidated with AFS 2019:1, 2020:10, 2022:2). The compliance reference document at the back of this binder maps every section to the regulation.
 
-Non-compliance penalty: **10,000 — 100,000 SEK.**
+> **Warning:** Non-compliance penalty: **10,000 — 100,000 SEK.** Operating without documented supervision routines is a sanctionable offence under 4 Kap. §17.

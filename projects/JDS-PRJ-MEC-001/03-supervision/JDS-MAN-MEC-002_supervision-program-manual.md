@@ -202,6 +202,8 @@ The completed supervision program must be:
 
 ### 6.3 After the Round
 
+> **Warning:** A **Critical** finding means the vessel must be taken out of service immediately. Notify the operator, isolate the vessel, and raise a corrective action. Do not re-pressurise until resolved.
+
 1. Complete the round record — all fields, sign, and date
 2. If findings exist:
    - **Critical** — vessel out of service, notify operator immediately, raise corrective action

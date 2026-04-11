@@ -1,6 +1,6 @@
 # 07 — How Did the Year Go
 
-Fill this in once per year (typically December). Look back at all your rounds, findings, and changes. Decide if the program needs updating for next year.
+> **Note:** Fill this in once per year (typically December). Look back at all your rounds, findings, and changes. Decide if the program needs updating for next year.
 
 ---
 
@@ -94,7 +94,7 @@ Fill this in once per year (typically December). Look back at all your rounds, f
 | Equipment register up to date? | G / A / P |
 | Documentation complete? | G / A / P |
 
-> **G** = Good | **A** = Acceptable | **P** = Poor
+> **Important:** **G** = Good — meets all requirements. **A** = Acceptable — minor gaps, no safety impact. **P** = Poor — significant gaps, corrective action required before next period.
 
 **Overall:** Good / Acceptable / Needs Improvement
 

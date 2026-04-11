@@ -94,9 +94,10 @@ This journal tracks the **remaining lifetime** of pressurised vessels at Gothenb
 
 **Limiting location:** Tube plate (highest corrosion rate + lowest remaining life)
 **Current corrosion rate:** 0.24 mm/year (tube plate)
-**Remaining life:** **1.3 years** (from 2023 measurement) — **CRITICAL**
-**Condition trend:** Declining — tube plate degrading faster than predicted
-**Action required:** **Engineering assessment required.** Tube plate approaching minimum thickness. Must not be pressurised beyond Q1 2025 without documented lifetime extension analysis or repair. Escalate to operator immediately.
+**Remaining life:** **1.3 years** (from 2023 measurement) �� **CRITICAL**
+**Condition trend:** Declining �� tube plate degrading faster than predicted
+
+> **Warning:** Engineering assessment required. Tube plate approaching minimum thickness. Must not be pressurised beyond Q1 2025 without documented lifetime extension analysis or repair. Escalate to operator immediately.
 
 ---
 
@@ -181,6 +182,8 @@ Steam boiler operates above 110°C — creep tracking required.
 | **Monitor** | 1x — 2x inspection interval | Increase measurement frequency |
 | **Critical** | < 1x inspection interval | Engineering assessment before next pressurisation |
 | **Expired** | ≤ 0 years | Must NOT be pressurised without lifetime extension analysis (§18) |
+
+> **Warning:** A vessel with status **Critical** or **Expired** must not continue in normal operation. Expired vessels must be depressurised immediately. Critical vessels require an engineering assessment before the next pressurisation cycle.
 
 ---
 

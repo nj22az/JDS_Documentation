@@ -1,12 +1,12 @@
 # 04 — What to Check and How Often
 
-This is your supervision plan. It lists the checks you must perform, how often, and who does them. The law requires these checks — fill in the interval for each vessel based on its risk class.
+> **Note:** This is your supervision plan. It lists the checks you must perform, how often, and who does them. The law requires these checks — fill in the interval for each vessel based on its risk class.
 
 ---
 
 ## The 6 Mandatory Checks
 
-> Every supervision round must cover these six points. They are required by law (AFS 2017:3, 2 Kap. §6).
+> **Important:** Every supervision round must cover these six points. They are required by law (AFS 2017:3, 2 Kap. §6).
 
 | # | You must check that... | Interval |
 |:-:|----------------------|:--------:|
@@ -63,6 +63,8 @@ This is your supervision plan. It lists the checks you must perform, how often, 
 
 ## If You Find Something Wrong
 
+> **Warning:** A **Critical** finding means immediate danger. Shut down the vessel, isolate it, and notify the operator and coordination person immediately. Do not re-pressurise until the issue is resolved.
+
 | Severity | What it means | What to do | How fast |
 |----------|--------------|-----------|:--------:|
 | **Critical** | Immediate danger | Shut down, notify operator now | Immediate |
@@ -86,4 +88,4 @@ This is your supervision plan. It lists the checks you must perform, how often, 
 | | |
 | **Next review due** | |
 
-> Non-compliance penalty: 10,000 — 100,000 SEK (AFS 2017:3, 4 Kap. §17).
+> **Warning:** Non-compliance penalty: **10,000 — 100,000 SEK** (AFS 2017:3, 4 Kap. §17).

@@ -1,6 +1,6 @@
 # 02 — What Equipment Do You Have
 
-Walk your site and list every pressurised vessel. For each one, read the nameplate and write down the data. Then classify each vessel to determine what inspections it needs.
+> **Note:** Walk your site and list every pressurised vessel. For each one, read the nameplate and write down the data. Then classify each vessel to determine what inspections it needs.
 
 ---
 

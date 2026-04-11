@@ -16,9 +16,7 @@ This guide explains what documentation you must maintain for a pressure vessel m
 
 ## The Golden Rule
 
-> **If it's not documented, it didn't happen.**
-
-Every inspection, every repair, every modification, every test — must be on paper (or in this system). When a regulator asks "show me your records", you need to be able to produce them within minutes.
+> **Important:** If it's not documented, it didn't happen. Every inspection, every repair, every modification, every test — must be on paper (or in this system). When a regulator asks "show me your records", you need to be able to produce them within minutes.
 
 ## Required Documents Per Vessel
 
