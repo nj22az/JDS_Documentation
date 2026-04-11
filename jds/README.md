@@ -24,7 +24,7 @@ Every document — whether it's a field service report, a 3D model drawing, a ti
 | How revisions work | [Revision Control Procedure](procedures/JDS-PRO-002_revision-control.md) |
 | How 3D projects are managed | [3D Model Management Procedure](procedures/JDS-PRO-003_3d-model-management.md) |
 | How documents are reviewed & audited | [Document Review & Audit Procedure](procedures/JDS-PRO-005_document-review-audit.md) |
-| What documents a project needs | [Project Komplekt Standard](procedures/JDS-PRO-006_project-komplekt.md) |
+| What documents a project needs | [Complete Document Set Standard](procedures/JDS-PRO-006_complete-document-set.md) |
 | How documents should look | [Information Design Standard](procedures/JDS-PRO-007_information-design.md) |
 | How to handle nonconformances | [Corrective Action Procedure](procedures/JDS-PRO-008_corrective-action.md) |
 | How competence is managed | [Competence Management Procedure](procedures/JDS-PRO-009_competence-management.md) |

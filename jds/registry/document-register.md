@@ -10,7 +10,7 @@ This is the master list of all documents in the JDS system. Every document must 
 
 | Doc No. | Title | Rev | Date | Status | Author |
 |---------|-------|-----|------|--------|--------|
-| [JDS-QMS-000](../quality-manual/JDS-QMS-000_quality-manual.md) | Quality Manual | E | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-QMS-000](../quality-manual/JDS-QMS-000_quality-manual.md) | Quality Manual | F | 2026-03-26 | APPROVED | N. Johansson |
 | [JDS-QMS-001](../quality-manual/JDS-QMS-001_document-numbering.md) | Document Numbering Standard | D | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-QMS-002](../quality-manual/JDS-QMS-002_retention-schedule.md) | Document Retention Schedule | A | 2026-03-25 | APPROVED | N. Johansson |
 
@@ -23,7 +23,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | [JDS-PRO-003](../procedures/JDS-PRO-003_3d-model-management.md) | 3D Model & Drawing Management Procedure | B | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-PRO-004](../../projects/JDS-PRJ-MEC-001/01-framework/JDS-PRO-004_inspection-planning.md) | Inspection Planning Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-PRO-005](../procedures/JDS-PRO-005_document-review-audit.md) | Document Review & Audit Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
-| [JDS-PRO-006](../procedures/JDS-PRO-006_project-komplekt.md) | Project Komplekt Standard | A | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-PRO-006](../procedures/JDS-PRO-006_complete-document-set.md) | Complete Document Set Standard | B | 2026-03-26 | APPROVED | N. Johansson |
 | [JDS-PRO-007](../procedures/JDS-PRO-007_information-design.md) | Information Design Standard | D | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-PRO-008](../procedures/JDS-PRO-008_corrective-action.md) | Corrective Action Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-PRO-009](../procedures/JDS-PRO-009_competence-management.md) | Competence Management Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
@@ -54,6 +54,9 @@ This is the master list of all documents in the JDS system. Every document must 
 | [JDS-TMP-LOG-007](../templates/logs/JDS-TMP-LOG-007_annual-review-template.md) | Annual Supervision Program Review Template | A | 2026-04-10 | APPROVED | N. Johansson |
 | [JDS-TMP-LOG-008](../templates/logs/JDS-TMP-LOG-008_inventory-template.md) | Equipment Inventory Template (Auto-Classification) | B | 2026-04-11 | APPROVED | N. Johansson |
 | [JDS-TMP-LOG-009](../templates/logs/JDS-TMP-LOG-009_lifetime-journal-template.md) | Equipment Lifetime Journal Template | B | 2026-04-11 | APPROVED | N. Johansson |
+| [JDS-TMP-COR-002](../templates/correspondence/JDS-TMP-COR-002_cv-template.md) | CV / Resume Template | A | 2026-03-26 | APPROVED | N. Johansson |
+| [JDS-TMP-COR-003](../templates/correspondence/JDS-TMP-COR-003_personal-letter-template.md) | Personal Letter Template | A | 2026-03-26 | APPROVED | N. Johansson |
+| [JDS-TMP-RPT-005](../templates/reports/JDS-TMP-RPT-005_deviation-report-template.md) | Deviation Report Template | A | 2026-03-26 | APPROVED | N. Johansson |
 
 ## Reports (RPT)
 
@@ -62,6 +65,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | [JDS-RPT-001](../examples/JDS-RPT-001_pump-inspection-example.md) | Example: Pump Inspection Report | A | 2026-03-25 | EXAMPLE | N. Johansson |
 | [JDS-RPT-MEC-002](../examples/JDS-RPT-MEC-002_risk-assessment-example.md) | Example: Risk Assessment — Pressure Vessel Maintenance | B | 2026-03-25 | EXAMPLE | N. Johansson |
 | [JDS-RPT-MEC-003](../../projects/JDS-PRJ-MEC-001/02-regulations/SE-sweden/JDS-RPT-MEC-003_afs2017-3-consolidated.md) | AFS 2017:3 Consolidated Supervision Requirements | B | 2026-04-10 | APPROVED | N. Johansson |
+| [JDS-RPT-MEC-004](../examples/JDS-RPT-MEC-004_deviation-report-example.md) | Example: Deviation Report — Pressure Vessel Wall Thinning | A | 2026-03-26 | EXAMPLE | N. Johansson |
 
 ## Manuals (MAN)
 
@@ -114,6 +118,8 @@ This is the master list of all documents in the JDS system. Every document must 
 | Doc No. | Title | Rev | Date | Status | Author |
 |---------|-------|-----|------|--------|--------|
 | [JDS-COR-GEN-001](../examples/JDS-COR-GEN-001_cold-letter-example.md) | Example Cold Letter — Marine Engineering Services | A | 2026-03-25 | EXAMPLE | N. Johansson |
+| [JDS-COR-GEN-002](../examples/JDS-COR-GEN-002_cv-example.md) | Example CV / Resume | A | 2026-03-26 | EXAMPLE | N. Johansson |
+| [JDS-COR-GEN-003](../examples/JDS-COR-GEN-003_personal-letter-example.md) | Example Personal Letter | A | 2026-03-26 | EXAMPLE | N. Johansson |
 
 ## Blog Posts (BLG)
 
