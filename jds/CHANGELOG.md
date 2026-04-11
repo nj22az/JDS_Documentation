@@ -51,6 +51,12 @@ All changes to the JDS documentation system itself are recorded here. This provi
 - **`scripts/jds-classify.py`**: Automatic vessel classification per AFS 2017:3 (consolidated). Six modes: interactive, quick, CSV batch, `--program` (from inventory), `--round` (from program), `--review` (from program). Each document is self-contained and links to the next step in the chain: INVENTORY → PROGRAM → ROUND → REVIEW.
 - **CLAUDE.md** updated with all jds-classify.py modes in automation tools table.
 
+### Added — JDS Image Studio (JDS-PRJ-SFW-001)
+- **JDS-PRJ-SFW-001**: Local Image Generator — fully on-device image generation app using Stable Diffusion via HuggingFace Diffusers with Apple MPS backend
+- **Features**: Text-to-image, image-to-image, unrestricted generation (no safety filters), flat iOS-style GUI (CustomTkinter), model selector, seed control
+- **Platform**: Optimised for Apple Silicon (M1 Pro, 16GB RAM)
+- **`projects/software/`** directory created — first JDS software project
+
 ---
 
 ## [3.1] — 2026-03-25

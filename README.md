@@ -2,7 +2,7 @@
 
 **The Office of Nils Johansson** — Marine, Mechanical & Industrial Engineering
 
-**Version 3.1** | Effective 2026-03-25 | Owner: Nils Johansson
+**Version 3.2** | Effective 2026-04-07 | Owner: Nils Johansson
 
 ---
 

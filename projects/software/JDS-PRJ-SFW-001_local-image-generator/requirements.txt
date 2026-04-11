@@ -1,0 +1,33 @@
+# JDS-PRJ-SFW-001 — Local Image Generator
+# Tested on: macOS (Apple Silicon M1 Pro, 16GB RAM)
+
+# Core ML / Diffusion
+torch>=2.1.0
+diffusers>=0.25.0
+transformers>=4.36.0
+accelerate>=0.25.0
+safetensors>=0.4.0
+
+# Image handling
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# GUI
+customtkinter>=5.2.0
+
+# Hugging Face model hub (for downloading models)
+huggingface-hub>=0.20.0
+
+# Background removal (local, uses u2net)
+rembg>=2.0.50
+onnxruntime>=1.16.0
+
+# Upscaling (optional — hires fix works without these)
+realesrgan>=0.3.0
+basicsr>=1.4.2
+
+# Face detection (for face auto-fix)
+opencv-python>=4.8.0
+
+# Character identity consistency (IP-Adapter / face embedding)
+insightface>=0.7.3

@@ -1,6 +1,6 @@
 # JDS Document Register
 
-**Last updated:** 2026-04-11 (rev 2)
+**Last updated:** 2026-04-11 (rev 3)
 
 This is the master list of all documents in the JDS system. Every document must be registered here when created.
 
@@ -81,6 +81,8 @@ This is the master list of all documents in the JDS system. Every document must 
 |---------|-------|-----|------|--------|--------|
 | [JDS-PRJ-MEC-001](../../projects/JDS-PRJ-MEC-001/README.md) | Pressure Vessel Ongoing Maintenance Program | D | 2026-04-11 | APPROVED | N. Johansson |
 | JDS-PRJ-MEC-002 | Vessel Supervision System | A | 2026-04-10 | SUPERSEDED | N. Johansson |
+| [JDS-PRO-004](../../jds/procedures/JDS-PRO-004_code-audit.md) | Software Code Quality Standard | A | 2026-04-07 | CURRENT | N. Johansson |
+| [JDS-PRJ-SFW-001](../../projects/software/JDS-PRJ-SFW-001_local-image-generator/README.md) | Local Image Generator (JDS Image Studio) | Y | 2026-04-08 | CURRENT | N. Johansson |
 
 ## Timesheets (TSH)
 

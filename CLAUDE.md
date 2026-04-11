@@ -52,11 +52,22 @@ Four root folders. Everything lives in one of them.
 
 JDS is a living system. Every session should leave the repo better than it was found.
 
+### Mandatory: While Writing Software Code (JDS-PRO-004)
+All software code under JDS must follow these 7 rules from the first line:
+1. **No dead code** — Don't write functions "for later." Every function must be called.
+2. **Clean structure** — Each feature in its own module. No file over 500 lines (GUI exempt up to 1500).
+3. **No hardcoded values** — All constants (numbers, colours, URLs, timeouts) in the config module. Zero magic numbers in logic.
+4. **Clear names** — Every variable, function, and file name must describe what it holds. No `r`, `p`, `temp`, `data`, `thing`.
+5. **Scale-safe** — Thread-safe, memory-safe. Lazy imports for heavy ML libraries.
+6. **Keep files clean** — Refactor as you go. Shared helpers (used 3+ times) go in one module, imported everywhere.
+7. **Document as you build** — README + CHANGELOG updated every revision. Comments only where logic is non-obvious.
+
 ### Mandatory: Before Every Commit
 1. **Validate** — Run `python3 scripts/jds-validate.py --quick` before committing
-2. **Register** — Every new JDS document must be added to `jds/registry/document-register.md`
-3. **Log** — System-level changes must be recorded in `jds/CHANGELOG.md`
-4. **No orphans** — Never leave files unregistered or unlinked
+2. **Code audit** — Quick check: no unused imports, no hardcoded values, no dead code (JDS-PRO-004 §3.1)
+3. **Register** — Every new JDS document must be added to `jds/registry/document-register.md`
+4. **Log** — System-level changes must be recorded in `jds/CHANGELOG.md`
+5. **No orphans** — Never leave files unregistered or unlinked
 
 ### Mandatory: Before Ending a Session
 1. Run `python3 scripts/jds-validate.py` (full audit)
@@ -64,6 +75,7 @@ JDS is a living system. Every session should leave the repo better than it was f
 3. If improvements were made to the system itself, bump the JDS version in:
    - `jds/README.md` (version number)
    - `jds/CHANGELOG.md` (new version entry)
+4. If a software project was modified, run a full 7-point code audit every 5 revisions (JDS-PRO-004 §3.2)
 
 ### Slash Commands
 - `/audit` — Run the full JDS 5S audit (JDS-PRO-005)
