@@ -1,6 +1,6 @@
 # JDS Document Register
 
-**Last updated:** 2026-04-11 (rev 3)
+**Last updated:** 2026-06-05 (rev 4)
 
 This is the master list of all documents in the JDS system. Every document must be registered here when created.
 
@@ -66,6 +66,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | [JDS-RPT-MEC-002](../examples/JDS-RPT-MEC-002_risk-assessment-example.md) | Example: Risk Assessment — Pressure Vessel Maintenance | B | 2026-03-25 | EXAMPLE | N. Johansson |
 | [JDS-RPT-MEC-003](../../projects/JDS-PRJ-MEC-001/02-regulations/SE-sweden/JDS-RPT-MEC-003_afs2017-3-consolidated.md) | AFS 2017:3 Consolidated Supervision Requirements | B | 2026-04-10 | APPROVED | N. Johansson |
 | [JDS-RPT-MEC-004](../examples/JDS-RPT-MEC-004_deviation-report-example.md) | Example: Deviation Report — Pressure Vessel Wall Thinning | A | 2026-03-26 | EXAMPLE | N. Johansson |
+| [JDS-RPT-GEN-001](../../projects/JDS-PRJ-GEN-001/01-research/JDS-RPT-GEN-001_market-research.md) | Market Research — Swedish Garage & Workshop Decluttering Book | A | 2026-06-05 | DRAFT | N. Johansson |
 
 ## Manuals (MAN)
 
@@ -73,6 +74,7 @@ This is the master list of all documents in the JDS system. Every document must 
 |---------|-------|-----|------|--------|--------|
 | [JDS-MAN-MEC-001](../../projects/JDS-PRJ-MEC-001/01-framework/JDS-MAN-MEC-001_documentation-guide.md) | Documentation Guide — Pressure Vessel Records | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-MAN-MEC-002](../../projects/JDS-PRJ-MEC-001/03-supervision/JDS-MAN-MEC-002_supervision-program-manual.md) | Supervision Program Manual — Pressurised Vessels | A | 2026-04-10 | APPROVED | N. Johansson |
+| [JDS-MAN-GEN-001](../../projects/JDS-PRJ-GEN-001/02-manuscript/JDS-MAN-GEN-001_book-outline.md) | Reda i garaget — Book Concept & Chapter Outline | A | 2026-06-05 | DRAFT | N. Johansson |
 
 ## Drawings (DWG)
 
@@ -87,6 +89,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | JDS-PRJ-MEC-002 | Vessel Supervision System | A | 2026-04-10 | SUPERSEDED | N. Johansson |
 | [JDS-PRO-004](../../jds/procedures/JDS-PRO-004_code-audit.md) | Software Code Quality Standard | A | 2026-04-07 | CURRENT | N. Johansson |
 | [JDS-PRJ-SFW-001](../../projects/software/JDS-PRJ-SFW-001_local-image-generator/README.md) | Local Image Generator (JDS Image Studio) | Y | 2026-04-08 | CURRENT | N. Johansson |
+| [JDS-PRJ-GEN-001](../../projects/JDS-PRJ-GEN-001/README.md) | Reda i garaget — Book Project (Swedish garage/workshop decluttering) | DRAFT | 2026-06-05 | DRAFT | N. Johansson |
 
 ## Timesheets (TSH)
 
