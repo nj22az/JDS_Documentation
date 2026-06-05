@@ -75,6 +75,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | [JDS-MAN-MEC-001](../../projects/JDS-PRJ-MEC-001/01-framework/JDS-MAN-MEC-001_documentation-guide.md) | Documentation Guide — Pressure Vessel Records | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-MAN-MEC-002](../../projects/JDS-PRJ-MEC-001/03-supervision/JDS-MAN-MEC-002_supervision-program-manual.md) | Supervision Program Manual — Pressurised Vessels | A | 2026-04-10 | APPROVED | N. Johansson |
 | [JDS-MAN-GEN-001](../../projects/JDS-PRJ-GEN-001/02-manuscript/JDS-MAN-GEN-001_book-outline.md) | Reda i garaget — Book Concept & Chapter Outline | A | 2026-06-05 | DRAFT | N. Johansson |
+| [JDS-MAN-GEN-002](../../projects/JDS-PRJ-GEN-001/02-manuscript/JDS-MAN-GEN-002_style-guide.md) | Reda i garaget — Manuscript Style Guide | A | 2026-06-05 | DRAFT | N. Johansson |
 
 ## Drawings (DWG)
 

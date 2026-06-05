@@ -61,7 +61,12 @@ JDS-PRJ-GEN-001/
 │   └── JDS-RPT-GEN-001_market-research.md      ← the demand/gap analysis
 │
 ├── 02-manuscript/                             ← the book itself
-│   └── JDS-MAN-GEN-001_book-outline.md          ← concept, structure, chapter outline
+│   ├── JDS-MAN-GEN-001_book-outline.md          ← concept, structure, chapter outline
+│   ├── JDS-MAN-GEN-002_style-guide.md           ← voice, method words, chapter shape, self-check
+│   └── chapters/                                ← Swedish chapter drafts (kapitel-NN-*.md)
+│
+│  Authoring: `/write-chapter` drafts a chapter against the style guide, then
+│  `scripts/book-check.py` self-corrects it until it reports ✓ clean.
 │
 ├── 03-assets/                                 ← photos, diagrams, illustrations
 │   └── images/
@@ -75,7 +80,8 @@ JDS-PRJ-GEN-001/
 
 - [ ] Validate the niche with market research *(done — see JDS-RPT-GEN-001)*
 - [ ] Lock the book concept, target reader and structure (JDS-MAN-GEN-001)
-- [ ] Draft the full manuscript, chapter by chapter
+- [x] Establish the manuscript style guide & self-correcting check (JDS-MAN-GEN-002 + book-check.py)
+- [ ] Draft the full manuscript, chapter by chapter *(Del 1 + Del 2 sample chapters done — 5 of 15)*
 - [ ] Produce illustrations / photo plan
 - [ ] Decide publishing route (self-publish vs. publisher pitch)
 - [ ] Final manuscript ready for layout

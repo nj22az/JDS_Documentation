@@ -124,9 +124,15 @@ room. It is 5S, translated out of the factory and into the home garage:
 ## 8. Next Steps
 
 1. Author confirms title, voice and publishing route (§7)
-2. Draft Del 1 + Del 2 as a sample chapter set
-3. Build the illustration / photo shot-list in `03-assets/`
-4. Decide publishing route and produce a sample for a pitch or KDP
+2. ~~Draft Del 1 + Del 2 as a sample chapter set~~ — **done**: chapters 1–5 drafted in
+   `chapters/`, governed by the style guide (JDS-MAN-GEN-002) and passing `book-check.py`
+3. Draft the remaining chapters (6–15) with `/write-chapter`
+4. Build the illustration / photo shot-list in `03-assets/`
+5. Decide publishing route and produce a sample for a pitch or KDP
+
+> **Authoring workflow:** Each chapter is written with the `/write-chapter` skill, which
+> drafts against the style guide and then self-corrects with `scripts/book-check.py` until
+> the chapter reports ✓ clean. See JDS-MAN-GEN-002 for the rules and the improvement log.
 
 ---
 
