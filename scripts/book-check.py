@@ -43,6 +43,11 @@ BRAND_BLOCKLIST = ["IKEA", "Biltema", "Jula", "Clas Ohlson", "Bauhaus", "Elfa", 
 # Safety triggers — if these appear, a Säkerhet box is expected (style guide §8).
 SAFETY_TRIGGERS = ["bensin", "lösningsmedel", "kemikal", "brandfarl", "batteri", "ström", "lyft"]
 
+# Homograph guard: Cyrillic/Greek letters that look identical to Latin ones must never
+# appear in the Swedish text — they slip in via copy/paste and corrupt search and spelling
+# while looking perfectly normal (style guide §9, added 2026-06-05).
+HOMOGRAPH_RANGES = [(0x0400, 0x04FF), (0x0370, 0x03FF)]  # Cyrillic, Greek
+
 
 def count_words(text):
     """Count words in prose, ignoring markdown comment lines and box labels."""
@@ -98,6 +103,13 @@ def check_chapter(path):
     lower = text.lower()
     if any(trigger in lower for trigger in SAFETY_TRIGGERS) and "Säkerhet" not in text:
         warnings.append("safety topic present but no 'Säkerhet' box (style guide §8)")
+
+    # 9. Homograph guard — no Cyrillic/Greek letters disguised as Latin.
+    for line_no, line in enumerate(text.splitlines(), 1):
+        for ch in line:
+            if any(lo <= ord(ch) <= hi for lo, hi in HOMOGRAPH_RANGES):
+                errors.append(f"non-Latin homograph '{ch}' (U+{ord(ch):04X}) on line {line_no}")
+                break
 
     return errors, warnings
 

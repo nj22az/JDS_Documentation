@@ -116,6 +116,7 @@ The `/write-chapter` skill must verify each item and fix failures before finishi
 - [ ] One H1, no skipped levels, max H3
 - [ ] Length 1,200–2,200 words
 - [ ] No English loanwords where a Swedish word exists
+- [ ] No non-Latin homographs (Cyrillic/Greek letters disguised as Latin) — `book-check.py` errors on these
 - [ ] Tone: warm, no shame, no hype, finishable
 - [ ] CHANGELOG updated for the chapter
 
@@ -137,6 +138,7 @@ and the correction is logged below so it is transparent, not silent.
 | Date | Found in | Change | Reason |
 |------|----------|--------|--------|
 | 2026-06-05 | First 5 sample chapters | Chapter band 1,600–2,600 → **1,200–2,200** words | The book is an illustrated, box-driven project guide (Draganja-style). The five drafted chapters were expanded ~60–75% to ~1,300–1,530 words and read complete; the original band was set before the format was decided and was too high. `book-check.py` thresholds updated to match. Voice/structure rules unchanged. |
+| 2026-06-05 | Kapitel 8 | Added **homograph guard** to `book-check.py` (errors on Cyrillic/Greek letters) | A Cyrillic "а" (U+0430), visually identical to Latin "a", had slipped into "lägga-tillbaka-testet" and survived several passes because nothing checked for it. Fixed the chapter, then taught the checker to catch any non-Latin homograph so it can never recur silently. |
 
 ---
 

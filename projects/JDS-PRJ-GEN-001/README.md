@@ -79,9 +79,10 @@ JDS-PRJ-GEN-001/
 ## Objectives
 
 - [ ] Validate the niche with market research *(done — see JDS-RPT-GEN-001)*
-- [ ] Lock the book concept, target reader and structure (JDS-MAN-GEN-001)
+- [x] Lock the book concept, target reader and structure (JDS-MAN-GEN-001)
 - [x] Establish the manuscript style guide & self-correcting check (JDS-MAN-GEN-002 + book-check.py)
-- [ ] Draft the full manuscript, chapter by chapter *(Del 1 + Del 2 sample chapters done — 5 of 15)*
+- [x] Draft the full manuscript, chapter by chapter *(all 15 chapters drafted, passing book-check.py)*
+- [ ] Author review pass; illustration plan; publishing route
 - [ ] Produce illustrations / photo plan
 - [ ] Decide publishing route (self-publish vs. publisher pitch)
 - [ ] Final manuscript ready for layout
@@ -103,9 +104,9 @@ translation editions — handled once the manuscript is approved.
 | Phase | Description | Status |
 |-------|-------------|--------|
 | 1 | Market research & niche validation | ✅ Complete |
-| 2 | Concept & outline | 🟡 In progress |
-| 3 | Manuscript draft | ⬜ Not started |
-| 4 | Illustration & production | ⬜ Not started |
+| 2 | Concept, outline & style guide | ✅ Complete |
+| 3 | Manuscript draft (all 15 chapters) | ✅ Complete — draft |
+| 4 | Author review & illustration plan | ⬜ Not started |
 | 5 | Publishing | ⬜ Not started |
 
 ---
