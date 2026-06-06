@@ -63,7 +63,9 @@ JDS-PRJ-GEN-001/
 ├── 02-manuscript/                             ← the book itself
 │   ├── JDS-MAN-GEN-001_book-outline.md          ← concept, structure, chapter outline
 │   ├── JDS-MAN-GEN-002_style-guide.md           ← voice, method words, chapter shape, self-check
-│   └── chapters/                                ← Swedish chapter drafts (kapitel-NN-*.md)
+│   ├── frontmatter/                             ← title page, copyright, Inledning (hook)
+│   ├── chapters/                                ← Swedish chapter drafts (kapitel-NN-*.md)
+│   └── backmatter/                              ← om författaren, ett sista ord
 │
 │  Authoring: `/write-chapter` drafts a chapter against the style guide, then
 │  `scripts/book-check.py` self-corrects it until it reports ✓ clean.
@@ -71,8 +73,16 @@ JDS-PRJ-GEN-001/
 ├── 03-assets/                                 ← photos, diagrams, illustrations
 │   └── images/
 │
-└── 04-production/                             ← cover, layout, ISBN, publishing notes
+└── 04-production/                             ← KDP package
+    ├── Stada-i-Garaget.epub                     ← uploadable eBook (built from manuscript)
+    ├── cover.jpg                                ← KDP eBook cover 1600×2560
+    ├── amazon-listing.md                        ← description, keywords, categories, pricing
+    ├── cover-brief.md                           ← cover specs (eBook + paperback)
+    └── readiness-assessment.md                  ← honest "is it sellable yet" review
 ```
+
+Build the KDP package from the manuscript with `scripts/build-cover.py` then
+`scripts/build-epub.py` (see `04-production/README.md`).
 
 ---
 
@@ -106,8 +116,9 @@ translation editions — handled once the manuscript is approved.
 | 1 | Market research & niche validation | ✅ Complete |
 | 2 | Concept, outline & style guide | ✅ Complete |
 | 3 | Manuscript draft (all 15 chapters) | ✅ Complete — draft |
-| 4 | Author review & illustration plan | ⬜ Not started |
-| 5 | Publishing | ⬜ Not started |
+| 4 | KDP package (EPUB, cover, listing) | ✅ Built — ready to upload |
+| 5 | Author review, stories pass & beta reviews | ⬜ Not started |
+| 6 | Paperback interior + illustrations | ⬜ Not started |
 
 ---
 

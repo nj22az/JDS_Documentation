@@ -22,3 +22,6 @@ This file logs **every change** to every document in this project.
 | 2026-06-05 | scripts/book-check.py | — | N. Johansson | Added homograph guard (errors on Cyrillic/Greek lookalike letters) after a Cyrillic "а" slipped into kapitel 8 |
 | 2026-06-05 | JDS-MAN-GEN-002 (Style Guide) | A | N. Johansson | Improvement log: homograph guard added to checker and §8 checklist |
 | 2026-06-06 | Whole project | — | N. Johansson | Book title changed from "Reda i garaget" to "Städa i Garaget" across all docs, chapters, registry, tooling and series titles |
+| 2026-06-06 | frontmatter/, backmatter/ | draft | N. Johansson | Added title page, copyright, Inledning (hook), Om författaren, Ett sista ord |
+| 2026-06-06 | scripts/build-epub.py, build-cover.py | — | N. Johansson | New build tools — assemble KDP EPUB and generate 1600×2560 cover from the manuscript |
+| 2026-06-06 | 04-production/ | — | N. Johansson | Built KDP package: Stada-i-Garaget.epub + cover.jpg + amazon-listing.md + cover-brief.md + readiness-assessment.md |
