@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Book chapter consistency checker for the 'Reda i garaget' project (JDS-PRJ-GEN-001).
+"""Book chapter consistency checker for the 'Städa i Garaget' project (JDS-PRJ-GEN-001).
 
 Mechanically verifies a chapter draft against the manuscript style guide
 (JDS-MAN-GEN-002 §8). This is the self-correcting backbone for the /write-chapter
@@ -127,7 +127,7 @@ def main():
         return 1
 
     total_errors = 0
-    print("Book Chapter Check — Reda i garaget (JDS-MAN-GEN-002 §8)")
+    print("Book Chapter Check — Städa i Garaget (JDS-MAN-GEN-002 §8)")
     print("=" * 60)
     for path in targets:
         if not path.exists():

@@ -1,4 +1,4 @@
-<!-- Kapitel 5 · Del 2 · Reda i garaget · utkast 2026-06-05 -->
+<!-- Kapitel 5 · Del 2 · Städa i Garaget · utkast 2026-06-05 -->
 
 # Det som är farligt eller giftigt
 

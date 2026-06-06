@@ -1,4 +1,4 @@
-<!-- Kapitel 4 · Del 2 · Reda i garaget · utkast 2026-06-05 -->
+<!-- Kapitel 4 · Del 2 · Städa i Garaget · utkast 2026-06-05 -->
 
 # Behålla, lämna, flytta
 

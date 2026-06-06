@@ -74,8 +74,8 @@ This is the master list of all documents in the JDS system. Every document must 
 |---------|-------|-----|------|--------|--------|
 | [JDS-MAN-MEC-001](../../projects/JDS-PRJ-MEC-001/01-framework/JDS-MAN-MEC-001_documentation-guide.md) | Documentation Guide — Pressure Vessel Records | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-MAN-MEC-002](../../projects/JDS-PRJ-MEC-001/03-supervision/JDS-MAN-MEC-002_supervision-program-manual.md) | Supervision Program Manual — Pressurised Vessels | A | 2026-04-10 | APPROVED | N. Johansson |
-| [JDS-MAN-GEN-001](../../projects/JDS-PRJ-GEN-001/02-manuscript/JDS-MAN-GEN-001_book-outline.md) | Reda i garaget — Book Concept & Chapter Outline | A | 2026-06-05 | DRAFT | N. Johansson |
-| [JDS-MAN-GEN-002](../../projects/JDS-PRJ-GEN-001/02-manuscript/JDS-MAN-GEN-002_style-guide.md) | Reda i garaget — Manuscript Style Guide | A | 2026-06-05 | DRAFT | N. Johansson |
+| [JDS-MAN-GEN-001](../../projects/JDS-PRJ-GEN-001/02-manuscript/JDS-MAN-GEN-001_book-outline.md) | Städa i Garaget — Book Concept & Chapter Outline | A | 2026-06-05 | DRAFT | N. Johansson |
+| [JDS-MAN-GEN-002](../../projects/JDS-PRJ-GEN-001/02-manuscript/JDS-MAN-GEN-002_style-guide.md) | Städa i Garaget — Manuscript Style Guide | A | 2026-06-05 | DRAFT | N. Johansson |
 
 ## Drawings (DWG)
 
@@ -90,7 +90,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | JDS-PRJ-MEC-002 | Vessel Supervision System | A | 2026-04-10 | SUPERSEDED | N. Johansson |
 | [JDS-PRO-004](../../jds/procedures/JDS-PRO-004_code-audit.md) | Software Code Quality Standard | A | 2026-04-07 | CURRENT | N. Johansson |
 | [JDS-PRJ-SFW-001](../../projects/software/JDS-PRJ-SFW-001_local-image-generator/README.md) | Local Image Generator (JDS Image Studio) | Y | 2026-04-08 | CURRENT | N. Johansson |
-| [JDS-PRJ-GEN-001](../../projects/JDS-PRJ-GEN-001/README.md) | Reda i garaget — Book Project (Swedish garage/workshop decluttering) | DRAFT | 2026-06-05 | DRAFT | N. Johansson |
+| [JDS-PRJ-GEN-001](../../projects/JDS-PRJ-GEN-001/README.md) | Städa i Garaget — Book Project (Swedish garage/workshop decluttering) | DRAFT | 2026-06-05 | DRAFT | N. Johansson |
 
 ## Timesheets (TSH)
 

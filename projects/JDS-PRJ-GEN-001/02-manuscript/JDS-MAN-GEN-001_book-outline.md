@@ -1,4 +1,4 @@
-# Reda i garaget — Book Concept & Chapter Outline
+# Städa i Garaget — Book Concept & Chapter Outline
 
 | | |
 |---|---|
@@ -20,7 +20,7 @@ A warm, practical Swedish handbook that does for the **garage, verkstad and för
 the bestsellers did for the home — but written by a real engineer who applies **5S
 workshop discipline** to the job.
 
-- **Working title:** *Reda i garaget* (Order in the garage)
+- **Working title:** *Städa i Garaget* (Clean the garage)
 - **Subtitle:** *Rensa, organisera och håll ordning i verkstad och förråd*
   (Clear out, organise and keep order in workshop and storage)
 - **Format:** project-by-project, do-it-this-weekend — the proven Swedish structure
@@ -112,7 +112,7 @@ room. It is 5S, translated out of the factory and into the home garage:
 | Length | ~140–180 pages, ~40,000–55,000 words |
 | Illustrations | Photos of real before/after + simple zone diagrams |
 | Tone reference | Draganja's project-per-week practicality + engineer's authority |
-| Series potential | *Reda i garaget* → *Reda i förrådet* → *Reda i fritidshuset* |
+| Series potential | *Städa i Garaget* → *Städa i Förrådet* → *Städa i Fritidshuset* |
 
 ## 7. Open Decisions (for the author)
 

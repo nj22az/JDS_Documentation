@@ -1,4 +1,4 @@
-<!-- Kapitel 1 · Del 1 · Reda i garaget · utkast 2026-06-05 -->
+<!-- Kapitel 1 · Del 1 · Städa i Garaget · utkast 2026-06-05 -->
 
 # Varför garaget alltid blir värst
 

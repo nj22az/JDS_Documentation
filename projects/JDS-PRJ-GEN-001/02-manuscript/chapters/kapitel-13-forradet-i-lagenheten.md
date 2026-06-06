@@ -1,4 +1,4 @@
-<!-- Kapitel 13 · Del 5 · Reda i garaget · utkast 2026-06-05 -->
+<!-- Kapitel 13 · Del 5 · Städa i Garaget · utkast 2026-06-05 -->
 
 # Förrådet i lägenheten
 

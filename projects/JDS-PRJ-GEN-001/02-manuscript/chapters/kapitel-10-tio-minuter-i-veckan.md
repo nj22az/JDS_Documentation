@@ -1,4 +1,4 @@
-<!-- Kapitel 10 · Del 4 · Reda i garaget · utkast 2026-06-05 -->
+<!-- Kapitel 10 · Del 4 · Städa i Garaget · utkast 2026-06-05 -->
 
 # Tio minuter i veckan
 

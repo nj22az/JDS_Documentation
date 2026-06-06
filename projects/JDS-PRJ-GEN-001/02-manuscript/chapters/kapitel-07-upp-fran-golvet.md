@@ -1,4 +1,4 @@
-<!-- Kapitel 7 · Del 3 · Reda i garaget · utkast 2026-06-05 -->
+<!-- Kapitel 7 · Del 3 · Städa i Garaget · utkast 2026-06-05 -->
 
 # Upp från golvet
 

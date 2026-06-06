@@ -1,4 +1,4 @@
-Draft or revise a chapter of *Reda i garaget* (JDS-PRJ-GEN-001) — the Swedish
+Draft or revise a chapter of *Städa i Garaget* (JDS-PRJ-GEN-001) — the Swedish
 garage/workshop decluttering book — and self-correct it against the style guide.
 
 ## Input

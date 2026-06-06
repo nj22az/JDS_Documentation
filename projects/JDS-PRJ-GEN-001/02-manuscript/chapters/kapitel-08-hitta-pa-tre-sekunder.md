@@ -1,4 +1,4 @@
-<!-- Kapitel 8 · Del 3 · Reda i garaget · utkast 2026-06-05 -->
+<!-- Kapitel 8 · Del 3 · Städa i Garaget · utkast 2026-06-05 -->
 
 # Hitta på tre sekunder
 

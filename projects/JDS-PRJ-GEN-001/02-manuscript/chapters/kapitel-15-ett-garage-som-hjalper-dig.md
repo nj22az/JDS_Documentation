@@ -1,4 +1,4 @@
-<!-- Kapitel 15 · Avslutning · Reda i garaget · utkast 2026-06-05 -->
+<!-- Kapitel 15 · Avslutning · Städa i Garaget · utkast 2026-06-05 -->
 
 # Ett garage som hjälper dig
 

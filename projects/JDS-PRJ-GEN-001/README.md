@@ -1,4 +1,4 @@
-# Reda i garaget — Book Project
+# Städa i Garaget — Book Project
 
 | | |
 |---|---|
@@ -18,7 +18,7 @@ A **Swedish-language book** about decluttering, cleaning out, and keeping order 
 **garage, workshop (verkstad) and storage room (förråd)** — the spaces that every
 Swedish home-organizing bestseller leaves out.
 
-Working title: **"Reda i garaget — rensa, organisera och håll ordning i verkstad och förråd"**
+Working title: **"Städa i Garaget — rensa, organisera och håll ordning i verkstad och förråd"**
 
 The book takes the proven Swedish decluttering format (clear, project-by-project,
 warm and practical) and applies a real engineer's **5S workshop method** to the one
@@ -116,7 +116,7 @@ translation editions — handled once the manuscript is approved.
 | Document No. | Title |
 |---|---|
 | JDS-RPT-GEN-001 | Market Research — Swedish Garage & Workshop Decluttering Book |
-| JDS-MAN-GEN-001 | Reda i garaget — Book Concept & Chapter Outline |
+| JDS-MAN-GEN-001 | Städa i Garaget — Book Concept & Chapter Outline |
 
 ---
 

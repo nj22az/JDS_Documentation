@@ -1,4 +1,4 @@
-# Reda i garaget — Manuscript Style Guide
+# Städa i Garaget — Manuscript Style Guide
 
 | | |
 |---|---|
@@ -15,7 +15,7 @@
 
 ## 1. Why This Guide Exists
 
-Every chapter of *Reda i garaget* must read as if one person wrote it in one sitting:
+Every chapter of *Städa i Garaget* must read as if one person wrote it in one sitting:
 same voice, same method words, same chapter shape. This guide is the single source of
 truth. The `/write-chapter` skill drafts against it and **self-corrects** against the
 checklist in §8 before any chapter is considered done.

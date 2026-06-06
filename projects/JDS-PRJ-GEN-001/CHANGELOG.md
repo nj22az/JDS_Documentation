@@ -1,4 +1,4 @@
-# Changelog — Reda i garaget (Book Project)
+# Changelog — Städa i Garaget (Book Project)
 
 > **JDS-PRJ-GEN-001** | Master Change Log
 
@@ -21,3 +21,4 @@ This file logs **every change** to every document in this project.
 | 2026-06-05 | chapters/kapitel-06..15 | draft | N. Johansson | Del 3, Del 4, Del 5 + Avslutning drafted — full 15-chapter manuscript complete, all pass book-check.py clean |
 | 2026-06-05 | scripts/book-check.py | — | N. Johansson | Added homograph guard (errors on Cyrillic/Greek lookalike letters) after a Cyrillic "а" slipped into kapitel 8 |
 | 2026-06-05 | JDS-MAN-GEN-002 (Style Guide) | A | N. Johansson | Improvement log: homograph guard added to checker and §8 checklist |
+| 2026-06-06 | Whole project | — | N. Johansson | Book title changed from "Reda i garaget" to "Städa i Garaget" across all docs, chapters, registry, tooling and series titles |
