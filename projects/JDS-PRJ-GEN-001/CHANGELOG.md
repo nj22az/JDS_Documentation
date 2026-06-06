@@ -25,3 +25,6 @@ This file logs **every change** to every document in this project.
 | 2026-06-06 | frontmatter/, backmatter/ | draft | N. Johansson | Added title page, copyright, Inledning (hook), Om författaren, Ett sista ord |
 | 2026-06-06 | scripts/build-epub.py, build-cover.py | — | N. Johansson | New build tools — assemble KDP EPUB and generate 1600×2560 cover from the manuscript |
 | 2026-06-06 | 04-production/ | — | N. Johansson | Built KDP package: Stada-i-Garaget.epub + cover.jpg + amazon-listing.md + cover-brief.md + readiness-assessment.md |
+| 2026-06-06 | frontmatter/03-programmet.md | draft | N. Johansson | Added explicit problem definition + 10-step program (the reader roadmap) as front-of-book section |
+| 2026-06-06 | backmatter/00-checklista.md | draft | N. Johansson | Added tear-out 10-step checklist |
+| 2026-06-06 | Listing, cover, Inledning, outline | — | N. Johansson | Foregrounded the 10-step program: cover kicker, Amazon description (numbered program), Inledning framing, outline §3a roadmap; rebuilt EPUB + cover |

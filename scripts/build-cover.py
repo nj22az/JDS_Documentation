@@ -30,7 +30,7 @@ MUTED = (180, 198, 214)      # subtitle text
 TITLE_LINE1 = "STÄDA I"
 TITLE_LINE2 = "GARAGET"
 SUBTITLE = "Rensa, organisera och håll ordning\ni verkstad och förråd"
-KICKER = "DEN PROFFSIGA ORDNINGSMETODEN — HEM TILL DITT GARAGE"
+KICKER = "ETT 10-STEGSPROGRAM FÖR ETT GARAGE I ORDNING"
 AUTHOR = "NILS JOHANSSON"
 
 FONT_BOLD = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"

@@ -27,16 +27,30 @@ fixa.</b></p>
 <p>De flesta städböcker stannar vid tröskeln till garaget. Det är synd, för garaget är ofta
 det rum som stjäl mest tid, pengar och dåligt samvete i hela huset — fullt av verktyg, däck,
 färg och en livstid av "kanske behöver jag det".</p>
-<p><i>Städa i Garaget</i> tar med sig den ordningsmetod som proffs använder i verkstäder och
-maskinrum — och översätter den till vanlig svenska och till ditt eget garage. Allt vilar på
-fem enkla steg:</p>
-<p><b>Sortera · Systematisera · Städa · Standardisera · Säkra</b></p>
+<p><i>Städa i Garaget</i> ger dig något de andra inte gör: <b>ett färdigt program i tio steg</b>
+som tar dig hela vägen från kaos till ett garage som sköter sig självt. Du följer en steg
+i taget — ett eller ett par per helg — och efter ungefär fem helger är du klar.</p>
+<p>Det bygger på den ordningsmetod som proffs använder i verkstäder och maskinrum, översatt
+till vanlig svenska och till ditt eget garage.</p>
 <p>Det här är ingen bok om att storstäda en gång (det håller i tre veckor, och det vet du
 redan). Det är en bok om att bygga ett <b>system</b> som håller ordningen åt dig.</p>
-<h3>I boken får du:</h3>
+<h3>Programmet i korthet:</h3>
+<ol>
+<li>Sätt målet och fota "före"</li>
+<li>Töm ut och se vad du faktiskt har</li>
+<li>Bestäm: behålla, lämna eller flytta</li>
+<li>Ta hand om det farliga — bensin, färg, kemikalier</li>
+<li>Rita din zonkarta</li>
+<li>Få upp allt från golvet</li>
+<li>Märk och gör allt sökbart på tre sekunder</li>
+<li>Städa rent till en baslinje</li>
+<li>Sätt de fyra reglerna som håller</li>
+<li>Håll det vid liv — tio minuter i veckan</li>
+</ol>
+<h3>Dessutom får du:</h3>
 <ul>
-<li>En tydlig metod i fem steg — ett steg per helg, klar på ungefär fem helger</li>
 <li>Ett <b>Helgprojekt</b> i varje kapitel: konkret, gör-det-nu, ofta klart på en förmiddag</li>
+<li>En <b>utrivbar checklista</b> att bocka av steg för steg</li>
 <li>Knep för att hitta vilket verktyg som helst på tre sekunder</li>
 <li>Säker hantering av bensin, färg och kemikalier — det farliga som inte får gå i soporna</li>
 <li>En 10-minutersrutin som håller garaget i ordning året om</li>
@@ -55,10 +69,11 @@ Du öppnar garageporten, letar fem minuter efter en skruvmejsel, hittar den inte
 porten med en suck. Bilen står ute. Igen. Det är inte ditt fel — och det går att fixa.
 
 De flesta städböcker stannar vid tröskeln till garaget. Det är synd, för garaget är ofta det
-rum som stjäl mest tid, pengar och dåligt samvete i hela huset. *Städa i Garaget* tar med sig
-den ordningsmetod som proffs använder i verkstäder — och översätter den till ditt eget garage,
-i fem enkla steg: Sortera, Systematisera, Städa, Standardisera, Säkra. Ett steg per helg, klart
-på ungefär fem helger. Res dig ur soffan, öppna porten, och ta tillbaka ditt garage.
+rum som stjäl mest tid, pengar och dåligt samvete i hela huset. *Städa i Garaget* ger dig ett
+färdigt program i tio steg som tar dig hela vägen från kaos till ett garage som sköter sig
+självt. Du följer ett steg i taget — ett eller ett par per helg — och efter ungefär fem helger
+är du klar. Det bygger på den ordningsmetod som proffs använder i verkstäder. Res dig ur
+soffan, öppna porten, och ta tillbaka ditt garage.
 
 ---
 
@@ -67,9 +82,9 @@ på ungefär fem helger. Res dig ur soffan, öppna porten, och ta tillbaka ditt 
 1. städa garaget
 2. ordning och reda hemma
 3. förvaring garage verkstad
-4. rensa och organisera
+4. rensa och organisera garage
 5. döstädning gör det själv
-6. hemorganisering bok svenska
+6. 10 steg städa och organisera
 7. förråd och fritidshus ordning
 
 > Rationale: mixes high-intent niche terms ("städa garaget", "förvaring garage verkstad")

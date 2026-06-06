@@ -41,6 +41,21 @@
 6. **Author authority** — the engineer/5S angle is the moat. Make the bio as real and specific
    as is truthful (real roles, real years on the floor) — specificity sells credibility.
 
+## Update 2026-06-06 — problem & roadmap now explicit
+
+A reader/buyer needs to grasp, instantly, *what problem this solves* and *what exactly they'll
+do*. That was missing — the book read as a 15-chapter method, not a tool. Fixed by adding:
+
+- **A sharp problem definition** at the front (`frontmatter/03-programmet.md`): the garage as
+  the house's system-less dumping ground, why generic books and one-off cleanups fail.
+- **A 10-step program** — the concrete, numbered roadmap (one/two steps per weekend), each
+  mapped to its chapter, with the 5S method as the engine behind it.
+- **A tear-out checklist** (`backmatter/00-checklista.md`) the reader ticks off.
+- The program is now the headline on the **cover kicker** and leads the **Amazon description**.
+
+This is the biggest single lift to "why would I buy this": it turns a manuscript into a
+do-this-now system with a visible path from chaos to done.
+
 ## Honest weaknesses still in the manuscript
 
 - **The stories are anonymous and a little samey** ("En man…", "En kvinna…"). They're fine,

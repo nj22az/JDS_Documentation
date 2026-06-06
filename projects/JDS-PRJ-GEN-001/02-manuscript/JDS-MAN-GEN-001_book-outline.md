@@ -41,6 +41,29 @@ By the end, the reader has cleared the space once, built a simple **system** tha
 itself, and knows the short routine that stops it sliding back. Not a one-time blitz — a
 space that stays usable.
 
+## 3a. The Reader's Roadmap — the 10-Step Program
+
+The book is sold and used as a **10-step program**, laid out up front in
+`frontmatter/03-programmet.md` and as a tear-out checklist in `backmatter/00-checklista.md`.
+This is the "how it's used" spine: the reader follows ten numbered, concrete steps (one or two
+per weekend, ~5 weekends total), each mapped to the chapter that details it. The 5S method
+(below) is the engine *behind* the ten steps:
+
+| # | Step | 5S phase | Chapter |
+|---|------|----------|---------|
+| 1 | Sätt målet (goal + before-photo) | (prep) | 1–2 |
+| 2 | Töm och se | Sortera | 3 |
+| 3 | Behålla, lämna, flytta | Sortera | 4 |
+| 4 | Ta hand om det farliga | Sortera | 5 |
+| 5 | Rita zonkartan | Systematisera | 6 |
+| 6 | Upp från golvet | Systematisera | 7 |
+| 7 | Märk och gör sökbart | Systematisera | 8 |
+| 8 | Städa rent | Städa | 1–2 |
+| 9 | Sätt reglerna | Standardisera | 9 |
+| 10 | Håll det vid liv | Säkra | 10–11 |
+
+Chapters 12–14 are special cases outside the core ten; chapter 15 closes.
+
 ## 4. The Method (the spine of the book)
 
 The book teaches one method, taught in plain Swedish, that the reader applies room by
