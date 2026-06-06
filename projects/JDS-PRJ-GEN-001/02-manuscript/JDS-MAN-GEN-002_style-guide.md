@@ -22,9 +22,13 @@ checklist in §8 before any chapter is considered done.
 
 ## 2. Voice & Tone
 
-- **Language:** Swedish throughout. Plain, modern, spoken-but-tidy. No English loanwords
-  where a normal Swedish word exists.
-- **Address the reader as "du"** — never "man" as the main voice, never "ni".
+- **Language:** English-first (master). The Swedish edition mirrors it. In Swedish: plain,
+  modern, spoken-but-tidy, no English loanwords where a normal Swedish word exists.
+- **More vivid than plain.** The English master leans into voice: a sharp opening scene per
+  chapter, varied rhythm, the occasional first-person engineer aside, and **named** characters
+  in examples (Tom, Maria, Erik…) rather than anonymous "a man / a woman". Keep it tasteful —
+  warmth and concreteness, not stand-up comedy.
+- **Address the reader as "you"** (Swedish: "du") — never an impersonal voice, never "ni".
 - **Warm and on the reader's side.** The garage is not a moral failing; it's an overflow
   valve. Never shame, never nag.
 - **Engineer's authority, lightly worn.** Short declarative sentences. Concrete nouns
@@ -35,19 +39,25 @@ checklist in §8 before any chapter is considered done.
 
 ## 3. The Method Words (FIXED — never paraphrase)
 
-The five steps are a fixed vocabulary. Always these words, always this order, always bold
-on first use in a chapter:
+The book is **English-first** (master: *The Garage Reset*, `en/`) with a **Swedish edition**
+(*Städa i Garaget*, `sv/`). The five steps are a fixed vocabulary per edition. Always these
+words, always this order, always bold on first use in a chapter:
 
-| Step | Fixed Swedish label | Plain meaning |
-|------|---------------------|---------------|
-| 1 | **Sortera** | Keep / bin / move elsewhere |
-| 2 | **Systematisera** | A place for everything (zones, shelves, boards) |
-| 3 | **Städa** | A clean floor and bench as the baseline |
-| 4 | **Standardisera** | Make the order the default with simple rules |
-| 5 | **Säkra** | Keep it alive with a short routine |
+| Step | English label (master) | Fixed Swedish label | Plain meaning |
+|------|------------------------|---------------------|---------------|
+| 1 | **Sort** | **Sortera** | Keep / bin / move elsewhere |
+| 2 | **Set in Order** | **Systematisera** | A place for everything (zones, shelves, boards) |
+| 3 | **Shine** | **Städa** | A clean floor and bench as the baseline |
+| 4 | **Standardize** | **Standardisera** | Make the order the default with simple rules |
+| 5 | **Sustain** | **Säkra** | Keep it alive with a short routine |
 
-Do not invent synonyms (not "rensa-steget" for Sortera as a *label* — "rensa" is fine as
-an ordinary verb). The five S-words are the brand.
+The English labels are the canonical **5S** terms used in real workshops — name 5S explicitly;
+it's the author's credibility hook. Use US spelling ("Standardize", not "Standardise"). Do not
+invent synonyms for the labels. The five S-words are the brand.
+
+Box labels per edition: **Weekend Project** / Helgprojektet, **Workshop Rule** / Verkstadsregeln,
+**Safety** / Säkerhet, **Inherited & Hard** / Ärvt & svårt. Required section headings:
+English `## The problem` … `## Takeaways`; Swedish `## Problemet` … `## Att ta med sig`.
 
 ## 4. Fixed Terminology (glossary)
 
@@ -100,19 +110,20 @@ and easy to lift into layout later.
 - No numbered lists longer than 7 items — split instead.
 - Tables: max 7 columns (JDS PDF rule), units in the header only.
 - Each chapter file starts with a small status line: chapter no., title, draft date.
-- Filenames: `kapitel-NN-kort-titel.md`, lowercase, hyphenated, å/ä/ö → a/a/o in filename.
+- Filenames: `chapter-NN-short-title.md` (EN) / `kapitel-NN-kort-titel.md` (SV), lowercase,
+  hyphenated; å/ä/ö → a/a/o in Swedish filenames.
 
 ## 8. Self-Correction Checklist (run after every draft)
 
 The `/write-chapter` skill must verify each item and fix failures before finishing:
 
-- [ ] Reader addressed as **du** throughout (no stray "ni"/"man" as main voice)
-- [ ] The five method words spelled exactly per §3, bolded on first use, right order
+- [ ] Reader addressed as **you** / **du** throughout (no impersonal main voice, no "ni")
+- [ ] The five method words spelled exactly per §3 (EN 5S or SV), bolded on first use, right order
 - [ ] Glossary terms (§4) used consistently — no drift, no brand names
 - [ ] Metric units only
-- [ ] Chapter shape complete: Kroken → Problemet → Metoden här → Exempel → Box → Att ta med sig
-- [ ] At least one **Helgprojektet** box, finishable in a weekend
-- [ ] **Säkerhet** box present wherever chemicals, fuel, fire, electricity or lifting appear
+- [ ] Chapter shape complete: Hook → The problem → method applied → example → box → Takeaways
+- [ ] At least one **Weekend Project** / **Helgprojektet** box, finishable in a weekend
+- [ ] **Safety** / **Säkerhet** box present wherever chemicals, fuel, fire, electricity or lifting appear
 - [ ] One H1, no skipped levels, max H3
 - [ ] Length 1,200–2,200 words
 - [ ] No English loanwords where a Swedish word exists
@@ -139,6 +150,7 @@ and the correction is logged below so it is transparent, not silent.
 |------|----------|--------|--------|
 | 2026-06-05 | First 5 sample chapters | Chapter band 1,600–2,600 → **1,200–2,200** words | The book is an illustrated, box-driven project guide (Draganja-style). The five drafted chapters were expanded ~60–75% to ~1,300–1,530 words and read complete; the original band was set before the format was decided and was too high. `book-check.py` thresholds updated to match. Voice/structure rules unchanged. |
 | 2026-06-05 | Kapitel 8 | Added **homograph guard** to `book-check.py` (errors on Cyrillic/Greek letters) | A Cyrillic "а" (U+0430), visually identical to Latin "a", had slipped into "lägga-tillbaka-testet" and survived several passes because nothing checked for it. Fixed the chapter, then taught the checker to catch any non-Latin homograph so it can never recur silently. |
+| 2026-06-06 | Whole book | **English-first pivot.** English becomes the master edition; Swedish moves to `sv/`. | The author judged the English voice stronger. English also lets the method use the real **5S** terms (Sort, Set in Order, Shine, Standardize, Sustain) — a more authentic credibility hook than the translated Swedish S-words. `book-check.py`, `build-epub.py`, `build-cover.py` made language-aware (`--lang`); voice rules upgraded to vivid + named characters (§2). |
 
 ---
 

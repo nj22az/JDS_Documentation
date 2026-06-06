@@ -10,7 +10,7 @@
 
 | Spec | Value |
 |------|-------|
-| File | `cover.jpg` |
+| File | `cover-en.jpg` (English, primary) · `cover.jpg` (Swedish) |
 | Size | 1600 × 2560 px (Amazon's recommended 1.6:1 ratio) |
 | Colour | RGB |
 | Format | JPEG, quality 92 |
@@ -19,7 +19,8 @@
 **Design (draft):** JDS navy background; a pegboard panel with three amber tool silhouettes
 (hammer, wrench, screwdriver) hung from a rail; bold cream title **STÄDA I GARAGET** set big
 for thumbnail legibility; amber kicker line foregrounding the engineer/5S angle; subtitle and
-author below. Rebuild any time with `python3 scripts/build-cover.py`.
+author below. Rebuild any time with `python3 scripts/build-cover.py --lang en` (or `--lang sv`).
+The English cover headlines "A 10-STEP PROGRAM…"; the Swedish one "ETT 10-STEGSPROGRAM…".
 
 **Thumbnail test:** the title must be readable at ~160 px wide (the size in Amazon search).
 The two-line, high-contrast title passes this; keep it if iterating.

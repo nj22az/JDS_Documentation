@@ -1,10 +1,10 @@
-# Städa i Garaget — Book Project
+# The Garage Reset — Book Project
 
 | | |
 |---|---|
 | **Document No.** | JDS-PRJ-GEN-001 |
 | **Revision** | DRAFT |
-| **Date** | 2026-06-05 |
+| **Date** | 2026-06-06 |
 | **Status** | DRAFT |
 | **Author** | N. Johansson |
 | **Client** | Internal (self-published / publisher pitch) |
@@ -14,16 +14,17 @@
 
 ## What Is This?
 
-A **Swedish-language book** about decluttering, cleaning out, and keeping order in the
-**garage, workshop (verkstad) and storage room (förråd)** — the spaces that every
-Swedish home-organizing bestseller leaves out.
+A book about decluttering, cleaning out, and keeping order in the **garage, workshop, and
+storage room** — the spaces that home-organizing bestsellers leave out. Written
+**English-first** (master: *The Garage Reset*) with a **Swedish edition** (*Städa i Garaget*).
 
-Working title: **"Städa i Garaget — rensa, organisera och håll ordning i verkstad och förråd"**
+- **English title:** *The Garage Reset — A 10-Step Program to Declutter, Organize, and Keep
+  Order in Your Garage and Workshop*
+- **Swedish title:** *Städa i Garaget — rensa, organisera och håll ordning i verkstad och förråd*
 
-The book takes the proven Swedish decluttering format (clear, project-by-project,
-warm and practical) and applies a real engineer's **5S workshop method** to the one
-room the lifestyle authors avoid: the space full of tools, oil, fasteners, seasonal
-gear and heavy equipment.
+The book applies a real engineer's **5S method** (Sort · Set in Order · Shine · Standardize ·
+Sustain) — the order system used in professional workshops — to the one room the lifestyle
+authors avoid: the space full of tools, oil, fasteners, seasonal gear, and heavy equipment.
 
 ---
 
@@ -60,29 +61,30 @@ JDS-PRJ-GEN-001/
 ├── 01-research/                               ← market & competitive research
 │   └── JDS-RPT-GEN-001_market-research.md      ← the demand/gap analysis
 │
-├── 02-manuscript/                             ← the book itself
+├── 02-manuscript/                             ← the book itself (bilingual)
 │   ├── JDS-MAN-GEN-001_book-outline.md          ← concept, structure, chapter outline
 │   ├── JDS-MAN-GEN-002_style-guide.md           ← voice, method words, chapter shape, self-check
-│   ├── frontmatter/                             ← title page, copyright, Inledning (hook)
-│   ├── chapters/                                ← Swedish chapter drafts (kapitel-NN-*.md)
-│   └── backmatter/                              ← om författaren, ett sista ord
+│   ├── en/                                      ← ENGLISH master (The Garage Reset)
+│   │   ├── frontmatter/  chapters/  backmatter/   (chapter-NN-*.md)
+│   └── sv/                                      ← Swedish edition (Städa i Garaget)
+│       ├── frontmatter/  chapters/  backmatter/   (kapitel-NN-*.md)
 │
-│  Authoring: `/write-chapter` drafts a chapter against the style guide, then
-│  `scripts/book-check.py` self-corrects it until it reports ✓ clean.
+│  Authoring: `/write-chapter` drafts against the style guide, then
+│  `scripts/book-check.py --lang en|sv` self-corrects until ✓ clean.
 │
 ├── 03-assets/                                 ← photos, diagrams, illustrations
 │   └── images/
 │
-└── 04-production/                             ← KDP package
-    ├── Stada-i-Garaget.epub                     ← uploadable eBook (built from manuscript)
-    ├── cover.jpg                                ← KDP eBook cover 1600×2560
-    ├── amazon-listing.md                        ← description, keywords, categories, pricing
+└── 04-production/                             ← KDP package (both editions)
+    ├── The-Garage-Reset.epub / cover-en.jpg     ← English (primary)
+    ├── Stada-i-Garaget.epub / cover.jpg         ← Swedish
+    ├── amazon-listing-en.md / -sv.md            ← description, keywords, categories, pricing
     ├── cover-brief.md                           ← cover specs (eBook + paperback)
     └── readiness-assessment.md                  ← honest "is it sellable yet" review
 ```
 
-Build the KDP package from the manuscript with `scripts/build-cover.py` then
-`scripts/build-epub.py` (see `04-production/README.md`).
+Build the KDP package from the manuscript with `scripts/build-cover.py --lang en` then
+`scripts/build-epub.py --lang en` (see `04-production/README.md`).
 
 ---
 
@@ -115,9 +117,9 @@ translation editions — handled once the manuscript is approved.
 |-------|-------------|--------|
 | 1 | Market research & niche validation | ✅ Complete |
 | 2 | Concept, outline & style guide | ✅ Complete |
-| 3 | Manuscript draft (all 15 chapters) | ✅ Complete — draft |
-| 4 | KDP package (EPUB, cover, listing) | ✅ Built — ready to upload |
-| 5 | Author review, stories pass & beta reviews | ⬜ Not started |
+| 3 | Manuscript — English master (all 15 ch.) + Swedish edition | ✅ Complete — draft |
+| 4 | KDP package both editions (EPUB, cover, listing) | ✅ Built — ready to upload |
+| 5 | Author review & beta reviews | ⬜ Not started |
 | 6 | Paperback interior + illustrations | ⬜ Not started |
 
 ---

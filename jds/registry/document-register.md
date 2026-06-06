@@ -90,7 +90,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | JDS-PRJ-MEC-002 | Vessel Supervision System | A | 2026-04-10 | SUPERSEDED | N. Johansson |
 | [JDS-PRO-004](../../jds/procedures/JDS-PRO-004_code-audit.md) | Software Code Quality Standard | A | 2026-04-07 | CURRENT | N. Johansson |
 | [JDS-PRJ-SFW-001](../../projects/software/JDS-PRJ-SFW-001_local-image-generator/README.md) | Local Image Generator (JDS Image Studio) | Y | 2026-04-08 | CURRENT | N. Johansson |
-| [JDS-PRJ-GEN-001](../../projects/JDS-PRJ-GEN-001/README.md) | Städa i Garaget — Book Project (Swedish garage/workshop decluttering) | DRAFT | 2026-06-05 | DRAFT | N. Johansson |
+| [JDS-PRJ-GEN-001](../../projects/JDS-PRJ-GEN-001/README.md) | The Garage Reset / Städa i Garaget — Book Project (garage/workshop decluttering, EN master + SV) | DRAFT | 2026-06-06 | DRAFT | N. Johansson |
 
 ## Timesheets (TSH)
 

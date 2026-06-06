@@ -28,3 +28,7 @@ This file logs **every change** to every document in this project.
 | 2026-06-06 | frontmatter/03-programmet.md | draft | N. Johansson | Added explicit problem definition + 10-step program (the reader roadmap) as front-of-book section |
 | 2026-06-06 | backmatter/00-checklista.md | draft | N. Johansson | Added tear-out 10-step checklist |
 | 2026-06-06 | Listing, cover, Inledning, outline | — | N. Johansson | Foregrounded the 10-step program: cover kicker, Amazon description (numbered program), Inledning framing, outline §3a roadmap; rebuilt EPUB + cover |
+| 2026-06-06 | Whole manuscript | draft | N. Johansson | **English-first pivot.** Swedish moved to `02-manuscript/sv/`; wrote full English master *The Garage Reset* in `en/` (15 chapters + front/back matter) with a more vivid voice, named characters, and the real 5S terms (Sort/Set in Order/Shine/Standardize/Sustain). All pass book-check --lang en |
+| 2026-06-06 | scripts/*.py | — | N. Johansson | Made book-check, build-epub, build-cover language-aware (`--lang en|sv`); English is the default |
+| 2026-06-06 | 04-production/ | — | N. Johansson | Built English KDP package: The-Garage-Reset.epub + cover-en.jpg + amazon-listing-en.md; renamed Swedish listing to amazon-listing-sv.md |
+| 2026-06-06 | JDS-MAN-GEN-002, JDS-MAN-GEN-001 | A | N. Johansson | Style guide + outline updated for bilingual/English-first: EN 5S method words, vivid voice, EN section/box labels, improvement-log entry |

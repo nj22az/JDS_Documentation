@@ -8,22 +8,24 @@
 | **Status** | DRAFT |
 | **Author** | N. Johansson |
 
-> **Note on language:** JDS documentation is English (QMS-000 §15). This document is the
-> *plan* for a Swedish book, so the manuscript's own titles and headings are quoted in
-> Swedish (they are the product) with an English gloss in parentheses.
+> **Note on language:** The book is **English-first** (master: *The Garage Reset*, `en/`)
+> with a **Swedish edition** (*Städa i Garaget*, `sv/`). This outline is the shared plan;
+> Swedish titles are quoted with an English gloss where useful.
 
 ---
 
 ## 1. Concept
 
-A warm, practical Swedish handbook that does for the **garage, verkstad and förråd** what
-the bestsellers did for the home — but written by a real engineer who applies **5S
-workshop discipline** to the job.
+A warm, practical handbook that does for the **garage, workshop, and storage room** what the
+bestsellers did for the home — but written by a real engineer who applies **5S workshop
+discipline** to the job.
 
-- **Working title:** *Städa i Garaget* (Clean the garage)
-- **Subtitle:** *Rensa, organisera och håll ordning i verkstad och förråd*
-  (Clear out, organise and keep order in workshop and storage)
-- **Format:** project-by-project, do-it-this-weekend — the proven Swedish structure
+- **English title (master):** *The Garage Reset* — A 10-Step Program to Declutter, Organize,
+  and Keep Order in Your Garage and Workshop
+- **Swedish title:** *Städa i Garaget* — rensa, organisera och håll ordning i verkstad och förråd
+- **Method words:** EN **Sort · Set in Order · Shine · Standardize · Sustain** (real 5S);
+  SV Sortera · Systematisera · Städa · Standardisera · Säkra
+- **Format:** project-by-project, do-it-this-weekend
 - **Voice:** plain, encouraging, hands-on; method over product brands
 
 ## 2. Target Reader
