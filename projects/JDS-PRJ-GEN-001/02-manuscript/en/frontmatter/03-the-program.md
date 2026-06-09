@@ -12,14 +12,14 @@ home's overflow valve: everything that doesn't fit anywhere else drifts out to i
 a time, until the car lives in the driveway, you can't find your tools, and you sigh every time
 you open the door.
 
-It isn't because you're careless. It's because the garage never had a **system**. In the
-kitchen, every item has a place; in the garage, nothing does — and so every object becomes a
-small postponed decision. A thousand postponed decisions make a pile.
+The reason is structural, not personal: the garage never had a **system**. In the kitchen,
+every item has a place; in the garage, nothing does — and so every object becomes a small
+postponed decision. A thousand postponed decisions make a pile.
 
 And the problem doesn't solve itself, for three reasons:
 
-- **General tidying books skip the garage.** It's too hard — heavy, sharp, oily, flammable
-  things, not soft clothes you can fold.
+- **General tidying books skip the garage.** It's the hard room — tools and chemicals, not a
+  closet you fold.
 - **Store guides sell products, not a plan.** A new shelf doesn't fix a missing system.
 - **A one-time cleanup doesn't last.** It fixes the surface, not the cause, so the pile comes
   back.

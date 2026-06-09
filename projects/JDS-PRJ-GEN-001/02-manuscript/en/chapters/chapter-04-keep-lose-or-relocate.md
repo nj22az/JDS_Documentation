@@ -38,7 +38,7 @@ don't negotiate with yourself over every object.
 
 **Keep.** A thing stays if you've used it in the last year, or if it belongs to a job you genuinely
 do — not one you dream about. Tools you actually reach for. Tires for the car you actually own.
-Whatever stays will get a fixed place in the next chapter.
+Whatever stays will get a fixed place later, when we set things in order.
 
 **Lose.** Here goes everything you haven't used in over a year and have no concrete plan for.
 "Lose" doesn't always mean the dump — most of it can be sold, given away, or recycled. Someone else
