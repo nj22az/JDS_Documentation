@@ -54,6 +54,8 @@ wrong place feels wrong every day; a zone in the right place is one you stop thi
 > **Workshop Rule**
 > What you use often should be easiest to reach. What you use rarely can take the hard spots.
 
+![The five-zone map — an example layout for an ordinary garage](../../../03-assets/images/zone-map.png)
+
 ## An example: three steps for a broom
 
 A reader named Lena finally understood zones when she thought about her broom. It hung at the very

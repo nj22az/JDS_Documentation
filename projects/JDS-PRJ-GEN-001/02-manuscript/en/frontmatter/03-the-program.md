@@ -64,4 +64,6 @@ Three chapters then take on special cases that aren't an ordinary garage: the **
 the **apartment storage locker**, and **inheriting a whole workshop**. Skip to whichever one
 you recognize — the method is the same, but those places have their own tricks.
 
+![The 10-step program — one or two steps per weekend](../../../03-assets/images/ten-steps.png)
+
 You now have the whole map. Turn the page, and we'll start with step one.

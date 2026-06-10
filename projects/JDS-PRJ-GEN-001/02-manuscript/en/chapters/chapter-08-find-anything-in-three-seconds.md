@@ -52,6 +52,8 @@ the bench, it ends up on the bench. Make the return trip shortest, and order kee
 > **Workshop Rule**
 > A system isn't measured by how easy it is to find a thing — but by how easy it is to put it back.
 
+![The shadow board — an outline behind every tool shows what's missing at a glance](../../../03-assets/images/pegboard.png)
+
 ## An example: the kids found the hammer
 
 A father named Mark noticed his newly ordered garage stayed neat — until anyone else needed something.

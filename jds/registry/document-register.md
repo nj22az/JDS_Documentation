@@ -67,6 +67,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | [JDS-RPT-MEC-003](../../projects/JDS-PRJ-MEC-001/02-regulations/SE-sweden/JDS-RPT-MEC-003_afs2017-3-consolidated.md) | AFS 2017:3 Consolidated Supervision Requirements | B | 2026-04-10 | APPROVED | N. Johansson |
 | [JDS-RPT-MEC-004](../examples/JDS-RPT-MEC-004_deviation-report-example.md) | Example: Deviation Report — Pressure Vessel Wall Thinning | A | 2026-03-26 | EXAMPLE | N. Johansson |
 | [JDS-RPT-GEN-001](../../projects/JDS-PRJ-GEN-001/01-research/JDS-RPT-GEN-001_market-research.md) | Market Research — Swedish Garage & Workshop Decluttering Book | A | 2026-06-05 | DRAFT | N. Johansson |
+| [JDS-RPT-GEN-002](../../projects/JDS-PRJ-GEN-001/01-research/JDS-RPT-GEN-002_profitability-plan.md) | Profitability Plan — The Garage Reset on Amazon KDP | A | 2026-06-10 | DRAFT | N. Johansson |
 
 ## Manuals (MAN)
 

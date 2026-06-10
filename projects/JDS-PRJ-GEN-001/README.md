@@ -118,9 +118,10 @@ translation editions — handled once the manuscript is approved.
 | 1 | Market research & niche validation | ✅ Complete |
 | 2 | Concept, outline & style guide | ✅ Complete |
 | 3 | Manuscript — English master (all 15 ch.) + Swedish edition | ✅ Complete — draft |
-| 4 | KDP package both editions (EPUB, cover, listing) | ✅ Built — ready to upload |
-| 5 | Author review & beta reviews | ⬜ Not started |
-| 6 | Paperback interior + illustrations | ⬜ Not started |
+| 4 | KDP eBook package both editions (EPUB + diagrams, cover, listing) | ✅ Built — ready to upload |
+| 5 | Paperback: interior PDFs + wraparound print covers + diagrams | ✅ Built — ready to upload |
+| 6 | Profitability plan & pricing (JDS-RPT-GEN-002) | ✅ Decided — $6.99 / $14.99, KDP Select |
+| 7 | Author review (bio, safety passages) & beta reviews | ⬜ Not started — human step |
 
 ---
 

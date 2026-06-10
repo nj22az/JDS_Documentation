@@ -1,0 +1,177 @@
+#!/usr/bin/env python3
+"""Build the KDP paperback interior PDF for JDS-PRJ-GEN-001.
+
+Produces a print-ready 6x9 in interior (KDP's standard non-fiction trim) from the
+same markdown manuscript the EPUB is built from: mirrored margins with a gutter,
+running head with the book title, centred page numbers, chapters starting on a
+fresh page. Black ink only — the cheap KDP print tier.
+
+Reports the final page count, which determines the paperback spine width
+(pages x 0.002252 in for white paper) used by build-print-cover.py.
+
+Usage:
+    python3 scripts/build-print-pdf.py                 # English interior
+    python3 scripts/build-print-pdf.py --lang sv        # Swedish interior
+"""
+
+import re
+import sys
+from pathlib import Path
+
+import markdown
+import weasyprint
+from pypdf import PdfReader
+
+# --- Configuration (JDS-PRO-004 §3) --------------------------------------------
+
+PROJECT = Path("projects/JDS-PRJ-GEN-001")
+MANUSCRIPT = PROJECT / "02-manuscript"
+PRODUCTION = PROJECT / "04-production"
+IMAGES_DIR = (PROJECT / "03-assets" / "images").resolve()
+
+MD_EXTENSIONS = ["extra", "sane_lists", "smarty"]
+
+LANG_CONFIG = {
+    "en": {
+        "root": MANUSCRIPT / "en",
+        "chapter_glob": "chapter-*.md",
+        "title": "The Garage Reset",
+        "output": PRODUCTION / "The-Garage-Reset-Interior.pdf",
+        # Part-divider pages inserted before these chapter numbers.
+        "parts": {
+            1: ("Part One", "The Idea"),
+            3: ("Part Two", "Clear It Out"),
+            6: ("Part Three", "Build the System"),
+            9: ("Part Four", "Keep It"),
+            12: ("Part Five", "Special Cases"),
+        },
+    },
+    "sv": {
+        "root": MANUSCRIPT / "sv",
+        "chapter_glob": "kapitel-*.md",
+        "title": "Städa i Garaget",
+        "output": PRODUCTION / "Stada-i-Garaget-Interior.pdf",
+        "parts": {
+            1: ("Del 1", "Tanken"),
+            3: ("Del 2", "Rensa"),
+            6: ("Del 3", "Systemet"),
+            9: ("Del 4", "Håll ordning"),
+            12: ("Del 5", "Specialfall"),
+        },
+    },
+}
+
+# KDP 5.5x8.5 in (standard how-to trim), no-bleed interior.
+# Inside (gutter) margin sized for the 151-300 page band (>= 0.5 in required).
+PAGE_CSS = """
+@page {
+    size: 5.5in 8.5in;
+    margin: 0.7in 0.55in 0.65in 0.55in;
+    @bottom-center { content: counter(page); font-family: Georgia, serif; font-size: 9pt; }
+}
+@page :left  { margin-right: 0.8in; @top-left  { content: "BOOK_TITLE_TOKEN"; font-family: Georgia, serif; font-size: 8.5pt; letter-spacing: 0.08em; color: #444; } }
+@page :right { margin-left: 0.8in; @top-right { content: string(chaptitle); font-family: Georgia, serif; font-size: 8.5pt; font-style: italic; color: #444; } }
+@page front { @top-left { content: none; } @top-right { content: none; } @bottom-center { content: none; } }
+@page divider { @top-left { content: none; } @top-right { content: none; } @bottom-center { content: none; } }
+
+body { font-family: Georgia, 'Liberation Serif', serif; font-size: 11pt; line-height: 1.55; }
+section.front { page: front; }
+section { page-break-before: always; }
+section.chapter, section.divider { page-break-before: right; }
+section.divider { page: divider; text-align: center; }
+section.divider .partnum {
+    margin-top: 2.6in; font-size: 13pt; letter-spacing: 0.25em;
+    text-transform: uppercase; color: #555;
+}
+section.divider .partname { font-size: 24pt; font-weight: bold; margin-top: 0.3in; }
+h1 {
+    string-set: chaptitle content();
+    font-size: 20pt; line-height: 1.15; margin: 1.4in 0 0.4in;
+    page-break-after: avoid;
+}
+section.front h1 { margin-top: 1.1in; }
+h2 { font-size: 13pt; margin: 1.3em 0 0.4em; page-break-after: avoid; }
+h3 { font-size: 11.5pt; margin: 1.1em 0 0.3em; page-break-after: avoid; }
+h4 { font-size: 10.5pt; font-style: italic; }
+p { margin: 0 0 0.65em; text-align: justify; hyphens: auto; orphans: 2; widows: 2; }
+blockquote {
+    background: #f2f2f0; border-left: 3pt solid #555;
+    margin: 0.9em 0; padding: 0.5em 0.8em;
+    page-break-inside: avoid; text-align: left;
+}
+blockquote p { text-align: left; }
+ul, ol { margin: 0 0 0.7em 1.1em; }
+li { margin-bottom: 0.2em; }
+table { border-collapse: collapse; width: 100%; font-size: 8.5pt; margin: 0.8em 0; }
+th, td { border: 0.5pt solid #888; padding: 3pt 4pt; text-align: left; }
+th { background: #e8e8e6; }
+img { max-width: 100%; margin: 0.8em auto; display: block; }
+hr { border: none; border-top: 0.5pt solid #999; margin: 1.2em 0; }
+.titlepage { text-align: center; }
+.titlepage h1 { margin-top: 2.4in; font-size: 26pt; string-set: none; }
+"""
+
+
+def read_md(path):
+    lines = [ln for ln in path.read_text(encoding="utf-8").splitlines()
+             if not ln.strip().startswith("<!--")]
+    body = markdown.markdown("\n".join(lines).strip(), extensions=MD_EXTENSIONS)
+    # Point manuscript-relative image paths at the absolute assets directory.
+    body = re.sub(r'src="[^"]*?/images/([^"/]+)"',
+                  lambda m: f'src="{IMAGES_DIR / m.group(1)}"', body)
+    return body
+
+
+def ordered_sections(cfg):
+    sections = []
+    for path in sorted((cfg["root"] / "frontmatter").glob("*.md")):
+        sections.append(("front", path))
+    for path in sorted((cfg["root"] / "chapters").glob(cfg["chapter_glob"])):
+        sections.append(("chapter", path))
+    for path in sorted((cfg["root"] / "backmatter").glob("*.md")):
+        sections.append(("back", path))
+    return sections
+
+
+def build(cfg):
+    parts = []
+    chapter_no = 0
+    for kind, path in ordered_sections(cfg):
+        if kind == "chapter":
+            chapter_no += 1
+            if chapter_no in cfg["parts"]:
+                part_num, part_name = cfg["parts"][chapter_no]
+                parts.append(f'<section class="divider">'
+                             f'<p class="partnum">{part_num}</p>'
+                             f'<p class="partname">{part_name}</p></section>')
+            css_class = "chapter"
+        elif kind == "front":
+            css_class = "front"
+        else:
+            css_class = "main"
+        if path.stem.startswith(("00-title", "00-titelsida")):
+            css_class += " titlepage"
+        parts.append(f'<section class="{css_class}">{read_md(path)}</section>')
+
+    html = ("<html><head><meta charset='utf-8'></head><body>"
+            + "\n".join(parts) + "</body></html>")
+    css = weasyprint.CSS(string=PAGE_CSS.replace("BOOK_TITLE_TOKEN", cfg["title"]))
+    cfg["output"].parent.mkdir(parents=True, exist_ok=True)
+    weasyprint.HTML(string=html).write_pdf(str(cfg["output"]), stylesheets=[css])
+    return len(PdfReader(str(cfg["output"])).pages)
+
+
+def main():
+    args = sys.argv[1:]
+    lang = args[args.index("--lang") + 1] if "--lang" in args else "en"
+    cfg = LANG_CONFIG[lang]
+    pages = build(cfg)
+    size_kb = cfg["output"].stat().st_size / 1024
+    spine_in = pages * 0.002252
+    print(f"Built {cfg['output']} [{lang}] — {pages} pages, {size_kb:.0f} KB")
+    print(f"Spine width (white paper): {pages} x 0.002252 = {spine_in:.4f} in")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

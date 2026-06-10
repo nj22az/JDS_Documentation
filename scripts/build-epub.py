@@ -12,6 +12,7 @@ Usage:
     python3 scripts/build-epub.py --check          # list section order
 """
 
+import re
 import sys
 from pathlib import Path
 
@@ -23,6 +24,7 @@ from ebooklib import epub
 PROJECT = Path("projects/JDS-PRJ-GEN-001")
 MANUSCRIPT = PROJECT / "02-manuscript"
 PRODUCTION = PROJECT / "04-production"
+IMAGES_DIR = PROJECT / "03-assets" / "images"
 
 MD_EXTENSIONS = ["extra", "sane_lists", "smarty"]
 
@@ -70,6 +72,7 @@ blockquote strong:first-child { display: block; margin-bottom: 0.3em; }
 ul, ol { margin: 0 0 0.9em 1.2em; }
 li { margin-bottom: 0.3em; }
 hr { border: none; border-top: 1px solid #ccc; margin: 1.5em 0; }
+img { max-width: 100%; height: auto; margin: 1em auto; display: block; }
 """.strip()
 
 
@@ -80,6 +83,8 @@ def read_md(path):
     title = next((ln[2:].strip() for ln in text.splitlines() if ln.startswith("# ")),
                  path.stem)
     body = markdown.markdown(text, extensions=MD_EXTENSIONS)
+    # Rewrite manuscript-relative image paths to the EPUB-internal images/ folder.
+    body = re.sub(r'src="[^"]*?/images/([^"/]+)"', r'src="images/\1"', body)
     return title, body
 
 
@@ -109,6 +114,12 @@ def build(cfg):
     css = epub.EpubItem(uid="style", file_name="style/main.css",
                         media_type="text/css", content=STYLESHEET)
     book.add_item(css)
+
+    for image_path in sorted(IMAGES_DIR.glob("*.png")):
+        book.add_item(epub.EpubItem(uid=f"img_{image_path.stem}",
+                                    file_name=f"images/{image_path.name}",
+                                    media_type="image/png",
+                                    content=image_path.read_bytes()))
 
     html_items, toc = [], []
     for index, (kind, slug, path) in enumerate(ordered_sections(cfg)):
