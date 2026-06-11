@@ -2,6 +2,8 @@
 
 # When You Inherit a Workshop
 
+[[CARD step=Special case | time=Take your time | task=Make a safe first pass through what you inherited | need=Gloves, patience, no rush]]
+
 Some garages you don't clear for yourself, but for someone who's gone. When a parent or relative
 dies, it often falls to you to deal with a whole workshop — a lifetime of tools, parts, and things,
 gathered by someone else, with memories in every drawer. This is the method's hardest case, and it's

@@ -2,6 +2,8 @@
 
 # Keep, Lose, or Relocate
 
+[[CARD step=Step 3 of 10 | time=One morning | task=Sort one category into keep, lose, or relocate | need=Three floor spots and clear rules]]
+
 Now the things are out in the light, grouped by kind. Now come the decisions. This is the heart
 of the **Sort** step, and it's the part most people dread — not because the lifting is hard, but
 because every single item is quietly begging you to hesitate.

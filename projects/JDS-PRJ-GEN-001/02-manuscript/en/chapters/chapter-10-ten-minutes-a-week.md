@@ -2,6 +2,8 @@
 
 # Ten Minutes a Week
 
+[[CARD step=Step 10 of 10 | time=Ten minutes | task=Put the weekly round in the calendar | need=Your phone or a wall calendar]]
+
 This is the last step, and the easiest to write but the hardest to keep: **Sustain**. It isn't
 about doing something big. It's about doing something small, often. Ten minutes a week is the
 difference between a garage that was in order in March and one that's still in order in November.

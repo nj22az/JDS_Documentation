@@ -2,6 +2,8 @@
 
 # The Rules That Hold the Line
 
+[[CARD step=Step 9 of 10 | time=Half an hour | task=Agree the four house rules and post them | need=A card and a pen]]
+
 The garage is cleared, the things have their places, and everything is labelled. And yet — if
 nothing more is done — the mess comes back. Not in a day, but in half a year. This chapter is
 about the **Standardise** step: the few simple rules that make order hold instead of slowly

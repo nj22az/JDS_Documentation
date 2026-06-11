@@ -2,6 +2,8 @@
 
 # Spring and Autumn
 
+[[CARD step=Step 10, seasonal | time=Half a day, twice a year | task=Tie the big clear-out to the seasonal swap | need=The seasonal checklist]]
+
 The weekly round keeps the garage on its feet, but it doesn't do everything. Twice a year the
 garage needs a longer pass — and the seasons invite you to it themselves. Spring and autumn are the
 natural turning points, and they double neatly as decluttering checkpoints. This is still

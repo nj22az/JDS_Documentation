@@ -2,6 +2,8 @@
 
 # The Method on One Page
 
+[[CARD step=The method (5S) | time=20 minutes | task=Learn the five steps and pin them up where you'll see them | need=The book and a bit of wall]]
+
 There are entire books about tidying up. This method fits on one page, and that's on purpose. A
 garage doesn't get cleared with a philosophy — it gets cleared with five steps you do in order,
 one weekend at a time, until it's done.

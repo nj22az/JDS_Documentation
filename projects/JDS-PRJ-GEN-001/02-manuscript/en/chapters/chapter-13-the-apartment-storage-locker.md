@@ -2,6 +2,8 @@
 
 # The Flat and the Storage Locker
 
+[[CARD step=Special case | time=One morning | task=Empty and rebuild the locker properly | need=A few stackable boxes]]
+
 Not everyone has a garage. Many have a small storage unit instead — a cage in the basement, an
 attic locker, a wardrobe off the stairwell. The space is smaller, often shared, and rarely visited.
 But the method shrinks beautifully: the five steps work just as well on four square metres as on

@@ -2,6 +2,8 @@
 
 # The Dangerous and the Toxic
 
+[[CARD step=Step 4 of 10 | time=One morning | task=Make the hazard corner small, safe, and gone | need=Gloves, a sturdy box, your tip's opening hours]]
+
 Every garage hides a pile that can't go in the bin: paint cans skinned over with sludge, a
 jug of old petrol, the battery you swapped out, spray cans, solvent, a leaking can of oil. This
 gets its own chapter because it's the most common way a garage turns genuinely dangerous — and

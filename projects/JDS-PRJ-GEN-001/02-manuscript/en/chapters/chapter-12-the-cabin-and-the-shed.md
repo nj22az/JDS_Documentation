@@ -2,6 +2,8 @@
 
 # The Cabin and the Shed
 
+[[CARD step=Special case | time=One weekend | task=Winter-proof the shed or cabin | need=Mouse-proof mesh, sealant, a sturdy ladder]]
+
 The method is the same everywhere, but some spaces have their own conditions. The shed, the
 outbuilding, or the garage at a cabin or summer place is one of them. The same five steps apply
 here — but damp, cold, and long stretches with no one watching put extra demands on them. This

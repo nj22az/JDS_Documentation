@@ -2,6 +2,8 @@
 
 # Zones That Actually Work
 
+[[CARD step=Step 5 of 10 | time=One evening | task=Draw your five-zone map | need=Paper, pencil, a tape measure]]
+
 Now the book turns. The first chapters cleared things out. From here you build — you give
 everything that survived a fixed place. This is **Set in Order**, and it starts not with shelves
 but with a map.

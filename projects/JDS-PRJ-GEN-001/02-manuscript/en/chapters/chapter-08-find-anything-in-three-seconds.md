@@ -2,6 +2,8 @@
 
 # Find Anything in Three Seconds
 
+[[CARD step=Step 7 of 10 | time=One morning | task=Make one zone findable at a glance | need=Labels, a marker, a few clear bins]]
+
 The things are up on the wall and in on the shelves. But **Set in Order** isn't finished until
 the system passes one simple test: can you, or anyone else in the house, find any item in three
 seconds? And just as important — can you put it back just as fast?

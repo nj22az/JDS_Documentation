@@ -2,6 +2,8 @@
 
 # A Garage That Works for You
 
+[[CARD step=The payoff | time=Ongoing | task=Write your maintenance plan on one card | need=One index card]]
+
 You've been through the whole method. You've cleared, built zones, moved things up off the floor,
 set rules, and found a routine. Now the garage isn't a room you avoid, but one that helps you. This
 last chapter is about what you've actually won — and how to make sure you keep it.

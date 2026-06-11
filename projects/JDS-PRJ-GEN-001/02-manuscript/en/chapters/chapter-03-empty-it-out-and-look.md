@@ -2,6 +2,8 @@
 
 # Empty It Out and Look
 
+[[CARD step=Step 2 of 10 | time=One weekend | task=Carry one wall's worth out and group it like-with-like | need=Boxes, tape, a marker]]
+
 Now the real work begins, and it starts with a move that feels backward: you're going to take
 things *out* of the garage before you decide what leaves. You're going to empty it, and you're
 going to look.

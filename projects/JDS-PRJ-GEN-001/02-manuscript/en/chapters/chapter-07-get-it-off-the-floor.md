@@ -2,6 +2,8 @@
 
 # Get It Off the Floor
 
+[[CARD step=Step 6 of 10 | time=One weekend | task=Clear one wall and send it upward | need=Drill, fixings, a stud finder]]
+
 You have a zone map. Now you build the walls that make it real — the heart of **Set in
 Order** — on one near-magic rule: **almost nothing belongs on the floor.** The floor is the
 most expensive surface in the
