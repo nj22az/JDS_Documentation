@@ -22,12 +22,16 @@ vårstädningen var borta till sommaren.
 - Stop cleaning your garage. Start building a system.
 - From dumping ground to a garage that works *for* you.
 - The order method real workshops run on — brought home.
+- No app. No subscription. No Wi-Fi. One book, a pen, and a weekend.
+- Tired of googling and YouTube rabbit-holes? The whole method, on paper.
 
 **SV**
 - Ta tillbaka ditt garage — en helg i taget.
 - Sluta städa garaget. Börja bygga ett system.
 - Från soptipp till ett garage som jobbar *för* dig.
 - Proffsens ordningsmetod — hem till ditt garage.
+- Ingen app. Ingen prenumeration. Inget wifi. En bok, en penna och en helg.
+- Trött på att googla och fastna på YouTube? Hela metoden, på papper.
 
 ## One-line hook (for an ad headline)
 

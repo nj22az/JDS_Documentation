@@ -53,6 +53,9 @@ about building a <b>system</b> that keeps the order for you.</p>
 <li>Safe handling of fuel, paint, and chemicals — the dangerous stuff that can't go in the trash</li>
 <li>Special chapters for the cabin shed, the apartment storage locker, and inheriting a workshop</li>
 </ul>
+<p>And no screen. No app, no subscription, no endless searching, no Wi-Fi — the whole method is
+on paper, start to finish. (The fill-in templates are a free bonus to download, never a
+requirement.)</p>
 <p>No expensive gear. No special tools. Just a method that works — written by someone who has
 actually stood on the workshop floor.</p>
 <p><b>Get off the couch, open the door, and take back your garage.</b></p>

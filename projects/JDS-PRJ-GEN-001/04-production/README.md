@@ -14,8 +14,8 @@ Everything needed to publish the book on Amazon KDP. The book is **English-first
 | `amazon-listing-en.md` | EN | Title fields, HTML description, keywords, categories, pricing |
 | `Stada-i-Garaget.epub` | SV | Uploadable Swedish eBook |
 | `cover.jpg` | SV | Swedish KDP cover, 1600×2560 |
-| `Stada-i-Garaget-Interior.pdf` | SV | Swedish paperback interior — 129 pp, localized diagrams + QR toolkit |
-| `Stada-i-Garaget-Print-Cover.pdf` | SV | Swedish wraparound print cover (0.291 in spine) |
+| `Stada-i-Garaget-Interior.pdf` | SV | Swedish paperback interior — 131 pp, localized diagrams + QR toolkit |
+| `Stada-i-Garaget-Print-Cover.pdf` | SV | Swedish wraparound print cover (0.295 in spine) |
 | `amazon-listing-sv.md` | SV | Swedish listing copy |
 | `advertising-kit.md` | EN+SV | Ad-ready taglines, hooks, blurbs, social copy, pull-quotes, targeting |
 | `cover-brief.md` | — | Cover specs (eBook + paperback) and design rationale |

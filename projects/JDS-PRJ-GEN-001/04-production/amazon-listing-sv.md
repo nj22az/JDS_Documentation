@@ -56,6 +56,9 @@ redan). Det är en bok om att bygga ett <b>system</b> som håller ordningen åt 
 <li>En 10-minutersrutin som håller garaget i ordning året om</li>
 <li>Särskilda kapitel för fritidshusets uthus, lägenhetsförrådet och att ärva en verkstad</li>
 </ul>
+<p>Och ingen skärm. Ingen app, ingen prenumeration, inget ändlöst sökande, inget wifi — hela
+metoden finns på papper, från början till slut. (De ifyllbara mallarna är en gratis bonus att
+ladda ner, aldrig ett krav.)</p>
 <p>Inga dyra prylar. Inga specialverktyg. Bara en metod som fungerar — skriven av någon som
 faktiskt har stått på verkstadsgolvet.</p>
 <p><b>Res dig ur soffan, öppna porten, och ta tillbaka ditt garage.</b></p>

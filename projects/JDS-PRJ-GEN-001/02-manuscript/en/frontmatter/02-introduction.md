@@ -75,8 +75,10 @@ who like to keep things shipshape: a simple inventory, a tool journal, and a mai
 with fire and safety rounds. It's optional. If lists and logs aren't you, skip it with a clear
 conscience; the Core stands on its own.
 
-You won't need expensive gear or special tools. You'll need this book, a couple of free
-mornings, and the willingness to be rid of the pile for good.
+You won't need expensive gear or special tools — and you won't need a screen. No app, no
+subscription, no endless searching, no Wi-Fi: everything is in these pages, start to finish.
+You'll need this book, a couple of free mornings, and the willingness to be rid of the pile for
+good.
 
 So get off the couch. Bring the book. And open the door — this time, we're going to do something
 about what's standing behind it.

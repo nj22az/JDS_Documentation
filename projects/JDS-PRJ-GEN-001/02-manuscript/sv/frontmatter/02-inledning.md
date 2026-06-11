@@ -76,8 +76,10 @@ som gillar att hålla skeppat och klart: en enkel inventering, en verktygsjourna
 underhållsrytm med brand- och skyddsronder. Det är frivilligt. Om listor och loggar inte är din
 grej, hoppa över det med gott samvete; Kärnan står på egna ben.
 
-Du behöver inga dyra prylar och inga specialverktyg. Du behöver den här boken, ett par lediga
-förmiddagar, och viljan att äntligen bli av med högen för gott.
+Du behöver inga dyra prylar och inga specialverktyg — och du behöver ingen skärm. Ingen app,
+ingen prenumeration, inget ändlöst sökande, inget wifi: allt finns på de här sidorna, från
+början till slut. Du behöver den här boken, ett par lediga förmiddagar, och viljan att äntligen
+bli av med högen för gott.
 
 Så res dig ur soffan. Ta med dig boken. Och öppna porten — den här gången ska vi göra något
 åt det som står där bakom.
