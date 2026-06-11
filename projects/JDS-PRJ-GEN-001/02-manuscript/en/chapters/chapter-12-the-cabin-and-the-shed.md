@@ -88,11 +88,12 @@ season begins. A shed in order is part of what makes a cabin restful in the firs
 to relax, not to fight a damp pile in the outbuilding.
 
 > **Specs: keeping damp and mice out**
-> - A mouse gets through a gap the size of a **pencil (~6 mm)** — seal openings with **steel wool or
->   6 mm steel mesh (hardware cloth)**, not foam, which they chew through.
-> - Raise everything **off the slab** on a pallet or shelving; a concrete floor sweats.
-> - In a closed shed, a tub of **desiccant or a few moisture absorbers** cuts the winter damp that
->   ruins fabric and rusts tools.
+>
+> | What | How |
+> |---|---|
+> | Gaps | A mouse gets through a pencil-width (~6 mm) gap — seal with steel wool or 6 mm steel mesh, never foam (they chew it) |
+> | Off the slab | Raise everything onto a pallet or shelving; a concrete floor sweats |
+> | Damp | A tub of desiccant or a few moisture absorbers cuts winter damp that ruins fabric and rusts tools |
 
 > **Safety**
 > Petrol for the mower and chainsaw belongs in an approved can, cool and away from the living quarters

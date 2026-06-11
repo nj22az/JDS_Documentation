@@ -50,15 +50,14 @@ place you stop noticing.
 > Plan the car in first. Everything else is built around the clearances it needs.
 
 > **Specs: clearances that keep the car usable**
-> - A single bay is about **3.5 m (12 ft)** wide; a two-car garage runs roughly **6 × 6 m
->   (20 × 20 ft)**. A car is about **1.8–2 m** wide — less spare room than it feels like.
-> - Leave **75 cm (30 in) on the driver's side** to open the door and walk through; ~30 cm is
->   enough on the far side.
-> - Keep a **1 m (3 ft) clear aisle** to the exit door — it's your walkway and your fire escape.
-> - Pull forward enough to leave a **1–1.2 m (3–4 ft) work strip** behind the car (a tennis ball on
->   a string from the ceiling marks the stopping point).
-> - Wall storage over the bonnet eats depth: keep shelves there **shallow (≤ 30 cm)** or the bumper
->   meets them.
+>
+> | Clearance | Size |
+> |---|---|
+> | Bay width | Single ~3.5 m (12 ft); two-car ~6 × 6 m (20 × 20 ft); a car is ~1.8–2 m wide |
+> | Driver's side | 75 cm (30 in) to open the door and walk through; ~30 cm on the far side |
+> | Aisle to exit | 1 m (3 ft) clear — your walkway and fire escape |
+> | Work strip behind car | 1–1.2 m (3–4 ft); a tennis ball on a string marks the stopping point |
+> | Shelves over the bonnet | Shallow, ≤ 30 cm, or the bumper meets them |
 
 [[FIGURE:3|The five-zone map — an example garage seen from above, with the car, tool, garden, seasonal and recycling zones marked, and the clearances around the car.]]
 

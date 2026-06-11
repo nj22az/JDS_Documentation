@@ -85,12 +85,13 @@ the time and the things in hand. Small every week, big twice a year, and nothing
 cracks.
 
 > **Specs: storing tyres right**
-> - Keep them **cool, dry, and out of direct sun** — UV and ozone crack rubber.
-> - **Off the bare slab** — set them on a shelf, a strip of cardboard, or hang them; concrete wicks
->   moisture into the tyre.
-> - **Unmounted tyres stand upright; mounted tyres (on rims) lie flat or hang.** Keep flat stacks to
->   four or fewer so the bottom ones don't deform.
-> - Bag each in a contractor bag to slow drying out.
+>
+> | What | How |
+> |---|---|
+> | Conditions | Cool, dry, out of direct sun — UV and ozone crack rubber |
+> | Off the slab | On a shelf, a strip of cardboard, or hung; concrete wicks moisture in |
+> | Position | Unmounted stand upright; mounted (on rims) lie flat or hang; flat stacks of four or fewer |
+> | Long storage | Bag each in a contractor bag to slow drying out |
 
 > **Safety**
 > Heavy seasonal things live high and far back. Use a sturdy ladder, not a chair, when you bring tyres

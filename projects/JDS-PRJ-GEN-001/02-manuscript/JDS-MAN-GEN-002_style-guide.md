@@ -116,9 +116,14 @@ the cheap B&W paperback tier (JDS-PRO-007 §6.2 *redundant encoding*).
 
 Author it as a Markdown blockquote whose **first line is the bold label** (`> **Safety**`),
 then the body. The build scripts (`build-epub.py`, `build-print-pdf.py`) recognise the label and
-render a bold **"candy-panel"** card — a solid saturated header bar (white icon + label, rounded
-maru-gothic) on a clean white card with a chunky rounded border — automatically. The manuscript
-stays plain Markdown and the colour/icon can never drift out of sync. The front matter carries a
+render a card with a solid saturated header bar (white icon + label, rounded maru-gothic) on a
+clean white card with a chunky rounded border. Body text is the box colour (a blue bento has
+blue text). The manuscript stays plain Markdown and the colour/icon can never drift out of sync.
+
+**Specs is a dashboard, not prose.** Author every **Specs** / **Mått & fakta** box as a
+two-column Markdown table (`| Label | Value |`) — it renders as a full-gridline label→value grid
+(the box header is the title, so the table's own header row is hidden). Keep labels short; put the
+numbers in the value column. The other four boxes stay clean callouts (no internal gridlines). The front matter carries a
 one-card **legend** of all five so the reader learns the system on page one. Do **not** hand-add
 icons or colour in the text; just use the exact label.
 

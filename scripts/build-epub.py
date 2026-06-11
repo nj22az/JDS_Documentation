@@ -103,35 +103,42 @@ figure.fig figcaption { font-size: 0.85em; color: #555; margin-top: 0.3em; }
     font-family: 'Rounded', sans-serif; font-weight: 700; font-size: 1.04em;
     letter-spacing: 0.01em; }
 .box-icon { margin-right: 0.5em; font-size: 0.9em; vertical-align: 0.04em; }
-/* The whole box is white with a single coloured outline; the text and bullets
-   take a darkened shade of that colour (a blue bento has blue text). Rows inside
-   are separated by full-width divider lines (edge to edge, like a spreadsheet). */
-.box-body { background: #fff; padding: 0; }
-.box-body p { text-align: left; margin: 0; padding: 0.5em 0.9em; }
-.box-body ul, .box-body ol { margin: 0; padding: 0; list-style-position: inside; }
-.box-body li { margin: 0; padding: 0.45em 0.9em; }
-.box-body > * + *, .box-body li + li { border-top: 1px solid #ddd; }
+/* Non-data boxes are clean callouts: white card, single coloured outline,
+   coloured text + bullets (a blue bento has blue text), no inner gridlines. */
+.box-body { background: #fff; padding: 0.55em 0.9em 0.65em; }
+.box-body p { text-align: left; margin: 0.4em 0; }
+.box-body > :first-child { margin-top: 0; }
+.box-body > :last-child { margin-bottom: 0; }
+.box-body ul, .box-body ol { margin: 0.4em 0; padding-left: 1.3em; }
+.box-body li { margin: 0.25em 0; }
+/* Data boxes (Specs): a real label->value dashboard grid with full gridlines.
+   The box header is the title, so the table's own header row is hidden. */
+.box-body table { width: 100%; border-collapse: collapse; margin: 0; font-size: 0.95em; }
+.box-body thead { display: none; }
+.box-body td { padding: 0.4em 0.75em; text-align: left; vertical-align: top;
+    border-bottom: 1px solid #ddd; border-right: 1px solid #ddd; }
+.box-body td:last-child { border-right: none; }
+.box-body tbody tr:last-child td { border-bottom: none; }
+.box-body td:first-child { width: 34%; font-weight: 700;
+    font-family: 'Rounded', Georgia, sans-serif; }
+.box-specs .box-body { padding: 0; }
 .box.box-safety { border-color: #cf3127; }
 .box.box-safety .box-head { background: #cf3127; }
 .box.box-safety .box-body { color: #b3271e; }
-.box.box-safety .box-body > * + *, .box.box-safety .box-body li + li { border-top-color: #ecc0bc; }
 .box.box-do { border-color: #2f8f5b; }
 .box.box-do .box-head { background: #2f8f5b; }
 .box.box-do .box-body { color: #236b44; }
-.box.box-do .box-body > * + *, .box.box-do .box-body li + li { border-top-color: #b8ddca; }
 .box.box-rule { border-color: #1b3a5c; }
 .box.box-rule .box-head { background: #1b3a5c; }
 .box.box-rule .box-body { color: #1b3a5c; }
-.box.box-rule .box-body > * + *, .box.box-rule .box-body li + li { border-top-color: #b9c5d3; }
 .box.box-specs { border-color: #2e7fa6; }
 .box.box-specs .box-head { background: #2e7fa6; }
 .box.box-specs .box-body { color: #235f7e; }
-.box.box-specs .box-body > * + *, .box.box-specs .box-body li + li { border-top-color: #b5d1e1; }
+.box.box-specs .box-body td { border-color: #c2dce9; }
+.box.box-specs .box-body tbody tr:nth-child(even) td { background: #f1f7fa; }
 .box.box-soft { border-color: #a9741c; }
 .box.box-soft .box-head { background: #a9741c; }
 .box.box-soft .box-body { color: #7d5413; }
-.box.box-soft .box-body > * + *, .box.box-soft .box-body li + li { border-top-color: #e0cda6; }
-.box.box-soft .box-body > p, .box.box-soft .box-body li { border-color: #d9c294; }
 
 /* Chapter-opener dashboard (JDS-PRO-007 §5.3). A rounded 2x2 "bento": small-caps
    label + value, so the reader sees the shape of the chapter at a glance. The

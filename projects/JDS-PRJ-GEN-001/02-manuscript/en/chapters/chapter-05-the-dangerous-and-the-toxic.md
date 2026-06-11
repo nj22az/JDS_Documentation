@@ -61,15 +61,13 @@ Rule of thumb: a flame, skull, or corrosion symbol — or the words *danger*, *f
 doesn't belong in the bin.
 
 > **Specs: safe-storage numbers worth knowing**
-> - **Petrol** only in approved safety cans, **20 litres (5 gal) or less each.** Keep only what
->   you'll burn in a season — **Swedish rules cap home petrol storage at about 25 litres without a
->   permit** (other countries vary; the spirit is the same — keep very little).
-> - **Propane/LPG (gasol) cylinders: never indoors or in an attached garage. Store outdoors,
->   upright, shaded.** This one rule prevents the worst accidents.
-> - Keep flammables **low** (vapour sinks), cool, and well away from any pilot, boiler, or
->   fuse box. A flammable-liquids cabinet is worth it past a can or two.
-> - Mount a **powder extinguisher (ABC, ~6 kg)** by the exit door, about **1.3 m (4–5 ft)** up —
->   where you reach it on the way *out*, not deep in the garage behind the fire.
+>
+> | What | The number / rule |
+> |---|---|
+> | Petrol | Approved cans only, 20 litres (5 gal) or less each; Swedish cap ~25 litres without a permit — keep a season's worth |
+> | Propane / LPG (gasol) | Never indoors or in an attached garage — store outdoors, upright, shaded |
+> | Flammables | Keep low (vapour sinks), cool, away from any pilot, boiler, or fuse box; a cabinet past a can or two |
+> | Extinguisher | Powder ABC, ~6 kg, by the exit door, ~1.3 m (4–5 ft) up — where you reach it on the way out |
 
 ## An example: five kinds of petrol
 

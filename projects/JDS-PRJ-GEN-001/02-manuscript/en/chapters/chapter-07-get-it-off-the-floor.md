@@ -53,14 +53,13 @@ over where the car parks or a person stands.
 > The floor is for working on, not storing on. Anything that can hang, hangs — anchored into a stud.
 
 > **Specs: heights, the bench, and light**
-> - **The golden zone** is knee-to-shoulder, about **75–150 cm (30–60 in)** off the floor — hang
->   what you reach for weekly there. Heavy and daily goes lower; light and rare goes up high.
-> - Walk-under shelves: keep the **bottom of a high shelf at 2 m (80 in) or more** so you don't
->   crack your head.
-> - **Workbench height: about 90 cm (36 in)** — roughly your wrist height. Too low wrecks your back.
-> - **Light it properly: aim for 300–500 lux.** A 36 m² (≈400 sq ft) two-car garage wants roughly
->   15,000–20,000 lumens — four or five 1.2 m (4 ft) LED batten lights at 4000–5000 K. Bad light is
->   why garages feel grim; this one upgrade changes the room.
+>
+> | Measure | Height / value |
+> |---|---|
+> | Golden zone | Knee-to-shoulder, ~75–150 cm (30–60 in); heavy and daily lower, light and rare up high |
+> | Walk-under shelf | Bottom at 2 m (80 in) or more so you don't crack your head |
+> | Workbench | ~90 cm (36 in) — about wrist height; too low wrecks your back |
+> | Lighting | 300–500 lux; ~15,000–20,000 lumens for a 36 m² (≈400 sq ft) garage — four or five 1.2 m (4 ft) LED battens at 4000–5000 K |
 
 ## An example: a double garage that became one — in reverse
 

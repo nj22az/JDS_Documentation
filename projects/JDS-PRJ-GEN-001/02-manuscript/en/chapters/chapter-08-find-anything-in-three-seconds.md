@@ -55,12 +55,12 @@ the bench, it ends up on the bench. Make the return trip shortest, and order kee
 > A system isn't measured by how easy it is to find a thing — but by how easy it is to put it back.
 
 > **Specs: the shadow board**
-> - Standard pegboard is **6 mm hardboard with holes about 25 mm apart**, on a **~12 mm standoff**
->   so the hooks seat. Thin 3 mm board sags — use 6 mm.
-> - Heavy tools (big spanners, a mallet) pull pegboard hooks out — hang those on a **French cleat**
->   or a metal track instead.
-> - Small parts go in **divided bins labelled by size** ("4 × 30 mm screws"), sorted by type and
->   length — not jumbled in one coffee tin.
+>
+> | Part | Spec |
+> |---|---|
+> | Pegboard | 6 mm hardboard, holes ~25 mm apart, on a ~12 mm standoff (3 mm board sags — use 6 mm) |
+> | Heavy tools | Hang big spanners and mallets on a French cleat or metal track, not pegboard hooks |
+> | Small parts | Divided bins labelled by size ("4 × 30 mm screws"), sorted by type and length |
 
 [[FIGURE:4|A shadow board — hand tools on a pegboard with a painted outline behind each one, and one outline left empty to show a tool that's missing.]]
 
