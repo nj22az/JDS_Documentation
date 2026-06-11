@@ -106,19 +106,27 @@ table { border-collapse: collapse; width: 100%; font-size: 8.5pt; margin: 0.8em 
 th, td { border: 0.5pt solid #888; padding: 3pt 4pt; text-align: left; }
 th { background: #e8e8e6; }
 img { max-width: 100%; margin: 0.8em auto; display: block; }
+img.qr { width: 24mm; display: block; margin: 2mm 0; }
 hr { border: none; border-top: 0.5pt solid #999; margin: 1.2em 0; }
 .titlepage { text-align: center; }
 .titlepage h1 { margin-top: 2.4in; font-size: 26pt; string-set: none; }
 """
 
 
+def _resolve_image(name):
+    for cand in (IMAGES_DIR / name, IMAGES_DIR / "qr" / name):
+        if cand.exists():
+            return cand
+    return IMAGES_DIR / name
+
+
 def read_md(path):
     lines = [ln for ln in path.read_text(encoding="utf-8").splitlines()
              if not ln.strip().startswith("<!--")]
     body = markdown.markdown("\n".join(lines).strip(), extensions=MD_EXTENSIONS)
-    # Point manuscript-relative image paths at the absolute assets directory.
-    body = re.sub(r'src="[^"]*?/images/([^"/]+)"',
-                  lambda m: f'src="{IMAGES_DIR / m.group(1)}"', body)
+    # Point any manuscript-relative image path at the absolute asset (handles qr/ subdir).
+    body = re.sub(r'src="[^"]*?/([^"/]+\.png)"',
+                  lambda m: f'src="{_resolve_image(m.group(1)).as_uri()}"', body)
     return body
 
 

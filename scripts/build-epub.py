@@ -73,6 +73,7 @@ ul, ol { margin: 0 0 0.9em 1.2em; }
 li { margin-bottom: 0.3em; }
 hr { border: none; border-top: 1px solid #ccc; margin: 1.5em 0; }
 img { max-width: 100%; height: auto; margin: 1em auto; display: block; }
+img.qr { width: 120px; display: block; margin: 0.4em 0; }
 """.strip()
 
 
@@ -83,8 +84,8 @@ def read_md(path):
     title = next((ln[2:].strip() for ln in text.splitlines() if ln.startswith("# ")),
                  path.stem)
     body = markdown.markdown(text, extensions=MD_EXTENSIONS)
-    # Rewrite manuscript-relative image paths to the EPUB-internal images/ folder.
-    body = re.sub(r'src="[^"]*?/images/([^"/]+)"', r'src="images/\1"', body)
+    # Flatten any manuscript-relative image path to the EPUB-internal images/ folder.
+    body = re.sub(r'src="[^"]*?/([^"/]+\.png)"', r'src="images/\1"', body)
     return title, body
 
 
@@ -115,8 +116,9 @@ def build(cfg):
                         media_type="text/css", content=STYLESHEET)
     book.add_item(css)
 
-    # Embed only this edition's diagrams: Swedish files end in "-sv", English don't.
-    for image_path in sorted(IMAGES_DIR.glob("*.png")):
+    # Embed only this edition's images (diagrams + QR codes). SV files end in "-sv".
+    images = sorted(IMAGES_DIR.glob("*.png")) + sorted((IMAGES_DIR / "qr").glob("*.png"))
+    for image_path in images:
         is_sv = image_path.stem.endswith("-sv")
         if (cfg["language"] == "sv") != is_sv:
             continue

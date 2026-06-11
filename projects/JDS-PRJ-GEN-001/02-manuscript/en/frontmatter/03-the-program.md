@@ -66,4 +66,8 @@ you recognize — the method is the same, but those places have their own tricks
 
 ![The 10-step program — one or two steps per weekend](../../../03-assets/images/ten-steps.png)
 
+And at the very back, **The Toolkit** gives you the inventory, the tool lifetime journal, the
+hazard log, and a continuous maintenance program — all free to print — that keep the garage in
+order long after the five weekends are done.
+
 You now have the whole map. Turn the page, and we'll start with step one.

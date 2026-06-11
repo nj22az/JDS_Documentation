@@ -65,4 +65,8 @@ uthus**, **lägenhetsförrådet** och **att ärva en hel verkstad**. Hoppa dit d
 
 ![10-stegsprogrammet — ett eller två steg per helg](../../../03-assets/images/ten-steps-sv.png)
 
+Och längst bak ger dig **Verktygslådan** inventeringen, livslängdsjournalen, giftloggen och ett
+löpande underhållsprogram — allt gratis att skriva ut — som håller garaget i ordning långt efter
+de fem helgerna.
+
 Du har nu hela kartan. Vänd blad, så börjar vi med steg 1.
