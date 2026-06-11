@@ -20,6 +20,7 @@ from pathlib import Path
 
 import markdown
 import weasyprint
+from weasyprint.text.fonts import FontConfiguration
 from pypdf import PdfReader
 
 # --- Configuration (JDS-PRO-004 §3) --------------------------------------------
@@ -28,6 +29,7 @@ PROJECT = Path("projects/JDS-PRJ-GEN-001")
 MANUSCRIPT = PROJECT / "02-manuscript"
 PRODUCTION = PROJECT / "04-production"
 IMAGES_DIR = (PROJECT / "03-assets" / "images").resolve()
+FONTS_DIR = (PROJECT / "03-assets" / "fonts").resolve()
 
 MD_EXTENSIONS = ["extra", "sane_lists", "smarty"]
 
@@ -63,6 +65,17 @@ LANG_CONFIG = {
 
 # KDP 5.5x8.5 in (standard how-to trim), no-bleed interior.
 # Inside (gutter) margin sized for the 151-300 page band (>= 0.5 in required).
+def _font_face_css():
+    """@font-face block pointing at the absolute subset-font paths (weasyprint)."""
+    weights = [("Regular", 400), ("Medium", 500), ("Bold", 700)]
+    blocks = []
+    for name, weight in weights:
+        uri = (FONTS_DIR / f"MPLUSRounded1c-{name}-subset.ttf").as_uri()
+        blocks.append(f"@font-face {{ font-family: 'Rounded'; font-weight: {weight};"
+                      f" src: url('{uri}'); }}")
+    return "\n".join(blocks)
+
+
 PAGE_CSS = """
 @page {
     size: 5.5in 8.5in;
@@ -83,15 +96,18 @@ section.divider .partnum {
     margin-top: 2.6in; font-size: 13pt; letter-spacing: 0.25em;
     text-transform: uppercase; color: #555;
 }
-section.divider .partname { font-size: 24pt; font-weight: bold; margin-top: 0.3in; }
+section.divider .partname { font-size: 24pt; font-weight: 700; margin-top: 0.3in;
+    font-family: 'Rounded', Georgia, sans-serif; }
+section.divider .partnum { font-family: 'Rounded', Georgia, sans-serif; }
+h1, h2, h3, h4 { font-family: 'Rounded', Georgia, sans-serif; }
 h1 {
     string-set: chaptitle content();
     font-size: 20pt; line-height: 1.15; margin: 1.4in 0 0.4in;
-    page-break-after: avoid;
+    page-break-after: avoid; font-weight: 700;
 }
 section.front h1 { margin-top: 1.1in; }
-h2 { font-size: 13pt; margin: 1.3em 0 0.4em; page-break-after: avoid; }
-h3 { font-size: 11.5pt; margin: 1.1em 0 0.3em; page-break-after: avoid; }
+h2 { font-size: 13pt; margin: 1.3em 0 0.4em; page-break-after: avoid; font-weight: 700; }
+h3 { font-size: 11.5pt; margin: 1.1em 0 0.3em; page-break-after: avoid; font-weight: 500; }
 h4 { font-size: 10.5pt; font-style: italic; }
 p { margin: 0 0 0.65em; text-align: left; orphans: 2; widows: 2; }
 blockquote {
@@ -105,13 +121,14 @@ blockquote strong:first-child { display: block; margin-bottom: 0.25em; }
 /* Colour-coded boxes (JDS-PRO-007 §6). The cheap KDP print tier is B&W, so the
    leading icon + bold label + border carry the meaning; the colour is a bonus
    on any colour-tier reprint (§6.2 redundant encoding). */
-.box { background: #f2f2f0; border-left: 3pt solid #555; margin: 0.9em 0;
-    padding: 0.5em 0.8em; page-break-inside: avoid; text-align: left; }
+.box { background: #f2f2f0; border-left: 4pt solid #555; margin: 0.9em 0;
+    padding: 0.5em 0.8em; page-break-inside: avoid; text-align: left; border-radius: 9pt; }
 .box p { text-align: left; }
 .box > :first-child { margin-top: 0; }
 .box > :last-child { margin-bottom: 0; }
 /* Scope label styling to the box's first paragraph only (not bold list lead-ins). */
-.box > p:first-child > strong:first-child { display: block; margin-bottom: 0.25em; }
+.box > p:first-child > strong:first-child { display: block; margin-bottom: 0.25em;
+    font-family: 'Rounded', Georgia, sans-serif; font-weight: 700; }
 .box.box-safety { border-left-color: #b5302e; background: #f4ecec; }
 .box.box-safety > p:first-child > strong:first-child::before { content: "\\25B2  "; }
 .box.box-do { border-left-color: #2f7d5b; background: #ecf1ee; }
@@ -123,13 +140,30 @@ blockquote strong:first-child { display: block; margin-bottom: 0.25em; }
 .box.box-soft { border-left-color: #b5852a; background: #f3efe6; }
 .box.box-soft > p:first-child > strong:first-child::before { content: "\\25C7  "; }
 
-/* Compartment legend ("how this book is laid out" card). */
-.legend { border: 0.5pt solid #999; border-radius: 2pt; padding: 2mm 4mm;
-    margin: 5mm 0; page-break-inside: avoid; }
-.legend table { font-size: 9.5pt; margin: 0; }
+/* Chapter-opener dashboard (JDS-PRO-007 §5.3). Rounded 2x2 bento; the wrapper
+   rounds + clips the table corners. */
+.chapter-card-wrap { border: 0.75pt solid #9fb0bf; border-radius: 11pt;
+    overflow: hidden; margin: 0.3em 0 1.4em; page-break-inside: avoid; }
+table.chapter-card { width: 100%; border-collapse: collapse; font-size: 10pt; }
+table.chapter-card td.cc-cell { width: 50%; border: 0.5pt solid #9fb0bf;
+    padding: 2mm 3mm; vertical-align: top; background: #f4f7f9; }
+.cc-k { display: block; font-size: 7.5pt; letter-spacing: 0.12em;
+    text-transform: uppercase; color: #3f7e96; margin-bottom: 0.8mm;
+    font-family: 'Rounded', sans-serif; font-weight: 500; }
+.cc-v { display: block; color: #1b3a5c; line-height: 1.25;
+    font-family: 'Rounded', Georgia, sans-serif; font-weight: 700; }
+
+/* Compartment legend ("how this book is laid out" bento). */
+.legend { border: 0.75pt solid #9fb0bf; border-radius: 11pt; overflow: hidden;
+    padding: 0; margin: 5mm 0; page-break-inside: avoid; }
+.legend table { font-size: 9.5pt; margin: 0; width: 100%; border-collapse: collapse; }
 .legend td { border: none; border-bottom: 0.4pt solid #ddd; padding: 2mm 3mm;
     vertical-align: top; }
-.legend td:first-child { white-space: nowrap; font-weight: bold; width: 42mm; }
+.legend tr:last-child td { border-bottom: none; }
+.legend td:first-child { white-space: nowrap; width: 42mm;
+    font-family: 'Rounded', Georgia, sans-serif; font-weight: 700; }
+.legend th { background: #1b3a5c; color: #fff; text-align: left; padding: 2mm 3mm;
+    font-family: 'Rounded', sans-serif; font-weight: 500; }
 ul, ol { margin: 0 0 0.7em 1.1em; }
 li { margin-bottom: 0.2em; }
 table { border-collapse: collapse; width: 100%; font-size: 8.5pt; margin: 0.8em 0; }
@@ -173,6 +207,26 @@ def _figure_html(m):
                 f'<figcaption><strong>Figure {n}.</strong> {cap}</figcaption></figure>')
     return (f'<div class="figph"><strong>FIGURE {n} — image to come</strong><br/>{cap}<br/>'
             f'<em>Place fig-{int(n):02d}.jpg in 03-assets/images/figures/ and rebuild.</em></div>')
+
+
+def _card_html(m):
+    """Render a chapter-opener dashboard from a [[CARD ...]] token (see build-epub.py)."""
+    fields = {}
+    for part in m.group(1).split("|"):
+        if "=" in part:
+            key, value = part.split("=", 1)
+            fields[key.strip()] = value.strip()
+    cells = [("Step", fields.get("step", "")), ("Time", fields.get("time", "")),
+             ("This weekend", fields.get("task", "")), ("You'll need", fields.get("need", ""))]
+    rows = ""
+    for i in (0, 2):
+        rows += "<tr>"
+        for label, value in cells[i:i + 2]:
+            rows += (f'<td class="cc-cell"><span class="cc-k">{label}</span>'
+                     f'<span class="cc-v">{value}</span></td>')
+        rows += "</tr>"
+    return (f'<div class="chapter-card-wrap">'
+            f'<table class="chapter-card"><tbody>{rows}</tbody></table></div>')
 
 
 # Colour-coded box system (JDS-PRO-007 §6: colour is language, always with a label).
@@ -220,6 +274,7 @@ def read_md(path):
     lines = [ln for ln in path.read_text(encoding="utf-8").splitlines()
              if not ln.strip().startswith("<!--")]
     text = re.sub(r'\[\[FIGURE:(\d+)\|(.+?)\]\]', _figure_html, "\n".join(lines).strip(), flags=re.S)
+    text = re.sub(r'\[\[CARD\s+(.+?)\]\]', _card_html, text, flags=re.S)
     text = _render_box_blocks(text)
     body = markdown.markdown(text, extensions=MD_EXTENSIONS)
     # Point any manuscript-relative image path at the absolute asset (handles qr/ subdir).
@@ -261,9 +316,12 @@ def build(cfg):
 
     html = ("<html><head><meta charset='utf-8'></head><body>"
             + "\n".join(parts) + "</body></html>")
-    css = weasyprint.CSS(string=PAGE_CSS.replace("BOOK_TITLE_TOKEN", cfg["title"]))
+    font_config = FontConfiguration()
+    page_css = _font_face_css() + "\n" + PAGE_CSS.replace("BOOK_TITLE_TOKEN", cfg["title"])
+    css = weasyprint.CSS(string=page_css, font_config=font_config)
     cfg["output"].parent.mkdir(parents=True, exist_ok=True)
-    weasyprint.HTML(string=html).write_pdf(str(cfg["output"]), stylesheets=[css])
+    weasyprint.HTML(string=html).write_pdf(str(cfg["output"]), stylesheets=[css],
+                                           font_config=font_config)
     return len(PdfReader(str(cfg["output"])).pages)
 
 

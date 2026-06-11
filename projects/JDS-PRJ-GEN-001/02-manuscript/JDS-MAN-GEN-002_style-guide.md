@@ -121,6 +121,25 @@ stays plain Markdown and the colour/icon can never drift out of sync. The front 
 one-card **legend** of all five so the reader learns the system on page one. Do **not** hand-add
 icons or colour in the text; just use the exact label.
 
+### Chapter-opener card (optional)
+
+A chapter may open with a **dashboard card** — a rounded 2×2 bento under the H1 that lets the
+reader size up the chapter in half a second. Author it as a token right after the H1:
+
+```
+[[CARD step=1 of 10 | time=One morning | task=See the garage clearly — before you touch a thing | need=A notepad and a pen]]
+```
+
+`step` = where it sits in the programme (or a short role like "Special case"); `time` = realistic
+effort; `task` = the chapter's Weekend Project in a phrase; `need` = what to gather. The build
+scripts render it; keep the prose clean.
+
+### Type
+
+Headings and all bento furniture are set in **M PLUS Rounded 1c** (rounded maru-gothic, OFL — the
+free HG Maru Gothic equivalent; see `03-assets/fonts/`). Body stays serif for long-form reading.
+Don't hand-set fonts in the manuscript; the build applies them.
+
 ## 7. Structural & House Rules
 
 - One H1 per chapter; never skip heading levels; max depth H3.

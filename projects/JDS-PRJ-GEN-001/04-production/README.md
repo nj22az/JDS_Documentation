@@ -44,6 +44,9 @@ The EPUBs and covers are generated from the manuscript — never hand-edit them.
 change to a chapter or front/back-matter file:
 
 ```bash
+# one-time (or after changing the character set): subset the rounded display font
+python3 scripts/build-fonts.py
+
 # English (primary)
 python3 scripts/build-cover.py --lang en
 python3 scripts/build-epub.py  --lang en

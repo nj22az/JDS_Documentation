@@ -26,6 +26,7 @@ MANUSCRIPT = PROJECT / "02-manuscript"
 PRODUCTION = PROJECT / "04-production"
 IMAGES_DIR = PROJECT / "03-assets" / "images"
 FIGURES_DIR = IMAGES_DIR / "figures"
+FONTS_DIR = PROJECT / "03-assets" / "fonts"
 
 MD_EXTENSIONS = ["extra", "sane_lists", "smarty"]
 
@@ -58,10 +59,21 @@ LANG_CONFIG = {
 AUTHOR = "Nils Johansson"
 
 STYLESHEET = """
+/* Rounded maru-gothic display font (M PLUS Rounded 1c, OFL; subset to Latin +
+   the five box icons by build-fonts.py). Used for headings and the compartment
+   "bento" furniture — the friendly, Japanese-information-design look. */
+@font-face { font-family: 'Rounded'; font-weight: 400;
+    src: url('../fonts/MPLUSRounded1c-Regular-subset.ttf'); }
+@font-face { font-family: 'Rounded'; font-weight: 500;
+    src: url('../fonts/MPLUSRounded1c-Medium-subset.ttf'); }
+@font-face { font-family: 'Rounded'; font-weight: 700;
+    src: url('../fonts/MPLUSRounded1c-Bold-subset.ttf'); }
 body { font-family: Georgia, 'Times New Roman', serif; line-height: 1.55; }
-h1 { font-size: 1.6em; line-height: 1.2; margin: 1.2em 0 0.6em; page-break-before: always; }
-h2 { font-size: 1.2em; margin: 1.4em 0 0.4em; }
-h3 { font-size: 1.05em; margin: 1.2em 0 0.3em; }
+h1, h2, h3, h4 { font-family: 'Rounded', Georgia, sans-serif; }
+h1 { font-size: 1.6em; line-height: 1.2; margin: 1.2em 0 0.6em; page-break-before: always;
+    font-weight: 700; }
+h2 { font-size: 1.2em; margin: 1.4em 0 0.4em; font-weight: 700; }
+h3 { font-size: 1.05em; margin: 1.2em 0 0.3em; font-weight: 500; }
 h4 { font-size: 1em; font-style: italic; margin: 1em 0 0.3em; }
 p { margin: 0 0 0.8em; text-align: left; }
 blockquote {
@@ -83,14 +95,15 @@ figure.fig figcaption { font-size: 0.85em; color: #555; margin-top: 0.3em; }
 /* Colour-coded boxes (JDS-PRO-007 §6: colour is language, never colour alone).
    Each box carries a left-border colour, a tinted ground, AND a leading icon on
    the label, so it still reads on greyscale e-ink and photocopies (§6.2). */
-.box { background: #f3f3f1; border-left: 4px solid #4a4a4a;
-    margin: 1.2em 0; padding: 0.6em 1em; border-radius: 2px; }
+.box { background: #f3f3f1; border-left: 5px solid #4a4a4a;
+    margin: 1.2em 0; padding: 0.6em 1em; border-radius: 10px; }
 .box p { text-align: left; }
 .box > :first-child { margin-top: 0; }
 .box > :last-child { margin-bottom: 0; }
 /* The label is the first <strong> of the box's first paragraph — scope the
-   colour and leading icon to it only, so bold lead-ins in lists stay plain. */
-.box > p:first-child > strong:first-child { display: block; margin-bottom: 0.3em; }
+   colour, rounded font and leading icon to it only, so bold lead-ins stay plain. */
+.box > p:first-child > strong:first-child { display: block; margin-bottom: 0.3em;
+    font-family: 'Rounded', Georgia, sans-serif; font-weight: 700; }
 .box.box-safety { border-left-color: #b5302e; background: #faf0ef; }
 .box.box-safety > p:first-child > strong:first-child { color: #b5302e; }
 .box.box-safety > p:first-child > strong:first-child::before { content: "\\25B2  "; }
@@ -107,13 +120,31 @@ figure.fig figcaption { font-size: 0.85em; color: #555; margin-top: 0.3em; }
 .box.box-soft > p:first-child > strong:first-child { color: #8a6420; }
 .box.box-soft > p:first-child > strong:first-child::before { content: "\\25C7  "; }
 
-/* Compartment legend (the "how this book is laid out" card). */
-.legend { border: 1px solid #d4d4d0; border-radius: 3px; padding: 0.4em 1em;
-    margin: 1.2em 0; background: #fafafa; }
+/* Chapter-opener dashboard (JDS-PRO-007 §5.3). A rounded 2x2 "bento": small-caps
+   label + value, so the reader sees the shape of the chapter at a glance. The
+   wrapper rounds + clips the table's square corners. */
+.chapter-card-wrap { border: 1px solid #c9d2db; border-radius: 12px;
+    overflow: hidden; margin: 0.4em 0 1.5em; }
+table.chapter-card { width: 100%; border-collapse: collapse; }
+table.chapter-card td.cc-cell { width: 50%; border: 1px solid #c9d2db;
+    padding: 0.5em 0.7em; vertical-align: top; background: #f6f8fa; }
+.cc-k { display: block; font-size: 0.68em; letter-spacing: 0.12em;
+    text-transform: uppercase; color: #3f7e96; margin-bottom: 0.15em;
+    font-family: 'Rounded', sans-serif; font-weight: 500; }
+.cc-v { display: block; color: #1b3a5c; line-height: 1.3;
+    font-family: 'Rounded', Georgia, sans-serif; font-weight: 700; }
+
+/* Compartment legend (the "how this book is laid out" bento). */
+.legend { border: 1px solid #d4d4d0; border-radius: 12px; overflow: hidden;
+    padding: 0; margin: 1.2em 0; background: #fafafa; }
 .legend table { width: 100%; border-collapse: collapse; }
-.legend td { padding: 0.35em 0.5em; vertical-align: top; font-size: 0.95em;
+.legend td { padding: 0.45em 0.7em; vertical-align: top; font-size: 0.95em;
     border-bottom: 1px solid #eee; }
-.legend td:first-child { white-space: nowrap; font-weight: bold; width: 11em; }
+.legend tr:last-child td { border-bottom: none; }
+.legend td:first-child { white-space: nowrap; width: 11em;
+    font-family: 'Rounded', Georgia, sans-serif; font-weight: 700; }
+.legend th { background: #1b3a5c; color: #fff; text-align: left; padding: 0.45em 0.7em;
+    font-family: 'Rounded', sans-serif; font-weight: 500; }
 """.strip()
 
 
@@ -133,6 +164,30 @@ def _figure_html(m):
                 f'<figcaption><strong>Figure {n}.</strong> {cap}</figcaption></figure>')
     return (f'<div class="figph"><strong>FIGURE {n} — image to come</strong><br/>{cap}<br/>'
             f'<em>Place fig-{int(n):02d}.jpg in 03-assets/images/figures/ and rebuild.</em></div>')
+
+
+def _card_html(m):
+    """Render a chapter-opener dashboard from [[CARD step=.. | time=.. | task=.. | need=..]].
+
+    A four-cell compartment (JDS-PRO-007 §5.3) the reader scans before the prose:
+    where this chapter sits, how long it takes, the one task, and what to gather.
+    """
+    fields = {}
+    for part in m.group(1).split("|"):
+        if "=" in part:
+            key, value = part.split("=", 1)
+            fields[key.strip()] = value.strip()
+    cells = [("Step", fields.get("step", "")), ("Time", fields.get("time", "")),
+             ("This weekend", fields.get("task", "")), ("You'll need", fields.get("need", ""))]
+    rows = ""
+    for i in (0, 2):
+        rows += "<tr>"
+        for label, value in cells[i:i + 2]:
+            rows += (f'<td class="cc-cell"><span class="cc-k">{label}</span>'
+                     f'<span class="cc-v">{value}</span></td>')
+        rows += "</tr>"
+    return (f'<div class="chapter-card-wrap">'
+            f'<table class="chapter-card"><tbody>{rows}</tbody></table></div>')
 
 
 # Colour-coded box system (JDS-PRO-007 §6: colour is language, always with a label).
@@ -187,6 +242,7 @@ def read_md(path):
     title = next((ln[2:].strip() for ln in text.splitlines() if ln.startswith("# ")),
                  path.stem)
     text = re.sub(r'\[\[FIGURE:(\d+)\|(.+?)\]\]', _figure_html, text, flags=re.S)
+    text = re.sub(r'\[\[CARD\s+(.+?)\]\]', _card_html, text, flags=re.S)
     text = _render_box_blocks(text)
     body = markdown.markdown(text, extensions=MD_EXTENSIONS)
     # Flatten any manuscript-relative image path to the EPUB-internal images/ folder.
@@ -220,6 +276,13 @@ def build(cfg):
     css = epub.EpubItem(uid="style", file_name="style/main.css",
                         media_type="text/css", content=STYLESHEET)
     book.add_item(css)
+
+    # Embed the subset rounded display font (built by build-fonts.py).
+    for font_path in sorted(FONTS_DIR.glob("*-subset.ttf")) if FONTS_DIR.exists() else []:
+        book.add_item(epub.EpubItem(uid=f"font_{font_path.stem}",
+                                    file_name=f"fonts/{font_path.name}",
+                                    media_type="font/ttf",
+                                    content=font_path.read_bytes()))
 
     # Embed only this edition's images (diagrams + QR codes). SV files end in "-sv".
     images = sorted(IMAGES_DIR.glob("*.png")) + sorted((IMAGES_DIR / "qr").glob("*.png"))

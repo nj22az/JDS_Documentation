@@ -2,6 +2,8 @@
 
 # Why the Garage Always Ends Up Worst
 
+[[CARD step=1 of 10 | time=One morning | task=See the garage clearly — before you touch a thing | need=A notepad and a pen]]
+
 You've cleaned the kitchen. You've sorted the wardrobe — maybe even flipped the whole bookshelf
 one rainy Sunday in January. But the garage? The garage stands there, untouched, door down,
 quietly growing a pile you've stopped really seeing.
