@@ -115,7 +115,11 @@ def build(cfg):
                         media_type="text/css", content=STYLESHEET)
     book.add_item(css)
 
+    # Embed only this edition's diagrams: Swedish files end in "-sv", English don't.
     for image_path in sorted(IMAGES_DIR.glob("*.png")):
+        is_sv = image_path.stem.endswith("-sv")
+        if (cfg["language"] == "sv") != is_sv:
+            continue
         book.add_item(epub.EpubItem(uid=f"img_{image_path.stem}",
                                     file_name=f"images/{image_path.name}",
                                     media_type="image/png",

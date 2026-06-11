@@ -151,11 +151,3 @@ vad du nu ska bygga.
 > Innan du börjar flytta tungt: ett garage har ofta dålig belysning och hala fläckar av
 > olja eller smältvatten. Sätt på allt ljus du har, och torka upp blöta fläckar på golvet
 > innan du bär något tungt. Reda börjar med att du inte halkar.
-
-## Att ta med sig
-
-- Garaget blir värst för att det är husets bräddavlopp — sista anhalten för allt utan plats.
-- Orsaken är inte för få hyllor, utan avsaknaden av ett system som bestämmer vart saker hör.
-- Du städar inte garaget en gång; du bygger ett system i fem steg som håller ordningen åt dig.
-- Att slänga är bara början. Fyra av fem steg handlar om vad som händer sedan.
-- Börja med att titta, inte med att bära. Hitta en enda sak som inte behövs — och du är igång.

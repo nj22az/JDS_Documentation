@@ -106,11 +106,3 @@ allt. Det är den som blir av som håller garaget i ordning, inte den du planera
 
 > **Verkstadsregeln**
 > Veckorundan återställer, den renoverar inte. Stora problem noteras nu och löses vår och höst.
-
-## Att ta med sig
-
-- **Säkra** håller ordningen vid liv med en liten, regelbunden insats — inte en stor, sällan.
-- Ordning läcker långsamt; enstaka avvikelser märks inte, men de samlas tyst till en hög.
-- Veckorundan är tio minuter, fast tid, tre saker: tillbaka på plats, ut till återvinning, torka bänken.
-- Notera stora problem men lös dem inte nu — de hör till halvårsgenomgången.
-- En mogen rutin krymper av sig själv: först lagar den skador, sedan förebygger den dem.

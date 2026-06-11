@@ -53,7 +53,7 @@ LANG_CONFIG = {
         "glob": "kapitel-*.md",
         "method_words": ["Sortera", "Systematisera", "Städa", "Standardisera", "Säkra"],
         "misspellings": ["Standarisera", "Systemarisera", "Sytematisera", "Sakra"],
-        "required_sections": ["## Problemet", "## Att ta med sig"],
+        "required_sections": ["## Problemet"],
         "required_box": "Helgprojektet",
         "safety_triggers": ["bensin", "lösningsmedel", "kemikal", "brandfarl",
                             "batteri", "ström", "lyft"],

@@ -63,4 +63,6 @@ Tre kapitel tar sedan upp särskilda fall som inte är ett vanligt villagarage: 
 uthus**, **lägenhetsförrådet** och **att ärva en hel verkstad**. Hoppa dit du känner igen dig
 — metoden är densamma, men de platserna har sina egna knep.
 
+![10-stegsprogrammet — ett eller två steg per helg](../../../03-assets/images/ten-steps-sv.png)
+
 Du har nu hela kartan. Vänd blad, så börjar vi med steg 1.

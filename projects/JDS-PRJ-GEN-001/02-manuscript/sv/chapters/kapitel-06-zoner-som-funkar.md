@@ -58,6 +58,8 @@ zon på fel ställe känns fel varje dag; en zon på rätt ställe slutar du tä
 > Det du använder ofta ska vara lättast att nå. Det du använder sällan får ta de svåra
 > platserna.
 
+![Fem-zoners-kartan — ett exempel på planlösning för ett vanligt garage](../../../03-assets/images/zone-map-sv.png)
+
 ## Ett exempel: tre steg för en kvast
 
 En kvinna förstod zoner först när hon tänkte på sin kvast. Den hängde längst in i garaget,
@@ -104,6 +106,14 @@ flyttas, och sedan ligger de still i åratal.
 
 ## Boxar
 
+> **Mått & fakta: mått som håller bilen användbar**
+> - En garageplats är ca **3,5 m bred**; ett dubbelgarage ungefär **6 × 6 m**. En bil är ca
+>   **1,8–2 m** bred — mindre marginal än det känns.
+> - Lämna **75 cm på förarsidan** för att öppna dörren och gå förbi; ca 30 cm räcker på andra sidan.
+> - Håll en **fri gång på 1 m** till utgångsdörren — din väg ut vid brand.
+> - Kör fram så att du lämnar en **arbetsremsa på 1–1,2 m** bakom bilen.
+> - Hyllor framför motorhuven äter djup: håll dem **grunda (≤ 30 cm)**.
+
 > **Helgprojektet: rita zonkartan**
 > 1. Ta ett papper och rita garaget ovanifrån, med porten och eventuella fönster och dörrar.
 > 2. Märk ut de fem zonerna: bil, verktyg, trädgård, säsong, återvinning.
@@ -115,11 +125,3 @@ flyttas, och sedan ligger de still i åratal.
 > Lägg aldrig bilzonen så att du måste klättra eller sträcka dig över något tungt för att
 > nå verktygen. Och håll en fri gång genom garaget — minst så bred att du kan bära ut något
 > stort, eller ta dig ut snabbt om det brinner. Zoner får aldrig blockera vägen till porten.
-
-## Att ta med sig
-
-- **Systematisera** börjar med en karta, inte med hyllor — bestäm var saker hör innan du borrar.
-- Tänk i zoner, inte i lösa hyllor: ett område per sorts uppgift, allt för den uppgiften samlat.
-- De flesta garage delar sig i fem zoner: bil, verktyg, trädgård, säsong och återvinning.
-- Placera varje zon där kroppen använder den — ofta nära och ljust, sällan högt och långt in.
-- En zon på rätt plats tar bort små dagliga friktioner du knappt märkt att du levt med.

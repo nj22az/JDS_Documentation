@@ -123,6 +123,16 @@ efter år.
 
 ## Boxar
 
+> **Mått & fakta: säker förvaring**
+> - **Bensin** endast i godkänd dunk, **högst 20 liter per dunk.** Förvara bara det du gör av med
+>   på en säsong — **i Sverige får du förvara ca 25 liter bensin hemma utan tillstånd** (MSB).
+> - **Gasol får aldrig förvaras inomhus eller i ett garage som sitter ihop med bostaden — förvara
+>   gasol utomhus, stående och skuggat.** Den regeln förhindrar de värsta olyckorna.
+> - Förvara brandfarligt **lågt** (ångan sjunker), svalt och långt från pilotlågor, panna och
+>   elcentral. Ett plåtskåp är värt pengarna när du har mer än en dunk.
+> - Sätt en **pulversläckare (ABC, ~6 kg)** vid utgångsdörren, ca **1,3 m upp** — där du når den
+>   på väg *ut*, inte längst in bakom branden.
+
 > **Säkerhet**
 > - Arbeta med garageporten öppen så att ångor vädras ut.
 > - Rök inte, och undvik allt som gnistrar medan du flyttar brandfarligt.
@@ -138,11 +148,3 @@ efter år.
 > 4. Kör "lämna"-delen till miljöstationen, sorterad efter typ. Ring kommunen om du tvekar.
 > 5. Ställ tillbaka det lilla som stannar lågt och svalt, i originalförpackning med läsbar
 >    etikett.
-
-## Att ta med sig
-
-- Farligt och giftigt är en egen kategori — den får aldrig blandas med de vanliga högarna.
-- Faran är brand (ångorna tänder), gift/läckage och att det är olagligt i soppåsen.
-- Samla allt brandfarligt på ett ställe; först då ser du hur mycket som tyst samlats.
-- Behåll bara det som är helt och används; allt annat går till miljöstationen, sorterat.
-- Förvara aldrig kemikalier i dryckesflaskor, och ställ brandfarligt lågt, svalt och säkert.

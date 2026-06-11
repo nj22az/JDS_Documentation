@@ -112,11 +112,3 @@ sköter med värdighet.
 > okända kemikalier i omärkta burkar, ibland asbest i riktigt gamla material. Hantera omärkt
 > och okänt som farligt avfall, lyft tungt med benen, och ta hjälp för riktigt tunga maskiner.
 > Kör det farliga till miljöstationen, aldrig i hushållssoporna.
-
-## Att ta med sig
-
-- En ärvd verkstad är metodens svåraste fall — lika mycket känsla som praktik.
-- Minnen gör varje beslut tungt; därför fastnar man, antingen i ett museum eller i ett förhastat svep.
-- Skilj minnet från mängden: rensa först det utan minnen, lägg det laddade i en egen hög.
-- Välj några få saker att behålla med mening, och låt de goda verktygen gå vidare och arbeta.
-- En sak sedd och använd hedrar minnet mer än tjugo begravda — och ett foto bär resten.

@@ -142,11 +142,3 @@ en av de största skillnaderna mellan den här metoden och en vanlig städhelg, 
 den som sparar mest pengar.
 
 Med det är du redo. Nästa kapitel är första riktiga helgen: du tömmer, och du ser.
-
-## Att ta med sig
-
-- Metoden är fem steg i fast ordning: Sortera, Systematisera, Städa, Standardisera, Säkra.
-- Ordningen är inte fri — varje steg bygger på det föregående.
-- Stora råd misslyckas för att de är för stora; bryt ner allt till ett steg med tydligt slut.
-- Ett steg per helg slår en hjältehelg, varje gång.
-- Köp ingen förvaring förrän du har sorterat — annars förvarar du sådant du borde slängt.

@@ -14,8 +14,8 @@ Everything needed to publish the book on Amazon KDP. The book is **English-first
 | `amazon-listing-en.md` | EN | Title fields, HTML description, keywords, categories, pricing |
 | `Stada-i-Garaget.epub` | SV | Uploadable Swedish eBook |
 | `cover.jpg` | SV | Swedish KDP cover, 1600×2560 |
-| `Stada-i-Garaget-Interior.pdf` | SV | Swedish paperback interior — 121 pp |
-| `Stada-i-Garaget-Print-Cover.pdf` | SV | Swedish wraparound print cover (0.273 in spine) |
+| `Stada-i-Garaget-Interior.pdf` | SV | Swedish paperback interior — 119 pp, with localized diagrams |
+| `Stada-i-Garaget-Print-Cover.pdf` | SV | Swedish wraparound print cover (0.268 in spine) |
 | `amazon-listing-sv.md` | SV | Swedish listing copy |
 | `cover-brief.md` | — | Cover specs (eBook + paperback) and design rationale |
 | `readiness-assessment.md` | — | Honest "is it sellable yet" review + priority next steps |
@@ -40,9 +40,12 @@ python3 scripts/build-print-pdf.py --lang en   # paperback interior (reports pag
 python3 scripts/build-print-cover.py --lang en # wraparound cover (reads page count)
 python3 scripts/book-check.py --all --lang en
 
-# Swedish
+# Swedish (primary)
+python3 scripts/build-diagrams.py --lang sv     # localized figures
 python3 scripts/build-cover.py --lang sv
 python3 scripts/build-epub.py  --lang sv
+python3 scripts/build-print-pdf.py --lang sv
+python3 scripts/build-print-cover.py --lang sv
 python3 scripts/book-check.py --all --lang sv
 ```
 

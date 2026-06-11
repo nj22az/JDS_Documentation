@@ -98,6 +98,12 @@ betalar sig varje vår när du öppnar dörren och allt är precis som du lämna
 
 ## Boxar
 
+> **Mått & fakta: håll fukt och möss ute**
+> - En mus tar sig in genom en springa stor som en **penna (~6 mm)** — täta med **stålull eller
+>   6 mm hönsnät**, inte skum (det gnager de igenom).
+> - Höj allt **från golvet** på en lastpall eller hylla; ett betonggolv svettas.
+> - I ett stängt uthus tar en burk **torkmedel** bort fukten som förstör textil och rostar verktyg.
+
 > **Helgprojektet: vintersäkra uthuset**
 > 1. Gå igenom boden och plocka ut allt mjukt och fuktkänsligt: textil, dynor, papper.
 > 2. Flytta det till täta plastbackar med lock och ställ backarna ovanför golvet.
@@ -110,11 +116,3 @@ betalar sig varje vår när du öppnar dörren och allt är precis som du lämna
 > bostadsdelen — aldrig inne i stugan. Kontrollera att gamla batterier inte läckt under
 > vintern. Och var försiktig med möss och deras spillning vid vårstädningen: använd
 > handskar och vädra, eftersom gnagarspillning kan vara en hälsorisk.
-
-## Att ta med sig
-
-- Samma fem steg gäller, men uthuset kräver extra hänsyn till fukt, kyla och gnagare.
-- Sällan sedda rum förfaller fortare: ingen veckorunda finns, och miljön sliter hårdare.
-- Förvara det som ska överleva vintern i täta backar, inte i kartong — tät back är det nya papp.
-- Lämna inget ätbart och inget mjukt bo åt mössen, och håll uthuset från att bli hemmets sopstation.
-- Byt veckorundan mot en ankomst- och avreserutin — besökstakt i stället för veckotakt.

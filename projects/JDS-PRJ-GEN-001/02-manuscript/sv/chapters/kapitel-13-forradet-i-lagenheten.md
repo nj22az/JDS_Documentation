@@ -111,11 +111,3 @@ inte en du undviker.
 > hemma i ett bostadshus, och det är ofta förbjudet enligt husets regler. Håll gemensamma
 > gångar helt fria; de är utrymningsväg vid brand. Kontrollera vad din förening eller
 > hyresvärd tillåter innan du förvarar något ovanligt.
-
-## Att ta med sig
-
-- De fem stegen krymper fint — metoden fungerar lika bra på fyra kvadratmeter som på fyrtio.
-- Litet utrymme förlåter ingenting: varje felplacerad sak och varje "kanske" syns direkt.
-- Sortera hårdare, bygg uppåt med stapelbara backar, och märk allt så förrådet syns från dörren.
-- I delade källare: inget brandfarligt, inget i gemensam gång — fria gångar är ett brandkrav.
-- Ett litet förråd är sällan för litet; det är oftast bara använt som en golvhög, inte som ett rum.

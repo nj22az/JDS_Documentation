@@ -131,11 +131,3 @@ Det enda du inte ska göra är att börja bära in sakerna igen innan nästa kap
 ligga ute, eller i tydliga kategorilådor om du måste bära in för regn. Poängen med den här
 helgen lever bara så länge sakerna är samlade och synliga. I nästa kapitel börjar vi sortera
 dem — och då är det skönt att allt redan ligger framme i dagsljus.
-
-## Att ta med sig
-
-- Du ser inte längre det som alltid stått stilla; därför måste sakerna ut i ljuset.
-- Att rensa på plats ger samma icke-beslut som förut — bryt mönstret genom att flytta ut.
-- Samla allt av samma slag ihop, så avslöjas hur mycket du egentligen har.
-- Fatta inga kasta-beslut än. Den här helgen tömmer du och ser — inget annat.
-- Ofta är problemet inte för lite yta, utan att högar gömmer den yta du redan har.

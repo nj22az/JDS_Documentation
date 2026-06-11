@@ -98,6 +98,13 @@ besluten åt dig. Allt du behöver göra är att dyka upp.
 
 ## Boxar
 
+> **Mått & fakta: förvara däck rätt**
+> - **Svalt, torrt och utan direkt sol** — UV och ozon spräcker gummit.
+> - **Inte direkt på betonggolvet** — ställ på hylla eller kartong, eller häng; betongen drar fukt.
+> - **Omonterade däck står upp; monterade däck (på fälg) ligger ner eller hänger.** Håll liggande
+>   travar till fyra eller färre.
+> - Lägg vart och ett i en säck för att bromsa uttorkning.
+
 > **Helgprojektet: koppla rensning till säsongsbytet**
 > 1. Nästa gång du byter däck eller ställer om trädgården, lägg en halvtimme extra på det.
 > 2. Ställ varje sak du lyfter en fråga: använde jag den här förra säsongen?
@@ -110,11 +117,3 @@ besluten åt dig. Allt du behöver göra är att dyka upp.
 > tar ner däck och lådor från höjd, och lyft med benen. Bär aldrig ner tung last i en trappa
 > eller över hinder utan fri sikt framåt. Och kör gammal bensin och torkad färg till
 > miljöstationen — aldrig i hushållssoporna.
-
-## Att ta med sig
-
-- Två gånger om året behöver garaget en längre genomgång; vår och höst bjuder in till dem själva.
-- Säsongsbytet du ändå gör är det perfekta tillfället för en snabb omgång **Sortera**.
-- Fråga varje sak du lyfter: använde jag den förra säsongen? "Nej" är en kandidat för "lämna".
-- Passa på att rensa gifthörnan i samma vända — halvårstakten håller den högen liten.
-- Vecka plus halvår bildar ett helt underhåll — aldrig en förlorad helg åt garaget igen.

@@ -110,11 +110,3 @@ dagen jobbar den åt dig, gratis, för all framtid.
 
 > **Verkstadsregeln**
 > En bra regel är ett beslut du fattar en gång, så att du slipper fatta det hundra gånger.
-
-## Att ta med sig
-
-- **Standardisera** är de få regler som gör att ordningen håller efter storstädningen.
-- Ordning är en vana, inte en händelse — varje gång garaget används knuffas det mot oordning.
-- Fyra regler räcker: tillbaka direkt, en in en ut, tomt emballage ut, plats först.
-- En bra regel kräver inte disciplin; den gör bara det rätta till det enklaste handgreppet.
-- "Sen" är där ordningen dör. Låt aldrig högen börja, så slipper du jobbet att riva den.

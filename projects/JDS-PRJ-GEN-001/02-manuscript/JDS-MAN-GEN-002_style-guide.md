@@ -104,7 +104,7 @@ word count. One H1, H2 for the sections above, no deeper than H3.
 |-----------|---------|-------|
 | **Weekend Project** / Helgprojektet | The concrete do-it-now task for the chapter | Numbered steps, finishable in a weekend |
 | **Workshop Rule** / Verkstadsregeln | The chapter's one-line takeaway, worth remembering | One bold sentence |
-| **Specs** | Hard numbers a tradesman expects (heights, anchors, clearances, loads) | Tight bullets, real figures |
+| **Specs** / Mått & fakta | Hard numbers a tradesman expects (heights, anchors, clearances, loads) | Tight bullets, real figures |
 | **Safety** / Säkerhet | Safety / chemical / fire / lifting warning | Short, calm, specific |
 | **Inherited & Hard** / Ärvt & svårt | The emotional/inherited-gear angle | Gentle, respectful |
 

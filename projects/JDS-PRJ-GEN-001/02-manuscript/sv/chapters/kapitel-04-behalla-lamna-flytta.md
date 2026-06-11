@@ -137,11 +137,3 @@ Lägg märke till att ingen av frågorna handlar om vad saken kostade eller om d
 nytta av den en dag. Det är med flit. De frågorna leder fel, som vi sett. De fyra här leder
 rätt, för de handlar om hur du faktiskt lever, inte om hur du tänkt leva. Kör en kategori i
 taget genom dem, så går sorteringen fortare än du tror.
-
-## Att ta med sig
-
-- Varje sak får ett av tre öden: behålla, lämna eller flytta. Tre högar, inga fler.
-- "Kanske" är inget svar — det är ett uppskjutet beslut, och sådana byggde högen.
-- Att behålla är inte gratis; det kostar plats varje dag, även om priset är osynligt.
-- Tvekar du: tvekarlåda med datum ett år fram. Hinner året gå oöppnat är svaret givet.
-- Kör ut "lämna"-högen samma helg, annars vandrar den tillbaka in i garaget.

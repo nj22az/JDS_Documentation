@@ -48,8 +48,25 @@ Genom allt löper en princip: **tungt och ofta lågt, lätt och sällan högt.**
 varje vecka ska du inte behöva sträcka dig efter. Det du rör två gånger om året får gärna
 kräva en stege.
 
+Men innan du bestämmer *vad* som ska hänga: lär dig vad som **håller** — en hylla som lossnar
+med däck på är det farligaste i hela boken. Hur du fäster beror helt på vad väggen är gjord av:
+
+- **I reglar (trästomme).** Det starka valet. Reglar sitter på **c/c 600 mm** (ibland 450); hitta
+  dem med en reglsökare eller raden av skruvar. Tungt fästs med **75 mm träskruv i regeln**,
+  aldrig bara i gipsen.
+- **Bara gips.** Endast lätta saker — en kvast, en sladd. En gipsplugg håller **något kilo,
+  aldrig en verktygsvägg.**
+- **Betong, tegel eller Leca** (vanligt i svenska garage). Borra med **slagborr och betongborr**
+  och sätt **expander- eller ramplugg** (6 mm räcker för hyllkonsoler).
+
+Av väggsystemen är **fransk list (French cleat)** bäst för pengarna: en **18 mm plywoodlist
+fräst i 45°**, skruvad i varje regel, där krokar och hyllor hängs av och flyttas på sekunder och
+bär tungt. Takförvaring är säsongszonens bästa vän — men respektera **lasten**: häng i
+takbjälkarna, och var försiktig med fackverkstakstolar, vars underram är dimensionerad för taket,
+inte för lager. Häng aldrig tungt rakt över bilen.
+
 > **Verkstadsregeln**
-> Golvet är till för att arbeta på, inte för att lagra på. Allt som kan hänga ska hänga.
+> Golvet är till för att arbeta på, inte för att lagra på. Allt som kan hänga ska hänga — fäst i regel.
 
 ## Ett exempel: ett dubbelgarage som blev ett — fast tvärtom
 
@@ -101,6 +118,13 @@ den belönar dig i varje litet handgrepp.
 
 ## Boxar
 
+> **Mått & fakta: höjder, bänk och ljus**
+> - **Den gyllene zonen** är knä-till-axel, ca **75–150 cm** — häng det du tar varje vecka där.
+> - Gå-under-hyllor: underkant **minst 2 m** så du inte slår i huvudet.
+> - **Arbetsbänk ca 90 cm hög** — ungefär handledshöjd. För låg sliter på ryggen.
+> - **Ljussätt ordentligt: sikta på 300–500 lux.** Ett dubbelgarage på ~36 m² vill ha ungefär
+>   15 000–20 000 lumen — fyra–fem 1,2 m LED-armaturer i 4000–5000 K.
+
 > **Helgprojektet: töm en vägg uppåt**
 > 1. Välj den vägg som hör till din stökigaste zon från zonkartan.
 > 2. Sätt upp en stadig skena eller en rad krokar i den höjd där sakerna faktiskt används.
@@ -113,11 +137,3 @@ den belönar dig i varje litet handgrepp.
 > lossnar med däck på är farlig. Häng aldrig något tungt över en plats där någon står eller
 > där bilen parkerar. Och lyft med benen när du flyttar däck och lådor upp på höjd; ta hellre
 > en stege än att sträcka dig på tå med tung last.
-
-## Att ta med sig
-
-- Golvet är garagets dyraste yta — allt som kan lämna golvet ska lämna det.
-- Vi staplar utåt fast garaget lagrar uppåt; väggen och taket står oftast oanvända.
-- Fyra ytor att flytta upp till: väggkrokar/skenor, verktygstavla, hyllor och taket.
-- Princip: tungt och ofta lågt, lätt och sällan högt — sträck dig aldrig efter veckans saker.
-- Många som tror att de behöver mer garage behöver bara ta väggen i bruk.

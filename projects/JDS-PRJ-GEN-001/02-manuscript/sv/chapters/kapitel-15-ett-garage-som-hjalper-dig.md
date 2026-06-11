@@ -107,11 +107,3 @@ har övningen, och du har bevisat för dig själv att du kan. Stäng porten. Gar
 
 > **Verkstadsregeln**
 > Ordning är inte prydlighet för dess egen skull. Det är ett rum som slutar arbeta emot dig.
-
-## Att ta med sig
-
-- Du har inte längre en hög att riva, utan ett system att underhålla — och det är mycket lättare.
-- Den enda verkliga risken är att tro att man är klar och släppa det lilla underhållet.
-- Allt du behöver finns i **Säkra**: tio minuter i veckan, vår och höst, de fyra reglerna.
-- Belöningen är konkret — tid, pengar, säkerhet och bilen inne — men störst är känslan vid porten.
-- Ordning handlar inte om prydlighet, utan om att ett av husets rum börjar arbeta för dig.
