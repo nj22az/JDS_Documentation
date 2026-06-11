@@ -56,6 +56,11 @@ Three rules make it faster:
    If you never open the box before that date, the whole box goes to "lose" — unopened.
 3. **Duplicates: keep the best, lose the rest.** You don't need four hammers.
 
+**When it's not just your call.** If you share the garage, sort it side by side — never bin
+something that wasn't yours to bin. Each person has veto over their own things; the shared things
+you decide together, on the spot. And the rule that settles most standoffs: if neither of you has
+touched it in a year and neither can say what it's *for*, it goes.
+
 > **Workshop Rule**
 > Keeping isn't free. Every item you save, you pay for in space — every day.
 

@@ -58,7 +58,7 @@ T = {
             "intro": "One sheet per machine or major tool. Keep it with the manual. "
                      "A serviced, documented tool lasts longer and is worth more.",
             "fields": [("Tool / machine", ""), ("Make & model", ""), ("Serial no.", ""),
-                       ("Bought (date)", ""), ("Price", ""),
+                       ("Bought (date)", ""), ("Price", ""), ("Next service due", ""),
                        ("Manual & receipt kept?", "  ☐ yes   ☐ no"),
                        ("Photographed for insurance?", "  ☐ yes   ☐ no")],
             "cols": ["Date", "Service / repair / note", "By", "Cost"],
@@ -166,7 +166,7 @@ T = {
             "intro": "Ett blad per maskin eller större verktyg. Förvara det med manualen. "
                      "Ett servat och dokumenterat verktyg håller längre och är värt mer.",
             "fields": [("Verktyg / maskin", ""), ("Märke & modell", ""), ("Serienr", ""),
-                       ("Köpt (datum)", ""), ("Pris", ""),
+                       ("Köpt (datum)", ""), ("Pris", ""), ("Nästa service", ""),
                        ("Manual & kvitto sparat?", "  ☐ ja   ☐ nej"),
                        ("Fotat för försäkring?", "  ☐ ja   ☐ nej")],
             "cols": ["Datum", "Service / reparation / notering", "Av", "Kostnad"],

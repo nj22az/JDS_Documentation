@@ -75,6 +75,36 @@ more substance*:
 This directly answers the "would someone pay for this vs. free content?" risk: the build
 chapters now give specifics you can't Google in thirty seconds. Still outstanding below.
 
+## Update 2026-06-11 — five-reader review + consolidation pass
+
+Read the book through five personas and acted on the findings. The headline: the book had grown
+feature-rich, so the win was **restraint and framing**, not more features.
+
+- **Chief engineer:** approved the system (5S, rounds, journals); flagged invented parables as the
+  softest pages, wanted one source of truth and a "next service due."
+- **The wife / gift-buyer:** loved the heart; warned the records/rounds could feel cold and must be
+  *optional*; wanted a "deciding together" passage.
+- **The handyman:** tips are table stakes; the records/rounds are what earn his money; wanted more
+  pro specifics.
+- **The non-practical reader (new):** the build chapter intimidates; needs a **no-drill path**, the
+  reassurance that **a garage needn't be a workshop**, and jargon glossed.
+- **The over-confident reader (new):** needs a **mirror** ("organized it more than once = a
+  recurring cleanup, not a system") and a direct "don't buy storage yet" punch.
+
+**Changes shipped this pass (both editions):**
+1. New front-of-book **self-assessment** ("Is your garage actually working?") — mirror for the
+   over-confident, gentle on-ramp for the overwhelmed, and a marketing quiz.
+2. **Core vs System** tiering stated in the Introduction — makes the records/rounds clearly optional.
+3. **Parables replaced with the author's own first-person story** (ch 1 + ch 15) — more human and
+   more credible.
+4. **No-drill path** + "your garage doesn't have to be a workshop" for the non-practical reader.
+5. **Mirror + "don't buy storage yet"** punch for the over-confident (quiz + ch 2).
+6. **"Deciding together"** passage (ch 4); **GFCI glossed**; lifetime journal gains **"next service
+   due."**
+
+Still open (polish, not blocking): bundle the printables into one "Garage Logbook," a keep/lose
+decision flowchart, and one "pro move" line per build chapter.
+
 ## Honest weaknesses still in the manuscript
 
 - **The stories are anonymous and a little samey** ("En man…", "En kvinna…"). They're fine,

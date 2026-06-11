@@ -94,19 +94,19 @@ it just follows from how the garage is built.
 
 ## Good news: this is fixable
 
-My neighbor Tom had a double garage and still couldn't park in it. When he finally tackled it,
-he didn't start by throwing things out. He started by looking. He found three moving boxes that
-had sat unopened since the day he moved in — six years without needing a single thing inside
-them.
+I'll tell you when it clicked for me. I'd spent twenty years keeping other people's engine rooms
+in order — and I still couldn't park in my own garage. One Saturday I stopped shuffling things
+around and just looked, and I found three moving boxes I hadn't opened since the day we moved in.
+Six years. I had not needed one single thing inside them.
 
-That told him everything. It wasn't the stuff that was the problem; it was that nothing had a
-place, so everything landed wherever it fell. The boxes weren't the disease. The missing system
-was.
+That told me everything. It wasn't the stuff; it was that nothing had a place, so everything
+landed wherever it fell. The boxes weren't the disease — the missing system was, the same thing
+I'd have written up as a finding on any ship.
 
-What Tom discovered is genuinely good news, and it applies to you too. If the mess comes from a
-missing system rather than from your being a messy person, then it can be solved — because
-systems can be built. You don't have to change your personality. You have to decide where things
-belong, once, and then let that order run itself.
+And that's genuinely good news, because it applies to you too. If the mess comes from a missing
+system rather than from your being a messy person, it can be solved — systems can be built. You
+don't have to change your personality. You decide where things belong, once, and then let that
+order run itself.
 
 > **Workshop Rule**
 > If you didn't know you had it, you don't need it.

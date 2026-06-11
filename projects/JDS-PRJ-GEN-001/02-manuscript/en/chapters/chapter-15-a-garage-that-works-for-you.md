@@ -47,15 +47,15 @@ never again let the need for such a weekend build up.
 
 ## An example: what the order gave back
 
-A man named Tom — my neighbor, the one with the double garage from chapter one — summed up a year later
-what he'd actually gotten. The car lived inside, ice-free on winter mornings. He found his tools at once
-and had stopped buying duplicates. He'd won back a weekend he'd otherwise have spent hunting and shuffling,
-and a place he genuinely wanted to be on a Saturday morning.
+A year after I sorted my own garage — the one with the three unopened boxes from chapter one — I added
+up what I'd actually got back. The car lived inside, ice-free on winter mornings. I found tools at once
+and had stopped buying duplicates. I'd won back the weekends I used to lose to hunting and shuffling, and
+a place I genuinely wanted to be on a Saturday morning.
 
-But the thing he mentioned first was none of the practical stuff. It was the feeling: he opened the door
-and met relief instead of dread. A room that used to drain him now gave him something every time he walked
-in. That's what order is really about — not tidiness for its own sake, but one of the house's rooms ceasing
-to work against you and beginning to work for you.
+But the thing I'd put first isn't any of the practical stuff. It's the feeling: I open the door and meet
+relief instead of dread. A room that used to drain me now gives me something every time I walk in. That's
+what order is really about — not tidiness for its own sake, but one of the house's rooms ceasing to work
+against you and beginning to work for you.
 
 And it cost less than he'd feared — five ordinary weekends, not the grim lost week he'd dreaded for
 years. As he put it: the pile in your head is always bigger than the pile in the garage.

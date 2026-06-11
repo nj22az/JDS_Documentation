@@ -62,12 +62,19 @@ suckan möts du av ett rum som hjälper dig i stället för att tära på dig.
 ## Så här använder du boken
 
 Boken är byggd för att göras, inte bara läsas. Den är ett **program i tio steg** som tar dig
-från kaos till ett garage som sköter sig självt — och nästa kapitel lägger ut hela kartan så
-att du ser vägen innan du börjar. Stegen följer på varandra i ordning, och i varje kapitel
+från kaos till ett garage som sköter sig självt — och Programmet som följer lägger ut hela kartan
+så att du ser vägen innan du börjar. Stegen följer på varandra i ordning, och i varje kapitel
 hittar du en ruta som heter **Helgprojektet** — en konkret uppgift du kan bli klar med på en
 helg, ofta på en förmiddag. Du behöver inte göra allt på en gång. Ett eller ett par steg per
 helg räcker, och efter ungefär fem helger är du i mål. Längst bak finns hela programmet som en
 checklista att riva ut och bocka av.
+
+Det finns två sätt att använda det som följer. **Kärnan** — programmet i tio steg och dess
+kapitel — tar tillbaka ditt garage: bilen in, verktygen hittade, ordningen som håller. För de
+flesta är det hela jobbet och hela boken. **Systemet** — Verktygslådan längst bak — är för dig
+som gillar att hålla skeppat och klart: en enkel inventering, en verktygsjournal och en
+underhållsrytm med brand- och skyddsronder. Det är frivilligt. Om listor och loggar inte är din
+grej, hoppa över det med gott samvete; Kärnan står på egna ben.
 
 Du behöver inga dyra prylar och inga specialverktyg. Du behöver den här boken, ett par lediga
 förmiddagar, och viljan att äntligen bli av med högen för gott.

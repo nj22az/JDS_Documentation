@@ -40,7 +40,8 @@ system the whole house can read and share outlives one person's good intentions.
 
 > **Often missed — fold these into the yearly review**
 > - A **fire extinguisher** by the door, gauge in the green, and **smoke / CO alarms** that work.
-> - **GFCI / RCD** protection on garage outlets — tested, not assumed.
+> - **GFCI / RCD** protection on garage outlets — the trip switch that cuts power in a fault;
+>   press its test button, don't just assume it works.
 > - **Insurance photos + serial numbers** of valuable tools (your inventory already holds them).
 > - **Manuals, receipts, and warranties** in one labeled folder or pocket.
 > - A **consumables reorder list** so you never run out mid-job.

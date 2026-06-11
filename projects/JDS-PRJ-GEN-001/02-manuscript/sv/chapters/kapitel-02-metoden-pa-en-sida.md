@@ -22,8 +22,9 @@ vilket av fem steg du är på, och vad nästa handgrepp är.
 Det finns en andra fälla också: att hoppa rakt på det roliga. Det är frestande att börja
 med att köpa en snygg verktygstavla och fina lådor, för det känns som framsteg. Men
 förvaring du köper innan du sorterat blir bara dyrare emballage runt sådant du borde slängt.
-Metoden håller dig från båda fällorna — den är för stor uppgift, och den är att göra saker
-i fel ordning.
+Är din första impuls att beställa ett snyggt förvaringssystem — vänta; det är det vanligaste,
+och dyraste, misstaget som finns. Metoden håller dig från båda fällorna: den för stora
+uppgiften, och att göra saker i fel ordning.
 
 ## Metoden här: fem steg, i den här ordningen
 

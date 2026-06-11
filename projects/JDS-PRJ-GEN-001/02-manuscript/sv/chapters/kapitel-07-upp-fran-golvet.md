@@ -98,6 +98,13 @@ Och kom ihåg regeln från kapitlet om att köpa: bygg förvaring för det du be
 behålla, inte för allt som råkar finnas. Väggen ska bära ditt sorterade garage, inte
 konservera en hög uppåt i stället för utåt.
 
+**Ingen borr? Ingen fara.** Alla vill inte fästa saker i en vägg, och alla väggar är inte dina
+att borra i. Fristående stålhyllor, stapelbara backar och krokar som hängs över dörren eller
+sätts utan skruv ger det mesta av vinsten utan ett enda hål — ett par höga hyllor längs en vägg
+kan tömma ett garage på egen hand. Och känns ett väggjobb för svårt är det en billig eftermiddag
+för en händig granne. Metoden bryr sig inte om *hur* förvaringen kommer upp; den bryr sig om att
+sakerna lämnar golvet.
+
 Ett par enkla val gör väggförvaringen mycket mer användbar. Välj krokar och fästen som går
 att flytta, för du kommer att vilja justera när du ser hur du faktiskt använder garaget — en
 fast rad krokar som sitter fel är värre än inga alls. Och håll en handsbredd fri ovanför

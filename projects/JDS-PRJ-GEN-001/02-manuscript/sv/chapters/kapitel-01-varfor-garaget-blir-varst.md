@@ -98,26 +98,23 @@ Och du behöver inte göra allt på en gång. Du tar ett steg per helg, i tur oc
 som försöker göra allt på en enda lördag bränner ut sig vid lunch. Den som tar ett steg åt
 gången blir klar — och förblir klar.
 
-## Ett exempel: Lars och de tre lådorna
+## Ett exempel: jag och de tre lådorna
 
-Lars hade ett dubbelgarage och kunde ändå inte ställa in bilen. När han till slut tog tag
-i det började han inte med att slänga. Han började med att titta. Han hittade tre flyttlådor
-som stått oöppnade sedan han flyttade in. Inte en enda gång på sex år hade han behövt något
-ur dem.
+Jag ska berätta när det klickade för mig. Jag hade hållit ordning i andras maskinrum i tjugo
+år — och kunde ändå inte ställa in bilen i mitt eget garage. En lördag slutade jag flytta runt
+saker och bara tittade, och hittade tre flyttlådor jag inte öppnat sedan vi flyttade in. Sex år.
+Jag hade inte behövt en enda sak ur dem.
 
-Det sa honom allt han behövde veta. Det var inte sakerna som var problemet — det var att
-ingenting hade en plats, så allt blev liggande där det råkade landa. Lars tömde inte
-garaget den helgen. Han öppnade tre lådor, insåg att han inte saknat innehållet på sex år,
-och förstod att han kunde lita på sin egen metod: om jag inte vet att jag har det, behöver
-jag det inte.
+Det sa mig allt. Det var inte sakerna — det var att ingenting hade en plats, så allt blev
+liggande där det råkade landa. Lådorna var inte sjukdomen; det saknade systemet var det, samma
+sak jag hade skrivit upp som en anmärkning på vilket fartyg som helst.
 
 > **Verkstadsregeln**
 > Om du inte visste att du hade det, behöver du det inte.
 
-Det Lars upptäckte är egentligen en god nyhet, och den gäller dig också. Om röran beror på
-saknat system, och inte på att du är en rörig person, då går den att lösa — för system går
-att bygga. Du behöver inte byta personlighet. Du behöver bestämma vart sakerna hör, en
-gång, och sedan låta den ordningen sköta sig själv.
+Och det är goda nyheter, för det gäller dig också. Om röran beror på ett saknat system, och inte
+på att du är en rörig person, går den att lösa — för system går att bygga. Du behöver inte byta
+personlighet. Du bestämmer vart sakerna hör, en gång, och låter sedan den ordningen sköta sig själv.
 
 Det är därför den här boken inte börjar med att skälla på dig för att garaget ser ut som
 det gör. Det vore som att skälla på en flod för att den rinner nedför. Vattnet följer

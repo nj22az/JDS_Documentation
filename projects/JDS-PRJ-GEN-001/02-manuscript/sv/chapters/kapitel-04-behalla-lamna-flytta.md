@@ -57,6 +57,11 @@ Tre regler gör det hela snabbare:
    plus ett år. Öppnar du aldrig lådan innan datumet, går hela lådan till "lämna" — osedd.
 3. **Dubbletter: behåll den bästa, lämna resten.** Du behöver inte fyra hammare.
 
+**När det inte bara är ditt beslut.** Delar ni på garaget — sortera sida vid sida, och släng
+aldrig något som inte var ditt att slänga. Var och en har veto över sina egna saker; de
+gemensamma bestämmer ni tillsammans, på plats. Och regeln som löser de flesta dödlägen: om ingen
+av er rört saken på ett år och ingen kan säga vad den är *till för*, då åker den.
+
 > **Verkstadsregeln**
 > Att behålla är inte gratis. Varje sak du sparar betalar du för i plats — varje dag.
 

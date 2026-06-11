@@ -61,15 +61,15 @@ garaget du byggt.
 
 ## Ett exempel: vad ordningen gav tillbaka
 
-En man som gått igenom hela metoden summerade ett år senare vad han faktiskt fått. Bilen
-stod inne, isfri på vintermorgnarna. Han hittade sina verktyg direkt och hade slutat köpa
-dubbletter. Han hade fått tillbaka en helg han annars lagt på att leta och stuva, och en
-plats där han faktiskt ville vara en lördagsförmiddag.
+Ett år efter att jag städat mitt eget garage — det med de tre oöppnade lådorna från kapitel ett —
+räknade jag ihop vad jag faktiskt fått tillbaka. Bilen stod inne, isfri på vintermorgnarna. Jag
+hittade verktygen direkt och hade slutat köpa dubbletter. Jag hade fått tillbaka helgerna jag
+förut lade på att leta och stuva, och en plats där jag faktiskt ville vara en lördagsförmiddag.
 
-Men det han nämnde först var inget av det praktiska. Det var känslan: han öppnade porten och
-kände lättnad i stället för olust. Ett rum som förut tärde på honom gav honom nu något varje
-gång han gick in. Det är vad ordning egentligen handlar om — inte om prydlighet för dess egen
-skull, utan om att ett av husets rum slutar arbeta emot dig och börjar arbeta för dig.
+Men det jag sätter först är inget av det praktiska. Det är känslan: jag öppnar porten och möter
+lättnad i stället för olust. Ett rum som förut tärde på mig ger mig nu något varje gång jag går
+in. Det är vad ordning egentligen handlar om — inte prydlighet för dess egen skull, utan att ett
+av husets rum slutar arbeta emot dig och börjar arbeta för dig.
 
 ## Metoden följer med dig
 

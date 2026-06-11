@@ -21,8 +21,10 @@ steps you're on, and what the next physical move is.
 
 There's a second trap, too: jumping straight to the fun part. It's tempting to start by buying
 a sleek pegboard and nice bins, because it feels like progress. But storage you buy before you've
-sorted is just expensive packaging around things you should have thrown out. The method keeps you
-out of both traps — the too-big task, and doing things in the wrong order.
+sorted is just expensive packaging around things you should have thrown out. If your first
+instinct is to order a slick storage system, pause — that's the most common, and most expensive,
+mistake there is. The method keeps you out of both traps: the too-big task, and doing things in
+the wrong order.
 
 ## The method here: five steps, in this order
 

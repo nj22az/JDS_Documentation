@@ -77,6 +77,12 @@ Work in the order that shows the most floor soonest: **hooks for the big bulky t
 And build storage only for what you decided to keep in the sort — the wall should carry a sorted
 garage, not preserve the pile upward.
 
+**No drill? No problem.** Not everyone wants to anchor things into a wall, and not every wall is
+yours to drill. Freestanding steel shelving, stackable bins, and over-the-door or no-screw hooks
+get most of the gain with zero holes — a couple of tall shelving units along one wall can clear a
+garage on their own. And if a wall job feels beyond you, it's a cheap afternoon for a local
+handyman. The method doesn't care *how* the storage goes up; it cares that things come off the floor.
+
 > **Weekend Project: empty one wall upward**
 > 1. Take the wall behind your messiest zone. Mark the studs in pencil.
 > 2. Put up a cleat rail or a row of hooks, screwed into studs, in the golden zone (75–150 cm).

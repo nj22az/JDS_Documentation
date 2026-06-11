@@ -61,12 +61,19 @@ that helps you instead of weighing on you.
 ## How to use this book
 
 This book is built to be done, not just read. It's a **ten-step program** that takes you from
-chaos to a garage that runs itself — and the next chapter lays out the whole map so you can see
-the road before you start. The steps follow in order, and every chapter has a box called the
+chaos to a garage that runs itself — and the Program that follows lays out the whole map so you
+can see the road before you start. The steps follow in order, and every chapter has a box called the
 **Weekend Project**: one concrete task you can finish in a weekend, often in a single morning.
 You don't have to do it all at once. One or two steps per weekend is plenty, and after about
 five weekends you're there. At the very back you'll find the whole program as a checklist you
 can tear out and tick off.
+
+There are two ways to use what follows. **The Core** — the ten-step program and its chapters —
+gets your garage back: the car in, the tools found, the order that holds. For most readers that
+is the whole job and the whole book. **The System** — the Toolkit at the very back — is for those
+who like to keep things shipshape: a simple inventory, a tool journal, and a maintenance rhythm
+with fire and safety rounds. It's optional. If lists and logs aren't you, skip it with a clear
+conscience; the Core stands on its own.
 
 You won't need expensive gear or special tools. You'll need this book, a couple of free
 mornings, and the willingness to be rid of the pile for good.
