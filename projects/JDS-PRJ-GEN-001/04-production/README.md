@@ -18,7 +18,8 @@ Everything needed to publish the book on Amazon KDP. The book is **English-first
 | `Stada-i-Garaget-Print-Cover.pdf` | SV | Swedish wraparound print cover (0.295 in spine) |
 | `amazon-listing-sv.md` | SV | Swedish listing copy |
 | `advertising-kit.md` | EN+SV | Ad-ready taglines, hooks, blurbs, social copy, pull-quotes, targeting |
-| `cover-brief.md` | — | Cover specs (eBook + paperback) and design rationale |
+| `cover-brief.md` | — | Cover specs + **designer brief & 3 concept directions** (the #1 launch investment) |
+| `launch-kit.md` | — | Beta-reader & review request templates + launch checklist + timing |
 | `readiness-assessment.md` | — | Honest "is it sellable yet" review + priority next steps |
 | `printables/{en,sv}/*.pdf` | EN+SV | The fill-in templates readers download & print (inventory, lifetime journal, hazmat log, zone worksheet, seasonal pass, maintenance program, fire round, safety round) |
 

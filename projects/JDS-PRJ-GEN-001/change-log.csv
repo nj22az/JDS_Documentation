@@ -30,3 +30,4 @@ Date,Phase,Area,Change,Type,Edition,Status
 2026-06-11,Tracking,change-log.csv / .xlsx,Created this spreadsheet change-log,Create,—,Done
 2026-06-11,Deep clean,EN manuscript,"Final British idiom pass — 'shop guides', 'pressurised'; comprehensive grep confirms no US spelling/idiom left",Fix,EN,Done
 2026-06-11,Illustrations,Figures + build scripts,"Removed the line-art diagrams; replaced with NUMBERED figure placeholders (Figure 1-4) + descriptions; builders auto-swap a real fig-0N image when supplied; added figures.csv manifest + figures/ folder",Rewrite,EN,Done
+2026-06-11,Launch prep,cover-brief.md + launch-kit.md,"Designer cover brief + 3 concept directions; beta-reader & review kit + launch checklist. Strategic shift: manuscript frozen, focus moves to cover/reviews/launch",Add,EN,Done
