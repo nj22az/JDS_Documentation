@@ -111,16 +111,23 @@ figure.fig figcaption { font-size: 0.85em; color: #555; margin-top: 0.3em; }
 .box-body > p, .box-body li { background: #fff; border-radius: 7px;
     margin: 4px; padding: 0.4em 0.7em; }
 .box-body li { margin-left: 4px; }
+/* Compartment text takes a darkened shade of the box colour (like the blue text
+   in a blue bento) — coloured but still readable, and dark enough in greyscale. */
 .box.box-safety { border-color: #cf3127; }
-.box.box-safety .box-head { background: #cf3127; } .box.box-safety .box-body { background: #f6ddda; }
+.box.box-safety .box-head { background: #cf3127; }
+.box.box-safety .box-body { background: #f6ddda; color: #b3271e; }
 .box.box-do { border-color: #2f8f5b; }
-.box.box-do .box-head { background: #2f8f5b; } .box.box-do .box-body { background: #dcefe4; }
+.box.box-do .box-head { background: #2f8f5b; }
+.box.box-do .box-body { background: #dcefe4; color: #236b44; }
 .box.box-rule { border-color: #1b3a5c; }
-.box.box-rule .box-head { background: #1b3a5c; } .box.box-rule .box-body { background: #dde4ee; }
+.box.box-rule .box-head { background: #1b3a5c; }
+.box.box-rule .box-body { background: #dde4ee; color: #1b3a5c; }
 .box.box-specs { border-color: #2e7fa6; }
-.box.box-specs .box-head { background: #2e7fa6; } .box.box-specs .box-body { background: #daeaf3; }
+.box.box-specs .box-head { background: #2e7fa6; }
+.box.box-specs .box-body { background: #daeaf3; color: #235f7e; }
 .box.box-soft { border-color: #a9741c; }
-.box.box-soft .box-head { background: #a9741c; } .box.box-soft .box-body { background: #f2e6cd; }
+.box.box-soft .box-head { background: #a9741c; }
+.box.box-soft .box-body { background: #f2e6cd; color: #7d5413; }
 
 /* Chapter-opener dashboard (JDS-PRO-007 §5.3). A rounded 2x2 "bento": small-caps
    label + value, so the reader sees the shape of the chapter at a glance. The
