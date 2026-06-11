@@ -129,28 +129,34 @@ blockquote strong:first-child { display: block; margin-bottom: 0.25em; }
     font-family: 'Rounded', sans-serif; font-weight: 700; font-size: 11pt; }
 .box-icon { margin-right: 1.4mm; font-size: 9.5pt; }
 /* The whole box is white with a single coloured outline; the text and bullets
-   take a darkened shade of that colour (a blue bento has blue text). */
+   take a darkened shade of that colour (a blue bento has blue text). Items
+   inside are separated by thin divider lines (rows) in a lighter shade. */
 .box-body { background: #fff; padding: 1.6mm 2.8mm 2mm; }
-.box-body p { text-align: left; margin: 0.35em 0; }
-.box-body ul, .box-body ol { margin: 0.35em 0; padding-left: 4.5mm; }
-.box-body li { margin: 0.2em 0; }
-.box-body > :first-child { margin-top: 0; }
-.box-body > :last-child { margin-bottom: 0; }
+.box-body p { text-align: left; margin: 0; }
+.box-body ul, .box-body ol { margin: 0; padding-left: 4.5mm; }
+.box-body li { margin: 0; }
+.box-body > * + *, .box-body li + li { border-top: 0.5pt solid #ddd;
+    margin-top: 1.6mm; padding-top: 1.6mm; }
 .box.box-safety { border-color: #cf3127; }
 .box.box-safety .box-head { background: #cf3127; }
 .box.box-safety .box-body { color: #b3271e; }
+.box.box-safety .box-body > * + *, .box.box-safety .box-body li + li { border-top-color: #ecc0bc; }
 .box.box-do { border-color: #2f8f5b; }
 .box.box-do .box-head { background: #2f8f5b; }
 .box.box-do .box-body { color: #236b44; }
+.box.box-do .box-body > * + *, .box.box-do .box-body li + li { border-top-color: #b8ddca; }
 .box.box-rule { border-color: #1b3a5c; }
 .box.box-rule .box-head { background: #1b3a5c; }
 .box.box-rule .box-body { color: #1b3a5c; }
+.box.box-rule .box-body > * + *, .box.box-rule .box-body li + li { border-top-color: #b9c5d3; }
 .box.box-specs { border-color: #2e7fa6; }
 .box.box-specs .box-head { background: #2e7fa6; }
 .box.box-specs .box-body { color: #235f7e; }
+.box.box-specs .box-body > * + *, .box.box-specs .box-body li + li { border-top-color: #b5d1e1; }
 .box.box-soft { border-color: #a9741c; }
 .box.box-soft .box-head { background: #a9741c; }
 .box.box-soft .box-body { color: #7d5413; }
+.box.box-soft .box-body > * + *, .box.box-soft .box-body li + li { border-top-color: #e0cda6; }
 
 /* Chapter-opener dashboard (JDS-PRO-007 §5.3). Rounded 2x2 bento; the wrapper
    rounds + clips the table corners. */
