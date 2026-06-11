@@ -129,14 +129,13 @@ blockquote strong:first-child { display: block; margin-bottom: 0.25em; }
     font-family: 'Rounded', sans-serif; font-weight: 700; font-size: 11pt; }
 .box-icon { margin-right: 1.4mm; font-size: 9.5pt; }
 /* The whole box is white with a single coloured outline; the text and bullets
-   take a darkened shade of that colour (a blue bento has blue text). Items
-   inside are separated by thin divider lines (rows) in a lighter shade. */
-.box-body { background: #fff; padding: 1.6mm 2.8mm 2mm; }
-.box-body p { text-align: left; margin: 0; }
-.box-body ul, .box-body ol { margin: 0; padding-left: 4.5mm; }
-.box-body li { margin: 0; }
-.box-body > * + *, .box-body li + li { border-top: 0.5pt solid #ddd;
-    margin-top: 1.6mm; padding-top: 1.6mm; }
+   take a darkened shade of that colour (a blue bento has blue text). Rows inside
+   are separated by full-width divider lines (edge to edge, like a spreadsheet). */
+.box-body { background: #fff; padding: 0; }
+.box-body p { text-align: left; margin: 0; padding: 1.6mm 2.8mm; }
+.box-body ul, .box-body ol { margin: 0; padding: 0; list-style-position: inside; }
+.box-body li { margin: 0; padding: 1.4mm 2.8mm; }
+.box-body > * + *, .box-body li + li { border-top: 0.5pt solid #ddd; }
 .box.box-safety { border-color: #cf3127; }
 .box.box-safety .box-head { background: #cf3127; }
 .box.box-safety .box-body { color: #b3271e; }

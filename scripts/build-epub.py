@@ -104,14 +104,13 @@ figure.fig figcaption { font-size: 0.85em; color: #555; margin-top: 0.3em; }
     letter-spacing: 0.01em; }
 .box-icon { margin-right: 0.5em; font-size: 0.9em; vertical-align: 0.04em; }
 /* The whole box is white with a single coloured outline; the text and bullets
-   take a darkened shade of that colour (a blue bento has blue text). Items
-   inside are separated by thin divider lines (rows) in a lighter shade. */
-.box-body { background: #fff; padding: 0.5em 0.9em 0.6em; }
-.box-body p { text-align: left; margin: 0; }
-.box-body ul, .box-body ol { margin: 0; padding-left: 1.3em; }
-.box-body li { margin: 0; }
-.box-body > * + *, .box-body li + li { border-top: 1px solid #ddd;
-    margin-top: 0.5em; padding-top: 0.5em; }
+   take a darkened shade of that colour (a blue bento has blue text). Rows inside
+   are separated by full-width divider lines (edge to edge, like a spreadsheet). */
+.box-body { background: #fff; padding: 0; }
+.box-body p { text-align: left; margin: 0; padding: 0.5em 0.9em; }
+.box-body ul, .box-body ol { margin: 0; padding: 0; list-style-position: inside; }
+.box-body li { margin: 0; padding: 0.45em 0.9em; }
+.box-body > * + *, .box-body li + li { border-top: 1px solid #ddd; }
 .box.box-safety { border-color: #cf3127; }
 .box.box-safety .box-head { background: #cf3127; }
 .box.box-safety .box-body { color: #b3271e; }
