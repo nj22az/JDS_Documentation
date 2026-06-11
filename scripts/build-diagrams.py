@@ -48,6 +48,9 @@ TEXT = {
                   "Label everything", "Shine it", "Set the rules", "Sustain it"],
         "phases": ["PREP", "SORT", "SORT", "SORT", "SET IN ORDER", "SET IN ORDER",
                    "SET IN ORDER", "SHINE", "STANDARDIZE", "SUSTAIN"],
+        "ba_title": "BEFORE  →  AFTER",
+        "ba_before": "BEFORE: the car lives outside",
+        "ba_after": "AFTER: the car fits, the wall works",
     },
     "sv": {
         "suffix": "-sv",
@@ -68,6 +71,9 @@ TEXT = {
                   "Märk allt", "Städa rent", "Sätt reglerna", "Håll vid liv"],
         "phases": ["FÖRBERED", "SORTERA", "SORTERA", "SORTERA", "SYSTEMATISERA",
                    "SYSTEMATISERA", "SYSTEMATISERA", "STÄDA", "STANDARDISERA", "SÄKRA"],
+        "ba_title": "FÖRE  →  EFTER",
+        "ba_before": "FÖRE: bilen står ute",
+        "ba_after": "EFTER: bilen får plats, väggen jobbar",
     },
 }
 
@@ -178,6 +184,54 @@ def ten_steps(t):
     img.save(OUTPUT_DIR / f"ten-steps{t['suffix']}.png")
 
 
+def before_after(t):
+    width, height = 1800, 1240
+    img = Image.new("RGB", (width, height), PAPER)
+    d = ImageDraw.Draw(img)
+    title_f, lab_f = font(FONT_BOLD, 56), font(FONT_REG, 30)
+    text_centered(d, t["ba_title"], title_f, width / 2, 36, INK)
+
+    def garage(x0):
+        left, top, right, bottom = x0 + 40, 150, x0 + 760, 880
+        d.rectangle([left, top, right, bottom], outline=INK, width=8)
+        return left, top, right, bottom
+
+    # BEFORE: clutter on the floor, car outside.
+    left, top, right, bottom = garage(0)
+    import random
+    random.seed(7)
+    for _ in range(48):
+        x = random.randint(left + 30, right - 90)
+        y = random.randint(bottom - 320, bottom - 30)
+        w = random.randint(35, 95)
+        d.rectangle([x, y, x + w, y + random.randint(25, 70)], outline=MID, width=4)
+    # car shape stranded outside, below the garage
+    cy = bottom + 70
+    d.rounded_rectangle([left + 180, cy, left + 560, cy + 110], radius=34, outline=INK, width=6)
+    d.ellipse([left + 230, cy + 80, left + 290, cy + 140], outline=INK, width=6)
+    d.ellipse([left + 450, cy + 80, left + 510, cy + 140], outline=INK, width=6)
+    text_centered(d, t["ba_before"], lab_f, (left + right) / 2, 1170, MID)
+
+    # AFTER: pegboard wall, clear floor, car inside.
+    left, top, right, bottom = garage(900)
+    for yy in range(top + 50, top + 230, 46):
+        for xx in range(left + 50, right - 30, 46):
+            d.ellipse([xx - 5, yy - 5, xx + 5, yy + 5], outline=MID, width=3)
+    d.rounded_rectangle([left + 90, top + 70, left + 130, top + 250], radius=16, outline=INK, width=5)
+    d.rectangle([left + 200, top + 70, left + 320, top + 120], outline=INK, width=5)
+    d.line([left + 400, top + 70, left + 400, top + 250], fill=INK, width=7)
+    cy2 = bottom - 230
+    d.rounded_rectangle([left + 170, cy2, left + 560, cy2 + 150], radius=44, outline=INK, width=7)
+    d.ellipse([left + 220, cy2 + 110, left + 300, cy2 + 190], outline=INK, width=7)
+    d.ellipse([left + 440, cy2 + 110, left + 520, cy2 + 190], outline=INK, width=7)
+    text_centered(d, t["ba_after"], lab_f, (left + right) / 2, 1170, MID)
+
+    # arrow between panels
+    d.line([840, 520, 920, 520], fill=INK, width=10)
+    d.polygon([(920, 500), (960, 520), (920, 540)], fill=INK)
+    img.save(OUTPUT_DIR / f"before-after{t['suffix']}.png")
+
+
 def main():
     args = sys.argv[1:]
     lang = args[args.index("--lang") + 1] if "--lang" in args else "en"
@@ -186,7 +240,8 @@ def main():
     zone_map(t)
     pegboard(t)
     ten_steps(t)
-    for stem in ("zone-map", "pegboard", "ten-steps"):
+    before_after(t)
+    for stem in ("zone-map", "pegboard", "ten-steps", "before-after"):
         path = OUTPUT_DIR / f"{stem}{t['suffix']}.png"
         print(f"Built {path} [{lang}] — {Image.open(path).size}")
 

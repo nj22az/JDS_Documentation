@@ -17,8 +17,13 @@ Everything needed to publish the book on Amazon KDP. The book is **English-first
 | `Stada-i-Garaget-Interior.pdf` | SV | Swedish paperback interior — 119 pp, with localized diagrams |
 | `Stada-i-Garaget-Print-Cover.pdf` | SV | Swedish wraparound print cover (0.268 in spine) |
 | `amazon-listing-sv.md` | SV | Swedish listing copy |
+| `advertising-kit.md` | EN+SV | Ad-ready taglines, hooks, blurbs, social copy, pull-quotes, targeting |
 | `cover-brief.md` | — | Cover specs (eBook + paperback) and design rationale |
 | `readiness-assessment.md` | — | Honest "is it sellable yet" review + priority next steps |
+
+Illustrations (original, licence-free) live in `03-assets/images/`: `before-after`, `zone-map`,
+`pegboard`, `ten-steps` (each with a `-sv` variant). The **before → after** image is the hero for
+ads and the book's Introduction.
 
 Pricing & launch configuration (KDP Select, $6.99 eBook / $14.99 paperback) is decided in
 [JDS-RPT-GEN-002 Profitability Plan](../01-research/JDS-RPT-GEN-002_profitability-plan.md).

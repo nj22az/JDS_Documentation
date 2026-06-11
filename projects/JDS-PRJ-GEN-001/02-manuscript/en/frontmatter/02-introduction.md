@@ -15,6 +15,8 @@ person.** The garage gets out of hand for one simple reason — a reason that ha
 do with how houses work and nothing to do with your character. Once you see it (and you will,
 in chapter one), the rest gets surprisingly easy.
 
+![Before and after: the same garage, once it has a system](../../../03-assets/images/before-after.png)
+
 ## Why the garage?
 
 There's no shortage of books about tidying the house. They cover closets, kitchens, and living
@@ -30,11 +32,13 @@ room in the house.
 
 ## A method from the workshop floor
 
-I'm an engineer. I've spent a large part of my working life in workshops and engine rooms —
-places where order isn't a nice-to-have but a matter of safety, and of whether the job gets
-done at all. In places like that, professionals keep even the busiest, most dangerous spaces
-under control with a proven method. It comes from industry, it's used the world over, and it's
-far simpler than it sounds. It's called **5S**, after its five steps:
+I'm an engineer. I've spent most of my working life in workshops and the engine rooms of ships
+at sea — places where a misplaced tool isn't an annoyance but a hazard, and where you learn fast
+that order is the only thing that lets the work happen at all. On a rolling deck, every spanner
+has one place, and it lives there. The day I really looked at my own garage at home, I saw it was
+breaking every rule I'd worked by for twenty years — and that the fix was a method I already knew
+by heart. It comes from industry, it's used the world over, and it's far simpler than it sounds.
+It's called **5S**, after its five steps:
 
 **Sort. Set in Order. Shine. Standardize. Sustain.**
 

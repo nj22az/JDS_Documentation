@@ -15,6 +15,8 @@ människa.** Garaget blir stökigt av en enda enkel anledning, en anledning som 
 hus fungerar att göra och ingenting med din karaktär. När du förstår den — och det gör du
 redan i första kapitlet — blir resten förvånansvärt lätt.
 
+![Före och efter: samma garage, när det har ett system](../../../03-assets/images/before-after-sv.png)
+
 ## Varför just garaget?
 
 Det finns gott om böcker om att städa hemma. De handlar om garderober, kök och vardagsrum,
@@ -28,11 +30,13 @@ rum som stjäl mest tid, mest pengar och mest dåligt samvete av alla rum i huse
 
 ## En metod från verkstadsgolvet
 
-Jag är ingenjör. Jag har tillbringat en stor del av mitt yrkesliv i verkstäder och maskinrum,
-på platser där ordning inte är en trevlig bonus utan en fråga om säkerhet och om att jobbet
-över huvud taget ska bli gjort. På sådana platser använder man en beprövad metod för att
-hålla även det stökigaste utrymme i ordning. Den kommer ursprungligen från industrin, den
-används av proffs över hela världen, och den är enklare än den låter.
+Jag är ingenjör. Jag har tillbringat större delen av mitt yrkesliv i verkstäder och i
+maskinrummen på fartyg till sjöss — platser där ett felplacerat verktyg inte är en irritation
+utan en fara, och där man snabbt lär sig att ordning är det enda som gör att arbetet alls blir
+gjort. På ett rullande däck har varje nyckel en plats, och där ligger den. Den dag jag på allvar
+tittade på mitt eget garage hemma såg jag att det bröt mot varje regel jag arbetat efter i tjugo
+år — och att lösningen var en metod jag redan kunde utantill. Den kommer från industrin, används
+av proffs över hela världen, och är enklare än den låter.
 
 Den här boken tar med sig den metoden hem till ditt garage, översatt till vanlig svenska och
 till fem ord som alla råkar börja på S:
