@@ -57,7 +57,8 @@ invent synonyms for the labels. The five S-words are the brand.
 
 Box labels per edition: **Weekend Project** / Helgprojektet, **Workshop Rule** / Verkstadsregeln,
 **Safety** / Säkerhet, **Inherited & Hard** / Ärvt & svårt. Required section headings:
-English `## The problem` … `## Takeaways`; Swedish `## Problemet` … `## Att ta med sig`.
+English `## The problem` (Swedish `## Problemet`). The English edition no longer uses a
+`## Takeaways` recap — the **Workshop Rule** box is the chapter's takeaway (see §5, §9).
 
 ## 4. Fixed Terminology (glossary)
 
@@ -76,29 +77,32 @@ Use these consistently. Pick one term and never drift.
 | återvinning / miljöstation | "soptippen", "tippen" |
 | fritidshus, uthus | "stuga" (use only when quoting people) |
 
-**Units:** metric only (cm, m, liter, kg). **Brands:** none — describe the *type* of
-product (väggskena, perforerad tavla), never a manufacturer.
+**Units:** the **English edition uses imperial** (in, ft, gal) for the US market; the Swedish
+edition uses metric. **Brands:** none — describe the *type* of product (wall rail, pegboard,
+French cleat), never a manufacturer.
 
 ## 5. Chapter Shape (every chapter follows this)
 
-1. **Kroken** (the hook) — 1–2 short paragraphs. A recognisable scene or a sharp truth.
-2. **Problemet** — name what's really going on in this chapter's topic.
-3. **Metoden här** — apply the relevant method step(s) to the topic, concretely.
-4. **Ett exempel** — one short worked example or a real before/after.
-5. **Boxar** (see §6) — at least one **Helgprojektet** box; add **Säkerhet** / **Verkstadsregeln** where relevant.
-6. **Att ta med sig** — 3–5 bullet takeaways, each an action or a rule, not a summary of feelings.
+1. **Hook** — 1–2 short paragraphs. A recognisable scene or a sharp truth.
+2. **The problem** — name what's really going on in this chapter's topic.
+3. **The method here** — apply the relevant 5S step(s) to the topic, concretely.
+4. **An example** — one short worked example with a *named* person.
+5. **Boxes** (see §6) — at least one **Weekend Project**; add **Safety**, **Workshop Rule**,
+   and a **Specs** box (hard numbers) where the topic is a build/handling one.
 
-Chapter length: ~1,200–2,200 words (see §9 for why this band, not longer). One H1 (chapter
-title), H2 for the sections above, no deeper than H3.
+No `## Takeaways` recap — it restated the prose and was cut (§9). End the chapter on a box; the
+**Workshop Rule** carries the one-line takeaway. Say less with more: cut filler, never pad to a
+word count. One H1, H2 for the sections above, no deeper than H3.
 
 ## 6. Recurring Boxes (consistent labels & purpose)
 
 | Box label | Purpose | Style |
 |-----------|---------|-------|
-| **Helgprojektet** | The concrete do-it-now task for the chapter | Numbered steps, finishable in a weekend |
-| **Verkstadsregeln** | A one-line durable rule worth remembering | One bold sentence |
-| **Säkerhet** | Safety / chemical / fire / lifting warning | Short, calm, specific |
-| **Ärvt & svårt** | The emotional/inherited-gear angle | Gentle, respectful |
+| **Weekend Project** / Helgprojektet | The concrete do-it-now task for the chapter | Numbered steps, finishable in a weekend |
+| **Workshop Rule** / Verkstadsregeln | The chapter's one-line takeaway, worth remembering | One bold sentence |
+| **Specs** | Hard numbers a tradesman expects (heights, anchors, clearances, loads) | Tight bullets, real figures |
+| **Safety** / Säkerhet | Safety / chemical / fire / lifting warning | Short, calm, specific |
+| **Inherited & Hard** / Ärvt & svårt | The emotional/inherited-gear angle | Gentle, respectful |
 
 Render boxes as a blockquote starting with the bold label, so they're visually distinct
 and easy to lift into layout later.
@@ -121,11 +125,12 @@ The `/write-chapter` skill must verify each item and fix failures before finishi
 - [ ] The five method words spelled exactly per §3 (EN 5S or SV), bolded on first use, right order
 - [ ] Glossary terms (§4) used consistently — no drift, no brand names
 - [ ] Metric units only
-- [ ] Chapter shape complete: Hook → The problem → method applied → example → box → Takeaways
+- [ ] Chapter shape complete: Hook → The problem → method applied → example → boxes (ends on a box, no Takeaways recap)
 - [ ] At least one **Weekend Project** / **Helgprojektet** box, finishable in a weekend
 - [ ] **Safety** / **Säkerhet** box present wherever chemicals, fuel, fire, electricity or lifting appear
 - [ ] One H1, no skipped levels, max H3
-- [ ] Length 1,200–2,200 words
+- [ ] Length 850–2,200 words — dense, not padded; cut filler rather than pad to a floor
+- [ ] Build/handling chapters carry a **Specs** box with real numbers (imperial, EN)
 - [ ] No English loanwords where a Swedish word exists
 - [ ] No non-Latin homographs (Cyrillic/Greek letters disguised as Latin) — `book-check.py` errors on these
 - [ ] Tone: warm, no shame, no hype, finishable
@@ -151,6 +156,7 @@ and the correction is logged below so it is transparent, not silent.
 | 2026-06-05 | First 5 sample chapters | Chapter band 1,600–2,600 → **1,200–2,200** words | The book is an illustrated, box-driven project guide (Draganja-style). The five drafted chapters were expanded ~60–75% to ~1,300–1,530 words and read complete; the original band was set before the format was decided and was too high. `book-check.py` thresholds updated to match. Voice/structure rules unchanged. |
 | 2026-06-05 | Kapitel 8 | Added **homograph guard** to `book-check.py` (errors on Cyrillic/Greek letters) | A Cyrillic "а" (U+0430), visually identical to Latin "a", had slipped into "lägga-tillbaka-testet" and survived several passes because nothing checked for it. Fixed the chapter, then taught the checker to catch any non-Latin homograph so it can never recur silently. |
 | 2026-06-06 | Whole book | **English-first pivot.** English becomes the master edition; Swedish moves to `sv/`. | The author judged the English voice stronger. English also lets the method use the real **5S** terms (Sort, Set in Order, Shine, Standardize, Sustain) — a more authentic credibility hook than the translated Swedish S-words. `book-check.py`, `build-epub.py`, `build-cover.py` made language-aware (`--lang`); voice rules upgraded to vivid + named characters (§2). |
+| 2026-06-10 | English edition (critique) | **Tighten & harden pass.** Cut all `## Takeaways` recaps; removed word-count padding; rewrote the build chapters (5,6,7) with hard specs; added **Specs** boxes; imperial units; floor lowered 1,200 → **850**. | A two-lens critique (book critic + master garage builder) found the book over-padded and short on builder credibility — generic where free content already wins. Fix = *less filler, more substance*: the Takeaways restated the prose (the Workshop Rule already carries the nugget), padding was added earlier only to hit a floor, and the build chapters lacked real numbers (anchors by substrate, French cleats, overhead-rack loads, mounting heights, bench height, lighting lumens, fuel/propane storage). The floor was lowered because dense-and-short is now the goal, not a length target. |
 
 ---
 

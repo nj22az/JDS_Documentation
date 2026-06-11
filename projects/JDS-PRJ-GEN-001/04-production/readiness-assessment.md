@@ -56,6 +56,25 @@ do*. That was missing — the book read as a 15-chapter method, not a tool. Fixe
 This is the biggest single lift to "why would I buy this": it turns a manuscript into a
 do-this-now system with a visible path from chaos to done.
 
+## Update 2026-06-10 — "tighten & harden" pass done (English edition)
+
+A two-lens read (book critic + master garage builder) drove a revision aimed at *less filler,
+more substance*:
+
+- **Cut every `## Takeaways` recap** — they restated the prose; the Workshop Rule box already
+  carries the one-line nugget. Removed the word-count padding added earlier.
+- **Hardened the build chapters with real specs** a tradesman expects: anchors by substrate
+  (studs at 16" OC / drywall toggles / concrete sleeve anchors), pegboard vs slatwall vs
+  **French cleats**, overhead-rack load limits and the truss-chord caution, mounting heights,
+  ~36" bench height, lighting (~50 lumens/sq ft), and fuel/propane storage numbers + the ABC
+  extinguisher. New **Specs** boxes in chapters 5, 6, 7, 8, 11, 12.
+- **Imperial units** throughout the English edition (US market).
+- Result: a *denser, shorter* book — interior dropped from 115 to **109 pages** even with the
+  new specs added, because the filler came out.
+
+This directly answers the "would someone pay for this vs. free content?" risk: the build
+chapters now give specifics you can't Google in thirty seconds. Still outstanding below.
+
 ## Honest weaknesses still in the manuscript
 
 - **The stories are anonymous and a little samey** ("En man…", "En kvinna…"). They're fine,

@@ -98,11 +98,3 @@ the tools live on with someone who'll use them.
 > 3. Put everything charged in a pile of its own, "to choose from," with no decisions today.
 > 4. Photograph the workshop as it was, and individual things you want to remember but not keep.
 > 5. Pick a later, calm day for the memory pile. It must not be rushed.
-
-## Takeaways
-
-- An inherited workshop is the method's hardest case — as much feeling as practicality.
-- Memories make every decision heavy, so people freeze: either a museum or a rushed sweep.
-- Separate memory from mass: clear the memory-free things first, set the charged ones aside.
-- Choose a few things to keep with meaning, and let the good tools go on and work.
-- One thing seen and used honors the memory more than twenty buried — and a photo carries the rest.

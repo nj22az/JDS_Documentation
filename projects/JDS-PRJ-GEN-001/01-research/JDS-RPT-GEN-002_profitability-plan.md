@@ -24,7 +24,7 @@ to 35 %. The eBook must be priced at least 20 % below the print edition.
 
 **Paperback (B&W interior).** Printing cost = **$0.85 + $0.012 x pages**. Royalty =
 list price x 60 % (for books ≥ $9.99; 50 % below that) minus printing. The interior we
-ship is **115 pages**, so printing = $0.85 + 115 x $0.012 = **$2.23/copy**.
+ship is **109 pages**, so printing = $0.85 + 109 x $0.012 = **$2.16/copy**.
 
 **Kindle Unlimited (KDP Select).** ~$0.0045 per KENP page read from the monthly fund;
 a full read of this book is roughly 170 KENP ≈ **$0.75–0.80**. Select requires eBook
@@ -35,7 +35,7 @@ exclusivity to Amazon for 90-day terms.
 | Format | List price | Per-copy royalty | Why |
 |--------|-----------|------------------|-----|
 | Kindle eBook | **$6.99** | **≈ $4.86** | Inside the 70 % band; impulse price; ≥20 % under print |
-| Paperback 5.5x8.5, 115 pp | **$14.99** | **≈ $6.76** | Above the $9.99 threshold → 60 % tier; category-typical price |
+| Paperback 5.5x8.5, 109 pp | **$14.99** | **≈ $6.76** | Above the $9.99 threshold → 60 % tier; category-typical price |
 | (launch week promo) | $0.99 eBook | ≈ $0.35 | Volume + rank + reviews, then raise to $6.99 |
 
 Break-even on a typical $200–400 self-publishing outlay (proof copies, maybe a cover
@@ -46,7 +46,7 @@ designer) is **40–80 sales** — low risk.
 1. **Ship both formats from day one.** The paperback earns more per copy *and* anchors
    the eBook's perceived value ("$14.99 → $6.99" reads as a deal). This category (home
    how-to) skews print-friendly.
-2. **Keep the interior in the cheap tier.** B&W ink, standard 5.5x8.5 trim, 115 pages:
+2. **Keep the interior in the cheap tier.** B&W ink, standard 5.5x8.5 trim, 109 pages:
    every avoided 10 pages saves $0.12/copy forever. The line-art diagrams are grayscale
    *by design* — a color interior would roughly triple printing cost.
 3. **Price the paperback ≥ $9.99.** The June 2025 tiering makes this a cliff: at $9.99+
@@ -89,8 +89,8 @@ language, indefinitely, for work already done.
 
 - [x] eBook EPUB with embedded diagrams — `The-Garage-Reset.epub`
 - [x] eBook cover 1600x2560 — `cover-en.jpg`
-- [x] Paperback interior, 5.5x8.5, 115 pp, B&W — `The-Garage-Reset-Interior.pdf`
-- [x] Wraparound print cover sized to the real spine (0.259 in) — `The-Garage-Reset-Print-Cover.pdf`
+- [x] Paperback interior, 5.5x8.5, 109 pp, B&W — `The-Garage-Reset-Interior.pdf`
+- [x] Wraparound print cover sized to the real spine (0.246 in) — `The-Garage-Reset-Print-Cover.pdf`
 - [x] Listing copy, 7 keywords, 3 categories — `amazon-listing-en.md`
 - [ ] Author verifies bio facts and safety/disposal passages (human step)
 - [ ] ISBN: use KDP's free ISBN at launch (own ISBN only matters off-Amazon)

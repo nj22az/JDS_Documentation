@@ -23,7 +23,7 @@ from pathlib import Path
 
 MANUSCRIPT = Path("projects/JDS-PRJ-GEN-001/02-manuscript")
 
-MIN_WORDS = 1200
+MIN_WORDS = 850
 MAX_WORDS = 2200
 MAX_HEADING_DEPTH = 3  # H3
 
@@ -42,7 +42,7 @@ LANG_CONFIG = {
         "glob": "chapter-*.md",
         "method_words": ["Sort", "Set in Order", "Shine", "Standardize", "Sustain"],
         "misspellings": ["Set In order", "Standardise"],  # keep US spelling
-        "required_sections": ["## The problem", "## Takeaways"],
+        "required_sections": ["## The problem"],
         "required_box": "Weekend Project",
         "safety_triggers": ["petrol", "gasoline", "solvent", "chemical",
                             "flammable", "battery", "lift"],

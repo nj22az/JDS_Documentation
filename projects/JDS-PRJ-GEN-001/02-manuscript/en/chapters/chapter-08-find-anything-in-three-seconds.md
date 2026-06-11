@@ -28,8 +28,8 @@ shelf.
 Three simple moves make almost any garage searchable in three seconds.
 
 **Label everything closed.** Every bin, tote, and jar you can't see straight through gets a label on
-the front. Write it large enough to read from a meter away: "Screws," "Extension cords," "Car care."
-An unlabeled bin is a hiding place; a labeled bin is storage.
+the front. Write it large enough to read from a few feet away: "Screws," "Extension cords," "Car
+care." An unlabeled bin is a hiding place; a labeled bin is storage.
 
 **Draw outlines on the pegboard.** Paint or trace a silhouette behind each tool on the board. Now you
 see at a glance both where the hammer hangs and that it's missing when it's gone. It's called a shadow
@@ -51,6 +51,14 @@ the bench, it ends up on the bench. Make the return trip shortest, and order kee
 
 > **Workshop Rule**
 > A system isn't measured by how easy it is to find a thing — but by how easy it is to put it back.
+
+> **Specs: the shadow board**
+> - Standard pegboard is **1/4 in hardboard with holes on 1 in centers**, mounted on a **~1/2 in
+>   standoff** so the hooks seat. The thin 1/8 in board sags — use 1/4 in.
+> - Heavy tools (big wrenches, a mallet) pull pegboard hooks out — hang those on a **French cleat**
+>   or a metal track instead.
+> - Small parts go in **divided bins labeled by size** ("#8 × 1-1/4 screws"), sorted by type and
+>   length — not jumbled in one coffee can.
 
 ![The shadow board — an outline behind every tool shows what's missing at a glance](../../../03-assets/images/pegboard.png)
 
@@ -78,17 +86,10 @@ that the hammer is on loan or forgotten somewhere, while a cluttered wall never 
 you're standing there hunting for it. A system that shows its own gaps is a system that repairs itself,
 because you see the problem while it's still small — one thing out of place, not twenty.
 
-It also pays back the effort. The half hour you spend labeling and drawing outlines is repaid every
-single day, in seconds saved and arguments avoided, for as long as you own the garage. Few things in this
-book give so much for so little.
-
-There's a reason this step is the quiet hero of the whole method. Sorting and building zones get the
-attention, but they're one-time efforts; visibility is what makes the order *last*, day after day,
-long after the satisfaction of the big cleanup has faded. A labeled, outlined garage forgives a tired
-evening and a hurried hand, because the right place is always staring you in the face. It's the closest
-thing there is to a garage that tidies itself — and it costs nothing but a marker, some tape, and an
-hour of your time. Spend that hour, and you'll feel the return every single day you walk into the
-garage and put your hand straight on the thing you came for.
+And it lasts. Sorting and zoning are one-time efforts; visibility is what keeps the order alive long
+after the cleanup glow fades. A labeled, outlined garage forgives a tired hand because the right
+place is always staring you in the face — the closest thing there is to a garage that tidies itself,
+for the price of a marker, some tape, and an hour.
 
 > **Workshop Rule**
 > What you can see, you grab. What you have to dig for, you forget you own. Make the contents visible.
@@ -100,11 +101,3 @@ garage and put your hand straight on the thing you came for.
 > 4. Swap at least one opaque bin for a clear one for something you reach for often.
 > 5. Run the put-it-back test: take three things and return them. Did it take three seconds? If not,
 >    shorten the return trip until it does.
-
-## Takeaways
-
-- **Set in Order** is done only when anyone can find — and return — a thing in three seconds.
-- A place that lives only in your head won't survive; move the information onto the wall and the bin.
-- Label everything closed, draw outlines on the pegboard, make often-used things transparent.
-- What matters is the put-it-back test: make the return trip shortest, and order keeps itself.
-- When the place is visible, you return things correctly without remembering — and the whole house can too.

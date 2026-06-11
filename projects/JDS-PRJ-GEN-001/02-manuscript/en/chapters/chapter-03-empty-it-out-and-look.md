@@ -78,18 +78,13 @@ online cart. Then she emptied the garage one Saturday, category by category, and
 on the driveway.
 
 That's when she saw it. The bench she already had wasn't too small — it was buried. Under the
-piles lay nearly two meters of clear work surface she hadn't seen in years. She didn't need a new
+piles lay nearly six feet of clear work surface she hadn't seen in years. She didn't need a new
 bench. She needed to see the one she had. That's why you empty first: half the problem turns out
 to be things hiding what you already own.
 
 > **Workshop Rule**
 > Gather everything of one kind in one spot. Seven of a thing you thought you had one of is the
 > truth you need to see.
-
-It's worth pausing on why this works. When you see two meters of clear bench you'd forgotten you
-had, two things happen at once. You stop wanting to buy more storage, and you start trusting the
-method. Both matter. The person who trusts the method has the stamina to go all the way through
-the five steps; the one who doesn't gives up after the first weekend and buys another plastic bin.
 
 > **Weekend Project: empty one wall**
 > You don't have to empty the whole garage in a weekend. Take one wall.
@@ -106,11 +101,3 @@ the five steps; the one who doesn't gives up after the first weekend and buys an
 > can't see your feet. Don't set heavy things up high "just for now" — temporary becomes
 > permanent, and a can falling from a head-height shelf hurts. Heavy things low, light things
 > high.
-
-## Takeaways
-
-- You no longer see what has always stood still; that's why things have to come out into the light.
-- Clearing in place gives the same non-decision as before — break the pattern by carrying things out.
-- Gather everything of one kind together, and the true quantity reveals itself.
-- Make no throw-it-out decisions yet. This weekend you empty and you look — nothing more.
-- Often the problem isn't too little space, but piles hiding the space you already have.

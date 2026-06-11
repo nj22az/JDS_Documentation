@@ -127,11 +127,3 @@ money.
 
 With that, you're ready. The next chapter is your first real weekend: you empty it out, and you
 look.
-
-## Takeaways
-
-- The method is five steps in a fixed order: Sort, Set in Order, Shine, Standardize, Sustain.
-- The order isn't optional — each step builds on the one before it.
-- Big advice fails because it's too big; break everything into one step with a clear end.
-- One step a weekend beats a hero weekend, every time.
-- Buy no storage until you've sorted — otherwise you're storing what you should have thrown out.

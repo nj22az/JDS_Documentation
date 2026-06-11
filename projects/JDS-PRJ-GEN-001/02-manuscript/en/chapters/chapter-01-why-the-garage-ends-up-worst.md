@@ -122,12 +122,3 @@ belong, once, and then let that order run itself.
 > Before you move anything heavy: garages are often badly lit and dotted with slick patches of
 > oil or meltwater. Turn on every light you have, and wipe up wet spots on the floor before you
 > carry anything. Order starts with not slipping.
-
-## Takeaways
-
-- The garage ends up worst because it's the house's overflow valve — the last stop for anything
-  without a home.
-- The cause isn't too few shelves; it's the absence of a system that decides where things belong.
-- You don't clean the garage once — you build a five-step system (5S) that keeps order for you.
-- Throwing out is only the start. Four of the five steps are about what happens next.
-- Start by looking, not lifting. Find one thing that isn't needed, and you're under way.

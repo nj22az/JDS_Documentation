@@ -1,110 +1,90 @@
-<!-- Chapter 7 · Part 3 · The Garage Reset · draft 2026-06-06 -->
+<!-- Chapter 7 · Part 3 · The Garage Reset · draft 2026-06-10 -->
 
 # Get It Off the Floor
 
-You have a zone map. Now the things go up onto their places, and this time there's one simple,
-almost magical rule that solves most of it: nearly everything should come up off the floor. This
-is the heart of **Set in Order** — you build the storage that makes the zones real.
-
-The floor is the most expensive surface in the garage, because it's the only one you can work on
-and park a car on. Every item standing on the floor steals that surface. The walls and the ceiling,
-meanwhile, usually sit completely unused.
+You have a zone map. Now you build the walls that make it real — the heart of **Set in
+Order** — on one near-magic rule: **almost nothing belongs on the floor.** The floor is the
+most expensive surface in the
+garage — the only one you can work on and park on. Every item standing on it steals that
+surface, while the walls and ceiling sit empty all the way up.
 
 ## The problem: the garage stores upward, but we stack outward
 
-Picture what a full garage actually looks like. The stuff spreads across the floor in a thin
-layer, a meter high at most, while the wall above it is empty all the way to the ceiling. We use
-maybe a third of the room's real volume — and precisely the third we need most: the floor.
+A full garage is a thin layer of stuff a few feet high under a wall that's bare to the rafters.
+We use maybe a third of the room's real volume — and exactly the third we need most, the floor.
+That's because setting a thing down takes a second and hanging it up takes a hook that doesn't
+exist yet. So the floor always wins, one item at a time, until the car lives outside. Make the
+wall the easy place and the habit flips: things go back up, and the floor stays clear on its own.
 
-That's because it's easier to set a thing down than to hang it up. Down on the floor takes a
-second; up on a hook requires that the hook exists and that the thing has a place. Without storage
-on the wall, the floor always wins, one item at a time, until the car ends up outside.
+## The method here: anchor it right, then choose the system
 
-Flip it around — make the wall the easy place — and the habit flips too. Then hanging things back
-becomes natural, and the floor stays clear almost by itself.
+Before what to hang, learn what holds — because a shelf that lets go with tires on it is the most
+dangerous thing in this book. **How you fasten depends entirely on the wall behind the drywall.**
 
-## The method here: the wall, the board, the shelf, the ceiling
+- **Into studs (wood-framed wall).** The strong option. Studs sit at **16 in on center** (sometimes
+  24); find them with a magnetic stud finder or the line of drywall screws. Anything heavy gets
+  **3 in structural screws driven into the stud**, not the drywall.
+- **Drywall alone.** For light stuff only — a broom, a coil of cord. Use a toggle/snaptoggle and
+  trust it with a **few pounds, never a tool wall.** Most failures come from hanging weight on
+  drywall as if it were a stud.
+- **Concrete or block wall.** Drill with a **hammer drill and a masonry bit**, then set
+  **concrete screws or sleeve anchors** (1/4 in is plenty for shelf brackets).
 
-You have four kinds of surface to move things up onto, and they suit different things.
+Now the wall system. Three earn their place:
 
-**Wall hooks and rails.** A rail along the wall with movable hooks handles everything that hangs
-well: rakes, spades, hose, cords, folding chairs, bikes. It's the simplest and cheapest win — a
-wall that was empty suddenly carries a whole zone.
+- **Pegboard** — cheap, fast, perfect for hand tools and light gear. Needs a standoff so hooks
+  seat; figure a few pounds per hook, not more.
+- **Slatwall** — modular panels that spread load across the wall; cleaner and stronger than
+  pegboard, more money.
+- **The French cleat** — the tradesman's favorite, and the best value. Rip a **3/4 in plywood
+  strip with a 45° bevel**, screw the wall half into **every stud**, and hang matching cleats on
+  hooks, shelves, and holders that lift off and reposition in seconds. It holds serious weight and
+  reconfigures forever. If you build one thing, build a cleat wall.
 
-**The pegboard.** A pegboard over the workbench makes hand tools visible and grabbable. Hang what
-you use often at eye level. Draw an outline behind each tool and you'll see at a glance what's
-missing and what needs to go back — more on that in the next chapter.
-
-**Shelves.** Open shelving on the wall carries bins, jars, and totes. Heavy, often-used things
-belong at waist height; light, rarely-used things up top. Label every bin so the shelf doesn't
-become a new hiding place.
-
-**The ceiling.** Above the door opening and up in the rafters there's often room for the truly
-rarely-used: the roof box, seasonal tires on a sturdy rack, the kayak. The ceiling is the seasonal
-zone's best friend — hard to reach, but you only touch it twice a year anyway.
-
-Running through all of it is one principle: **heavy and often, down low; light and rarely, up high.**
-What you lift every week, you shouldn't have to reach for. What you touch twice a year can happily
-require a ladder.
+Overhead is the seasonal zone's best friend — but respect the **load limit.** Mount ceiling racks
+into the **joists**, and be careful with **engineered roof trusses: their bottom chord is sized for
+the ceiling, not for storage** — heavy loads there can damage the roof structure, so check the
+rack's rating (commonly 250–600 lb) and don't exceed it. Never hang weight directly over where the
+car parks or a person stands.
 
 > **Workshop Rule**
-> The floor is for working on, not storing on. Anything that can hang, hangs.
+> The floor is for working on, not storing on. Anything that can hang, hangs — anchored into a stud.
+
+> **Specs: heights, the bench, and light**
+> - **The golden zone** is knee-to-shoulder, about **30–60 in** off the floor — hang what you reach
+>   for weekly there. Heavy and daily goes lower; light and rare goes up high.
+> - Walk-under shelves: keep the **bottom of a high shelf at 80 in or more** so you don't crack your
+>   head.
+> - **Workbench height: ~36 in** (34–38 to taste). Too low wrecks your back; match it to your hands.
+> - **Light it like you mean it: aim ~50 lumens per square foot.** A 400 sq ft two-car garage wants
+>   roughly 20,000 lumens — about four or five 4 ft LED shop lights at 4000–5000K. Bad light is why
+>   garages feel grim; this single upgrade changes the room.
 
 ## An example: a double garage that became one — in reverse
 
-A family was sure they needed to build an extension. The garage held their stuff but no longer the
-car, and they were looking at quotes for an addition. Before signing, they tried one weekend with
-the wall: they put up a rail along one long side and moved everything that could hang — bikes, garden
-tools, hose, the ladder.
+A family was getting quotes for an extension. The garage held their stuff but not the car. Before
+signing, they tried one weekend on the wall: a cleat rail down one long side, and up went the
+bikes, garden tools, hose, and ladder. They got back more than half the floor. The car fit with
+room to spare; the extension was never built. They didn't have too little garage — they had too
+little wall in use.
 
-The floor space they got back was more than half the garage. The car fit with room to spare, and the
-extension was never needed. They didn't have too little garage. They had too little wall in use. It's
-the most common misconception of all: that the problem is the space, when the problem is that all the
-space is on the floor.
+## Start cheap, build in order
 
-## Start cheap, build out later
-
-You don't need to buy a whole storage system at once. Quite the opposite — start cheap and see what
-you actually use before you invest more. A row of simple hooks and one sturdy shelf solve most of an
-ordinary garage, and they cost little. After living with them for a month you'll know where you need
-more hooks and where a shelf sits wrong, and then you can build out with precision instead of guessing
-expensively from the start.
-
-There's an order that pays off. First put up hooks for the big, bulky things — bikes, ladders, garden
-tools — because those steal the most floor. Then take the wall by the workbench with a pegboard. Last
-come the shelves for bins and totes. Go in that order and you'll see the biggest change right away,
-after the hooks alone, which gives you the appetite to keep going. Momentum matters more than you'd
-think in a job like this — a visible win on the first afternoon is what carries you through the
-weekends that follow, so start where the payoff shows fastest.
-
-And remember the rule from the buying chapter: build storage for what you've decided to keep, not for
-everything that happens to be there. The wall should carry your sorted garage, not preserve a pile
-upward instead of outward.
-
-Think about height as you plan, too. The most comfortable zone is between knee and shoulder — that's
-where you hang what you reach for every week, without bending or stretching. Below the knee goes the
-heavy stuff that has to be lifted off the floor anyway; above the shoulder, the light and
-rarely-touched. When you divide the wall into those three heights before you drill, you avoid the most
-common mistake: hanging things neatly but at the wrong height, so that every day you stretch for what
-you use most.
+Don't buy a whole system at once. A row of hooks and one sturdy shelf solve most of an ordinary
+garage for little money; live with them a month, then build out where you actually feel the need.
+Work in the order that shows the most floor soonest: **hooks for the big bulky things first**
+(bikes, ladders, tools), **then the bench wall** (pegboard or a cleat), **then shelves** for bins.
+And build storage only for what you decided to keep in the sort — the wall should carry a sorted
+garage, not preserve the pile upward.
 
 > **Weekend Project: empty one wall upward**
-> 1. Choose the wall that belongs to your messiest zone from the map.
-> 2. Put up a sturdy rail or a row of hooks at the height the things are actually used.
-> 3. Hang everything from that zone that can hang: tools, cords, anything foldable.
-> 4. Shelve what has to stand — heavy low, light high — and label every bin.
-> 5. Step back and look at the floor you just won. That's the space the car gets.
+> 1. Take the wall behind your messiest zone. Mark the studs in pencil.
+> 2. Put up a cleat rail or a row of hooks, screwed into studs, in the golden zone (30–60 in).
+> 3. Hang everything from that zone that can hang.
+> 4. Shelve the rest — heavy low, light high, bottom of high shelves at 80 in — and label every bin.
+> 5. Step back and look at the floor you won. That's the car's spot.
 
 > **Safety**
-> Anchor shelves and heavy hooks into studs or with the right fixing for the wall — a shelf that
-> lets go with tires on it is dangerous. Never hang anything heavy over a spot where someone stands
-> or the car parks. And lift with your legs when you move tires and bins up high; take a ladder
-> rather than stretching on tiptoe with a heavy load.
-
-## Takeaways
-
-- The floor is the garage's most expensive surface — anything that can leave it should leave it.
-- We stack outward though the garage stores upward; the wall and ceiling usually sit unused.
-- Four surfaces to move things up onto: wall hooks/rails, pegboard, shelves, and the ceiling.
-- Principle: heavy and often, low; light and rarely, high — never reach for the week's things.
-- Many who think they need more garage just need to put the wall to work.
+> Heavy load goes into studs, block, or concrete — never drywall alone. Don't hang anything heavy
+> over the car or a work spot. Lift tires and bins with your legs, and use a ladder rather than
+> stretching on tiptoe with a load overhead.

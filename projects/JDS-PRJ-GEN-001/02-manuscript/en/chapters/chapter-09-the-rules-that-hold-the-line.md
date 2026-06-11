@@ -97,11 +97,3 @@ habit is what truly holds.
 > 3. Talk them through once with everyone who uses the garage, so they apply to the whole house.
 > 4. Add one rule of your own if you have a recurring problem (e.g. "bench empty by evening").
 > 5. Live with them for a week and delete any that isn't followed — fewer rules kept beats more forgotten.
-
-## Takeaways
-
-- **Standardize** is the few rules that keep order after the big cleanup.
-- Order is a habit, not an event — every use of the garage nudges it toward disorder.
-- Four rules suffice: back right away, one in one out, empty packaging out, place first.
-- A good rule needs no discipline; it just makes the right thing the easiest move.
-- "Later" is where order dies. Never let the pile begin, and you spare yourself the work of tearing it down.

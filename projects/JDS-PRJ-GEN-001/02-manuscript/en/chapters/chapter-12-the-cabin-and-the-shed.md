@@ -85,6 +85,13 @@ the shed never becomes the place you dread opening, but an outbuilding as ready 
 season begins. A shed in order is part of what makes a cabin restful in the first place — you came here
 to relax, not to fight a damp pile in the outbuilding.
 
+> **Specs: keeping damp and mice out**
+> - A mouse gets through a gap the size of a **pencil (~1/4 in)** — seal openings with **steel wool or
+>   1/4 in hardware cloth**, not foam, which they chew through.
+> - Raise everything **off the slab** on a pallet or shelving; a concrete floor sweats.
+> - In a closed shed, a tub of **desiccant or a few moisture absorbers** cuts the winter damp that
+>   ruins fabric and rusts tools.
+
 > **Safety**
 > Petrol for the mower and chainsaw belongs in an approved can, cool and away from the living quarters
 > — never inside the cabin. Check that old batteries haven't leaked over the winter. And take care with
@@ -97,11 +104,3 @@ to relax, not to fight a damp pile in the outbuilding.
 > 3. Remove anything edible — birdseed, feed, leftovers — that draws rodents over winter.
 > 4. Give the cabin's own things fixed zones and draw a firm line against "the home's overflow."
 > 5. Write a short arrival-and-departure list and hang it inside the door.
-
-## Takeaways
-
-- The same five steps apply, but the shed demands extra care for damp, cold, and rodents.
-- Rarely-seen rooms decay faster: there's no weekly round, and the environment is harsher.
-- Store what must survive the winter in sealed totes, not cardboard — the tote is the new box.
-- Leave the mice no food and no soft nesting, and keep the shed from becoming the home's dump.
-- Swap the weekly round for an arrival-and-departure routine — a per-visit rhythm instead of weekly.

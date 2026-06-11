@@ -73,18 +73,11 @@ Don't be hard on yourself if a week gets skipped, either. A missed round isn't a
 round. The difference from before is that a single week no longer builds a pile, because the system carries
 you. Take the next round as planned, and everything's in order again.
 
-And make the round a little pleasant while you're at it. Put on music or a podcast, bring a coffee, open
-the door and let some air in. Ten minutes in a room you're proud of is no hardship — it can even become a
-moment you look forward to, a small pause where you do something concrete and see the result at once. That's
-the whole point of the book paying off: the round feels easy precisely because you already did the hard
-work. You're tending a room that works, and tending something that works is a completely different thing
-from fighting a pile. That's why this small habit holds where big cleanups have always failed.
-
-Think of it the way you think of brushing your teeth: trivial, daily, and far easier than the dentist's
-chair you avoid by doing it. Nobody schedules a heroic, once-a-year tooth-cleaning marathon, because the
-small daily habit makes it unnecessary. The weekly round is the same bargain for your garage — a few
-minutes now that quietly buy you out of every lost weekend later. The whole trick is to keep the habit
-so small it never feels worth skipping — because the round you actually do is the only round that counts.
+And make it pleasant: music or a podcast, a coffee, the door open. Ten minutes in a room you're proud
+of is no hardship — you're tending something that works, not fighting a pile, which is exactly why this
+habit holds where big cleanups fail. Think of it like brushing your teeth: trivial and daily, and it
+spares you the equivalent of the dentist's chair. Keep it small enough that it never feels worth
+skipping — the round you actually do is the only one that counts.
 
 > **Workshop Rule**
 > The weekly round resets, it doesn't renovate. Big problems are noted now and solved in spring and fall.
@@ -95,11 +88,3 @@ so small it never feels worth skipping — because the round you actually do is 
 > 3. Do the first round now: back in place, out to recycling, wipe the bench.
 > 4. Hang a small note in the garage for "to deal with later" — the big things you spot.
 > 5. Do the round three weeks running. By then it's set, and you can trust it to carry.
-
-## Takeaways
-
-- **Sustain** keeps order alive with a small, regular effort — not a big, rare one.
-- Order leaks slowly; single deviations go unnoticed, but they quietly accumulate into a pile.
-- The weekly round is ten minutes, fixed time, three things: back in place, out to recycling, wipe the bench.
-- Note big problems but don't solve them now — they belong to the twice-a-year pass.
-- A mature routine shrinks on its own: first it repairs damage, then it prevents it.

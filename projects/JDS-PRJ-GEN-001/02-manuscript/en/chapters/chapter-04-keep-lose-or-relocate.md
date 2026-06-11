@@ -108,11 +108,3 @@ solved itself, because time answered the question he couldn't.
 > **Safety**
 > Don't put paint, solvent, batteries, or old petrol in the "lose" pile for ordinary trash. They
 > have their own rules, and the whole next chapter is about them. Set them aside for now.
-
-## Takeaways
-
-- Every item gets one of three fates: keep, lose, or relocate. Three piles, no more.
-- "Maybe" isn't an answer — it's a postponed decision, and those built the pile.
-- Keeping isn't free; it costs space every day, even when the price is invisible.
-- If you hesitate: a maybe-box dated a year ahead. If the year passes unopened, the answer is given.
-- Get the "lose" pile out the same weekend, or it drifts back into the garage.

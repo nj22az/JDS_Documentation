@@ -101,11 +101,3 @@ ignore it, and it reverts to a pile. That single habit of looking in matters mor
 > residential building, and it's often against the building's rules. Keep shared passages completely
 > clear; they're an escape route in a fire. Check what your building allows before storing anything
 > unusual.
-
-## Takeaways
-
-- The five steps shrink neatly — the method works as well on four square meters as on forty.
-- A small space forgives nothing: every misplaced thing and every "maybe" shows at once.
-- Sort harder, build upward with stackable totes, and label everything so the locker reads from the door.
-- In shared basements: nothing flammable, nothing in the common passage — clear passages are a fire rule.
-- A small locker is rarely too small; it's usually just used as a floor-heap instead of a room.

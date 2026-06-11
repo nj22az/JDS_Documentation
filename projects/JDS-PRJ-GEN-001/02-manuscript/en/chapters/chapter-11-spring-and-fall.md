@@ -76,14 +76,19 @@ And always finish by booking the next one. With the next pass already in the cal
 there's no occasion to forget it. Two fixed points a year, each tied to the tire swap, are enough that
 the garage never again has time to decay between them.
 
-One more habit makes the spring and fall pass easier still: start it by reading the "to deal with later"
-note from the weekly rounds. The big things you deliberately postponed during the week collect there,
-and the pass is where they finally get solved. The shelf that started to overflow, the zone that doesn't
-quite work, the thing with no home — take them now, while you have the time and the things in your hands.
-That way the system catches even the big stuff without you ever having to interrupt ordinary life for it.
-The small gets handled every week, the big twice a year, and nothing falls through the cracks. Between
-the two rhythms, there's simply no gap left for disorder to grow in — and that, more than any single
-cleanup, is what keeps a garage in order for years rather than weeks.
+One more habit makes the pass easier: start it by reading the "to deal with later" note from the
+weekly rounds. The big things you postponed collect there — the overflowing shelf, the zone that
+doesn't work, the thing with no home — and the pass is where they finally get solved, while you have
+the time and the things in hand. Small every week, big twice a year, and nothing falls through the
+cracks.
+
+> **Specs: storing tires right**
+> - Keep them **cool, dry, and out of direct sun** — UV and ozone crack rubber.
+> - **Off the bare slab** — set them on a shelf, a strip of cardboard, or hang them; concrete wicks
+>   moisture into the tire.
+> - **Unmounted tires stand upright; mounted tires (on rims) lie flat or hang.** Keep flat stacks to
+>   four or fewer so the bottom ones don't deform.
+> - Bag each in a contractor bag to slow drying out.
 
 > **Safety**
 > Heavy seasonal things live high and far back. Use a sturdy ladder, not a chair, when you bring tires
@@ -97,11 +102,3 @@ cleanup, is what keeps a garage in order for years rather than weeks.
 > 3. Put the "no" things in a lose pile and haul them out the same day.
 > 4. Glance through the hazard corner and gather what's dried out or gone stale.
 > 5. Write the next pass into the calendar right away — half a year out, at the next seasonal swap.
-
-## Takeaways
-
-- Twice a year the garage needs a longer pass; spring and fall invite you to it themselves.
-- The seasonal swap you do anyway is the perfect moment for a quick round of **Sort**.
-- Ask of each thing you lift: did I use it last season? "No" is a candidate for "lose."
-- Clear the hazard corner in the same trip — the twice-a-year rhythm keeps that pile small.
-- Week plus half-year make a complete maintenance plan — never a whole lost weekend on the garage again.

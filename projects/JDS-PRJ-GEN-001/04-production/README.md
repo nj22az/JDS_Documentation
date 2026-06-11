@@ -9,8 +9,8 @@ Everything needed to publish the book on Amazon KDP. The book is **English-first
 |------|---------|------------|
 | `The-Garage-Reset.epub` | EN | Uploadable eBook with embedded diagrams |
 | `cover-en.jpg` | EN | KDP eBook cover, 1600×2560 |
-| `The-Garage-Reset-Interior.pdf` | EN | **Paperback interior** — 5.5×8.5 in, 115 pp, B&W, mirrored margins, part dividers |
-| `The-Garage-Reset-Print-Cover.pdf` | EN | **Wraparound print cover** — back + 0.259 in spine + front, 300 DPI, bleed |
+| `The-Garage-Reset-Interior.pdf` | EN | **Paperback interior** — 5.5×8.5 in, 109 pp, B&W, mirrored margins, part dividers |
+| `The-Garage-Reset-Print-Cover.pdf` | EN | **Wraparound print cover** — back + 0.246 in spine + front, 300 DPI, bleed |
 | `amazon-listing-en.md` | EN | Title fields, HTML description, keywords, categories, pricing |
 | `Stada-i-Garaget.epub` | SV | Uploadable Swedish eBook |
 | `cover.jpg` | SV | Swedish KDP cover, 1600×2560 |

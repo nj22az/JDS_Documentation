@@ -57,12 +57,8 @@ and met relief instead of dread. A room that used to drain him now gave him some
 in. That's what order is really about — not tidiness for its own sake, but one of the house's rooms ceasing
 to work against you and beginning to work for you.
 
-And the cost, he pointed out, had been smaller than he feared. Not a grim lost week with a skip on the
-driveway, but five ordinary weekends, one step at a time, with a coffee and the door open. He'd put it off
-for years imagining something far worse than it turned out to be — which is, if anything, the most common
-regret of all: not that the job was hard, but that it was so much easier than the dread that kept him from
-starting. If there's one thing he'd tell his earlier self, he said, it's that the pile in your head is
-always bigger than the pile in the garage.
+And it cost less than he'd feared — five ordinary weekends, not the grim lost week he'd dreaded for
+years. As he put it: the pile in your head is always bigger than the pile in the garage.
 
 ## The method goes with you
 
@@ -92,11 +88,3 @@ living, from here on. Close the door. The garage is yours again — and this tim
 > 3. Put the weekly round and the next seasonal pass in the calendar now, not later.
 > 4. Walk one last round and enjoy the room you built — this is the baseline you maintain.
 > 5. A year from now, compare it with the photo you took at the start. That's your receipt.
-
-## Takeaways
-
-- You no longer have a pile to tear down, but a system to maintain — and that's far easier.
-- The only real risk is believing you're done and dropping the small maintenance.
-- Everything you need is in **Sustain**: ten minutes a week, spring and fall, the four rules.
-- The payoff is concrete — time, money, safety, the car inside — but the biggest is the feeling at the door.
-- The method goes with you to every room, and you're never again helpless in front of a pile.
