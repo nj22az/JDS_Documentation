@@ -128,15 +128,23 @@ blockquote strong:first-child { display: block; margin-bottom: 0.25em; }
 .box-head { margin: 0; padding: 1.3mm 2.6mm; color: #fff;
     font-family: 'Rounded', sans-serif; font-weight: 700; font-size: 11pt; }
 .box-icon { margin-right: 1.4mm; font-size: 9.5pt; }
-.box-body { padding: 1.8mm 2.8mm 2.2mm; }
+/* The body is a coloured "tray"; each paragraph / list item becomes its own
+   white compartment, and the tray colour shows between them as the dividers. */
+.box-body { padding: 1mm; }
 .box-body p { text-align: left; }
-.box-body > :first-child { margin-top: 0; }
-.box-body > :last-child { margin-bottom: 0; }
-.box.box-safety { border-color: #cf3127; } .box.box-safety .box-head { background: #cf3127; }
-.box.box-do { border-color: #2f8f5b; } .box.box-do .box-head { background: #2f8f5b; }
-.box.box-rule { border-color: #1b3a5c; } .box.box-rule .box-head { background: #1b3a5c; }
-.box.box-specs { border-color: #2e7fa6; } .box.box-specs .box-head { background: #2e7fa6; }
-.box.box-soft { border-color: #a9741c; } .box.box-soft .box-head { background: #a9741c; }
+.box-body ul, .box-body ol { margin: 0; padding: 0; list-style-position: inside; }
+.box-body > p, .box-body li { background: #fff; border-radius: 6pt;
+    margin: 1mm; padding: 1.3mm 2.4mm; }
+.box.box-safety { border-color: #cf3127; }
+.box.box-safety .box-head { background: #cf3127; } .box.box-safety .box-body { background: #f6ddda; }
+.box.box-do { border-color: #2f8f5b; }
+.box.box-do .box-head { background: #2f8f5b; } .box.box-do .box-body { background: #dcefe4; }
+.box.box-rule { border-color: #1b3a5c; }
+.box.box-rule .box-head { background: #1b3a5c; } .box.box-rule .box-body { background: #dde4ee; }
+.box.box-specs { border-color: #2e7fa6; }
+.box.box-specs .box-head { background: #2e7fa6; } .box.box-specs .box-body { background: #daeaf3; }
+.box.box-soft { border-color: #a9741c; }
+.box.box-soft .box-head { background: #a9741c; } .box.box-soft .box-body { background: #f2e6cd; }
 
 /* Chapter-opener dashboard (JDS-PRO-007 §5.3). Rounded 2x2 bento; the wrapper
    rounds + clips the table corners. */
