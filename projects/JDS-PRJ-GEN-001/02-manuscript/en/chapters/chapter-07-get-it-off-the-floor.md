@@ -19,16 +19,16 @@ wall the easy place and the habit flips: things go back up, and the floor stays 
 ## The method here: anchor it right, then choose the system
 
 Before what to hang, learn what holds — because a shelf that lets go with tires on it is the most
-dangerous thing in this book. **How you fasten depends entirely on the wall behind the drywall.**
+dangerous thing in this book. **How you fasten depends entirely on what the wall is made of.**
 
-- **Into studs (wood-framed wall).** The strong option. Studs sit at **16 in on center** (sometimes
-  24); find them with a magnetic stud finder or the line of drywall screws. Anything heavy gets
-  **3 in structural screws driven into the stud**, not the drywall.
-- **Drywall alone.** For light stuff only — a broom, a coil of cord. Use a toggle/snaptoggle and
-  trust it with a **few pounds, never a tool wall.** Most failures come from hanging weight on
-  drywall as if it were a stud.
-- **Concrete or block wall.** Drill with a **hammer drill and a masonry bit**, then set
-  **concrete screws or sleeve anchors** (1/4 in is plenty for shelf brackets).
+- **Into studs (timber-framed wall).** The strong option. Studs sit at **600 mm centres** (16 in
+  in North America; sometimes 450 mm); find them with a magnetic stud finder or the line of
+  fixings. Anything heavy gets **75 mm (3 in) structural screws into the stud**, never the board.
+- **Plasterboard alone.** Light stuff only — a broom, a coil of cord. A plasterboard toggle holds
+  **a kilo or two, never a tool wall.** Most failures come from hanging weight on plasterboard as
+  if it were a stud.
+- **Concrete, brick, or block wall** (common in European garages). Drill with a **hammer drill and
+  a masonry bit**, then set **frame or sleeve anchors** (6 mm is plenty for shelf brackets).
 
 Now the wall system. Three earn their place:
 
@@ -36,29 +36,29 @@ Now the wall system. Three earn their place:
   seat; figure a few pounds per hook, not more.
 - **Slatwall** — modular panels that spread load across the wall; cleaner and stronger than
   pegboard, more money.
-- **The French cleat** — the tradesman's favorite, and the best value. Rip a **3/4 in plywood
-  strip with a 45° bevel**, screw the wall half into **every stud**, and hang matching cleats on
+- **The French cleat** — the tradesman's favorite, and the best value. Rip an **18 mm plywood
+  strip at a 45° bevel**, screw the wall half into **every stud**, and hang matching cleats on
   hooks, shelves, and holders that lift off and reposition in seconds. It holds serious weight and
   reconfigures forever. If you build one thing, build a cleat wall.
 
 Overhead is the seasonal zone's best friend — but respect the **load limit.** Mount ceiling racks
 into the **joists**, and be careful with **engineered roof trusses: their bottom chord is sized for
 the ceiling, not for storage** — heavy loads there can damage the roof structure, so check the
-rack's rating (commonly 250–600 lb) and don't exceed it. Never hang weight directly over where the
-car parks or a person stands.
+rack's rating (commonly 115–270 kg / 250–600 lb) and don't exceed it. Never hang weight directly
+over where the car parks or a person stands.
 
 > **Workshop Rule**
 > The floor is for working on, not storing on. Anything that can hang, hangs — anchored into a stud.
 
 > **Specs: heights, the bench, and light**
-> - **The golden zone** is knee-to-shoulder, about **30–60 in** off the floor — hang what you reach
->   for weekly there. Heavy and daily goes lower; light and rare goes up high.
-> - Walk-under shelves: keep the **bottom of a high shelf at 80 in or more** so you don't crack your
->   head.
-> - **Workbench height: ~36 in** (34–38 to taste). Too low wrecks your back; match it to your hands.
-> - **Light it like you mean it: aim ~50 lumens per square foot.** A 400 sq ft two-car garage wants
->   roughly 20,000 lumens — about four or five 4 ft LED shop lights at 4000–5000K. Bad light is why
->   garages feel grim; this single upgrade changes the room.
+> - **The golden zone** is knee-to-shoulder, about **75–150 cm (30–60 in)** off the floor — hang
+>   what you reach for weekly there. Heavy and daily goes lower; light and rare goes up high.
+> - Walk-under shelves: keep the **bottom of a high shelf at 2 m (80 in) or more** so you don't
+>   crack your head.
+> - **Workbench height: about 90 cm (36 in)** — roughly your wrist height. Too low wrecks your back.
+> - **Light it properly: aim for 300–500 lux.** A 36 m² (≈400 sq ft) two-car garage wants roughly
+>   15,000–20,000 lumens — four or five 1.2 m (4 ft) LED batten lights at 4000–5000 K. Bad light is
+>   why garages feel grim; this one upgrade changes the room.
 
 ## An example: a double garage that became one — in reverse
 
@@ -79,12 +79,12 @@ garage, not preserve the pile upward.
 
 > **Weekend Project: empty one wall upward**
 > 1. Take the wall behind your messiest zone. Mark the studs in pencil.
-> 2. Put up a cleat rail or a row of hooks, screwed into studs, in the golden zone (30–60 in).
+> 2. Put up a cleat rail or a row of hooks, screwed into studs, in the golden zone (75–150 cm).
 > 3. Hang everything from that zone that can hang.
-> 4. Shelve the rest — heavy low, light high, bottom of high shelves at 80 in — and label every bin.
+> 4. Shelve the rest — heavy low, light high, bottom of high shelves at 2 m — and label every bin.
 > 5. Step back and look at the floor you won. That's the car's spot.
 
 > **Safety**
-> Heavy load goes into studs, block, or concrete — never drywall alone. Don't hang anything heavy
+> Heavy load goes into studs, block, or concrete — never plasterboard alone. Don't hang anything heavy
 > over the car or a work spot. Lift tires and bins with your legs, and use a ladder rather than
 > stretching on tiptoe with a load overhead.

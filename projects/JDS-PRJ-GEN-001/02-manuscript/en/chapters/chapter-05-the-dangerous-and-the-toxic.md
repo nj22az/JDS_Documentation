@@ -3,7 +3,7 @@
 # The Dangerous and the Toxic
 
 Every garage hides a pile that can't go in the trash: paint cans skinned over with sludge, a
-jug of old gas, the battery you swapped out, spray cans, solvent, a leaking quart of oil. This
+jug of old petrol, the battery you swapped out, spray cans, solvent, a leaking can of oil. This
 gets its own chapter because it's the most common way a garage turns genuinely dangerous — and
 because it follows different rules from everything else.
 
@@ -12,19 +12,20 @@ handled on their own, and they get handled right.
 
 ## The problem: it accumulates invisibly, and the vapor is the killer
 
-Chemicals creep in. Nobody buys two gallons of stale gas at once — it's a pint here, a splash
-there, a can forgotten after a move, until flammable liquid sits in five places nobody planned.
+Chemicals creep in. Nobody buys ten litres of stale petrol at once — it's half a litre here, a
+splash there, a can forgotten after a move, until flammable liquid sits in five places nobody
+planned.
 
-And here's the part most people get wrong: **with gasoline, it's the vapor that burns, not the
-liquid — and the vapor is heavier than air.** It pools along the slab and rolls, ten feet or
-more, to an ignition source you never connected to the can: a water-heater pilot, a furnace, a
-fridge compressor kicking on, a switch that sparks. "Putting the gas a bit out of the way" does
-nothing. It has to leave the space, or live in the right can, low, ventilated, and far from
+And here's the part most people get wrong: **with petrol, it's the vapor that burns, not the
+liquid — and the vapor is heavier than air.** It pools along the slab and rolls, several metres,
+to an ignition source you never connected to the can: a boiler pilot, a furnace, a fridge
+compressor kicking on, a switch that sparks. "Putting the petrol a bit out of the way" does
+nothing. It has to leave the space, or live in the right can — low, ventilated, and far from
 anything that sparks.
 
-That's also why the wall between an attached garage and the house is a **fire separation** — code
-typically wants 1/2" drywall on the garage side, 5/8" Type X under living space, and a
-self-closing rated door. Don't cut holes in it for shelving, and keep that door shut.
+That's also why the wall between an attached garage and the house is a **fire barrier.** Keep it
+intact — don't cut holes in it for shelving — and keep its door shut. Building codes set how it's
+built; your only job is not to breach it.
 
 ## The method here: gather, judge, dispose
 
@@ -46,7 +47,7 @@ A call to your municipality settles any doubt, and it's free.
 
 ## What counts as hazardous
 
-- **Flammable liquids:** gasoline, diesel, lamp oil, lighter fluid, mineral spirits, turpentine.
+- **Flammable liquids:** petrol, diesel, lamp oil, lighter fluid, mineral spirits, turpentine.
 - **Paint and chemicals:** oil/enamel paint, solvent, glue, adhesives, anything with a warning label.
 - **Fluids:** waste motor oil, gear oil, antifreeze/glycol, brake fluid.
 - **Pressurized:** every spray can, even "empty" — propellant and residue remain.
@@ -58,18 +59,19 @@ Rule of thumb: a flame, skull, or corrosion symbol — or the words *danger*, *f
 doesn't belong in the trash.
 
 > **Specs: safe-storage numbers worth knowing**
-> - **Gas** only in UL-listed safety cans (the red ones), 5 gal or less each. Keep on hand only
->   what you'll burn in a season; most fire codes cap home storage around 25 gal total.
-> - **Propane and any LPG cylinder: never indoors or in an attached garage. Store outdoors,
+> - **Petrol** only in approved safety cans, **20 litres (5 gal) or less each.** Keep only what
+>   you'll burn in a season — **Swedish rules cap home petrol storage at about 25 litres without a
+>   permit** (other countries vary; the spirit is the same — keep very little).
+> - **Propane/LPG (gasol) cylinders: never indoors or in an attached garage. Store outdoors,
 >   upright, shaded.** This one rule prevents the worst accidents.
-> - Keep flammables **low** (vapor sinks), cool, and at least several feet from any pilot,
->   furnace, or panel. A flammable-liquids cabinet is ideal once you keep more than a can or two.
-> - Mount one **ABC fire extinguisher (rated ~2-A:10-B:C)** by the exit door, 4–5 ft up — where
->   you'll reach it on the way *out*, not deep in the garage behind the fire.
+> - Keep flammables **low** (vapor sinks), cool, and well away from any pilot, boiler, or
+>   electrical panel. A flammable-liquids cabinet is worth it past a can or two.
+> - Mount a **powder extinguisher (ABC, ~6 kg)** by the exit door, about **1.3 m (4–5 ft)** up —
+>   where you reach it on the way *out*, not deep in the garage behind the fire.
 
-## An example: five kinds of gas
+## An example: five kinds of petrol
 
-Erik thought he had "a little gas somewhere." Gathered onto one board, it was five containers —
+Erik thought he had "a little petrol somewhere." Gathered onto one board, it was five containers —
 two unlabeled, one in an old soda bottle, one so old it smelled of varnish. Scattered, the
 quantity had been invisible. Together, it was an open fire risk in the middle of his house.
 

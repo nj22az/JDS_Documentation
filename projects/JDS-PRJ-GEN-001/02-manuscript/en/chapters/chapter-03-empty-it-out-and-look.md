@@ -78,7 +78,7 @@ online cart. Then she emptied the garage one Saturday, category by category, and
 on the driveway.
 
 That's when she saw it. The bench she already had wasn't too small — it was buried. Under the
-piles lay nearly six feet of clear work surface she hadn't seen in years. She didn't need a new
+piles lay nearly 2 metres (6 ft) of clear work surface she hadn't seen in years. She didn't need a new
 bench. She needed to see the one she had. That's why you empty first: half the problem turns out
 to be things hiding what you already own.
 

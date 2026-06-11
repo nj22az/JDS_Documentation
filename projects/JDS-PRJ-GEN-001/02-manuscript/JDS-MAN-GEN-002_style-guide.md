@@ -77,9 +77,13 @@ Use these consistently. Pick one term and never drift.
 | återvinning / miljöstation | "soptippen", "tippen" |
 | fritidshus, uthus | "stuga" (use only when quoting people) |
 
-**Units:** the **English edition uses imperial** (in, ft, gal) for the US market; the Swedish
-edition uses metric. **Brands:** none — describe the *type* of product (wall rail, pegboard,
-French cleat), never a manufacturer.
+**Units & build conventions:** the product is **EU-first (Sweden primary), USA second.** The
+Swedish edition is **metric only**. The English edition is **metric-first with imperial in
+parentheses** — e.g., "90 cm (36 in)" — so it reads naturally in both markets. Build specs must
+be **EU-aware**: timber studs at **600 mm centres** (note "16 in in North America"), **plasterboard**
+not "drywall", concrete/brick/block walls are common, **petrol/gasol** not "gas/propane" as the
+primary term. US spelling is kept for the prose (Standardize, organize). **Brands:** none —
+describe the *type* of product (wall rail, pegboard, French cleat), never a manufacturer.
 
 ## 5. Chapter Shape (every chapter follows this)
 

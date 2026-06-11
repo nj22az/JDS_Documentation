@@ -10,11 +10,21 @@
 
 ---
 
-## 1. Purpose
+## 1. Purpose & markets
 
-To determine how *The Garage Reset* (JDS-PRJ-GEN-001) can earn as much as possible on
-Amazon KDP, and to set the pricing, format, and launch configuration for the shippable
-package. All figures are amazon.com USD rates current as of the June 2025 KDP changes.
+To set the pricing, format, and launch plan that earn the most on Amazon KDP.
+
+**Market priority: EU / Sweden first, USA second.** This is a Swedish garage book at heart, and
+the niche research (JDS-RPT-GEN-001) found *no competing Swedish title at all* — the strongest
+position is the home market. So:
+
+- **Primary:** *Städa i Garaget* (Swedish) on **amazon.se** and the EU marketplaces. Metric.
+- **Secondary:** *The Garage Reset* (English) on **amazon.com** and English EU stores. The
+  English text is the authoring master and is written metric-first (imperial in parentheses) so
+  it serves both the EU English reader and the US.
+
+KDP's royalty *structure* is the same in every marketplace (below); only the currency and the
+exact print cost differ. Figures are shown in SEK (primary) with USD for the US edition.
 
 ## 2. The KDP economics (verified rates)
 
@@ -32,14 +42,23 @@ exclusivity to Amazon for 90-day terms.
 
 ## 3. Pricing decision
 
+**Primary — Sweden / EU (Swedish edition):**
+
+| Format | List price | Notes |
+|--------|-----------|-------|
+| Kindle eBook | **69 SEK** (~€6) | Inside the 70 % band; impulse price; ≥20 % under print |
+| Paperback 5.5x8.5, ~120 pp | **189 SEK** (~€17) | Above the 70 %/lower-tier threshold; category-typical |
+| Launch week | 9–19 SEK eBook | Volume + rank + reviews, then back to 69 SEK |
+
+**Secondary — USA / international (English edition):**
+
 | Format | List price | Per-copy royalty | Why |
 |--------|-----------|------------------|-----|
-| Kindle eBook | **$6.99** | **≈ $4.86** | Inside the 70 % band; impulse price; ≥20 % under print |
-| Paperback 5.5x8.5, 109 pp | **$14.99** | **≈ $6.76** | Above the $9.99 threshold → 60 % tier; category-typical price |
-| (launch week promo) | $0.99 eBook | ≈ $0.35 | Volume + rank + reviews, then raise to $6.99 |
+| Kindle eBook | **$6.99** | **≈ $4.86** | Inside the 70 % band; ≥20 % under print |
+| Paperback 5.5x8.5, 109 pp | **$14.99** | **≈ $6.76** | Above the $9.99 threshold → 60 % tier |
 
-Break-even on a typical $200–400 self-publishing outlay (proof copies, maybe a cover
-designer) is **40–80 sales** — low risk.
+Break-even on a typical self-publishing outlay (proof copies, maybe a cover designer) is a few
+dozen sales per edition — low risk.
 
 ## 4. The profit levers (what this plan actually changes)
 
@@ -60,13 +79,13 @@ designer) is **40–80 sales** — low risk.
 6. **Series economics.** Back matter plugs the next titles (*The Shed Reset*, storage
    locker spin-off…). Series pages on Amazon cross-sell automatically; book 2 makes
    book 1 more profitable retroactively.
-7. **Second market for free.** The Swedish edition (*Städa i Garaget*) ships from the
-   same toolchain to amazon.se, where the niche research showed **no competing book at
-   all**. Different marketplace, same fixed costs already paid.
+7. **A second market for free.** The Swedish home edition owns an empty niche on amazon.se;
+   the English edition (*The Garage Reset*) then ships from the same toolchain to amazon.com
+   and international English stores — a whole second market for fixed costs already paid.
 8. **Reviews before rank.** 10–15 beta readers with the EPUB, honest reviews on launch
    week. Conversion with 10+ reviews is a different business than with zero.
 
-## 5. Revenue scenarios (eBook $6.99 / paperback $14.99, EN only)
+## 5. Revenue scenarios (per edition; shown for the US edition in USD, Sweden is comparable in SEK)
 
 | Scenario | Sales/month (e / p / KU reads) | Monthly royalty |
 |----------|-------------------------------|-----------------|

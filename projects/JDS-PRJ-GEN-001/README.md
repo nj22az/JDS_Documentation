@@ -1,13 +1,13 @@
-# The Garage Reset — Book Project
+# Städa i Garaget / The Garage Reset — Book Project
 
 | | |
 |---|---|
 | **Document No.** | JDS-PRJ-GEN-001 |
 | **Revision** | DRAFT |
-| **Date** | 2026-06-06 |
+| **Date** | 2026-06-10 |
 | **Status** | DRAFT |
 | **Author** | N. Johansson |
-| **Client** | Internal (self-published / publisher pitch) |
+| **Client** | Internal (self-published) |
 | **Project Code** | REDA |
 
 ---
@@ -15,16 +15,20 @@
 ## What Is This?
 
 A book about decluttering, cleaning out, and keeping order in the **garage, workshop, and
-storage room** — the spaces that home-organizing bestsellers leave out. Written
-**English-first** (master: *The Garage Reset*) with a **Swedish edition** (*Städa i Garaget*).
+storage room** — the spaces that home-organizing bestsellers leave out.
 
-- **English title:** *The Garage Reset — A 10-Step Program to Declutter, Organize, and Keep
-  Order in Your Garage and Workshop*
-- **Swedish title:** *Städa i Garaget — rensa, organisera och håll ordning i verkstad och förråd*
+**Two editions. Primary market: EU / Sweden; secondary: USA / international.**
 
-The book applies a real engineer's **5S method** (Sort · Set in Order · Shine · Standardize ·
-Sustain) — the order system used in professional workshops — to the one room the lifestyle
-authors avoid: the space full of tools, oil, fasteners, seasonal gear, and heavy equipment.
+- **Primary edition — Swedish:** *Städa i Garaget — rensa, organisera och håll ordning i verkstad
+  och förråd* (amazon.se / EU). Metric, Swedish build conventions.
+- **Secondary edition — English:** *The Garage Reset — A 10-Step Program to Declutter, Organize,
+  and Keep Order in Your Garage and Workshop* (amazon.com / international). Metric-first with
+  imperial in parentheses.
+
+The English text is the **authoring master** (the author's English is the stronger draft); the
+Swedish primary edition is translated and localized from it. The book applies a real engineer's
+**5S method** (Sort · Set in Order · Shine · Standardize · Sustain) — the order system used in
+professional workshops — to the one room the lifestyle authors avoid.
 
 ---
 

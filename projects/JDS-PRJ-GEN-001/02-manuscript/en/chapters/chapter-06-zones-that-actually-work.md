@@ -48,14 +48,14 @@ place you stop noticing.
 > Plan the car in first. Everything else is built around the clearances it needs.
 
 > **Specs: clearances that keep the car usable**
-> - A typical single bay is about **12 ft wide**; a two-car garage runs roughly **20 × 20 ft**.
->   A car is ~6–7 ft wide, so you don't have as much spare width as it feels like.
-> - Leave **30 in (about 2.5 ft) on the driver's side** to open the door and walk through; ~12 in
->   is enough on the far side.
-> - Keep a **3 ft clear aisle** to the exit door — it's your walkway and your fire escape.
-> - Pull forward enough to leave a **3–4 ft work strip** behind the car (a tennis ball on a string
->   from the ceiling marks the stopping point).
-> - Wall storage over the hood eats depth: keep shelves there **shallow (≤ 12 in)** or the bumper
+> - A single bay is about **3.5 m (12 ft)** wide; a two-car garage runs roughly **6 × 6 m
+>   (20 × 20 ft)**. A car is about **1.8–2 m** wide — less spare room than it feels like.
+> - Leave **75 cm (30 in) on the driver's side** to open the door and walk through; ~30 cm is
+>   enough on the far side.
+> - Keep a **1 m (3 ft) clear aisle** to the exit door — it's your walkway and your fire escape.
+> - Pull forward enough to leave a **1–1.2 m (3–4 ft) work strip** behind the car (a tennis ball on
+>   a string from the ceiling marks the stopping point).
+> - Wall storage over the hood eats depth: keep shelves there **shallow (≤ 30 cm)** or the bumper
 >   meets them.
 
 ![The five-zone map — an example layout for an ordinary garage](../../../03-assets/images/zone-map.png)
@@ -89,5 +89,5 @@ Let your own habits draw the map.
 > 5. Keep the map — next chapter you put up the walls, following this plan.
 
 > **Safety**
-> Never place the tool zone so you reach over the hood or a stack to get to it. Keep the 3 ft exit
+> Never place the tool zone so you reach over the hood or a stack to get to it. Keep the 1 m exit
 > aisle clear at all times — zones never block the path to the door.
