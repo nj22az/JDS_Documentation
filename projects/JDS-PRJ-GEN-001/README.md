@@ -1,11 +1,11 @@
-# Städa i Garaget / The Garage Reset — Book Project
+# The Garage Reset — Book Project
 
 | | |
 |---|---|
 | **Document No.** | JDS-PRJ-GEN-001 |
 | **Revision** | DRAFT |
-| **Date** | 2026-06-10 |
-| **Status** | DRAFT |
+| **Date** | 2026-06-11 |
+| **Status** | DRAFT — English active; Swedish paused |
 | **Author** | N. Johansson |
 | **Client** | Internal (self-published) |
 | **Project Code** | REDA |
@@ -17,18 +17,19 @@
 A book about decluttering, cleaning out, and keeping order in the **garage, workshop, and
 storage room** — the spaces that home-organizing bestsellers leave out.
 
-**Two editions. Primary market: EU / Sweden; secondary: USA / international.**
+**Active edition — English**, for the **UK, US, and EU** markets:
+*The Garage Reset — A 10-Step Program to Declutter, Organize, and Keep Order in Your Garage and
+Workshop.* Metric-first with imperial in parentheses; a complete **offline** solution (no app, no
+subscription, no Wi-Fi).
 
-- **Primary edition — Swedish:** *Städa i Garaget — rensa, organisera och håll ordning i verkstad
-  och förråd* (amazon.se / EU). Metric, Swedish build conventions.
-- **Secondary edition — English:** *The Garage Reset — A 10-Step Program to Declutter, Organize,
-  and Keep Order in Your Garage and Workshop* (amazon.com / international). Metric-first with
-  imperial in parentheses.
+> **Swedish edition — paused (2026-06-11).** *Städa i Garaget* exists in full (`sv/`) but its
+> language quality isn't good enough to ship; it needs a native-Swedish editorial pass before it
+> is resumed. The toolchain still supports `--lang sv`, but no further Swedish work is done until
+> the English edition is finalized and a native editor is on board.
 
-The English text is the **authoring master** (the author's English is the stronger draft); the
-Swedish primary edition is translated and localized from it. The book applies a real engineer's
-**5S method** (Sort · Set in Order · Shine · Standardize · Sustain) — the order system used in
-professional workshops — to the one room the lifestyle authors avoid.
+The book applies a real engineer's **5S method** (Sort · Set in Order · Shine · Standardize ·
+Sustain) — the order system used in professional workshops — to the one room the lifestyle authors
+avoid.
 
 ---
 
