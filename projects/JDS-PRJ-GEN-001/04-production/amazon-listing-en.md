@@ -9,7 +9,7 @@
 ## Title fields
 
 - **Book title:** The Garage Reset
-- **Subtitle:** A 10-Step Program to Declutter, Organize, and Keep Order in Your Garage and Workshop
+- **Subtitle:** A 10-Step Programme to Declutter, Organise, and Keep Order in Your Garage and Workshop
 - **Author:** Nils Johansson
 - **Edition:** 1
 - **Language:** English
@@ -24,16 +24,16 @@
 <p>You open the garage door, hunt five minutes for a screwdriver, don't find it, and pull the door
 back down with a sigh. The car is in the driveway. Again. <b>It's not your fault — and it's fixable.</b></p>
 <p>Most tidying books stop at the garage door. That's a shame, because the garage is often the room
-that steals the most time, money, and quiet guilt in the whole house — full of tools, tires, paint,
+that steals the most time, money, and quiet guilt in the whole house — full of tools, tyres, paint,
 and a lifetime of "I might need that someday."</p>
-<p><i>The Garage Reset</i> gives you what the others don't: <b>a complete 10-step program</b> that
+<p><i>The Garage Reset</i> gives you what the others don't: <b>a complete 10-step programme</b> that
 takes you from chaos to a garage that keeps itself in order. You follow one step at a time — one or
 two per weekend — and after about five weekends you're done.</p>
 <p>It's built on <b>5S</b>, the proven method professionals use in workshops and engine rooms,
 written in plain language for your own garage.</p>
 <p>This isn't a book about cleaning the garage once (that lasts three weeks, and you know it). It's
 about building a <b>system</b> that keeps the order for you.</p>
-<h3>The program at a glance:</h3>
+<h3>The programme at a glance:</h3>
 <ol>
 <li>Set the goal and take a "before" photo</li>
 <li>Empty it out and see what you really have</li>
@@ -51,7 +51,7 @@ about building a <b>system</b> that keeps the order for you.</p>
 <li>A <b>Weekend Project</b> in every chapter: concrete, do-it-now, often done in a morning</li>
 <li>A <b>tear-out checklist</b> to tick off step by step</li>
 <li>Safe handling of fuel, paint, and chemicals — the dangerous stuff that can't go in the trash</li>
-<li>Special chapters for the cabin shed, the apartment storage locker, and inheriting a workshop</li>
+<li>Special chapters for the cabin shed, the flat storage locker, and inheriting a workshop</li>
 </ul>
 <p>And no screen. No app, no subscription, no endless searching, no Wi-Fi — the whole method is
 on paper, start to finish. (The fill-in templates are a free bonus to download, never a
@@ -64,7 +64,7 @@ actually stood on the workshop floor.</p>
 ## Keywords (7)
 
 1. garage organization
-2. declutter and organize
+2. declutter and organise
 3. garage storage ideas
 4. workshop organization
 5. home organizing book
@@ -88,11 +88,11 @@ actually stood on the workshop floor.</p>
 
 - A banner of the five steps (Sort → Sustain) as an icon row
 - A before/after pegboard wall
-- A "what's inside" module listing the 15 chapters + the 10-step program
+- A "what's inside" module listing the 15 chapters + the 10-step programme
 - An author module with the engineer / 5S credibility line
 
 ## Look Inside optimisation
 
-The book opens with the Introduction (the hook) and then the Program (problem + 10 steps) — so the
+The book opens with the Introduction (the hook) and then the Programme (problem + 10 steps) — so the
 first thing a browsing buyer reads is the pain, the promise, and the exact roadmap, not a dry table
 of contents.

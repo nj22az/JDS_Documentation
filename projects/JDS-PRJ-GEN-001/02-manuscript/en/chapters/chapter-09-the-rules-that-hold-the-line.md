@@ -2,9 +2,9 @@
 
 # The Rules That Hold the Line
 
-The garage is cleared, the things have their places, and everything is labeled. And yet — if
+The garage is cleared, the things have their places, and everything is labelled. And yet — if
 nothing more is done — the mess comes back. Not in a day, but in half a year. This chapter is
-about the **Standardize** step: the few simple rules that make order hold instead of slowly
+about the **Standardise** step: the few simple rules that make order hold instead of slowly
 crumbling.
 
 A rule here isn't some dreary edict. A good rule is a decision you make once so you don't have to
@@ -13,9 +13,9 @@ make it a hundred more times.
 ## The problem: order is a habit, not an event
 
 The most common mistake after a successful cleanup is believing you're done. You're not done — you've
-created a good starting point. A garage is a room in use, and everything in use drifts toward disorder
+created a good starting point. A garage is a room in use, and everything in use drifts towards disorder
 unless something holds the line. Tools come out, boxes come in, things get bought. Each of those small
-events nudges the garage a little toward chaos.
+events nudges the garage a little towards chaos.
 
 Without rules, every nudge gets handled with a fresh decision: "where do I put this, I'm in a hurry?"
 And the in-a-hurry decision is almost always "somewhere around here," which is exactly how the mess was

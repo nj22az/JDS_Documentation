@@ -18,7 +18,7 @@ A book about decluttering, cleaning out, and keeping order in the **garage, work
 storage room** — the spaces that home-organizing bestsellers leave out.
 
 **Active edition — English**, for the **UK, US, and EU** markets:
-*The Garage Reset — A 10-Step Program to Declutter, Organize, and Keep Order in Your Garage and
+*The Garage Reset — A 10-Step Programme to Declutter, Organise, and Keep Order in Your Garage and
 Workshop.* Metric-first with imperial in parentheses; a complete **offline** solution (no app, no
 subscription, no Wi-Fi).
 
@@ -27,7 +27,7 @@ subscription, no Wi-Fi).
 > is resumed. The toolchain still supports `--lang sv`, but no further Swedish work is done until
 > the English edition is finalized and a native editor is on board.
 
-The book applies a real engineer's **5S method** (Sort · Set in Order · Shine · Standardize ·
+The book applies a real engineer's **5S method** (Sort · Set in Order · Shine · Standardise ·
 Sustain) — the order system used in professional workshops — to the one room the lifestyle authors
 avoid.
 

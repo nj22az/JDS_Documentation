@@ -2,7 +2,7 @@
 
 # The Garage Reset
 
-**A 10-Step Program to Declutter, Organize, and Keep Order in Your Garage and Workshop**
+**A 10-Step Programme to Declutter, Organise, and Keep Order in Your Garage and Workshop**
 
 Copyright © 2026 Nils Johansson
 

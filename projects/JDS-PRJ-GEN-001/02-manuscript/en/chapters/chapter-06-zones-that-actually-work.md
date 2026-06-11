@@ -31,10 +31,10 @@ Keep it lean; everything that isn't the car comes off the floor so the car fits.
 **Tool zone.** Hand tools, power tools, the bench. Put it under the best light, because this is
 where you actually work.
 
-**Garden zone.** Rakes, spades, hose, pots. Park it by the door to the yard so you don't drag a
+**Garden zone.** Rakes, spades, hose, pots. Park it by the door to the garden so you don't drag a
 muddy spade through the whole space.
 
-**Seasonal zone.** Off-season tires, holiday boxes, cushions. Send it to the hard-to-reach
+**Seasonal zone.** Off-season tyres, holiday boxes, cushions. Send it to the hard-to-reach
 spots — high and far back — because you touch it twice a year.
 
 **Recycling zone.** A small station by the overhead door for what's leaving: cardboard, returns,
@@ -55,7 +55,7 @@ place you stop noticing.
 > - Keep a **1 m (3 ft) clear aisle** to the exit door — it's your walkway and your fire escape.
 > - Pull forward enough to leave a **1–1.2 m (3–4 ft) work strip** behind the car (a tennis ball on
 >   a string from the ceiling marks the stopping point).
-> - Wall storage over the hood eats depth: keep shelves there **shallow (≤ 30 cm)** or the bumper
+> - Wall storage over the bonnet eats depth: keep shelves there **shallow (≤ 30 cm)** or the bumper
 >   meets them.
 
 ![The five-zone map — an example layout for an ordinary garage](../../../03-assets/images/zone-map.png)
@@ -89,5 +89,5 @@ Let your own habits draw the map.
 > 5. Keep the map — next chapter you put up the walls, following this plan.
 
 > **Safety**
-> Never place the tool zone so you reach over the hood or a stack to get to it. Keep the 1 m exit
+> Never place the tool zone so you reach over the bonnet or a stack to get to it. Keep the 1 m exit
 > aisle clear at all times — zones never block the path to the door.

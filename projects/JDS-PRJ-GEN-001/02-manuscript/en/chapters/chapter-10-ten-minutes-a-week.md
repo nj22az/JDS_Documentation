@@ -59,7 +59,7 @@ thought about it.
 ## Hook the round onto something you already do
 
 The hardest part of a new habit is remembering it. The trick is not to rely on memory, but to hook the
-round onto something you already do without thinking. If you take out the trash on Sundays, do the round
+round onto something you already do without thinking. If you take out the bin on Sundays, do the round
 right after. If you wash the car once a month, finish with a round. When the new habit rides along with an
 old one, you never have to remember it separately — it comes along for the ride.
 
@@ -80,7 +80,7 @@ spares you the equivalent of the dentist's chair. Keep it small enough that it n
 skipping — the round you actually do is the only one that counts.
 
 > **Workshop Rule**
-> The weekly round resets, it doesn't renovate. Big problems are noted now and solved in spring and fall.
+> The weekly round resets, it doesn't renovate. Big problems are noted now and solved in spring and autumn.
 
 > **Weekend Project: schedule the round**
 > 1. Pick a fixed time each week when you're home and near the garage.

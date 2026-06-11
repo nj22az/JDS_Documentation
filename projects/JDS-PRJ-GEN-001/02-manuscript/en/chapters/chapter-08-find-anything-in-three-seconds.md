@@ -29,7 +29,7 @@ Three simple moves make almost any garage searchable in three seconds.
 
 **Label everything closed.** Every bin, tote, and jar you can't see straight through gets a label on
 the front. Write it large enough to read from a few feet away: "Screws," "Extension cords," "Car
-care." An unlabeled bin is a hiding place; a labeled bin is storage.
+care." An unlabelled bin is a hiding place; a labelled bin is storage.
 
 **Draw outlines on the pegboard.** Paint or trace a silhouette behind each tool on the board. Now you
 see at a glance both where the hammer hangs and that it's missing when it's gone. It's called a shadow
@@ -41,9 +41,9 @@ so the contents show without opening anything. What you can see, you grab; what 
 you forget you own.
 
 **Group the small stuff.** Screws, nails, anchors, and fittings are impossible to keep in order one
-by one. Collect them in small labeled jars or compartments by type and size, so that "the right screw"
+by one. Collect them in small labelled jars or compartments by type and size, so that "the right screw"
 is a place, not a hunt. A single drawer of mixed small parts is one of the most common time-sinks in a
-garage — break it into labeled compartments and it stops swallowing your afternoons.
+garage — break it into labelled compartments and it stops swallowing your afternoons.
 
 And then the decisive test: **the put-it-back test.** A system isn't judged by how easy it is to find a
 thing, but by how easy it is to return it. If hanging the screwdriver back is harder than tossing it on
@@ -55,9 +55,9 @@ the bench, it ends up on the bench. Make the return trip shortest, and order kee
 > **Specs: the shadow board**
 > - Standard pegboard is **6 mm hardboard with holes about 25 mm apart**, on a **~12 mm standoff**
 >   so the hooks seat. Thin 3 mm board sags — use 6 mm.
-> - Heavy tools (big wrenches, a mallet) pull pegboard hooks out — hang those on a **French cleat**
+> - Heavy tools (big spanners, a mallet) pull pegboard hooks out — hang those on a **French cleat**
 >   or a metal track instead.
-> - Small parts go in **divided bins labeled by size** ("4 × 30 mm screws"), sorted by type and
+> - Small parts go in **divided bins labelled by size** ("4 × 30 mm screws"), sorted by type and
 >   length — not jumbled in one coffee tin.
 
 ![The shadow board — an outline behind every tool shows what's missing at a glance](../../../03-assets/images/pegboard.png)
@@ -66,16 +66,16 @@ the bench, it ends up on the bench. Make the return trip shortest, and order kee
 
 A father named Mark noticed his newly ordered garage stayed neat — until anyone else needed something.
 Then it got torn apart, because only he knew where everything was. He put up a shadow board with
-outlines and labeled every bin in large, clear letters.
+outlines and labelled every bin in large, clear letters.
 
 The difference came in an unexpected way: his teenagers started putting tools back correctly on their
 own. Not because they'd suddenly become tidy, but because the empty outline showed exactly where the
-hammer went, and the labeled bin said exactly what lived there. The order stopped being his private
+hammer went, and the labelled bin said exactly what lived there. The order stopped being his private
 knowledge and became something the whole house could read at a glance.
 
 ## Why visible beats remembered
 
-It's worth sitting with why visibility changes behavior. When the right place is visible, the wrong
+It's worth sitting with why visibility changes behaviour. When the right place is visible, the wrong
 action becomes the harder one: putting the hammer on a blank outline is the natural move, and tossing it
 on the bench beside that blank outline suddenly feels wrong in a way it didn't before. You don't have to
 ask anyone to keep order. You've built a room that quietly asks for it itself, and says thank you every
@@ -87,7 +87,7 @@ you're standing there hunting for it. A system that shows its own gaps is a syst
 because you see the problem while it's still small — one thing out of place, not twenty.
 
 And it lasts. Sorting and zoning are one-time efforts; visibility is what keeps the order alive long
-after the cleanup glow fades. A labeled, outlined garage forgives a tired hand because the right
+after the cleanup glow fades. A labelled, outlined garage forgives a tired hand because the right
 place is always staring you in the face — the closest thing there is to a garage that tidies itself,
 for the price of a marker, some tape, and an hour.
 

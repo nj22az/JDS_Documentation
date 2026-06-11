@@ -1,9 +1,9 @@
 <!-- The Toolkit · The Garage Reset -->
 
-# The Toolkit: Lists, Logs & Your Maintenance Program
+# The Toolkit: Lists, Logs & Your Maintenance Programme
 
 A good engineer doesn't trust memory — he keeps records. The difference between a garage that
-*was* organized and one that *stays* organized is a handful of simple lists and a rhythm you follow.
+*was* organised and one that *stays* organised is a handful of simple lists and a rhythm you follow.
 
 And here is the quiet promise of this whole book: **you need nothing but these pages and a pen.**
 No app, no account, no subscription, no Wi-Fi, no video to pause and rewind. Every list in this
@@ -25,7 +25,7 @@ Three lists turn a tidy garage into a managed one:
 - **The hazardous-materials log** — what fuel, paint, and chemicals you keep, how much, and when
   each was bought or thrown out. It keeps the dangerous pile small, legal, and known (chapter 5).
 
-## The continuous maintenance program
+## The continuous maintenance programme
 
 A garage doesn't stay in order by luck or by rescue missions — it stays in order on a rhythm:
 
@@ -33,15 +33,15 @@ A garage doesn't stay in order by luck or by rescue missions — it stays in ord
 |---------|------|-------------|
 | **Weekly** | 10 min | Put things back · recycling out · wipe the bench |
 | **Monthly** | 15 min | A **fire round** · scan for new clutter · note low consumables |
-| **Spring & Fall** | ½ day | Seasonal swap + a Sort pass + hazard check + a **safety round** |
+| **Spring & Autumn** | ½ day | Seasonal swap + a Sort pass + hazard check + a **safety round** |
 | **Yearly** | 1–2 h | Walk the inventory · update the journals · photograph valuables · test alarms & GFCI |
 
 > **Often missed — fold these into the yearly review**
 > - A **fire extinguisher** by the door, gauge in the green, and **smoke / CO alarms** that work.
-> - **GFCI / RCD** on garage outlets — the trip switch that cuts power in a fault; press its test
+> - **GFCI / RCD** on garage sockets — the trip switch that cuts power in a fault; press its test
 >   button, don't just assume it works.
 > - **Insurance photos + serial numbers** of valuable tools (your inventory already holds them).
-> - **Manuals, receipts, and warranties** in one labeled folder.
+> - **Manuals, receipts, and warranties** in one labelled folder.
 > - A **consumables reorder list** so you never run out mid-job.
 > - **Damp and security**: condensation control, a sound door, a decent lock.
 
@@ -60,10 +60,10 @@ monthly, and always before you lock up after hot or oily work. Tick each:
 - Battery chargers on a hard, non-flammable surface, not left running unattended
 - Heaters and pilot lights clear of where fuel vapour collects (low down)
 - Garage-to-house fire door shut, not propped open
-- Nothing stored against the electrical panel
+- Nothing stored against the fuse box
 - After grinding / welding: area cool, nothing smouldering, extinguisher to hand
 
-## The safety round — spring & fall
+## The safety round — spring & autumn
 
 The workshop's *skyddsrond*: a slower look for what could hurt someone. Write down each finding *and
 a date to fix it* — that's what makes it a round and not a glance:
@@ -79,7 +79,7 @@ a date to fix it* — that's what makes it a round and not a glance:
 - Ventilation for fumes — never run an engine in a closed garage (CO)
 - Ladders and steps sound and rated for the load
 - Chemicals and sharp tools out of children's reach
-- Under a vehicle: rated jack stands, wheels chocked — never a jack alone
+- Under a vehicle: rated axle stands, wheels chocked — never a jack alone
 
 ## The lists — rule them onto a page
 
@@ -91,7 +91,7 @@ You can make every one of these in any notebook. Here is the layout:
 - **Hazardous-materials log** — six columns: *Product · Type · Qty · Bought · Use-by · Disposed.*
 - **Zone map** — draw the garage from above and mark the five zones: car, tools, garden, seasonal,
   recycling.
-- **Maintenance log** — under the program table above, rule three columns: *Date · What was done ·
+- **Maintenance log** — under the programme table above, rule three columns: *Date · What was done ·
   By* — and sign each pass.
 
 ## Bonus: ready-made printables
@@ -108,9 +108,9 @@ need these to use the book; they're purely for convenience.**
 
 > ![Fresh copy: zone-map worksheet](../../../03-assets/images/qr/qr-zone.png){: .qr } *Zone-map worksheet* · thegaragereset.com/print/zone.pdf
 
-> ![Fresh copy: spring/fall pass](../../../03-assets/images/qr/qr-seasonal.png){: .qr } *Spring / fall pass* · thegaragereset.com/print/seasonal.pdf
+> ![Fresh copy: spring/autumn pass](../../../03-assets/images/qr/qr-seasonal.png){: .qr } *Spring / autumn pass* · thegaragereset.com/print/seasonal.pdf
 
-> ![Fresh copy: maintenance program](../../../03-assets/images/qr/qr-program.png){: .qr } *Maintenance program & log* · thegaragereset.com/print/program.pdf
+> ![Fresh copy: maintenance programme](../../../03-assets/images/qr/qr-programme.png){: .qr } *Maintenance programme & log* · thegaragereset.com/print/programme.pdf
 
 > ![Fresh copy: fire round](../../../03-assets/images/qr/qr-fireround.png){: .qr } *Fire round* · thegaragereset.com/print/fireround.pdf
 

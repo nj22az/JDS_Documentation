@@ -33,7 +33,7 @@ LANG_CONFIG = {
         "root": MANUSCRIPT / "en",
         "chapter_glob": "chapter-*.md",
         "title": "The Garage Reset",
-        "subtitle": "A 10-Step Program to Declutter, Organize, and Keep Order "
+        "subtitle": "A 10-Step Programme to Declutter, Organise, and Keep Order "
                     "in Your Garage and Workshop",
         "language": "en",
         "identifier": "the-garage-reset-2026",

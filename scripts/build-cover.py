@@ -37,8 +37,8 @@ LANG_CONFIG = {
     "en": {
         "title1": "THE GARAGE",
         "title2": "RESET",
-        "subtitle": "Declutter, organize, and keep order\nin your garage and workshop",
-        "kicker": "A 10-STEP PROGRAM FOR AN ORDERLY GARAGE",
+        "subtitle": "Declutter, organise, and keep order\nin your garage and workshop",
+        "kicker": "A 10-STEP PROGRAMME FOR AN ORDERLY GARAGE",
         "author": "NILS JOHANSSON",
         "output": PRODUCTION / "cover-en.jpg",
     },

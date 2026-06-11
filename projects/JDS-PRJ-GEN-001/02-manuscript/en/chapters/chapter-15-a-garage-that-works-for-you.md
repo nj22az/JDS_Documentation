@@ -32,7 +32,7 @@ worth repeating, because it's the only thing you need to remember from here.
 **Ten minutes a week.** Reset, take out, wipe the bench. Nothing more. It's the habit that carries
 everything else.
 
-**Spring and fall.** Two longer passes a year, tied to the seasonal swap, that clear while you're already
+**Spring and autumn.** Two longer passes a year, tied to the seasonal swap, that clear while you're already
 at it.
 
 **The four rules.** Back right away, one in one out, empty packaging out, place first. They keep the mess
@@ -63,8 +63,8 @@ years. As he put it: the pile in your head is always bigger than the pile in the
 ## The method goes with you
 
 What you've learned in this book doesn't stay in the garage. The five steps — **Sort, Set in Order, Shine,
-Standardize, Sustain** — aren't a trick for one room, but a way of thinking about any space at all. The
-storage closet, the wardrobe, the overflowing kitchen cupboard: the same five steps work everywhere. You
+Standardise, Sustain** — aren't a trick for one room, but a way of thinking about any space at all. The
+storage wardrobe, the wardrobe, the overflowing kitchen cupboard: the same five steps work everywhere. You
 haven't just put one room in order. You've learned a method.
 
 And the method carries a simple truth worth taking out into the rest of your life: clutter is almost never a
@@ -83,7 +83,7 @@ step a weekend, and you know exactly how to keep it that way. It isn't a project
 living, from here on. Close the door. The garage is yours again — and this time, you're going to keep it.
 
 > **Weekend Project: your maintenance plan on one card**
-> 1. Write your maintenance on a card: the weekly round, the spring and fall pass, the four rules.
+> 1. Write your maintenance on a card: the weekly round, the spring and autumn pass, the four rules.
 > 2. Hang it visibly in the garage, beside the five steps and the house rules.
 > 3. Put the weekly round and the next seasonal pass in the calendar now, not later.
 > 4. Walk one last round and enjoy the room you built — this is the baseline you maintain.

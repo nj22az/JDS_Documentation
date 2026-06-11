@@ -48,12 +48,12 @@ words, always this order, always bold on first use in a chapter:
 | 1 | **Sort** | **Sortera** | Keep / bin / move elsewhere |
 | 2 | **Set in Order** | **Systematisera** | A place for everything (zones, shelves, boards) |
 | 3 | **Shine** | **Städa** | A clean floor and bench as the baseline |
-| 4 | **Standardize** | **Standardisera** | Make the order the default with simple rules |
+| 4 | **Standardise** | **Standardisera** | Make the order the default with simple rules |
 | 5 | **Sustain** | **Säkra** | Keep it alive with a short routine |
 
 The English labels are the canonical **5S** terms used in real workshops — name 5S explicitly;
-it's the author's credibility hook. Use US spelling ("Standardize", not "Standardise"). Do not
-invent synonyms for the labels. The five S-words are the brand.
+it's the author's credibility hook. The English edition is **International / British English**, so
+use British spelling ("Standardise", "organise", "colour", "tyre", "autumn", "flat") — not US.
 
 Box labels per edition: **Weekend Project** / Helgprojektet, **Workshop Rule** / Verkstadsregeln,
 **Safety** / Säkerhet, **Inherited & Hard** / Ärvt & svårt. Required section headings:
@@ -77,13 +77,13 @@ Use these consistently. Pick one term and never drift.
 | återvinning / miljöstation | "soptippen", "tippen" |
 | fritidshus, uthus | "stuga" (use only when quoting people) |
 
-**Units & build conventions:** the product is **EU-first (Sweden primary), USA second.** The
-Swedish edition is **metric only**. The English edition is **metric-first with imperial in
-parentheses** — e.g., "90 cm (36 in)" — so it reads naturally in both markets. Build specs must
-be **EU-aware**: timber studs at **600 mm centres** (note "16 in in North America"), **plasterboard**
-not "drywall", concrete/brick/block walls are common, **petrol/gasol** not "gas/propane" as the
-primary term. US spelling is kept for the prose (Standardize, organize). **Brands:** none —
-describe the *type* of product (wall rail, pegboard, French cleat), never a manufacturer.
+**Language & units:** the English edition is **International / British English** for the **UK, US,
+and EU** markets — British spelling (organise, colour, labelled, centre) and British vocabulary
+(**tyre, autumn, flat, petrol, plasterboard, rubbish/bin**). **Metric-first with imperial in
+parentheses** — e.g., "90 cm (36 in)". Build specs are EU-aware: timber studs at **600 mm centres**
+(note "16 in in North America"), concrete/brick/block walls common. **Brands:** none — describe the
+*type* of product (wall rail, pegboard, French cleat), never a manufacturer. *(The Swedish edition,
+`sv/`, is paused pending a native-Swedish editorial pass.)*
 
 ## 5. Chapter Shape (every chapter follows this)
 

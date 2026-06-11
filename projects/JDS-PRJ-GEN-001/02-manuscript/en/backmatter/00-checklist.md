@@ -1,6 +1,6 @@
 <!-- Checklist · The Garage Reset -->
 
-# Checklist: Your 10-Step Program
+# Checklist: Your 10-Step Programme
 
 Tear out this page, or photograph it, and hang it in the garage. Tick off one step at a time.
 There's no rush — one or two steps a weekend is plenty.
@@ -25,13 +25,13 @@ There's no rush — one or two steps a weekend is plenty.
 
 - [ ] **Step 8 — Shine it.** Sweep the floor, wipe the bench. Set the baseline. *(ch. 1–2)*
 
-**Standardize**
+**Standardise**
 
 - [ ] **Step 9 — Set the rules.** Back right away · one in, one out · empty packaging out · place first. *(ch. 9)*
 
 **Sustain**
 
-- [ ] **Step 10 — Sustain it.** Ten minutes a week. Spring and fall. *(ch. 10–11)*
+- [ ] **Step 10 — Sustain it.** Ten minutes a week. Spring and autumn. *(ch. 10–11)*
 
 ---
 

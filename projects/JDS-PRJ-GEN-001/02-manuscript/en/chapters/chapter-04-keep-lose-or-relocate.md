@@ -37,14 +37,14 @@ You divide everything into three piles. To keep it moving, each pile needs one s
 don't negotiate with yourself over every object.
 
 **Keep.** A thing stays if you've used it in the last year, or if it belongs to a job you genuinely
-do — not one you dream about. Tools you actually reach for. Tires for the car you actually own.
+do — not one you dream about. Tools you actually reach for. Tyres for the car you actually own.
 Whatever stays will get a fixed place later, when we set things in order.
 
 **Lose.** Here goes everything you haven't used in over a year and have no concrete plan for.
-"Lose" doesn't always mean the dump — most of it can be sold, given away, or recycled. Someone else
+"Lose" doesn't always mean the tip — most of it can be sold, given away, or recycled. Someone else
 getting use out of your unused sander isn't waste; it's the opposite.
 
-**Relocate.** Some things aren't junk, they just live in the wrong room. The summer tires belong in
+**Relocate.** Some things aren't junk, they just live in the wrong room. The summer tyres belong in
 the garage, but the holiday decorations might belong in the attic, and the tennis racket indoors.
 The relocate pile is things to keep — just not here.
 
@@ -66,18 +66,18 @@ touched it in a year and neither can say what it's *for*, it goes.
 
 ## "Lose" doesn't mean "throw away"
 
-The word "lose" scares people, because it sounds like everything heads to the dump. It doesn't.
+The word "lose" scares people, because it sounds like everything heads to the tip. It doesn't.
 "Lose" just means the thing leaves your garage — where it goes next depends on what it is.
 
 A lot can be **sold.** Whole tools, machines, and gear in good shape have a resale value, and an
 evening on a local marketplace often buys you both space and a little cash.
 
 More can be **given away.** What isn't worth the trouble of selling is often a real gift to someone
-else — a charity shop, a neighbor who's just moved out on their own, a community workshop. Your
+else — a charity shop, a neighbour who's just moved out on their own, a community workshop. Your
 unused sander going to work in someone else's shop is the very opposite of waste.
 
 The rest gets **recycled.** Broken metal, snapped timber, and scrap plastic go to the recycling
-center, sorted. Only a small fraction is genuinely garbage.
+centre, sorted. Only a small fraction is genuinely rubbish.
 
 This split makes the decision easier, because "lose" stops meaning "throw away something useful"
 and starts meaning "let the thing be useful somewhere else." That's a completely different feeling,
@@ -99,8 +99,8 @@ solved itself, because time answered the question he couldn't.
 
 > **Inherited & Hard**
 > Some things carry memories — your grandfather's plane, a gift you never used. They're the
-> hardest, and you don't have to force a decision. But ask an honest question: do you honor the
-> memory by leaving the thing buried in a pile? Often it's better honored on display, or passed to
+> hardest, and you don't have to force a decision. But ask an honest question: do you honour the
+> memory by leaving the thing buried in a pile? Often it's better honoured on display, or passed to
 > someone who'll use it. Keep what means something — but choose it, don't just let it stay.
 
 > **Weekend Project: three piles, one category**
@@ -111,5 +111,5 @@ solved itself, because time answered the question he couldn't.
 > 5. Haul the "lose" pile out this same weekend if you can — otherwise it wanders back in.
 
 > **Safety**
-> Don't put paint, solvent, batteries, or old petrol in the "lose" pile for ordinary trash. They
+> Don't put paint, solvent, batteries, or old petrol in the "lose" pile for ordinary rubbish. They
 > have their own rules, and the whole next chapter is about them. Set them aside for now.

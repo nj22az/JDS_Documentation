@@ -20,10 +20,10 @@ A warm, practical handbook that does for the **garage, workshop, and storage roo
 bestsellers did for the home — but written by a real engineer who applies **5S workshop
 discipline** to the job.
 
-- **English title (master):** *The Garage Reset* — A 10-Step Program to Declutter, Organize,
+- **English title (master):** *The Garage Reset* — A 10-Step Programme to Declutter, Organise,
   and Keep Order in Your Garage and Workshop
 - **Swedish title:** *Städa i Garaget* — rensa, organisera och håll ordning i verkstad och förråd
-- **Method words:** EN **Sort · Set in Order · Shine · Standardize · Sustain** (real 5S);
+- **Method words:** EN **Sort · Set in Order · Shine · Standardise · Sustain** (real 5S);
   SV Sortera · Systematisera · Städa · Standardisera · Säkra
 - **Format:** project-by-project, do-it-this-weekend
 - **Voice:** plain, encouraging, hands-on; method over product brands
@@ -43,9 +43,9 @@ By the end, the reader has cleared the space once, built a simple **system** tha
 itself, and knows the short routine that stops it sliding back. Not a one-time blitz — a
 space that stays usable.
 
-## 3a. The Reader's Roadmap — the 10-Step Program
+## 3a. The Reader's Roadmap — the 10-Step Programme
 
-The book is sold and used as a **10-step program**, laid out up front in
+The book is sold and used as a **10-step programme**, laid out up front in
 `frontmatter/03-programmet.md` and as a tear-out checklist in `backmatter/00-checklista.md`.
 This is the "how it's used" spine: the reader follows ten numbered, concrete steps (one or two
 per weekend, ~5 weekends total), each mapped to the chapter that details it. The 5S method
@@ -120,7 +120,7 @@ room. It is 5S, translated out of the factory and into the home garage:
 
 12. **"Fritidshuset och uthuset"** (The holiday home and the shed) — damp, mice, the
     inherited-gear problem, the rarely-visited space.
-13. **"Förrådet i lägenheten"** (The apartment storage unit) — small, shared, often a
+13. **"Förrådet i lägenheten"** (The flat storage unit) — small, shared, often a
     cage in a basement; making little space honest.
 14. **"När du ärver en verkstad"** (When you inherit a workshop) — the döstädning case,
     handled with respect and a plan.

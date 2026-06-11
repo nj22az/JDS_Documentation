@@ -11,7 +11,7 @@ everything that follows.
 
 ## The problem: good advice you can't actually follow
 
-Most tidying advice doesn't fail because it's wrong. It fails because it's too big. "Organize
+Most tidying advice doesn't fail because it's wrong. It fails because it's too big. "Organise
 the garage" isn't a task — it's a whole project disguised as a sentence. Your brain sees the
 size of it, gets tired in advance, and pulls the door back down.
 
@@ -53,24 +53,24 @@ looks like empty. A clean floor and a clean bench should become the normal state
 you achieve once a year. This is **Shine**, and it's quick — if the first two steps are done, it
 goes fast.
 
-### 4. Standardize
+### 4. Standardise
 
 A system only you understand collapses the moment you're in a hurry. So you set a few simple
 rules that make order the default: the tool goes back right away, the empty box goes out the same
-evening, every new thing earns a place before it's allowed in. This is **Standardize** — you make
+evening, every new thing earns a place before it's allowed in. This is **Standardise** — you make
 it easy to do the right thing.
 
 ### 5. Sustain
 
 Finally, you keep the system alive. Not with big efforts, but with a short routine: ten minutes a
-week and two longer passes a year, spring and fall. This is **Sustain**, and it's the difference
+week and two longer passes a year, spring and autumn. This is **Sustain**, and it's the difference
 between a garage that was clean in March and a garage that's still clean in November.
 
 ## How long does it take, and where do you start?
 
 You always start with **Sort**, no matter how the garage looks. It can feel wrong — you'd love to
 hang a shelf first, because that's visible and satisfying. But a shelf you put up before sorting
-just fills with the same things you should have gotten rid of. First you decide what stays. Then,
+just fills with the same things you should have got rid of. First you decide what stays. Then,
 and only then, you decide where it lives.
 
 How long? Figure roughly one weekend per step — about five weekends for an ordinary one-car
@@ -83,13 +83,13 @@ zone through all five steps, then the next. What matters isn't the size of the b
 you take each bite through the steps in order.
 
 One more thing: the steps are a sequence, but they're also a loop. When you reach **Sustain** and
-a season has passed, you start again in miniature — a quick **Sort** each spring and fall keeps
+a season has passed, you start again in miniature — a quick **Sort** each spring and autumn keeps
 the garage from refilling. You don't go through the five steps once in a lifetime. You go through
 them in earnest once, and then in miniature twice a year.
 
 ## An example: one step a weekend beats a hero weekend
 
-Two neighbors tackled their garages the same month. The first took a whole weekend off, dragged
+Two neighbours tackled their garages the same month. The first took a whole weekend off, dragged
 everything out onto the driveway, and tried to do it all at once. By Sunday night he was wrecked,
 half the pile was still there, and the rain came. The second did one step per weekend: a weekend
 to **Sort**, a weekend to **Set in Order**, and so on. After five weekends his garage was done —
@@ -104,7 +104,7 @@ carry it all back in before he'd decided anything — so it landed at random, ex
 > One step a weekend beats a hero weekend. The garage is a build, not a race.
 
 > **Weekend Project: put the five steps where you'll see them**
-> 1. Write the five words on a card: Sort, Set in Order, Shine, Standardize, Sustain.
+> 1. Write the five words on a card: Sort, Set in Order, Shine, Standardise, Sustain.
 > 2. Tape the card inside the garage door, at eye level.
 > 3. Mark the step you're on right now. For most people, that's Sort.
 > 4. Every time you walk in, you'll know in a second where you are in the build.
@@ -116,7 +116,7 @@ carry it all back in before he'd decided anything — so it landed at random, ex
 ## What you need to begin
 
 The method needs no expensive purchases — that's the whole point. Before your first weekend you
-need only a few simple things, and you probably have most of them already: trash bags and boxes
+need only a few simple things, and you probably have most of them already: bin bags and boxes
 to sort into (label them with a marker right away), a wide marker for writing dates and contents,
 a couple of tarps for laying things out on a wet driveway, work gloves and good light, and a
 clear surface to sort on — half the garage floor, the driveway, or the carport.

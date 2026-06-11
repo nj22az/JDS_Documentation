@@ -12,7 +12,7 @@ see what you actually have — all of it, gathered together, in daylight.
 ## The problem: you can't see your own garage anymore
 
 When something has sat in the same spot for long enough, you stop seeing it. The brain saves
-effort by ignoring whatever never changes. The shelf in the corner becomes a gray smudge. The
+effort by ignoring whatever never changes. The shelf in the corner becomes a grey smudge. The
 box under the bench becomes part of the wall. You can walk past the same broken string trimmer
 for three years without once thinking the thought: *that needs to go.*
 
@@ -52,7 +52,7 @@ out and looking is the groundwork that makes the decisions easy.
 ## Three kinds of things that always hide
 
 As you empty out, three kinds of things will surface that you'd half-forgotten existed. It helps
-to recognize them in advance.
+to recognise them in advance.
 
 The first is **duplicates.** Spread across the garage they looked like one of each; gathered, they
 turn out to be three sets of spark plugs, four tape measures, a heap of half-full screw jars.
@@ -64,7 +64,7 @@ to fix up for a kid who's now grown and moved out. The box of parts for somethin
 remember. Dead projects take up a lot of room and a lot of guilt, which is exactly why they're
 buried deepest.
 
-The third is **things that were never yours.** A neighbor's ladder. A box from a friend's move. A
+The third is **things that were never yours.** A neighbour's ladder. A box from a friend's move. A
 thing you're storing for someone who's forgotten it as thoroughly as you have. This is often the
 easiest of all to let go of — it just needs to go back where it belongs.
 

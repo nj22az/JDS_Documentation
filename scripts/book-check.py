@@ -40,8 +40,8 @@ LANG_CONFIG = {
     "en": {
         "chapters_dir": MANUSCRIPT / "en" / "chapters",
         "glob": "chapter-*.md",
-        "method_words": ["Sort", "Set in Order", "Shine", "Standardize", "Sustain"],
-        "misspellings": ["Set In order", "Standardise"],  # keep US spelling
+        "method_words": ["Sort", "Set in Order", "Shine", "Standardise", "Sustain"],
+        "misspellings": ["Set In order", "Standardize"],  # British edition: -ise
         "required_sections": ["## The problem"],
         "required_box": "Weekend Project",
         "safety_triggers": ["petrol", "gasoline", "solvent", "chemical",

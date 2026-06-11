@@ -40,7 +40,7 @@ to one side, gathered, with no decision attached. You shouldn't have to rule on 
 the same day you carry out old waste oil. The memory things get their own pile and their own calmer hour.
 
 **Choose a few to keep — with meaning.** From the charged pile, pick a small number of things to truly
-treasure, ideally ones you can use or display. A plane on a shelf in your own garage honors him more than
+treasure, ideally ones you can use or display. A plane on a shelf in your own garage honours him more than
 twenty tools buried in a box you never open. Choosing isn't betraying the memory — it's giving the memory
 a place where it shows.
 
@@ -49,7 +49,7 @@ a craftsman who receives his tools and uses them carries them forward. Tools ali
 are often a more beautiful continuation than a box in an attic.
 
 > **Workshop Rule**
-> One thing on a shelf, seen and used, honors the memory more than twenty buried in a box.
+> One thing on a shelf, seen and used, honours the memory more than twenty buried in a box.
 
 ## An example: three tools and a photograph
 
@@ -76,7 +76,7 @@ easier and more beautiful, and another person helps you see what truly matters a
 release.
 
 And remember you don't have to carry the whole collection's weight. That someone gathered things over a
-lifetime doesn't mean you must steward all of it. You honor her by keeping what holds her memory — not by
+lifetime doesn't mean you must steward all of it. You honour her by keeping what holds her memory — not by
 letting her entire workshop weigh on you. Choose with the heart, release with a clear conscience, and let
 the tools live on with someone who'll use them.
 
@@ -88,9 +88,9 @@ the tools live on with someone who'll use them.
 
 > **Safety**
 > Older workshops often hide dangerous leftovers: old petrol and solvents, lead batteries, unknown
-> chemicals in unlabeled cans, sometimes asbestos in very old materials. Treat unlabeled and unknown things
+> chemicals in unlabelled cans, sometimes asbestos in very old materials. Treat unlabelled and unknown things
 > as hazardous waste, lift heavy things with your legs, and get help for truly heavy machines. Take the
-> dangerous things to the hazardous-waste drop-off, never the household trash.
+> dangerous things to the hazardous-waste drop-off, never the household waste.
 
 > **Weekend Project: the first pass in an inherited workshop**
 > 1. Set aside a day, and bring someone to help if you can — it's easier together.

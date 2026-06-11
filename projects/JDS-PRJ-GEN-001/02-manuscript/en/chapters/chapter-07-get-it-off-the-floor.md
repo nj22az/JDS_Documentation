@@ -18,7 +18,7 @@ wall the easy place and the habit flips: things go back up, and the floor stays 
 
 ## The method here: anchor it right, then choose the system
 
-Before what to hang, learn what holds — because a shelf that lets go with tires on it is the most
+Before what to hang, learn what holds — because a shelf that lets go with tyres on it is the most
 dangerous thing in this book. **How you fasten depends entirely on what the wall is made of.**
 
 - **Into studs (timber-framed wall).** The strong option. Studs sit at **600 mm centres** (16 in
@@ -36,7 +36,7 @@ Now the wall system. Three earn their place:
   seat; figure a few pounds per hook, not more.
 - **Slatwall** — modular panels that spread load across the wall; cleaner and stronger than
   pegboard, more money.
-- **The French cleat** — the tradesman's favorite, and the best value. Rip an **18 mm plywood
+- **The French cleat** — the tradesman's favourite, and the best value. Rip an **18 mm plywood
   strip at a 45° bevel**, screw the wall half into **every stud**, and hang matching cleats on
   hooks, shelves, and holders that lift off and reposition in seconds. It holds serious weight and
   reconfigures forever. If you build one thing, build a cleat wall.
@@ -92,5 +92,5 @@ handyman. The method doesn't care *how* the storage goes up; it cares that thing
 
 > **Safety**
 > Heavy load goes into studs, block, or concrete — never plasterboard alone. Don't hang anything heavy
-> over the car or a work spot. Lift tires and bins with your legs, and use a ladder rather than
+> over the car or a work spot. Lift tyres and bins with your legs, and use a ladder rather than
 > stretching on tiptoe with a load overhead.

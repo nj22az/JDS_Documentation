@@ -1,0 +1,30 @@
+Date,Phase,Area,Change,Type,Edition,Status
+2026-06-05,Research & setup,Project (README),"Project created — charter, folder structure, status",Create,—,Done
+2026-06-05,Research & setup,Market research (RPT-GEN-001),"Niche validated: proven category, no competing Swedish title, real demand",Research,—,Done
+2026-06-05,Research & setup,Outline (MAN-GEN-001),"Concept, 5-step method, 15-chapter outline",Create,—,Done
+2026-06-05,Research & setup,Style guide (MAN-GEN-002),"Voice, fixed method words, chapter shape, self-correction checklist",Create,—,Done
+2026-06-05,Tooling,book-check.py,Chapter consistency checker built (self-correcting backbone),Tooling,—,Done
+2026-06-05,Tooling,/write-chapter skill,Drafts a chapter and self-corrects against the style guide,Tooling,—,Done
+2026-06-05,Drafting,Chapters 1-15,Full 15-chapter manuscript drafted (originally in Swedish),Add,SV,Superseded
+2026-06-05,Self-correction,book-check.py + style guide,Word-band recalibrated; homograph guard added after a Cyrillic 'a' slipped in,Fix,—,Done
+2026-06-06,Title,Whole project,Title changed 'Reda i garaget' -> 'Stada i Garaget',Decision,All,Done
+2026-06-06,Front/back matter,frontmatter/ backmatter/,"Added title page, copyright, intro hook, author bio, closing",Add,SV,Done
+2026-06-06,KDP build,"build-epub.py, build-cover.py",EPUB + 1600x2560 cover toolchain built,Tooling,—,Done
+2026-06-06,Roadmap,Program + checklist,Problem definition + 10-step programme + tear-out checklist added,Add,Both,Done
+2026-06-06,Pivot,Whole manuscript,ENGLISH-FIRST pivot: wrote full English master in en/; Swedish moved to sv/; real 5S terms,Rewrite,EN,Done
+2026-06-06,Tooling,scripts/*.py,book-check / build-epub / build-cover made language-aware (--lang),Tooling,—,Done
+2026-06-06,Editing,EN manuscript,"Continuity & voice pass: fixed ch4 cross-ref, de-duplicated front-matter hooks",Fix,EN,Done
+2026-06-10,Profitability,RPT-GEN-002,KDP economics verified; pricing & launch plan decided,Decision,—,Done
+2026-06-10,Illustrations,build-diagrams.py,"Three B&W diagrams: five-zone map, shadow board, 10-step strip",Add,EN+SV,Done
+2026-06-10,Paperback,build-print-pdf.py / -cover.py,5.5x8.5 interior + wraparound 300-DPI print cover toolchain,Tooling,—,Done
+2026-06-10,Critique,EN manuscript,Tighten & harden: cut Takeaways/padding; hard build specs; floor 1200->850 (115->109 pp),Rewrite,EN,Done
+2026-06-10,Positioning,EN + docs,Market priority EU/Sweden first; metric-first; EU-aware build specs,Decision,EN,Revised
+2026-06-10,Parity,Swedish edition,"Brought SV to parity: cut Takeaways, Matt-&-fakta boxes, Swedish diagrams (119 pp)",Add,SV,Paused
+2026-06-11,Visual + human,Intros + ads,Before->after illustration; first-person intro; advertising kit,Add,EN+SV,Done
+2026-06-11,Records system,Toolkit + printables + QR,"Inventory, lifetime journal, hazmat log, maintenance programme; 6 printables + QR codes",Add,EN+SV,Done
+2026-06-11,Safety rounds,Fire & safety rounds,Fire round (monthly) + safety round (skyddsrond); 2 printables; woven into programme (8 total),Add,EN+SV,Done
+2026-06-11,Consolidation,Five-reader pass,Self-assessment quiz; Core vs System tiering; parables -> first-person; no-drill path; mirror line,Rewrite,EN+SV,Done
+2026-06-11,Offline solution,Toolkit + intros + listings,Made book fully offline: printed round checklists & list layouts in-book; downloads = bonus only,Rewrite,EN+SV,Done
+2026-06-11,Focus,Project,Swedish edition PAUSED (needs native editorial pass); all focus on English for UK/US/EU,Pause,SV,On hold
+2026-06-11,Localisation,EN manuscript + docs,"English set to International/British: tyre, autumn, flat, organise, colour, programme, spanner, axle stands",Rewrite,EN,Done
+2026-06-11,Tracking,change-log.csv / .xlsx,Created this spreadsheet change-log,Create,—,Done

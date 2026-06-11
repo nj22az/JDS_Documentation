@@ -17,7 +17,7 @@ see often, you don't tend often, and the weekly round from chapter ten doesn't e
 site every week. Things have a whole season to accumulate before anyone even looks.
 
 The second force is the environment. An unheated shed has damp, cold, and often rodents. Cardboard
-goes soft and moldy, fabric draws moisture, mice build nests in anything soft and hidden — until
+goes soft and mouldy, fabric draws moisture, mice build nests in anything soft and hidden — until
 what would have been fine in a dry garage at home is ruined by spring in an unheated outbuilding.
 Here, "store it right" isn't only about order; it's about whether the things survive until your next
 visit at all.
@@ -77,8 +77,8 @@ The cabin is not the home's extended dump. What needs to go should go where it a
 to a room you see even less.
 
 And the cabin has one advantage worth using: the seasonal rhythm is built in. You open the place in
-spring and close it in fall, and those two moments are perfect for a pass. At spring opening you see
-what the winter did and what you actually missed; at fall closing you know exactly what you used over
+spring and close it in autumn, and those two moments are perfect for a pass. At spring opening you see
+what the winter did and what you actually missed; at autumn closing you know exactly what you used over
 the season and what just sat there. Couple a short **Sort** to opening and closing, and the shed gets
 the same regular care as the home garage — on a per-visit rhythm instead of a weekly one. Do that, and
 the shed never becomes the place you dread opening, but an outbuilding as ready as the cabin when the

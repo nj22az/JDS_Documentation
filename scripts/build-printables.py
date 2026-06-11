@@ -71,7 +71,7 @@ T = {
             "cols": ["Product", "Type", "Qty", "Bought", "Use-by", "Disposed (date)"],
             "rows": 20,
             "note": "Store flammables low and cool; propane outdoors only. Take anything "
-                    "dried, unlabeled, or unknown to the hazardous-waste drop-off.",
+                    "dried, unlabelled, or unknown to the hazardous-waste drop-off.",
         },
         "zone": {
             "title": "Zone-Map Worksheet",
@@ -81,9 +81,9 @@ T = {
                       "often-used near the door and the light; rarely-used high and far back.",
         },
         "seasonal": {
-            "title": "Spring / Fall Garage Pass",
-            "intro": "Twice a year, tied to the tire swap. Tick as you go.",
-            "items": ["Swap the seasonal zone (tires, cushions, etc.)",
+            "title": "Spring / Autumn Garage Pass",
+            "intro": "Twice a year, tied to the tyre swap. Tick as you go.",
+            "items": ["Swap the seasonal zone (tyres, cushions, etc.)",
                       "Sort while things are in your hands — used it last season?",
                       "Haul the 'lose' pile out the same day",
                       "Check the hazard corner — dried paint, stale fuel out",
@@ -95,12 +95,12 @@ T = {
                       "Book the next pass in the calendar"],
         },
         "program": {
-            "title": "Continuous Maintenance Program & Log",
+            "title": "Continuous Maintenance Programme & Log",
             "intro": "The garage stays in order on a rhythm, not a rescue. Keep this where "
                      "you'll see it, and sign the log so the whole house can share it.",
             "sched": [["Weekly · 10 min", "Put things back · recycling out · wipe the bench"],
-                      ["Monthly · 15 min", "Scan for new clutter · extinguisher gauge · note low consumables"],
-                      ["Spring & Fall · ½ day", "Seasonal swap + Sort + hazard check (use the seasonal sheet)"],
+                      ["Monthly · 15 min", "A quick fire round · scan for new clutter · note low consumables"],
+                      ["Spring & Autumn · ½ day", "Seasonal swap + Sort + hazard check + a safety round (use the round sheets)"],
                       ["Yearly · 1–2 h", "Walk the inventory · update journals · photograph valuables · test alarms & GFCI"]],
             "log_cols": ["Date", "What was done", "Done by"],
             "rows": 16,
@@ -121,7 +121,7 @@ T = {
                       "Battery chargers on a hard, non-flammable surface — not left running unattended",
                       "Heaters and pilot lights clear of where fuel vapour collects (low down)",
                       "Garage-to-house fire door shuts and isn't propped open",
-                      "Nothing stored against the electrical panel",
+                      "Nothing stored against the fuse box",
                       "After grinding / welding: area cool, nothing smouldering, extinguisher to hand"],
             "find_title": "Findings & actions",
             "find_cols": ["Finding", "Action", "By when", "Done"],
@@ -131,7 +131,7 @@ T = {
         "safetyround": {
             "title": "Safety Round",
             "intro": "The workshop's safety round (the Swedish skyddsrond): a scheduled look for "
-                     "what could hurt someone. Do it spring and fall, and after any big change "
+                     "what could hurt someone. Do it spring and autumn, and after any big change "
                      "to the garage.",
             "items": ["Floor clear of trip hazards; no cords across walkways; spills wiped",
                       "Lighting bright and even (aim 300–500 lux); bulbs working",
@@ -144,7 +144,7 @@ T = {
                       "Ventilation for fumes — never run an engine in a closed garage (CO)",
                       "Ladders and steps sound and rated for the load",
                       "Chemicals and sharp tools out of children's reach",
-                      "Under a vehicle: rated jack stands, wheels chocked — never a jack alone"],
+                      "Under a vehicle: rated axle stands, wheels chocked — never a jack alone"],
             "find_title": "Findings & actions",
             "find_cols": ["Finding", "Action", "By when", "Done"],
             "rows": 8,

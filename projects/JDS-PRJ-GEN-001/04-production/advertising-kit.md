@@ -35,13 +35,13 @@ vårstädningen var borta till sommaren.
 
 ## One-line hook (for an ad headline)
 
-- **EN:** A 10-step program to take back your garage — one weekend at a time.
+- **EN:** A 10-step programme to take back your garage — one weekend at a time.
 - **SV:** Ett 10-stegsprogram för att ta tillbaka ditt garage — en helg i taget.
 
 ## Short blurb (≤ 300 characters — social / Amazon strapline)
 
 **EN:** The garage is the one room with no system, so it becomes the dumping ground. *The Garage
-Reset* gives you a 10-step program built on the professional 5S method: declutter it once, then
+Reset* gives you a 10-step programme built on the professional 5S method: declutter it once, then
 keep it with ten minutes a week.
 
 **SV:** Garaget är det enda rummet utan system — därför blir det soptippen. *Städa i Garaget* ger
@@ -55,7 +55,7 @@ minuter i veckan.
 > spring? Gone by summer.
 >
 > It isn't that you're messy — the garage just never had a system. *The Garage Reset* gives you
-> one: a 10-step program, one weekend at a time, built on the 5S method real workshops run on.
+> one: a 10-step programme, one weekend at a time, built on the 5S method real workshops run on.
 > Clear it once, then hold it with ten minutes a week.
 >
 > 👉 [link]

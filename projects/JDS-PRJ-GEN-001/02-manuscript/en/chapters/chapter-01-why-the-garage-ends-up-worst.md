@@ -2,7 +2,7 @@
 
 # Why the Garage Always Ends Up Worst
 
-You've cleaned the kitchen. You've sorted the closet — maybe even flipped the whole bookshelf
+You've cleaned the kitchen. You've sorted the wardrobe — maybe even flipped the whole bookshelf
 one rainy Sunday in January. But the garage? The garage stands there, untouched, door down,
 quietly growing a pile you've stopped really seeing.
 
@@ -13,11 +13,11 @@ once you understand the reason, the rest of this book gets a great deal easier.
 
 Think about where things go in a home. Whatever has a fixed place stays in its place.
 Whatever doesn't has to land somewhere — so it drifts outward, away from the rooms where you
-actually live and where guests can see. First into the hall, then the closet, then the
+actually live and where guests can see. First into the hall, then the wardrobe, then the
 basement, and finally the garage.
 
 The garage is the last stop on that journey. It's the overflow valve: everything that didn't
-fit anywhere else drains into it. The tires you keep meaning to swap. The paint can that was
+fit anywhere else drains into it. The tyres you keep meaning to swap. The paint can that was
 almost empty. The box from a move six years ago. The bike that's three sizes too small. Nobody
 ever decided the garage would become a warehouse — it just happened, one item at a time, on
 evenings when your hands were full and you only needed to set something down.
@@ -25,8 +25,8 @@ evenings when your hands were full and you only needed to set something down.
 Three things make the garage especially brutal:
 
 1. **Nobody sees it.** The door is closed to the world. What isn't seen never gets
-   prioritized.
-2. **The stuff is heavy and grimy.** Tools, oil, tires, garden gear — not soft clothes you
+   prioritised.
+2. **The stuff is heavy and grimy.** Tools, oil, tyres, garden gear — not soft clothes you
    fold in a quarter of an hour.
 3. **Everything is a "maybe."** "Maybe I'll need that bolt." "Maybe I'll fix it." The garage
    is full of futures that never arrived.
@@ -47,7 +47,7 @@ in practice becomes "anywhere" — and anywhere soon means everywhere.
 A cluttered garage feels free, because the price never shows up on a receipt. But it costs you,
 every week, in four ways.
 
-It costs **time.** You hunt for the right screwdriver, for the summer tires, for the charger
+It costs **time.** You hunt for the right screwdriver, for the summer tyres, for the charger
 that goes with the trimmer. Ten minutes of searching here and there adds up to hours over a
 year — hours you'd rather have spent on the actual job.
 
@@ -68,7 +68,7 @@ until the system is in place.
 
 ## The method here: stop cleaning, start building a system
 
-The most common mistake is to walk into the garage one Saturday with a trash bag and just
+The most common mistake is to walk into the garage one Saturday with a bin bag and just
 "start cleaning." You shuffle things around, run out of steam by lunch, and on Sunday it looks
 much the same. That's not your failing — you attacked the symptom, not the cause.
 
@@ -79,7 +79,7 @@ call **5S** — and you'll meet them throughout the book:
 - **Sort** — decide what stays, what goes, and what belongs somewhere else.
 - **Set in Order** — give everything that stays a fixed place: zones, shelves, a pegboard.
 - **Shine** — make a clean floor and bench the normal state, not a yearly achievement.
-- **Standardize** — set a few simple rules so order becomes the default.
+- **Standardise** — set a few simple rules so order becomes the default.
 - **Sustain** — keep the system alive with a short routine, ten minutes a week.
 
 Don't worry about memorizing them. Just notice that four of the five steps are about everything
@@ -113,7 +113,7 @@ order run itself.
 
 > **Weekend Project: look before you touch**
 > This first project isn't about throwing anything out. It's about seeing.
-> 1. Walk into the garage with a notepad and a pen — not a trash bag.
+> 1. Walk into the garage with a notepad and a pen — not a bin bag.
 > 2. Write down the five biggest things you *know* shouldn't be in there.
 > 3. Find one item — just one — that has served no purpose in a full year.
 > 4. Set it by the door. You don't have to decide yet. You've started seeing again.

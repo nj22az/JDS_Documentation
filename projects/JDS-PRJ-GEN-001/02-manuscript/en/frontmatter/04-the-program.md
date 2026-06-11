@@ -1,6 +1,6 @@
-<!-- The Program · The Garage Reset · draft 2026-06-06 -->
+<!-- The Programme · The Garage Reset · draft 2026-06-06 -->
 
-# The Program: 10 Steps to an Orderly Garage
+# The Programme: 10 Steps to an Orderly Garage
 
 Before we start, you should know exactly what we're solving and exactly how. This chapter is
 the map of the book. Read it once, and come back to it whenever you want to know where you are.
@@ -19,7 +19,7 @@ postponed decision. A thousand postponed decisions make a pile.
 And the problem doesn't solve itself, for three reasons:
 
 - **General tidying books skip the garage.** It's the hard room — tools and chemicals, not a
-  closet you fold.
+  wardrobe you fold.
 - **Store guides sell products, not a plan.** A new shelf doesn't fix a missing system.
 - **A one-time cleanup doesn't last.** It fixes the surface, not the cause, so the pile comes
   back.
@@ -27,7 +27,7 @@ And the problem doesn't solve itself, for three reasons:
 What you're missing, then, isn't willpower or one more plastic bin. It's a **clear order to
 follow, step by step.** That's exactly what this book gives you.
 
-## The solution — the program in 10 steps
+## The solution — the programme in 10 steps
 
 Here is the whole road, from chaos to a garage that runs itself. Ten steps, in order. You do
 one or two per weekend, and after about five weekends you're done. Each step has its own
@@ -44,7 +44,7 @@ chapter that shows you exactly how, and a **Weekend Project** box to do right aw
 | 7 | **Label and make it findable.** Tags, outlines, clear bins. | You find and return anything in three seconds. | 8 |
 | 8 | **Shine it.** Sweep the floor, wipe the bench — set the baseline. | A clean floor and bench are the new normal. | 1–2 |
 | 9 | **Set the rules.** The four rules that hold the line. | The rules are posted and apply to the whole house. | 9 |
-| 10 | **Sustain it.** Ten minutes a week, spring and fall. | The routine is in the calendar and started. | 10–11 |
+| 10 | **Sustain it.** Ten minutes a week, spring and autumn. | The routine is in the calendar and started. | 10–11 |
 
 ## The five steps behind the ten
 
@@ -55,19 +55,19 @@ five steps throughout the book:
 - **Sort** (steps 2–4) — decide what stays.
 - **Set in Order** (steps 5–7) — give everything a place.
 - **Shine** (step 8) — make clean a baseline, not an achievement.
-- **Standardize** (step 9) — make order the default with simple rules.
+- **Standardise** (step 9) — make order the default with simple rules.
 - **Sustain** (step 10) — keep the system alive with a short routine.
 
 ## After the ten steps
 
 Three chapters then take on special cases that aren't an ordinary garage: the **cabin's shed**,
-the **apartment storage locker**, and **inheriting a whole workshop**. Skip to whichever one
-you recognize — the method is the same, but those places have their own tricks.
+the **flat storage locker**, and **inheriting a whole workshop**. Skip to whichever one
+you recognise — the method is the same, but those places have their own tricks.
 
-![The 10-step program — one or two steps per weekend](../../../03-assets/images/ten-steps.png)
+![The 10-step programme — one or two steps per weekend](../../../03-assets/images/ten-steps.png)
 
 And at the very back, **The Toolkit** gives you the inventory, the tool lifetime journal, the
-hazard log, and a continuous maintenance program — all free to print — that keep the garage in
+hazard log, and a continuous maintenance programme — all free to print — that keep the garage in
 order long after the five weekends are done.
 
 You now have the whole map. Turn the page, and we'll start with step one.
