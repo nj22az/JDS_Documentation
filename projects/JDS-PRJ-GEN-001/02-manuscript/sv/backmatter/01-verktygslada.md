@@ -30,8 +30,8 @@ rytm. Kör dessa fyra så glider det aldrig tillbaka:
 | Takt | Tid | Det du gör |
 |------|-----|------------|
 | **Varje vecka** | 10 min | Ställ tillbaka · återvinning ut · torka bänken |
-| **Varje månad** | 15 min | Spana efter ny röra · kolla släckarens visare · notera tomma förråd |
-| **Vår & höst** | ½ dag | Säsongsbyte + en Sortera-runda + gifthörnan |
+| **Varje månad** | 15 min | En snabb **brandrond** · spana efter ny röra · notera tomma förråd |
+| **Vår & höst** | ½ dag | Säsongsbyte + en Sortera-runda + gifthörnan + en **skyddsrond** |
 | **Varje år** | 1–2 h | Gå igenom inventeringen · uppdatera journalerna · fota värdesaker · testa varnare & jordfelsbrytare |
 
 Veckorundan är motorn; årsgenomgången fångar allt som de små rundorna missar. Skriv ut
@@ -45,6 +45,25 @@ system som hela huset kan läsa och dela på överlever en enda persons goda fö
 > - **Manualer, kvitton och garantier** i en märkt mapp eller ficka.
 > - En **inköpslista för förbrukningsvaror** så att du aldrig tar slut mitt i ett jobb.
 > - **Fukt och säkerhet**: kontrollera kondens, en hel port, ett ordentligt lås.
+
+## Brandrond & skyddsrond
+
+På ett fartyg väntar man inte på att branden ska hitta en — någon går en **brandrond**, på
+schema, och letar efter början på problem. En verkstad kör en **skyddsrond** på samma sätt: en
+planerad genomgång av sådant som kan skada någon. Ditt garage rymmer bränsle, eggar, el och tung
+vikt, så det har förtjänat samma vana.
+
+- **Brandrond — varje månad, och efter hett eller oljigt arbete.** En tvåminutersrunda:
+  släckaren laddad och nåbar, utrymningsvägen fri, bränsle och gasol rätt förvarat, ingen hög
+  med oljiga trasor, inga överbelastade uttag, branddörren stängd. Att fånga en enda sådan sak
+  är den billigaste försäkring du kan köpa.
+- **Skyddsrond — vår och höst.** En långsammare genomgång av faror: snubbelrisker, förankrade
+  hyllor, skyddade verktyg, skyddsutrustning och första hjälpen till hands, jordfelsbrytare
+  testad, hela stegar, kemikalier utom räckhåll, pallbockar under en upplyft bil. Skriv ner vad
+  du hittar *och ett datum då det ska vara åtgärdat* — det är det som gör det till en rond och
+  inte en blick.
+
+Båda har en utskrift nedan, var och en med en åtgärdslogg att signera.
 
 ## Utskrifterna
 
@@ -65,5 +84,11 @@ system som hela huset kan läsa och dela på överlever en enda persons goda fö
 
 > **6 · Underhållsprogram & logg** — rytmen ovan, med en signeringslogg.
 > ![Skanna för att ladda ner underhållsprogrammet](../../../03-assets/images/qr/qr-program-sv.png){: .qr } *stadaigaraget.se/skriv-ut/program.pdf*
+
+> **7 · Brandrond** — den månatliga tvåminuters brandronden, som i maskinrummet.
+> ![Skanna för att ladda ner brandronden](../../../03-assets/images/qr/qr-fireround-sv.png){: .qr } *stadaigaraget.se/skriv-ut/fireround.pdf*
+
+> **8 · Skyddsrond** — vår- och höstronden, med en åtgärdslogg.
+> ![Skanna för att ladda ner skyddsronden](../../../03-assets/images/qr/qr-safetyround-sv.png){: .qr } *stadaigaraget.se/skriv-ut/safetyround.pdf*
 
 Fyll i dem en gång, följ rytmen, och garaget du städat förblir städat — för gott.

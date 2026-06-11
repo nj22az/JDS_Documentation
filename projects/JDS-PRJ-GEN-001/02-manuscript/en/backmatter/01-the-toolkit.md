@@ -30,8 +30,8 @@ these four and it never slides back:
 | Cadence | Time | What you do |
 |---------|------|-------------|
 | **Weekly** | 10 min | Put things back · recycling out · wipe the bench |
-| **Monthly** | 15 min | Scan for new clutter · check the extinguisher gauge · note low consumables |
-| **Spring & Fall** | ½ day | Seasonal swap + a Sort pass + the hazard check |
+| **Monthly** | 15 min | A quick **fire round** · scan for new clutter · note low consumables |
+| **Spring & Fall** | ½ day | Seasonal swap + a Sort pass + hazard check + a **safety round** |
 | **Yearly** | 1–2 h | Walk the inventory · update the journals · photograph valuables · test alarms & GFCI |
 
 The weekly round is the engine; the yearly review is what catches everything the small rounds
@@ -45,6 +45,24 @@ system the whole house can read and share outlives one person's good intentions.
 > - **Manuals, receipts, and warranties** in one labeled folder or pocket.
 > - A **consumables reorder list** so you never run out mid-job.
 > - **Damp and security**: condensation control, a sound door, a decent lock.
+
+## Fire rounds & safety rounds
+
+On a ship you don't wait for a fire to find you — someone walks a **fire round**, on a schedule,
+looking for the start of trouble. A workshop runs a **safety round** (the Swedish *skyddsrond*)
+the same way: a planned look for what could hurt someone. Your garage holds fuel, blades,
+electricity, and heavy weight, so it has earned the same habit.
+
+- **Fire round — monthly, and after any hot or oily work.** A two-minute walk: extinguisher
+  charged and reachable, escape route clear, fuel and gas stored right, no pile of oily rags, no
+  overloaded sockets, the fire door shut. Catching one of these is the cheapest insurance you'll
+  ever buy.
+- **Safety round — spring and fall.** A slower look for hazards: trip points, anchored shelving,
+  guarded tools, PPE and first-aid to hand, GFCI tested, ladders sound, chemicals out of reach,
+  jack stands under any raised car. Write down what you find *and a date to fix it* — that's what
+  makes it a round and not a glance.
+
+Both have a printable below, each with a findings-and-actions log to sign.
 
 ## The printables
 
@@ -65,5 +83,11 @@ system the whole house can read and share outlives one person's good intentions.
 
 > **6 · Maintenance program & log** — the rhythm above, with a sign-off log.
 > ![Scan to download the maintenance program](../../../03-assets/images/qr/qr-program.png){: .qr } *thegaragereset.com/print/program.pdf*
+
+> **7 · Fire round** — the monthly two-minute fire patrol, engine-room style.
+> ![Scan to download the fire round](../../../03-assets/images/qr/qr-fireround.png){: .qr } *thegaragereset.com/print/fireround.pdf*
+
+> **8 · Safety round** — the spring/fall skyddsrond, with a findings-and-actions log.
+> ![Scan to download the safety round](../../../03-assets/images/qr/qr-safetyround.png){: .qr } *thegaragereset.com/print/safetyround.pdf*
 
 Fill them in once, follow the rhythm, and the garage you reset stays reset — for good.

@@ -9,18 +9,18 @@ Everything needed to publish the book on Amazon KDP. The book is **English-first
 |------|---------|------------|
 | `The-Garage-Reset.epub` | EN | Uploadable eBook with embedded diagrams |
 | `cover-en.jpg` | EN | KDP eBook cover, 1600×2560 |
-| `The-Garage-Reset-Interior.pdf` | EN | **Paperback interior** — 5.5×8.5 in, 117 pp, B&W, mirrored margins, part dividers |
-| `The-Garage-Reset-Print-Cover.pdf` | EN | **Wraparound print cover** — back + 0.263 in spine + front, 300 DPI, bleed |
+| `The-Garage-Reset-Interior.pdf` | EN | **Paperback interior** — 5.5×8.5 in, 119 pp, B&W, mirrored margins, part dividers |
+| `The-Garage-Reset-Print-Cover.pdf` | EN | **Wraparound print cover** — back + 0.268 in spine + front, 300 DPI, bleed |
 | `amazon-listing-en.md` | EN | Title fields, HTML description, keywords, categories, pricing |
 | `Stada-i-Garaget.epub` | SV | Uploadable Swedish eBook |
 | `cover.jpg` | SV | Swedish KDP cover, 1600×2560 |
-| `Stada-i-Garaget-Interior.pdf` | SV | Swedish paperback interior — 125 pp, localized diagrams + QR toolkit |
-| `Stada-i-Garaget-Print-Cover.pdf` | SV | Swedish wraparound print cover (0.281 in spine) |
+| `Stada-i-Garaget-Interior.pdf` | SV | Swedish paperback interior — 127 pp, localized diagrams + QR toolkit |
+| `Stada-i-Garaget-Print-Cover.pdf` | SV | Swedish wraparound print cover (0.286 in spine) |
 | `amazon-listing-sv.md` | SV | Swedish listing copy |
 | `advertising-kit.md` | EN+SV | Ad-ready taglines, hooks, blurbs, social copy, pull-quotes, targeting |
 | `cover-brief.md` | — | Cover specs (eBook + paperback) and design rationale |
 | `readiness-assessment.md` | — | Honest "is it sellable yet" review + priority next steps |
-| `printables/{en,sv}/*.pdf` | EN+SV | The fill-in templates readers download & print (inventory, lifetime journal, hazmat log, zone worksheet, seasonal pass, maintenance program) |
+| `printables/{en,sv}/*.pdf` | EN+SV | The fill-in templates readers download & print (inventory, lifetime journal, hazmat log, zone worksheet, seasonal pass, maintenance program, fire round, safety round) |
 
 Illustrations (original, licence-free) live in `03-assets/images/`: `before-after`, `zone-map`,
 `pegboard`, `ten-steps` (each with a `-sv` variant). The **before → after** image is the hero for

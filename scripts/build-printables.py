@@ -105,6 +105,51 @@ T = {
             "log_cols": ["Date", "What was done", "Done by"],
             "rows": 16,
         },
+        "fireround": {
+            "title": "Fire Round",
+            "intro": "Borrowed from the ship's engine room: a quick walk to catch a fire before "
+                     "it starts. Do it monthly — and always before you lock up after any hot or "
+                     "oily work.",
+            "items": ["Fire extinguisher present, gauge in the green, reachable by the door",
+                      "Smoke / CO alarm works (press test)",
+                      "Escape route to the door clear — the 1 m aisle",
+                      "Petrol / solvent in approved cans, low and cool; only a season's worth",
+                      "Propane / gas cylinders outdoors only",
+                      "No pile of oily rags — lay them flat to dry or seal in a metal tin "
+                      "(they can self-ignite)",
+                      "No overloaded sockets or daisy-chained extension leads",
+                      "Battery chargers on a hard, non-flammable surface — not left running unattended",
+                      "Heaters and pilot lights clear of where fuel vapour collects (low down)",
+                      "Garage-to-house fire door shuts and isn't propped open",
+                      "Nothing stored against the electrical panel",
+                      "After grinding / welding: area cool, nothing smouldering, extinguisher to hand"],
+            "find_title": "Findings & actions",
+            "find_cols": ["Finding", "Action", "By when", "Done"],
+            "rows": 6,
+            "signoff": "Date: ______________      Walked by: ______________",
+        },
+        "safetyround": {
+            "title": "Safety Round",
+            "intro": "The workshop's safety round (the Swedish skyddsrond): a scheduled look for "
+                     "what could hurt someone. Do it spring and fall, and after any big change "
+                     "to the garage.",
+            "items": ["Floor clear of trip hazards; no cords across walkways; spills wiped",
+                      "Lighting bright and even (aim 300–500 lux); bulbs working",
+                      "Heavy items stored low; nothing heavy overhead above a work spot",
+                      "Shelving and wall storage anchored to studs or masonry — give it a tug",
+                      "Sharp and edged tools sheathed or guarded; blade guards fitted",
+                      "PPE to hand: eye protection, gloves, hearing, dust mask",
+                      "First-aid kit present, stocked and in date (eyewash if you use chemicals)",
+                      "Electrical: no damaged leads; GFCI / RCD tested; no water by sockets",
+                      "Ventilation for fumes — never run an engine in a closed garage (CO)",
+                      "Ladders and steps sound and rated for the load",
+                      "Chemicals and sharp tools out of children's reach",
+                      "Under a vehicle: rated jack stands, wheels chocked — never a jack alone"],
+            "find_title": "Findings & actions",
+            "find_cols": ["Finding", "Action", "By when", "Done"],
+            "rows": 8,
+            "signoff": "Date: ______________      Walked by: ______________",
+        },
     },
     "sv": {
         "brand": "STÄDA I GARAGET",
@@ -169,6 +214,50 @@ T = {
             "log_cols": ["Datum", "Vad som gjordes", "Av vem"],
             "rows": 16,
         },
+        "fireround": {
+            "title": "Brandrond",
+            "intro": "Hämtad från fartygets maskinrum: en snabb runda för att fånga en brand "
+                     "innan den börjar. Gör den varje månad — och alltid innan du låser efter "
+                     "hett eller oljigt arbete.",
+            "items": ["Brandsläckare på plats, visaren i det gröna, nåbar vid porten",
+                      "Brand-/CO-varnare fungerar (tryck på testknappen)",
+                      "Utrymningsvägen till porten fri — den fria gången på 1 m",
+                      "Bensin/lösningsmedel i godkända dunkar, lågt och svalt; bara en säsongs mängd",
+                      "Gasolflaskor endast utomhus",
+                      "Ingen hög med oljiga trasor — låt torka utbredda eller i sluten plåtburk "
+                      "(de kan självantända)",
+                      "Inga överbelastade uttag eller seriekopplade grenkontakter",
+                      "Batteriladdare på hårt, icke brännbart underlag — lämnas inte igång obevakade",
+                      "Värmare och pilotlågor borta från där bensinångor samlas (lågt)",
+                      "Branddörren mot bostaden stänger och är inte uppställd",
+                      "Inget förvarat mot elcentralen",
+                      "Efter slipning/svetsning: området svalt, inget glödande, släckare till hands"],
+            "find_title": "Anmärkningar & åtgärder",
+            "find_cols": ["Anmärkning", "Åtgärd", "Senast", "Klart"],
+            "rows": 6,
+            "signoff": "Datum: ______________      Rond av: ______________",
+        },
+        "safetyround": {
+            "title": "Skyddsrond",
+            "intro": "Verkstadens skyddsrond: en planerad genomgång av sådant som kan skada "
+                     "någon. Gör den vår och höst, och efter större förändringar i garaget.",
+            "items": ["Golvet fritt från snubbelrisker; inga sladdar över gångar; spill upptorkat",
+                      "Ljus starkt och jämnt (sikta 300–500 lux); lampor fungerar",
+                      "Tungt förvarat lågt; inget tungt ovanför en arbetsplats",
+                      "Hyllor och väggförvaring förankrade i reglar eller murverk — dra i dem",
+                      "Vassa och eggade verktyg skyddade; klingskydd på plats",
+                      "Skyddsutrustning till hands: ögonskydd, handskar, hörselskydd, dammask",
+                      "Första hjälpen finns, fylld och i tid (ögondusch om du använder kemikalier)",
+                      "El: inga skadade sladdar; jordfelsbrytare testad; inget vatten vid uttag",
+                      "Ventilation för avgaser — kör aldrig en motor i stängt garage (CO)",
+                      "Stegar och pallar hela och godkända för lasten",
+                      "Kemikalier och vassa verktyg utom räckhåll för barn",
+                      "Under ett fordon: godkända pallbockar, hjulen klossade — aldrig bara en domkraft"],
+            "find_title": "Anmärkningar & åtgärder",
+            "find_cols": ["Anmärkning", "Åtgärd", "Senast", "Klart"],
+            "rows": 8,
+            "signoff": "Datum: ______________      Rond av: ______________",
+        },
     },
 }
 
@@ -210,6 +299,16 @@ def seasonal_form(t, f):
             f'<ul class="check">{items}</ul>')
 
 
+def round_form(t, f):
+    items = "".join(f"<li>{i}</li>" for i in f["items"])
+    head = "".join(f"<th>{c}</th>" for c in f["find_cols"])
+    return (f'{header(t)}<h1>{f["title"]}</h1><p class="intro">{f["intro"]}</p>'
+            f'<ul class="check">{items}</ul>'
+            f'<h2>{f["find_title"]}</h2><table><thead><tr>{head}</tr></thead>'
+            f'<tbody>{rows_html(f["rows"], f["find_cols"])}</tbody></table>'
+            f'<p class="note">{f["signoff"]}</p>')
+
+
 def program_form(t, f):
     sched = "".join(f"<tr><th>{a}</th><td>{b}</td></tr>" for a, b in f["sched"])
     head = "".join(f"<th>{c}</th>" for c in f["log_cols"])
@@ -220,7 +319,8 @@ def program_form(t, f):
 
 
 BUILDERS = {"inventory": table_form, "lifetime": lifetime_form, "hazmat": table_form,
-            "zone": zone_form, "seasonal": seasonal_form, "program": program_form}
+            "zone": zone_form, "seasonal": seasonal_form, "program": program_form,
+            "fireround": round_form, "safetyround": round_form}
 
 
 def main():

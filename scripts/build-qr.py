@@ -25,7 +25,8 @@ BASE_URL = {
 
 OUT = Path("projects/JDS-PRJ-GEN-001/03-assets/images/qr")
 
-SLUGS = ["inventory", "lifetime", "hazmat", "zone", "seasonal", "program"]
+SLUGS = ["inventory", "lifetime", "hazmat", "zone", "seasonal", "program",
+         "fireround", "safetyround"]
 
 
 def make(url, path):
