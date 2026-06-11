@@ -25,6 +25,7 @@ PROJECT = Path("projects/JDS-PRJ-GEN-001")
 MANUSCRIPT = PROJECT / "02-manuscript"
 PRODUCTION = PROJECT / "04-production"
 IMAGES_DIR = PROJECT / "03-assets" / "images"
+FIGURES_DIR = IMAGES_DIR / "figures"
 
 MD_EXTENSIONS = ["extra", "sane_lists", "smarty"]
 
@@ -74,7 +75,29 @@ li { margin-bottom: 0.3em; }
 hr { border: none; border-top: 1px solid #ccc; margin: 1.5em 0; }
 img { max-width: 100%; height: auto; margin: 1em auto; display: block; }
 img.qr { width: 120px; display: block; margin: 0.4em 0; }
+figure.fig { margin: 1.2em 0; text-align: center; }
+figure.fig figcaption { font-size: 0.85em; color: #555; margin-top: 0.3em; }
+.figph { border: 2px dashed #9aa7b4; background: #f4f6f8; padding: 1em; margin: 1.2em 0;
+    text-align: center; color: #33475b; border-radius: 3px; line-height: 1.5; }
 """.strip()
+
+
+def _figure_file(n):
+    for ext in ("png", "jpg", "jpeg"):
+        p = FIGURES_DIR / f"fig-{int(n):02d}.{ext}"
+        if p.exists():
+            return p
+    return None
+
+
+def _figure_html(m):
+    n, cap = m.group(1), m.group(2).strip()
+    f = _figure_file(n)
+    if f:
+        return (f'<figure class="fig"><img src="images/{f.name}" alt="Figure {n}"/>'
+                f'<figcaption><strong>Figure {n}.</strong> {cap}</figcaption></figure>')
+    return (f'<div class="figph"><strong>FIGURE {n} — image to come</strong><br/>{cap}<br/>'
+            f'<em>Place fig-{int(n):02d}.jpg in 03-assets/images/figures/ and rebuild.</em></div>')
 
 
 def read_md(path):
@@ -83,6 +106,7 @@ def read_md(path):
     text = "\n".join(lines).strip()
     title = next((ln[2:].strip() for ln in text.splitlines() if ln.startswith("# ")),
                  path.stem)
+    text = re.sub(r'\[\[FIGURE:(\d+)\|(.+?)\]\]', _figure_html, text, flags=re.S)
     body = markdown.markdown(text, extensions=MD_EXTENSIONS)
     # Flatten any manuscript-relative image path to the EPUB-internal images/ folder.
     body = re.sub(r'src="[^"]*?/([^"/]+\.png)"', r'src="images/\1"', body)
@@ -126,6 +150,12 @@ def build(cfg):
                                     file_name=f"images/{image_path.name}",
                                     media_type="image/png",
                                     content=image_path.read_bytes()))
+    # Embed any supplied figure images (fig-01.jpg/png …) — numbered for automation.
+    for fp in sorted(FIGURES_DIR.glob("fig-*")) if FIGURES_DIR.exists() else []:
+        if fp.suffix.lower() in (".png", ".jpg", ".jpeg"):
+            mt = "image/png" if fp.suffix.lower() == ".png" else "image/jpeg"
+            book.add_item(epub.EpubItem(uid=f"fig_{fp.stem}", file_name=f"images/{fp.name}",
+                                        media_type=mt, content=fp.read_bytes()))
 
     html_items, toc = [], []
     for index, (kind, slug, path) in enumerate(ordered_sections(cfg)):

@@ -110,7 +110,7 @@ need these to use the book; they're purely for convenience.**
 
 > ![Fresh copy: spring/autumn pass](../../../03-assets/images/qr/qr-seasonal.png){: .qr } *Spring / autumn pass* · thegaragereset.com/print/seasonal.pdf
 
-> ![Fresh copy: maintenance programme](../../../03-assets/images/qr/qr-programme.png){: .qr } *Maintenance programme & log* · thegaragereset.com/print/programme.pdf
+> ![Fresh copy: maintenance programme](../../../03-assets/images/qr/qr-program.png){: .qr } *Maintenance programme & log* · thegaragereset.com/print/program.pdf
 
 > ![Fresh copy: fire round](../../../03-assets/images/qr/qr-fireround.png){: .qr } *Fire round* · thegaragereset.com/print/fireround.pdf
 

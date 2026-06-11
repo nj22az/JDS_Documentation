@@ -15,7 +15,7 @@ person.** The garage gets out of hand for one simple reason — a reason that ha
 do with how houses work and nothing to do with your character. Once you see it (and you will,
 in chapter one), the rest gets surprisingly easy.
 
-![Before and after: the same garage, once it has a system](../../../03-assets/images/before-after.png)
+[[FIGURE:1|Before and after — the same garage. Left: cluttered, the car stranded on the driveway. Right: ordered, the car parked inside and the wall doing the work.]]
 
 ## Why the garage?
 

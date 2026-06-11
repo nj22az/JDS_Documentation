@@ -50,7 +50,7 @@ A call to your municipality settles any doubt, and it's free.
 - **Flammable liquids:** petrol, diesel, lamp oil, lighter fluid, mineral spirits, turpentine.
 - **Paint and chemicals:** oil/enamel paint, solvent, glue, adhesives, anything with a warning label.
 - **Fluids:** waste motor oil, gear oil, antifreeze/glycol, brake fluid.
-- **Pressurized:** every spray can, even "empty" — propellant and residue remain.
+- **Pressurised cans:** every spray can, even "empty" — propellant and residue remain.
 - **Batteries:** car (lead-acid), plus tool packs, button cells, anything rechargeable.
 - **Bulbs:** fluorescent tubes and CFLs contain mercury.
 

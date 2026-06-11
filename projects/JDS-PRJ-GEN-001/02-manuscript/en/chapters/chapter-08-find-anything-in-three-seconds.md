@@ -60,7 +60,7 @@ the bench, it ends up on the bench. Make the return trip shortest, and order kee
 > - Small parts go in **divided bins labelled by size** ("4 × 30 mm screws"), sorted by type and
 >   length — not jumbled in one coffee tin.
 
-![The shadow board — an outline behind every tool shows what's missing at a glance](../../../03-assets/images/pegboard.png)
+[[FIGURE:4|A shadow board — hand tools on a pegboard with a painted outline behind each one, and one outline left empty to show a tool that's missing.]]
 
 ## An example: the kids found the hammer
 

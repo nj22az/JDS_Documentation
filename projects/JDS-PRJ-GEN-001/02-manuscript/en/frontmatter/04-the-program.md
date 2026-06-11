@@ -20,7 +20,7 @@ And the problem doesn't solve itself, for three reasons:
 
 - **General tidying books skip the garage.** It's the hard room — tools and chemicals, not a
   wardrobe you fold.
-- **Store guides sell products, not a plan.** A new shelf doesn't fix a missing system.
+- **Shop guides sell products, not a plan.** A new shelf doesn't fix a missing system.
 - **A one-time cleanup doesn't last.** It fixes the surface, not the cause, so the pile comes
   back.
 
@@ -64,7 +64,7 @@ Three chapters then take on special cases that aren't an ordinary garage: the **
 the **flat storage locker**, and **inheriting a whole workshop**. Skip to whichever one
 you recognise — the method is the same, but those places have their own tricks.
 
-![The 10-step programme — one or two steps per weekend](../../../03-assets/images/ten-steps.png)
+[[FIGURE:2|The 10-step programme as a single roadmap — step 1 to step 10 in order, grouped under the five 5S phases (Sort, Set in Order, Shine, Standardise, Sustain).]]
 
 And at the very back, **The Toolkit** gives you the inventory, the tool lifetime journal, the
 hazard log, and a continuous maintenance programme — all free to print — that keep the garage in

@@ -58,7 +58,7 @@ place you stop noticing.
 > - Wall storage over the bonnet eats depth: keep shelves there **shallow (≤ 30 cm)** or the bumper
 >   meets them.
 
-![The five-zone map — an example layout for an ordinary garage](../../../03-assets/images/zone-map.png)
+[[FIGURE:3|The five-zone map — an example garage seen from above, with the car, tool, garden, seasonal and recycling zones marked, and the clearances around the car.]]
 
 ## An example: three steps for a broom
 

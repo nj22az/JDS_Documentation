@@ -107,10 +107,17 @@ th, td { border: 0.5pt solid #888; padding: 3pt 4pt; text-align: left; }
 th { background: #e8e8e6; }
 img { max-width: 100%; margin: 0.8em auto; display: block; }
 img.qr { width: 24mm; display: block; margin: 2mm 0; }
+figure.fig { margin: 5mm 0; text-align: center; page-break-inside: avoid; }
+figure.fig figcaption { font-size: 8.5pt; color: #555; margin-top: 1.5mm; }
+.figph { border: 1pt dashed #9aa7b4; background: #f4f6f8; padding: 6mm; margin: 5mm 0;
+    text-align: center; color: #33475b; page-break-inside: avoid; }
 hr { border: none; border-top: 0.5pt solid #999; margin: 1.2em 0; }
 .titlepage { text-align: center; }
 .titlepage h1 { margin-top: 2.4in; font-size: 26pt; string-set: none; }
 """
+
+
+FIGURES_DIR = IMAGES_DIR / "figures"
 
 
 def _resolve_image(name):
@@ -120,10 +127,29 @@ def _resolve_image(name):
     return IMAGES_DIR / name
 
 
+def _figure_file(n):
+    for ext in ("png", "jpg", "jpeg"):
+        p = FIGURES_DIR / f"fig-{int(n):02d}.{ext}"
+        if p.exists():
+            return p
+    return None
+
+
+def _figure_html(m):
+    n, cap = m.group(1), m.group(2).strip()
+    f = _figure_file(n)
+    if f:
+        return (f'<figure class="fig"><img src="{f.as_uri()}"/>'
+                f'<figcaption><strong>Figure {n}.</strong> {cap}</figcaption></figure>')
+    return (f'<div class="figph"><strong>FIGURE {n} — image to come</strong><br/>{cap}<br/>'
+            f'<em>Place fig-{int(n):02d}.jpg in 03-assets/images/figures/ and rebuild.</em></div>')
+
+
 def read_md(path):
     lines = [ln for ln in path.read_text(encoding="utf-8").splitlines()
              if not ln.strip().startswith("<!--")]
-    body = markdown.markdown("\n".join(lines).strip(), extensions=MD_EXTENSIONS)
+    text = re.sub(r'\[\[FIGURE:(\d+)\|(.+?)\]\]', _figure_html, "\n".join(lines).strip(), flags=re.S)
+    body = markdown.markdown(text, extensions=MD_EXTENSIONS)
     # Point any manuscript-relative image path at the absolute asset (handles qr/ subdir).
     body = re.sub(r'src="[^"]*?/([^"/]+\.png)"',
                   lambda m: f'src="{_resolve_image(m.group(1)).as_uri()}"', body)
