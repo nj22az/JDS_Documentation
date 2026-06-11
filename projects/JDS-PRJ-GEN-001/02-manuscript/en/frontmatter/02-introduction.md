@@ -75,6 +75,22 @@ who like to keep things shipshape: a simple inventory, a tool journal, and a mai
 with fire and safety rounds. It's optional. If lists and logs aren't you, skip it with a clear
 conscience; the Core stands on its own.
 
+As you read, you'll meet five kinds of coloured box. Each has its own colour, label, and little
+mark, so you can spot it at a glance — and it still reads the same in black and white. Here's the
+key:
+
+<div class="legend" markdown="1">
+
+| Box | What it gives you |
+|-----|-------------------|
+| ▶ **Weekend Project** | The one task to do this weekend — the heart of each chapter. |
+| ● **Workshop Rule** | A short rule worth keeping; the order that holds long after. |
+| ▲ **Safety** | Stop and read. The hazard that bites if you skip it. |
+| ◆ **Specs** | The number, height, or clearance worth knowing before you build. |
+| ◇ **Inherited & Hard** | For a garage you didn't fill yourself — grief, sorting, letting go. |
+
+</div>
+
 You won't need expensive gear or special tools — and you won't need a screen. No app, no
 subscription, no endless searching, no Wi-Fi: everything is in these pages, start to finish.
 You'll need this book, a couple of free mornings, and the willingness to be rid of the pile for

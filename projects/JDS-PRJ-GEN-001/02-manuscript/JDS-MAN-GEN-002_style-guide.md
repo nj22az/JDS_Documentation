@@ -100,16 +100,26 @@ word count. One H1, H2 for the sections above, no deeper than H3.
 
 ## 6. Recurring Boxes (consistent labels & purpose)
 
-| Box label | Purpose | Style |
-|-----------|---------|-------|
-| **Weekend Project** / Helgprojektet | The concrete do-it-now task for the chapter | Numbered steps, finishable in a weekend |
-| **Workshop Rule** / Verkstadsregeln | The chapter's one-line takeaway, worth remembering | One bold sentence |
-| **Specs** / Mått & fakta | Hard numbers a tradesman expects (heights, anchors, clearances, loads) | Tight bullets, real figures |
-| **Safety** / Säkerhet | Safety / chemical / fire / lifting warning | Short, calm, specific |
-| **Inherited & Hard** / Ärvt & svårt | The emotional/inherited-gear angle | Gentle, respectful |
+Five recurring boxes, each with a fixed **colour, icon, and label** — the compartment system
+that makes pages scannable (Japanese-information-design influence; JDS-PRO-007 §6 *colour is
+language* and §5.3 *compartment layout*). Colour is never used alone: every box also carries
+its icon and bold label, so it reads identically on a black-and-white Kindle, a photocopy, or
+the cheap B&W paperback tier (JDS-PRO-007 §6.2 *redundant encoding*).
 
-Render boxes as a blockquote starting with the bold label, so they're visually distinct
-and easy to lift into layout later.
+| Box label | Colour | Icon | Purpose | Style |
+|-----------|--------|------|---------|-------|
+| **Weekend Project** / Helgprojektet | Forest Green | ▶ | The concrete do-it-now task for the chapter | Numbered steps, finishable in a weekend |
+| **Workshop Rule** / Verkstadsregeln | Navy Blue | ● | The chapter's one-line takeaway, worth remembering | One bold sentence |
+| **Specs** / Mått & fakta | Steel Blue | ◆ | Hard numbers a tradesman expects (heights, anchors, clearances, loads) | Tight bullets, real figures |
+| **Safety** / Säkerhet | Signal Red | ▲ | Safety / chemical / fire / lifting warning | Short, calm, specific |
+| **Inherited & Hard** / Ärvt & svårt | Amber / Bronze | ◇ | The emotional/inherited-gear angle | Gentle, respectful |
+
+Author it as a Markdown blockquote whose **first line is the bold label** (`> **Safety**`),
+then the body. The build scripts (`build-epub.py`, `build-print-pdf.py`) recognise the label,
+wrap the block in the matching colour class, and add the icon automatically — so the manuscript
+stays plain Markdown and the colour/icon can never drift out of sync. The front matter carries a
+one-card **legend** of all five so the reader learns the system on page one. Do **not** hand-add
+icons or colour in the text; just use the exact label.
 
 ## 7. Structural & House Rules
 
@@ -160,6 +170,7 @@ and the correction is logged below so it is transparent, not silent.
 | 2026-06-05 | First 5 sample chapters | Chapter band 1,600–2,600 → **1,200–2,200** words | The book is an illustrated, box-driven project guide (Draganja-style). The five drafted chapters were expanded ~60–75% to ~1,300–1,530 words and read complete; the original band was set before the format was decided and was too high. `book-check.py` thresholds updated to match. Voice/structure rules unchanged. |
 | 2026-06-05 | Kapitel 8 | Added **homograph guard** to `book-check.py` (errors on Cyrillic/Greek letters) | A Cyrillic "а" (U+0430), visually identical to Latin "a", had slipped into "lägga-tillbaka-testet" and survived several passes because nothing checked for it. Fixed the chapter, then taught the checker to catch any non-Latin homograph so it can never recur silently. |
 | 2026-06-06 | Whole book | **English-first pivot.** English becomes the master edition; Swedish moves to `sv/`. | The author judged the English voice stronger. English also lets the method use the real **5S** terms (Sort, Set in Order, Shine, Standardize, Sustain) — a more authentic credibility hook than the translated Swedish S-words. `book-check.py`, `build-epub.py`, `build-cover.py` made language-aware (`--lang`); voice rules upgraded to vivid + named characters (§2). |
+| 2026-06-11 | Whole book (design) | **Colour-coding & compartment-layout pass** (JDS-PRO-007). The five recurring boxes now each have a fixed colour + greyscale-safe icon (Safety ▲ red, Weekend Project ▶ green, Workshop Rule ● navy, Specs ◆ steel blue, Inherited & Hard ◇ amber); a one-card legend was added to the front matter; body text switched from justified to left-aligned (PRO-007 §5.2). | The author asked for the JDS repo's information-design discipline in the book — Japanese "compartment" pages, colour coding, and tables that make pages worth reading. The boxes were already there but visually identical; encoding them in colour+icon+label makes the book scan in half a second while staying readable in pure B&W. Two parsing bugs were fixed at the root in the build scripts: adjacent boxes merged into one, and a box following another lost its colour. |
 | 2026-06-10 | English edition (critique) | **Tighten & harden pass.** Cut all `## Takeaways` recaps; removed word-count padding; rewrote the build chapters (5,6,7) with hard specs; added **Specs** boxes; imperial units; floor lowered 1,200 → **850**. | A two-lens critique (book critic + master garage builder) found the book over-padded and short on builder credibility — generic where free content already wins. Fix = *less filler, more substance*: the Takeaways restated the prose (the Workshop Rule already carries the nugget), padding was added earlier only to hit a floor, and the build chapters lacked real numbers (anchors by substrate, French cleats, overhead-rack loads, mounting heights, bench height, lighting lumens, fuel/propane storage). The floor was lowered because dense-and-short is now the goal, not a length target. |
 
 ---

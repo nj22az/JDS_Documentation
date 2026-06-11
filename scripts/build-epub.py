@@ -63,7 +63,7 @@ h1 { font-size: 1.6em; line-height: 1.2; margin: 1.2em 0 0.6em; page-break-befor
 h2 { font-size: 1.2em; margin: 1.4em 0 0.4em; }
 h3 { font-size: 1.05em; margin: 1.2em 0 0.3em; }
 h4 { font-size: 1em; font-style: italic; margin: 1em 0 0.3em; }
-p { margin: 0 0 0.8em; text-align: justify; }
+p { margin: 0 0 0.8em; text-align: left; }
 blockquote {
     background: #f3f3f1; border-left: 4px solid #4a4a4a;
     margin: 1.2em 0; padding: 0.6em 1em; border-radius: 2px;
@@ -79,6 +79,41 @@ figure.fig { margin: 1.2em 0; text-align: center; }
 figure.fig figcaption { font-size: 0.85em; color: #555; margin-top: 0.3em; }
 .figph { border: 2px dashed #9aa7b4; background: #f4f6f8; padding: 1em; margin: 1.2em 0;
     text-align: center; color: #33475b; border-radius: 3px; line-height: 1.5; }
+
+/* Colour-coded boxes (JDS-PRO-007 §6: colour is language, never colour alone).
+   Each box carries a left-border colour, a tinted ground, AND a leading icon on
+   the label, so it still reads on greyscale e-ink and photocopies (§6.2). */
+.box { background: #f3f3f1; border-left: 4px solid #4a4a4a;
+    margin: 1.2em 0; padding: 0.6em 1em; border-radius: 2px; }
+.box p { text-align: left; }
+.box > :first-child { margin-top: 0; }
+.box > :last-child { margin-bottom: 0; }
+/* The label is the first <strong> of the box's first paragraph — scope the
+   colour and leading icon to it only, so bold lead-ins in lists stay plain. */
+.box > p:first-child > strong:first-child { display: block; margin-bottom: 0.3em; }
+.box.box-safety { border-left-color: #b5302e; background: #faf0ef; }
+.box.box-safety > p:first-child > strong:first-child { color: #b5302e; }
+.box.box-safety > p:first-child > strong:first-child::before { content: "\\25B2  "; }
+.box.box-do { border-left-color: #2f7d5b; background: #eef6f1; }
+.box.box-do > p:first-child > strong:first-child { color: #2f7d5b; }
+.box.box-do > p:first-child > strong:first-child::before { content: "\\25B6  "; }
+.box.box-rule { border-left-color: #1b3a5c; background: #eef1f5; }
+.box.box-rule > p:first-child > strong:first-child { color: #1b3a5c; }
+.box.box-rule > p:first-child > strong:first-child::before { content: "\\25CF  "; }
+.box.box-specs { border-left-color: #3f7e96; background: #eef4f6; }
+.box.box-specs > p:first-child > strong:first-child { color: #3f7e96; }
+.box.box-specs > p:first-child > strong:first-child::before { content: "\\25C6  "; }
+.box.box-soft { border-left-color: #b5852a; background: #f7f2e6; }
+.box.box-soft > p:first-child > strong:first-child { color: #8a6420; }
+.box.box-soft > p:first-child > strong:first-child::before { content: "\\25C7  "; }
+
+/* Compartment legend (the "how this book is laid out" card). */
+.legend { border: 1px solid #d4d4d0; border-radius: 3px; padding: 0.4em 1em;
+    margin: 1.2em 0; background: #fafafa; }
+.legend table { width: 100%; border-collapse: collapse; }
+.legend td { padding: 0.35em 0.5em; vertical-align: top; font-size: 0.95em;
+    border-bottom: 1px solid #eee; }
+.legend td:first-child { white-space: nowrap; font-weight: bold; width: 11em; }
 """.strip()
 
 
@@ -100,6 +135,51 @@ def _figure_html(m):
             f'<em>Place fig-{int(n):02d}.jpg in 03-assets/images/figures/ and rebuild.</em></div>')
 
 
+# Colour-coded box system (JDS-PRO-007 §6: colour is language, always with a label).
+# Each recognised box label maps to a class; the CSS pairs the colour with a
+# greyscale-safe icon + the bold label so it reads on e-ink and photocopies.
+BOX_MAP = [("Weekend Project", "box-do"), ("Helgprojektet", "box-do"),
+           ("Workshop Rule", "box-rule"), ("Verkstadsregeln", "box-rule"),
+           ("Safety", "box-safety"), ("Säkerhet", "box-safety"),
+           ("Specs", "box-specs"), ("Mått & fakta", "box-specs"),
+           ("Inherited & Hard", "box-soft"), ("Ärvt & svårt", "box-soft")]
+
+
+def _box_class(label):
+    return next((c for k, c in BOX_MAP if label.startswith(k)), None)
+
+
+def _render_box_blocks(text):
+    """Turn each '>' block that opens with **Label** into a classed div.
+
+    Done before markdown runs so adjacent boxes never merge into one blockquote
+    and the class is chosen from the raw label (before '&' becomes '&amp;').
+    Unrecognised quoted blocks are left untouched for normal blockquote rendering.
+    """
+    lines = text.split("\n")
+    out, i, n = [], 0, len(lines)
+    while i < n:
+        m = re.match(r'^>\s?\*\*([^*]+)\*\*', lines[i])
+        cls = _box_class(m.group(1)) if m else None
+        if cls:
+            block = []
+            while i < n and lines[i].startswith(">"):
+                block.append(re.sub(r'^>\s?', "", lines[i]))
+                i += 1
+            inner = "\n".join(block)
+            # A top-level list needs a blank line above it to parse (markdown won't
+            # start one mid-paragraph). Only fire when a non-indented, non-list line
+            # is directly above a non-indented list marker — so wrapped/indented
+            # sub-bullets in Specs boxes are left intact.
+            inner = re.sub(r'(?m)^(?P<p>(?![ \t])(?![-*+]\s)(?!\d+\.\s).*\S)\n'
+                           r'(?=(?:[-*+]|\d+\.)\s)', r'\g<p>\n\n', inner)
+            out += [f'<div class="box {cls}" markdown="1">', "", inner, "", "</div>"]
+        else:
+            out.append(lines[i])
+            i += 1
+    return "\n".join(out)
+
+
 def read_md(path):
     lines = [ln for ln in path.read_text(encoding="utf-8").splitlines()
              if not ln.strip().startswith("<!--")]
@@ -107,6 +187,7 @@ def read_md(path):
     title = next((ln[2:].strip() for ln in text.splitlines() if ln.startswith("# ")),
                  path.stem)
     text = re.sub(r'\[\[FIGURE:(\d+)\|(.+?)\]\]', _figure_html, text, flags=re.S)
+    text = _render_box_blocks(text)
     body = markdown.markdown(text, extensions=MD_EXTENSIONS)
     # Flatten any manuscript-relative image path to the EPUB-internal images/ folder.
     body = re.sub(r'src="[^"]*?/([^"/]+\.png)"', r'src="images/\1"', body)

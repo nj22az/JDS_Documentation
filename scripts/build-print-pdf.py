@@ -93,13 +93,43 @@ section.front h1 { margin-top: 1.1in; }
 h2 { font-size: 13pt; margin: 1.3em 0 0.4em; page-break-after: avoid; }
 h3 { font-size: 11.5pt; margin: 1.1em 0 0.3em; page-break-after: avoid; }
 h4 { font-size: 10.5pt; font-style: italic; }
-p { margin: 0 0 0.65em; text-align: justify; hyphens: auto; orphans: 2; widows: 2; }
+p { margin: 0 0 0.65em; text-align: left; orphans: 2; widows: 2; }
 blockquote {
     background: #f2f2f0; border-left: 3pt solid #555;
     margin: 0.9em 0; padding: 0.5em 0.8em;
     page-break-inside: avoid; text-align: left;
 }
 blockquote p { text-align: left; }
+blockquote strong:first-child { display: block; margin-bottom: 0.25em; }
+
+/* Colour-coded boxes (JDS-PRO-007 §6). The cheap KDP print tier is B&W, so the
+   leading icon + bold label + border carry the meaning; the colour is a bonus
+   on any colour-tier reprint (§6.2 redundant encoding). */
+.box { background: #f2f2f0; border-left: 3pt solid #555; margin: 0.9em 0;
+    padding: 0.5em 0.8em; page-break-inside: avoid; text-align: left; }
+.box p { text-align: left; }
+.box > :first-child { margin-top: 0; }
+.box > :last-child { margin-bottom: 0; }
+/* Scope label styling to the box's first paragraph only (not bold list lead-ins). */
+.box > p:first-child > strong:first-child { display: block; margin-bottom: 0.25em; }
+.box.box-safety { border-left-color: #b5302e; background: #f4ecec; }
+.box.box-safety > p:first-child > strong:first-child::before { content: "\\25B2  "; }
+.box.box-do { border-left-color: #2f7d5b; background: #ecf1ee; }
+.box.box-do > p:first-child > strong:first-child::before { content: "\\25B6  "; }
+.box.box-rule { border-left-color: #1b3a5c; background: #eceff2; }
+.box.box-rule > p:first-child > strong:first-child::before { content: "\\25CF  "; }
+.box.box-specs { border-left-color: #3f7e96; background: #eceff1; }
+.box.box-specs > p:first-child > strong:first-child::before { content: "\\25C6  "; }
+.box.box-soft { border-left-color: #b5852a; background: #f3efe6; }
+.box.box-soft > p:first-child > strong:first-child::before { content: "\\25C7  "; }
+
+/* Compartment legend ("how this book is laid out" card). */
+.legend { border: 0.5pt solid #999; border-radius: 2pt; padding: 2mm 4mm;
+    margin: 5mm 0; page-break-inside: avoid; }
+.legend table { font-size: 9.5pt; margin: 0; }
+.legend td { border: none; border-bottom: 0.4pt solid #ddd; padding: 2mm 3mm;
+    vertical-align: top; }
+.legend td:first-child { white-space: nowrap; font-weight: bold; width: 42mm; }
 ul, ol { margin: 0 0 0.7em 1.1em; }
 li { margin-bottom: 0.2em; }
 table { border-collapse: collapse; width: 100%; font-size: 8.5pt; margin: 0.8em 0; }
@@ -145,10 +175,52 @@ def _figure_html(m):
             f'<em>Place fig-{int(n):02d}.jpg in 03-assets/images/figures/ and rebuild.</em></div>')
 
 
+# Colour-coded box system (JDS-PRO-007 §6: colour is language, always with a label).
+BOX_MAP = [("Weekend Project", "box-do"), ("Helgprojektet", "box-do"),
+           ("Workshop Rule", "box-rule"), ("Verkstadsregeln", "box-rule"),
+           ("Safety", "box-safety"), ("Säkerhet", "box-safety"),
+           ("Specs", "box-specs"), ("Mått & fakta", "box-specs"),
+           ("Inherited & Hard", "box-soft"), ("Ärvt & svårt", "box-soft")]
+
+
+def _box_class(label):
+    return next((c for k, c in BOX_MAP if label.startswith(k)), None)
+
+
+def _render_box_blocks(text):
+    """Turn each '>' block that opens with **Label** into a classed div.
+
+    Done before markdown so adjacent boxes never merge and the class is chosen
+    from the raw label (before '&' becomes '&amp;'). Unrecognised quoted blocks
+    are left untouched for normal blockquote rendering.
+    """
+    lines = text.split("\n")
+    out, i, n = [], 0, len(lines)
+    while i < n:
+        m = re.match(r'^>\s?\*\*([^*]+)\*\*', lines[i])
+        cls = _box_class(m.group(1)) if m else None
+        if cls:
+            block = []
+            while i < n and lines[i].startswith(">"):
+                block.append(re.sub(r'^>\s?', "", lines[i]))
+                i += 1
+            inner = "\n".join(block)
+            # Blank line above a top-level list so it parses; indented sub-bullets
+            # (Specs boxes) are left intact. Subsumes the label-then-list case.
+            inner = re.sub(r'(?m)^(?P<p>(?![ \t])(?![-*+]\s)(?!\d+\.\s).*\S)\n'
+                           r'(?=(?:[-*+]|\d+\.)\s)', r'\g<p>\n\n', inner)
+            out += [f'<div class="box {cls}" markdown="1">', "", inner, "", "</div>"]
+        else:
+            out.append(lines[i])
+            i += 1
+    return "\n".join(out)
+
+
 def read_md(path):
     lines = [ln for ln in path.read_text(encoding="utf-8").splitlines()
              if not ln.strip().startswith("<!--")]
     text = re.sub(r'\[\[FIGURE:(\d+)\|(.+?)\]\]', _figure_html, "\n".join(lines).strip(), flags=re.S)
+    text = _render_box_blocks(text)
     body = markdown.markdown(text, extensions=MD_EXTENSIONS)
     # Point any manuscript-relative image path at the absolute asset (handles qr/ subdir).
     body = re.sub(r'src="[^"]*?/([^"/]+\.png)"',
