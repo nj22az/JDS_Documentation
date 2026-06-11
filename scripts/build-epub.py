@@ -103,30 +103,26 @@ figure.fig figcaption { font-size: 0.85em; color: #555; margin-top: 0.3em; }
     font-family: 'Rounded', sans-serif; font-weight: 700; font-size: 1.04em;
     letter-spacing: 0.01em; }
 .box-icon { margin-right: 0.5em; font-size: 0.9em; vertical-align: 0.04em; }
-/* The whole box is white. Each paragraph / list item is its own white
-   compartment outlined in the box colour, and the text + bullets take a
-   darkened shade of that colour (a blue bento has blue text). */
-.box-body { background: #fff; padding: 5px; }
-.box-body p { text-align: left; }
-.box-body ul, .box-body ol { margin: 0; padding: 0; list-style-position: inside; }
-.box-body > p, .box-body li { background: #fff; border: 1px solid #ccc;
-    border-radius: 7px; margin: 5px; padding: 0.4em 0.7em; }
+/* The whole box is white with a single coloured outline; the text and bullets
+   take a darkened shade of that colour (a blue bento has blue text). */
+.box-body { background: #fff; padding: 0.5em 0.9em 0.6em; }
+.box-body p { text-align: left; margin: 0.35em 0; }
+.box-body ul, .box-body ol { margin: 0.35em 0; padding-left: 1.3em; }
+.box-body li { margin: 0.2em 0; }
+.box-body > :first-child { margin-top: 0; }
+.box-body > :last-child { margin-bottom: 0; }
 .box.box-safety { border-color: #cf3127; }
 .box.box-safety .box-head { background: #cf3127; }
 .box.box-safety .box-body { color: #b3271e; }
-.box.box-safety .box-body > p, .box.box-safety .box-body li { border-color: #e8b0ab; }
 .box.box-do { border-color: #2f8f5b; }
 .box.box-do .box-head { background: #2f8f5b; }
 .box.box-do .box-body { color: #236b44; }
-.box.box-do .box-body > p, .box.box-do .box-body li { border-color: #abd4be; }
 .box.box-rule { border-color: #1b3a5c; }
 .box.box-rule .box-head { background: #1b3a5c; }
 .box.box-rule .box-body { color: #1b3a5c; }
-.box.box-rule .box-body > p, .box.box-rule .box-body li { border-color: #aab9ca; }
 .box.box-specs { border-color: #2e7fa6; }
 .box.box-specs .box-head { background: #2e7fa6; }
 .box.box-specs .box-body { color: #235f7e; }
-.box.box-specs .box-body > p, .box.box-specs .box-body li { border-color: #a6c8db; }
 .box.box-soft { border-color: #a9741c; }
 .box.box-soft .box-head { background: #a9741c; }
 .box.box-soft .box-body { color: #7d5413; }
