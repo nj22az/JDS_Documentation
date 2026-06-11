@@ -115,8 +115,9 @@ the cheap B&W paperback tier (JDS-PRO-007 §6.2 *redundant encoding*).
 | **Inherited & Hard** / Ärvt & svårt | Amber / Bronze | ◇ | The emotional/inherited-gear angle | Gentle, respectful |
 
 Author it as a Markdown blockquote whose **first line is the bold label** (`> **Safety**`),
-then the body. The build scripts (`build-epub.py`, `build-print-pdf.py`) recognise the label,
-wrap the block in the matching colour class, and add the icon automatically — so the manuscript
+then the body. The build scripts (`build-epub.py`, `build-print-pdf.py`) recognise the label and
+render a bold **"candy-panel"** card — a solid saturated header bar (white icon + label, rounded
+maru-gothic) on a clean white card with a chunky rounded border — automatically. The manuscript
 stays plain Markdown and the colour/icon can never drift out of sync. The front matter carries a
 one-card **legend** of all five so the reader learns the system on page one. Do **not** hand-add
 icons or colour in the text; just use the exact label.

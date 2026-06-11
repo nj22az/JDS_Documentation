@@ -12,6 +12,7 @@ Usage:
     python3 scripts/build-epub.py --check          # list section order
 """
 
+import html
 import re
 import sys
 from pathlib import Path
@@ -93,32 +94,24 @@ figure.fig figcaption { font-size: 0.85em; color: #555; margin-top: 0.3em; }
     text-align: center; color: #33475b; border-radius: 3px; line-height: 1.5; }
 
 /* Colour-coded boxes (JDS-PRO-007 §6: colour is language, never colour alone).
-   Each box carries a left-border colour, a tinted ground, AND a leading icon on
-   the label, so it still reads on greyscale e-ink and photocopies (§6.2). */
-.box { background: #f3f3f1; border-left: 5px solid #4a4a4a;
-    margin: 1.2em 0; padding: 0.6em 1em; border-radius: 10px; }
-.box p { text-align: left; }
-.box > :first-child { margin-top: 0; }
-.box > :last-child { margin-bottom: 0; }
-/* The label is the first <strong> of the box's first paragraph — scope the
-   colour, rounded font and leading icon to it only, so bold lead-ins stay plain. */
-.box > p:first-child > strong:first-child { display: block; margin-bottom: 0.3em;
-    font-family: 'Rounded', Georgia, sans-serif; font-weight: 700; }
-.box.box-safety { border-left-color: #b5302e; background: #faf0ef; }
-.box.box-safety > p:first-child > strong:first-child { color: #b5302e; }
-.box.box-safety > p:first-child > strong:first-child::before { content: "\\25B2  "; }
-.box.box-do { border-left-color: #2f7d5b; background: #eef6f1; }
-.box.box-do > p:first-child > strong:first-child { color: #2f7d5b; }
-.box.box-do > p:first-child > strong:first-child::before { content: "\\25B6  "; }
-.box.box-rule { border-left-color: #1b3a5c; background: #eef1f5; }
-.box.box-rule > p:first-child > strong:first-child { color: #1b3a5c; }
-.box.box-rule > p:first-child > strong:first-child::before { content: "\\25CF  "; }
-.box.box-specs { border-left-color: #3f7e96; background: #eef4f6; }
-.box.box-specs > p:first-child > strong:first-child { color: #3f7e96; }
-.box.box-specs > p:first-child > strong:first-child::before { content: "\\25C6  "; }
-.box.box-soft { border-left-color: #b5852a; background: #f7f2e6; }
-.box.box-soft > p:first-child > strong:first-child { color: #8a6420; }
-.box.box-soft > p:first-child > strong:first-child::before { content: "\\25C7  "; }
+   Bold "candy-panel" style (Japanese packaging influence): a solid saturated
+   header bar with a white icon + label, on a clean white card with a chunky
+   rounded border. The header colour + icon + label survive greyscale (§6.2). */
+.box { background: #fff; border: 1.5px solid #ccc;
+    margin: 1.3em 0; border-radius: 14px; overflow: hidden; }
+.box-head { margin: 0; padding: 0.42em 0.9em; color: #fff;
+    font-family: 'Rounded', sans-serif; font-weight: 700; font-size: 1.04em;
+    letter-spacing: 0.01em; }
+.box-icon { margin-right: 0.5em; font-size: 0.9em; vertical-align: 0.04em; }
+.box-body { padding: 0.6em 0.95em 0.7em; }
+.box-body p { text-align: left; }
+.box-body > :first-child { margin-top: 0; }
+.box-body > :last-child { margin-bottom: 0; }
+.box.box-safety { border-color: #cf3127; } .box.box-safety .box-head { background: #cf3127; }
+.box.box-do { border-color: #2f8f5b; } .box.box-do .box-head { background: #2f8f5b; }
+.box.box-rule { border-color: #1b3a5c; } .box.box-rule .box-head { background: #1b3a5c; }
+.box.box-specs { border-color: #2e7fa6; } .box.box-specs .box-head { background: #2e7fa6; }
+.box.box-soft { border-color: #a9741c; } .box.box-soft .box-head { background: #a9741c; }
 
 /* Chapter-opener dashboard (JDS-PRO-007 §5.3). A rounded 2x2 "bento": small-caps
    label + value, so the reader sees the shape of the chapter at a glance. The
@@ -200,16 +193,20 @@ BOX_MAP = [("Weekend Project", "box-do"), ("Helgprojektet", "box-do"),
            ("Inherited & Hard", "box-soft"), ("Ärvt & svårt", "box-soft")]
 
 
+BOX_ICON = {"box-safety": "▲", "box-do": "▶", "box-rule": "●",
+            "box-specs": "◆", "box-soft": "◇"}
+
+
 def _box_class(label):
     return next((c for k, c in BOX_MAP if label.startswith(k)), None)
 
 
 def _render_box_blocks(text):
-    """Turn each '>' block that opens with **Label** into a classed div.
+    """Turn each '>' block that opens with **Label** into a colour-panel div.
 
-    Done before markdown runs so adjacent boxes never merge into one blockquote
-    and the class is chosen from the raw label (before '&' becomes '&amp;').
-    Unrecognised quoted blocks are left untouched for normal blockquote rendering.
+    Each box becomes a card with a solid header bar (icon + label) and a body.
+    Done before markdown so adjacent boxes never merge and the class/label come
+    from the raw text. Unrecognised quoted blocks are left for normal rendering.
     """
     lines = text.split("\n")
     out, i, n = [], 0, len(lines)
@@ -222,13 +219,21 @@ def _render_box_blocks(text):
                 block.append(re.sub(r'^>\s?', "", lines[i]))
                 i += 1
             inner = "\n".join(block)
-            # A top-level list needs a blank line above it to parse (markdown won't
-            # start one mid-paragraph). Only fire when a non-indented, non-list line
-            # is directly above a non-indented list marker — so wrapped/indented
-            # sub-bullets in Specs boxes are left intact.
-            inner = re.sub(r'(?m)^(?P<p>(?![ \t])(?![-*+]\s)(?!\d+\.\s).*\S)\n'
-                           r'(?=(?:[-*+]|\d+\.)\s)', r'\g<p>\n\n', inner)
-            out += [f'<div class="box {cls}" markdown="1">', "", inner, "", "</div>"]
+            # Split the label off its own header; the rest becomes the card body.
+            head = re.match(r'\*\*(.+?)\*\*[ \t]*(.*)', inner, flags=re.S)
+            label, body_md = head.group(1).strip(), head.group(2).strip()
+            # A top-level list needs a blank line above it to parse; wrapped/indented
+            # sub-bullets (Specs boxes) are left intact.
+            body_md = re.sub(r'(?m)^(?P<p>(?![ \t])(?![-*+]\s)(?!\d+\.\s).*\S)\n'
+                             r'(?=(?:[-*+]|\d+\.)\s)', r'\g<p>\n\n', body_md)
+            icon = BOX_ICON.get(cls, "")
+            out += [
+                f'<div class="box {cls}" markdown="1">',
+                f'<p class="box-head"><span class="box-icon">{icon}</span>'
+                f'{html.escape(label)}</p>',
+                '<div class="box-body" markdown="1">', "", body_md, "", "</div>",
+                "</div>",
+            ]
         else:
             out.append(lines[i])
             i += 1

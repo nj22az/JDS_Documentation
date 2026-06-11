@@ -14,6 +14,7 @@ Usage:
     python3 scripts/build-print-pdf.py --lang sv        # Swedish interior
 """
 
+import html
 import re
 import sys
 from pathlib import Path
@@ -118,27 +119,24 @@ blockquote {
 blockquote p { text-align: left; }
 blockquote strong:first-child { display: block; margin-bottom: 0.25em; }
 
-/* Colour-coded boxes (JDS-PRO-007 §6). The cheap KDP print tier is B&W, so the
-   leading icon + bold label + border carry the meaning; the colour is a bonus
-   on any colour-tier reprint (§6.2 redundant encoding). */
-.box { background: #f2f2f0; border-left: 4pt solid #555; margin: 0.9em 0;
-    padding: 0.5em 0.8em; page-break-inside: avoid; text-align: left; border-radius: 9pt; }
-.box p { text-align: left; }
-.box > :first-child { margin-top: 0; }
-.box > :last-child { margin-bottom: 0; }
-/* Scope label styling to the box's first paragraph only (not bold list lead-ins). */
-.box > p:first-child > strong:first-child { display: block; margin-bottom: 0.25em;
-    font-family: 'Rounded', Georgia, sans-serif; font-weight: 700; }
-.box.box-safety { border-left-color: #b5302e; background: #f4ecec; }
-.box.box-safety > p:first-child > strong:first-child::before { content: "\\25B2  "; }
-.box.box-do { border-left-color: #2f7d5b; background: #ecf1ee; }
-.box.box-do > p:first-child > strong:first-child::before { content: "\\25B6  "; }
-.box.box-rule { border-left-color: #1b3a5c; background: #eceff2; }
-.box.box-rule > p:first-child > strong:first-child::before { content: "\\25CF  "; }
-.box.box-specs { border-left-color: #3f7e96; background: #eceff1; }
-.box.box-specs > p:first-child > strong:first-child::before { content: "\\25C6  "; }
-.box.box-soft { border-left-color: #b5852a; background: #f3efe6; }
-.box.box-soft > p:first-child > strong:first-child::before { content: "\\25C7  "; }
+/* Colour-coded boxes (JDS-PRO-007 §6). Bold "candy-panel" style: a solid
+   saturated header bar (white icon + label) on a white card with a chunky
+   rounded border. In B&W the header prints as a dark bar with white text, so
+   the icon + label + bar still carry the meaning (§6.2 redundant encoding). */
+.box { background: #fff; border: 1pt solid #ccc; margin: 0.95em 0;
+    page-break-inside: avoid; text-align: left; border-radius: 12pt; overflow: hidden; }
+.box-head { margin: 0; padding: 1.3mm 2.6mm; color: #fff;
+    font-family: 'Rounded', sans-serif; font-weight: 700; font-size: 11pt; }
+.box-icon { margin-right: 1.4mm; font-size: 9.5pt; }
+.box-body { padding: 1.8mm 2.8mm 2.2mm; }
+.box-body p { text-align: left; }
+.box-body > :first-child { margin-top: 0; }
+.box-body > :last-child { margin-bottom: 0; }
+.box.box-safety { border-color: #cf3127; } .box.box-safety .box-head { background: #cf3127; }
+.box.box-do { border-color: #2f8f5b; } .box.box-do .box-head { background: #2f8f5b; }
+.box.box-rule { border-color: #1b3a5c; } .box.box-rule .box-head { background: #1b3a5c; }
+.box.box-specs { border-color: #2e7fa6; } .box.box-specs .box-head { background: #2e7fa6; }
+.box.box-soft { border-color: #a9741c; } .box.box-soft .box-head { background: #a9741c; }
 
 /* Chapter-opener dashboard (JDS-PRO-007 §5.3). Rounded 2x2 bento; the wrapper
    rounds + clips the table corners. */
@@ -237,16 +235,20 @@ BOX_MAP = [("Weekend Project", "box-do"), ("Helgprojektet", "box-do"),
            ("Inherited & Hard", "box-soft"), ("Ärvt & svårt", "box-soft")]
 
 
+BOX_ICON = {"box-safety": "▲", "box-do": "▶", "box-rule": "●",
+            "box-specs": "◆", "box-soft": "◇"}
+
+
 def _box_class(label):
     return next((c for k, c in BOX_MAP if label.startswith(k)), None)
 
 
 def _render_box_blocks(text):
-    """Turn each '>' block that opens with **Label** into a classed div.
+    """Turn each '>' block that opens with **Label** into a colour-panel div.
 
-    Done before markdown so adjacent boxes never merge and the class is chosen
-    from the raw label (before '&' becomes '&amp;'). Unrecognised quoted blocks
-    are left untouched for normal blockquote rendering.
+    Each box becomes a card with a solid header bar (icon + label) and a body.
+    Done before markdown so adjacent boxes never merge and the class/label come
+    from the raw text. Unrecognised quoted blocks are left for normal rendering.
     """
     lines = text.split("\n")
     out, i, n = [], 0, len(lines)
@@ -259,11 +261,20 @@ def _render_box_blocks(text):
                 block.append(re.sub(r'^>\s?', "", lines[i]))
                 i += 1
             inner = "\n".join(block)
+            head = re.match(r'\*\*(.+?)\*\*[ \t]*(.*)', inner, flags=re.S)
+            label, body_md = head.group(1).strip(), head.group(2).strip()
             # Blank line above a top-level list so it parses; indented sub-bullets
-            # (Specs boxes) are left intact. Subsumes the label-then-list case.
-            inner = re.sub(r'(?m)^(?P<p>(?![ \t])(?![-*+]\s)(?!\d+\.\s).*\S)\n'
-                           r'(?=(?:[-*+]|\d+\.)\s)', r'\g<p>\n\n', inner)
-            out += [f'<div class="box {cls}" markdown="1">', "", inner, "", "</div>"]
+            # (Specs boxes) are left intact.
+            body_md = re.sub(r'(?m)^(?P<p>(?![ \t])(?![-*+]\s)(?!\d+\.\s).*\S)\n'
+                             r'(?=(?:[-*+]|\d+\.)\s)', r'\g<p>\n\n', body_md)
+            icon = BOX_ICON.get(cls, "")
+            out += [
+                f'<div class="box {cls}" markdown="1">',
+                f'<p class="box-head"><span class="box-icon">{icon}</span>'
+                f'{html.escape(label)}</p>',
+                '<div class="box-body" markdown="1">', "", body_md, "", "</div>",
+                "</div>",
+            ]
         else:
             out.append(lines[i])
             i += 1
