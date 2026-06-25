@@ -56,12 +56,9 @@ LOGO_PATH = os.path.join(ASSETS_DIR, 'logo.png')
 # JDS Colour Palette (JDS-PRO-007 §6.1)
 # ---------------------------------------------------------------------------
 NAVY_BLUE = "1B3A5C"
-STEEL_BLUE = "4A90A4"
 WARM_GRAY = "8C8C8C"
-FOREST_GREEN = "3D8B6E"
-SIGNAL_RED = "D04040"
 WHITE = "FFFFFF"
-ALT_ROW = "F0F3F6"
+ALT_ROW = "F0F3F6"   # Soft pastel zebra stripe (CUD-safe, PRO-007 §6.2)
 
 # ---------------------------------------------------------------------------
 # Reusable Styles

@@ -12,6 +12,11 @@ All changes to the JDS documentation system itself are recorded here. This provi
 - **Corner-geometry-as-meaning** codified in PRO-007 §15.4: sharper corners signal more normative content (data 8pt → callout 16pt → Guide Note 18pt).
 - **JDS-PRO-007 bumped to Rev E**; CLAUDE.md callout conventions table added.
 
+### Enhanced — Mascot Voice & Report Rigor
+- **Doc speaks in the CLI** — `jds-validate.py` now closes every run with one adaptive `Doc says:` line (PRO-007 §15.6); the `✗`/`⚠` findings remain the source of truth.
+- **Report template Rev B** — added §5 *Methodology & Data Provenance* (method/standards, data-source traceability table, intermediate-calculations & variance table). Showing the working and data lineage is now a first-class part of every report.
+- **Office-docs generator** confirmed CUD-compliant (soft-pastel zebra `F0F3F6`, no red/green binaries); removed 3 unused palette constants (dead code, JDS-PRO-004 §1).
+
 ### Fixed — Repository Hygiene
 - **`safe-to-delete/` removed** — 4 stray PDF exports deleted from version control (Git is the controlled copy; PDFs are uncontrolled, PRO-005 §6).
 - **`md2pdf.py` H1 font-size corrected** 22pt → 20pt to match PRO-007 §4 and the validator's CSS-compliance check.

@@ -34,7 +34,7 @@ This is the master list of all documents in the JDS system. Every document must 
 
 | Doc No. | Title | Rev | Date | Status | Author |
 |---------|-------|-----|------|--------|--------|
-| [JDS-TMP-RPT-001](../templates/reports/JDS-TMP-RPT-001_report-template.md) | Report Template | A | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-TMP-RPT-001](../templates/reports/JDS-TMP-RPT-001_report-template.md) | Report Template | B | 2026-06-25 | APPROVED | N. Johansson |
 | [JDS-TMP-TSH-001](../templates/timesheets/JDS-TMP-TSH-001_timesheet-template.md) | Timesheet Template | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-TMP-EXP-001](../templates/expenses/JDS-TMP-EXP-001_expense-template.md) | Expense Report Template | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-TMP-MAN-001](../templates/manuals/JDS-TMP-MAN-001_manual-template.md) | Manual Template | A | 2026-03-25 | APPROVED | N. Johansson |

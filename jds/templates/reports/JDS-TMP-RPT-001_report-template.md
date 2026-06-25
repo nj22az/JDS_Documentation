@@ -36,11 +36,35 @@
 
 [Details]
 
-## 5. Results / Conclusions
+## 5. Methodology & Data Provenance
+
+[How the work was done and where every input came from. In engineering, the method and the data lineage are as important as the result — a reader must be able to retrace your steps and trust each input. Do not hide the working behind a clean conclusion.]
+
+### 5.1 Method & Standards
+
+[Test methods and procedures followed, instruments used (with calibration status / serial numbers where relevant), and the standards or regulations applied.]
+
+### 5.2 Data Provenance
+
+[Record where each significant input came from, so any value can be traced to its source.]
+
+| Input / Value | Source | Date obtained | Captured by |
+|---|---|---|---|
+| [Measurement or value] | [Instrument / document / system] | YYYY-MM-DD | [Name] |
+
+### 5.3 Intermediate Calculations & Variance
+
+[Show the working, not just the final figure — key formulae, assumptions, and any variance between expected and observed values, with an explanation for each.]
+
+| Quantity | Expected | Observed | Variance | Notes |
+|---|---|---|---|---|
+| [Item] | [value] | [value] | [Δ] | [explanation] |
+
+## 6. Results / Conclusions
 
 [What are the outcomes? What do the findings mean?]
 
-## 6. Recommendations
+## 7. Recommendations
 
 [What actions should be taken based on this report? Be specific.]
 
@@ -49,7 +73,7 @@
 | 1 | [Action item] | High / Medium / Low |
 | 2 | [Action item] | High / Medium / Low |
 
-## 7. Attachments
+## 8. Attachments
 
 [List any attached files, photos, data sheets, etc.]
 
