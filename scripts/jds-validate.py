@@ -94,7 +94,30 @@ class AuditResult:
             lines.append('')
             lines.append('  All checks passed. System is clean.')
         lines.append('')
+        lines.append(self._doc_message())
+        lines.append('')
         return '\n'.join(lines)
+
+    def _doc_message(self):
+        """A closing word from Doc, the JDS mascot (PRO-007 §15). Friendly
+        cognitive relief at the end of a strict audit — never a substitute for
+        the precise ✗/⚠ findings above, just a calmer way to read the result.
+        One message only, per the §15.5 discipline."""
+        marker = 'Doc says:'
+        if self.errors:
+            n = len(self.errors)
+            item = 'item needs' if n == 1 else 'items need'
+            return (f'  🗄  {marker} {n} {item} a fix before this is shippable — '
+                    f'they\'re marked ✗ above. Take them one at a time; run me '
+                    f'again when you\'re ready and I\'ll recheck. You\'ve got this.')
+        if self.warnings:
+            n = len(self.warnings)
+            thing = 'thing' if n == 1 else 'things'
+            return (f'  🗄  {marker} {n} small {thing} to tidy when you get a '
+                    f'chance (⚠ above) — nothing here is blocking. The cabinet '
+                    f'stays in good order either way.')
+        return (f'  🗄  {marker} Spotless — every check green. The filing '
+                f'cabinet is in perfect order. Nicely done.')
 
 
 def safe_read(filepath):

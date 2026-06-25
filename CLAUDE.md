@@ -170,7 +170,7 @@ Blockquotes opened with a bold marker render as styled callout cards in PDF (han
 | `> **Note:**` / `**Ref:**` / `**Definition:**` | Navy squircle | Informational aside, cross-reference |
 | `> **Doc says:**` | Steel-blue softened-corner **Guide Note** | Friendly mascot tip / troubleshooting / reassurance |
 
-- **Doc** is the JDS mascot (a friendly filing cabinet) — see PRO-007 §15. Guide Notes provide cognitive relief, never normative rules.
+- **Doc** is the JDS mascot (a friendly filing cabinet) — see PRO-007 §15. Guide Notes provide cognitive relief, never normative rules. Doc also closes every `jds-validate.py` run with one adaptive `Doc says:` line (PRO-007 §15.6) — the `✗`/`⚠` findings remain the source of truth.
 - **Discipline:** max 1–2 Guide Notes per document. Never use `Doc says:` for a safety item — that is always a `Warning:`.
 - **Corner geometry is meaning:** sharper corners = more normative (data tables 8pt → callouts 16pt → Guide Note 18pt). Don't override.
 

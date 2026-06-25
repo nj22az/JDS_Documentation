@@ -408,6 +408,18 @@ The more softened the corner, the less normative the content. A reader learns th
 
 Guide Notes are subject to Reduce to Essence (§2, principle 6). One or two per document is generous; more dilutes their relief value and undermines Craft Precision. A Guide Note is **never** a substitute for a Warning, a procedure step, or a registered requirement.
 
+### 15.6 Doc Beyond the Page — Tooling Voice
+
+Doc also speaks in JDS command-line tools, where the same relief principle applies: a strict audit is less intimidating when its verdict closes with a calm, human line. `scripts/jds-validate.py` ends every run with a single **`Doc says:`** message that adapts to the result — congratulating a clean run, gently flagging warnings as "tidy when you get a chance", or reassuring the user through errors ("take them one at a time… you've got this").
+
+The discipline of §15.5 holds in tooling too:
+
+- **One message per run**, at the very end — never one Guide Note per finding.
+- The precise, machine-readable findings (`✗` errors, `⚠` warnings) are unchanged and remain the source of truth. Doc's line is *additive relief*, never a replacement for the finding.
+- Doc never softens a hard failure into sounding optional. Errors still read as errors.
+
+This keeps the voice consistent wherever a person meets the system — document, PDF, or terminal.
+
 ---
 
 ## Revision History
@@ -418,4 +430,4 @@ Guide Notes are subject to Reduce to Essence (§2, principle 6). One or two per 
 | B | 2026-03-25 | Nils Johansson | Added grid system (§9), page architecture (§10), micro-typography (§11), figure/table conventions (§12), emptiness philosophy (§13), automation rules (§14) |
 | C | 2026-03-25 | Nils Johansson | Added §6.4 Logo Colour Variants — category-specific logo colours for glance-level document identification. SVG logo and automated variant generation. |
 | D | 2026-03-25 | Nils Johansson | Language authority update — all terminology now JDS English. Japanese loan words replaced with JDS-owned terms (Active Space, Compartment Design, Visual Explanation, Craft Precision). |
-| E | 2026-06-25 | Nils Johansson | Added §15 Guide Notes — the "Doc" mascot companion callout for cognitive relief. Defines the `Doc says:` marker, corner-geometry-as-meaning encoding, and usage discipline. Implemented in `md2pdf.py` (div.guide). Concept named in JDS English (Guide Note / mascot), not foreign loan words. |
+| E | 2026-06-25 | Nils Johansson | Added §15 Guide Notes — the "Doc" mascot companion callout for cognitive relief. Defines the `Doc says:` marker, corner-geometry-as-meaning encoding, usage discipline, and Doc's tooling voice (§15.6) in `jds-validate.py`. Implemented in `md2pdf.py` (div.guide) and the validator summary. Concept named in JDS English (Guide Note / mascot), not foreign loan words. |
