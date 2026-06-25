@@ -25,7 +25,7 @@ This logbook records all field service activities performed at the site. Each en
 4. **Flag follow-ups.** If something needs action later, mark it clearly in the Actions column.
 5. **Revision** — create a new revision when the logbook is reviewed or when a significant correction is needed.
 
-> **Related documents:** If a significant issue is found, raise a deviation report (JDS-TMP-RPT-005). After the visit, write a maintenance report (JDS-TMP-RPT-004) referencing this logbook.
+> **Related documents:** If a significant issue is found, raise a deviation report (JDS-TMP-RPT-005). After the visit, write a maintenance report (JDS-TMP-RPT-006) referencing this logbook.
 
 ---
 

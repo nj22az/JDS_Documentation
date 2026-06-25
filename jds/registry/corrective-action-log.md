@@ -8,20 +8,26 @@ This log tracks all nonconformances and corrective actions raised under [JDS-PRO
 
 ## Open Actions
 
-### CA-2026-008 — JDS number collisions (PRO-004 + example/template family) | OPEN
+*No open corrective actions.*
+
+## Closed Actions
+
+### CA-2026-008 — JDS number collisions (PRO-004 + example/template family) | CLOSED
 
 | | |
 |---|---|
 | **Date** | 2026-06-25 |
 | **Source** | Validator audit (orphan + numbering check) |
-| **Description** | Several distinct documents share JDS numbers already assigned to other documents: (1) **JDS-PRO-004** is double-booked — `code-audit.md` (Software Code Quality Standard, the number CLAUDE.md treats as canonical) and `inspection-planning.md` (still registered at register line 24, with a stray duplicate copy in `jds/procedures/`). (2) `JDS-RPT-MEC-003_maintenance-report-example.md` collides with the registered RPT-MEC-003 (AFS 2017:3 Consolidated). (3) `JDS-LOG-MEC-005_field-service-logbook-example.md` collides with the registered LOG-MEC-005 (Supervision Program Register). (4) `JDS-TMP-RPT-004_maintenance-report-template.md` collides with registered TMP-RPT-004 (Risk Assessment Template). (5) `JDS-TMP-LOG-005_field-service-logbook-template.md` collides with registered TMP-LOG-005 (Supervision Program Template). |
-| **Root Cause** | A maintenance-report + field-service-logbook document family was added (≈v3.3) reusing numbers already in use; CA-2026-006's PRO-004 move left a duplicate, then a new code-audit doc took the PRO-004 number. The validator detected the orphans but renumbering was deferred. |
+| **Description** | Several distinct documents shared JDS numbers already assigned to other documents: (1) **JDS-PRO-004** was double-booked — `code-audit.md` (Software Code Quality Standard, canonical per CLAUDE.md) and `inspection-planning.md` (with a stray duplicate copy in `jds/procedures/`). (2) `maintenance-report-example` reused RPT-MEC-003 (AFS 2017:3 Consolidated). (3) `field-service-logbook-example` reused LOG-MEC-005 (Supervision Program Register). (4) `maintenance-report-template` reused TMP-RPT-004 (Risk Assessment Template). (5) `field-service-logbook-template` reused TMP-LOG-005 (Supervision Program Template). |
+| **Root Cause** | A maintenance-report + field-service-logbook document family was added (≈v3.3) reusing numbers already in use; CA-2026-006's PRO-004 move left a duplicate, then a new code-audit doc took the PRO-004 number. The registry parser keys on doc number, so duplicate rows were silently overwritten and the collisions were never flagged as errors — only surfaced indirectly as orphans. |
 
-**Status:** Held pending owner direction. Renumbering changes document identity and traceability, so it is not done unilaterally. Proposed resolution (on approval): assign the new maintenance-report/logbook family the next free numbers in each category, renumber the project Inspection Planning procedure off PRO-004 (code-audit keeps PRO-004 per CLAUDE.md), delete the stray duplicate, and register all of them. A validator check for duplicate JDS numbers should be added so this is caught automatically in future.
+**Corrective Action (resolved with owner approval):**
+1. **PRO-004 = Software Code Quality Standard** confirmed canonical; registry corrected (was double-listed). Stray duplicate `jds/procedures/JDS-PRO-004_inspection-planning.md` deleted.
+2. **Inspection Planning Procedure** renumbered JDS-PRO-004 → **JDS-PRO-011** (Rev B), content unchanged.
+3. Example/template family renumbered to next-free numbers: maintenance-report example RPT-MEC-003 → **RPT-MEC-005**; field-service-logbook example LOG-MEC-005 → **LOG-MEC-011**; maintenance-report template TMP-RPT-004 → **TMP-RPT-006**; field-service-logbook template TMP-LOG-005 → **TMP-LOG-010**. All registered; internal cross-reference in the logbook template updated.
+4. **Validator hardened** — added `check_duplicate_numbers()` to `jds-validate.py`: errors on any doc number appearing twice in the registry OR shared by two files on disk. This collision class is now caught automatically.
 
-
-
-## Closed Actions
+---
 
 ### CA-2026-001 — Wide tables overflow A4 | CLOSED
 

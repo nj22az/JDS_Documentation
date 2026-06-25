@@ -2,9 +2,9 @@
 
 | | |
 |---|---|
-| **Document No.** | JDS-PRO-004 |
-| **Revision** | A |
-| **Date** | 2026-03-25 |
+| **Document No.** | JDS-PRO-011 |
+| **Revision** | B |
+| **Date** | 2026-06-25 |
 | **Status** | CURRENT |
 | **Author** | N. Johansson |
 
@@ -137,3 +137,4 @@ If an inspection is overdue:
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
 | A | 2026-03-25 | N. Johansson | Initial release — inspection planning framework |
+| B | 2026-06-25 | N. Johansson | Renumbered JDS-PRO-004 → JDS-PRO-011 to resolve a number collision with the Software Code Quality Standard (JDS-PRO-004), which is canonical per CLAUDE.md. Content unchanged. (CA-2026-008) |

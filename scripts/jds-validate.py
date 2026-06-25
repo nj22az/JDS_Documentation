@@ -199,6 +199,41 @@ def check_registry_vs_filesystem(result):
             result.warn(f'ORPHAN: {rel} exists but not in registry')
 
 
+def check_duplicate_numbers(result):
+    """Check that no JDS document number is used twice — neither double-booked in
+    the registry nor shared by two files on disk. (Added after CA-2026-008: the
+    registry parser keys on doc_no, so duplicate registry rows were silently
+    overwritten and number collisions went undetected.)"""
+    # 1) Duplicate doc numbers within the registry itself
+    content = safe_read(REGISTRY_PATH)
+    if content is not None:
+        row_pattern = re.compile(
+            r'\|\s*\[([^\]]+)\]\([^)]+\)\s*\|[^|]*\|\s*[A-Z]+\s*\|'
+        )
+        seen = {}
+        for match in row_pattern.finditer(content):
+            doc_no = match.group(1)
+            if JDS_PATTERN.search(doc_no):
+                seen[doc_no] = seen.get(doc_no, 0) + 1
+        for doc_no, count in sorted(seen.items()):
+            if count > 1:
+                result.error(f'DUPLICATE: {doc_no} appears {count} times in the registry')
+
+    # 2) Two different files carrying the same JDS number token
+    by_number = {}
+    for pattern in ['jds/**/*.md', 'projects/**/*.md']:
+        for filepath in glob.glob(os.path.join(REPO_ROOT, pattern), recursive=True):
+            filepath = os.path.normpath(filepath)
+            basename = os.path.basename(filepath)
+            m = JDS_PATTERN.search(basename)
+            if not m:
+                continue
+            by_number.setdefault(m.group(0), []).append(os.path.relpath(filepath, REPO_ROOT))
+    for number, files in sorted(by_number.items()):
+        if len(files) > 1:
+            result.error(f'DUPLICATE FILE NUMBER: {number} used by {len(files)} files: {", ".join(sorted(files))}')
+
+
 def check_document_metadata(result):
     """Check that all JDS documents have required metadata headers."""
     patterns = [
@@ -747,6 +782,7 @@ def main():
 
     print('[2/10] Checking registry vs filesystem...')
     check_registry_vs_filesystem(result)
+    check_duplicate_numbers(result)
 
     if not quick:
         print('[3/10] Checking document metadata...')

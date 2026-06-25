@@ -16,8 +16,10 @@ All changes to the JDS documentation system itself are recorded here. This provi
 - **`safe-to-delete/` removed** — 4 stray PDF exports deleted from version control (Git is the controlled copy; PDFs are uncontrolled, PRO-005 §6).
 - **`md2pdf.py` H1 font-size corrected** 22pt → 20pt to match PRO-007 §4 and the validator's CSS-compliance check.
 
-### Note — Outstanding (awaiting decision)
-- **JDS number collisions** flagged by the validator (PRO-004 double-booked; maintenance-report and field-service-logbook example/template files reusing existing numbers). Renumbering affects document identity/traceability and is held pending owner direction — see corrective-action log CA-2026-008.
+### Fixed — JDS Number Collisions (CA-2026-008)
+- **PRO-004 disambiguated** — Software Code Quality Standard confirmed canonical; the stray duplicate `inspection-planning` copy in `jds/procedures/` deleted and the registry double-listing corrected.
+- **Renumbered to next-free numbers:** Inspection Planning Procedure PRO-004 → **PRO-011** (Rev B); maintenance-report example RPT-MEC-003 → **RPT-MEC-005**; field-service-logbook example LOG-MEC-005 → **LOG-MEC-011**; maintenance-report template TMP-RPT-004 → **TMP-RPT-006**; field-service-logbook template TMP-LOG-005 → **TMP-LOG-010**. All registered.
+- **Validator hardened** — new `check_duplicate_numbers()` errors on any JDS number double-booked in the registry or shared by two files on disk, so this collision class is caught automatically in future.
 
 ## [3.3] — 2026-04-11
 
