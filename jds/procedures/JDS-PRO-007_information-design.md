@@ -3,8 +3,8 @@
 | | |
 |---|---|
 | **Document No.** | JDS-PRO-007 |
-| **Revision** | D |
-| **Date** | 2026-03-25 |
+| **Revision** | E |
+| **Date** | 2026-06-25 |
 | **Status** | APPROVED |
 | **Author** | Nils Johansson |
 
@@ -361,6 +361,53 @@ All JDS documents are converted to PDF using `scripts/md2pdf.py`, which enforces
 | Visual content in reports | Pre-flight checklist |
 | Three-level readability | Craft precision self-check |
 
+## 15. Guide Notes — The Reader's Companion
+
+### 15.1 Purpose
+
+Technical documentation is, by nature, dense and exacting. The Craft Precision standard (§8) keeps it rigorous — but rigour alone can read as cold or intimidating, and an anxious reader misses information just as surely as a bored one. A **Guide Note** is a deliberate moment of cognitive relief: a short, friendly aside that lowers the reader's guard so the surrounding precision can land.
+
+This is the documentation equivalent of a well-placed wayfinding sign that says "you are here" — it does not add requirements, it reduces friction.
+
+### 15.2 The Mascot — "Doc"
+
+Guide Notes are voiced by **Doc**, the JDS mascot: a friendly, unflappable filing cabinet who has read every document in the system and is glad to help. Doc's role is narrow and consistent:
+
+| Doc does | Doc never does |
+|----------|----------------|
+| Offers troubleshooting tips | States a normative requirement |
+| Flags a common mistake before it happens | Replaces a Warning (§6.3) for safety-critical items |
+| Reassures the reader and reduces anxiety | Adds new rules not stated in the body |
+| Points to the right procedure or template | Appears more than once or twice per document |
+
+**Why a mascot, in JDS English:** this is a *Guide Note* delivered by a *mascot* — JDS owns its terminology (QMS-000 §15). The character softens authority deliberately, but the writing around it stays formal and exact.
+
+### 15.3 Format
+
+A Guide Note is a blockquote opened with the bold marker **`Doc says:`**. The PDF engine (`md2pdf.py`) detects the marker and renders it as a steel-blue, softened-corner companion card:
+
+```markdown
+> **Doc says:** New to numbering? Pick the category first (PRO, RPT, DWG…),
+> then the domain (MEC, MAR…), then the next free number. The register
+> (`jds/registry/document-register.md`) is the single source of truth.
+```
+
+### 15.4 Corner Geometry as Meaning
+
+Corner radius is an encoding channel, not decoration:
+
+| Element | Radius | Signal |
+|---------|--------|--------|
+| Data tables, code blocks | 8pt (subtle) | Stable, precise, normative — "this is controlled content" |
+| Warning / Done / Note callouts | 16pt | Compartment aside — "read this, it qualifies the body" |
+| **Guide Note (Doc)** | **18pt (most softened)** | Human companion aside — "this is help, not a rule" |
+
+The more softened the corner, the less normative the content. A reader learns this within one document and never has to be told.
+
+### 15.5 Discipline
+
+Guide Notes are subject to Reduce to Essence (§2, principle 6). One or two per document is generous; more dilutes their relief value and undermines Craft Precision. A Guide Note is **never** a substitute for a Warning, a procedure step, or a registered requirement.
+
 ---
 
 ## Revision History
@@ -371,3 +418,4 @@ All JDS documents are converted to PDF using `scripts/md2pdf.py`, which enforces
 | B | 2026-03-25 | Nils Johansson | Added grid system (§9), page architecture (§10), micro-typography (§11), figure/table conventions (§12), emptiness philosophy (§13), automation rules (§14) |
 | C | 2026-03-25 | Nils Johansson | Added §6.4 Logo Colour Variants — category-specific logo colours for glance-level document identification. SVG logo and automated variant generation. |
 | D | 2026-03-25 | Nils Johansson | Language authority update — all terminology now JDS English. Japanese loan words replaced with JDS-owned terms (Active Space, Compartment Design, Visual Explanation, Craft Precision). |
+| E | 2026-06-25 | Nils Johansson | Added §15 Guide Notes — the "Doc" mascot companion callout for cognitive relief. Defines the `Doc says:` marker, corner-geometry-as-meaning encoding, and usage discipline. Implemented in `md2pdf.py` (div.guide). Concept named in JDS English (Guide Note / mascot), not foreign loan words. |

@@ -1,6 +1,6 @@
 # JDS Document Register
 
-**Last updated:** 2026-04-11 (rev 3)
+**Last updated:** 2026-06-25 (rev 4)
 
 This is the master list of all documents in the JDS system. Every document must be registered here when created.
 
@@ -24,7 +24,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | [JDS-PRO-004](../../projects/JDS-PRJ-MEC-001/01-framework/JDS-PRO-004_inspection-planning.md) | Inspection Planning Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-PRO-005](../procedures/JDS-PRO-005_document-review-audit.md) | Document Review & Audit Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-PRO-006](../procedures/JDS-PRO-006_complete-document-set.md) | Complete Document Set Standard | B | 2026-03-26 | APPROVED | N. Johansson |
-| [JDS-PRO-007](../procedures/JDS-PRO-007_information-design.md) | Information Design Standard | D | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-PRO-007](../procedures/JDS-PRO-007_information-design.md) | Information Design Standard | E | 2026-06-25 | APPROVED | N. Johansson |
 | [JDS-PRO-008](../procedures/JDS-PRO-008_corrective-action.md) | Corrective Action Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-PRO-009](../procedures/JDS-PRO-009_competence-management.md) | Competence Management Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-PRO-010](../procedures/JDS-PRO-010_ongoing-maintenance.md) | Ongoing Maintenance Program Procedure | B | 2026-03-25 | APPROVED | N. Johansson |

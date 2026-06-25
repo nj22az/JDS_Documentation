@@ -160,6 +160,20 @@ All PDFs exported from JDS documents MUST follow JDS-PRO-007 (Information Design
 - PDF generators auto-select the correct category colour variant based on document number
 - To regenerate variants: `python3 scripts/logo-variants.py`
 
+### Callout Conventions (PRO-007 §15 + stylesheet)
+Blockquotes opened with a bold marker render as styled callout cards in PDF (handled by `md2pdf.py`):
+
+| Marker | Renders as | Use for |
+|--------|-----------|---------|
+| `> **Warning:**` / `**Caution:**` / `**Important:**` | Red squircle | Safety-critical, danger, must-not-miss |
+| `> **Done:**` / `**Complete:**` | Green squircle | Confirmation, success |
+| `> **Note:**` / `**Ref:**` / `**Definition:**` | Navy squircle | Informational aside, cross-reference |
+| `> **Doc says:**` | Steel-blue softened-corner **Guide Note** | Friendly mascot tip / troubleshooting / reassurance |
+
+- **Doc** is the JDS mascot (a friendly filing cabinet) — see PRO-007 §15. Guide Notes provide cognitive relief, never normative rules.
+- **Discipline:** max 1–2 Guide Notes per document. Never use `Doc says:` for a safety item — that is always a `Warning:`.
+- **Corner geometry is meaning:** sharper corners = more normative (data tables 8pt → callouts 16pt → Guide Note 18pt). Don't override.
+
 ### Craft Precision Self-Check (§8.1 — before issuing)
 - Headings follow 4-level hierarchy consistently
 - Active space separates sections clearly

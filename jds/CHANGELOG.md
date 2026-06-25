@@ -4,6 +4,21 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [3.4] — 2026-06-25
+
+### Added — Guide Notes (PRO-007 §15)
+- **"Doc" the mascot** — a friendly filing-cabinet companion that delivers Guide Notes for cognitive relief in dense technical documents. Named in JDS English (Guide Note / mascot), per the QMS-000 §15 language policy — not a foreign loan word.
+- **`Doc says:` callout** — new blockquote marker rendered by `md2pdf.py` as a steel-blue, softened-corner (18pt radius) companion card, distinct from the normative Warning/Done/Note callouts.
+- **Corner-geometry-as-meaning** codified in PRO-007 §15.4: sharper corners signal more normative content (data 8pt → callout 16pt → Guide Note 18pt).
+- **JDS-PRO-007 bumped to Rev E**; CLAUDE.md callout conventions table added.
+
+### Fixed — Repository Hygiene
+- **`safe-to-delete/` removed** — 4 stray PDF exports deleted from version control (Git is the controlled copy; PDFs are uncontrolled, PRO-005 §6).
+- **`md2pdf.py` H1 font-size corrected** 22pt → 20pt to match PRO-007 §4 and the validator's CSS-compliance check.
+
+### Note — Outstanding (awaiting decision)
+- **JDS number collisions** flagged by the validator (PRO-004 double-booked; maintenance-report and field-service-logbook example/template files reusing existing numbers). Renumbering affects document identity/traceability and is held pending owner direction — see corrective-action log CA-2026-008.
+
 ## [3.3] — 2026-04-11
 
 ### Changed — Project Restructure & Consolidation

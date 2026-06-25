@@ -1,6 +1,6 @@
 # Corrective Action Log
 
-**Last updated:** 2026-03-26
+**Last updated:** 2026-06-25
 
 This log tracks all nonconformances and corrective actions raised under [JDS-PRO-008](../procedures/JDS-PRO-008_corrective-action.md).
 
@@ -8,7 +8,18 @@ This log tracks all nonconformances and corrective actions raised under [JDS-PRO
 
 ## Open Actions
 
-*No open corrective actions.*
+### CA-2026-008 — JDS number collisions (PRO-004 + example/template family) | OPEN
+
+| | |
+|---|---|
+| **Date** | 2026-06-25 |
+| **Source** | Validator audit (orphan + numbering check) |
+| **Description** | Several distinct documents share JDS numbers already assigned to other documents: (1) **JDS-PRO-004** is double-booked — `code-audit.md` (Software Code Quality Standard, the number CLAUDE.md treats as canonical) and `inspection-planning.md` (still registered at register line 24, with a stray duplicate copy in `jds/procedures/`). (2) `JDS-RPT-MEC-003_maintenance-report-example.md` collides with the registered RPT-MEC-003 (AFS 2017:3 Consolidated). (3) `JDS-LOG-MEC-005_field-service-logbook-example.md` collides with the registered LOG-MEC-005 (Supervision Program Register). (4) `JDS-TMP-RPT-004_maintenance-report-template.md` collides with registered TMP-RPT-004 (Risk Assessment Template). (5) `JDS-TMP-LOG-005_field-service-logbook-template.md` collides with registered TMP-LOG-005 (Supervision Program Template). |
+| **Root Cause** | A maintenance-report + field-service-logbook document family was added (≈v3.3) reusing numbers already in use; CA-2026-006's PRO-004 move left a duplicate, then a new code-audit doc took the PRO-004 number. The validator detected the orphans but renumbering was deferred. |
+
+**Status:** Held pending owner direction. Renumbering changes document identity and traceability, so it is not done unilaterally. Proposed resolution (on approval): assign the new maintenance-report/logbook family the next free numbers in each category, renumber the project Inspection Planning procedure off PRO-004 (code-audit keeps PRO-004 per CLAUDE.md), delete the stray duplicate, and register all of them. A validator check for duplicate JDS numbers should be added so this is caught automatically in future.
+
+
 
 ## Closed Actions
 
@@ -113,4 +124,21 @@ This log tracks all nonconformances and corrective actions raised under [JDS-PRO
 
 ---
 
-**Next number:** CA-2026-007
+### CA-2026-007 — Repo hygiene: stray PDFs + H1 font-size + Guide Note callout | CLOSED
+
+| | |
+|---|---|
+| **Date** | 2026-06-25 |
+| **Source** | Self-audit / session cleanup |
+| **Description** | (1) `safe-to-delete/` held 4 stray PDF exports under version control. (2) `md2pdf.py` H1 font-size was 22pt while PRO-007 §4 and the validator's CSS-compliance check require 20pt. (3) Dense technical docs lacked a defined cognitive-relief callout. |
+| **Root Cause** | (1) Temporary export folder never pruned. (2) Stylesheet drifted from the standard before the CSS-compliance check was added. (3) No documented mascot/companion callout existed. |
+
+**Corrective Action:**
+1. Removed `safe-to-delete/` from version control (Git is the controlled copy — PRO-005 §6)
+2. Corrected `md2pdf.py` H1 font-size 22pt → 20pt
+3. Added the **Guide Note** callout (`Doc says:` → `div.guide`) in `md2pdf.py`, documented it in PRO-007 §15 (Rev E) and CLAUDE.md, in JDS English per QMS-000 §15
+4. Bumped JDS to v3.4
+
+---
+
+**Next number:** CA-2026-009

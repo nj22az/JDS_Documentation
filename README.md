@@ -10,6 +10,8 @@
 
 This repository **is** the Johansson Documentation System. Every project, document, drawing, blog post, and record lives here under one unified system. JDS governs how work is created, numbered, revised, and found.
 
+> **Doc says:** New here? Start with the **I need to...** table below — it routes you straight to the right procedure or template. When in doubt, the [Quick Reference](jds/QUICK-REFERENCE.md) is your one-page cheat sheet. I'm the friendly filing cabinet who keeps it all in order. *(Guide Notes like this one are defined in [PRO-007 §15](jds/procedures/JDS-PRO-007_information-design.md).)*
+
 ---
 
 ## I need to...

@@ -251,7 +251,7 @@ p {{
    ═══════════════════════════════════════════════════════════════════════════ */
 
 h1 {{
-    font-size: 22pt;
+    font-size: 20pt;
     font-weight: 700;
     color: #1B3A5C;
     border-bottom: 3.5pt solid #1B3A5C;
@@ -521,6 +521,25 @@ div.note blockquote strong {{
     font-size: 9.5pt;
 }}
 
+/* Guide Note — "Doc" the filing-cabinet mascot. A softened-corner companion
+   card for friendly tips, troubleshooting, and empathetic guidance. Distinct
+   from normative data: the pronounced 18pt radius signals "human aside", never
+   "controlled requirement". (PRO-007 §15) */
+div.guide blockquote {{
+    border: 2.5pt solid #4A90A4;
+    border-left: 6pt solid #4A90A4;
+    border-radius: 18pt;
+    background-color: #eff6f9;
+    color: #244b59;
+    padding: 15pt 20pt;
+    margin: 20pt 0;
+}}
+
+div.guide blockquote strong {{
+    color: #2f7186;
+    font-size: 9.5pt;
+}}
+
 /* ═══════════════════════════════════════════════════════════════════════════
    CODE — Rounded pill for inline, rounded block for pre
    ═══════════════════════════════════════════════════════════════════════════ */
@@ -632,6 +651,7 @@ def wrap_callout_variants(html_content):
       > **Warning:** ...   -> red bento (danger, critical notes)
       > **Important:** ... -> red bento
       > **Done:** ...      -> green bento (success, confirmation)
+      > **Doc says:** ...  -> steel-blue softened-corner Guide Note (mascot tip)
       > **Tip:** ...       -> default blue bento (unchanged)
     """
     warning_markers = ['<strong>Warning:</strong>', '<strong>Important:</strong>',
@@ -641,6 +661,7 @@ def wrap_callout_variants(html_content):
                        '<strong>Complete:</strong>']
     note_markers = ['<strong>Note:</strong>', '<strong>Ref:</strong>',
                     '<strong>Definition:</strong>']
+    guide_markers = ['<strong>Doc says:</strong>', '<strong>Doc:</strong>']
 
     # Single-pass: find every <blockquote> and check if it contains a marker
     result = []
@@ -675,6 +696,11 @@ def wrap_callout_variants(html_content):
             for marker in note_markers:
                 if marker in bq_html:
                     wrapper = 'note'
+                    break
+        if not wrapper:
+            for marker in guide_markers:
+                if marker in bq_html:
+                    wrapper = 'guide'
                     break
 
         if wrapper:
