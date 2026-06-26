@@ -15,7 +15,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from studio import (numbering, registry, templates, creator, placement,  # noqa: E402
-                    revision, editor, doctor, config)
+                    revision, editor, doctor, engine, config)
 
 
 # --- numbering --------------------------------------------------------------
@@ -284,6 +284,11 @@ def test_revise_blocks_path_escape():
         assert _raises(lambda: editor.read_document("../../etc/passwd"))
     finally:
         config.REPO_ROOT, config.REGISTRY_PATH, config.TEMPLATES_DIR = saved
+
+
+def test_supervision_rejects_unknown_step():
+    # Pure guard — raises before any subprocess.
+    assert _raises(lambda: engine.supervision("bogus", "a.md", "b.md"))
 
 
 def test_doctor_check_reports_known_dependencies():

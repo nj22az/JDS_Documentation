@@ -4,6 +4,29 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [Rev F] — 2026-06-26
+
+### Added — Vessel classification & supervision (AFS 2017:3)
+- Wires `scripts/jds-classify.py` into Studio so it produces the **real
+  regulatory documents**, not just generic ones:
+  - **Quick classify** — PS, volume, medium → AFS 2017:3 risk class, PED
+    category, inspector, and inspection intervals (`POST /api/classify`).
+  - **Supervision pipeline** — CSV → inventory → program → round / review
+    (`POST /api/supervision`), each step reading and writing inside the repo.
+- New UI panel "Supervision (AFS 2017:3)" with a quick-classify form and a
+  pipeline-step runner.
+- `engine.classify_quick()` and `engine.supervision()` wrappers; both reuse the
+  shared repo-path guard.
+
+### Changed — Internal
+- Factored the repo-path-safety check into **`config.resolve_in_repo()`** (now
+  used by creator, editor, and the supervision engine — JDS-PRO-004 §6, shared
+  helper in one place).
+
+### Tests
+- 16/16 core + 5/5 server; the classify route and the full inventory→program
+  pipeline were exercised against the real `jds-classify.py` in this environment.
+
 ## [Rev E] — 2026-06-26
 
 ### Added — Edit & revise (completes the document lifecycle)

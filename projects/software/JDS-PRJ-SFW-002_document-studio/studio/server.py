@@ -48,6 +48,22 @@ class ReviseRequest(BaseModel):
     new_status: str | None = None
 
 
+class ClassifyRequest(BaseModel):
+    ps: float
+    volume: float
+    medium: str = "compressed air"
+
+
+class SupervisionRequest(BaseModel):
+    step: str                       # inventory | program | round | review
+    source: str
+    output: str
+    client: str | None = None
+    site: str | None = None
+    author: str | None = None
+    round_type: str | None = None
+
+
 # --- metadata routes --------------------------------------------------------
 
 @app.get("/api/health")
@@ -149,6 +165,26 @@ def validate(quick: bool = False):
 @app.post("/api/pdf")
 def make_pdf(body: PdfRequest):
     result = engine.generate_pdf(body.path)
+    if not result["ok"]:
+        return JSONResponse(status_code=400, content=result)
+    return result
+
+
+@app.post("/api/classify")
+def classify(body: ClassifyRequest):
+    """Quick AFS 2017:3 vessel classification — result text returned."""
+    return engine.classify_quick(body.ps, body.volume, body.medium)
+
+
+@app.post("/api/supervision")
+def supervision(body: SupervisionRequest):
+    """Run one AFS 2017:3 supervision-pipeline step (writes a markdown file)."""
+    try:
+        result = engine.supervision(
+            body.step, body.source, body.output, client=body.client,
+            site=body.site, author=body.author, round_type=body.round_type)
+    except ValueError as exc:
+        raise HTTPException(status_code=400, detail=str(exc))
     if not result["ok"]:
         return JSONResponse(status_code=400, content=result)
     return result

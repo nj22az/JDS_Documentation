@@ -32,6 +32,18 @@ def find_repo_root(start=None):
 
 
 REPO_ROOT = find_repo_root()
+
+
+def resolve_in_repo(rel_path):
+    """Resolve a repo-relative path, refusing anything that escapes the repo.
+
+    The single guard used everywhere Studio touches the filesystem (PRO-012 §5.3
+    — prevent the invalid action). Reads REPO_ROOT at call time so tests can
+    repoint it at a sandbox."""
+    target = (REPO_ROOT / rel_path).resolve()
+    if not target.is_relative_to(REPO_ROOT.resolve()):
+        raise ValueError("path must stay inside the repository")
+    return target
 JDS_DIR = REPO_ROOT / "jds"
 SCRIPTS_DIR = REPO_ROOT / "scripts"
 TEMPLATES_DIR = JDS_DIR / "templates"
@@ -42,6 +54,7 @@ REGISTRY_PATH = JDS_DIR / "registry" / "document-register.md"
 VALIDATOR_SCRIPT = SCRIPTS_DIR / "jds-validate.py"
 MD2PDF_SCRIPT = SCRIPTS_DIR / "md2pdf.py"
 OFFICE_SCRIPT = SCRIPTS_DIR / "generate-office-docs.py"
+CLASSIFY_SCRIPT = SCRIPTS_DIR / "jds-classify.py"
 
 # --- JDS taxonomy (QMS-001) -------------------------------------------------
 

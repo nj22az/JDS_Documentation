@@ -55,11 +55,8 @@ def create_document(*, template_rel_path, target_dir, title, category,
         raise ValueError(f"Invalid status '{status}'")
     if rev not in config.VALID_REV_LETTERS:
         raise ValueError(f"Invalid revision letter '{rev}' (JDS skips I,O,Q,S,X,Z)")
-    # Keep writes inside the repository — never let target_dir escape via '..' or
-    # an absolute path (PRO-012 §5.3: prevent the invalid action, don't just report).
-    target = (config.REPO_ROOT / target_dir).resolve()
-    if not target.is_relative_to(config.REPO_ROOT.resolve()):
-        raise ValueError("target_dir must stay inside the repository")
+    # Keep writes inside the repository (PRO-012 §5.3: prevent the invalid action).
+    target = config.resolve_in_repo(target_dir)
     date = date or _today()
 
     registry_text = registry.read_text()

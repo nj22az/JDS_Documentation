@@ -62,6 +62,25 @@ def test_create_and_revise_roundtrip():
         config.REPO_ROOT, config.REGISTRY_PATH, config.TEMPLATES_DIR = saved
 
 
+def test_classify_runs_against_real_script():
+    # No sandbox — exercise the real jds-classify.py via the route.
+    from studio import server
+    client = TestClient(server.app)
+    res = client.post("/api/classify",
+                      json={"ps": 11, "volume": 1000, "medium": "compressed air"})
+    body = res.json()
+    assert body["ok"] is True
+    assert "Risk Class" in body["output"]
+
+
+def test_supervision_bad_step_is_rejected():
+    from studio import server
+    client = TestClient(server.app)
+    res = client.post("/api/supervision",
+                      json={"step": "bogus", "source": "x.md", "output": "y.md"})
+    assert res.status_code == 400
+
+
 def test_bad_requests_are_rejected():
     server, config, sandbox, saved, client = _client_and_sandbox()
     try:

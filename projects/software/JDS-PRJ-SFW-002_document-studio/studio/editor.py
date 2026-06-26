@@ -13,14 +13,6 @@ from . import config, registry, revision
 JDS_NUMBER_RE = re.compile(r"JDS-[A-Z]{3}(?:-[A-Z]{3})?-\d{3}")
 
 
-def _resolve_in_repo(rel_path):
-    """Resolve a repo-relative path, refusing anything that escapes the repo."""
-    target = (config.REPO_ROOT / rel_path).resolve()
-    if not target.is_relative_to(config.REPO_ROOT.resolve()):
-        raise ValueError("path must stay inside the repository")
-    return target
-
-
 def _doc_number(text, fallback_name):
     """Find the document's JDS number from its metadata, else its filename."""
     match = re.search(r"\*\*Document No\.\*\*\s*\|\s*(" + JDS_NUMBER_RE.pattern + r")",
@@ -33,7 +25,7 @@ def _doc_number(text, fallback_name):
 
 def read_document(rel_path):
     """Return the document's content plus its number and current revision."""
-    path = _resolve_in_repo(rel_path)
+    path = config.resolve_in_repo(rel_path)
     if not path.exists():
         raise FileNotFoundError(rel_path)
     text = path.read_text(encoding="utf-8")
@@ -47,7 +39,7 @@ def read_document(rel_path):
 
 def save_document(rel_path, content):
     """Overwrite a document's body. Path is constrained to the repository."""
-    path = _resolve_in_repo(rel_path)
+    path = config.resolve_in_repo(rel_path)
     if not path.exists():
         raise FileNotFoundError(rel_path)
     path.write_text(content, encoding="utf-8")
@@ -59,7 +51,7 @@ def revise_document(rel_path, author, description, new_status=None, date=None):
     if not (description or "").strip():
         raise ValueError("A change description is required for a revision")
     date = date or _today()
-    path = _resolve_in_repo(rel_path)
+    path = config.resolve_in_repo(rel_path)
     if not path.exists():
         raise FileNotFoundError(rel_path)
 

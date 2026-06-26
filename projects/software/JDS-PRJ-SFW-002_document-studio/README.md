@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Document No.** | JDS-PRJ-SFW-002 |
-| **Revision** | E |
+| **Revision** | F |
 | **Date** | 2026-06-26 |
 | **Status** | CURRENT |
 | **Author** | N. Johansson |
@@ -55,6 +55,7 @@ The server finds the repository root automatically (or set `JDS_REPO_ROOT`).
 | **Office documents** | Generates timesheet / expense / mileage Excel workbooks via `scripts/generate-office-docs.py` |
 | **Edit & revise** | Loads a registered document, saves body edits, and **bumps the revision** (A→B, history row, register synced) in one action |
 | **Preflight** | `/api/health` + startup report flag any missing dependency before a feature fails |
+| **Vessel classification (AFS 2017:3)** | Quick PS×V classification + the supervision pipeline (CSV → inventory → program → round/review) via `scripts/jds-classify.py` |
 
 ## Architecture
 
@@ -84,8 +85,8 @@ web/ (browser UI)  ──HTTP──►  studio/server.py  (FastAPI, thin)
 | `studio/engine.py` | Subprocess wrappers around the JDS scripts |
 | `studio/server.py` | FastAPI routes (HTTP ⇄ core) |
 | `web/` | `index.html`, `style.css`, `app.js` (PRO-007-styled UI) |
-| `tests/test_core.py` | 15 unit + integration tests for the core |
-| `tests/test_server.py` | 3 HTTP-route tests (FastAPI TestClient; skips if deps absent) |
+| `tests/test_core.py` | 16 unit + integration tests for the core |
+| `tests/test_server.py` | 5 HTTP-route tests (FastAPI TestClient; skips if deps absent) |
 
 ## HTTP API
 
@@ -103,6 +104,8 @@ web/ (browser UI)  ──HTTP──►  studio/server.py  (FastAPI, thin)
 | POST | `/api/validate?quick=` | Run the audit |
 | POST | `/api/pdf` | Render a document to PDF |
 | POST | `/api/office?kind=` | Generate a timesheet / expense / mileage workbook |
+| POST | `/api/classify` | Quick AFS 2017:3 vessel classification (PS, volume, medium) |
+| POST | `/api/supervision` | Run a pipeline step: inventory / program / round / review |
 
 ## Standards Compliance
 

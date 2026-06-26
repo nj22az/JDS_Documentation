@@ -65,7 +65,47 @@ async function init() {
   $("btn-save").addEventListener("click", saveBody);
   $("btn-revise").addEventListener("click", reviseDoc);
 
+  $("btn-classify").addEventListener("click", runClassify);
+  $("btn-supervision").addEventListener("click", runSupervision);
+
   checkHealth();
+}
+
+// --- supervision (AFS 2017:3) ------------------------------------------------
+
+async function runClassify() {
+  const out = $("classify-output");
+  out.hidden = false;
+  out.textContent = "Classifying…";
+  try {
+    const res = await postJSON("/api/classify", {
+      ps: parseFloat($("cls-ps").value),
+      volume: parseFloat($("cls-vol").value),
+      medium: $("cls-medium").value.trim() || "compressed air",
+    });
+    out.textContent = res.output || "(no output)";
+  } catch (err) {
+    out.textContent = "Classify error: " + err.message;
+  }
+}
+
+async function runSupervision() {
+  const out = $("supervision-output");
+  out.hidden = false;
+  out.textContent = "Running step…";
+  try {
+    const res = await postJSON("/api/supervision", {
+      step: $("sup-step").value,
+      source: $("sup-source").value.trim(),
+      output: $("sup-output").value.trim(),
+      client: $("sup-client").value.trim() || null,
+      site: $("sup-site").value.trim() || null,
+      round_type: $("sup-round-type").value.trim() || null,
+    });
+    out.textContent = res.output || "Step complete.";
+  } catch (err) {
+    out.textContent = "Supervision error: " + err.message;
+  }
 }
 
 // --- health -----------------------------------------------------------------
