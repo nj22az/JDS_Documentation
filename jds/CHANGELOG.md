@@ -4,6 +4,13 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [3.6] — 2026-06-26
+
+### Added — Apple HIG alignment (JDS-PRO-012 Rev B)
+- New **§12 Apple Human Interface Guidelines Alignment**: maps HIG's Clarity / Deference / Depth onto the JDS principles they already echo (Reduce to Essence, Active Space, Compartment Design), and adopts HIG conventions for **software UI** — system typography & Dynamic Type, adaptive semantic colour with **light & dark appearance**, 44pt hit targets, SF Symbols-style iconography, materials/elevation and motion used sparingly, accessibility as a baseline. The JDS palette, JDS English, and never-justify all remain.
+- **§12.3 HMI safety primacy:** Apple HIG is for consumer software and does **not** govern safety-critical HMI. On a control surface the §9 high-performance-HMI rules prevail — no translucency, vibrancy, or motion between an operator and the process state. When the two conflict on an HMI, §9 wins.
+- **Document Studio (SFW-002 Rev C)** updated as the reference implementation: adaptive light/dark palette, 44pt targets, semantic CSS tokens.
+
 ## [3.5] — 2026-06-26
 
 ### Added — JDS-PRO-012 Interface Design Standard (the third design pillar)

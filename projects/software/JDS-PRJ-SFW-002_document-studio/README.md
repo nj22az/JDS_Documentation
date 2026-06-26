@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Document No.** | JDS-PRJ-SFW-002 |
-| **Revision** | B |
+| **Revision** | C |
 | **Date** | 2026-06-26 |
 | **Status** | CURRENT |
 | **Author** | N. Johansson |
@@ -102,13 +102,14 @@ is well under the 500-line limit); no dead code; clear names throughout; the cor
 is unit-tested and side-effect-free except the two writes in
 `creator.create_document`.
 
-**JDS-PRO-012 (Interface).** This app is the reference implementation of the
-Interface Design Standard: JDS palette and sans-serif type (§6–§7), status never
-by colour alone, WCAG-AA contrast with **visible focus indicators** and
-**reduced-motion** support (§8), invalid actions **prevented** rather than just
-reported — empty title, bad revision letter, and out-of-repo paths are rejected
-before any write (§5.3). No safety-critical/HMI surfaces here, so the Doc Guide
-Note is permitted (§11).
+**JDS-PRO-012 (Interface), incl. §12 Apple HIG.** This app is the reference
+implementation of the Interface Design Standard: JDS palette and **system
+typography** (§6–§7, §12), **adaptive light & dark appearance**, **44pt hit
+targets**, status never by colour alone, WCAG-AA contrast with **visible focus
+indicators** and **reduced-motion** support (§8), invalid actions **prevented**
+rather than just reported — empty title, bad revision letter, and out-of-repo
+paths are rejected before any write (§5.3). No safety-critical/HMI surfaces here,
+so the Doc Guide Note is permitted (§11) and HIG materials are fine (§12.3).
 
 ## Status & Limitations (Rev B)
 

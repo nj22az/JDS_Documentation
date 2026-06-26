@@ -4,6 +4,16 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [Rev C] — 2026-06-26
+
+### Changed — Apple HIG alignment (PRO-012 §12)
+- **Adaptive light & dark appearance** via `prefers-color-scheme`: the JDS palette
+  now resolves to light and dark values through CSS custom properties; native
+  controls adapt via `color-scheme`.
+- **44pt minimum hit targets** on buttons and inputs.
+- System typography retained (`-apple-system` stack); surfaces refactored onto
+  semantic tokens so appearance is consistent and themeable.
+
 ## [Rev B] — 2026-06-26
 
 ### Added

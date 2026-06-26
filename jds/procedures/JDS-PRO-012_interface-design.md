@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-PRO-012 |
-| **Revision** | A |
+| **Revision** | B |
 | **Date** | 2026-06-26 |
 | **Status** | APPROVED |
 | **Author** | Nils Johansson |
@@ -120,7 +120,39 @@ Guide Notes from **Doc** (PRO-007 §15) are welcome in **software UIs** for onbo
 
 They are **prohibited on HMI and any safety-critical surface.** Nothing cute belongs between an operator and an alarm. On a control screen, the only voice is the precise state of the process.
 
-## 12. Self-Check Before Release
+## 12. Apple Human Interface Guidelines Alignment
+
+JDS interface design aligns with Apple's Human Interface Guidelines (HIG). The two share a lineage, and where they meet, JDS adopts Apple's conventions **for software UI** — while keeping the JDS palette, JDS English, and the safety primacy of §9.
+
+### 12.1 Shared Foundations
+
+| Apple HIG principle | JDS equivalent | What it means here |
+|---------------------|----------------|--------------------|
+| **Clarity** | Reduce to Essence + Craft Precision (PRO-007 §2) | Legible text at every size, precise alignment, unambiguous controls |
+| **Deference** — content first, chrome recedes | Active Space — emptiness is structure | The interface gets out of the way; content and current state lead |
+| **Depth** — layering conveys hierarchy | Compartment Design + corner geometry (§4, PRO-007 §15.4) | Elevation and layers show what contains what, used sparingly |
+
+### 12.2 Adopted Conventions (Software UI)
+
+- **System typography & Dynamic Type.** Use the system font (San Francisco via the `-apple-system` stack; the platform equivalent elsewhere). Respect the user's text-size / Dynamic Type setting — text scales without breaking layout, never fixed-pixel-only.
+- **Adaptive, semantic colour with light & dark appearance.** The JDS palette stays the brand and status anchor (Navy / Steel / Signal Red / Amber / Forest Green), but each role resolves to a **light and a dark** value so the UI follows the system appearance. Colour still never carries meaning alone (§7).
+- **Hit targets** of at least **44×44 pt** (HIG and §6 agree).
+- **Iconography:** one consistent symbol set (SF Symbols on Apple platforms) whose weight matches the adjacent text; an icon always pairs with a label or accessible name.
+- **Materials & elevation, sparingly:** translucency or elevation may signal layering (sheets, popovers) — never decoration, never at the cost of contrast (§8).
+- **Meaningful motion:** transitions clarify origin and hierarchy; all motion is optional and honours Reduce Motion (§8).
+- **Accessibility as a baseline:** screen-reader labels on every control, Dynamic Type, sufficient contrast, Reduce Motion and Reduce Transparency — requirements, not enhancements.
+
+### 12.3 Where HIG Does Not Apply — HMI Safety Primacy
+
+Apple HIG is a standard for consumer software. It does **not** govern safety-critical HMI. On any HMI or control surface (§9), the high-performance-HMI rules **prevail over HIG aesthetics**:
+
+- No translucency, vibrancy, blur, or decorative depth between an operator and the process state.
+- Normal state stays low-saturation grey-scale (§9.1); HIG's richer colour and materials are for office software, not control rooms.
+- No motion that could mask or delay an alarm.
+
+When the two conflict on an HMI, **§9 wins.** HIG informs the *software UI* layer; it never softens a safety surface.
+
+## 13. Self-Check Before Release
 
 - [ ] Glance level works — state/status visible without interaction
 - [ ] Primary action is obvious and consistently placed
@@ -129,12 +161,14 @@ They are **prohibited on HMI and any safety-critical surface.** Nothing cute bel
 - [ ] Irreversible actions are confirmed and visually separated
 - [ ] Colour is never the only encoding; contrast meets WCAG AA
 - [ ] Fully keyboard-operable with a visible focus indicator
+- [ ] (Software UI) System font; text scales with Dynamic Type; light & dark appearance supported (§12)
 - [ ] (HMI) Normal = grey-scale; colour reserved for the abnormal
 - [ ] (HMI) Alarms ranked, actionable, multi-channel; safety actions guarded
+- [ ] (HMI) No HIG decoration — no translucency, vibrancy, or motion on the safety surface (§12.3)
 
-## 13. Conformance
+## 14. Conformance
 
-Software UIs conform to this standard at code review (alongside the PRO-004 code audit). **JDS-PRJ-SFW-002 (Document Studio)** is the reference implementation: its web UI follows §6–§8 and §10–§11. HMI specifications produced for clients cite §9 as the governing standard.
+Software UIs conform to this standard at code review (alongside the PRO-004 code audit). **JDS-PRJ-SFW-002 (Document Studio)** is the reference implementation: its web UI follows §6–§8, §10–§12. HMI specifications produced for clients cite §9 as the governing standard.
 
 ---
 
@@ -143,3 +177,4 @@ Software UIs conform to this standard at code review (alongside the PRO-004 code
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
 | A | 2026-06-26 | Nils Johansson | Initial release — the third design pillar (interface). Three-level interaction model, interaction & feedback laws, screen typography/layout, colour & status semantics, accessibility, a full HMI section (situational awareness, alarm discipline, safety-critical actions, physical environment), component conventions, and the Doc mascot boundary for safety-critical surfaces. |
+| B | 2026-06-26 | Nils Johansson | Added §12 Apple HIG Alignment — maps Clarity/Deference/Depth to JDS and adopts HIG conventions for software UI (system typography & Dynamic Type, adaptive semantic colour with light/dark appearance, 44pt targets, SF Symbols-style iconography, materials/motion). §12.3 establishes HMI safety primacy: HIG aesthetics never override the §9 safety rules on a control surface. Self-check and Conformance updated. |
