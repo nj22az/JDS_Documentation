@@ -54,7 +54,7 @@ Every JDS document starts with this header:
 | **Author**       | [Author Name]    |
 ```
 
-Valid statuses: **DRAFT** → **CURRENT** → **SUPERSEDED** / **VOID**
+Document lifecycle (QMS-000 §7): **DRAFT** → **REVIEW** → **APPROVED** → **SUPERSEDED** / **RETIRED**
 
 ---
 

@@ -284,7 +284,7 @@ For each vessel, verify these documents exist and are filed:
 | Document | Description |
 |----------|-------------|
 | **AFS 2017:3** | Användning och kontroll av trycksatta anordningar (Arbetsmiljöverket) |
-| **AFS 2016:2** | Trycksatta anordningar — design and manufacturing (PED implementation) |
+| **AFS 2016:1** | Tryckbärande anordningar — design and manufacturing (PED implementation) |
 | **PED 2014/68/EU** | Pressure Equipment Directive |
 | **SS-EN 13445** | Unfired pressure vessels — design standard |
 | **SS-EN 764 series** | Pressure equipment — terminology, materials, accessories |

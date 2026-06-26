@@ -14,7 +14,7 @@
 
 This manual defines **how to create, implement, and maintain an ongoing supervision program** for pressurised vessels. It is the complete methodology reference for the Vessel Supervision System (JDS-PRJ-MEC-001).
 
-A supervision program is the documented system that ensures every pressurised vessel under your responsibility is regularly monitored between formal inspections. Swedish regulation AFS 2017:3 (Chapter 2, Section 3) requires every operator to have such a program. This manual tells you how to build one.
+A supervision program is the documented system that ensures every pressurised vessel under your responsibility is regularly monitored between formal inspections. Swedish regulation AFS 2017:3 (2 Kap. §6, with documented routines under 4 Kap. §17) requires every operator to have such a program. This manual tells you how to build one.
 
 > **In plain language:** This manual teaches you to build a supervision program from scratch, run it day-to-day, and improve it year after year.
 

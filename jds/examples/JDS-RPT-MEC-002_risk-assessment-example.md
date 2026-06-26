@@ -1,4 +1,4 @@
-# Risk Assessment — Pressure Vessel Maintenance Programme
+# Risk Assessment — Pressure Vessel Maintenance Program
 
 | | |
 |---|---|
@@ -13,7 +13,7 @@
 
 ## 1. Summary
 
-This risk assessment identifies and evaluates hazards associated with the ongoing maintenance and inspection of pressure vessels at the Göteborg Workshop. It covers normal operations, inspection activities, and foreseeable failure modes. Controls are proposed following the hierarchy of elimination, substitution, engineering controls, administrative controls, and PPE.
+This risk assessment identifies and evaluates hazards associated with the ongoing maintenance and inspection of pressure vessels at the Gothenburg Workshop. It covers normal operations, inspection activities, and foreseeable failure modes. Controls are proposed following the hierarchy of elimination, substitution, engineering controls, administrative controls, and PPE.
 
 ## 2. Scope
 
@@ -110,7 +110,7 @@ Risk is assessed using a 5×5 matrix per ISO 31000 and SS-EN 16991:
 - **4 high risks** identified (R-001, R-002, R-003, R-007) — all related to catastrophic pressure release or confined space work
 - All high risks have been reduced to medium or low through existing and proposed controls
 - **No critical (stop work) risks** identified
-- The maintenance programme as designed in JDS-PRJ-MEC-001 adequately addresses the identified risks
+- The maintenance program as designed in JDS-PRJ-MEC-001 adequately addresses the identified risks
 
 ## 7. Recommendations
 

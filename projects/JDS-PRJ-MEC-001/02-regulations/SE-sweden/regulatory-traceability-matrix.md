@@ -43,7 +43,7 @@ JDS-PRO-010 is the authoritative working procedure. This matrix is the evidence 
 |---|---|---|---|
 | Step 3: Classify every vessel | 4 Kap. §10 | Klassindelning av trycksatta anordningar | Classification of pressure vessels into Class A / B |
 | Determine fluid group | PED 2014/68/EU Art. 13 | Grupp 1 / Grupp 2 | Group 1 (dangerous) / Group 2 (other) |
-| PS × V threshold > 50 bar·L | Kap. 3, §8 | Tillämpningsområde | Scope — equipment above threshold requires classification |
+| PS × V classification thresholds | 4 Kap. §10 | Klassindelning efter tryck och volym | Class A/B determined by PS×V and fluid group (Group 1a: B ≤ 1,000, A > 1,000; Group 2a: B ≤ 10,000, A > 10,000) |
 | Record PED category | AFS 2016:1 / PED Annex II | Kategori I–IV eller Art. 4.3 | Category based on pressure, volume, and medium |
 
 ---
@@ -67,8 +67,8 @@ JDS-PRO-010 is the authoritative working procedure. This matrix is the evidence 
 
 | JDS Requirement (PRO-010) | AFS 2017:3 Section | Regulatory Requirement (Swedish) | Regulatory Requirement (English) |
 |---|---|---|---|
-| Accredited Inspector for Class A | Kap. 4, §14 | Ackrediterat kontrollorgan | Accredited inspection body (SWEDAC accredited) |
-| Competent Person for Class B | Kap. 4, §17 | Egen kontroll av den som brukar | Own inspection by operator with documented competence |
+| Accredited Inspector for Class A | 7 Kap. | Ackrediterat kontrollorgan | Accredited inspection body (SWEDAC accredited) |
+| Competent Person for Class B | 5 Kap. §4, Bilaga 1 | Egen kontroll av den som brukar | Class B driftprov may be performed by the operator's own competent personnel |
 | Competence documentation | Kap. 2, §4 | Kompetenskrav | Competence requirements for persons performing work on pressurised equipment |
 
 ---

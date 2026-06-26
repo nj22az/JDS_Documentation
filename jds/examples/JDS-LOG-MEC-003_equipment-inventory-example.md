@@ -1,4 +1,4 @@
-# Equipment Inventory — Göteborg Workshop
+# Equipment Inventory — Gothenburg Workshop
 
 | | |
 |---|---|
@@ -12,7 +12,7 @@
 
 ## 1. Purpose
 
-This inventory provides a complete register of pressure vessels and pressurised equipment at the Göteborg Workshop facility. It fulfils the requirements of AFS 2017:3 (Användning och kontroll av trycksatta anordningar) and serves as the master reference for inspection planning.
+This inventory provides a complete register of pressure vessels and pressurised equipment at the Gothenburg Workshop facility. It fulfils the requirements of AFS 2017:3 (Användning och kontroll av trycksatta anordningar) and serves as the master reference for inspection planning.
 
 ## 2. Equipment Register
 

@@ -77,7 +77,7 @@ This register is the master inventory of all pressurised vessels at Gothenburg W
 
 ## 6. Inspection Schedule (Auto-Generated)
 
-> Intervals and next due dates calculated automatically from classification and last inspection.
+> Intervals and next due dates calculated automatically from classification and last inspection. The **Int.** (internal/external examination) months are **planning baselines** — the actual interval is **condition-based**, set by the inspection body per Bilaga 1 (see JDS-RPT-MEC-003 §6).
 
 | Vessel ID | Ext. (mo) | Int. (mo) | Press. (mo) | Last Insp. | Next Ext. | Next Int. |
 |-----------|----------|----------|------------|-----------|----------|----------|

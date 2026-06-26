@@ -12,7 +12,7 @@
 
 ## 1. Purpose
 
-This register tracks every active supervision program created under the Vessel Supervision System (JDS-PRJ-MEC-002). It provides a single view of all programs, their status, and next review dates.
+This register tracks every active supervision program created under the Vessel Supervision System (JDS-PRJ-MEC-001). It provides a single view of all programs, their status, and next review dates.
 
 ---
 

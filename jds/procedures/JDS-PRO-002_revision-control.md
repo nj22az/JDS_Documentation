@@ -49,7 +49,7 @@ Edit the document content as needed. Mark significant changes clearly — you ca
 ### Step 4: Update the Header
 
 ```markdown
-| **Revision** | Rev B |
+| **Revision** | B |
 | **Date** | 2026-04-15 |
 | **Status** | APPROVED |
 ```

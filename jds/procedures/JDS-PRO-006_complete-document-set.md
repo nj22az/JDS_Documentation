@@ -83,7 +83,7 @@ For standalone reports, inspections, or technical analyses:
 
 | # | Document | JDS Category | Required? |
 |---|----------|-------------|-----------|
-| 1 | Report document (using JDS-TMP-001) | RPT | **Mandatory** |
+| 1 | Report document (using JDS-TMP-RPT-001) | RPT | **Mandatory** |
 | 2 | Supporting evidence (photos, data) | — | If applicable |
 | 3 | Equipment register entry (if equipment-related) | LOG | If applicable |
 | 4 | Follow-up actions documented | RPT or LOG | If actions required |

@@ -64,7 +64,7 @@ theofficeofnilsjohansson/
 | Folder | Contents |
 |--------|----------|
 | `quality-manual/` | QMS-000 Quality Manual, QMS-001 Numbering, QMS-002 Retention |
-| `procedures/` | PRO-001 through PRO-012 (creation, revision, audit, information & interface design, etc.) |
+| `procedures/` | PRO-001 through PRO-010 and PRO-012 (PRO-011 Inspection Planning lives with its project) — creation, revision, audit, information & interface design, etc. |
 | `templates/` | Blank templates for every document type |
 | `examples/` | Worked examples (reports, inventories, letters) |
 | `registry/` | Master document register + corrective action log |

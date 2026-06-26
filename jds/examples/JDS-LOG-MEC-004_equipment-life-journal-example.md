@@ -21,7 +21,7 @@
 | **Serial No.** | AC-2018-4472 |
 | **Year of manufacture** | 2018 |
 | **Date commissioned** | 2018-09-14 |
-| **Location** | Göteborg Workshop — Compressor room |
+| **Location** | Gothenburg Workshop — Compressor room |
 | **Design standard** | SS-EN 13445 |
 | **PED Category** | III |
 | **AFS 2017:3 Class** | A |
