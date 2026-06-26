@@ -4,6 +4,14 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [3.7] — 2026-06-26
+
+### Added — SF Symbols usage standard (JDS-PRO-012 §12.4, Rev C)
+- Defines **when, why, and which** SF Symbols to use: icons are a recognition channel (never decoration), always paired with a text label (Redundant Encoding), from one set, at the text's weight, using each symbol's conventional meaning.
+- Canonical **mapping tables**: JDS actions/objects → SF Symbol (new document → `doc.badge.plus`, validate → `checkmark.seal`, register → `list.bullet.clipboard`, office docs, categories, …) and a status-symbol table beside the PRO-007 §6.3 dot+word.
+- **Platform rule:** Apple platforms render the named SF Symbols; web/other platforms use a meaning-equivalent inline SVG. **HMI exception:** control surfaces use standardised function-first symbols (§9), not consumer glyphs.
+- **Document Studio (SFW-002 Rev D)** updated: panel headers carry SF Symbol-equivalent inline-SVG icons paired with labels, inheriting colour/weight via `currentColor`.
+
 ## [3.6] — 2026-06-26
 
 ### Added — Apple HIG alignment (JDS-PRO-012 Rev B)

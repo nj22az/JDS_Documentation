@@ -29,7 +29,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | [JDS-PRO-009](../procedures/JDS-PRO-009_competence-management.md) | Competence Management Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-PRO-010](../procedures/JDS-PRO-010_ongoing-maintenance.md) | Ongoing Maintenance Program Procedure | B | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-PRO-011](../../projects/JDS-PRJ-MEC-001/01-framework/JDS-PRO-011_inspection-planning.md) | Inspection Planning Procedure | B | 2026-06-25 | CURRENT | N. Johansson |
-| [JDS-PRO-012](../procedures/JDS-PRO-012_interface-design.md) | Interface Design Standard (Software UI & HMI) | B | 2026-06-26 | APPROVED | N. Johansson |
+| [JDS-PRO-012](../procedures/JDS-PRO-012_interface-design.md) | Interface Design Standard (Software UI & HMI) | C | 2026-06-26 | APPROVED | N. Johansson |
 
 ## Templates (TMP)
 
@@ -91,7 +91,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | [JDS-PRJ-MEC-001](../../projects/JDS-PRJ-MEC-001/README.md) | Pressure Vessel Ongoing Maintenance Program | D | 2026-04-11 | APPROVED | N. Johansson |
 | JDS-PRJ-MEC-002 | Vessel Supervision System | A | 2026-04-10 | SUPERSEDED | N. Johansson |
 | [JDS-PRJ-SFW-001](../../projects/software/JDS-PRJ-SFW-001_local-image-generator/README.md) | Local Image Generator (JDS Image Studio) | Y | 2026-04-08 | CURRENT | N. Johansson |
-| [JDS-PRJ-SFW-002](../../projects/software/JDS-PRJ-SFW-002_document-studio/README.md) | Document Studio (Local Document Creator) | C | 2026-06-26 | CURRENT | N. Johansson |
+| [JDS-PRJ-SFW-002](../../projects/software/JDS-PRJ-SFW-002_document-studio/README.md) | Document Studio (Local Document Creator) | D | 2026-06-26 | CURRENT | N. Johansson |
 
 ## Timesheets (TSH)
 

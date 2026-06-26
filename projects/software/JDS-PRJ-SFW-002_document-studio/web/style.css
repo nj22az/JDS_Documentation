@@ -97,6 +97,21 @@ blockquote.guide strong { color: var(--guide-strong); }
   padding-bottom: 6px;
 }
 
+/* Icons mirror the SF Symbols of PRO-012 §12.4 (web equivalent). They inherit
+   the text colour and weight via currentColor, and are decorative-redundant
+   (aria-hidden) — the heading text carries the meaning. */
+.icon {
+  width: 1.05em;
+  height: 1.05em;
+  margin-right: 8px;
+  vertical-align: -0.15em;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
 form label { display: block; margin: 12px 0; font-weight: 600; color: var(--navy); font-size: 10pt; }
 form .hint { color: var(--warm-gray); font-weight: 400; }
 input, select {

@@ -4,6 +4,15 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [Rev D] — 2026-06-26
+
+### Added — Iconography (PRO-012 §12.4)
+- Panel headers now carry **SF Symbol-equivalent inline-SVG icons** (new document
+  → `doc.badge.plus`, validate → `checkmark.seal`, office → clipboard/list),
+  each paired with its text label and marked `aria-hidden` (decorative-redundant).
+- Icons inherit text colour and weight via `currentColor` (`.icon` class), so they
+  adapt to light/dark and match the heading weight — per §12.4.
+
 ## [Rev C] — 2026-06-26
 
 ### Changed — Apple HIG alignment (PRO-012 §12)

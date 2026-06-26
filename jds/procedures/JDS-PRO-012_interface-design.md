@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-PRO-012 |
-| **Revision** | B |
+| **Revision** | C |
 | **Date** | 2026-06-26 |
 | **Status** | APPROVED |
 | **Author** | Nils Johansson |
@@ -152,6 +152,63 @@ Apple HIG is a standard for consumer software. It does **not** govern safety-cri
 
 When the two conflict on an HMI, **§9 wins.** HIG informs the *software UI* layer; it never softens a safety surface.
 
+### 12.4 Iconography — SF Symbols: When, Why, and Which
+
+Apple's **SF Symbols** are the icon vocabulary for JDS software UI. An icon is a second recognition channel, not a decoration — it must earn its place.
+
+**When to use a symbol**
+
+1. For a **repeated action, object, or status** the user scans for (toolbar, list row, status chip) — a known symbol is recognised faster than a word is read (the Glance level, §4).
+2. **Always paired with a text label.** The icon never stands alone for any meaningful action — this is Redundant Encoding (§7): novices read the label, experts recognise the symbol, screen readers use the label.
+3. From **one consistent set only.** Do not mix icon families. The symbol's **weight matches the adjacent text** and it sits on the optical baseline.
+4. Using the symbol's **conventional meaning.** Never repurpose a glyph to mean something else.
+
+**When NOT to use a symbol**
+
+- As decoration or to fill space (Reduce to Essence, §3).
+- When a short, unambiguous word is clearer — do not iconise rare or abstract concepts.
+- As the **only** indicator of a safety state (§9 — that is shape + colour + text, always).
+
+**Why** — recognition at a glance, a learned vocabulary that stays consistent across every JDS tool, and lower cognitive load for repeated tasks.
+
+**Which** — the canonical mapping (use these SF Symbol names; render at the text's weight):
+
+| JDS action / object | SF Symbol | Notes |
+|---------------------|-----------|-------|
+| New document | `doc.badge.plus` | Primary create action |
+| Document (generic) | `doc.text` | A document/record |
+| Generate PDF | `arrow.down.doc` | Render/export |
+| Validate / audit | `checkmark.seal` | Run `jds-validate.py` |
+| Master register / list | `list.bullet.clipboard` | The document register |
+| Document number / identity | `number` | JDS number field |
+| Search / find | `magnifyingglass` | Find a document |
+| Edit | `pencil` | Modify existing |
+| Revision / supersede | `arrow.triangle.2.circlepath` | New revision |
+| Reference / cross-link | `link` | Link to another doc |
+| Settings | `gearshape` | Configuration |
+| Guide Note / Doc mascot | `archivebox` | Doc, the filing cabinet (§11) |
+| Timesheet | `clock` | Office doc (TSH) |
+| Expense | `creditcard` | Office doc (EXP) |
+| Mileage | `car` | Office doc (EXP mileage) |
+| 3D model / drawing | `cube` | DWG category |
+| Project | `folder` | PRJ category |
+| Correspondence | `envelope` | COR category |
+| Equipment / inventory | `wrench.and.screwdriver` | LOG category |
+
+**Status symbols** — an optional icon channel beside the dot + word of PRO-007 §6.3 (never replacing it):
+
+| Status | SF Symbol | Colour |
+|--------|-----------|--------|
+| CURRENT | `checkmark.circle.fill` | Forest Green |
+| DRAFT | `circle.dashed` | Amber |
+| IN REVIEW | `clock` | Steel Blue |
+| OVERDUE | `exclamationmark.circle.fill` | Signal Red |
+| SUPERSEDED / ARCHIVED | `archivebox` | Warm Gray |
+
+**Platform note.** On Apple platforms, render these SF Symbols directly by name. On the web or other platforms (e.g. Document Studio), use an **open icon that mirrors the same meaning** — a matching inline SVG at the text's weight. This table defines the *meaning*, not a specific font; the meaning stays constant across platforms.
+
+**HMI exception.** On HMI and control surfaces, iconography follows §9 — standardised, unambiguous, function-first symbols (industry / ISA conventions), never decorative consumer glyphs. SF Symbols are for software UI, not the control surface.
+
 ## 13. Self-Check Before Release
 
 - [ ] Glance level works — state/status visible without interaction
@@ -162,6 +219,7 @@ When the two conflict on an HMI, **§9 wins.** HIG informs the *software UI* lay
 - [ ] Colour is never the only encoding; contrast meets WCAG AA
 - [ ] Fully keyboard-operable with a visible focus indicator
 - [ ] (Software UI) System font; text scales with Dynamic Type; light & dark appearance supported (§12)
+- [ ] (Software UI) Icons are from one set, paired with a label, and used per the §12.4 mapping — never decorative or alone
 - [ ] (HMI) Normal = grey-scale; colour reserved for the abnormal
 - [ ] (HMI) Alarms ranked, actionable, multi-channel; safety actions guarded
 - [ ] (HMI) No HIG decoration — no translucency, vibrancy, or motion on the safety surface (§12.3)
@@ -178,3 +236,4 @@ Software UIs conform to this standard at code review (alongside the PRO-004 code
 |-----|------|--------|-------------|
 | A | 2026-06-26 | Nils Johansson | Initial release — the third design pillar (interface). Three-level interaction model, interaction & feedback laws, screen typography/layout, colour & status semantics, accessibility, a full HMI section (situational awareness, alarm discipline, safety-critical actions, physical environment), component conventions, and the Doc mascot boundary for safety-critical surfaces. |
 | B | 2026-06-26 | Nils Johansson | Added §12 Apple HIG Alignment — maps Clarity/Deference/Depth to JDS and adopts HIG conventions for software UI (system typography & Dynamic Type, adaptive semantic colour with light/dark appearance, 44pt targets, SF Symbols-style iconography, materials/motion). §12.3 establishes HMI safety primacy: HIG aesthetics never override the §9 safety rules on a control surface. Self-check and Conformance updated. |
+| C | 2026-06-26 | Nils Johansson | Added §12.4 Iconography — SF Symbols: when, why, and which. Defines the rules for icon use (recognition channel, always with a label, one set, conventional meaning), a canonical action/object → SF Symbol mapping table and a status-symbol table, the web/other-platform equivalent rule, and the HMI exception. Self-check item added. |

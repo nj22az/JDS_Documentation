@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Document No.** | JDS-PRJ-SFW-002 |
-| **Revision** | C |
+| **Revision** | D |
 | **Date** | 2026-06-26 |
 | **Status** | CURRENT |
 | **Author** | N. Johansson |
@@ -108,8 +108,10 @@ typography** (§6–§7, §12), **adaptive light & dark appearance**, **44pt hit
 targets**, status never by colour alone, WCAG-AA contrast with **visible focus
 indicators** and **reduced-motion** support (§8), invalid actions **prevented**
 rather than just reported — empty title, bad revision letter, and out-of-repo
-paths are rejected before any write (§5.3). No safety-critical/HMI surfaces here,
-so the Doc Guide Note is permitted (§11) and HIG materials are fine (§12.3).
+paths are rejected before any write (§5.3). Section headers carry **SF
+Symbol-equivalent inline-SVG icons** paired with their labels per the §12.4
+mapping (decorative-redundant, `aria-hidden`). No safety-critical/HMI surfaces
+here, so the Doc Guide Note is permitted (§11) and HIG materials are fine (§12.3).
 
 ## Status & Limitations (Rev B)
 
