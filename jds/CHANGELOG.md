@@ -12,6 +12,9 @@ All changes to the JDS documentation system itself are recorded here. This provi
 - **Corner-geometry-as-meaning** codified in PRO-007 §15.4: sharper corners signal more normative content (data 8pt → callout 16pt → Guide Note 18pt).
 - **JDS-PRO-007 bumped to Rev E**; CLAUDE.md callout conventions table added.
 
+### Added — JDS Document Studio (JDS-PRJ-SFW-002)
+- New local web app (`projects/software/JDS-PRJ-SFW-002_document-studio/`) that creates numbered, registered JDS documents from templates and drives the existing engine (`md2pdf.py`, `jds-validate.py`, `generate-office-docs.py`) — a thin UI, not a reimplementation. FastAPI backend + vanilla web UI; pure core with 8 passing unit/integration tests. Chosen as a web app over native Swift because the document engine is already in Python (reuse over rewrite). Registered in the PRJ section.
+
 ### Enhanced — Mascot Voice & Report Rigor
 - **Doc speaks in the CLI** — `jds-validate.py` now closes every run with one adaptive `Doc says:` line (PRO-007 §15.6); the `✗`/`⚠` findings remain the source of truth.
 - **Report template Rev B** — added §5 *Methodology & Data Provenance* (method/standards, data-source traceability table, intermediate-calculations & variance table). Showing the working and data lineage is now a first-class part of every report.

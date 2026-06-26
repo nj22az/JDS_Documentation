@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>JDS Document Studio</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>JDS Document Studio</h1>
+    <p class="subtitle">Create numbered, registered JDS documents — over your existing engine.</p>
+  </header>
+
+  <main>
+    <blockquote class="guide">
+      <strong>Doc says:</strong> Pick a template, give it a title and a category,
+      and I'll reserve the next free number, fill the metadata, write the file,
+      and add it to the register. You can generate the PDF and run the audit
+      right here too.
+    </blockquote>
+
+    <section class="panel">
+      <h2>New Document</h2>
+      <form id="new-doc-form">
+        <label>Template
+          <select id="template" name="template" required></select>
+        </label>
+        <label>Title
+          <input id="title" name="title" type="text" placeholder="e.g. Boiler Inspection Routine" required>
+        </label>
+        <div class="row">
+          <label>Category
+            <select id="category" name="category" required></select>
+          </label>
+          <label>Domain <span class="hint">(optional)</span>
+            <select id="domain" name="domain"><option value="">— none —</option></select>
+          </label>
+          <label>Status
+            <select id="status" name="status"></select>
+          </label>
+        </div>
+        <div class="row">
+          <label>Template type <span class="hint">(only for TMP, e.g. RPT)</span>
+            <input id="template_type" name="template_type" type="text" placeholder="RPT / LOG …">
+          </label>
+          <label>Target folder <span class="hint">(relative to repo root)</span>
+            <input id="target_dir" name="target_dir" type="text" placeholder="jds/procedures" required>
+          </label>
+        </div>
+        <label>Author
+          <input id="author" name="author" type="text" value="N. Johansson" required>
+        </label>
+        <div class="number-preview">Next number: <strong id="next-number">—</strong></div>
+        <button type="submit" class="primary">Create document</button>
+      </form>
+      <div id="create-result" class="result" hidden></div>
+    </section>
+
+    <section class="panel">
+      <h2>Validate &amp; Render</h2>
+      <div class="actions">
+        <button id="btn-validate" type="button">Run full audit</button>
+        <button id="btn-validate-quick" type="button">Quick check</button>
+      </div>
+      <pre id="validate-output" class="output" hidden></pre>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    JDS-PRJ-SFW-002 · Document Studio · the controlled copy is always Git
+  </footer>
+
+  <script src="/app.js"></script>
+</body>
+</html>

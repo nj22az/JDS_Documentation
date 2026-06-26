@@ -1,0 +1,12 @@
+# JDS Document Studio — Python dependencies
+# The web layer:
+fastapi>=0.110
+uvicorn>=0.29
+
+# The shared document engine (same libraries the scripts/ tools use).
+# Studio shells out to scripts/md2pdf.py, jds-validate.py, generate-office-docs.py
+# rather than reimplementing them — these are listed so a fresh machine can run
+# the full pipeline from one install.
+markdown>=3.5
+weasyprint>=61
+openpyxl>=3.1

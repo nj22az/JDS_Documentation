@@ -90,6 +90,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | [JDS-PRJ-MEC-001](../../projects/JDS-PRJ-MEC-001/README.md) | Pressure Vessel Ongoing Maintenance Program | D | 2026-04-11 | APPROVED | N. Johansson |
 | JDS-PRJ-MEC-002 | Vessel Supervision System | A | 2026-04-10 | SUPERSEDED | N. Johansson |
 | [JDS-PRJ-SFW-001](../../projects/software/JDS-PRJ-SFW-001_local-image-generator/README.md) | Local Image Generator (JDS Image Studio) | Y | 2026-04-08 | CURRENT | N. Johansson |
+| [JDS-PRJ-SFW-002](../../projects/software/JDS-PRJ-SFW-002_document-studio/README.md) | Document Studio (Local Document Creator) | A | 2026-06-26 | CURRENT | N. Johansson |
 
 ## Timesheets (TSH)
 
