@@ -98,7 +98,20 @@ button {
 }
 button.primary { background: var(--navy); border-color: var(--navy); color: #fff; }
 button:hover { filter: brightness(0.97); }
+button:active { transform: translateY(1px); }   /* ~100ms press feedback (PRO-012 §5.2) */
 .actions { display: flex; gap: 10px; }
+
+/* Visible focus indicator on every control (PRO-012 §8 / WCAG AA). */
+:focus-visible {
+  outline: 3px solid var(--steel);
+  outline-offset: 2px;
+}
+
+/* Honour the user's reduced-motion preference (PRO-012 §8). */
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+  button:active { transform: none; }
+}
 
 .result {
   margin-top: 16px;

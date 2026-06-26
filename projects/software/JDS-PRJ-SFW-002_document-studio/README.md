@@ -90,12 +90,21 @@ web/ (browser UI)  ──HTTP──►  studio/server.py  (FastAPI, thin)
 | POST | `/api/validate?quick=` | Run the audit |
 | POST | `/api/pdf` | Render a document to PDF |
 
-## JDS-PRO-004 Compliance
+## Standards Compliance
 
-Built to the software code standard from the first line: constants live in
-`config.py`; every module is small and single-purpose (largest is well under the
-500-line limit); no dead code; clear names throughout; the core is unit-tested
-and side-effect-free except the two writes in `creator.create_document`.
+**JDS-PRO-004 (Code).** Built to the software code standard from the first line:
+constants live in `config.py`; every module is small and single-purpose (largest
+is well under the 500-line limit); no dead code; clear names throughout; the core
+is unit-tested and side-effect-free except the two writes in
+`creator.create_document`.
+
+**JDS-PRO-012 (Interface).** This app is the reference implementation of the
+Interface Design Standard: JDS palette and sans-serif type (§6–§7), status never
+by colour alone, WCAG-AA contrast with **visible focus indicators** and
+**reduced-motion** support (§8), invalid actions **prevented** rather than just
+reported — empty title, bad revision letter, and out-of-repo paths are rejected
+before any write (§5.3). No safety-critical/HMI surfaces here, so the Doc Guide
+Note is permitted (§11).
 
 ## Status & Limitations (Rev A — MVP)
 

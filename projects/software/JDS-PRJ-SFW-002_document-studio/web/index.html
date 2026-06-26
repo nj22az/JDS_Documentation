@@ -54,7 +54,7 @@
         <div class="number-preview">Next number: <strong id="next-number">—</strong></div>
         <button type="submit" class="primary">Create document</button>
       </form>
-      <div id="create-result" class="result" hidden></div>
+      <div id="create-result" class="result" role="status" aria-live="polite" hidden></div>
     </section>
 
     <section class="panel">
@@ -63,7 +63,7 @@
         <button id="btn-validate" type="button">Run full audit</button>
         <button id="btn-validate-quick" type="button">Quick check</button>
       </div>
-      <pre id="validate-output" class="output" hidden></pre>
+      <pre id="validate-output" class="output" role="status" aria-live="polite" hidden></pre>
     </section>
   </main>
 

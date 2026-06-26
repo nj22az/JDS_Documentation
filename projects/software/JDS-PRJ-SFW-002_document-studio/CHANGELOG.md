@@ -20,8 +20,13 @@ All notable changes to this project are recorded here.
 - **Server** (`studio/server.py`): thin FastAPI HTTP layer.
 - **Web UI** (`web/`): single-page, vanilla JS, styled to PRO-007 (Navy/Steel,
   sans-serif, softened-corner Guide Note from Doc).
-- **Tests** (`tests/test_core.py`): 8 unit + integration tests, all passing,
-  including end-to-end document creation against a temporary sandbox repo.
+- **Tests** (`tests/test_core.py`): 9 unit + integration tests, all passing,
+  including end-to-end document creation against a temporary sandbox repo and
+  input-validation guards.
+- **Conforms to JDS-PRO-012** (Interface Design Standard) as its reference
+  implementation: visible focus indicators, control labels, reduced-motion
+  support, and invalid actions prevented before any write (empty title, bad
+  revision letter, out-of-repo target path).
 
 ### Design Decision — Web over Swift
 Chosen because the entire document engine already exists in Python. A web app

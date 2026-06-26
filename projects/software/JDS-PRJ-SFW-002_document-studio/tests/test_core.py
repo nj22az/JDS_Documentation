@@ -155,6 +155,49 @@ def test_create_document_end_to_end():
         config.REPO_ROOT, config.REGISTRY_PATH, config.TEMPLATES_DIR = saved
 
 
+def _sandbox():
+    """Create a temp repo and point config at it. Returns (sandbox, saved)."""
+    sandbox = Path(tempfile.mkdtemp(prefix="jds-studio-"))
+    (sandbox / "jds" / "registry").mkdir(parents=True)
+    (sandbox / "jds" / "templates" / "reports").mkdir(parents=True)
+    (sandbox / "projects").mkdir(parents=True)
+    (sandbox / "jds" / "registry" / "document-register.md").write_text(SAMPLE_REGISTRY)
+    (sandbox / "jds" / "templates" / "reports" / "tmpl.md").write_text(SAMPLE_TEMPLATE)
+    saved = (config.REPO_ROOT, config.REGISTRY_PATH, config.TEMPLATES_DIR)
+    config.REPO_ROOT = sandbox
+    config.REGISTRY_PATH = sandbox / "jds" / "registry" / "document-register.md"
+    config.TEMPLATES_DIR = sandbox / "jds" / "templates"
+    return sandbox, saved
+
+
+def _raises(func):
+    try:
+        func()
+    except ValueError:
+        return True
+    return False
+
+
+def test_create_document_rejects_invalid_input():
+    sandbox, saved = _sandbox()
+    try:
+        def call(**over):
+            args = dict(template_rel_path="jds/templates/reports/tmpl.md",
+                        target_dir="jds/procedures", title="Valid Title",
+                        category="PRO", author="N. J.", date="2026-06-26")
+            args.update(over)
+            return lambda: creator.create_document(**args)
+
+        assert _raises(call(title="   "))                  # empty title
+        assert _raises(call(rev="I"))                      # I is not a JDS rev letter
+        assert _raises(call(category="ZZZ"))               # unknown category
+        assert _raises(call(domain="ZZZ"))                 # unknown domain
+        assert _raises(call(status="BOGUS"))               # invalid status
+        assert _raises(call(target_dir="../../etc"))       # path traversal blocked
+    finally:
+        config.REPO_ROOT, config.REGISTRY_PATH, config.TEMPLATES_DIR = saved
+
+
 # --- runner -----------------------------------------------------------------
 
 def _main():

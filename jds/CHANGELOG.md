@@ -4,6 +4,14 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [3.5] — 2026-06-26
+
+### Added — JDS-PRO-012 Interface Design Standard (the third design pillar)
+- New procedure governing **how interactive interfaces look and behave** — both software UI and **HMI** — closing a real gap: PRO-004 governs code and PRO-007 governs documents, but nothing governed interfaces.
+- Defines the **three-level interaction model** (glance/scan/operate), interaction & feedback laws, screen typography/layout, colour & status semantics (reusing the PRO-007 palette), accessibility (WCAG AA, keyboard, focus, reduced-motion), component conventions, and the **Doc mascot boundary** (allowed in software UIs, prohibited on safety-critical HMI surfaces).
+- Full **HMI section** for safety-critical operator interfaces: situational awareness first (normal = grey-scale, colour for the abnormal), alarm discipline (ranked, actionable, multi-channel), guarded safety-critical actions with fail-safe defaults, and physical-environment requirements (sunlight, gloves, vibration, monochrome failure). States the principles behind ISA-101 / IEC 62682 in JDS English.
+- **Document Studio (SFW-002) retrofitted** as the reference implementation — UI brought into conformance (visible focus indicators, control labels, reduced-motion support).
+
 ## [3.4] — 2026-06-25
 
 ### Added — Guide Notes (PRO-007 §15)

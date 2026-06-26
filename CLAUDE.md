@@ -62,6 +62,8 @@ All software code under JDS must follow these 7 rules from the first line:
 6. **Keep files clean** — Refactor as you go. Shared helpers (used 3+ times) go in one module, imported everywhere.
 7. **Document as you build** — README + CHANGELOG updated every revision. Comments only where logic is non-obvious.
 
+**Interfaces (UI & HMI):** any interactive interface — a software UI or an HMI/operator panel — must follow **JDS-PRO-012 (Interface Design Standard)**, the third design pillar alongside PRO-004 (code) and PRO-007 (documents). Key rules: three-level interaction (glance/scan/operate), prevent invalid actions, confirm the irreversible, colour is never the only encoding, WCAG AA + keyboard + visible focus. For HMI specifically (§9): normal state is grey-scale with colour reserved for the abnormal, alarms are ranked/actionable/multi-channel, safety-critical actions are guarded and fail-safe, and the Doc mascot is **prohibited** on safety-critical surfaces.
+
 ### Mandatory: Before Every Commit
 1. **Validate** — Run `python3 scripts/jds-validate.py --quick` before committing
 2. **Code audit** — Quick check: no unused imports, no hardcoded values, no dead code (JDS-PRO-004 §3.1)

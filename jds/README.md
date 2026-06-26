@@ -1,7 +1,7 @@
 # JDS — Johansson Documentation System
 
-**Version:** 3.4
-**Effective Date:** 2026-06-25
+**Version:** 3.5
+**Effective Date:** 2026-06-26
 **Owner:** Nils Johansson
 
 ---
@@ -26,6 +26,7 @@ Every document — whether it's a field service report, a 3D model drawing, a ti
 | How documents are reviewed & audited | [Document Review & Audit Procedure](procedures/JDS-PRO-005_document-review-audit.md) |
 | What documents a project needs | [Complete Document Set Standard](procedures/JDS-PRO-006_complete-document-set.md) |
 | How documents should look | [Information Design Standard](procedures/JDS-PRO-007_information-design.md) |
+| How software UIs & HMIs should look | [Interface Design Standard](procedures/JDS-PRO-012_interface-design.md) |
 | How to handle nonconformances | [Corrective Action Procedure](procedures/JDS-PRO-008_corrective-action.md) |
 | How competence is managed | [Competence Management Procedure](procedures/JDS-PRO-009_competence-management.md) |
 | How long records are kept | [Document Retention Schedule](quality-manual/JDS-QMS-002_retention-schedule.md) |
