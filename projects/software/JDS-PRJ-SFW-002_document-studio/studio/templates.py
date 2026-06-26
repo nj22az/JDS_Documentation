@@ -52,7 +52,7 @@ def _first_heading(text):
 
 
 def _first_number(name):
-    match = re.search(r"JDS-[A-Z]{3}(?:-[A-Z]{3})?-\d{3}", name)
+    match = config.DOC_NUMBER_RE.search(name)
     return match.group(0) if match else name
 
 

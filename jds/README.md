@@ -1,6 +1,6 @@
 # JDS — Johansson Documentation System
 
-**Version:** 3.7
+**Version:** 3.8
 **Effective Date:** 2026-06-26
 **Owner:** Nils Johansson
 

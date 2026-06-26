@@ -4,6 +4,21 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [3.8] — 2026-06-26
+
+### Fixed — Self-enhancement QA sweep (CA-2026-009)
+- **Root README version was stale** (3.2 vs 3.7) and went undetected because the
+  validator's root-README check matched `**JDS Version:**`, a string that never
+  appears — the root README writes `**Version 3.x**`. The regex is fixed (it now
+  catches the drift, verified), and the root README is synced and brought current.
+- **Root README dashboard refreshed** to reflect the grown system: the Interface
+  Design Standard (PRO-012) and Document Studio (JDS-PRJ-SFW-002) are now listed.
+
+### Changed — App code consolidation (JDS-PRJ-SFW-002 Rev G)
+- Centralised the duplicated JDS-number regex (was repeated in 3 modules) and the
+  `today()` date helper into `config` (JDS-PRO-004 §6 — one definition).
+- Hardened `engine.generate_pdf` / `POST /api/pdf` with the shared repo-path guard.
+
 ## [3.7] — 2026-06-26
 
 ### Added — SF Symbols usage standard (JDS-PRO-012 §12.4, Rev C)

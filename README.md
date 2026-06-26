@@ -2,7 +2,7 @@
 
 **The Office of Nils Johansson** — Marine, Mechanical & Industrial Engineering
 
-**Version 3.2** | Effective 2026-04-07 | Owner: Nils Johansson
+**Version 3.8** | Effective 2026-06-26 | Owner: Nils Johansson
 
 ---
 
@@ -27,6 +27,8 @@ This repository **is** the Johansson Documentation System. Every project, docume
 | **Add a 3D model** | [3D Model Management](jds/procedures/JDS-PRO-003_3d-model-management.md) |
 | **Write a blog post** | [Blog Post Template](jds/templates/blog-posts/JDS-TMP-BLG-001_blog-post-template.md) |
 | **Generate a PDF** | `python3 scripts/md2pdf.py <file.md>` or `python3 scripts/office2pdf.py <file.xlsx>` |
+| **Create documents in a UI** | [Document Studio](projects/software/JDS-PRJ-SFW-002_document-studio/) — local web app (double-click `run.command`) |
+| **Design a software UI or HMI** | [Interface Design Standard (JDS-PRO-012)](jds/procedures/JDS-PRO-012_interface-design.md) |
 | **Run a system audit** | `python3 scripts/jds-validate.py` |
 | **Find an existing document** | [Master Document Register](jds/registry/document-register.md) |
 | **Look up the numbering system** | [Numbering Standard](jds/quality-manual/JDS-QMS-001_document-numbering.md) |

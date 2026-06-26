@@ -1,6 +1,6 @@
 # Corrective Action Log
 
-**Last updated:** 2026-06-25
+**Last updated:** 2026-06-26
 
 This log tracks all nonconformances and corrective actions raised under [JDS-PRO-008](../procedures/JDS-PRO-008_corrective-action.md).
 
@@ -11,6 +11,22 @@ This log tracks all nonconformances and corrective actions raised under [JDS-PRO
 *No open corrective actions.*
 
 ## Closed Actions
+
+### CA-2026-009 — Root README version check was a silent no-op | CLOSED
+
+| | |
+|---|---|
+| **Date** | 2026-06-26 |
+| **Source** | Self-enhancement QA sweep |
+| **Description** | The validator's root-README version check searched for `**JDS Version:**`, which never appears (the root README writes `**Version 3.x**`). The check matched nothing and silently passed, so the root README version drifted to 3.2 while the system reached 3.7 — undetected. |
+| **Root Cause** | A guard was written against an assumed format that differs from the file's actual format; with no "could not parse" branch, a non-match looked identical to a pass. |
+
+**Corrective Action:**
+1. Fixed the regex to `\*\*Version (\d+\.\d+)\*\*` (matches the real format); verified it now flags the 3.2≠3.7 drift.
+2. Added a "could not parse" warning branch so a future format change surfaces instead of silently passing.
+3. Synced the root README to v3.8 and refreshed its dashboard (added PRO-012 and Document Studio).
+4. Consolidated duplicated app code (JDS-number regex ×3, `today()` ×2) into `config`, and hardened the PDF route's path — found during the same sweep.
+
 
 ### CA-2026-008 — JDS number collisions (PRO-004 + example/template family) | CLOSED
 
@@ -147,4 +163,4 @@ This log tracks all nonconformances and corrective actions raised under [JDS-PRO
 
 ---
 
-**Next number:** CA-2026-009
+**Next number:** CA-2026-010

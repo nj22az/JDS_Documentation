@@ -164,7 +164,10 @@ def validate(quick: bool = False):
 
 @app.post("/api/pdf")
 def make_pdf(body: PdfRequest):
-    result = engine.generate_pdf(body.path)
+    try:
+        result = engine.generate_pdf(body.path)
+    except ValueError as exc:
+        raise HTTPException(status_code=400, detail=str(exc))
     if not result["ok"]:
         return JSONResponse(status_code=400, content=result)
     return result

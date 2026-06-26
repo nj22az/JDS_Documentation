@@ -674,18 +674,23 @@ def check_changelog_version(result):
     else:
         result.warn('Could not parse version from CHANGELOG or jds/README')
 
-    # Also check root README version
+    # Also check root README version. The root README writes the version as
+    # "**Version 3.x**" (inside the bold), so match that exact format — the old
+    # pattern looked for "**JDS Version:**", never matched, and silently passed,
+    # letting the root version drift out of sync (CA-2026-009).
     root_readme = os.path.join(REPO_ROOT, 'README.md')
     if os.path.exists(root_readme):
         content = safe_read(root_readme)
         if content:
-            match = re.search(r'\*\*JDS Version:\*\*\s*(\d+\.\d+)', content)
+            match = re.search(r'\*\*Version\s+(\d+\.\d+)\*\*', content)
             if match:
                 root_ver = match.group(1)
                 if changelog_ver and root_ver != changelog_ver:
                     result.error(f'Root README version {root_ver} != CHANGELOG {changelog_ver}')
                 else:
                     result.ok(f'Root README version consistent: {root_ver}')
+            else:
+                result.warn('Could not parse "**Version X.Y**" from root README')
 
 
 def check_corrective_action_log(result):

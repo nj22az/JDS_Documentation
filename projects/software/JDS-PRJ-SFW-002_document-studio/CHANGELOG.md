@@ -4,6 +4,18 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [Rev G] — 2026-06-26
+
+### Changed — Consolidation & hardening (self-enhancement sweep)
+- **One definition each:** the JDS-number regex (was duplicated in `registry`,
+  `editor`, and `templates`) and the `today()` date helper (duplicated in
+  `creator` and `editor`) now live once in `config` (`DOC_NUMBER_RE`,
+  `today_iso`) — JDS-PRO-004 §6.
+- **PDF route hardened:** `engine.generate_pdf` and `POST /api/pdf` now run their
+  paths through the shared `config.resolve_in_repo` guard, like every other
+  filesystem entry point.
+- No behaviour change; 21/21 tests still pass.
+
 ## [Rev F] — 2026-06-26
 
 ### Added — Vessel classification & supervision (AFS 2017:3)

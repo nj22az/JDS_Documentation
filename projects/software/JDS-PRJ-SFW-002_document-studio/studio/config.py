@@ -7,6 +7,7 @@ app keeps working if the repo is moved or cloned elsewhere.
 """
 
 import os
+import re
 from pathlib import Path
 
 # --- Repository discovery ---------------------------------------------------
@@ -44,6 +45,17 @@ def resolve_in_repo(rel_path):
     if not target.is_relative_to(REPO_ROOT.resolve()):
         raise ValueError("path must stay inside the repository")
     return target
+
+
+def today_iso():
+    """Today's date as YYYY-MM-DD. One definition, shared by creator + editor."""
+    from datetime import date
+    return date.today().isoformat()
+
+
+# Canonical JDS document-number pattern — defined once (JDS-PRO-004 §6) and
+# imported wherever a number is matched, instead of re-spelling the regex.
+DOC_NUMBER_RE = re.compile(r"JDS-[A-Z]{3}(?:-[A-Z]{3})?-\d{3}")
 JDS_DIR = REPO_ROOT / "jds"
 SCRIPTS_DIR = REPO_ROOT / "scripts"
 TEMPLATES_DIR = JDS_DIR / "templates"

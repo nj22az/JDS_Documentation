@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Document No.** | JDS-PRJ-SFW-002 |
-| **Revision** | F |
+| **Revision** | G |
 | **Date** | 2026-06-26 |
 | **Status** | CURRENT |
 | **Author** | N. Johansson |

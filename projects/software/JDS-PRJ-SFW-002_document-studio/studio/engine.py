@@ -37,10 +37,12 @@ def run_validator(quick=False):
 
 
 def generate_pdf(md_rel_path, output_rel_path=None):
-    """Render a markdown document to a JDS-compliant PDF via md2pdf.py."""
-    args = [config.MD2PDF_SCRIPT, config.REPO_ROOT / md_rel_path]
+    """Render a markdown document to a JDS-compliant PDF via md2pdf.py.
+
+    Source and output are constrained to the repository (PRO-012 §5.3)."""
+    args = [config.MD2PDF_SCRIPT, config.resolve_in_repo(md_rel_path)]
     if output_rel_path:
-        args.append(config.REPO_ROOT / output_rel_path)
+        args.append(config.resolve_in_repo(output_rel_path))
     return _run(args)
 
 

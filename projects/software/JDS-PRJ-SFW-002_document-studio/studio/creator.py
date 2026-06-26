@@ -57,7 +57,7 @@ def create_document(*, template_rel_path, target_dir, title, category,
         raise ValueError(f"Invalid revision letter '{rev}' (JDS skips I,O,Q,S,X,Z)")
     # Keep writes inside the repository (PRO-012 §5.3: prevent the invalid action).
     target = config.resolve_in_repo(target_dir)
-    date = date or _today()
+    date = date or config.today_iso()
 
     registry_text = registry.read_text()
     doc_no = preview_number(category, domain, template_type, registry_text)
@@ -91,9 +91,3 @@ def create_document(*, template_rel_path, target_dir, title, category,
         "path": str(abs_path.relative_to(config.REPO_ROOT)),
         "registry_link": rel_for_registry,
     }
-
-
-def _today():
-    """ISO date string. Isolated so tests can monkeypatch it deterministically."""
-    from datetime import date as _date
-    return _date.today().isoformat()

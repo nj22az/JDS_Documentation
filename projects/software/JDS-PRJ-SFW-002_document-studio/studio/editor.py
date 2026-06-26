@@ -10,16 +10,14 @@ import re
 
 from . import config, registry, revision
 
-JDS_NUMBER_RE = re.compile(r"JDS-[A-Z]{3}(?:-[A-Z]{3})?-\d{3}")
-
 
 def _doc_number(text, fallback_name):
     """Find the document's JDS number from its metadata, else its filename."""
-    match = re.search(r"\*\*Document No\.\*\*\s*\|\s*(" + JDS_NUMBER_RE.pattern + r")",
+    match = re.search(r"\*\*Document No\.\*\*\s*\|\s*(" + config.DOC_NUMBER_RE.pattern + r")",
                       text)
     if match:
         return match.group(1)
-    name_match = JDS_NUMBER_RE.search(fallback_name)
+    name_match = config.DOC_NUMBER_RE.search(fallback_name)
     return name_match.group(0) if name_match else None
 
 
@@ -50,7 +48,7 @@ def revise_document(rel_path, author, description, new_status=None, date=None):
     """Bump the revision: stamp metadata, add a history row, sync the register."""
     if not (description or "").strip():
         raise ValueError("A change description is required for a revision")
-    date = date or _today()
+    date = date or config.today_iso()
     path = config.resolve_in_repo(rel_path)
     if not path.exists():
         raise FileNotFoundError(rel_path)
@@ -78,8 +76,3 @@ def revise_document(rel_path, author, description, new_status=None, date=None):
             pass  # not every document is in the register (e.g. templates)
 
     return {"path": rel_path, "doc_no": doc_no, "new_rev": new_rev, "date": date}
-
-
-def _today():
-    from datetime import date as _date
-    return _date.today().isoformat()

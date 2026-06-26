@@ -86,6 +86,8 @@ def test_bad_requests_are_rejected():
     try:
         # Out-of-repo path on read.
         assert client.get("/api/document", params={"path": "../../etc/passwd"}).status_code == 400
+        # Out-of-repo path on PDF render (shared guard).
+        assert client.post("/api/pdf", json={"path": "../../etc/passwd"}).status_code == 400
         # Unknown office kind.
         assert client.post("/api/office", params={"kind": "bogus"}).status_code == 400
         # Empty title on create.

@@ -20,9 +20,6 @@ ROW_RE = re.compile(
     r"\s*([^|]*?)\s*\|"                       # author
 )
 
-JDS_NUMBER_RE = re.compile(r"JDS-[A-Z]{3}(?:-[A-Z]{3})?-\d{3}")
-
-
 def read_text(path=None):
     """Return the raw register markdown."""
     with open(path or config.REGISTRY_PATH, "r", encoding="utf-8") as handle:
@@ -34,7 +31,7 @@ def parse_entries(registry_text):
     entries = []
     for match in ROW_RE.finditer(registry_text):
         doc_no = match.group(1)
-        if not JDS_NUMBER_RE.fullmatch(doc_no):
+        if not config.DOC_NUMBER_RE.fullmatch(doc_no):
             continue
         entries.append({
             "doc_no": doc_no,
