@@ -4,6 +4,28 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [Rev E] — 2026-06-26
+
+### Added — Edit & revise (completes the document lifecycle)
+- **`studio/revision.py`**: JDS revision sequencing (A→B…, skipping I/O/Q/S/X/Z;
+  DRAFT→A) plus metadata-field and revision-history updates.
+- **`studio/editor.py`**: read / save / **revise** an existing document — one
+  action stamps the new revision and date, adds a history row, and syncs the
+  register (`registry.update_entry`). Path access is constrained to the repo.
+- UI **Edit & Revise panel**: choose a registered document, edit its body, save,
+  or bump the revision with a change description.
+
+### Added — Solidity
+- **`studio/doctor.py`** dependency preflight + **`GET /api/health`**; the server
+  prints the report on startup and the UI shows a banner when a package is missing.
+- **`tests/test_server.py`**: HTTP-route tests via FastAPI TestClient (create +
+  revise round-trip, validation rejections, metadata routes). Core tests now 15.
+- Verified in-environment: 15/15 core + 3/3 server tests pass; the real app boots
+  and serves its routes and static assets.
+
+### Dependencies
+- Added `httpx` (tests only — TestClient transport).
+
 ## [Rev D] — 2026-06-26
 
 ### Added — Iconography (PRO-012 §12.4)

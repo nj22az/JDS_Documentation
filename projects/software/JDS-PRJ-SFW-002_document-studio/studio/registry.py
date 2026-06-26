@@ -93,6 +93,30 @@ def append_entry(registry_text, category, doc_no, rel_path, title, rev, date,
     return "\n".join(lines) + ("\n" if registry_text.endswith("\n") else "")
 
 
+def update_entry(registry_text, doc_no, rev=None, date=None, status=None):
+    """Return register text with the row for `doc_no` updated in place.
+
+    Only the named fields change; the link, title, and author are preserved.
+    Raises ValueError if the document is not registered.
+    """
+    lines = registry_text.splitlines()
+    for i, line in enumerate(lines):
+        match = ROW_RE.search(line)
+        if not match or match.group(1) != doc_no:
+            continue
+        f = list(match.groups())  # doc_no, path, title, rev, date, status, author
+        if rev:
+            f[3] = rev
+        if date:
+            f[4] = date
+        if status:
+            f[5] = status
+        lines[i] = (f"| [{f[0]}]({f[1]}) | {f[2]} | {f[3]} | {f[4]} | "
+                    f"{f[5]} | {f[6]} |")
+        return "\n".join(lines) + ("\n" if registry_text.endswith("\n") else "")
+    raise ValueError(f"{doc_no} is not in the register")
+
+
 def write_text(registry_text, path=None):
     """Persist register markdown back to disk."""
     with open(path or config.REGISTRY_PATH, "w", encoding="utf-8") as handle:

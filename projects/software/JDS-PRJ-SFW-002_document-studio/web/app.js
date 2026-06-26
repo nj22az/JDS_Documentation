@@ -56,6 +56,84 @@ async function init() {
   $("btn-validate-quick").addEventListener("click", () => runValidate(true));
   document.querySelectorAll("[data-office]").forEach((btn) =>
     btn.addEventListener("click", () => makeOffice(btn.dataset.office)));
+
+  // Edit / Revise panel: registered documents only.
+  const reg = await getJSON("/api/registry");
+  const esel = $("edit-doc");
+  for (const e of reg) esel.append(new Option(`${e.doc_no} · ${e.title}`, e.path));
+  esel.addEventListener("change", loadDocument);
+  $("btn-save").addEventListener("click", saveBody);
+  $("btn-revise").addEventListener("click", reviseDoc);
+
+  checkHealth();
+}
+
+// --- health -----------------------------------------------------------------
+
+async function checkHealth() {
+  try {
+    const h = await getJSON("/api/health");
+    if (h.ready) return;
+    const gaps = Object.entries(h.dependencies)
+      .filter(([, v]) => !v.present).map(([k]) => k);
+    const banner = $("health-banner");
+    banner.textContent = "Some features need packages that aren't installed: " +
+      gaps.join(", ") + ". Run  pip3 install -r requirements.txt  to enable them.";
+    banner.hidden = false;
+  } catch (err) { /* health is best-effort */ }
+}
+
+// --- edit / revise ----------------------------------------------------------
+
+async function loadDocument() {
+  const path = $("edit-doc").value;
+  const meta = $("edit-meta"), body = $("edit-body");
+  if (!path) { meta.hidden = true; body.hidden = true; return; }
+  try {
+    const doc = await getJSON("/api/document?path=" + encodeURIComponent(path));
+    $("edit-rev").textContent = doc.rev || "—";
+    meta.hidden = false;
+    body.value = doc.content;
+    body.hidden = false;
+  } catch (err) {
+    showEdit("Could not load: " + err.message, true);
+  }
+}
+
+async function saveBody() {
+  const path = $("edit-doc").value;
+  if (!path) return;
+  try {
+    await postJSON("/api/document/save", { path, content: $("edit-body").value });
+    showEdit("Saved.", false);
+  } catch (err) {
+    showEdit("Save failed: " + err.message, true);
+  }
+}
+
+async function reviseDoc() {
+  const path = $("edit-doc").value;
+  if (!path) return;
+  try {
+    const res = await postJSON("/api/revise", {
+      path,
+      author: $("revise-author").value.trim(),
+      description: $("revise-desc").value.trim(),
+    });
+    $("edit-rev").textContent = res.new_rev;
+    $("revise-desc").value = "";
+    await loadDocument();
+    showEdit(`Bumped ${res.doc_no || "document"} to revision ${res.new_rev} and synced the register.`, false);
+  } catch (err) {
+    showEdit("Revise failed: " + err.message, true);
+  }
+}
+
+function showEdit(message, isError) {
+  const box = $("edit-result");
+  box.className = "result" + (isError ? " error" : "");
+  box.textContent = message;
+  box.hidden = false;
 }
 
 // --- next-number preview ----------------------------------------------------

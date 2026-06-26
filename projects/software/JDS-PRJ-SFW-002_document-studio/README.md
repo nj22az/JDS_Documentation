@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Document No.** | JDS-PRJ-SFW-002 |
-| **Revision** | D |
+| **Revision** | E |
 | **Date** | 2026-06-26 |
 | **Status** | CURRENT |
 | **Author** | N. Johansson |
@@ -53,6 +53,8 @@ The server finds the repository root automatically (or set `JDS_REPO_ROOT`).
 | **Validate** | Calls `scripts/jds-validate.py` and shows the result, Doc's closing line included |
 | **Suggest folder** | Pre-fills the target folder where Studio is confident (QMS, PRO, TMP); editable, never guesses wrong |
 | **Office documents** | Generates timesheet / expense / mileage Excel workbooks via `scripts/generate-office-docs.py` |
+| **Edit & revise** | Loads a registered document, saves body edits, and **bumps the revision** (A→B, history row, register synced) in one action |
+| **Preflight** | `/api/health` + startup report flag any missing dependency before a feature fails |
 
 ## Architecture
 
@@ -76,10 +78,14 @@ web/ (browser UI)  ──HTTP──►  studio/server.py  (FastAPI, thin)
 | `studio/templates.py` | Discover templates, fill title + metadata |
 | `studio/creator.py` | Orchestrates create: number → instantiate → write → register |
 | `studio/placement.py` | Suggests the target folder by category (confident defaults only) |
+| `studio/revision.py` | Revision-letter sequencing + metadata/history bumping (PRO-002) |
+| `studio/editor.py` | Read / save / revise an existing document, register kept in sync |
+| `studio/doctor.py` | Dependency preflight (`python3 -m studio.doctor`) |
 | `studio/engine.py` | Subprocess wrappers around the JDS scripts |
 | `studio/server.py` | FastAPI routes (HTTP ⇄ core) |
 | `web/` | `index.html`, `style.css`, `app.js` (PRO-007-styled UI) |
-| `tests/test_core.py` | 8 unit + integration tests for the core |
+| `tests/test_core.py` | 15 unit + integration tests for the core |
+| `tests/test_server.py` | 3 HTTP-route tests (FastAPI TestClient; skips if deps absent) |
 
 ## HTTP API
 
@@ -89,7 +95,11 @@ web/ (browser UI)  ──HTTP──►  studio/server.py  (FastAPI, thin)
 | GET | `/api/templates` | Available templates |
 | GET | `/api/next-number?category=&domain=&template_type=` | Preview the next number + suggested folder |
 | GET | `/api/registry` | Parsed register entries |
+| GET | `/api/health` | Dependency preflight (`ready` + per-package status) |
+| GET | `/api/document?path=` | Read a document (content + number + revision) |
 | POST | `/api/documents` | Create a numbered, registered document |
+| POST | `/api/document/save` | Overwrite a document's body (repo-constrained) |
+| POST | `/api/revise` | Bump revision: metadata + history + register sync |
 | POST | `/api/validate?quick=` | Run the audit |
 | POST | `/api/pdf` | Render a document to PDF |
 | POST | `/api/office?kind=` | Generate a timesheet / expense / mileage workbook |
@@ -113,11 +123,15 @@ Symbol-equivalent inline-SVG icons** paired with their labels per the §12.4
 mapping (decorative-redundant, `aria-hidden`). No safety-critical/HMI surfaces
 here, so the Doc Guide Note is permitted (§11) and HIG materials are fine (§12.3).
 
-## Status & Limitations (Rev B)
+## Status & Limitations (Rev E)
 
-- Creates documents from templates, numbers, registers, renders PDF, validates,
-  generates office workbooks, and suggests the target folder by category.
+- Full lifecycle: **create** (template → number → register), **edit** (load &
+  save body), and **revise** (bump the revision letter, stamp the date, add a
+  history row, sync the register) — plus PDF, validate, office docs, and a
+  dependency preflight.
 - Folder suggestions cover the confident cases (QMS, PRO, TMP); for other
   categories the field is left for the user to fill.
-- Editing existing documents and automated revision bumps remain out of scope
-  (planned for a later revision).
+- Revising requires the document to have a `## Revision History` section
+  (every JDS template has one).
+- Browser visuals and PDF rendering still need a real run on your machine; the
+  HTTP layer and core are now covered by automated tests.

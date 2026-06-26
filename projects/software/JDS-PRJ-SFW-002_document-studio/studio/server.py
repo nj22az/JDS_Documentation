@@ -13,7 +13,7 @@ from fastapi.responses import FileResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
-from . import config, creator, engine, placement, registry, templates
+from . import config, creator, doctor, editor, engine, placement, registry, templates
 
 app = FastAPI(title="JDS Document Studio", version="A")
 
@@ -36,7 +36,26 @@ class PdfRequest(BaseModel):
     path: str
 
 
+class SaveRequest(BaseModel):
+    path: str
+    content: str
+
+
+class ReviseRequest(BaseModel):
+    path: str
+    author: str
+    description: str
+    new_status: str | None = None
+
+
 # --- metadata routes --------------------------------------------------------
+
+@app.get("/api/health")
+def health():
+    """Dependency preflight — lets the UI warn before a feature fails."""
+    report = doctor.check()
+    return {"dependencies": report, "ready": not doctor.missing(report)}
+
 
 @app.get("/api/taxonomy")
 def taxonomy():
@@ -91,6 +110,37 @@ def create_document(body: NewDocument):
         raise HTTPException(status_code=400, detail=str(exc))
 
 
+@app.get("/api/document")
+def get_document(path: str):
+    try:
+        return editor.read_document(path)
+    except FileNotFoundError:
+        raise HTTPException(status_code=404, detail=f"Not found: {path}")
+    except ValueError as exc:
+        raise HTTPException(status_code=400, detail=str(exc))
+
+
+@app.post("/api/document/save")
+def save_document(body: SaveRequest):
+    try:
+        return editor.save_document(body.path, body.content)
+    except FileNotFoundError:
+        raise HTTPException(status_code=404, detail=f"Not found: {body.path}")
+    except ValueError as exc:
+        raise HTTPException(status_code=400, detail=str(exc))
+
+
+@app.post("/api/revise")
+def revise_document(body: ReviseRequest):
+    try:
+        return editor.revise_document(body.path, body.author, body.description,
+                                      body.new_status or None)
+    except FileNotFoundError:
+        raise HTTPException(status_code=404, detail=f"Not found: {body.path}")
+    except ValueError as exc:
+        raise HTTPException(status_code=400, detail=str(exc))
+
+
 @app.post("/api/validate")
 def validate(quick: bool = False):
     return engine.run_validator(quick=quick)
@@ -127,7 +177,8 @@ app.mount("/", StaticFiles(directory=str(config.WEB_DIR)), name="web")
 
 def main():
     import uvicorn
-    print(f"JDS Document Studio → http://{config.HOST}:{config.PORT}")
+    print(doctor.format_report())
+    print(f"\nJDS Document Studio → http://{config.HOST}:{config.PORT}")
     uvicorn.run(app, host=config.HOST, port=config.PORT)
 
 

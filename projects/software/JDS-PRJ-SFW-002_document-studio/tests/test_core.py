@@ -14,7 +14,8 @@ from pathlib import Path
 # Make the `studio` package importable when run directly.
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from studio import numbering, registry, templates, creator, placement, config  # noqa: E402
+from studio import (numbering, registry, templates, creator, placement,  # noqa: E402
+                    revision, editor, doctor, config)
 
 
 # --- numbering --------------------------------------------------------------
@@ -207,6 +208,89 @@ def test_create_document_rejects_invalid_input():
         assert _raises(call(target_dir="../../etc"))       # path traversal blocked
     finally:
         config.REPO_ROOT, config.REGISTRY_PATH, config.TEMPLATES_DIR = saved
+
+
+# --- revision & editor ------------------------------------------------------
+
+DOC_SAMPLE = """# Sample Procedure
+
+| | |
+|---|---|
+| **Document No.** | JDS-PRO-001 |
+| **Revision** | A |
+| **Date** | 2026-01-01 |
+| **Status** | APPROVED |
+| **Author** | N. J. |
+
+---
+
+Body text.
+
+## Revision History
+
+| Rev | Date | Author | Description |
+|-----|------|--------|-------------|
+| A | 2026-01-01 | N. J. | Initial |
+"""
+
+
+def test_next_revision_skips_ambiguous_letters():
+    assert revision.next_revision("DRAFT") == "A"
+    assert revision.next_revision("") == "A"
+    assert revision.next_revision("A") == "B"
+    assert revision.next_revision("H") == "J"      # skips I
+    assert revision.next_revision("N") == "P"      # skips O
+    assert _raises(lambda: revision.next_revision("Y"))   # sequence exhausted
+    assert _raises(lambda: revision.next_revision("I"))   # not a valid letter
+
+
+def test_registry_update_entry():
+    out = registry.update_entry(SAMPLE_REGISTRY, "JDS-PRO-010", rev="C",
+                                date="2026-06-26", status="CURRENT")
+    row = next(l for l in out.splitlines() if "JDS-PRO-010" in l)
+    assert "| C |" in row and "2026-06-26" in row and "CURRENT" in row
+    assert "Doc B" in row              # title preserved
+    assert _raises(lambda: registry.update_entry(SAMPLE_REGISTRY, "JDS-PRO-999"))
+
+
+def test_revise_document_end_to_end():
+    sandbox, saved = _sandbox()
+    (sandbox / "jds" / "procedures").mkdir(parents=True)
+    doc = sandbox / "jds" / "procedures" / "JDS-PRO-001_a.md"
+    doc.write_text(DOC_SAMPLE)
+    try:
+        result = editor.revise_document(
+            "jds/procedures/JDS-PRO-001_a.md",
+            author="N. Johansson", description="Clarified scope", date="2026-06-26")
+        assert result["new_rev"] == "B"
+        text = doc.read_text()
+        assert "| **Revision** | B |" in text
+        assert "| **Date** | 2026-06-26 |" in text
+        assert text.count("| B | 2026-06-26 | N. Johansson | Clarified scope |") == 1
+        # Register row for JDS-PRO-001 now reads Rev B.
+        reg = config.REGISTRY_PATH.read_text()
+        pro1 = next(l for l in reg.splitlines() if "[JDS-PRO-001]" in l)
+        assert "| B |" in pro1 and "2026-06-26" in pro1
+        # A revision requires a description.
+        assert _raises(lambda: editor.revise_document(
+            "jds/procedures/JDS-PRO-001_a.md", author="x", description=" "))
+    finally:
+        config.REPO_ROOT, config.REGISTRY_PATH, config.TEMPLATES_DIR = saved
+
+
+def test_revise_blocks_path_escape():
+    sandbox, saved = _sandbox()
+    try:
+        assert _raises(lambda: editor.read_document("../../etc/passwd"))
+    finally:
+        config.REPO_ROOT, config.REGISTRY_PATH, config.TEMPLATES_DIR = saved
+
+
+def test_doctor_check_reports_known_dependencies():
+    report = doctor.check()
+    assert "weasyprint" in report and "fastapi" in report
+    for info in report.values():
+        assert set(info) == {"present", "purpose", "package"}
 
 
 # --- runner -----------------------------------------------------------------
