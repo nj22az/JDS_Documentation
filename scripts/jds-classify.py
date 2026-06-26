@@ -319,8 +319,13 @@ def parse_table_row(line):
 
 
 def is_separator_row(line):
-    """Check if a line is a markdown table separator (|---|---|)."""
-    return all(c in "-| :" for c in line.strip())
+    """Check if a line is a markdown table separator (|---|---|).
+
+    Requires at least one dash, so a blank data row ("| | | |") — which the
+    generated round/review templates are full of — is NOT mistaken for a
+    separator and dropped."""
+    stripped = line.strip()
+    return bool(stripped) and "-" in stripped and all(c in "-| :" for c in stripped)
 
 
 def extract_tables(filepath):
@@ -942,25 +947,30 @@ def generate_inventory_markdown(vessels, client, site, doc_no, author):
     w("---")
     w()
 
-    # Summary
+    # Summary — buckets match the risk_class values classify_vessel actually
+    # produces (A, B, Exempt (air/N2|refrig.), Below threshold, Not classified).
+    # A fall-through "other" bucket guarantees the rows always sum to the total.
     class_a = [v for v in vessels if v["risk_class"] == "A"]
     class_b = [v for v in vessels if v["risk_class"] == "B"]
-    below_b = [v for v in vessels if v["risk_class"] == "Below B"]
-    simple = [v for v in vessels if v["risk_class"] == "Simple PV"]
-    not_cl = [v for v in vessels if v["risk_class"] in
-              ("Not classified", "Not in scope")]
+    exempt = [v for v in vessels if str(v["risk_class"]).startswith("Exempt")]
+    below_thr = [v for v in vessels if v["risk_class"] == "Below threshold"]
+    counted = {id(v) for v in class_a + class_b + exempt + below_thr}
+    other = [v for v in vessels if id(v) not in counted]
 
     w("## 2. Classification Summary")
     w()
     w("| Risk Class | Count | Inspection Regime |")
     w("|-----------|-------|-------------------|")
-    w(f"| **Class A** | {len(class_a)} | "
-      f"Accredited body: ext. 24 mo, int. 72 mo, press. test 144 mo |")
-    w(f"| **Class B** | {len(class_b)} | "
-      f"Accredited (int.) / own (ext.): ext. 36 mo, int. 72 mo |")
-    w(f"| **Below B** | {len(below_b)} | Own inspection: ext. 72 mo |")
-    w(f"| **Simple PV** | {len(simple)} | No mandatory periodic inspection |")
-    w(f"| **Not classified** | {len(not_cl)} | Below regulatory threshold |")
+    w(f"| **Class A** | {len(class_a)} | Driftprov base 2-4 yr; internal/external "
+      f"**condition-based** per Bilaga 1 (accredited body) |")
+    w(f"| **Class B** | {len(class_b)} | Driftprov only - 2-4 yr |")
+    if exempt:
+        w(f"| **Exempt (air/N2/refrig.)** | {len(exempt)} | No periodic "
+          f"inspection - Class B exemption (4 Kap. §10) |")
+    if below_thr:
+        w(f"| **Below threshold** | {len(below_thr)} | Not classified under AFS 2017:3 |")
+    if other:
+        w(f"| **Not classified / other** | {len(other)} | See per-vessel detail |")
     w(f"| **Total** | **{len(vessels)}** | |")
     w()
     w("---")
