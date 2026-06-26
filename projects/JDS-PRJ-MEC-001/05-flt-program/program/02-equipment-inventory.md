@@ -77,12 +77,13 @@ Use **PS x V** from the table above and the **medium** to determine the risk cla
 
 > **Warning:** These thresholds are much lower because dangerous fluids have severe consequences if released.
 
-| PS x V | Class | What it means |
+| PS x V (bar·L) | Class | What it means |
 |:------:|:-----:|--------------|
-| Over 3,000 | **A** | Accredited inspector required |
-| 201 — 3,000 | **B** | Own competent personnel may inspect |
-| 51 — 200 | Below | Owner responsibility |
-| 50 or less | — | Not classified under AFS 2017:3 |
+| Over 1,000 | **A** | Accredited inspector required |
+| Up to 1,000 (V > 1 L, p > 0.5 bar) | **B** | Own competent personnel may inspect |
+| Below the V / p thresholds | — | Not classified under AFS 2017:3 |
+
+*(Group 1a gases, per 4 Kap. §10 — see JDS-RPT-MEC-003 §4.1. The Class A/B boundary for dangerous gases is PS×V = 1,000 bar·L.)*
 
 > **Important:** Vessels for **air and nitrogen** that would be Class B are **exempt** from periodic inspection. Mark these as "-" in the class column.
 

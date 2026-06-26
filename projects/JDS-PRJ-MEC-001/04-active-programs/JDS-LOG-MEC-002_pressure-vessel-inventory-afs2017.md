@@ -3,8 +3,8 @@
 | | |
 |---|---|
 | **Document No.** | JDS-LOG-MEC-002 |
-| **Revision** | B |
-| **Date** | 2026-03-25 |
+| **Revision** | C |
+| **Date** | 2026-06-26 |
 | **Status** | APPROVED |
 | **Author** | Nils Johansson |
 | **Project** | JDS-PRJ-MEC-001 |
@@ -18,7 +18,7 @@ This document provides a ready-to-use inventory register for pressurised vessels
 
 The inventory satisfies:
 - **AFS 2017:3** — Swedish regulation for use and inspection of pressurised equipment
-- **PED 2014/68/EU** — Pressure Equipment Directive (as implemented in Sweden via AFS 2016:2)
+- **PED 2014/68/EU** — Pressure Equipment Directive (as implemented in Sweden via AFS 2016:1)
 - **ISO 9001:2015 clause 7.1.5** — Monitoring and measuring resources
 
 > **Lagkrav:** Enligt AFS 2017:3 ska brukaren föra en förteckning över alla trycksatta anordningar som omfattas av föreskrifterna. Förteckningen ska hållas aktuell och vara tillgänglig för tillsynsmyndigheten.
@@ -79,17 +79,20 @@ Equipment below these thresholds is **not** covered by AFS 2017:3 but may still 
 
 ### 3.2 Standard Inspection Intervals
 
-| Equipment type | External (utvändig) | Internal revision (invändig) | Pressure test (tryckprov) |
-|---------------|--------------------|-----------------------------|---------------------------|
-| **Ångpannor (steam boilers)** | 2 years | 4 years | 8 years |
-| **Tryckkärl Klass A** | 2 years | 6 years | 12 years |
-| **Tryckkärl Klass B** | 2 years (operator) | 6 years (operator) | — |
-| **Rörledningar Klass A** | 2 years | 6 years | 12 years |
-| **Rörledningar Klass B** | 2 years (operator) | — | — |
+> **Important:** Recurring-inspection intervals are **not fixed values** — internal/external examination is **condition-based**, set by the accredited inspection body per AFS 2017:3 Bilaga 1. See [JDS-RPT-MEC-003 §6](../02-regulations/SE-sweden/JDS-RPT-MEC-003_afs2017-3-consolidated.md) for the authoritative detail.
+
+| Equipment type | Driftprov (operational test) — base | Internal/external examination |
+|---------------|-------------------------------------|-------------------------------|
+| **Tryckkärl Klass A** | 2 years (4 years for air/N₂/refrigeration/LPG) | **Condition-based** — 6 months to 10 years (Bilaga 1 §2.2) |
+| **Tryckkärl Klass B** | 2 years (operator); 4 years for air/N₂ etc. | Not required (Class B = driftprov only) |
+| **Ångpannor (steam boilers)** | Per 6 Kap. monitoring + Bilaga 1 | Condition-based |
+| **Rörledningar Klass A** | 4 years (other piping) / 3 years (to cisterns) | Condition-based |
+| **Rörledningar Klass B** | 4 years (operator) | Not required |
 
 **Notes:**
-- Intervals may be **extended** with documented risk assessment approved by the accredited inspection body
-- Intervals may be **shortened** for corrosive service, high-temperature hydrogen attack, CUI risk, or other degradation mechanisms
+- **Driftprov** may be **extended to a maximum of 4 years** if safety equipment functioned without action at the two previous tests (Bilaga 1 §1.4.2); it is **halved** if a device failed (§1.4.3).
+- **Internal/external examination** intervals are determined by the inspection body from the equipment's condition (1–10 years; 12 for cisterns) — never a single fixed period.
+- Vessels for **air or nitrogen** below the Class A threshold belong to no class and are exempt from periodic inspection.
 - After repair or alteration, a new **första kontroll** may be required
 
 ### 3.3 Operator Obligations (Brukarens skyldigheter)
@@ -296,3 +299,4 @@ For each vessel, verify these documents exist and are filed:
 |-----|------|--------|-------------|
 | A | 2026-03-25 | Nils Johansson | Initial release — AFS 2017:3 compliant inventory with classification guide, inspection intervals, and safety device register |
 | B | 2026-03-25 | Nils Johansson | Split wide tables to max 7 columns for A4 readability (JDS-PRO-007 compliance) |
+| C | 2026-06-26 | Nils Johansson | Aligned to JDS-RPT-MEC-003 Rev B: corrected PED implementation reference (AFS 2016:1), replaced fixed inspection intervals with condition-based Bilaga 1 regime. |

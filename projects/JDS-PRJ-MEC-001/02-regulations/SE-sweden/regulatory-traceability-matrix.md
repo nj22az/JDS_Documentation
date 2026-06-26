@@ -3,8 +3,8 @@
 | | |
 |---|---|
 | **Document No.** | — (supplemental reference) |
-| **Revision** | B |
-| **Date** | 2026-04-11 |
+| **Revision** | C |
+| **Date** | 2026-06-26 |
 | **Status** | CURRENT |
 | **Author** | Nils Johansson |
 | **Regulation** | AFS 2017:3 — Use and Inspection of Pressurised Equipment |
@@ -31,8 +31,8 @@ JDS-PRO-010 is the authoritative working procedure. This matrix is the evidence 
 
 | JDS Requirement (PRO-010) | AFS 2017:3 Section | Regulatory Requirement (Swedish) | Regulatory Requirement (English) |
 |---|---|---|---|
-| Step 2: Build Equipment Register | Kap. 2, §5 | Brukaren ska ha en förteckning | The operator shall maintain a register of all pressurised equipment |
-| Record vessel identification data | Kap. 2, §5 punkt 1–5 | Förteckningen ska innehålla... | The register shall contain: identification, location, classification, inspection status, safety devices |
+| Step 2: Build Equipment Register | 4 Kap. §15 | Brukaren ska ha en förteckning | The operator shall maintain a register of all Class A and B equipment |
+| Record vessel identification data | 4 Kap. §15 | Förteckningen ska innehålla... | The register shall contain: identification, location, classification, inspection status, safety devices |
 | Photograph every nameplate | Kap. 2, §6 | Märkning ska vara läsbar | Markings shall be legible and maintained |
 
 ---
@@ -41,7 +41,7 @@ JDS-PRO-010 is the authoritative working procedure. This matrix is the evidence 
 
 | JDS Requirement (PRO-010) | AFS 2017:3 Section | Regulatory Requirement (Swedish) | Regulatory Requirement (English) |
 |---|---|---|---|
-| Step 3: Classify every vessel | Kap. 3, Bilaga 2 | Klassindelning av trycksatta anordningar | Classification of pressurised equipment into Class A / B |
+| Step 3: Classify every vessel | 4 Kap. §10 | Klassindelning av trycksatta anordningar | Classification of pressure vessels into Class A / B |
 | Determine fluid group | PED 2014/68/EU Art. 13 | Grupp 1 / Grupp 2 | Group 1 (dangerous) / Group 2 (other) |
 | PS × V threshold > 50 bar·L | Kap. 3, §8 | Tillämpningsområde | Scope — equipment above threshold requires classification |
 | Record PED category | AFS 2016:1 / PED Annex II | Kategori I–IV eller Art. 4.3 | Category based on pressure, volume, and medium |
@@ -77,9 +77,9 @@ JDS-PRO-010 is the authoritative working procedure. This matrix is the evidence 
 
 | JDS Requirement (PRO-010) | AFS 2017:3 Section | Regulatory Requirement (Swedish) | Regulatory Requirement (English) |
 |---|---|---|---|
-| Routine supervision walk-arounds | Kap. 2, §3 | Fortlöpande tillsyn | Ongoing supervision — the operator's continuous responsibility |
-| Visual checks between inspections | Kap. 2, §3 | Tillsyn ska ske regelbundet | Supervision shall be performed regularly |
-| Document supervision rounds | Kap. 2, §5 | Dokumentation av tillsyn | Supervision shall be documented |
+| Routine supervision walk-arounds | 2 Kap. §6 | Fortlöpande tillsyn | Ongoing supervision — the operator's continuous responsibility |
+| Visual checks between inspections | 2 Kap. §6 | Tillsyn ska ske regelbundet | Supervision shall be performed regularly |
+| Document supervision rounds | 4 Kap. §17 | Dokumentation av tillsyn | Documented supervision routines shall be kept |
 
 ---
 
@@ -109,8 +109,8 @@ JDS-PRO-010 is the authoritative working procedure. This matrix is the evidence 
 
 | JDS Requirement (PRO-010) | AFS 2017:3 Section | Regulatory Requirement (Swedish) | Regulatory Requirement (English) |
 |---|---|---|---|
-| Maintain equipment register | Kap. 2, §5 | Förteckning | Equipment register shall be maintained and kept current |
-| Keep inspection certificates | Kap. 4, §19 | Kontrollintyg | Inspection certificates shall be kept on file |
+| Maintain equipment register | 4 Kap. §15 | Förteckning | Equipment register shall be maintained and kept current |
+| Keep inspection certificates | 5 Kap. §21 | Kontrollintyg | Inspection certificates shall be kept on file |
 | Keep EU Declarations of Conformity | AFS 2016:1, §9 | EU-försäkran om överensstämmelse | EU Declaration of Conformity shall be available |
 | Retain records per JDS-QMS-002 | Kap. 2, §5 | Bevaras så länge anordningen används | Records shall be kept for the life of the equipment |
 
@@ -149,3 +149,4 @@ This section provides the Swedish-to-English mapping for regulatory terms encoun
 |-----|------|--------|-------------|
 | A | 2026-03-25 | N. Johansson | Initial release — full traceability mapping of JDS-PRO-010 to AFS 2017:3 |
 | B | 2026-04-11 | N. Johansson | Corrected inspection intervals: changed from incorrect fixed values (24/72/144 mo) to condition-based intervals per Bilaga 1. Added driftprov extension/shortening rules. |
+| C | 2026-06-26 | N. Johansson | Corrected AFS section citations to match the consolidated reference (JDS-RPT-MEC-003): equipment register 4 Kap. §15, classification 4 Kap. §10, ongoing supervision 2 Kap. §6, inspection certificates 5 Kap. §21. |

@@ -57,9 +57,11 @@ It does **not** cover:
 
 | Amendment | Key Changes |
 |-----------|------------|
-| **AFS 2019:1** | Clarified supervision scope for piping systems, refined competence provisions |
-| **AFS 2020:10** | Extended inspection deadlines during extraordinary circumstances, accepted digital documentation and remote verification |
-| **AFS 2022:2** | Updated classification thresholds, revised competence requirements for supervision personnel |
+| **AFS 2019:1** | Textual clarifications only — scope for vehicles (1 Kap. §2), added the "enkla tryckkärl" definition (§6), CO₂ fire-extinguisher wording (3 Kap.), and minor wording (5 Kap., 6 Kap.) |
+| **AFS 2020:10** | Transitional provision only — boiler operator certification (categories 1–4) extended to 5 years after entry into force. No substantive requirement changed. |
+| **AFS 2022:2** | Transitional provision only — boiler operator certification deadline set to 1 December 2025. No substantive requirement changed. |
+
+> **Note:** AFS 2020:10 and AFS 2022:2 changed only transitional provisions (övergångsbestämmelser); they did not alter any substantive requirement of the main regulation. See JDS-RPT-MEC-003 §1.2.
 
 ### 4.3 Key Regulatory Requirements
 

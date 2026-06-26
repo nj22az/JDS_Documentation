@@ -108,7 +108,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | Doc No. | Title | Rev | Date | Status | Author |
 |---------|-------|-----|------|--------|--------|
 | [JDS-LOG-MEC-001](../../projects/JDS-PRJ-MEC-001/01-framework/JDS-LOG-MEC-001_equipment-register.md) | Equipment Register — Pressure Vessels (Framework) | A | 2026-03-25 | CURRENT | N. Johansson |
-| [JDS-LOG-MEC-002](../../projects/JDS-PRJ-MEC-001/04-active-programs/JDS-LOG-MEC-002_pressure-vessel-inventory-afs2017.md) | Pressure Vessel Inventory — AFS 2017:3 Compliance Guide | B | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-LOG-MEC-002](../../projects/JDS-PRJ-MEC-001/04-active-programs/JDS-LOG-MEC-002_pressure-vessel-inventory-afs2017.md) | Pressure Vessel Inventory — AFS 2017:3 Compliance Guide | C | 2026-06-26 | APPROVED | N. Johansson |
 | [JDS-LOG-MEC-003](../examples/JDS-LOG-MEC-003_equipment-inventory-example.md) | Example: Equipment Inventory — Gothenburg Workshop | B | 2026-03-25 | EXAMPLE | N. Johansson |
 | [JDS-LOG-MEC-004](../examples/JDS-LOG-MEC-004_equipment-life-journal-example.md) | Example: Equipment Life Journal — PV-001 Air Receiver | A | 2026-03-25 | EXAMPLE | N. Johansson |
 | [JDS-LOG-MEC-005](../../projects/JDS-PRJ-MEC-001/03-supervision/JDS-LOG-MEC-005_program-register.md) | Supervision Program Register | A | 2026-04-10 | CURRENT | N. Johansson |

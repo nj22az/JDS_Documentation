@@ -183,12 +183,9 @@ INVENTORY  →  PROGRAM  →  [ROUND]  →  REVIEW
 | Device ID | Type | Protects | Check | Result | Notes |
 |-----------|------|----------|-------|--------|-------|
 | SV-001 | Safety valve | PV-001 | Seal check | OK / Not OK | |
-| SV-002 | Safety valve | PV-002 | Seal check | OK / Not OK | |
 | SV-003 | Safety valve | PV-003 | Seal check | OK / Not OK | |
 | SV-004 | Safety valve | PV-004 | Seal check | OK / Not OK | |
 | SV-005 | Safety valve | PV-005 | Seal check | OK / Not OK | |
-| SV-006 | Safety valve | PV-006 | Seal check | OK / Not OK | |
-| SV-007 | Safety valve | PV-007 | Seal check | OK / Not OK | |
 
 ---
 

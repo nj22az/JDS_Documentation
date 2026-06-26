@@ -23,11 +23,10 @@ This register is the master inventory of all pressurised vessels at Gothenburg W
 
 | Risk Class | Count | Inspection Regime |
 |-----------|-------|-------------------|
-| **Class A** | 3 | Accredited body: ext. 24 mo, int. 72 mo, press. test 144 mo |
-| **Class B** | 1 | Accredited (int.) / own (ext.): ext. 36 mo, int. 72 mo |
-| **Below B** | 0 | Own inspection: ext. 72 mo |
-| **Simple PV** | 0 | No mandatory periodic inspection |
-| **Not classified** | 0 | Below regulatory threshold |
+| **Class A** | 3 | Driftprov base 2–4 yr; internal/external **condition-based** per Bilaga 1 (accredited body) |
+| **Class B** | 1 | Driftprov only — 2–4 yr (accredited int. / own ext. where approved) |
+| **Exempt (air/N₂)** | 2 | No periodic inspection — air/N₂ below Class A threshold (4 Kap. §10) |
+| **Below threshold** | 1 | Not classified under AFS 2017:3 |
 | **Total** | **7** | |
 
 ---

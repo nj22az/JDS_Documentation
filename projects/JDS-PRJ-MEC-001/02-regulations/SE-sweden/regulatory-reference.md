@@ -1,6 +1,6 @@
 # Swedish Pressure Vessel Regulations — Reference Summary
 
-> **Rev A** | **CURRENT** | 2026-03-25 | N. Johansson
+> **Rev B** | **CURRENT** | 2026-06-26 | N. Johansson
 
 ---
 
@@ -49,19 +49,21 @@ For **Group 2 gases** (most common, e.g., compressed air):
 | **Simple pressure vessel** | 50 – 200 | Very small receivers, expansion tanks |
 | **Not classified** | < 50 | Below regulatory threshold |
 
-**Note:** This is simplified. The exact classification follows the tables in AFS 2017:3 Chapter 3 and the PED categories. For Group 1 fluids, the thresholds are lower (more strict).
+**Note:** This is simplified. AFS 2017:3 itself classifies vessels only as **Class A**, **Class B**, or **no class** (exempt) — the "Class C / Simple PV" rows above are an internal triage aid, not regulatory classes. The exact classification follows **4 Kap. §10** (see [JDS-RPT-MEC-003 §4.1](JDS-RPT-MEC-003_afs2017-3-consolidated.md)). For Group 1a (dangerous) gases the thresholds are stricter: **Class B if PS×V ≤ 1,000, Class A if PS×V > 1,000**.
 
 ## Inspection Requirements by Class
 
-| Class | Inspection Type | Interval | Who May Inspect |
-|-------|----------------|----------|----------------|
-| **Class A** | External inspection | 24 months | Ackrediterat kontrollorgan (e.g., DEKRA, Kiwa, RISE) |
-| | Internal inspection | 72 months | Ackrediterat kontrollorgan |
-| | Pressure test | 144 months | Ackrediterat kontrollorgan |
-| **Class B** | External inspection | 36 months | Ackrediterat kontrollorgan OR egen kontroll (if approved) |
-| | Internal inspection | 72 months | Ackrediterat kontrollorgan |
-| **Class C** | External inspection | 72 months | Egen kontroll (own inspection) allowed |
-| **Simple PV** | No mandatory periodic inspection | — | Owner's responsibility |
+Recurring inspection follows **Bilaga 1** of AFS 2017:3. The intervals are **not a single fixed number** — see [JDS-RPT-MEC-003 §6](JDS-RPT-MEC-003_afs2017-3-consolidated.md) (the authoritative consolidated reference) for full detail.
+
+| Class | Recurring inspection | Driftprov base interval | Internal/external examination |
+|-------|---------------------|-------------------------|-------------------------------|
+| **Class A** | Driftprov, or driftprov + internal/external examination | 2 years (4 years for air / N₂ / noble gas, refrigeration, LPG, liquid-phase) | **Condition-based** by the inspection body — 1 to 10 years (Bilaga 1 §2.2); some Class A is exempt (5 Kap. §6) |
+| **Class B** | Driftprov (operational test) only | 2 years (4 years for air / N₂ / noble gas, refrigeration, etc.) | Not required |
+
+- **Driftprov** may be extended to a **maximum of 4 years** if safety equipment functioned without action at the two previous tests (Bilaga 1 §1.4.2); it is **halved** if a device failed (§1.4.3).
+- **Internal/external examination** intervals are set by the inspection body from the equipment's condition — never a fixed period. A cleaner inspection history earns a longer next interval (up to 10 years, or 12 for cisterns).
+- **Air and nitrogen** vessels below the Class A threshold **belong to no class** and are exempt from periodic inspection (4 Kap. §10).
+- **Who may inspect:** Class A and B internal/external examination requires an *ackrediterat kontrollorgan*; Class B driftprov may be done by approved own inspection (egen kontroll).
 
 ### Key Terms
 
@@ -132,3 +134,4 @@ When filling in the equipment register for a Swedish program:
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
 | A | 2026-03-25 | N. Johansson | Initial release — summary of AFS 2017:3 for working reference |
+| B | 2026-06-26 | N. Johansson | Aligned to the authoritative consolidated reference (JDS-RPT-MEC-003 Rev B): replaced fixed inspection intervals with the condition-based Bilaga 1 regime, corrected classification chapter to 4 Kap. §10, noted Class A/B/exempt scheme and Group 1a thresholds. |
