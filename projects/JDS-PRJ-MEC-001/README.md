@@ -43,7 +43,7 @@ JDS-PRJ-MEC-001/
 │
 ├── 01-framework/                         ← UNIVERSAL (works in any country)
 │   ├── JDS-LOG-MEC-001                   ← Master equipment register (framework)
-│   ├── JDS-PRO-004                       ← How to schedule inspections
+│   ├── JDS-PRO-011                       ← How to schedule inspections
 │   └── JDS-MAN-MEC-001                   ← What records you must keep
 │
 ├── 02-regulations/                       ← COUNTRY-SPECIFIC rules
@@ -109,7 +109,7 @@ Follow **JDS-PRO-010** (Ongoing Maintenance Program Procedure) for the complete 
 | Doc No. | Title |
 |---------|-------|
 | JDS-PRO-010 | Ongoing Maintenance Program Procedure |
-| JDS-PRO-004 | Inspection Planning Procedure |
+| JDS-PRO-011 | Inspection Planning Procedure |
 | JDS-PRO-008 | Corrective Action Procedure |
 | JDS-PRO-009 | Competence Management Procedure |
 

@@ -62,7 +62,7 @@ All documents needed for a complete FLT program:
 |---------|-------|---------|
 | JDS-PRO-010 | Ongoing Maintenance Procedure | Master procedure — the full workflow |
 | JDS-MAN-MEC-002 | Supervision Program Manual | How to build and run a supervision program |
-| JDS-PRO-004 | Inspection Planning | How to schedule formal inspections |
+| JDS-PRO-011 | Inspection Planning | How to schedule formal inspections |
 | JDS-PRO-008 | Corrective Action | How to handle findings |
 | JDS-PRO-009 | Competence Management | Personnel qualification requirements |
 | JDS-MAN-MEC-001 | Documentation Guide | What records to keep and why |

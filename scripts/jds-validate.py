@@ -36,7 +36,7 @@ JDS_PATTERN = re.compile(r'JDS-([A-Z]{3})(?:-([A-Z]{3}))?-(\d{3})')
 REQUIRED_META = ['Document No.', 'Revision', 'Date', 'Status', 'Author']
 
 # Valid JDS status values
-VALID_STATUSES = {'CURRENT', 'APPROVED', 'DRAFT', 'SUPERSEDED', 'EXAMPLE', 'PUBLISHED', 'ARCHIVED'}
+VALID_STATUSES = {'CURRENT', 'APPROVED', 'DRAFT', 'SUPERSEDED', 'EXAMPLE', 'PUBLISHED', 'ARCHIVED', 'RETIRED'}
 
 # Valid revision letters (JDS skips I, O, Q, S, X, Z)
 VALID_REV_LETTERS = set('ABCDEFGHJKLMNPRTUVWY')
@@ -146,16 +146,19 @@ def parse_registry(result):
         r'\|\s*\[([^\]]+)\]\(([^)]+)\)\s*\|'   # doc_no and path
         r'[^|]*\|'                                # title
         r'\s*([A-Z]+)\s*\|'                       # revision
+        r'[^|]*\|'                                # date
+        r'\s*([A-Za-z]+)\s*\|'                    # status
     )
     for match in row_pattern.finditer(content):
         doc_no = match.group(1)
         rel_path = match.group(2)
         rev = match.group(3)
+        status = match.group(4)
         if JDS_PATTERN.search(doc_no):
             abs_path = os.path.normpath(
                 os.path.join(os.path.dirname(REGISTRY_PATH), rel_path)
             )
-            entries[doc_no] = {'path': abs_path, 'rev': rev}
+            entries[doc_no] = {'path': abs_path, 'rev': rev, 'status': status}
 
     return entries
 
@@ -200,6 +203,24 @@ def check_registry_vs_filesystem(result):
                 result.error(
                     f'{doc_no}: registry says Rev {reg_rev} but file says Rev {file_rev} ({rel})'
                 )
+
+    # Check registry Status vs the file's status block (added after the whole-repo
+    # sweep found JDS-PRJ-MEC-001 registered APPROVED while its file said CURRENT —
+    # the Rev check alone never compared the Status column).
+    for doc_no, info in entries.items():
+        path = info['path']
+        if not os.path.exists(path) or doc_no.startswith('JDS-TMP-'):
+            continue  # templates carry placeholder status, not their own
+        content = safe_read(path)
+        if content is None:
+            continue
+        status_match = re.search(r'\*\*Status\*\*\s*\|\s*(\w+)', content)
+        if status_match and status_match.group(1) != info['status']:
+            rel = os.path.relpath(path, REPO_ROOT)
+            result.warn(
+                f'{doc_no}: registry says Status {info["status"]} but file says '
+                f'{status_match.group(1)} ({rel})'
+            )
 
     # Check for orphan JDS files (file exists but not in registry)
     registered_paths = set(info['path'] for info in entries.values())
@@ -332,8 +353,7 @@ def check_document_metadata(result):
                 rev_match = re.search(r'\*\*Revision?\*\*\s*\|\s*([A-Z]+)', content)
                 if rev_match:
                     rev = rev_match.group(1)
-                    if len(rev) == 1 and rev not in VALID_REV_LETTERS and rev != 'D':
-                        # D is valid (not in skip list), double-check
+                    if len(rev) == 1 and rev not in VALID_REV_LETTERS:
                         result.warn(f'{rel}: revision letter "{rev}" is in the JDS skip list (I, O, Q, S, X, Z)')
 
 

@@ -12,6 +12,25 @@ This log tracks all nonconformances and corrective actions raised under [JDS-PRO
 
 ## Closed Actions
 
+### CA-2026-010 — Whole-repo review sweep (6 parallel agents) | CLOSED
+
+| | |
+|---|---|
+| **Date** | 2026-06-26 |
+| **Source** | Whole-repo self-enhancement sweep (6 review agents over 108 docs + 7 scripts) |
+| **Description** | A full-repo review found ~50 issues. The highest-impact class was **stale cross-references from earlier renumbers/merges**: the JDS-PRO-004→PRO-011 renumber (CA-2026-008) and the JDS-PRJ-MEC-002→MEC-001 merge were never propagated, so README/index/manual references pointed at the wrong documents. Also: a broken doc cross-ref (PRO-008 → wrong QMS section), a duplicate section number, a wrong risk count, example status/revision-block mismatches, language-policy violations (Japanese 5S headings, Swedish picklists, "Komplekt"), script dead code, and a register-vs-file Status drift the validator never checked. |
+| **Root Cause** | Renumber/merge operations fixed the primary document but not the inbound references; the validator compared register Rev to file Rev but never the Status column, and had no check for stale prose references. |
+
+**Corrective Action:**
+1. Propagated JDS-PRO-004→PRO-011 and JDS-PRJ-MEC-002→MEC-001 across all stale references (README, FLT index, supervision manual, example Project fields, PRO-010).
+2. Fixed cross-ref/structural faults: PRO-008 §16/§17→§18/§19, TMP-LOG-008 duplicate "## 9", TMP-RPT-005 maintenance-report pointer, RPT-MEC-002 risk count, example status/revision blocks.
+3. Language policy: 5S headings now English-first (Sort (Seiri)…), "kaizen"→continuous improvement, TMP-RPT-003 Swedish picklists→English, TMP-LOG-001 "Komplekt"→Complete Document Set.
+4. Scripts: removed dead code (unused imports/vars/function), simplified a redundant validator clause, hoisted the mileage rate to a named constant.
+5. **Validator hardened** — added a register-vs-file **Status** check (immediately surfaced 10 further drifts, all fixed) and added RETIRED to the valid-status set.
+6. Doc-list accuracy: root README now lists PRO-001–012 and jds-classify.py; register Status column reconciled to the files; project CHANGELOG records the renumber.
+
+**Held for owner sign-off (regulatory/domain — not auto-edited):** several MEC-001 documents carry inspection-interval regimes, AFS section numbers, amendment descriptions, and classification thresholds that the agents flagged as contradicting the authoritative consolidated doc (JDS-RPT-MEC-003 Rev B). These are compliance statements and were left for engineering review rather than rewritten. See the session report.
+
 ### CA-2026-009 — Root README version check was a silent no-op | CLOSED
 
 | | |
@@ -163,4 +182,4 @@ This log tracks all nonconformances and corrective actions raised under [JDS-PRO
 
 ---
 
-**Next number:** CA-2026-010
+**Next number:** CA-2026-011

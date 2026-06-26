@@ -12,7 +12,7 @@
 
 ## 1. Purpose
 
-This manual defines **how to create, implement, and maintain an ongoing supervision program** for pressurised vessels. It is the complete methodology reference for the Vessel Supervision System (JDS-PRJ-MEC-002).
+This manual defines **how to create, implement, and maintain an ongoing supervision program** for pressurised vessels. It is the complete methodology reference for the Vessel Supervision System (JDS-PRJ-MEC-001).
 
 A supervision program is the documented system that ensures every pressurised vessel under your responsibility is regularly monitored between formal inspections. Swedish regulation AFS 2017:3 (Chapter 2, Section 3) requires every operator to have such a program. This manual tells you how to build one.
 
@@ -28,7 +28,7 @@ This manual covers:
 - Pressurised piping systems where included in the regulatory scope
 
 It does **not** cover:
-- Formal recurring inspections by accredited bodies (see JDS-PRO-004)
+- Formal recurring inspections by accredited bodies (see JDS-PRO-011)
 - Equipment design, manufacture, or commissioning (see PED 2014/68/EU)
 - Equipment repair or modification procedures
 
@@ -313,7 +313,7 @@ This supervision system is designed to work alongside the Pressure Vessel Mainte
 |----------|--------|
 | Equipment inventory and classification | JDS-PRJ-MEC-001 |
 | Formal inspection planning and scheduling | JDS-PRJ-MEC-001 |
-| **Ongoing supervision between inspections** | **JDS-PRJ-MEC-002 (this project)** |
+| **Ongoing supervision between inspections** | **JDS-PRJ-MEC-001 (this project)** |
 | Inspection report management | JDS-PRJ-MEC-001 |
 | Corrective actions | JDS-PRO-008 (shared) |
 | Competence management | JDS-PRO-009 (shared) |

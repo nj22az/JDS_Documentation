@@ -81,24 +81,6 @@ def get_font_face_css():
 
 
 # ---------------------------------------------------------------------------
-# Extract metadata
-# ---------------------------------------------------------------------------
-
-def extract_metadata(md_text):
-    meta = {}
-    patterns = {
-        'doc_no': r'\*\*Document No\.\*\*\s*\|\s*(.+?)(?:\s*\||\s*$)',
-        'revision': r'\*\*Revision\*\*\s*\|\s*(.+?)(?:\s*\||\s*$)',
-        'date': r'\*\*Date\*\*\s*\|\s*(.+?)(?:\s*\||\s*$)',
-    }
-    for key, pattern in patterns.items():
-        match = re.search(pattern, md_text, re.MULTILINE)
-        if match:
-            meta[key] = match.group(1).strip()
-    return meta
-
-
-# ---------------------------------------------------------------------------
 # Letter CSS — Old-world stationery, engraved feel, serif typography
 # ---------------------------------------------------------------------------
 
@@ -420,7 +402,6 @@ def md_to_letter_pdf(input_path, output_path=None):
     with open(input_path, "r", encoding="utf-8") as f:
         md_content = f.read()
 
-    meta = extract_metadata(md_content)
     font_faces = get_font_face_css()
 
     formatted_css = LETTER_CSS.format(font_faces=font_faces)

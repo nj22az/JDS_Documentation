@@ -5,9 +5,9 @@
 | **Document No.** | JDS-LOG-MEC-006 |
 | **Revision** | B |
 | **Date** | 2026-04-10 |
-| **Status** | CURRENT |
+| **Status** | EXAMPLE |
 | **Author** | N. Johansson |
-| **Project** | JDS-PRJ-MEC-002 |
+| **Project** | JDS-PRJ-MEC-001 |
 | **Client** | Example Workshop AB |
 | **Site** | Gothenburg Workshop |
 
@@ -164,3 +164,4 @@ The script will read this inventory and create a supervision program pre-filled 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
 | A | 2026-04-10 | N. Johansson | Initial inventory — 7 vessels classified |
+| B | 2026-04-10 | N. Johansson | Auto-classified inventory (Gothenburg Workshop) |

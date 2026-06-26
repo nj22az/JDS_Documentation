@@ -18,34 +18,34 @@ This procedure defines how documents are reviewed for continued accuracy, how th
 
 Every quarter, perform a 5S audit of the documentation system. The five steps are:
 
-### 2.1 Seiri (Sort) — Eliminate Unnecessary Documents
+### 2.1 Sort (Seiri) — Eliminate Unnecessary Documents
 
 - Are there documents that are no longer relevant?
 - Are there drafts that were never completed?
 - **Action:** Retire or archive anything not actively needed.
 
-### 2.2 Seiton (Set in Order) — Verify Organisation
+### 2.2 Set in Order (Seiton) — Verify Organisation
 
 - Are all files named according to JDS conventions?
 - Is the folder structure consistent?
 - Are all documents registered in the Document Registry?
 - **Action:** Fix any naming or filing inconsistencies.
 
-### 2.3 Seiso (Shine) — Check for Accuracy
+### 2.3 Shine (Seiso) — Check for Accuracy
 
 - Are active documents still technically accurate?
 - Are links and cross-references working?
 - Are templates still suitable for current work?
 - **Action:** Update or flag documents that need revision.
 
-### 2.4 Seiketsu (Standardise) — Enforce Consistency
+### 2.4 Standardise (Seiketsu) — Enforce Consistency
 
 - Are templates being used consistently?
 - Do all documents have proper headers and revision history?
 - Are revision letters and dates current?
 - **Action:** Bring non-conforming documents into compliance.
 
-### 2.5 Shitsuke (Sustain) — Schedule the Next Audit
+### 2.5 Sustain (Shitsuke) — Schedule the Next Audit
 
 - Record the audit date and findings.
 - Schedule the next quarterly audit.
@@ -115,7 +115,7 @@ For significant audits, create a brief audit report (JDS-RPT series).
 
 ### 5.2 Tracking Improvement Actions
 
-Improvements identified during audits are tracked using the **Before/After** method (from the Japanese kaizen tradition):
+Improvements identified during audits are tracked using the **Before/After** method (from the continuous-improvement tradition):
 
 1. Document the **current state** (what needs to change)
 2. Document the **target state** (what it should look like after)

@@ -26,7 +26,6 @@ import argparse
 import os
 import sys
 from datetime import date, timedelta
-from pathlib import Path
 
 try:
     import openpyxl
@@ -59,6 +58,9 @@ NAVY_BLUE = "1B3A5C"
 WARM_GRAY = "8C8C8C"
 WHITE = "FFFFFF"
 ALT_ROW = "F0F3F6"   # Soft pastel zebra stripe (CUD-safe, PRO-007 §6.2)
+
+# Default Swedish mileage reimbursement rate (SEK per km) — no magic numbers in logic.
+MILEAGE_RATE_SEK_PER_KM = 25.00
 
 # ---------------------------------------------------------------------------
 # Reusable Styles
@@ -508,7 +510,7 @@ def generate_mileage(output_path):
         apply_body_cell(ws, r, 3, alignment=ALIGN_LEFT)    # To
         apply_body_cell(ws, r, 4, alignment=ALIGN_LEFT)    # Purpose
         apply_body_cell(ws, r, 5, number_format="0.0", alignment=ALIGN_RIGHT)  # km
-        apply_body_cell(ws, r, 6, value=25.00, number_format="0.00", alignment=ALIGN_RIGHT)  # Rate
+        apply_body_cell(ws, r, 6, value=MILEAGE_RATE_SEK_PER_KM, number_format="0.00", alignment=ALIGN_RIGHT)  # Rate
         amount = apply_body_cell(ws, r, 7, number_format="#,##0.00", alignment=ALIGN_RIGHT)
         amount.value = f'=IF(E{r}<>"",E{r}*F{r},"")'
 

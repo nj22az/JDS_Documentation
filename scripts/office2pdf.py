@@ -23,7 +23,6 @@ Dependencies:
 import sys
 import os
 import base64
-import re
 from datetime import datetime
 
 try:

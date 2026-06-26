@@ -7,7 +7,7 @@
 | **Date** | YYYY-MM-DD |
 | **Status** | DRAFT |
 | **Author** | [Reviewer name] |
-| **Project** | JDS-PRJ-MEC-002 |
+| **Project** | JDS-PRJ-MEC-001 |
 | **Client** | [Client name] |
 | **Site** | [Site name] |
 | **Program ID** | SP-[NNN] |

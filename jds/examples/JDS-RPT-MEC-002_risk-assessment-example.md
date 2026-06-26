@@ -107,7 +107,7 @@ Risk is assessed using a 5×5 matrix per ISO 31000 and SS-EN 16991:
 
 ## 6. Conclusions
 
-- **3 high risks** identified (R-001, R-002, R-003, R-007) — all related to catastrophic pressure release or confined space work
+- **4 high risks** identified (R-001, R-002, R-003, R-007) — all related to catastrophic pressure release or confined space work
 - All high risks have been reduced to medium or low through existing and proposed controls
 - **No critical (stop work) risks** identified
 - The maintenance programme as designed in JDS-PRJ-MEC-001 adequately addresses the identified risks

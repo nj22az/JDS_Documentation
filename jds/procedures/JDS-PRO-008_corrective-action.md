@@ -150,8 +150,8 @@ For most organisations, a single corrective action log file (`jds/registry/corre
 | JDS-PRO-002 (Revision Control) | Corrective actions that change documents trigger a revision |
 | JDS-PRO-005 (Review & Audit) | Audit findings feed into corrective action process |
 | JDS-PRO-006 (Complete Document Set) | Missing document set items may be raised as nonconformances |
-| Quality Manual §16 (Tiered Change Control) | Severity determines the change control tier |
-| Quality Manual §17 (Knowledge Gaps) | Unknown root causes documented as knowledge gaps |
+| Quality Manual §18 (Tiered Change Control) | Severity determines the change control tier |
+| Quality Manual §19 (Knowledge Gaps) | Unknown root causes documented as knowledge gaps |
 
 ## 7. Records
 

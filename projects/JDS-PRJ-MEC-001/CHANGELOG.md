@@ -57,3 +57,5 @@ Each entry shows:
 | 2026-04-11 | JDS-TMP-LOG-009 (Lifetime Journal) | B | N. Johansson | Added previous experience assessment (AFS 2 Kap §1), renumbered sections |
 | 2026-04-11 | JDS-TMP-RPT-004 (Risk Assessment) | A | N. Johansson | New template — 5x5 P×C matrix with pre-populated risk scenarios for 6 vessel types |
 | 2026-04-11 | 05-flt-program/README.md | — | N. Johansson | Created FLT program folder — complete document index for performing ongoing supervision |
+| 2026-06-25 | JDS-PRO-011 (Inspection Planning) | B | N. Johansson | Renumbered from JDS-PRO-004 to resolve a collision with the Software Code Quality Standard (CA-2026-008). Content unchanged. |
+| 2026-06-26 | Project cross-references | — | N. Johansson | Whole-repo sweep: updated stale JDS-PRO-004→PRO-011 and JDS-PRJ-MEC-002→MEC-001 references; fixed example status/revision blocks; corrected language-policy labels. |

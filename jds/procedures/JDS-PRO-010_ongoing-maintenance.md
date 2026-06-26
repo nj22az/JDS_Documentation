@@ -218,7 +218,7 @@ All findings follow JDS-PRO-008 (Corrective Action Procedure).
 
 | Document | Purpose |
 |---|---|
-| JDS-PRO-004 | Inspection Planning Procedure |
+| JDS-PRO-011 | Inspection Planning Procedure |
 | JDS-PRO-008 | Corrective Action Procedure |
 | JDS-PRO-009 | Competence Management Procedure |
 | JDS-MAN-MEC-001 | Documentation Guide — What Records to Keep |

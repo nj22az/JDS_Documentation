@@ -2,7 +2,7 @@
 
 **The Office of Nils Johansson** — Marine, Mechanical & Industrial Engineering
 
-**Version 3.8** | Effective 2026-06-26 | Owner: Nils Johansson
+**Version 3.9** | Effective 2026-06-26 | Owner: Nils Johansson
 
 ---
 
@@ -64,7 +64,7 @@ theofficeofnilsjohansson/
 | Folder | Contents |
 |--------|----------|
 | `quality-manual/` | QMS-000 Quality Manual, QMS-001 Numbering, QMS-002 Retention |
-| `procedures/` | PRO-001 through PRO-010 (creation, revision, audit, design, etc.) |
+| `procedures/` | PRO-001 through PRO-012 (creation, revision, audit, information & interface design, etc.) |
 | `templates/` | Blank templates for every document type |
 | `examples/` | Worked examples (reports, inventories, letters) |
 | `registry/` | Master document register + corrective action log |
@@ -87,6 +87,7 @@ theofficeofnilsjohansson/
 | `md2letter.py` | Letter template to PDF |
 | `office2pdf.py` | Excel workbook to PDF |
 | `generate-office-docs.py` | Generate Excel workbooks (timesheet, expense, mileage) |
+| `jds-classify.py` | Vessel classification & supervision generator (AFS 2017:3) |
 | `logo-variants.py` | Generate SVG logo colour variants |
 
 ### Personal — `personal/`

@@ -5,9 +5,9 @@
 | **Document No.** | JDS-LOG-MEC-009 |
 | **Revision** | A |
 | **Date** | 2026-04-10 |
-| **Status** | CURRENT |
+| **Status** | EXAMPLE |
 | **Author** | N. Johansson |
-| **Project** | JDS-PRJ-MEC-002 |
+| **Project** | JDS-PRJ-MEC-001 |
 | **Client** | Example Workshop AB |
 | **Site** | Gothenburg Workshop |
 | **Source** | JDS-LOG-MEC-007_example-program.md |
@@ -263,4 +263,4 @@ python3 scripts/jds-classify.py --round --from JDS-LOG-MEC-007_example-program.m
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
-| DRAFT | 2026-04-10 | N. Johansson | Monthly supervision round |
+| A | 2026-04-10 | N. Johansson | Monthly supervision round |

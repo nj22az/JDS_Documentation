@@ -5,9 +5,9 @@
 | **Document No.** | JDS-LOG-MEC-010 |
 | **Revision** | A |
 | **Date** | 2026-04-10 |
-| **Status** | CURRENT |
+| **Status** | EXAMPLE |
 | **Author** | N. Johansson |
-| **Project** | JDS-PRJ-MEC-002 |
+| **Project** | JDS-PRJ-MEC-001 |
 | **Client** | Example Workshop AB |
 | **Site** | Gothenburg Workshop |
 | **Source** | JDS-LOG-MEC-007_example-program.md |
@@ -176,4 +176,4 @@ INVENTORY  →  PROGRAM  →  ROUND  →  [REVIEW]
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
-| DRAFT | 2026-04-10 | N. Johansson | Annual review for 2026 |
+| A | 2026-04-10 | N. Johansson | Annual review for 2026 |

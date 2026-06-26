@@ -5,9 +5,9 @@
 | **Document No.** | JDS-LOG-MEC-008 |
 | **Revision** | A |
 | **Date** | 2026-04-10 |
-| **Status** | CURRENT |
+| **Status** | EXAMPLE |
 | **Author** | N. Johansson |
-| **Project** | JDS-PRJ-MEC-002 |
+| **Project** | JDS-PRJ-MEC-001 |
 | **Client** | Example Workshop AB |
 | **Site** | Gothenburg Workshop |
 

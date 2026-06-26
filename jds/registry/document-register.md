@@ -1,6 +1,6 @@
 # JDS Document Register
 
-**Last updated:** 2026-06-25 (rev 4)
+**Last updated:** 2026-06-26 (rev 5)
 
 This is the master list of all documents in the JDS system. Every document must be registered here when created.
 
@@ -68,7 +68,7 @@ This is the master list of all documents in the JDS system. Every document must 
 |---------|-------|-----|------|--------|--------|
 | [JDS-RPT-001](../examples/JDS-RPT-001_pump-inspection-example.md) | Example: Pump Inspection Report | A | 2026-03-25 | EXAMPLE | N. Johansson |
 | [JDS-RPT-MEC-002](../examples/JDS-RPT-MEC-002_risk-assessment-example.md) | Example: Risk Assessment — Pressure Vessel Maintenance | B | 2026-03-25 | EXAMPLE | N. Johansson |
-| [JDS-RPT-MEC-003](../../projects/JDS-PRJ-MEC-001/02-regulations/SE-sweden/JDS-RPT-MEC-003_afs2017-3-consolidated.md) | AFS 2017:3 Consolidated Supervision Requirements | B | 2026-04-10 | APPROVED | N. Johansson |
+| [JDS-RPT-MEC-003](../../projects/JDS-PRJ-MEC-001/02-regulations/SE-sweden/JDS-RPT-MEC-003_afs2017-3-consolidated.md) | AFS 2017:3 Consolidated Supervision Requirements | B | 2026-04-10 | CURRENT | N. Johansson |
 | [JDS-RPT-MEC-004](../examples/JDS-RPT-MEC-004_deviation-report-example.md) | Example: Deviation Report — Pressure Vessel Wall Thinning | A | 2026-03-26 | EXAMPLE | N. Johansson |
 | [JDS-RPT-MEC-005](../examples/JDS-RPT-MEC-005_maintenance-report-example.md) | Example: Maintenance Report | A | 2026-03-26 | EXAMPLE | N. Johansson |
 
@@ -76,8 +76,8 @@ This is the master list of all documents in the JDS system. Every document must 
 
 | Doc No. | Title | Rev | Date | Status | Author |
 |---------|-------|-----|------|--------|--------|
-| [JDS-MAN-MEC-001](../../projects/JDS-PRJ-MEC-001/01-framework/JDS-MAN-MEC-001_documentation-guide.md) | Documentation Guide — Pressure Vessel Records | A | 2026-03-25 | APPROVED | N. Johansson |
-| [JDS-MAN-MEC-002](../../projects/JDS-PRJ-MEC-001/03-supervision/JDS-MAN-MEC-002_supervision-program-manual.md) | Supervision Program Manual — Pressurised Vessels | A | 2026-04-10 | APPROVED | N. Johansson |
+| [JDS-MAN-MEC-001](../../projects/JDS-PRJ-MEC-001/01-framework/JDS-MAN-MEC-001_documentation-guide.md) | Documentation Guide — Pressure Vessel Records | A | 2026-03-25 | CURRENT | N. Johansson |
+| [JDS-MAN-MEC-002](../../projects/JDS-PRJ-MEC-001/03-supervision/JDS-MAN-MEC-002_supervision-program-manual.md) | Supervision Program Manual — Pressurised Vessels | A | 2026-04-10 | CURRENT | N. Johansson |
 
 ## Drawings (DWG)
 
@@ -88,7 +88,7 @@ This is the master list of all documents in the JDS system. Every document must 
 
 | Doc No. | Title | Rev | Date | Status | Author |
 |---------|-------|-----|------|--------|--------|
-| [JDS-PRJ-MEC-001](../../projects/JDS-PRJ-MEC-001/README.md) | Pressure Vessel Ongoing Maintenance Program | D | 2026-04-11 | APPROVED | N. Johansson |
+| [JDS-PRJ-MEC-001](../../projects/JDS-PRJ-MEC-001/README.md) | Pressure Vessel Ongoing Maintenance Program | D | 2026-04-11 | CURRENT | N. Johansson |
 | JDS-PRJ-MEC-002 | Vessel Supervision System | A | 2026-04-10 | SUPERSEDED | N. Johansson |
 | [JDS-PRJ-SFW-001](../../projects/software/JDS-PRJ-SFW-001_local-image-generator/README.md) | Local Image Generator (JDS Image Studio) | Y | 2026-04-08 | CURRENT | N. Johansson |
 | [JDS-PRJ-SFW-002](../../projects/software/JDS-PRJ-SFW-002_document-studio/README.md) | Document Studio (Local Document Creator) | G | 2026-06-26 | CURRENT | N. Johansson |
@@ -107,11 +107,11 @@ This is the master list of all documents in the JDS system. Every document must 
 
 | Doc No. | Title | Rev | Date | Status | Author |
 |---------|-------|-----|------|--------|--------|
-| [JDS-LOG-MEC-001](../../projects/JDS-PRJ-MEC-001/01-framework/JDS-LOG-MEC-001_equipment-register.md) | Equipment Register — Pressure Vessels (Framework) | A | 2026-03-25 | APPROVED | N. Johansson |
+| [JDS-LOG-MEC-001](../../projects/JDS-PRJ-MEC-001/01-framework/JDS-LOG-MEC-001_equipment-register.md) | Equipment Register — Pressure Vessels (Framework) | A | 2026-03-25 | CURRENT | N. Johansson |
 | [JDS-LOG-MEC-002](../../projects/JDS-PRJ-MEC-001/04-active-programs/JDS-LOG-MEC-002_pressure-vessel-inventory-afs2017.md) | Pressure Vessel Inventory — AFS 2017:3 Compliance Guide | B | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-LOG-MEC-003](../examples/JDS-LOG-MEC-003_equipment-inventory-example.md) | Example: Equipment Inventory — Gothenburg Workshop | B | 2026-03-25 | EXAMPLE | N. Johansson |
 | [JDS-LOG-MEC-004](../examples/JDS-LOG-MEC-004_equipment-life-journal-example.md) | Example: Equipment Life Journal — PV-001 Air Receiver | A | 2026-03-25 | EXAMPLE | N. Johansson |
-| [JDS-LOG-MEC-005](../../projects/JDS-PRJ-MEC-001/03-supervision/JDS-LOG-MEC-005_program-register.md) | Supervision Program Register | A | 2026-04-10 | APPROVED | N. Johansson |
+| [JDS-LOG-MEC-005](../../projects/JDS-PRJ-MEC-001/03-supervision/JDS-LOG-MEC-005_program-register.md) | Supervision Program Register | A | 2026-04-10 | CURRENT | N. Johansson |
 | [JDS-LOG-MEC-006](../../projects/JDS-PRJ-MEC-001/04-active-programs/JDS-LOG-MEC-006_example-inventory.md) | Example: Equipment Inventory — Gothenburg Workshop (Auto-Classified) | B | 2026-04-10 | EXAMPLE | N. Johansson |
 | [JDS-LOG-MEC-007](../../projects/JDS-PRJ-MEC-001/04-active-programs/JDS-LOG-MEC-007_example-program.md) | Example: Supervision Program — Gothenburg Workshop (AFS 2017:3 Compliant) | A | 2026-04-10 | EXAMPLE | N. Johansson |
 | [JDS-LOG-MEC-008](../../projects/JDS-PRJ-MEC-001/04-active-programs/JDS-LOG-MEC-008_example-lifetime-journal.md) | Example: Equipment Lifetime Journal — Gothenburg Workshop | A | 2026-04-10 | EXAMPLE | N. Johansson |

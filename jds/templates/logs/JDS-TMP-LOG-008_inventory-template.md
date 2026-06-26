@@ -138,7 +138,7 @@ For each vessel, assess whether placement meets regulatory requirements. Mark OK
 
 ---
 
-## 9. CSV Quick-Start
+## 10. CSV Quick-Start
 
 To generate this inventory automatically, create a CSV file with this header:
 

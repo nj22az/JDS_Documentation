@@ -170,7 +170,7 @@ This inventory is the master register of all pressurised vessels at [site name].
 
 ---
 
-## 9. Komplekt Status (Per Vessel)
+## 9. Complete Document Set Status (Per Vessel)
 
 For each vessel in service, verify these documents exist:
 

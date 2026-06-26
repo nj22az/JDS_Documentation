@@ -27,7 +27,7 @@ Four root folders. Everything lives in one of them.
 - Always use the appropriate template from `jds/templates/`
 - Always register new documents in `jds/registry/document-register.md`
 - Revisions follow letter sequence: A, B, C, D... (skip I, O, Q, S, X, Z)
-- Blog posts are tracked as BLG category with domain code (e.g., JDS-BLG-MEC-001)
+- Blog posts are tracked as BLG category with an optional domain code (QMS-001 Rev D); the registry uses the no-domain form (e.g., JDS-BLG-001)
 - See `jds/README.md` for full documentation system reference
 
 ## 3D Modeling Projects

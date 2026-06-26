@@ -20,11 +20,11 @@
 | **Description** | [e.g., Compressed air receiver] |
 | **Location** | [Site, building, bay] |
 | **Inspection date** | YYYY-MM-DD |
-| **Inspection type** | Utvändig / Invändig / Tryckprov / Driftprov |
-| **AFS Klass** | A / B |
+| **Inspection type** | External / Internal / Pressure test / Operational test |
+| **AFS Class** | A / B |
 | **Inspector** | [Name, organisation] |
 | **Accreditation No.** | [SWEDAC number, if applicable] |
-| **Result** | GODKÄND / GODKÄND MED ANMÄRKNING / UNDERKÄND |
+| **Result** | Approved / Approved with remarks / Rejected |
 | **Certificate Ref** | [Inspector's certificate number] |
 
 ---
@@ -85,7 +85,7 @@ Describe what was inspected and how:
 
 ## 6. Conclusion and Recommendation
 
-**Result:** [GODKÄND / GODKÄND MED ANMÄRKNING / UNDERKÄND]
+**Result:** [Approved / Approved with remarks / Rejected]
 
 [Summary of the vessel's condition and any required actions]
 

@@ -5,9 +5,9 @@
 | **Document No.** | JDS-LOG-MEC-007 |
 | **Revision** | A |
 | **Date** | 2026-04-10 |
-| **Status** | CURRENT |
+| **Status** | EXAMPLE |
 | **Author** | N. Johansson |
-| **Project** | JDS-PRJ-MEC-002 |
+| **Project** | JDS-PRJ-MEC-001 |
 | **Client** | Example Workshop AB |
 | **Site** | Gothenburg Workshop |
 | **Program ID** | SP-[NNN] |
@@ -63,9 +63,9 @@ Register of all pressurised equipment at Gothenburg Workshop:
 | PV-007 | Sandblast receiver | Yard | **Exempt (air/N2)** | compressed air | N/A |
 
 **Class A:** 3 vessels (accredited inspection body required)
-**Class B:** 1 vessels
+**Class B:** 1 vessel
 **Exempt (air/N2/refrigerant):** 2 vessels (Class B exempt per 4 Kap. §10)
-**Below threshold:** 1 vessels
+**Below threshold:** 1 vessel
 
 ---
 

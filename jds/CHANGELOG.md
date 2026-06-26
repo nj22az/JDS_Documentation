@@ -4,6 +4,22 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [3.9] — 2026-06-26
+
+### Fixed — Whole-repo review sweep (CA-2026-010)
+- **Stale cross-references propagated** from earlier operations: JDS-PRO-004→**PRO-011** (renumber, CA-2026-008) and JDS-PRJ-MEC-002→**MEC-001** (merge) fixed across the project README, FLT index, supervision manual, example Project fields, and PRO-010.
+- **Cross-ref / structural faults:** PRO-008 → QMS §18/§19 (was §16/§17), TMP-LOG-008 duplicate "## 9", TMP-RPT-005 maintenance-report pointer (RPT-004→RPT-006), RPT-MEC-002 risk count (3→4), and five example status/revision-block mismatches.
+- **Language policy (QMS-000 §15):** PRO-005 5S headings now English-first (`Sort (Seiri)`…), "kaizen"→continuous improvement; TMP-RPT-003 Swedish picklists→English; TMP-LOG-001 "Komplekt"→Complete Document Set.
+- **Scripts cleaned:** removed dead code (unused imports/vars/`extract_metadata`), simplified a redundant validator clause, hoisted the mileage rate to a named constant.
+- **Doc-list accuracy:** root README lists PRO-001–012 and `jds-classify.py`; register Status column reconciled to the files.
+
+### Added — Validator guards (root causes)
+- **Register-vs-file Status check** — compares the register Status column against each file's status block (templates excluded). It immediately surfaced 10 further `APPROVED`/`CURRENT`/`EXAMPLE` drifts, all fixed.
+- **RETIRED** added to the valid-status set (QMS-000 uses it as an end-of-life state).
+
+### Held for owner sign-off (regulatory/domain)
+- Several MEC-001 documents carry inspection-interval regimes, AFS section numbers, amendment descriptions, and classification thresholds that contradict the authoritative consolidated doc (JDS-RPT-MEC-003 Rev B). These are compliance statements, left for engineering review rather than auto-edited.
+
 ## [3.8] — 2026-06-26
 
 ### Fixed — Self-enhancement QA sweep (CA-2026-009)
