@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-LOG-MEC-[NNN] |
-| **Revision** | DRAFT |
+| **Revision** | A |
 | **Date** | YYYY-MM-DD |
 | **Status** | DRAFT |
 | **Author** | [Author name] |
@@ -25,11 +25,10 @@ This register is the master inventory of all pressurised vessels at [site name].
 
 | Risk Class | Count | Inspection Regime |
 |-----------|-------|-------------------|
-| **Class A** | | Accredited body: ext. 24 mo, int. 72 mo, press. test 144 mo |
-| **Class B** | | Accredited (int.) / own (ext.): ext. 36 mo, int. 72 mo |
-| **Below B** | | Own inspection: ext. 72 mo |
-| **Simple PV** | | No mandatory periodic inspection |
-| **Not classified** | | Below regulatory threshold |
+| **Class A** | | Driftprov base 2–4 yr; internal/external **condition-based** per Bilaga 1 (accredited body) |
+| **Class B** | | Driftprov only — 2–4 yr (accredited int. / own ext. where approved) |
+| **Exempt (air/N₂/refrig.)** | | No periodic inspection — Class B exemption (4 Kap. §10) |
+| **Below threshold** | | Not classified under AFS 2017:3 |
 | **Total** | | |
 
 ---
@@ -58,9 +57,11 @@ This register is the master inventory of all pressurised vessels at [site name].
 
 > To auto-generate this section, use `jds-classify.py`. Manual classification reference:
 >
-> **Group 2 (non-dangerous):** Class A if PS x V > 10,000 | Class B if > 1,000 | Below B if > 200 | Simple PV if > 50
+> **Group 2a (non-dangerous) gases:** Class A if PS×V > 10,000 | Class B if PS×V ≤ 10,000 (V > 1 L, p > 0.5 bar). Air/N₂ that would be Class B are exempt (no class).
 >
-> **Group 1 (dangerous):** Class A if PS x V > 3,000 | Class B if > 200 | Simple PV if > 50
+> **Group 1a (dangerous) gases:** Class A if PS×V > 1,000 | Class B if PS×V ≤ 1,000 (V > 1 L, p > 0.5 bar).
+>
+> *(Per 4 Kap. §10 — see JDS-RPT-MEC-003 §4.1.)*
 
 | Vessel ID | Fluid Grp | PED Cat. | Risk Class | Inspector | CE | DoC |
 |-----------|----------|----------|-----------|-----------|----|----|
@@ -80,14 +81,13 @@ This register is the master inventory of all pressurised vessels at [site name].
 | PV-002 | | | | | | |
 | PV-003 | | | | | | |
 
-**Interval reference:**
+**Interval reference (per AFS 2017:3 Bilaga 1 — see JDS-RPT-MEC-003 §6):**
 
-| Risk Class | External | Internal | Pressure Test |
-|-----------|----------|----------|--------------|
-| Class A | 24 months | 72 months | 144 months |
-| Class B | 36 months | 72 months | — |
-| Below B | 72 months | — | — |
-| Simple PV | — | — | — |
+| Risk Class | Driftprov (operational test) | Internal/external examination |
+|-----------|------------------------------|-------------------------------|
+| Class A | 2 yr base (4 yr for air/N₂/refrigeration/LPG); max 4 yr | **Condition-based**, set by inspection body — 1 to 10 yr |
+| Class B | 2 yr base (4 yr for air/N₂ etc.) | Not required (driftprov only) |
+| Exempt / below threshold | — | — |
 
 ---
 
@@ -161,4 +161,4 @@ The script will calculate PS x V, determine fluid group, assign risk class, and 
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
-| DRAFT | YYYY-MM-DD | [Author] | Initial inventory |
+| A | YYYY-MM-DD | [Author] | Initial inventory |

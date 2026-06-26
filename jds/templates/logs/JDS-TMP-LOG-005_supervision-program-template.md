@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-LOG-MEC-[NNN] |
-| **Revision** | DRAFT |
+| **Revision** | A |
 | **Date** | YYYY-MM-DD |
 | **Status** | DRAFT |
 | **Author** | [Author name] |
@@ -230,4 +230,4 @@ A physical person must be appointed to coordinate all work on pressurised equipm
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
-| DRAFT | YYYY-MM-DD | [Author] | Initial draft |
+| A | YYYY-MM-DD | [Author] | Initial draft |

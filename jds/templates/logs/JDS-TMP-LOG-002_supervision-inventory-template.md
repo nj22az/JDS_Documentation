@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-LOG-MEC-[NNN] |
-| **Revision** | DRAFT |
+| **Revision** | A |
 | **Date** | YYYY-MM-DD |
 | **Status** | SUPERSEDED |
 | **Author** | [Author name] |
@@ -95,4 +95,4 @@ This register is the master inventory of all pressurised vessels at [site name] 
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
-| DRAFT | YYYY-MM-DD | [Author] | Initial inventory |
+| A | YYYY-MM-DD | [Author] | Initial inventory |

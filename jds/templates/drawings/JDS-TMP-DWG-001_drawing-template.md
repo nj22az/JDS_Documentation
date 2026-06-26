@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-DWG-[NNN] |
-| **Revision** | DRAFT |
+| **Revision** | A |
 | **Date** | YYYY-MM-DD |
 | **Status** | DRAFT |
 | **Author** | [Author Name] |
@@ -64,4 +64,4 @@
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
-| DRAFT | YYYY-MM-DD | [Author Name] | Initial draft |
+| A | YYYY-MM-DD | [Author Name] | Initial draft |

@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-RPT-MEC-[NNN] |
-| **Revision** | DRAFT |
+| **Revision** | A |
 | **Date** | YYYY-MM-DD |
 | **Status** | DRAFT |
 | **Author** | [Inspector / Report author] |
@@ -117,4 +117,4 @@ Describe what was inspected and how:
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
-| DRAFT | YYYY-MM-DD | [Author] | Inspection report for [Vessel ID] |
+| A | YYYY-MM-DD | [Author] | Inspection report for [Vessel ID] |

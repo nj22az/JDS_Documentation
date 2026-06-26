@@ -54,7 +54,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | [JDS-TMP-LOG-005](../templates/logs/JDS-TMP-LOG-005_supervision-program-template.md) | Supervision Program Template | B | 2026-04-11 | APPROVED | N. Johansson |
 | [JDS-TMP-LOG-006](../templates/logs/JDS-TMP-LOG-006_supervision-round-template.md) | Supervision Round Record Template | A | 2026-04-10 | APPROVED | N. Johansson |
 | [JDS-TMP-LOG-007](../templates/logs/JDS-TMP-LOG-007_annual-review-template.md) | Annual Supervision Program Review Template | A | 2026-04-10 | APPROVED | N. Johansson |
-| [JDS-TMP-LOG-008](../templates/logs/JDS-TMP-LOG-008_inventory-template.md) | Equipment Inventory Template (Auto-Classification) | B | 2026-04-11 | APPROVED | N. Johansson |
+| [JDS-TMP-LOG-008](../templates/logs/JDS-TMP-LOG-008_inventory-template.md) | Equipment Inventory Template (Auto-Classification) | C | 2026-06-26 | APPROVED | N. Johansson |
 | [JDS-TMP-LOG-009](../templates/logs/JDS-TMP-LOG-009_lifetime-journal-template.md) | Equipment Lifetime Journal Template | B | 2026-04-11 | APPROVED | N. Johansson |
 | [JDS-TMP-COR-002](../templates/correspondence/JDS-TMP-COR-002_cv-template.md) | CV / Resume Template | A | 2026-03-26 | APPROVED | N. Johansson |
 | [JDS-TMP-COR-003](../templates/correspondence/JDS-TMP-COR-003_personal-letter-template.md) | Personal Letter Template | A | 2026-03-26 | APPROVED | N. Johansson |

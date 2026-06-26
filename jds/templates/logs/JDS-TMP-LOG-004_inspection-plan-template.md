@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-LOG-MEC-[NNN] |
-| **Revision** | DRAFT |
+| **Revision** | A |
 | **Date** | YYYY-MM-DD |
 | **Status** | DRAFT |
 | **Author** | [Author name] |
@@ -88,4 +88,4 @@ This document is the annual inspection plan for all pressurised vessels at [site
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
-| DRAFT | YYYY-MM-DD | [Author] | Annual inspection plan for [YYYY] |
+| A | YYYY-MM-DD | [Author] | Annual inspection plan for [YYYY] |

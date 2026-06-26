@@ -50,4 +50,4 @@
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
-| DRAFT | YYYY-MM-DD | [Author Name] | Initial draft |
+| A | YYYY-MM-DD | [Author Name] | Initial draft |

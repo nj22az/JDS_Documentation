@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-LOG-MEC-[NNN] |
-| **Revision** | DRAFT |
+| **Revision** | A |
 | **Date** | YYYY-MM-DD |
 | **Status** | SUPERSEDED |
 | **Author** | Nils Johansson |
@@ -188,4 +188,4 @@ For each vessel in service, verify these documents exist:
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
-| DRAFT | YYYY-MM-DD | [Author] | Initial draft |
+| A | YYYY-MM-DD | [Author] | Initial draft |

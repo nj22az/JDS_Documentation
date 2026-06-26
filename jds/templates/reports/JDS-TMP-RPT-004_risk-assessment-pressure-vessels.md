@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-RPT-MEC-[NNN] |
-| **Revision** | DRAFT |
+| **Revision** | A |
 | **Date** | YYYY-MM-DD |
 | **Status** | DRAFT |
 | **Author** | [Author name] |
@@ -202,4 +202,4 @@ Reference library of typical risks. Use these as starting points when assessing 
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
-| DRAFT | YYYY-MM-DD | [Author] | Initial risk assessment |
+| A | YYYY-MM-DD | [Author] | Initial risk assessment |

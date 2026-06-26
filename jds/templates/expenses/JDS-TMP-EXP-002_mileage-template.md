@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-EXP-GEN-[NNN] |
-| **Revision** | DRAFT |
+| **Revision** | A |
 | **Period** | YYYY-MM-DD to YYYY-MM-DD |
 | **Date** | YYYY-MM-DD |
 | **Status** | DRAFT |
@@ -57,4 +57,4 @@
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
-| DRAFT | YYYY-MM-DD | [Author] | Initial mileage log |
+| A | YYYY-MM-DD | [Author] | Initial mileage log |

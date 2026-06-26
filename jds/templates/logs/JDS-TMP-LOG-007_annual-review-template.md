@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-LOG-MEC-[NNN] |
-| **Revision** | DRAFT |
+| **Revision** | A |
 | **Date** | YYYY-MM-DD |
 | **Status** | DRAFT |
 | **Author** | [Reviewer name] |
@@ -166,4 +166,4 @@ This document records the annual review of the supervision program for [site nam
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
-| DRAFT | YYYY-MM-DD | [Author] | Annual review for [YYYY] |
+| A | YYYY-MM-DD | [Author] | Annual review for [YYYY] |

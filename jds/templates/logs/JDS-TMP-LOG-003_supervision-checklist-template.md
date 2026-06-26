@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-LOG-MEC-[NNN] |
-| **Revision** | DRAFT |
+| **Revision** | A |
 | **Date** | YYYY-MM-DD |
 | **Status** | SUPERSEDED |
 | **Author** | [Inspector name] |
@@ -96,4 +96,4 @@ This checklist documents routine supervision of pressurised vessels between form
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
-| DRAFT | YYYY-MM-DD | [Author] | Supervision round |
+| A | YYYY-MM-DD | [Author] | Supervision round |

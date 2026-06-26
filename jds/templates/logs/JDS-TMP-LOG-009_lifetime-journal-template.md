@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-LOG-MEC-[NNN] |
-| **Revision** | DRAFT |
+| **Revision** | A |
 | **Date** | YYYY-MM-DD |
 | **Status** | DRAFT |
 | **Author** | [Author name] |
@@ -204,4 +204,4 @@ If a vessel has reached its documented lifetime, it may only remain pressurised 
 
 | Rev | Date | Author | Description |
 |-----|------|--------|-------------|
-| DRAFT | YYYY-MM-DD | [Author] | Initial journal |
+| A | YYYY-MM-DD | [Author] | Initial journal |
