@@ -4,6 +4,21 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [Rev B] — 2026-06-26
+
+### Added
+- **Smart folder placement** (`studio/placement.py`): the target folder is now
+  pre-filled where Studio is confident (QMS → `jds/quality-manual`, PRO →
+  `jds/procedures`, TMP → `jds/templates/<type>`). It never guesses for ambiguous
+  categories, and the field stays editable so the user keeps control (PRO-012 §5).
+- **Office document generation**: timesheet / expense / mileage / all buttons,
+  wired through `engine.generate_office()` to `scripts/generate-office-docs.py`.
+- `GET /api/next-number` now also returns the suggested folder; new
+  `POST /api/office?kind=` endpoint.
+
+### Tests
+- 10/10 passing (added `test_suggest_target_dir`).
+
 ## [Rev A] — 2026-06-26
 
 ### Added — Initial MVP

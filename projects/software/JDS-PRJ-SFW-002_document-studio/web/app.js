@@ -54,9 +54,13 @@ async function init() {
   $("new-doc-form").addEventListener("submit", onCreate);
   $("btn-validate").addEventListener("click", () => runValidate(false));
   $("btn-validate-quick").addEventListener("click", () => runValidate(true));
+  document.querySelectorAll("[data-office]").forEach((btn) =>
+    btn.addEventListener("click", () => makeOffice(btn.dataset.office)));
 }
 
 // --- next-number preview ----------------------------------------------------
+
+let lastSuggestedDir = "";
 
 async function refreshNumber() {
   const params = new URLSearchParams({ category: $("category").value });
@@ -65,6 +69,13 @@ async function refreshNumber() {
   try {
     const data = await getJSON("/api/next-number?" + params.toString());
     $("next-number").textContent = data.doc_no;
+    // Auto-fill the folder only while the user hasn't overridden it (keep them
+    // in control, PRO-012 §5). Stop syncing once they type their own path.
+    const dir = $("target_dir");
+    if (dir.value === "" || dir.value === lastSuggestedDir) {
+      dir.value = data.target_dir || "";
+    }
+    lastSuggestedDir = data.target_dir || "";
   } catch (err) {
     $("next-number").textContent = "—";
   }
@@ -123,6 +134,20 @@ async function runValidate(quick) {
     out.textContent = res.output;
   } catch (err) {
     out.textContent = "Validation error: " + err.message;
+  }
+}
+
+// --- office documents -------------------------------------------------------
+
+async function makeOffice(kind) {
+  const out = $("office-output");
+  out.hidden = false;
+  out.textContent = `Generating ${kind}…`;
+  try {
+    const res = await postJSON("/api/office?kind=" + encodeURIComponent(kind), null);
+    out.textContent = res.output || `${kind} generated.`;
+  } catch (err) {
+    out.textContent = "Office generation error: " + err.message;
   }
 }
 

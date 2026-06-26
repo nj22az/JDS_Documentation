@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Document No.** | JDS-PRJ-SFW-002 |
-| **Revision** | A |
+| **Revision** | B |
 | **Date** | 2026-06-26 |
 | **Status** | CURRENT |
 | **Author** | N. Johansson |
@@ -51,6 +51,8 @@ The server finds the repository root automatically (or set `JDS_REPO_ROOT`).
 | **Create document** | Instantiates the chosen template, writes the `.md`, appends one registry row under the right section |
 | **Generate PDF** | Calls `scripts/md2pdf.py` (full PRO-007 styling) |
 | **Validate** | Calls `scripts/jds-validate.py` and shows the result, Doc's closing line included |
+| **Suggest folder** | Pre-fills the target folder where Studio is confident (QMS, PRO, TMP); editable, never guesses wrong |
+| **Office documents** | Generates timesheet / expense / mileage Excel workbooks via `scripts/generate-office-docs.py` |
 
 ## Architecture
 
@@ -73,6 +75,7 @@ web/ (browser UI)  ──HTTP──►  studio/server.py  (FastAPI, thin)
 | `studio/registry.py` | Parse register, append one row under the correct section |
 | `studio/templates.py` | Discover templates, fill title + metadata |
 | `studio/creator.py` | Orchestrates create: number → instantiate → write → register |
+| `studio/placement.py` | Suggests the target folder by category (confident defaults only) |
 | `studio/engine.py` | Subprocess wrappers around the JDS scripts |
 | `studio/server.py` | FastAPI routes (HTTP ⇄ core) |
 | `web/` | `index.html`, `style.css`, `app.js` (PRO-007-styled UI) |
@@ -84,11 +87,12 @@ web/ (browser UI)  ──HTTP──►  studio/server.py  (FastAPI, thin)
 |--------|-------|---------|
 | GET | `/api/taxonomy` | Categories, domains, statuses for the form |
 | GET | `/api/templates` | Available templates |
-| GET | `/api/next-number?category=&domain=&template_type=` | Preview the next number |
+| GET | `/api/next-number?category=&domain=&template_type=` | Preview the next number + suggested folder |
 | GET | `/api/registry` | Parsed register entries |
 | POST | `/api/documents` | Create a numbered, registered document |
 | POST | `/api/validate?quick=` | Run the audit |
 | POST | `/api/pdf` | Render a document to PDF |
+| POST | `/api/office?kind=` | Generate a timesheet / expense / mileage workbook |
 
 ## Standards Compliance
 
@@ -106,8 +110,11 @@ reported — empty title, bad revision letter, and out-of-repo paths are rejecte
 before any write (§5.3). No safety-critical/HMI surfaces here, so the Doc Guide
 Note is permitted (§11).
 
-## Status & Limitations (Rev A — MVP)
+## Status & Limitations (Rev B)
 
-- Creates documents from templates, numbers, registers, renders PDF, validates.
-- The target folder is chosen explicitly (Studio does not yet guess placement).
-- Edits to existing documents and revision bumps are out of scope for Rev A.
+- Creates documents from templates, numbers, registers, renders PDF, validates,
+  generates office workbooks, and suggests the target folder by category.
+- Folder suggestions cover the confident cases (QMS, PRO, TMP); for other
+  categories the field is left for the user to fill.
+- Editing existing documents and automated revision bumps remain out of scope
+  (planned for a later revision).

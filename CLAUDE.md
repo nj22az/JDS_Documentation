@@ -83,6 +83,7 @@ All software code under JDS must follow these 7 rules from the first line:
 - `/audit` — Run the full JDS 5S audit (JDS-PRO-005)
 - `/new-doc` — Create a new document following all JDS procedures
 - `/pdf` — Generate a JDS-compliant PDF from markdown
+- `/enhance` — Run a JDS self-enhancement pass (fix instance + root cause + add a guard; the continuous-improvement cycle)
 
 ### Language Policy
 - JDS is 100% English. JDS owns its terminology — foreign terms are never primary labels.

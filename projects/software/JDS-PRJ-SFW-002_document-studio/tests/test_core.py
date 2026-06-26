@@ -14,7 +14,7 @@ from pathlib import Path
 # Make the `studio` package importable when run directly.
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from studio import numbering, registry, templates, creator, config  # noqa: E402
+from studio import numbering, registry, templates, creator, placement, config  # noqa: E402
 
 
 # --- numbering --------------------------------------------------------------
@@ -112,6 +112,17 @@ def test_instantiate_fills_title_and_metadata():
     assert "| **Author** | N. Johansson |" in out
     assert "[body stays untouched]" in out          # body preserved
     assert "[Report Title]" not in out               # placeholder replaced
+
+
+# --- placement --------------------------------------------------------------
+
+def test_suggest_target_dir():
+    assert placement.suggest_target_dir("PRO") == "jds/procedures"
+    assert placement.suggest_target_dir("QMS") == "jds/quality-manual"
+    assert placement.suggest_target_dir("TMP", template_type="RPT") == "jds/templates/reports"
+    assert placement.suggest_target_dir("TMP", template_type="LOG") == "jds/templates/logs"
+    assert placement.suggest_target_dir("TMP") == "jds/templates"   # type unknown
+    assert placement.suggest_target_dir("RPT") == ""                # not confident
 
 
 # --- creator (integration against a temp sandbox repo) ----------------------

@@ -13,7 +13,7 @@ from fastapi.responses import FileResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
-from . import config, creator, engine, registry, templates
+from . import config, creator, engine, placement, registry, templates
 
 app = FastAPI(title="JDS Document Studio", version="A")
 
@@ -56,8 +56,12 @@ def get_templates():
 @app.get("/api/next-number")
 def next_number(category: str, domain: str | None = None,
                 template_type: str | None = None):
+    """Preview the next number AND a suggested target folder for this category."""
     try:
-        return {"doc_no": creator.preview_number(category, domain, template_type)}
+        return {
+            "doc_no": creator.preview_number(category, domain, template_type),
+            "target_dir": placement.suggest_target_dir(category, domain, template_type),
+        }
     except Exception as exc:  # noqa: BLE001
         raise HTTPException(status_code=400, detail=str(exc))
 
@@ -95,6 +99,17 @@ def validate(quick: bool = False):
 @app.post("/api/pdf")
 def make_pdf(body: PdfRequest):
     result = engine.generate_pdf(body.path)
+    if not result["ok"]:
+        return JSONResponse(status_code=400, content=result)
+    return result
+
+
+@app.post("/api/office")
+def make_office(kind: str):
+    """Generate an Excel workbook (timesheet | expense | mileage | all)."""
+    if kind not in ("timesheet", "expense", "mileage", "all"):
+        raise HTTPException(status_code=400, detail=f"Unknown office doc '{kind}'")
+    result = engine.generate_office(kind)
     if not result["ok"]:
         return JSONResponse(status_code=400, content=result)
     return result
