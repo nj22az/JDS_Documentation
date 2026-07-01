@@ -41,27 +41,63 @@ standing between "well-researched" and "page-turner."
    set. Do that at least twice more.
 3. **Ration the closing refrain** (see Section 5).
 
-## 3. The throughline — pick one, don't do all three
+## 3. The throughline — decided
 
-Currently the only connective tissue across 400 years is theme + location. Reader propulsion
-needs one concrete thing to follow. Options, in order of how much rewriting each costs:
+Every chapter gets an invented protagonist with a real, active, in-scene choice (the Su model:
+not a witness reciting what happened, someone deciding what to do about it). Per the author's
+explicit direction: **the protagonists are tools, not the story.** The Prospect of Whitby, London,
+and the history are the story. So the connections between protagonists across centuries have to
+work as background texture the building itself accumulates — not a family saga competing with
+the history for the reader's attention. A reader who never notices any of the connective tissue
+below should still get the complete book. A reader who does notice gets a second layer underneath
+the first. Three layers, load-bearing in this order:
 
-- **(Recommended, lowest cost) The notch under the bar.** Mistress Ashby cuts a mark under the
-  counter in 1600 for every young man who signs and ships out. That detail already exists and is
-  currently a one-off. Bring it back once — a later-chapter character (Hannah, or a 2019
-  character doing renovation work) finds the notches and the book gets to answer, near the end,
-  how many marks are down there. Costs one added scene, not a rewrite.
-- **(Medium cost) The Ashby lineage.** Make explicit that Hannah and the later landlords are
-  Ashby descendants (or trained by one) — the keeper-of-the-bar role passed down like a trade,
-  not just a coincidence of the pub needing *someone* behind it. Requires a line or two in 3–4
-  chapters, not a structural rewrite.
-- **(Highest cost, highest reward) A recurring object.** A ledger, a ring, a manifest page —
-  something that physically survives and resurfaces, Kidd's missing French passes reappearing in
-  a later chapter, say. Strongest mechanism but requires planting and paying off across multiple
-  chapters — a real revision pass, not an addition.
+**(a) The Cache — the primary mechanism.** A hidden accumulation under the bar counter, seeded by
+Mistress Ashby's notches in 1600 (already in the text — one cut for every young man who signs and
+ships out). Several protagonists, at the moment of their active choice, leave something physical
+there: Tom's keepsake (1600), Nathaniel's written testimony about the missing French passes
+(1701), and others as each chapter is drafted. No protagonist knows about any other's item — only
+the building holds all of it. Paid off in 2019, when it's finally found and counted. This is the
+throughline that most directly embodies "the pub is the protagonist": the place remembers what
+the people never told each other.
 
-Decide which one (or which combination) before doing another drafting pass — don't let this
-default by inertia.
+**(b) The keeper line — Ashby.** Mistress Ashby's trade (not necessarily her exact bloodline)
+recurs behind the bar at intervals — trained successors, a name passed down rather than a title
+deed. This explains, and makes deliberate, something already latent in the draft: "Hannah" already
+appears as the keeper across 1770, 1839, and 1858 — a 90-year span too long for one woman. Rather
+than treat that as an error to fix, treat it as the device: **Hannah is a name the keeper's trade
+carries, given to whoever's daughter or niece takes over the bar**, the way a trade name outlasts
+any one person holding it. One light line per appearance is enough — never a revealed twist, just
+the ordinary fact of how the place has always worked.
+
+**(c) One labor line — for texture, not plot.** Carter the chandler (1614) anchors a second
+thread: Wapping trades ran in families. A later docker can be his descendant, tying the book's
+existing Lascar → Somali dockworker echo (already in the 2019 chapter) into the same pattern —
+labor repeating under new names — rather than leaving it as a thematic coincidence.
+
+**Rule governing all three:** connections are seasoning, never load-bearing for comprehension.
+If a reader has to notice the Cache or the Ashby name to follow the plot, it's been overused.
+
+## 3a. Protagonist per chapter
+
+| Ch. | Protagonist | Active choice/stake | Cache item left / connective note |
+|---|---|---|---|
+| 1600 | Tom | Leaves a keepsake with Mistress Ashby "till I'm back," an active bet against the odds she just gave him. | Keepsake — first item in the Cache. |
+| 1614 | Daniel | A Company man offers him money to keep quiet about Amboyna. Take the payoff, or talk anyway? | — |
+| 1701 | Nathaniel — a former Kidd crewman hiding in the crowd | Overhears that the exculpatory French passes were deliberately buried. Say what he knows and risk being hanged as a pirate himself, or stay silent? | **DRAFTED** — leaves a written account in the Cache. |
+| 1757 | Coates | Decides to go on record with the journalist about the fixed battle at Plassey, risking his pension and character. | — |
+| 1770 | Mulvey | Recognizes a grain-hoarding profiteer in the bar. Confronts him directly. | — |
+| 1790 | A sailor whose brother mutinied on the Bounty | Torn between relief his brother's alive and fear of the gallows if the connection is noticed. Claim it, or hide it? | — |
+| 1839 | The Chinese woman searching for her husband | Realizes Pemberton's cargo is why her husband never came home. Acts on it instead of just watching. | — |
+| 1858 | Harding | Offered a promotion contingent on the official version of Cawnpore holding. Take it, or blow it up in front of the room? | — |
+| 1880 | A Cutty Sark crewman who saw what really happened | Deciding whether to testify against Smith at trial or keep his berth. | — |
+| 1888 | Su | Already the model — no change needed. | — |
+| 1940 | Gwen | Sharpen with a personal stake: someone she loves is in the docks — why she won't leave her post. | — |
+| 2019 | An Ashby-line descendant who now runs/researches the pub | Finds what's been left under the counter across four centuries. | **Cache payoff chapter.** |
+
+Status: 1701 drafted this session as the test case. Remaining 10 chapters (1600, 1614, 1757, 1770,
+1790, 1839, 1858, 1880, 1940, 2019 — 1888 needs no change) still to be rewritten with these
+protagonists once the 1701 approach is confirmed.
 
 ## 4. Chapters to consider converting to live scene
 
