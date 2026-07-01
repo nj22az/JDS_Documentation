@@ -1,0 +1,212 @@
+# EIC — Outline & Craft Plan
+
+Working title: **The Front-Row Seat** — *Five Centuries of History from the Banks of the Thames*
+Conceit: the Prospect of Whitby (formerly the Devil's Tavern), Wapping, as a fixed witness to the
+East India Company from its 1600 charter to its 2019 afterlife as a tourist stop across the river
+from Canary Wharf.
+
+Status: 12 chapters drafted, spanning 1600–2019. Four chapters (Kidd, Bligh, Cutty Sark, Ripper)
+added this session to fill gaps in the original run of eight. This doc is the standing plan for
+turning the draft into a page-turner rather than an illustrated history. Update it as decisions
+get made — it's a working doc, not a monument.
+
+---
+
+## 1. What's already working — keep doing this
+
+- **The fixed-location conceit.** One bar, one river, five centuries. This is the spine an
+  anthology usually lacks and it's the book's single biggest asset. Don't dilute it by hopping
+  to other locations.
+- **The thesis, repeated with variation, not repetition.** Every chapter is the same argument —
+  institutions launder atrocity into arithmetic — approached from a different angle (a hanging,
+  a bribe, a famine, a drug empire, a massacre-and-reprisal, a dissolution, a case study). Keep
+  finding new angles on the same idea; don't state the idea more plainly.
+- **The barkeep as chorus.** Ashby → Hannah → Hannah. Good continuity already. See
+  Section 3 for making this a deliberate, payoff-able thread instead of a coincidence of naming.
+
+## 2. The core problem: every chapter has the same shape
+
+Arrival of a haunted witness → Company apologist states the cold logic → gut-punch monologue →
+closing paragraph about the river/tide/machine not caring. Once a reader clocks this (by chapter
+three), suspense drops to zero regardless of how good the history is. This is the single thing
+standing between "well-researched" and "page-turner."
+
+**Fix, in priority order:**
+
+1. **Give the reader something to track across centuries** (see Section 3) — the biggest lever,
+   because it turns "anthology" into "novel."
+2. **Convert 2–3 more chapters from reportage to live scene** (see Section 4) — the 1888 Ripper
+   chapter is the only one where we watch stakes unfold in real time rather than hearing about
+   them after. That's not an accident; it's why it's the most page-turner-shaped chapter in the
+   set. Do that at least twice more.
+3. **Ration the closing refrain** (see Section 5).
+
+## 3. The throughline — decided
+
+Every chapter gets an invented protagonist with a real, active, in-scene choice (the Su model:
+not a witness reciting what happened, someone deciding what to do about it). Per the author's
+explicit direction: **the protagonists are tools, not the story.** The Prospect of Whitby, London,
+and the history are the story. So the connections between protagonists across centuries have to
+work as background texture the building itself accumulates — not a family saga competing with
+the history for the reader's attention. A reader who never notices any of the connective tissue
+below should still get the complete book. A reader who does notice gets a second layer underneath
+the first. Three layers, load-bearing in this order:
+
+**(a) The Cache — the primary mechanism.** A hidden accumulation under the bar counter, seeded by
+Ashby's notches in 1600 (already in the text — one cut for every young man who signs and
+ships out). Several protagonists, at the moment of their active choice, leave something physical
+there: Tom's keepsake (1600), Nathaniel's written testimony about the missing French passes
+(1701), and others as each chapter is drafted. No protagonist knows about any other's item — only
+the building holds all of it. Paid off in 2019, when it's finally found and counted. This is the
+throughline that most directly embodies "the pub is the protagonist": the place remembers what
+the people never told each other.
+
+**(b) The keeper line — Ashby.** Ashby's trade (not necessarily her exact bloodline)
+recurs behind the bar at intervals — trained successors, a name passed down rather than a title
+deed. This explains, and makes deliberate, something already latent in the draft: "Hannah" already
+appears as the keeper across 1770, 1839, and 1858 — a 90-year span too long for one woman. Rather
+than treat that as an error to fix, treat it as the device: **Hannah is a name the keeper's trade
+carries, given to whoever's daughter or niece takes over the bar**, the way a trade name outlasts
+any one person holding it. One light line per appearance is enough — never a revealed twist, just
+the ordinary fact of how the place has always worked.
+
+**(c) One labor line — for texture, not plot.** Carter the chandler (1614) anchors a second
+thread: Wapping trades ran in families. A later docker can be his descendant, tying the book's
+existing Lascar → Somali dockworker echo (already in the 2019 chapter) into the same pattern —
+labor repeating under new names — rather than leaving it as a thematic coincidence.
+
+**Rule governing all three:** connections are seasoning, never load-bearing for comprehension.
+If a reader has to notice the Cache or the Ashby name to follow the plot, it's been overused.
+
+## 3a. Protagonist per chapter — DONE, all 12 chapters
+
+| Ch. | Protagonist | Active choice/stake | Cache item left / connective note |
+|---|---|---|---|
+| 1600 | Tom | Leaves a keepsake thimble with Ashby "till I'm back," an active bet against the odds she just gave him. | Keepsake thimble — first item in the Cache. |
+| 1614 | Daniel | A Company man (Pryce) offers him money to keep quiet about Amboyna. Refuses. | — |
+| 1701 | Nathaniel ("Fenner") — a former Kidd crewman hiding in the crowd | Overhears that the exculpatory French passes were deliberately buried; writes down what he saw rather than stay silent or expose himself publicly. | Written account of the passes — second item in the Cache. |
+| 1757 | Coates | Weighs his pension and reputation, then goes on record with the journalist about the fixed battle at Plassey. | — |
+| 1770 | Mulvey | Recognizes and confronts Aldridge, a grain-hoarding profiteer, present in the bar. | — |
+| 1790 | Alec Munro, whose brother Davy was aboard the Bounty | Claims the connection publicly when a stranger asks the room directly, rather than hide it. | — |
+| 1839 | Mei, searching for her husband | Realizes Pemberton's cargo (via "Lintin," "receiving ship") is why he never came home; confronts him directly. | Table-crack scar-tissue origin planted here (background scuffle, uninvolved with Mei/Pemberton/Hale). |
+| 1858 | Harding | A colonel offers him a DSO and promotion contingent on the official Cawnpore story holding; Harding repeats the true number in front of the journalist instead. | — |
+| 1880 | Coombs, a Cutty Sark crewman who saw what really happened | Weighs the career cost of testifying against Smith at trial (blacklisting by owners), testifies anyway. | — |
+| 1888 | Su | Already the model — no change needed. | — |
+| 1940 | Gwen | Personal stake made explicit: her son Peter is an AFS fireman in the docks; her post is also a vigil for him. | Her wartime notebook, kept back from the official ARP record — third item in the Cache. |
+| 2019 | Hannah ("the fourth of that name") | During a cellar refit, finds the Cache (thimble, Nathaniel's note, Gwen's notebook) and chooses to leave it exactly as found rather than report it. | **Cache payoff chapter.** Also pays off the lopsided-table scar-tissue gag (American tourist's husband wedges a coaster under it, oblivious). |
+
+Status: all 12 chapters now have an active protagonist. The Cache holds three items (1600, 1701,
+1940), found and left in place in 2019. Both scar-tissue pairs (Louie's chair 1701→1888; the
+table 1839→2019) are complete. Remaining open items are craft-level polish, not structure — see
+Sections 4, 5, and 7 below (live-scene conversion candidates, refrain rationing, and the
+Author's Note) plus a full continuity read-through before this is considered submission-ready.
+
+## 3b. Scar tissue — unexplained physical continuity
+
+A second, lighter connective device, separate from the Cache: small physical damage to the room
+itself, caused on-page by an incident in one chapter, then noticed — never explained — by an
+unconnected character in a much later chapter. No dialogue ever explains the origin; the payoff
+scene just shows someone reacting to the object as it is now. This mirrors details already
+latent in the draft (the cracked stool in 1600, "the floor is sticky in the same three places it
+has always been sticky" in 1757) — treat those the same way: leave them unexplained, don't
+retcon an origin for them unless one is wanted later.
+
+Rule: occasional only. Two or three pairs across the whole book, not one per chapter — if every
+chapter has a "remember this detail" moment it stops reading as texture and starts reading as
+homework.
+
+**Pairs established so far:**
+
+- **Louie's chair.** *Origin (1701, done):* a swing meant for one waterman misses and a flung
+  chair catches an uninvolved bystander, Louie, across the head instead — pure background
+  business during the Company table's conversation, never touching Nathaniel's plot. The chair
+  loses a leg and is propped, never discarded. *Payoff (1888, done):* the same chair, still
+  propped level "with a folded playbill for going on two centuries now," sits empty in the
+  corner — regulars know to leave it for last, nobody remembers why.
+
+**Queued for the upcoming rewrite pass (task: rewrite remaining 10 chapters):**
+
+- **The lopsided table.** *Origin, planned for 1839:* background scuffle (not involving the
+  Chinese woman, Pemberton, or Hale) knocks a table into the wall hard enough to crack a leg;
+  propped since with a wedge of wood. *Payoff, planned for 2019:* the hedge fund manager or the
+  American tourist rests a pint on a table that rocks, jams a coaster under the leg without
+  thinking about it, moves on — a small irony, given that chapter is explicitly about people not
+  noticing what's underneath things.
+
+Add new pairs sparingly if they occur naturally while rewriting — don't force one into every
+chapter just to hit a quota.
+
+## 4. Chapters to consider converting to live scene
+
+Reportage-after-the-fact is a legitimate device and shouldn't be abandoned everywhere — variety
+is part of what keeps the collection from feeling like a gimmick. But right now only two chapters
+have real-time stakes: 1888 (Su vs. Cray) and the bombing raid inside 1940. Candidates for a
+live-scene rewrite or a live-scene *insert* alongside the existing bar frame:
+
+- **1614 (Amboyna).** Currently entirely retrospective — Daniel recounts torture that happened
+  off-page, years earlier. A version that drops into the torture room itself, briefly, before
+  cutting back to the bar, would raise the stakes without abandoning the frame.
+- **1839 or the 1857 material.** Currently reached only through Pemberton's explanation and
+  Harding's testimony. A live smuggling run, or the actual Cawnpore relief-column arrival rather
+  than Harding's recollection of it, would work — though there's a real argument for *keeping*
+  Cawnpore as recollection-only, since restraint is doing real work there (see Section 6).
+
+## 5. Refrain rationing
+
+"The river doesn't care / keep score / remember" closes nearly every chapter. Rotate among the
+images that already exist in the text — river, tide, ledger, machine, fire — and cut the closing
+paragraph entirely from 3–4 chapters so it reads as a leitmotif returning at meaningful moments,
+not a sign-off. Suggested chapters to end *without* the refrain: 1701 (already ends on "it would
+not know how to answer if it were" — good, keep), 1790, 1880. Suggested chapters where the refrain
+should hit hardest and stay: 1770 (Bengal famine), 1858 (dissolution), 2019 (closing chapter of
+the book — the refrain should land here more than anywhere).
+
+## 6. Chapter order (current)
+
+```
+00  Frontmatter
+01  1600  The Boy Who Signed
+02  1614  The Man Who Came Back Wrong        (Amboyna)
+03  1701  Good for Business                   (Kidd — NEW)
+04  1757  A Soldier's Arithmetic               (Plassey)
+05  1770  What Mulvey Saw                      (Bengal Famine)
+06  1790  Forty-Seven Days                     (Bligh/Bounty — NEW)
+07  1839  What Pemberton Called Trade          (Opium)
+08  1858  What Harding Would Not Say           (Dissolution / Cawnpore)
+09  1880  The Hell Ship                        (Cutty Sark — NEW)
+10  1888  What Stopped Him                     (Ripper — NEW, only overtly fictional chapter)
+11  1940  A Warden's Watch                     (Blitz)
+12  2019  What the Suit Didn't See             (Present day)
+appendix  Timeline
+appendix  Bibliography
+```
+
+**Remaining gap:** 1614 → 1757 is still a 143-year jump with one chapter. Candidates to fill it,
+if another chapter is wanted before this goes to readers: 1793 Permanent Settlement, or 1799
+Seringapatam/Tipu Sultan. Not urgent — the jump reads fine as "the quiet build-up years" — but
+flagging it here so it's a decision, not an oversight.
+
+## 7. Author's Note — needed before this goes out
+
+Real people are given invented private dialogue (Kidd, Bligh, Clive, Mir Jafar, Wallace, Smith).
+One chapter (1888) invents a vigilante killer for an unsolved real murder case. Both are
+legitimate, well-precedented historical-fiction moves — but they need a short Author's Note
+(half a page, back of book) distinguishing documented fact from invention: which characters are
+real, which are composites, and that the 1888 resolution is fiction laid over an unsolved case,
+not a claim about who Jack the Ripper was. Costs nothing, buys a lot of credibility.
+
+## 8. Housekeeping note from this pass
+
+The original combined manuscript file had a stray `-e` artifact after every chapter (a shell
+echo bug from however the file was assembled). Stripped when splitting into individual chapter
+files — not present in any file under `manuscript/` now. Also corrected the timeline's Kidd entry
+from **1699** to **1701** to match his actual execution date (23 May 1701) and the chapter's own
+title — the original combined file had these disagreeing with each other.
+
+## 9. Packaging / comps
+
+Pitchable as *A Visit from the Goon Squad* meets Dalrymple's *The Anarchy*, told from one bar
+stool. Other shelf-mates: *Cloud Atlas* (nested time structure), Rutherfurd's *London*
+(generational saga on one city). The title-page framing (epigraphs, bibliography, timeline)
+already reads as "prestige narrative nonfiction" packaging — lean into that; it's a real
+differentiator against straight historical fiction.
