@@ -18,7 +18,7 @@ Three nights before, in a warm room in the City, an old woman put her seal to a 
 
 * * *
 
-## II. Mistress Ashby
+## II. Ashby
 
 She runs the place. Owns it, more likely, though nobody asks and she never says. Past forty, hands red from lifting and scrubbing, tough the way the stone in the old churches downriver is tough. She has buried two husbands and talks about it the way other women talk about the weather. Men die. You pour the ale and sweep the floor and get on with it.
 
@@ -28,7 +28,7 @@ He comes in around dusk, shaking rain off a cloak that has seen better years. Yo
 
 He has a paper in his pocket. He takes it out and smooths it flat on the bar and reads it the way a man reads a letter from someone he loves, or a sentence handed down by a judge.
 
-Mistress Ashby comes over. Stands in front of him with the rag over her shoulder and her arms folded, and looks at him the way a mother looks at a boy who has just told her he means to run off and join a circus.
+Ashby comes over. Stands in front of him with the rag over her shoulder and her arms folded, and looks at him the way a mother looks at a boy who has just told her he means to run off and join a circus.
 
 You are going to sign it, then.
 
@@ -90,7 +90,7 @@ Something flickers under his brightness — a man who knows he's about to do som
 
 ## IV. The Dragon's Lads
 
-The door opens an hour later and the wind brings in noise and cold and the smell of the river at night. Five or six men clump in from the waterfront, loud, salt-stiff, converting their wages into ale as fast as Mistress Ashby can pour it. One of them is missing two fingers on his left hand and doesn't seem to have noticed, which tells you something about what he has noticed instead.
+The door opens an hour later and the wind brings in noise and cold and the smell of the river at night. Five or six men clump in from the waterfront, loud, salt-stiff, converting their wages into ale as fast as Ashby can pour it. One of them is missing two fingers on his left hand and doesn't seem to have noticed, which tells you something about what he has noticed instead.
 
 The Dragon's lads, one of them announces to the room. Just in. Lancaster let us go.
 
@@ -112,7 +112,7 @@ Was it worth it? Tom asks. The voyage. Was it worth it?
 
 The sailor considers this properly, the way a man considers a question he hasn't let himself ask. The pepper was good. Very good. The rest of it — ask me again in ten years. If I'm still here.
 
-Mistress Ashby brings bread and cheese to the Dragon's men. They fall on it like wolves. She watches them eat with the look of someone counting — the ones who came back, the ones who didn't, the cost of pepper measured out in men.
+Ashby brings bread and cheese to the Dragon's men. They fall on it like wolves. She watches them eat with the look of someone counting — the ones who came back, the ones who didn't, the cost of pepper measured out in men.
 
 They were lucky, she tells Tom quietly, refilling his ale. Lancaster knew what he was doing. Most captains don't.
 
@@ -174,7 +174,7 @@ Tom stares at his ale. The brightness has gone out of his face, and what's repla
 
 The evening wears on. The Dragon's men get loud again, the way men do when they've drunk long enough for the fear to surface but not long enough to win. Singing, badly. One of them crying quietly into his ale — the way men cry in bars: not at all, and completely. Somewhere behind them, the snow bet from earlier is being loudly re-litigated — no snow yet, and the man who staked his supper on it is being reminded of this at length and without mercy.
 
-Mistress Ashby brings Tom bread and cheese he didn't ask for.
+Ashby brings Tom bread and cheese he didn't ask for.
 
 Eat. You won't eat like this for months. My second husband was at sea — told me. Salt beef till it walks off the plate.
 
@@ -186,7 +186,7 @@ Tom eats. Outside, the ships at anchor are dark shapes on darker water, masts sw
 
 Hendricks has gone silent at his end of the bar, watching Tom the way a man watches a ship he already knows is going to sink. Not pleasure. Not pity. Just recognition. The boy will go. The boy will sign. The odds are three in ten, and the boy is twenty-two, and the Dutch are still only a story.
 
-Mistress Ashby comes over one last time, refills his ale.
+Ashby comes over one last time, refills his ale.
 
 The charter was signed on New Year's Eve, she says. Old Queen Bess. Sixty-seven years old, and she signed a paper that said the Company could have the spice trade. Now here you are signing your own. She signs a paper. You sign a paper. Somewhere between the two papers, a great many men die. That's how it works, Tom. The people at the top sign. The people at the bottom die. The pepper comes back. The money comes back. The men don't.
 
@@ -194,7 +194,7 @@ He opens his mouth. Nothing comes out.
 
 He finishes his ale, stands, puts on his cloak. At the door he pauses, hand on the latch, and doesn't look back. The cold takes him. The dark and the mud and the river swallow him — the same as they've always been, indifferent to whether he comes back or not.
 
-The door closes. Mistress Ashby stands still behind the counter. Hendricks finishes his pint and leaves without a word. The Dragon's men are asleep, or close to it, and the fire is down to embers.
+The door closes. Ashby stands still behind the counter. Hendricks finishes his pint and leaves without a word. The Dragon's men are asleep, or close to it, and the fire is down to embers.
 
 He will sign the paper in the morning. He will get on the ship. This is how it works tonight, in this bar, on this river: a boy hears the odds, drinks his ale, and goes anyway. The river does not keep track.
 
@@ -204,7 +204,7 @@ Morning comes grey and wet. The river is loud enough to hear over the empty bar.
 
 The stool by the window sits empty, its crack settled into shape. On the table, a ring left by a tankard is already fading into the wood — one mark among hundreds still to come.
 
-Mistress Ashby is alone. She takes a knife from her apron and scores a small mark into the underside of the counter, low, where you'd have to duck to see it. There's already a crowd of them down there — one for every young man who sat on that stool with a paper in his pocket and walked out toward a ship. She stopped counting them long ago. She keeps cutting them anyway. It isn't superstition. It isn't a prayer. It's the one thing she's found to do with her hands that isn't standing at the window.
+Ashby is alone. She takes a knife from her apron and scores a small mark into the underside of the counter, low, where you'd have to duck to see it. There's already a crowd of them down there — one for every young man who sat on that stool with a paper in his pocket and walked out toward a ship. She stopped counting them long ago. She keeps cutting them anyway. It isn't superstition. It isn't a prayer. It's the one thing she's found to do with her hands that isn't standing at the window.
 
 The charter is a piece of paper in a locked room in the City. The Company is two hundred and eighteen names and a hold full of hope. Whether either is worth anything by Christmas, nobody in this bar could say. The ships go out. The boys sign. That's all that's known tonight, and it's all that needs to be.
 

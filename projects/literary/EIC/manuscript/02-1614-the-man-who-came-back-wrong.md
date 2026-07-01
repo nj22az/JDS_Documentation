@@ -40,7 +40,7 @@ His name is Daniel. Factor for the Company, stationed on one of the Spice Island
 
 What he found was the Dutch.
 
-Mistress Ashby comes over. Sets a tankard down without asking what he wants — you don't ask a shaking man what he wants, you just put ale in front of him.
+Ashby comes over. Sets a tankard down without asking what he wants — you don't ask a shaking man what he wants, you just put ale in front of him.
 
 Drink, she says. Not a suggestion.
 
@@ -50,7 +50,7 @@ He drinks. One pull, then another. The tremor slows. Doesn't stop. Slows is the 
 
 ## III. The Water
 
-It takes Daniel three days to talk. Three days of sitting, drinking ale he can't taste, flinching at the door. Mistress Ashby puts food in front of him. He pushes it round the plate. The other patrons give him room. The river does its business outside the window; the ale stays good; Daniel sits.
+It takes Daniel three days to talk. Three days of sitting, drinking ale he can't taste, flinching at the door. Ashby puts food in front of him. He pushes it round the plate. The other patrons give him room. The river does its business outside the window; the ale stays good; Daniel sits.
 
 On the fourth day, Carter comes in. Ships' chandler — rope, tar, canvas, whatever a vessel needs before it sails — big man, big voice, and he's known Daniel long enough to know he isn't just another broken sailor. Pulls up a stool. Orders two ales. Slides one across.
 
@@ -118,7 +118,7 @@ I'm not the man you married.
 
 No, she says. And I'm not the woman you married either. We can be new people together, or old people who don't fit anymore. But we work that out here. Not through three more years of silence.
 
-Mistress Ashby sets down bread, cheese, something that might be stew, and leaves without a word — she knows which moments in her bar are not hers to be part of.
+Ashby sets down bread, cheese, something that might be stew, and leaves without a word — she knows which moments in her bar are not hers to be part of.
 
 Daniel eats. Nell watches him, and for the first time since he walked through that door, his hands are still.
 

@@ -21,7 +21,7 @@ get made — it's a working doc, not a monument.
   institutions launder atrocity into arithmetic — approached from a different angle (a hanging,
   a bribe, a famine, a drug empire, a massacre-and-reprisal, a dissolution, a case study). Keep
   finding new angles on the same idea; don't state the idea more plainly.
-- **The barkeep as chorus.** Mistress Ashby → Hannah → Hannah. Good continuity already. See
+- **The barkeep as chorus.** Ashby → Hannah → Hannah. Good continuity already. See
   Section 3 for making this a deliberate, payoff-able thread instead of a coincidence of naming.
 
 ## 2. The core problem: every chapter has the same shape
@@ -53,7 +53,7 @@ below should still get the complete book. A reader who does notice gets a second
 the first. Three layers, load-bearing in this order:
 
 **(a) The Cache — the primary mechanism.** A hidden accumulation under the bar counter, seeded by
-Mistress Ashby's notches in 1600 (already in the text — one cut for every young man who signs and
+Ashby's notches in 1600 (already in the text — one cut for every young man who signs and
 ships out). Several protagonists, at the moment of their active choice, leave something physical
 there: Tom's keepsake (1600), Nathaniel's written testimony about the missing French passes
 (1701), and others as each chapter is drafted. No protagonist knows about any other's item — only
@@ -61,7 +61,7 @@ the building holds all of it. Paid off in 2019, when it's finally found and coun
 throughline that most directly embodies "the pub is the protagonist": the place remembers what
 the people never told each other.
 
-**(b) The keeper line — Ashby.** Mistress Ashby's trade (not necessarily her exact bloodline)
+**(b) The keeper line — Ashby.** Ashby's trade (not necessarily her exact bloodline)
 recurs behind the bar at intervals — trained successors, a name passed down rather than a title
 deed. This explains, and makes deliberate, something already latent in the draft: "Hannah" already
 appears as the keeper across 1770, 1839, and 1858 — a 90-year span too long for one woman. Rather
@@ -82,7 +82,7 @@ If a reader has to notice the Cache or the Ashby name to follow the plot, it's b
 
 | Ch. | Protagonist | Active choice/stake | Cache item left / connective note |
 |---|---|---|---|
-| 1600 | Tom | Leaves a keepsake with Mistress Ashby "till I'm back," an active bet against the odds she just gave him. | Keepsake — first item in the Cache. |
+| 1600 | Tom | Leaves a keepsake with Ashby "till I'm back," an active bet against the odds she just gave him. | Keepsake — first item in the Cache. |
 | 1614 | Daniel | A Company man offers him money to keep quiet about Amboyna. Take the payoff, or talk anyway? | — |
 | 1701 | Nathaniel — a former Kidd crewman hiding in the crowd | Overhears that the exculpatory French passes were deliberately buried. Say what he knows and risk being hanged as a pirate himself, or stay silent? | **DRAFTED** — leaves a written account in the Cache. |
 | 1757 | Coates | Decides to go on record with the journalist about the fixed battle at Plassey, risking his pension and character. | — |
