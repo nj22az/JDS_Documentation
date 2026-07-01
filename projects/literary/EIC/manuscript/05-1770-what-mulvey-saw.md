@@ -80,7 +80,37 @@ He goes quiet. The bar's noise comes back slowly, the way it does, because men c
 
 * * *
 
-## IV. The Gang
+## IV. Aldridge
+
+There is a man three stools down who has said nothing all evening, which in itself would be nothing worth noting, except that Mulvey has been watching him without meaning to since the moment he came in — well-fed, well-dressed in a way that doesn't belong to a Company clerk's wages, ordering claret instead of ale, the kind of comfortable that Bengal has not been kind to anyone else Mulvey has met this side of a collector's office.
+
+He knows the face. Not well — seen twice, three years apart. Once across a warehouse yard in Murshidabad, where sacks of rice sat under armed guard while a queue of starving people were turned away from it. Once at an auction months later, where the same rice sold for eleven times what it had cost to grow, to buyers who could still afford eleven times anything. The man's name was Aldridge then. It is, apparently, still Aldridge now, sitting in a London bar with a good claret and no memory at all, by the untroubled look of him, of a warehouse yard in Murshidabad.
+
+Mulvey stands. It's the first thing he's done all evening that isn't drinking, and the room notices the change in him before it notices where he's walking.
+
+You had grain, he says. Not loud. He doesn't need to be loud; the bar has already gone quiet around Hannah's stopped rag, around the gin, around the whole shape of the evening, and quiet carries further than shouting does. Murshidabad. Seventeen seventy. You had grain in a warehouse and armed men on the door, and you waited.
+
+Aldridge looks up slowly, the look of a man deciding whether an interruption is worth acknowledging. I'm sure I don't know you, sir.
+
+You wouldn't. I was one of the men counting the bodies your price put in the ground. Mulvey's hands are shaking again, worse than the gin's doing it this time. I watched you sell that rice in Calcutta for eleven times what you paid the peasant who grew it and couldn't afford a handful of his own crop back. I have your face. I don't forget faces that watched what I watched and felt nothing.
+
+Prices rise in a famine, Aldridge says, unhurried, the practiced calm of a man who has given this answer before and found it holds. That isn't hoarding. That's a market responding to scarcity. I didn't create the drought.
+
+You created the difference between a man who could still eat and a man who couldn't, Mulvey says. That was entirely your doing. Nobody else's.
+
+Aldridge sets down his glass. There is, for the first time, something behind his eyes that isn't quite composure — not guilt, nothing so useful as guilt, only the flat irritation of a man being made to discuss numbers he'd rather leave filed. I made a living within the law, in a country I did not choose to be poor. If you want someone to blame for ten million dead, sir, I'd suggest you start with the sky that didn't rain, not the man who happened to own a warehouse when it didn't.
+
+For a moment it looks as though Mulvey might go further than words — his hand has closed on the back of a chair, knuckles gone white the way they haven't since Bengal — and the room holds its breath the way rooms do when a quiet man looks suddenly capable of something. Then his hand opens. He has not come this far, he seems to decide, to be hanged for the one man in England he can actually reach.
+
+I hope you remember my face too, one day, he says instead, quieter now. I hope it costs you a night's sleep eventually. Somewhere. Some year.
+
+Aldridge doesn't answer that. Finishes his claret at his own pace, the way a man finishes a drink he intends to enjoy regardless of the company, and signals Hannah for the reckoning. He leaves without hurrying, and the door closing behind him makes no more sound than it ever does.
+
+Mulvey sits back down. His hands don't stop shaking for the rest of the night, though whether that's the gin or something else, nobody in the bar could rightly say, least of all him.
+
+* * *
+
+## V. The Gang
 
 He comes in like weather. Big, not tall — the particular thickness of a man who moves other men around for a living. A face that looks like it enjoys its work, which, given what the work is, is the worst thing about him.
 
@@ -100,7 +130,7 @@ He finishes, stands, puts on his hat, and leaves — and the bar exhales the way
 
 * * *
 
-## V. The Man from the Water
+## VI. The Man from the Water
 
 He comes in the side door, the one the delivery boys use. Small. Indian. Clothes that aren't his, given to him or taken off a pile. A Lascar — one of the thousands the Company ships across the world and pays less than English crew, and abandons here once the unloading's done, because passage home costs money and the Company's accounts don't have a line for it.
 
@@ -112,7 +142,7 @@ Three words holding a life in them. He finishes the bread, drinks the water, and
 
 * * *
 
-## VI. What the Machine Keeps
+## VII. What the Machine Keeps
 
 The press officer comes back later, cheerful the way men are cheerful after doing violence. Mulvey is still at the bar, on his fourth or fifth gin now. The Lascar still has his corner.
 
@@ -144,7 +174,7 @@ Mulvey and the Lascar don't speak again. They don't need to. A clerk who watched
 
 * * *
 
-## VII. What the River Knows
+## VIII. What the River Knows
 
 They leave eventually, all three, back into whatever the night has for them. The bar holds what's left — ale, and a room that has heard this shape of story before, told by different men in different years, always with roughly the same ending.
 

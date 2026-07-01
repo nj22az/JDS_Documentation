@@ -44,6 +44,12 @@ Something comes out of Coates that might be a laugh. Plassey. Right. He drinks. 
 
 Everything you can tell me.
 
+Coates doesn't answer straightaway. He's doing the arithmetic — the same kind of arithmetic a man does before he steps off a boat he already suspects won't float. His pension came from the Company, same as every soldier who served under its colours in Bengal, and the Company has never yet needed much of a reason to find a pension lapsed. Clive is a name spoken with reverence in every coffee house from here to Cornhill; a sergeant who tells a stranger with a notebook that the whole battle was bought and paid for is a sergeant calling the nation's newest hero a fraud, in public, on the record, for a member of Parliament to read at his breakfast. There is no version of that sentence that doesn't cost him something. He has turned the question over more nights than this one, alone with a bottle, weighing what the truth is worth against what it would take from him, and has never once reached an answer that held past morning.
+
+Tonight, four tankards into the question, it holds long enough.
+
+All right, he says. Something in him has already decided, the way a man decides to jump before his legs have quite caught up with the fact of it.
+
 * * *
 
 ## III. The Fixed Fight

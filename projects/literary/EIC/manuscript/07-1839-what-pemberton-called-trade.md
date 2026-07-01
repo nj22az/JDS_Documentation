@@ -16,6 +16,8 @@ The bar is busier than it used to be, and the men in it have changed kind, not j
 
 A ship passes the window. Then another. Then three more, heading downriver, sitting deep and loaded. The men at the bar glance up — the look of men who know exactly what's in those holds and are pleased about it.
 
+Behind the bar's regular business, a card game two tables over tips suddenly physical — a disputed deal, a shove, a stumbled step backward into a table that catches the falling man across the shin instead of anything softer. By the time the argument's settled the table's back leg has gone from merely old to permanently wrong, cracked at the joint. Someone wedges a folded receipt under it before the night's out, and nobody gives it a second thought.
+
 * * *
 
 ## II. The Supercargo
@@ -96,7 +98,7 @@ She moves to the window, not the bar. Hannah approaches, asks if she can help. T
 
 My husband. Company ship.
 
-Four words. All the English she has. She shows Hannah a letter, worn soft from handling — a husband last seen boarding a Company vessel in Canton two years ago, bound for London, a cargo of tea and a promise to return.
+Four words, carefully chosen. It's all the English she means to spend on a barkeep who couldn't give her what she needs even with the whole language at her disposal — Mei has more of it than that, saved up the way a woman saves a little money nobody knows about, for when it will actually buy something. She shows Hannah a letter, worn soft from handling — a husband last seen boarding a Company vessel in Canton two years ago, bound for London, a cargo of tea and a promise to return.
 
 She watches the river the way you watch a door you're expecting someone through. Tracks every ship from the moment it appears to the moment it's gone round the bend. She has crossed an ocean to stand in a bar and look for one face on one deck, and the odds of finding it are close enough to nothing that nobody in the room says so out loud.
 
@@ -122,6 +124,30 @@ I follow the chain, Hale cuts in. It ends in a room in Canton with a man on a ma
 
 Pemberton opens his mouth. Closes it.
 
+It's at this point that Mei leaves the window.
+
+Nobody has looked at her directly all evening — the room has arranged itself around her silence without quite acknowledging it, the way people accommodate a piece of furniture — and so nobody quite registers her crossing the floor until she's standing close enough to Pemberton that he has to look down to find her.
+
+Lintin, she says.
+
+Pemberton blinks. I beg your pardon.
+
+Lintin, she says again, and this time she says more, in her own language, fast and low, words that mean nothing to anyone else in the room, though the shape of them — grief worn down into something closer to accusation — needs no translating at all. Then, slower, in English assembled with care rather than fluency, each word set down like a stone she's testing before she puts her weight on it: My husband. Ship go Lintin. Two year. No letter. You. Opium. You know.
+
+The bar has gone very quiet. Pemberton, for once all evening, does not have a shrug ready.
+
+I don't know your husband, madam, he says, and it might even be true, and it changes nothing about the way she's looking at him.
+
+You know the ship, she says. You know Lintin. You know receiving ship. She says the last two words with particular care, the way Hale said them not five minutes before, and the room understands, in the same half-second Pemberton does, that she's been standing at that window listening to every word of an argument he thought was between two Englishmen, and has done, in her own head, the same arithmetic he traces so easily in spilled ale on a bar top — a ship, a cargo, a habit, a silence where a husband used to be.
+
+I sell opium at auction in Calcutta, Pemberton says, and there is, for the first time tonight, something in his voice that isn't quite performance. What happens to it after leaves my hands. I have never set foot on a receiving ship at Lintin in my life.
+
+But you know what happens on them, she says. Not a question.
+
+Pemberton doesn't answer that. It is, everyone in the room seems to understand at the same moment, the closest thing to an answer he has left in him tonight.
+
+Mei holds his eyes a moment longer than is comfortable for either of them, then turns and walks back to the window — not because she's finished, but because there's nothing further this particular room can give her. She has said what she came to say to the one man in it who might actually have known enough to answer, and he has told her, in the only language that matters, that he does.
+
 There's talk in Parliament, a Company man at the bar says — good coat, a watch, been listening and decided to join in. They're sending an envoy. Commissioner Lin. Already seized stock in Canton.
 
 Twenty thousand chests, Hale says. Seized and destroyed. Dumped in the river. And the Chinese aren't apologising for it.
@@ -140,9 +166,9 @@ Hale looks at him. At Pemberton. At the window, where the woman still stands. It
 
 The bar empties slowly, then all at once. Pemberton leaves first, nodding to the room like a man who's given a well-received lecture. The Company man goes with him, already talking business again.
 
-Hale stays a while longer, hands slowing to the shake of a clock running down. Then he glances at the woman, starts toward her as if to help, and stops — there's nothing to say that would reach her, in any language. He leaves without saying it.
+Hale stays a while longer, hands slowing to the shake of a clock running down. Then he glances at Mei, starts toward her as if to help, and stops — there's nothing left to say that would reach her, in any language. He leaves without saying it.
 
-Hannah is the one who finally helps. Gives the woman directions to a shipping office, somewhere the names on Company manifests might be recorded, if anyone thought it worth recording them. The woman takes the directions the way she holds her four words of English — carefully, with both hands, unwilling to lose anything else tonight. She looks at the river once more and goes out into the cold to keep looking.
+Hannah is the one who finally helps. Gives Mei directions to a shipping office, somewhere the names on Company manifests might be recorded, if anyone thought it worth recording them. Mei takes the directions the way she took her own four words of English earlier — carefully, with both hands, unwilling to lose anything else tonight. She looks at the river once more and goes out into the cold to keep looking.
 
 The bar is empty. The smell is still there, faint under the salt — a flower that travelled ten thousand miles to sit in this room while the ale goes on being good. The triangle is complete again tonight, as it is most nights. Poppy grown, opium sold, silver moved, tea in British cups, money in Company ledgers. Addicts in Canton. A peasant in Bengal who has never heard of any of them. A woman somewhere in the London dark, still looking.
 

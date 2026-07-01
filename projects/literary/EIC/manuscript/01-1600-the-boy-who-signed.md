@@ -192,6 +192,14 @@ The charter was signed on New Year's Eve, she says. Old Queen Bess. Sixty-seven 
 
 He opens his mouth. Nothing comes out.
 
+Then, instead of anything he might have said, he does something instead. Reaches into his coat and comes out with the one thing in it worth more than the coat — a plain brass thimble, his mother's, the only piece of her he kept when there was nothing else worth the keeping. He sets it on the bar between them, not quite meeting her eye.
+
+Keep this, he says. Till I'm back.
+
+Ashby looks at the thimble, then at him, and doesn't reach for it straight away — she has held out her hand for enough of these to know what it costs a man to leave one. When she does pick it up, she doesn't make a show of it. Closes her fist around it the way she'd close a fist around a coin she meant to keep separate from the till.
+
+Till you're back, she says. Not agreeing. Not disagreeing. Just repeating it, the way you repeat a wager back to the man who's made it, so there's no confusion later about what was said.
+
 He finishes his ale, stands, puts on his cloak. At the door he pauses, hand on the latch, and doesn't look back. The cold takes him. The dark and the mud and the river swallow him — the same as they've always been, indifferent to whether he comes back or not.
 
 The door closes. Ashby stands still behind the counter. Hendricks finishes his pint and leaves without a word. The Dragon's men are asleep, or close to it, and the fire is down to embers.
@@ -205,6 +213,8 @@ Morning comes grey and wet. The river is loud enough to hear over the empty bar.
 The stool by the window sits empty, its crack settled into shape. On the table, a ring left by a tankard is already fading into the wood — one mark among hundreds still to come.
 
 Ashby is alone. She takes a knife from her apron and scores a small mark into the underside of the counter, low, where you'd have to duck to see it. There's already a crowd of them down there — one for every young man who sat on that stool with a paper in his pocket and walked out toward a ship. She stopped counting them long ago. She keeps cutting them anyway. It isn't superstition. It isn't a prayer. It's the one thing she's found to do with her hands that isn't standing at the window.
+
+Tom's thimble goes into the same gap, wedged back against the old wood where a notch can't be mistaken for a promise. She doesn't expect to see it collected. She has never once been wrong about that, and doesn't expect this morning to be the first time.
 
 The charter is a piece of paper in a locked room in the City. The Company is two hundred and eighteen names and a hold full of hope. Whether either is worth anything by Christmas, nobody in this bar could say. The ships go out. The boys sign. That's all that's known tonight, and it's all that needs to be.
 

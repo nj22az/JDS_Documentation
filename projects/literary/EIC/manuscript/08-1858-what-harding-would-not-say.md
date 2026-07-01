@@ -74,7 +74,45 @@ Hannah pours him another without being asked, and sets it down gentle, and doesn
 
 * * *
 
-## V. Ten Point Five
+## V. The Citation
+
+He isn't gone an hour before someone else walks in who's clearly heard the same conversation secondhand and travelled a good deal faster than good sense to get here — a colonel, older than Harding, greyer, a chest of ribbons that says he'd already earned his name a long time before Cawnpore gave the country a new word to be sick about. Harding knows him. Served under him, briefly, on the relief column itself.
+
+Sir, Harding says. Flat. Neither surprised nor pleased.
+
+The colonel doesn't sit. Word travels fast in a town this size, Captain, even to a public house in Wapping. I'm told you've been talking to a journalist. In a room full of strangers.
+
+I've been answering his questions, sir.
+
+The journalist, three stools down, goes very still, pencil held but not moving, doing what every good newspaperman does in a moment like this, which is nothing at all that might make anyone stop.
+
+There's a Distinguished Service Order in the pipeline for the officers who served at the relief, the colonel says, to Harding, though every word of it is pitched to carry. Yours among them. A majority to follow within the year, I'd expect, given the gaps that need filling.
+
+Harding says nothing. He has learned, this past year, exactly how much silence a man can produce when he needs to.
+
+There is a version of the relief of Cawnpore this country needs to hear, the colonel goes on. Sepoy butchery. British soldiers arriving too late to save the innocent, in time only to exact a measured justice. That version is in every paper in England already, and it happens to be substantially true. What serves nobody — least of all the men who served with you, Captain — is a word like Devil's Wind spoken in a bar by an officer whose name will end up in the same paper that prints his citation.
+
+You want me to leave out the cannons, Harding says.
+
+I want you to remember that a report and a confession aren't the same document, and only one of them is anyone's business but your own. Take the DSO. Take the majority. Let the country have the version it can live with. You've earned the quiet life that comes after this; don't spend it telling strangers in bars the parts that don't fit the citation.
+
+Harding is quiet long enough that the colonel allows himself, for a moment, something like reassurance — the look of a man who believes the matter is nearly settled.
+
+Then Harding says, loud enough this time that nobody in the room has to strain for it: How many men did we tie to those guns, sir? You were there. You know the number I gave this young man wasn't invented for effect.
+
+The colonel's face doesn't move, though something behind it does. That number appears in no report I have signed, Captain, and it will not appear in yours either, if you'd still like to be wearing a uniform this time next year.
+
+Then I expect I'll be wearing this one a good deal longer than that, Harding says. Quietly. Not a challenge. Just an answer, the kind a man gives once he's worked out what it costs and decided he can afford it, or decided he can't afford the alternative, which comes to the same thing by the end.
+
+The colonel looks round the room once — the journalist, very obviously not writing; Hannah, very obviously not listening; a handful of regulars doing an excellent impression of men absorbed entirely in their own drinks — and seems to measure, in that one glance, exactly how much damage has already been done and how little more a scene would repair. He straightens his coat.
+
+That's your choice to make, Captain, he says, and something almost like respect moves under the words before it's put away again. I'll say you were unwell today. Buys you a week, perhaps, before someone else asks.
+
+He leaves. Harding sits with his gin — DSO and majority both still notionally his for the taking, for now — and doesn't touch either subject again. The journalist's pencil starts moving once more the moment the door shuts, faster than before.
+
+* * *
+
+## VI. Ten Point Five
 
 He arrives like a man arriving at his own birthday party. Seventy or more, gold buttons, shoes polished to blind a man at thirty paces. The bar makes room for him the way rooms make room for money without quite deciding to.
 
@@ -90,7 +128,7 @@ He says it with no irony at all. It's simply how the world is arranged. India ha
 
 * * *
 
-## VI. The Story Finds Its Shape
+## VII. The Story Finds Its Shape
 
 The journalist can't help himself — the story's too close now. Sir — the government's guaranteeing your dividends. Paid for by Indian taxes.
 
@@ -118,7 +156,7 @@ He puts on his hat, looks once at Harding the way a man looks at a mirror he'd r
 
 * * *
 
-## VII. The Machine Remembers
+## VIII. The Machine Remembers
 
 They're all gone now — Harding first, gin still standing untouched and going flat; the journalist next, already composing his headline; the shareholder before that, gold buttons and all. Hannah wipes the counter with the slow, unseeing motion of a woman whose hands are working while her mind does something else.
 

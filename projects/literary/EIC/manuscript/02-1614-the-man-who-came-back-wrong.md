@@ -90,7 +90,41 @@ Daniel doesn't answer. He's back in a room in Amboyna, water in his lungs. Cotto
 
 * * *
 
-## IV. The Woman Who Came Looking
+## IV. The Offer
+
+Word travels. It always does, in a bar this close to the docks — what Daniel told Carter is halfway round Wapping within the week, dressed up a little more with each telling, though nobody who's added to it has managed to make it worse than the plain truth already was.
+
+The Company hears it too. Word like that always finds its way back to Leadenhall Street eventually, and Leadenhall Street does not care for it.
+
+He comes in on a Tuesday, a man Daniel's never seen before — precise coat, precise voice, the kind of politeness that has been trained rather than felt. Introduces himself as Pryce, on the Company's business, and sits without being asked, the way men do when they've decided in advance that the seat is theirs.
+
+The Company is grateful for your service, Pryce says. Batavia. Two years a prisoner, and you came home able to hold a pen and keep a ledger, which is more than some men manage after less. Surat's been good to you, I hope.
+
+Daniel says nothing. He has learned, this past year, that saying nothing is the safest answer to most sentences that start with the Company is grateful.
+
+There's a difficulty, Pryce goes on. Talk. In bars. About Amboyna. About the passes, the questioning, the numbers. It does the Company no good, and it does you no good either, dwelling on it the way you have been. We could improve your situation considerably. A better posting. A clerk's wage doubled. Whatever debts your family carries, cleared. In exchange for — Pryce chooses the word with visible care — quiet. Just quiet. Let the thing rest where it lies.
+
+Daniel looks at him for a long moment. You want me to stop telling people what happened to Towerson.
+
+I want you to consider your own future, Pryce says. Nothing more sinister than that.
+
+Ten Englishmen went into a room, Daniel says. Ten Japanese. I watched them take the first one out, and I heard the rest of it through a wall for two days before they came for me. You are offering me money to stop saying that sentence out loud.
+
+I am offering you a better life than the one you've currently arranged for yourself, Pryce says, unbothered. Most men would take it without needing it explained twice.
+
+Daniel picks up his ale. Drinks half of it before he answers, giving himself the time Nell taught him to take, instead of saying the first thing that arrives.
+
+No, he says, finally. Not because I want to be poor. Because I've already paid what this cost once, and I'm not selling it a second time.
+
+Pryce doesn't argue. Men like Pryce never argue with an answer, only note it. He finishes what's left of his own drink, sets a coin on the bar for it precisely, and stands.
+
+You'll have the same posting tomorrow that you had yesterday, he says. Nothing changes because of this conversation. I'd only ask you to consider how much less it costs everyone if the story simply stops being interesting.
+
+He leaves. Daniel sits a while with the offer where Pryce left it, turning it over slowly, the way he turns over most things now, before setting it down for good.
+
+* * *
+
+## V. The Woman Who Came Looking
 
 She comes in on a Friday. Not young, not old. Dust on her shoes, a thin shawl, the particular set of a woman who has walked further than she meant to because there was no choice about it.
 
@@ -124,7 +158,7 @@ Daniel eats. Nell watches him, and for the first time since he walked through th
 
 * * *
 
-## V. Cotton
+## VI. Cotton
 
 Carter's back most evenings, treating the bar like an annex of his shop. Tonight he's got news, and Carter with news is Carter at full volume.
 
@@ -150,7 +184,7 @@ The Company's factories are becoming forts — walls going up in Surat, cannon o
 
 * * *
 
-## VI. The Walls Get Higher
+## VII. The Walls Get Higher
 
 Years pass. The bar fills and empties and fills again — same cycle, same ale, slowly improving. Daniel and Nell come in less often now, and when they do, it's a different quiet than the one he walked in with. Companionable. The quiet of two people who've said the worst of it out loud and are still sitting next to each other.
 
