@@ -26,7 +26,9 @@ The regulars come in earlier now, before the sirens can catch them outside. They
 
 Gwen comes in at half six. Steel helmet, gas mask case on her hip, ARP badge that gives her the authority to send people to shelter and no authority at all over where the bombs actually land.
 
-She takes the corner table — her post, every night, because from there she can see the river, and the bombers use the river as their road straight to the docks five minutes' walk from this table. She opens a small notebook, blue cover, pencil in the spine, and writes. Date, time, location, damage. She's kept it since the seventh of September, the first night, three hundred and forty-eight bombers turning the docks into a furnace.
+She takes the corner table — her post, every night, because from there she can see the river, and the bombers use the river as their road straight to the docks five minutes' walk from this table. It isn't only the view that keeps her here. Her son Peter is an Auxiliary fireman, nineteen years old, assigned to the pumps at the Surrey Commercial most nights this month, and from this table, on a clear one, she can sometimes make out the glow of wherever his crew's working before the smoke closes over it. She has never told anyone that's the real reason for the corner table. Let them think it's for the record. The record is real too. It just isn't the whole of it.
+
+She opens a small notebook, blue cover, pencil in the spine, and writes. Date, time, location, damage. She's kept it since the seventh of September, the first night, three hundred and forty-eight bombers turning the docks into a furnace.
 
 Hannah brings her tea she won't drink. Never does. She writes instead.
 
@@ -82,7 +84,7 @@ He's doing better than he thinks. Still upright. Still talking. Still drinking, 
 
 He comes in after the Canadian's been talking an hour. Old — sixty-five, seventy, hard to say — built short and wide with the enormous hands of a man who's spent fifty years lifting things not meant to be lifted.
 
-A docker since 1918, when he was fifteen and his father walked him down to the water and told him this was his life now. He's worked every dock on the river. Sits next to the Canadian without introducing himself — doesn't need to, everyone here knows him, his father drank in this room, so did his grandfather.
+A docker since 1918, when he was fifteen and his father walked him down to the water and told him this was his life now. He's worked every dock on the river. Sits next to the Canadian without introducing himself — doesn't need to, everyone here knows him, his father drank in this room, so did his grandfather, and his grandfather's grandfather ran a chandler's shop off the Causeway two centuries back, supplying rope and tar to Company ships — a name, Carter, that means nothing to anyone in the room tonight except the docker himself, and even he only remembers it because his mother mentioned it once, in passing, the way families mention names that used to matter and don't anymore.
 
 He listens to the talk of global networks and supply chains and snorts.
 
@@ -110,7 +112,7 @@ The sirens start at quarter to nine. Nobody moves at first. Then the engines get
 
 The first bomb is close. The building doesn't rattle — it shakes. Glasses leap off the shelf and shatter. The blackout paper tears free in strips, and orange light comes through where black should be. The docks, burning again. Or still.
 
-Everyone hits the floor. Even the old docker, who's spent weeks insisting he isn't afraid of bombs, who has a scar from the last war to prove it — under the table now with the rest of them. The Canadian's curled under the bar making a sound that isn't quite a word. Gwen stays at her table, writing through the falling plaster, because the record is the one thing keeping her upright while everything else is on the floor.
+Everyone hits the floor. Even the old docker, who's spent weeks insisting he isn't afraid of bombs, who has a scar from the last war to prove it — under the table now with the rest of them. The Canadian's curled under the bar making a sound that isn't quite a word. Gwen stays at her table, writing through the falling plaster, eyes going to the window between lines — not for the bomb's sake, but for the glow beyond it, checked against the memory of where Peter's crew was working when she last had word, which was two days ago and might as well be two years for all the comfort it gives her now. The record is the one thing keeping her upright while everything else is on the floor. It is also, tonight, the only kind of watching over him she's allowed to do out loud.
 
 The bomb lands two streets off — close enough to strip a warehouse roof and every window on this side of the lane. The Prospect stands. Dust sifts from the beams, a shelf of bottles goes over, and the building holds, the way it has through three hundred years of a city trying to fall down around it. Two streets east, a terrace that predates the Company's own dissolution simply isn't there by morning. There's no accounting for which buildings the bombs choose. There never is.
 
@@ -136,7 +138,9 @@ Twenty-nine thousand bombs is tonight's running total in Gwen's notebook — not
 
 The old docker sits with his pint and says nothing more. It's in his face when he looks east. Whatever's left of the world he spent fifty years working will not look tomorrow the way it looked yesterday, and he's stopped expecting it to.
 
-Gwen closes the notebook. Tonight's entry is finished. She doesn't know how many more the war will ask of her and has given up asking herself. She only knows the book has to be kept, night after night, so someone, eventually, can say exactly what happened and when.
+Gwen closes the notebook. Tonight's entry is finished. She doesn't know yet whether Peter's crew was anywhere near tonight's line, and won't know until he either walks through that door in the morning, soot-blackened and short a few hours' sleep, or doesn't. The book can't tell her that. She keeps it anyway. She doesn't know how many more the war will ask of her and has given up asking herself. She only knows the book has to be kept, night after night, so someone, eventually, can say exactly what happened and when.
+
+This one's nearly full — has been for a week, the last third given over to numbers with barely a person left to hang them on — and ARP headquarters wants it handed in when it is, filed with the others as the official record. Gwen means to hand it in. She's meant to for three nights running. Instead, when it's done, she tucks it into the gap under the bar's far end, the one Hannah showed her once, half-joking — this is where the old stuff goes — and starts the next volume on a headquarters blank instead. Some of what's written in this one is hers alone, Peter's name more than once, in places no ARP report has any business asking after, and she isn't ready yet to hand that part over to anyone's filing cabinet but this building's.
 
 The river doesn't care about any of it. It was here before the Company, before London, and it goes on carrying the ash and the oil slick and the debris of ships that didn't make it, silently, the way it always has. The Thames is not a witness. It's a river. Witnesses remember. Rivers just flow.
 

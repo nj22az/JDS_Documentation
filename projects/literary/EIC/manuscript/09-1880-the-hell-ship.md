@@ -20,7 +20,17 @@ The bar wants the whole of it, the way a bar always wants the whole of a thing t
 
 * * *
 
-## III. Smith and Francis
+## III. Coombs
+
+There's a man at the end of the bar tonight who hasn't said a word through any of this, which is itself worth noting, because he's the only one in the room who doesn't need the story told to him secondhand. He was aboard her. Ordinary seaman, signed on the same voyage as Francis, and one of the four Wallace put in irons when the crew refused to sail on for Japan.
+
+His name is Coombs, though nobody at the bar tonight has asked it, and he hasn't offered it. He's been back in London three weeks, still finding his legs on dry ground, still waking some nights with the particular flat calm of the Java Sea in his ears — three days of no wind, and a captain who wouldn't come up from his cabin until the fourth morning, when he came up for the last time.
+
+He lets the bar tell its version. It's mostly right. He doesn't correct the parts that are wrong, because correcting them would mean explaining how he knows, and he isn't ready, tonight, to be the man in the room who was there.
+
+* * *
+
+## IV. Smith and Francis
 
 The mate's name is Sydney Smith. Bully, by every account that's reached London — the kind of officer who finds a reason to work a man past reason and calls it discipline. The seaman is John Francis, signed on in Cardiff, willing enough but green at the work, which on a ship like this one is close to an unforgivable sin. Smith rode him from the first week.
 
@@ -30,7 +40,7 @@ An old rigger at the end of the bar, who has sailed under men like Smith more th
 
 * * *
 
-## IV. What Wallace Did
+## V. What Wallace Did
 
 Captain Wallace confines Smith to his cabin — twenty-five years old, his first command, a young man trying to do the correct thing by a bad situation. Correct lasts until they raise Anjer. There, by every account reaching this bar, Wallace disposes of the iron bar himself and lets his mate go over the side onto a passing American ship, gone, no trial, no answer for a dead man three days cold in the ship's own wake.
 
@@ -42,7 +52,7 @@ The bar is quiet for a moment that has nothing to do with the ship's reputation 
 
 * * *
 
-## V. Two Old Company Men
+## VI. Two Old Company Men
 
 At the corner table, two men who spent their working lives on Company pensions before the Crown took the whole business over have been listening without much visible feeling.
 
@@ -54,9 +64,19 @@ Neither of them asks what happened to Francis's family, or whether anyone told t
 
 * * *
 
-## VI. What Becomes of Smith
+## VII. What Becomes of Smith
 
 It is two years before the rest of it reaches this bar, carried the same way — ship's gossip, a line in a newspaper somebody reads aloud. Smith is caught in London at last, recognised on the street despite a new name, and stands trial at the Central Criminal Court for the killing of John Francis.
+
+Coombs is in the bar again the week the trial's announced — a different man than he was two years back, steadier, in work again, a mate's rating this time instead of ordinary seaman, which is either proof that irons don't follow a man forever or proof that most owners never bothered to ask why he'd been in them. He's had a letter. Solicitors, acting for the Crown, asking whether he'd be willing to give evidence as to the events aboard, given his presence at the time and his refusal, on record, of Wallace's orders.
+
+He sits with the letter open on the bar in front of him for the better part of an hour, not drinking much, not talking at all, while the old rigger and the others rehearse the story around him the same as they always do, none of them aware they're doing it in front of the one man who could correct every detail that's wrong.
+
+A mate's rating isn't nothing, he says eventually, to no one in particular, or to Hannah, who happens to be nearest. Owners talk. An officer stands up in the Central Criminal Court and says a captain covered up a killing, and there's men who'll remember that name a good deal longer than they remember why he said it. Won't matter that I was right. Some captains hire steady men. Some hire men who don't ask awkward questions in court. It isn't always the same list.
+
+Nobody answers him, because nobody in the bar has realised yet that he's asking the question out loud for the first time, and by the time they work out what conversation they've just overheard, he's already folded the letter back along its creases and put it away.
+
+He gives the evidence. Whatever it costs him afterward, in berths not offered and captains who remember a name for reasons that have nothing to do with seamanship, isn't the kind of thing that makes it back to a Wapping bar in the retelling. Some costs are paid privately enough that even a room this good at collecting stories never hears the bill.
 
 Manslaughter, the verdict comes back. Not murder. Seven years, most of it breaking stone on the breakwater at Dover.
 
@@ -68,7 +88,7 @@ Nobody in this bar asks what becomes of the family Francis left behind. The news
 
 * * *
 
-## VII. What the River Carries
+## VIII. What the River Carries
 
 Cutty Sark herself is back on the river tonight, moored downstream, home from whatever tramp voyage has occupied her since — nobody at this table has kept close enough track to say which ports, only that she came back under a captain nobody's heard a bad word about yet, which these days counts as good news. She is, by any measure the men in this bar care to use, one of the most beautiful things ever built to cross water. She is also, in the telling that's followed her these two years, a ship men still call cursed, and both of those things are true at the same time without either one cancelling the other out.
 

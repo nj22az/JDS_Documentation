@@ -54,6 +54,8 @@ That's old, he says, with the reverence of a man from a country that calls 1975 
 
 She photographs the bar, the fireplace, the river, him, then both of them, then reviews and deletes two and takes one more. Behind them, a man at the bar is trying to convince his mate that the football score he's just been texted cannot possibly be right, and won't be talked down from it.
 
+Her husband rests his pint on the small table by the window and it rocks, just slightly, enough that the beer threatens the rim. He glances underneath, finds nothing obviously wrong, shrugs, and folds his coaster in half, wedging it under the short leg the way people have apparently been doing at this exact table for the better part of two centuries. Fixed, he says, pleased with himself, and doesn't think about it again for the rest of the evening, which is exactly how a two-hundred-year-old repair is supposed to go unnoticed.
+
 Five hundred years of people drinking here, she says, sitting now with her Pimm's. Can you imagine?
 
 That's a lot of beer, he says. She laughs.
@@ -116,11 +118,29 @@ The river doesn't care who's drinking and who's carrying tonight. It carries the
 
 * * *
 
-## VII. What Doesn't Show in the Photograph
+## VII. What Hannah Found
+
+The refit happens in January, when the tourist season's thinnest and the brewery finally agrees to the new cellar cooling system it's been promising since the autumn. Three days, the contractors say. It takes five, because nothing about a building this age goes to schedule, and on the third day, pulling the old bar counter away from the wall to run a cable behind it, one of them finds a gap in the timber that isn't structural — too regular, too deliberately worked, low enough that you'd have to duck and reach to find it at all.
+
+Hannah — the fourth of that name to keep this bar, though she's never made a thing of it, the way none of the Hannahs ever have — is the one who actually puts her hand into it. Her gran mentioned something once, years back, half a joke over Christmas dinner: don't ever let them rip that old counter out without checking underneath it first, whatever you do. Family superstition, Hannah always assumed. The kind every family has about some floorboard or houseplant that nobody remembers the reason for and nobody wants to be the one who's wrong about ignoring.
+
+She isn't wrong.
+
+Her hand finds a scored patchwork of notches first — dozens of them, worn soft at the edges, cut by more than one hand over more years than she has any way of counting. Then, wedged further back where a draught's kept it dry longer than seems possible: a small brass thimble, tarnished black. A twist of paper, brittle at the folds, ink faded to the colour of the wood around it, a handful of words about a ship called the Quedagh Merchant and a name — Nathaniel Cross — still legible if she tilts it to the light. And behind that, less old, its blue cover gone the grey of everything left in the dark too long: a notebook, pencil still in the spine, dates in a neat clerk's hand running from September to a page that simply stops, mid-list, mid-war, mid-sentence almost, as though someone meant to come back to it and didn't, or did, and just never needed to add another line.
+
+Hannah sits on the floor behind her own bar for a long time, holding three centuries in one hand and no idea, yet, what any of it means.
+
+That's, um. She doesn't finish the sentence either.
+
+She doesn't call the brewery. Doesn't call a museum, not yet — not until she's had longer than an afternoon to decide what a discovery like this is actually for. She photographs it, properly, the way none of this book's tourists have ever photographed anything, and puts the three objects back exactly where she found them, and asks the contractor, with more force in her voice than the job requires, to leave that section of the wall precisely as it is.
+
+* * *
+
+## VIII. What Doesn't Show in the Photograph
 
 The bar empties the way it always does — tourists first, back to their hotels; suits next, back to their towers; the stragglers last, the ones for whom this is a place and not an experience. Hannah wipes down, turns off half the taps, stacks the coasters.
 
-The room holds what it always holds: everything that's happened in it, unevenly remembered. A contract folded and unfolded on this bar four centuries back. A man's shaking hands. A number somebody couldn't stop repeating. A triangle drawn in spilled ale. A woman watching for a husband who never came. A confession about a well. A shareholder's ten and a half percent. A notebook filling up with bombs. None of it is on the walls. None of it is in the heritage section. The beams don't announce what they've seen. A building doesn't testify — it only stands, and leaves the noticing to whoever happens to be standing in it.
+The room holds what it always holds: everything that's happened in it, unevenly remembered. A contract folded and unfolded on this bar four centuries back. A man's shaking hands. A number somebody couldn't stop repeating. A triangle drawn in spilled ale. A woman watching for a husband who never came. A confession about a well. A shareholder's ten and a half percent. A notebook filling up with bombs. Three of those things are sitting in a gap in the timber a few feet from where the hedge fund manager had his pint tonight, found and photographed and put back, and even now they explain almost nothing — a thimble, a scrap of paper, a notebook that stops mid-sentence, three objects standing in for everyone in this book who left nothing behind at all. None of it is on the walls. None of it is in the heritage section. The beams don't announce what they've seen. A building doesn't testify — it only stands, and leaves the noticing to whoever happens to be standing in it.
 
 Most nights, not much gets noticed. The tourist's photographs hold a room, tastefully lit, four stars out of five, and none of the four hundred years the guidebook promised her. The hedge fund manager doesn't photograph anything — the case study's already filed away as inspiration, everyone it was built on stripped out of the file. The room doesn't especially remember him either. He's one of thousands who've warmed their hands here on a drink they didn't order for the taste.
 

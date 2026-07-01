@@ -78,26 +78,28 @@ labor repeating under new names — rather than leaving it as a thematic coincid
 **Rule governing all three:** connections are seasoning, never load-bearing for comprehension.
 If a reader has to notice the Cache or the Ashby name to follow the plot, it's been overused.
 
-## 3a. Protagonist per chapter
+## 3a. Protagonist per chapter — DONE, all 12 chapters
 
 | Ch. | Protagonist | Active choice/stake | Cache item left / connective note |
 |---|---|---|---|
-| 1600 | Tom | Leaves a keepsake with Ashby "till I'm back," an active bet against the odds she just gave him. | Keepsake — first item in the Cache. |
-| 1614 | Daniel | A Company man offers him money to keep quiet about Amboyna. Take the payoff, or talk anyway? | — |
-| 1701 | Nathaniel — a former Kidd crewman hiding in the crowd | Overhears that the exculpatory French passes were deliberately buried. Say what he knows and risk being hanged as a pirate himself, or stay silent? | **DRAFTED** — leaves a written account in the Cache. |
-| 1757 | Coates | Decides to go on record with the journalist about the fixed battle at Plassey, risking his pension and character. | — |
-| 1770 | Mulvey | Recognizes a grain-hoarding profiteer in the bar. Confronts him directly. | — |
-| 1790 | A sailor whose brother mutinied on the Bounty | Torn between relief his brother's alive and fear of the gallows if the connection is noticed. Claim it, or hide it? | — |
-| 1839 | The Chinese woman searching for her husband | Realizes Pemberton's cargo is why her husband never came home. Acts on it instead of just watching. | — |
-| 1858 | Harding | Offered a promotion contingent on the official version of Cawnpore holding. Take it, or blow it up in front of the room? | — |
-| 1880 | A Cutty Sark crewman who saw what really happened | Deciding whether to testify against Smith at trial or keep his berth. | — |
+| 1600 | Tom | Leaves a keepsake thimble with Ashby "till I'm back," an active bet against the odds she just gave him. | Keepsake thimble — first item in the Cache. |
+| 1614 | Daniel | A Company man (Pryce) offers him money to keep quiet about Amboyna. Refuses. | — |
+| 1701 | Nathaniel ("Fenner") — a former Kidd crewman hiding in the crowd | Overhears that the exculpatory French passes were deliberately buried; writes down what he saw rather than stay silent or expose himself publicly. | Written account of the passes — second item in the Cache. |
+| 1757 | Coates | Weighs his pension and reputation, then goes on record with the journalist about the fixed battle at Plassey. | — |
+| 1770 | Mulvey | Recognizes and confronts Aldridge, a grain-hoarding profiteer, present in the bar. | — |
+| 1790 | Alec Munro, whose brother Davy was aboard the Bounty | Claims the connection publicly when a stranger asks the room directly, rather than hide it. | — |
+| 1839 | Mei, searching for her husband | Realizes Pemberton's cargo (via "Lintin," "receiving ship") is why he never came home; confronts him directly. | Table-crack scar-tissue origin planted here (background scuffle, uninvolved with Mei/Pemberton/Hale). |
+| 1858 | Harding | A colonel offers him a DSO and promotion contingent on the official Cawnpore story holding; Harding repeats the true number in front of the journalist instead. | — |
+| 1880 | Coombs, a Cutty Sark crewman who saw what really happened | Weighs the career cost of testifying against Smith at trial (blacklisting by owners), testifies anyway. | — |
 | 1888 | Su | Already the model — no change needed. | — |
-| 1940 | Gwen | Sharpen with a personal stake: someone she loves is in the docks — why she won't leave her post. | — |
-| 2019 | An Ashby-line descendant who now runs/researches the pub | Finds what's been left under the counter across four centuries. | **Cache payoff chapter.** |
+| 1940 | Gwen | Personal stake made explicit: her son Peter is an AFS fireman in the docks; her post is also a vigil for him. | Her wartime notebook, kept back from the official ARP record — third item in the Cache. |
+| 2019 | Hannah ("the fourth of that name") | During a cellar refit, finds the Cache (thimble, Nathaniel's note, Gwen's notebook) and chooses to leave it exactly as found rather than report it. | **Cache payoff chapter.** Also pays off the lopsided-table scar-tissue gag (American tourist's husband wedges a coaster under it, oblivious). |
 
-Status: 1701 drafted this session as the test case. Remaining 10 chapters (1600, 1614, 1757, 1770,
-1790, 1839, 1858, 1880, 1940, 2019 — 1888 needs no change) still to be rewritten with these
-protagonists once the 1701 approach is confirmed.
+Status: all 12 chapters now have an active protagonist. The Cache holds three items (1600, 1701,
+1940), found and left in place in 2019. Both scar-tissue pairs (Louie's chair 1701→1888; the
+table 1839→2019) are complete. Remaining open items are craft-level polish, not structure — see
+Sections 4, 5, and 7 below (live-scene conversion candidates, refrain rationing, and the
+Author's Note) plus a full continuity read-through before this is considered submission-ready.
 
 ## 3b. Scar tissue — unexplained physical continuity
 
