@@ -92,7 +92,7 @@ If a reader has to notice the Cache or the Ashby name to follow the plot, it's b
 | 1839 | Mei, searching for her husband | Realizes Pemberton's cargo (via "Lintin," "receiving ship") is why he never came home; confronts him directly. | Table-crack scar-tissue origin planted here (background scuffle, uninvolved with Mei/Pemberton/Hale). |
 | 1858 | Harding | A colonel offers him a DSO and promotion contingent on the official Cawnpore story holding; Harding repeats the true number in front of the journalist instead. | — |
 | 1880 | Coombs, a Cutty Sark crewman who saw what really happened | Weighs the career cost of testifying against Smith at trial (blacklisting by owners), testifies anyway. | — |
-| 1888 | Su | Already the model — no change needed. | — |
+| 1888 | Su Zhang | The original model chapter, enhanced per author suggestions: full names (Su Zhang, Wei Zhang, Mary O'Connell, Dr. Reginald Cray), a surveillance-pattern beat (his schedule; his unchanged face watching a woman pass), and the moral nuance that Su never presumes him the author of all five — only that he is hunting. Retitled "The Watchman's Daughter." | — |
 | 1940 | Gwen | Personal stake made explicit: her son Peter is an AFS fireman in the docks; her post is also a vigil for him. | Her wartime notebook, kept back from the official ARP record — third item in the Cache. |
 | 2019 | Hannah ("the fourth of that name") | During a cellar refit, finds the Cache (thimble, Nathaniel's note, Gwen's notebook) and chooses to leave it exactly as found rather than report it. | **Cache payoff chapter.** Also pays off the lopsided-table scar-tissue gag (American tourist's husband wedges a coaster under it, oblivious). |
 
@@ -176,7 +176,7 @@ the book — the refrain should land here more than anywhere).
 08  1839  What Pemberton Called Trade          (Opium)
 09  1858  What Harding Would Not Say           (Dissolution / Cawnpore)
 10  1880  The Hell Ship                        (Cutty Sark — NEW)
-11  1888  What Stopped Him                     (Ripper — NEW, only overtly fictional chapter)
+11  1888  The Watchman's Daughter              (Ripper — NEW, only overtly fictional chapter)
 12  1940  A Warden's Watch                     (Blitz)
 13  2019  What the Suit Didn't See             (Present day)
 appendix  Timeline

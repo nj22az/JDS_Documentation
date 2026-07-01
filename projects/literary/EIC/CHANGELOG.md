@@ -20,6 +20,14 @@ All notable changes to this project are recorded here.
 
 ### Changed
 - Chapters renumbered 01–13 to accommodate the new 1696 chapter.
+- 1888 chapter enhanced per author suggestions and retitled
+  "The Watchman's Daughter" (was "What Stopped Him"): characters
+  named in full (Su Zhang, Wei Zhang, Mary O'Connell, Dr. Reginald
+  Cray), a new surveillance-pattern passage, and the moral nuance
+  that Su never presumes Cray the author of all five murders — only
+  that he is hunting. Author's suggested prose was integrated into
+  the book's established voice (present tense, unquoted dialogue)
+  rather than adopted verbatim.
 
 ### Fixed
 - Re-dated the Amboyna chapter from 1614 to 1626: the massacre
