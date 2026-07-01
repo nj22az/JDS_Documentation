@@ -1,0 +1,131 @@
+> **2019**
+>
+> *"They have kept the beams and the flagstones. They have not kept anyone who remembers what the beams were for."*
+>
+> — Visitor's notebook, Wapping, 2019
+
+---
+
+# 2019: What the Suit Didn't See
+
+## I. Authentic
+
+Eight taps behind the bar now, and not one of them pours anything that existed when this room was new. The beams are original. The flagstones are original. The floor still slopes toward a river that used to carry tea and opium and now carries, mostly, sightseeing boats. Everything about the Prospect of Whitby that can be photographed has survived. Almost everything that cannot has not.
+
+The pub's been called the Prospect of Whitby a long time now. Before that, the Devil's Tavern — a better name, but the people who run these things prefer something tourists can say without giggling. There's a sign outside with a ship painted on it, lit up along with everything else on this stretch of river these days. The world is too bright here now, most nights.
+
+What's changed is everything but the bones. One tap used to serve this room; ale dark and warm, tasting of the river. Now there are eight, pouring things called Hop Fathom and Mudlark IPA, and the ale is still good — different, but good. There's a laminated menu with tasting notes. A section called 'Heritage,' three paragraphs, two of them wrong. A gift shop selling mugs and keyrings. A TripAdvisor sticker on the door.
+
+The tourists come by boat and by tube, because they've read this is the oldest pub on the Thames, that Dickens drank here, that pirates drank here — true, mostly — and because they've read that it's authentic. That's the word they're here for. A photograph proving they stood somewhere real, somewhere with depth, not another gastropub with the same reclaimed-wood tables as the last four.
+
+It is real. But the tourists see the version in their guidebooks — the quaint exterior, the river view — not the Company ships that used to pass this window, not the men loaded onto them along with the pepper and the opium, not the money and the bodies the river has carried. They see what they came to see. No particular cruelty in that. Just the ordinary habit of mistaking the surface of a thing for the thing.
+
+Across the river, towers stand where none stood before — dozens of them, glass and steel, doubling the sky back at itself until the skyline looks copied and pasted into infinity. Canary Wharf sits on the old West India Docks, built 1802, once the largest enclosed docks on earth. Sugar, rum, cotton, timber, and the men who unloaded it all. Now it's banks and hedge funds doing, in better shoes, what the Company did — moving money, extracting value from labour none of them will ever see.
+
+* * *
+
+## II. The Student of the Company
+
+The suits arrive on a schedule you could set a clock by — five o'clock the early ones, wound tight off the trading floor; six the main wave, still in packs; half six the stragglers, one more call finished before New York closes.
+
+This one's a straggler, alone, which is unusual — navy suit, no tie, shoes that cost more than most people's rent. Orders a Mudlark IPA, drinks half in one go, and exhales like the day is finally leaving his shoulders.
+
+He's reading something on his phone. Looks up at the towers across the river. Back at the phone. Making a connection.
+
+This place, he says to Hannah. The East India Company lot used to drink here, right?
+
+Some of them, probably, she says. It was a sailors' pub. Anyone with a boat came through.
+
+Incredible, he says. He means: I just read about this and want to talk about it.
+
+Hedge fund manager, almost certainly — the laptop bag has a logo from a firm that clearly commissioned its branding before it had much else to brand. He trades. Doesn't make anything, grow anything, build anything. Moves money from one column to another and keeps a slice, and the slice bought the suit and the phone and this pint.
+
+What he's found on his phone is the East India Company as a business case study. Joint-stock model. Capital pooling. Shareholder returns. He's excited the way finance people get excited by a case study — academically, no horror attached. He's come here because it's authentic, because he wants to sit where the original sat and feel some line running between what he does and what they did. He doesn't see the irony — that his glass tower stands on the docks where the stolen goods came off the ships. He sees a business model made real over a good pint.
+
+* * *
+
+## III. The Experience
+
+She comes in with her husband — matching rain jackets, which is either a coincidence or a choice, and neither option is good. American, loud in the friendly way, not the rude way. She has an actual paper guidebook open to a photo of this pub and a rating: four out of five stars. Hard to say what the missing star's for.
+
+This is the one, she tells him. Oldest pub on the Thames. Fifteen twenty.
+
+That's old, he says, with the reverence of a man from a country that calls 1975 historic.
+
+She photographs the bar, the fireplace, the river, him, then both of them, then reviews and deletes two and takes one more. Behind them, a man at the bar is trying to convince his mate that the football score he's just been texted cannot possibly be right, and won't be talked down from it.
+
+Five hundred years of people drinking here, she says, sitting now with her Pimm's. Can you imagine?
+
+That's a lot of beer, he says. She laughs.
+
+There's no cruelty in it. They're tourists, consuming the past the way you consume a meal — in portions, with a rating attached. She walks to the window and photographs the towers across the river too.
+
+What are those buildings?
+
+Bank buildings, I think.
+
+They're beautiful.
+
+They are. That's the trouble. The machine has always been beautiful — the Company's ships were beautiful, its headquarters on Leadenhall Street was beautiful. Empires are beautiful from a distance. From underneath, less so. But from across the river on a clear evening, glass catching the light, nobody needs to know the rest of it to enjoy the view. The pub's heritage section doesn't mention the Company. The Company isn't part of the brand.
+
+* * *
+
+## IV. Tea
+
+He comes in at eight — not a tourist, not a suit. High-visibility jacket, steel-toed boots scuffed from miles of concrete. Somali, audible in the phone call he takes by the door, a sound this river has heard before, back when the word for it was Lascar and the Company brought men like him over by the thousand, paid them less than English crew, and left them here once the unloading was done. Some things change their name and keep their shape.
+
+He orders tea, not a pint. Hannah pours it without comment. He holds the chipped mug in both hands for the warmth of it, not for the tea.
+
+His phone rings. He answers low, turns half away from the room, says something short, hangs up. His body's in Wapping. The rest of him is somewhere else — Mogadishu, Hargeisa, wherever home actually is. Home is never here for men who load containers. Here is just where the work is.
+
+Ten feet away the hedge fund manager is still reading about the Company on his phone. Same pub, same evening, same river. One moves money, the other moves boxes, and the chain between them is long enough that neither will notice it tonight.
+
+He finishes his tea, pulls his jacket tight, and looks once at the river before he goes back out into the cold.
+
+* * *
+
+## V. Thirty Percent
+
+The hedge fund manager has found an audience — the American husband, trapped at the bar for a second pint and too polite to leave.
+
+Thirty, thirty-five percent annual returns, the hedge fund manager says. For decades. Nobody's hedge fund does that today. And the joint-stock model — they invented it. A hundred investors pool a few hundred pounds each, suddenly you've got a fleet and a private army. Every IPO on the Exchange traces back to a room in 1599 asking what if we pooled our money and went to India.
+
+That's pretty cool, the husband says. He means it. He's on holiday, allowed to find things cool.
+
+Cool isn't the word. Foundational. First multinational. First board of directors. First corporate lobbying operation too — they had men in Parliament before most people knew what Parliament was.
+
+He's right about the facts. What he doesn't mention: the opium, the largest drug-smuggling operation in history, built to cover Britain's tea habit. Bengal, and ten million dead in the famine his own Company's tax policy helped cause. He doesn't mention it because he doesn't know it, or because he's filed it under *historical context*, which is where inconvenient facts go to stop being asked about.
+
+This room has heard this same explanation change its clothes for four hundred years. Exploration, then trade, then civilisation, then governance, then history. Tonight, a case study. The explanation keeps changing. The thing being explained does not.
+
+He's pleased with himself — feels he's honoured the place by knowing its business model. He hasn't. He's consumed its mythology the same way the tourist consumed its postcard. The history here isn't a business lesson. It's a warning. Warnings don't return thirty percent.
+
+* * *
+
+## VI. The Same River
+
+The Somali man comes back in from his call, cold riding in with him. Same stool, same mug, another tea. Three feet from the hedge fund manager now, Hannah pouring for both of them at once.
+
+The hedge fund manager glances over — the kind of glance that registers a person and dismisses them in the same half-second. Sees a hi-vis jacket. Doesn't see a name, a family, a country made both closer and further away by the same supply chain that built his tower. Sees labour. A component. The way a driver sees the road but never the tarmac underneath it.
+
+The Somali man doesn't glance back. Doesn't need to. He knows exactly what a Canary Wharf suit looks like — sees a dozen a day, riding past in taxis, shoes worth a month of his rent, sharing his exact stretch of river in a completely different economy. He loads the containers that carry the goods that men like this one eventually price and trade. The chain runs straight through this room tonight, the way it always has, and neither of them says so, because saying so costs more than either has to spend on a Tuesday.
+
+On his way out, there's half a second — the hedge fund manager looks up, their eyes almost meet, the Somali man gives the small nod one stranger gives another: *I see you, that's enough.* The hedge fund manager nods back, automatic, not quite seeing him at all. Then the door shuts and he's gone, back to whatever bus takes him to wherever he actually lives, which isn't here, which is never here.
+
+The river doesn't care who's drinking and who's carrying tonight. It carries the tea, the gin, the containers, the money, all of it, without preference. That's what rivers do.
+
+* * *
+
+## VII. What Doesn't Show in the Photograph
+
+The bar empties the way it always does — tourists first, back to their hotels; suits next, back to their towers; the stragglers last, the ones for whom this is a place and not an experience. Hannah wipes down, turns off half the taps, stacks the coasters.
+
+The room holds what it always holds: everything that's happened in it, unevenly remembered. A contract folded and unfolded on this bar four centuries back. A man's shaking hands. A number somebody couldn't stop repeating. A triangle drawn in spilled ale. A woman watching for a husband who never came. A confession about a well. A shareholder's ten and a half percent. A notebook filling up with bombs. None of it is on the walls. None of it is in the heritage section. The beams don't announce what they've seen. A building doesn't testify — it only stands, and leaves the noticing to whoever happens to be standing in it.
+
+Most nights, not much gets noticed. The tourist's photographs hold a room, tastefully lit, four stars out of five, and none of the four hundred years the guidebook promised her. The hedge fund manager doesn't photograph anything — the case study's already filed away as inspiration, everyone it was built on stripped out of the file. The room doesn't especially remember him either. He's one of thousands who've warmed their hands here on a drink they didn't order for the taste.
+
+That's the ordinary condition of the place. It holds more than anyone passing through will ever ask to see. None of it is contradicted by the eight taps and the gift shop. It simply isn't required by them — the way a ledger can sit accurate and true in a drawer for two hundred years, no longer opened, no longer asked.
+
+Outside, the tide is going out. It'll be back in six hours and gone again six after that, on a schedule older than the Company, older than the docks, older than the towers across the water. It has never once been wrong about what it is: water, moving toward the sea, indifferent to what it's asked to remember.
+
+The last light goes off over the bar. The building settles, one small private creak in old timber — the sound of something old absorbing, without comment, one more evening it won't be asked about tomorrow.
