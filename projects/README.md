@@ -16,6 +16,7 @@ projects/
 │
 ├── 3d-modeling/            ← 3D CAD projects (JDS-DWG-*)
 ├── blog/                   ← Jekyll blog (JDS-BLG-*)
+├── literary/               ← Non-JDS creative writing projects
 └── index.md                ← Project index
 ```
 
