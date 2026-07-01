@@ -1,12 +1,12 @@
-> **1614**
+> **1626**
 >
 > *"A factory, they call it, though no wall yet built could keep out a monsoon, let alone a Hollander with a grievance."*
 >
-> — Factor's letter, Surat, 1614
+> — Factor's letter, Surat, 1626
 
 ---
 
-# 1614: The Man Who Came Back Wrong
+# 1626: The Man Who Came Back Wrong
 
 ## I. The Ship from Amboyna
 
@@ -18,7 +18,7 @@ Nobody on the dock has the whole of it yet. Just the name.
 
 By the time it reaches the tavern by the stairs, the place has changed the way places change when nobody's watching closely. Longer bar. Flagstones where the rushes used to be. A new sign nobody remembers the old one well enough to miss. The boy who signed his contract here years back, for twenty pounds and a share of the pepper, sailed south and never came back to see any of it. The bar didn't keep count of him. It only kept standing.
 
-The ships on the river have multiplied. The Company has factories now — Surat, Masulipatam, Madras — small English footholds on coastlines that never asked for them, each one a bet that the local ruler stays friendly and the weather stays kind.
+The ships on the river have multiplied. The Company has factories now — Surat, Masulipatam, Agra — small English footholds on coastlines and river towns that never asked for them, each one a bet that the local ruler stays friendly and the weather stays kind.
 
 Amboyna was one of those bets.
 

@@ -5,10 +5,10 @@ Conceit: the Prospect of Whitby (formerly the Devil's Tavern), Wapping, as a fix
 East India Company from its 1600 charter to its 2019 afterlife as a tourist stop across the river
 from Canary Wharf.
 
-Status: 12 chapters drafted, spanning 1600–2019. Four chapters (Kidd, Bligh, Cutty Sark, Ripper)
-added this session to fill gaps in the original run of eight. This doc is the standing plan for
-turning the draft into a page-turner rather than an illustrated history. Update it as decisions
-get made — it's a working doc, not a monument.
+Status: 13 chapters drafted, spanning 1600–2019. Five chapters added to the original run of
+eight: Kidd (1701), Bligh (1790), Cutty Sark (1880), Ripper (1888), and Every (1696). This doc
+is the standing plan for turning the draft into a page-turner rather than an illustrated
+history. Update it as decisions get made — it's a working doc, not a monument.
 
 ---
 
@@ -70,7 +70,7 @@ carries, given to whoever's daughter or niece takes over the bar**, the way a tr
 any one person holding it. One light line per appearance is enough — never a revealed twist, just
 the ordinary fact of how the place has always worked.
 
-**(c) One labor line — for texture, not plot.** Carter the chandler (1614) anchors a second
+**(c) One labor line — for texture, not plot.** Carter the chandler (1626) anchors a second
 thread: Wapping trades ran in families. A later docker can be his descendant, tying the book's
 existing Lascar → Somali dockworker echo (already in the 2019 chapter) into the same pattern —
 labor repeating under new names — rather than leaving it as a thematic coincidence.
@@ -78,12 +78,13 @@ labor repeating under new names — rather than leaving it as a thematic coincid
 **Rule governing all three:** connections are seasoning, never load-bearing for comprehension.
 If a reader has to notice the Cache or the Ashby name to follow the plot, it's been overused.
 
-## 3a. Protagonist per chapter — DONE, all 12 chapters
+## 3a. Protagonist per chapter — DONE, all 13 chapters
 
 | Ch. | Protagonist | Active choice/stake | Cache item left / connective note |
 |---|---|---|---|
 | 1600 | Tom | Leaves a keepsake thimble with Ashby "till I'm back," an active bet against the odds she just gave him. | Keepsake thimble — first item in the Cache. |
-| 1614 | Daniel | A Company man (Pryce) offers him money to keep quiet about Amboyna. Refuses. | — |
+| 1626 | Daniel | A Company man (Pryce) offers him money to keep quiet about Amboyna. Refuses. | — |
+| 1696 | Esther Finch, lodging-house widow | Half-guesses her quiet boarder sailed with Every; a Company-paid information-taker offers her a share of the £500 bounty, and she lies to his face rather than be bought — decided the month six substitutes hang at Execution Dock. | Throws the Mughal gold into the river at the end — deliberately NOT a Cache item (the river keeps it, not the building). |
 | 1701 | Nathaniel ("Fenner") — a former Kidd crewman hiding in the crowd | Overhears that the exculpatory French passes were deliberately buried; writes down what he saw rather than stay silent or expose himself publicly. | Written account of the passes — second item in the Cache. |
 | 1757 | Coates | Weighs his pension and reputation, then goes on record with the journalist about the fixed battle at Plassey. | — |
 | 1770 | Mulvey | Recognizes and confronts Aldridge, a grain-hoarding profiteer, present in the bar. | — |
@@ -91,11 +92,11 @@ If a reader has to notice the Cache or the Ashby name to follow the plot, it's b
 | 1839 | Mei, searching for her husband | Realizes Pemberton's cargo (via "Lintin," "receiving ship") is why he never came home; confronts him directly. | Table-crack scar-tissue origin planted here (background scuffle, uninvolved with Mei/Pemberton/Hale). |
 | 1858 | Harding | A colonel offers him a DSO and promotion contingent on the official Cawnpore story holding; Harding repeats the true number in front of the journalist instead. | — |
 | 1880 | Coombs, a Cutty Sark crewman who saw what really happened | Weighs the career cost of testifying against Smith at trial (blacklisting by owners), testifies anyway. | — |
-| 1888 | Su | Already the model — no change needed. | — |
+| 1888 | Su Zhang | The original model chapter, enhanced per author suggestions: full names (Su Zhang, Wei Zhang, Mary O'Connell, Dr. Reginald Cray), a surveillance-pattern beat (his schedule; his unchanged face watching a woman pass), and the moral nuance that Su never presumes him the author of all five — only that he is hunting. Retitled "The Watchman's Daughter." | — |
 | 1940 | Gwen | Personal stake made explicit: her son Peter is an AFS fireman in the docks; her post is also a vigil for him. | Her wartime notebook, kept back from the official ARP record — third item in the Cache. |
 | 2019 | Hannah ("the fourth of that name") | During a cellar refit, finds the Cache (thimble, Nathaniel's note, Gwen's notebook) and chooses to leave it exactly as found rather than report it. | **Cache payoff chapter.** Also pays off the lopsided-table scar-tissue gag (American tourist's husband wedges a coaster under it, oblivious). |
 
-Status: all 12 chapters now have an active protagonist. The Cache holds three items (1600, 1701,
+Status: all 13 chapters now have an active protagonist. The Cache holds three items (1600, 1701,
 1940), found and left in place in 2019. Both scar-tissue pairs (Louie's chair 1701→1888; the
 table 1839→2019) are complete. Remaining open items are craft-level polish, not structure — see
 Sections 4, 5, and 7 below (live-scene conversion candidates, refrain rationing, and the
@@ -143,7 +144,7 @@ is part of what keeps the collection from feeling like a gimmick. But right now 
 have real-time stakes: 1888 (Su vs. Cray) and the bombing raid inside 1940. Candidates for a
 live-scene rewrite or a live-scene *insert* alongside the existing bar frame:
 
-- **1614 (Amboyna).** Currently entirely retrospective — Daniel recounts torture that happened
+- **1626 (Amboyna).** Currently entirely retrospective — Daniel recounts torture that happened
   off-page, years earlier. A version that drops into the torture room itself, briefly, before
   cutting back to the bar, would raise the stakes without abandoning the frame.
 - **1839 or the 1857 material.** Currently reached only through Pemberton's explanation and
@@ -166,25 +167,40 @@ the book — the refrain should land here more than anywhere).
 ```
 00  Frontmatter
 01  1600  The Boy Who Signed
-02  1614  The Man Who Came Back Wrong        (Amboyna)
-03  1701  Good for Business                   (Kidd — NEW)
-04  1757  A Soldier's Arithmetic               (Plassey)
-05  1770  What Mulvey Saw                      (Bengal Famine)
-06  1790  Forty-Seven Days                     (Bligh/Bounty — NEW)
-07  1839  What Pemberton Called Trade          (Opium)
-08  1858  What Harding Would Not Say           (Dissolution / Cawnpore)
-09  1880  The Hell Ship                        (Cutty Sark — NEW)
-10  1888  What Stopped Him                     (Ripper — NEW, only overtly fictional chapter)
-11  1940  A Warden's Watch                     (Blitz)
-12  2019  What the Suit Didn't See             (Present day)
+02  1626  The Man Who Came Back Wrong        (Amboyna — re-dated from 1614, see note)
+03  1696  The Price of a Man                  (Every / Child's War — NEW)
+04  1701  Good for Business                   (Kidd — NEW)
+05  1757  A Soldier's Arithmetic               (Plassey)
+06  1770  What Mulvey Saw                      (Bengal Famine)
+07  1790  Forty-Seven Days                     (Bligh/Bounty — NEW)
+08  1839  What Pemberton Called Trade          (Opium)
+09  1858  What Harding Would Not Say           (Dissolution / Cawnpore)
+10  1880  The Hell Ship                        (Cutty Sark — NEW)
+11  1888  The Watchman's Daughter              (Ripper — NEW, only overtly fictional chapter)
+12  1940  A Warden's Watch                     (Blitz)
+13  2019  What the Suit Didn't See             (Present day)
 appendix  Timeline
 appendix  Bibliography
 ```
 
-**Remaining gap:** 1614 → 1757 is still a 143-year jump with one chapter. Candidates to fill it,
-if another chapter is wanted before this goes to readers: 1793 Permanent Settlement, or 1799
-Seringapatam/Tipu Sultan. Not urgent — the jump reads fine as "the quiet build-up years" — but
-flagging it here so it's a decision, not an oversight.
+**Re-dating note (chapter 02):** the Amboyna chapter was originally dated 1614, but the massacre
+happened in 1623 and Daniel's two-year imprisonment in Batavia puts his return at ~1626. Re-dated
+to 1626 and the anachronistic Madras reference (founded 1639) swapped for Agra.
+
+**1696 chapter design:** Every/Ganj-i-Sawai as the main event, the lost Anglo-Mughal War
+(1686–90) as backdrop carried by Tanner, a Bombay-siege veteran. Forms a deliberate diptych with
+1701: the guilty man escapes and six substitutes swing (1696); the available man swings (1701) —
+so Sillitoe's "the Company doesn't require the right man" lands as a proven pattern, not an
+assertion. Also carries the Bombay-for-£10-rent detail as a texture line.
+
+**Remaining gap:** 1701 → 1757 (56 years) and 1626 → 1696 (70 years, reads as "the walls get
+higher" build-up the chapter 02 ending already gestures at). Candidates if another chapter is
+ever wanted: 1793 Permanent Settlement, or 1799 Seringapatam/Tipu Sultan. Not urgent — flagged
+so it's a decision, not an oversight.
+
+**Epigraph consistency (polish item):** the original eight chapters open with a dated epigraph
+block; of the five added chapters, 1696 has one but 1701, 1790, 1880, and 1888 do not. Add
+matching epigraphs to those four before submission.
 
 ## 7. Author's Note — needed before this goes out
 
