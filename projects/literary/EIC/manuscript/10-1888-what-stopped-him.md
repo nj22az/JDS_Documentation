@@ -6,6 +6,8 @@ By the middle of November the East End does not walk home alone after dark, and 
 
 The Prospect keeps its lamps burning a little longer than usual. Men drink faster and leave in groups. Nobody says the word much — Ripper — as though naming it summons it, but it sits in the room anyway, in the way the door gets watched every time it opens.
 
+In the corner, the chair with the too-short back leg sits empty tonight, the way it usually does — propped level with a folded playbill for going on two centuries now, nobody left alive who could say why, regulars just knowing to leave it for last.
+
 * * *
 
 ## II. Dr. Cray

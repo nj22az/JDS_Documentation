@@ -99,6 +99,41 @@ Status: 1701 drafted this session as the test case. Remaining 10 chapters (1600,
 1790, 1839, 1858, 1880, 1940, 2019 — 1888 needs no change) still to be rewritten with these
 protagonists once the 1701 approach is confirmed.
 
+## 3b. Scar tissue — unexplained physical continuity
+
+A second, lighter connective device, separate from the Cache: small physical damage to the room
+itself, caused on-page by an incident in one chapter, then noticed — never explained — by an
+unconnected character in a much later chapter. No dialogue ever explains the origin; the payoff
+scene just shows someone reacting to the object as it is now. This mirrors details already
+latent in the draft (the cracked stool in 1600, "the floor is sticky in the same three places it
+has always been sticky" in 1757) — treat those the same way: leave them unexplained, don't
+retcon an origin for them unless one is wanted later.
+
+Rule: occasional only. Two or three pairs across the whole book, not one per chapter — if every
+chapter has a "remember this detail" moment it stops reading as texture and starts reading as
+homework.
+
+**Pairs established so far:**
+
+- **Louie's chair.** *Origin (1701, done):* a swing meant for one waterman misses and a flung
+  chair catches an uninvolved bystander, Louie, across the head instead — pure background
+  business during the Company table's conversation, never touching Nathaniel's plot. The chair
+  loses a leg and is propped, never discarded. *Payoff (1888, done):* the same chair, still
+  propped level "with a folded playbill for going on two centuries now," sits empty in the
+  corner — regulars know to leave it for last, nobody remembers why.
+
+**Queued for the upcoming rewrite pass (task: rewrite remaining 10 chapters):**
+
+- **The lopsided table.** *Origin, planned for 1839:* background scuffle (not involving the
+  Chinese woman, Pemberton, or Hale) knocks a table into the wall hard enough to crack a leg;
+  propped since with a wedge of wood. *Payoff, planned for 2019:* the hedge fund manager or the
+  American tourist rests a pint on a table that rocks, jams a coaster under the leg without
+  thinking about it, moves on — a small irony, given that chapter is explicitly about people not
+  noticing what's underneath things.
+
+Add new pairs sparingly if they occur naturally while rewriting — don't force one into every
+chapter just to hit a quota.
+
 ## 4. Chapters to consider converting to live scene
 
 Reportage-after-the-fact is a legitimate device and shouldn't be abandoned everywhere — variety
