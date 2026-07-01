@@ -6,6 +6,8 @@
 
 **1612**  The Company establishes its first factory at Surat, on India's west coast.
 
+**1623**  The Amboyna Massacre. Dutch VOC officials torture and execute ten English Company merchants on fabricated charges. The Company abandons the Spice Islands and turns to India.
+
 **1639**  A factory is established at Madras. It will become Fort St George.
 
 **1657**  Cromwell renews the Company's charter. The Commonwealth needs the revenue.
@@ -14,7 +16,13 @@
 
 **1668**  The Company takes possession of Bombay. A possession, not just a factory.
 
+**1686–1690**  The Anglo-Mughal War (Child's War). The Company attacks the Mughal Empire and is comprehensively defeated; its envoys prostrate themselves before Aurangzeb to win back its trading rights.
+
 **1690**  A factory is established at Calcutta. Fort William follows.
+
+**1695**  Henry Every plunders the Ganj-i-Sawai, the richest ship in the Mughal fleet. Aurangzeb seizes the Company's factories; the first worldwide manhunt follows.
+
+**1696**  Six of Every's crew hang at Execution Dock — after a first jury acquits them and the trial is run again. Every himself is never caught.
 
 **1701**  Captain Kidd is hanged at Execution Dock, near the Prospect of Whitby.
 

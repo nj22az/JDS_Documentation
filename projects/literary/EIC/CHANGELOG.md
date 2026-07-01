@@ -4,6 +4,29 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-01] (later the same day)
+
+### Added
+- New chapter `03-1696-the-price-of-a-man.md` — the Henry Every /
+  Ganj-i-Sawai affair and first worldwide manhunt, with the lost
+  Anglo-Mughal War (1686–90) as backdrop. Protagonist Esther Finch, a
+  lodging-house widow who declines the Company-funded bounty on her
+  boarder. Forms a deliberate diptych with the 1701 Kidd chapter.
+- Timeline entries for Amboyna (1623), the Anglo-Mughal War, and the
+  Every affair; bibliography suggestion for the 1696 chapter.
+- Protagonist active-choice scenes across all pre-existing chapters
+  (see git history for the per-chapter breakdown), the Cache device
+  (three items, paid off in 2019), and two scar-tissue pairs.
+
+### Changed
+- Chapters renumbered 01–13 to accommodate the new 1696 chapter.
+
+### Fixed
+- Re-dated the Amboyna chapter from 1614 to 1626: the massacre
+  happened in 1623 and Daniel's two-year imprisonment in Batavia puts
+  his return at ~1626. Swapped the anachronistic Madras factory
+  reference (founded 1639) for Agra.
+
 ## [2026-07-01]
 
 ### Added
