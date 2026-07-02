@@ -135,6 +135,8 @@ h1 + p, h2 + p, .epigraph + p, .scene-break + p, .chapter-start + p {{
     margin: 0 0.5in; font-style: italic; text-align: center;
     font-size: 11pt; line-height: 1.6; border: none;
 }}
+/* the global p rule justifies; epigraph paragraphs must stay centered */
+.book-epigraph-page blockquote p {{ text-align: center; text-indent: 0; hyphens: none; }}
 .contents {{ page-break-after: always; }}
 .contents h1 {{
     font-size: 15pt; text-align: center; font-variant: small-caps;
