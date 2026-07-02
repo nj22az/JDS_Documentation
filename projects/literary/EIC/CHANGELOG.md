@@ -4,6 +4,29 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-02] (gin thread — second pass, author-approved set)
+
+### Added
+- 1626: the boycott — Carter pours the house genever onto the
+  flagstones when the Amboyna news lands; the smell of juniper
+  "hangs over the room like a verdict."
+- 1839: the lime completes the glass — "gin, bark, lime: the entire
+  pharmacopoeia of empire... twenty years before anyone thinks to
+  sell the bitter part fizzing in bottles."
+- 1858: the subaltern returns for the first bottled G&T, stood by
+  the house in a pewter tankard; "some transactions are not for the
+  books."
+- 1940: one October night the Blitz smoke smells of juniper; the old
+  docker's only joke of the week.
+- 2019: the toast micro-arc ("Cheers... the last worn coin of four
+  centuries of toasts — for King William, to nothing, to absent
+  friends") and Hannah's own after-close gin and tonic beneath the
+  fuchsia — gin, flower, and keeper threads meeting in the book's
+  final page.
+- Timeline (1751 Gin Act), Author's Note (the gin history is
+  straight history), bibliography (Walker & Nesbitt, Just the
+  Tonic). Hard guard logged: no gin stations in 1770 or 1888.
+
 ## [2026-07-02] (2019 gin scene tightened)
 
 ### Changed
