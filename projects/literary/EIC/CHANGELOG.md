@@ -4,6 +4,26 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-02] (1888 expansion — the centerpiece pass)
+
+### Changed
+- "The Watchman's Daughter" (1888) rewritten from ~2,100 to ~5,000
+  words as an emotional short story, per author direction: Su gains
+  a moral compass (her father's four rules and her mother's God, two
+  systems of debt); she knows Long Liz and Kate before the thirtieth
+  of September takes both in one night; the martial art is built
+  from her grandfather's Canton practice through years of training
+  ("the work"), with the laundry itself as conditioning; a new
+  Nobody-to-Tell section explains why the police are closed to her;
+  the fight is expanded so its mechanics pay off the training; and
+  the case goes into the river unopened — the killings stop, Cray is
+  gone, and neither Su nor the reader ever learns whether he was the
+  Ripper. Cray is also given genuine kindnesses (the potboy's fever,
+  the docker's shoulder) so the ambiguity has real weight on both
+  sides.
+- Author's Note extended: names the Stride/Eddowes friendships as
+  invention, drawn from the record and extended with affection.
+
 ## [2026-07-02] (craft pass per editorial assessment)
 
 ### Added

@@ -20,70 +20,178 @@ In the corner, the chair with the too-short back leg sits empty tonight, the way
 
 * * *
 
-## II. Dr. Cray
+## II. Long Liz and Kate
+
+Before they were the third and the fourth names on a list, they were customers.
+
+The laundry Su Zhang's mother takes in comes from everywhere the river touches — sailors' shirts mostly, brought round in a wicker basket and settled at the Prospect's bar because half the customers owe money faster than they can be tracked down anywhere else — but some of it walks in off the Whitechapel Road on its own feet. Working women, the polite word is, when a polite word gets used at all. They bring what they have: a good bodice that has to last, a Sunday shawl, linens whose whiteness is a kind of livelihood. They pay in farthings, and they pay late, and Su's mother takes the work anyway, because Mary O'Connell of Shadwell has been poor in two countries and holds strong opinions about who deserves clean linen, which is everyone.
+
+Long Liz comes on Mondays, when she comes. A tall Swede with a soft accent she can put on or take off like a bonnet, who crossed her own ocean the way Su's father crossed his, and remade herself in English the way he did, and knows it — the two of them once spent a quarter of an hour at the shop counter comparing, with great seriousness, which words they still could not feel anything in. Grief, Liz said, is only a noise to me in English. In Swedish it has a floor and walls. Liz tells everyone who will listen that she lost her husband and two of her children when the Princess Alice went down — six hundred souls in the Thames off Woolwich, the worst night the river ever gave this city — and Su, who has spent her life reading which knots are tied wrong, worked out years ago that the story isn't true, or isn't hers. She has never said so. Some stories are load-bearing. You do not pull them out of a person and expect the person to keep standing.
+
+Kate comes whenever there's mending, which is always, because Kate's whole wardrobe is a running argument with time. Small, quick, Midlands-voiced, cheerful the way a kettle is cheerful — loudest when things are hottest. She calls Su *duchess*, for no reason anyone remembers, and sings while she waits for her parcels — halves of songs, verses of things, whatever's already in the room. In September she's full of plans: she and her man are off to Kent for the hopping, weeks of clean air and farm wages, and she'll come back flush and settle her slate, see if she doesn't. She says it laughing, both of them knowing the slate will outlive them all.
+
+Mind yourself down there, duchess, she says on her way out, the last Monday of the summer, nodding at the newspaper on the counter with its black headline. And Su says, You too, and means it the ordinary amount — the amount you mean it when the world still seems wide enough for everyone to be careful in.
+
+* * *
+
+## III. The Work
+
+Her grandfather was a master in Canton. Not a rich man — a man other men came to, which on his street was better than rich. Sailors who saw such things in the treaty ports came home calling it Chinese boxing, and other words would come later, but her father never used any of them. He called it the work, in the same flat voice he used for the shop's accounts, and he taught it to Su in the yard behind the chandlery from the time she was seven years old, at dawn, before the counter opened, because that was when his own father had taught him.
+
+The work is not what the sailors' stories make of it. It is standing in a low horse stance while the wash-copper heats, until her legs shake, and then until they stop shaking, which takes years. It is her forearms meeting the wooden rail, over and over, until bone learns what bone can be asked to bear. It is the laundry itself, though she doesn't understand that for a long time — ten thousand sheets wrung out by hand build a grip no drill can, and her father watches her wring them and says nothing and counts it as training, because it is. And it is two-person work in the near-dark, her arms crossed against his, learning to read force through touch the way she reads knots by eye: where a push is going before it knows itself, which way a wrist wants to turn, what a shoulder confesses half a second before the hand moves. Listening, her father calls it. By fifteen she can stand in the yard with her eyes shut and tell him, through two crossed wrists, which foot his weight is on.
+
+And it is rules. The rules come with the art the way the tide comes with the river. Her father recites them in Cantonese and makes her give them back in English, because a rule you can only say in one language is a rule you only half know.
+
+Never first. Never for show. Never for payment. Never in anger.
+
+The work stops things, he tells her. It does not answer them. You are not learning to win fights. You are learning to end one that has already started, in the smallest number of moves, and then to live correctly with having ended it. His father's words, worn smooth by two generations of carrying: whoever holds the art carries a weapon everywhere, all her life, in her own body — and a weapon that walks about all day must have better manners than a knife that stays in a drawer.
+
+Su grew up between two systems of debt. Her mother's God kept books; her father's art kept rules. Between them they made something in her that has no name in either of her languages — an interior tally that must balance, whatever the balancing costs, kept in a script only she can read.
+
+She has used the work in earnest exactly twice. Once at fourteen, when three dock boys decided a Chinese girl carrying a basket was sport, and discovered — in roughly the time it takes to say so — that two of them could not stand up and the third could not run fast enough to matter. Once at seventeen, on a man who would not leave the shop at closing and put his hand where it had no business, and who left bent over his own wrist, walking on his toes, making a sound like a hinge wanting oil. Neither time did she talk about it after. Her father's response, both times, was the same: no praise, no comfort. He had her recite the rules, all four, in both languages, and then he corrected her stance in the cold yard for half an hour, as though the incident had revealed a flaw in her footwork rather than in the world — and that, she understood much later, was how a watchman said *I am proud of you and it frightens me*, in the only dialect he had for it.
+
+* * *
+
+## IV. The Thirtieth of September
+
+The last night of September takes both of them.
+
+The news comes up the dock road the next day the way that autumn's news always comes — wrong twice before noon, then right, then worse than right. Two in one night this time, streets apart, inside the same hour. The first found near Berner Street with her throat cut and nothing else done, as though something interrupted. The second in Mitre Square, three-quarters of a mile on, where nothing interrupted anything.
+
+Long Liz. And Kate.
+
+Su hears the second name in the Prospect itself, from a carman reading a late edition aloud, stumbling over *Eddowes* the way print makes strangers of people you know, and the room goes on around her — appalled, thrilled, theorizing — while she stands with a basket of clean shirts on her hip and a docket in her hand and, very carefully, does not fall down.
+
+Back with hop money, I'll settle the slate. Kate had come home from Kent early — the hopping gone wrong, back in the city days before, broke as ever, everyone says so afterwards. The mending basket in the shop's back room still holds a bodice of hers, taken in at the seams, wrapped in paper, paid for and never collected. Su's mother, who has buried a country and two sisters and calls weeping a Tuesday, sits down that evening over that parcel and cries the way stones would cry if they could, and then stands up and finishes the day's pressing, because grief in Shadwell is a luxury taken in instalments.
+
+Her father closes the shutters himself that night, which he has not done in years — walks the shop-front slow, testing each bolt like a man reading the street through his fingertips.
+
+Su does not cry. Something else happens instead, lower down and worse: a long, patient heat, banked like the copper's fire, that does not gutter and does not spread and does not go out. She takes it to her father in the yard before dawn, because she does not trust it, and he is the only person she knows who has carried one like it.
+
+What are the rules, she asks him, for this.
+
+He works through his form in the dark for a while before he answers, and when he answers he doesn't stop moving.
+
+The rules don't change because you are bleeding, he says. That is what makes them rules and not moods. The work stops things. It does not avenge them. His hands finish something old and precise in the air. If you go looking for a debt to collect, daughter, you will find one — the world is never short — and you will collect it, because you are good. And then you will be a different person, and I will have taught that person everything she knows.
+
+Su is not yet twenty. She stands in the cold yard hearing the difference between stopping and avenging, and the difference is the width of a knife, and she cannot yet see which side of it she is standing on.
+
+* * *
+
+## V. Dr. Cray
 
 Dr. Reginald Cray has been a fixture some fifteen years now, since he retired from the Company's medical service and took rooms nearby — not rich exactly, but comfortable, the comfort of a man whose pension arrived from Leadenhall Street for decades of service nobody asks too closely about. He served as a surgeon in Bengal in the fifties, before the Mutiny, before the Crown took over what the Company had built. He does not talk about those years unless pressed, and even then only in the vaguest terms — fever, heat, the ordinary hardships of the tropics — and the one time a dockworker asked him straight what he'd seen out there, Dr. Cray answered that a surgeon sees what a war needs him to see, and changed the subject, and bought the man a drink so smoothly that the dockworker didn't notice for an hour that his question had never actually been answered.
 
 He is precise in his habits. Same stool. Same brandy, never more than two. He is good with his hands in the way old surgeons are — steady, economical, no wasted motion, and he still carries a leather case that never seems to leave his side, the kind a physician might carry to a house call, though nobody has ever seen what's inside it.
 
-He is polite to the barmaids in a way some of them find courtly and others find difficult to name a reason for disliking. He asks after their health with real-sounding concern. He remembers their names. He watches the room the way a man watches a ledger, totting something up that nobody else can see the columns of.
+He is also — and this is the part that will not simplify later, no matter how much later needs it to — kind. Or something that photographs identically to kindness. When the potboy took a fever in the spring, Cray climbed two flights to see him, twice, and charged nothing, and the boy mended. He set a docker's dislocated shoulder once, right there on the bar floor, gently, talking the man through it like weather. He asks after Su's mother's rheumatism with what sounds like real knowledge, and the liniment he recommends actually works. He is polite to the barmaids in a way some of them find courtly and others find difficult to name a reason for disliking. He remembers their names. He watches the room the way a man watches a ledger, totting something up that nobody else can see the columns of.
+
+A terrible autumn, he says to Su in October, quietly, settling his coin on the bar. I understand you knew one of the women. I am sorry for it. There is nothing in his face but an old man's sympathy. That is either the truth about him, or the most frightening fact in this whole story, and Su will never in her life find out which.
 
 * * *
 
-## III. Su
+## VI. The Case
 
-Her father, Wei Zhang, came off a Company ship in the seventies, one of the last generation to cross under that flag before the routes passed to newer lines flying newer colours, and he stayed, the way a few hundred men from Canton and Shanghai stayed, running a chandlery near the Causeway and marrying Mary O'Connell, a Shadwell girl who thought he had the steadiest hands she'd ever seen on a man. Su Zhang grew up between two languages and two sets of expectations, working the counter in her father's shop from the time she was tall enough to reach it, and when the dockside boys decided a Chinese girl was an easy target, her father taught her what his own father had taught him — not for sport, not for tournaments, just the practical, unglamorous mechanics of making sure a bigger person regrets touching you. She has used it exactly twice in earnest before this autumn. Both times it worked. Neither time did she talk about it after.
-
-She comes into the Prospect some evenings to collect payment for laundry her mother takes in — sailors' shirts, mostly, brought round in a basket, exchanged for coin at the bar because half the customers owe money faster than they can be tracked down elsewhere. Hannah likes her. Dr. Cray likes her too, or seems to, complimenting the folding of the shirts with the same courtly attention he gives everything, and Su is polite back, because politeness costs nothing and the shop needs the custom.
-
-* * *
-
-## IV. The Case
-
-It is a raw evening in the last week of November when she notices the case.
+It is a raw evening in the last week of November when she sees inside the case.
 
 He sets it on the bar while he pays her, just for a moment, just long enough to free both hands for his coin purse, and the clasp has come slightly loose, and Su — who has spent a childhood noticing which knots are tied wrong on which crates because a wrong knot on the docks costs somebody money — sees, for less than a second, what a leather physician's case ought to hold and does not: no rolled bandages, no vials, nothing a house call would want. Something wrapped in oilcloth instead, long enough to run the case's full length, and by the time she has registered this the clasp is closed again and Dr. Cray is smiling at her the way he always does, unhurried, and asking whether her mother's rheumatism has improved with the cold.
 
 She says it has. She takes her coin. She does not run, because running would tell him something, and she has already understood — in the animal, unarguable part of the mind that does the understanding before the rest of you catches up — that this is not a man it is safe to alarm.
 
-That night she asks about him. Not directly. She asks Hannah how long he's kept rooms nearby, asks a dockworker what "Company medical service" actually meant in practice, in Bengal, in the fifties, before anyone quite called it what it later got called. The dockworker, who fought in the Mutiny himself and doesn't love being asked, says the Company's surgeons saw men flogged to death for looking at an officer wrong and were expected to certify the cause as fever, and did, and were paid on time for it. He says a man can get used to almost anything if his wages depend on it. He says he wouldn't trust a Company surgeon's calm as far as he could throw him, not the calm ones especially, because the ones who came back rattled at least still had something in them that flinched.
+That night, lying awake, her memory begins handing her things she did not know it had kept. The first morning of October — the morning after the thirtieth — Cray at his stool at an hour earlier than his habit, with a small fresh cut high on his cheekbone, and the way he touched it and said, to nobody, unasked: razor — a man my age should keep a steadier hand. She has folded ten thousand shirts to the rhythm of that room's talk and never thought of it since. She thinks of it now. And because her father raised her to read a knot from both ends, she makes herself think the other things too: old men do cut themselves shaving. Surgeons do own knives — a long blade wrapped in oilcloth is not a crime, it is a retirement. A man may walk out late because sleep leaves early when you are sixty-one. Every strand of it can be tied two ways.
+
+She starts asking, all the same. Not directly. She asks Hannah how long he's kept rooms nearby, asks a dockworker what "Company medical service" actually meant in practice, in Bengal, in the fifties, before anyone quite called it what it later got called. The dockworker, who fought in the Mutiny himself and doesn't love being asked, says the Company's surgeons saw men flogged to death for looking at an officer wrong and were expected to certify the cause as fever, and did, and were paid on time for it. He says a man can get used to almost anything if his wages depend on it. He says he wouldn't trust a Company surgeon's calm as far as he could throw him, not the calm ones especially, because the ones who came back rattled at least still had something in them that flinched.
 
 After that she watches him differently, and the watching gives her more. The ledger-look she has always half-noticed, totting up a room nobody else can see the columns of. The departures at the same hour to the minute, which in a man with nowhere to be is not habit but schedule. And once, through the window, the way his attention settles on a woman passing alone on the far side of the lane — nothing in his face changing at all, which is the part she cannot afterward stop seeing.
 
-She does not let herself decide he is the author of all five. That is the newspapers' arithmetic, and she has no way to do it, and she knows the difference between what she can count and what she can't — her whole life has been kept in ledgers that had to balance. What she decides is smaller and harder: whatever this man is, he is hunting. And stopping a hunting thing does not require knowing the whole of its history.
+And in the other column, in her father's honest bookkeeping: the potboy's fever. The docker's shoulder. The liniment that works.
 
 * * *
 
-## V. The Alley
+## VII. Nobody to Tell
 
-She waits three nights before she is certain, and on the third night she is right.
+Telling someone is the correct thing, and she thinks it through properly, because the rules require it — never first means you exhaust the world's other answers before you become one.
 
-He leaves the Prospect at his usual hour, unhurried, the case under his arm, and instead of turning toward his rooms he turns the other way, down toward the darker stretch where the warehouses crowd close enough to blot out what little moon there is, and there is a woman ahead of him on the lane who has no idea she is being followed by anything worse than the cold.
+She gets as far as the steps of the police station on a Thursday, a prepared sentence in her mouth, and stands across the road long enough to watch two constables walk a man in for questioning — a Polish Jew, by the shouts of the crowd that has boiled up out of nowhere behind him, bleeding above the eye for the crime of resembling somebody's idea of somebody. It has been like this since the papers printed *Leather Apron* in September: the East End hunting foreigners, any foreigners; shopkeepers who talk wrong boarding their windows; her own father taking to standing in his doorway at closing with his hands folded in front of him, showing the street how steady they are.
 
-Su has been waiting in the alley beside the Prospect for two hours with a boning knife from her father's kitchen inside her sleeve, because the alley is the shortest way between his rooms and that stretch of warehouses, and she has read his habits the way she once read knots — which ones are tied wrong, and what a wrong one costs somebody.
+She reads the whole knot before she pulls it, there on the station steps. A Chinese laundry girl, nineteen, walks into a police station and accuses an English gentleman — a doctor, a Company pensioner — of being the thing in the newspapers, on the evidence of an oilcloth parcel and a shaving cut. In the best telling, she is laughed down the steps. In the ordinary telling, the story escapes the station by supper, the way stories do, and reaches the Whitechapel Road by dark with her name on it — *the Chinaman's girl said* — and by morning it is not Cray's windows being boarded, and not Cray's father standing in a doorway showing a mob his hands.
 
-She steps out in front of him instead of behind. It is the only piece of it that isn't instinct — she has thought about this part specifically, because a man like this will have planned for someone coming from behind and never once considered someone already standing in his way.
+A whisper against a foreigner is a torch, she thinks, walking home. A whisper against a gentleman is a shrug. The law of this city has a current in it, like the river, and it does not run in her direction.
+
+She tells no one. Not Hannah. Not her mother. Not — and this costs the most, and she does it deliberately, with both eyes open — her father. Because her father would believe her. That is exactly the trouble. He would believe her, and then the rules that hold him together would demand something of him, one way or another, and he is beloved and foreign in a city that is currently burning foreigners for kindling. Whatever is going to be carried here, she decides, at nineteen, on the steps of a station that would not have believed her, is going to be carried by her.
+
+* * *
+
+## VIII. Three Nights
+
+She does not let herself decide he is the author of all five. That is the newspapers' arithmetic, and she has no way to do it, and she knows the difference between what she can count and what she can't — her whole life has been kept in ledgers that had to balance. What she decides is smaller and harder: whatever this man is, he is hunting. And stopping a hunting thing does not require knowing the whole of its history.
+
+But it does require being sure of the hunt. Those are the rules, and she keeps them the way her mother keeps fast days — resentfully, completely. Never first: he must be moving before she is. Never in anger: and here she does the hardest work of her life, harder than any stance her father ever held her in, because the banked heat that has lived under her ribs since the thirtieth of September wants this — wants it to be him, wants it to be for Kate and for Liz — and the rules say that a debt-collector in an alley will collect whether the debt is owed or not. So she takes the heat and makes it wait outside. What goes into the dark with her must be colder than that, or nothing her father built in that yard means anything.
+
+She waits three nights, watching. The first two nights he walks to his rooms like any old man, and she goes home and lies awake and is glad, and is ashamed of being glad, and is ashamed of being ashamed.
+
+On the third night he turns the other way.
+
+* * *
+
+## IX. The Alley
+
+He leaves the Prospect at his usual hour, unhurried, the case under his arm, and instead of turning toward his rooms he turns down toward the darker stretch where the warehouses crowd close enough to blot out what little moon there is, and there is a woman ahead of him on the lane — alone, tired-walking, one of the hundreds this city uses up — who has no idea she is being followed by anything worse than the cold.
+
+Su has been in the alley beside the Prospect for two hours, the boning knife from her father's kitchen lying along her forearm inside her sleeve, because the alley is the shortest way between his rooms and that stretch, and she has read his habits the way she once read knots — which ones are tied wrong, and what a wrong one costs somebody.
+
+She steps out in front of him. It is the only piece of the night that isn't the work itself — she has thought about this part specifically, because a man like this will have spent a lifetime planning for someone coming from behind, and never once considered someone already standing in his way. And facing him keeps the last rule whole: never first. In front of him, she is a girl in a lane. Whatever happens next is his to begin.
 
 He stops. In the near-dark his face does something unreadable — not fear, not yet, something closer to irritation, the look of a man interrupted mid-calculation.
 
-You're a long way from your father's shop, he says. Pleasant, still. His hand is already moving toward the case.
+You're a long way from your father's shop, he says. Pleasant, still. And his hand goes to the case — to the clasp, not the handle — and that is the beginning, and everything her father ever taught her agrees about it at once.
 
-She doesn't wait to see what the oilcloth was wrapped around. She has already decided, in the two hours of waiting, that whatever it is she is not going to be the one who finds out by feeling it.
+She is inside his reach before the clasp opens. Her left forearm finds his right — listening — and his arm tells her everything through the touch, the way arms have told her things in a dark yard for twelve years: the wrist turning over, the weight rocking back to make room for whatever the oilcloth holds. She does not wait to meet it. Her heel stamps down the side of his knee, short and low, and his structure goes the way structures go when the ground is subtracted from them; the case drops; and his free hand closes on her collar with a strength that has nothing old in it at all — a surgeon's grip, educated on struggle, and for one whole second it is winning, wrenching her half off her feet, and that second is where anybody else this city could have sent into this alley dies.
 
-What happens next happens fast and low to the ground and almost entirely without sound — his surprise costing him the first half-second, her weight already committed before he finishes reaching, the boning knife doing in her hand what it was built to do to something considerably tougher than what it meets tonight. He is stronger than her. He is also sixty-one years old and has not, in three decades, met anyone who fought back before he was ready for it. That difference turns out to matter more than the strength does.
+But her body has wrung ten thousand sheets, and her wrist has been turned by her father ten thousand mornings, and the work was made by small people for exactly this moment — she folds with the wrench instead of against it, borrows it, turns inside it, and his wrist comes with her the way wrists must, and the knife does, in her hand, low and once and almost without sound, what it was built to do to something considerably tougher than what it meets tonight.
 
-It is over in less time than it takes to describe. He goes down against the wall of the warehouse and does not get back up, and the alley is very quiet except for the river doing what the river does forty feet away, indifferent to what has just happened on its bank the way it has been indifferent to everything else this book has put in front of it.
+He goes down against the warehouse wall and does not get back up. His face, at the last of it, is not what she braced for. It is a question, unfinished — as though a calculation had come out wrong and he wanted, professionally, to know where. He does not confess. He does not deny. You, he says — and the rest of the sentence goes wherever the rest of such sentences go, and the alley is very quiet except for the river doing what the river does forty feet away.
 
-Su stands over him for a long moment, breathing hard, before she starts shaking — not before, during would have got her killed. After is allowed.
+Down the lane, the woman walks on, unknowing, into the rest of her life.
+
+Su stands over him, breathing hard, before she starts shaking — not before; during would have got her killed. After is allowed. His grip is stamped into her collarbone in bruises that will take three weeks to fade, and she will wear high collars every one of those days, and her mother will notice, and say nothing, because Mary O'Connell keeps her own ledgers and knows an entry that isn't hers to read.
 
 * * *
 
-## VI. What the River Kept
+## X. The Clasp
 
-Nobody official ever learns what happened in that alley. The body goes into the Thames before first light, weighted with chain from her father's shop, and the tide that has carried tea and opium and gold and the ashes of an empire carries this too, without comment, the way it carries everything.
+The case lies in the mud where it fell, and this is the part of the night she has planned least, because she could not plan it without deciding, and she could not decide.
 
-There is no sixth murder. The papers spend a few weeks on theories — a sailor gone back to sea, a madman drowned in the river, the killer frightened off at last by the size of the manhunt — and then move on to other news, the way papers do once a story stops giving them anything fresh to print.
+She kneels with her hand on the clasp for a long time. One motion. Inside is either the thing the oilcloth's shape has promised all along — and then she is right, and the heat under her ribs gets its answer, and Kate and Liz get their answer, and the shaking in her hands gets to mean something — or it is bandages and a retired man's blade and an old man's habits, and then she is something there is no English word for, though Cantonese has one, and her father must never learn how well she knows it now.
+
+She takes her hand off the clasp.
+
+Not because she is afraid of the answer — she tells herself this on her knees in the dark, and will spend years checking whether it was true. Because of the rules. If she opens it and finds the horror, the thing she has just done becomes a payment, a wage, a debt collected — never for payment — and she will have made herself, backwards, in one motion, exactly what her father warned the world would offer to make her. What she did in this alley has to stand on what she knew when she did it: a hunting thing, a followed woman, a hand going to a clasp. That was enough to act on. It will have to be enough to live on. Knowing more now would not make the dead man more stopped. It would only make her more comfortable — and comfort, her father says, is the one wage the work never pays.
+
+The body goes into the Thames before first light, weighted with chain from her father's shop. The case goes in with it, unopened, wrapped and weighted separately, a little further out — the one thing in the world that could have answered the question, translated into the only language the river speaks, which has no word for yes and no word for no.
+
+* * *
+
+## XI. No Sixth
+
+There is no sixth murder.
+
+The papers spend the winter on theories — a sailor gone back to sea, a madman drowned in the river, a lunatic quietly committed by a family with means, the killer frightened off at last by the sheer size of the manhunt — and then move on to other news, the way papers do once a story stops giving them anything fresh to print. Any of the theories might be true. All of them might. That is the thing about an ending that arrives without an explanation: it fits every story anyone needs it to.
 
 Dr. Cray is reported missing by his housekeeper within the week. Retired gentlemen wander off sometimes, the constable tells her. Gone to the country, most likely. Nobody looks very hard. Nobody ever does, for a quiet man with a Company pension and no family left to press the question.
 
-Su goes back to folding shirts the next morning, because the shop still needs the custom and her mother still needs the help. She tells no one — not Hannah, not her mother, not the dockworker who handed her, without knowing it, the one fact she needed. She carries what happened the way the river carries everything that goes into it: without a mark left on the surface, without anyone else ever quite knowing it's down there. The water took him in without comment. It has never once been asked what it's holding, and it has never once answered.
+Su reads everything, that winter and for years afterward. She learns the dates of the five deaths by heart and lays his habits against them, again and again, in the private dark, and the answer is always the same: it fits, and it does not prove. The razor cut fits, and proves nothing. The schedule fits, and proves nothing. The oilcloth fit the shape of her fear exactly, and is at the bottom of the river, and proves nothing. She has stopped either the century's monster or a strange old man on a night walk behind a stranger — and the truth of it went into the water with the case, and the water has never once been asked a question it answered.
+
+* * *
+
+## XII. What the River Kept
+
+Su goes back to folding shirts the next morning, because the shop still needs the custom and her mother still needs the help, and because that is what the women of her family do with the days after the worst days: they finish the pressing.
+
+She tells no one, ever. Not Hannah. Not her mother. Not the dockworker who handed her, without knowing it, the one fact she needed. Not her father — though on the first morning, in the yard, working through the form beside him in the cold, she feels him reading her through the crossed wrists the way he has read her since she was seven, and when they finish, his eyes are older than they were, and all he says is: your weight is back on your heels. Fix it. And she fixes it, and he never asks, and that is how two people who love each other carry a thing up a long flight of years — one landing at a time, without ever once naming what it weighs.
+
+She thinks of Long Liz more than she expects to, in the after-years — Liz and her drowned family that never drowned, the story she wore because the true one couldn't be worn in public. Su understands her completely now. She has her own Princess Alice: a night, an alley, a clasp she took her hand from. A story that holds her up and can never be told, carried the way the river carries everything that goes into it — without a mark left on the surface, without anyone else ever quite knowing it's down there.
+
+Kate's bodice stays wrapped in its paper in the back room for years, paid for and never collected, because neither Su nor her mother can bring themselves to unpick the seams and use the cloth. When the shop finally passes to other hands, it goes with Su to her own house, still in its paper. Some accounts are kept open on purpose. It is the only entry in the family's books that both women can read and neither will ever say aloud.
+
+The water took him in without comment. It has never once been asked what it's holding, and it has never once answered.
