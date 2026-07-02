@@ -4,6 +4,29 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-02] (Wei's crossing — the author's anecdote adapted)
+
+### Added
+- Chapter 12 §III: Wei Zhang's crossing from Hong Kong to London
+  (~900 words), adapted from the author's real Uzbekistan–Seoul
+  travel anecdote — the indifferent clerk and missed lighter, the
+  runner boy who refuses payment (rule three's origin), "It felt
+  good to run," the steerage meal, the cabin boy consoled, and
+  the borrowed white bowl never returned, kept on the shop's high
+  shelf.
+- Chapter 12 §VII: one echo on the station steps — Su re-hears
+  the story's first half (the man the empire looked through) as
+  the city looks through her.
+- Craft plan §3e: crossing-story bullet with a no-third-touch
+  rule; the runner is never called a Lascar.
+
+### Rejected (analysed, not adopted)
+- "1885: Su's departure" prequel (contradicts Wapping-born Su);
+  new 1670s Tonkin chapter (structure locked at 14); 1770 Bengal
+  variant (tonal collision with the famine); 1839 grandfather-
+  saves-Hale variant (load-bearing coincidence; weakens Hale's
+  principled testimony).
+
 ## [2026-07-02] (external methodology review — book-genesis-v4)
 
 ### Added
