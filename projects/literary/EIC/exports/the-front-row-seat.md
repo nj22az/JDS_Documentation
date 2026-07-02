@@ -1407,6 +1407,8 @@ The bar is busier than it used to be, and the men in it have changed kind, not j
 
 A ship passes the window. Then another. Then three more, heading downriver, sitting deep and loaded. The men at the bar glance up — the look of men who know exactly what's in those holds and are pleased about it.
 
+Last autumn a different ship went by, going the other way, and the whole bar came to the window for her: the Temeraire — the old Fighting Temeraire, ninety-eight guns, Trafalgar — dismasted, dead, under tow to the breakers at Rotherhithe behind a steam tug half her length. Nobody spoke while she passed. Sail hauled to the knacker's by smoke: every man at this window knew exactly what he was looking at, and not one of them could have said it aloud. A painter got it down, they say, from somewhere along this reach — got the sunset in behind her like a funeral the sky had agreed to hold. The bar has not seen the picture. The bar saw the ship.
+
 Behind the bar's regular business, a card game two tables over tips suddenly physical — a disputed deal, a shove, a stumbled step backward into a table that catches the falling man across the shin instead of anything softer. By the time the argument's settled the table's back leg has gone from merely old to permanently wrong, cracked at the joint. Someone wedges a folded receipt under it before the night's out, and nobody gives it a second thought.
 
 * * *
@@ -2245,6 +2247,8 @@ Eight taps behind the bar now, and not one of them pours anything that existed w
 
 The pub's been called the Prospect of Whitby a long time now. Before that, the Devil's Tavern — a better name, but the people who run these things prefer something tourists can say without giggling. There's a sign outside with a ship painted on it, lit up along with everything else on this stretch of river these days, and under the sign, hanging baskets of fuchsia — crimson, purple, absurdly alive — which the tourists photograph as set-dressing and which are the one thing on the frontage the heritage menu doesn't claim and couldn't: two centuries of cuttings of cuttings, the oldest living thing on the premises. The world is too bright here now, most nights.
 
+Round the river side, out over the foreshore, hangs a gallows — a replica, a noose swinging photogenic above the low-tide mud — and the tourists photograph each other grinning under it, which is fair enough, since nobody grinning has any way of knowing that the mud below is the same mud, and that it has held the real thing's custom: Every's six in one November, Kidd twice in one afternoon, and the crowds who came down with their pies to watch.
+
 What's changed is everything but the bones. One tap used to serve this room; ale dark and warm, tasting of the river. Now there are eight, pouring things called Hop Fathom and Mudlark IPA, and the ale is still good — different, but good. There's a laminated menu with tasting notes. A section called 'Heritage,' three paragraphs, two of them wrong. A gift shop selling mugs and keyrings. A TripAdvisor sticker on the door.
 
 The tourists come by boat and by tube, because they've read this is the oldest pub on the Thames, that Dickens drank here, that pirates drank here — true, mostly — and because they've read that it's authentic. That's the word they're here for. A photograph proving they stood somewhere real, somewhere with depth, not another gastropub with the same reclaimed-wood tables as the last four.
@@ -2262,6 +2266,8 @@ The suits arrive on a schedule you could set a clock by — five o'clock the ear
 This one's a straggler, alone, which is unusual — navy suit, no tie, shoes that cost more than most people's rent. Orders a Mudlark IPA, drinks half in one go, and exhales like the day is finally leaving his shoulders.
 
 He's reading something on his phone. Looks up at the towers across the river. Back at the phone. Making a connection.
+
+News has entered this room by proclamation nailed to a post, by a sailor reading a newspaper aloud and badly, by a boy from the Times with a notebook, by wireless, by siren. Tonight it arrives silently, straight into one man's palm, and shares itself with nobody.
 
 This place, he says to Hannah. The East India Company lot used to drink here, right?
 
@@ -2311,9 +2317,13 @@ He orders tea, not a pint. Hannah pours it without comment. He holds the chipped
 
 His phone rings. He answers low, turns half away from the room, says something short, hangs up. His body's in Wapping. The rest of him is somewhere else — Mogadishu, Hargeisa, wherever home actually is. Home is never here for men who load containers. Here is just where the work is.
 
+The room has always held more languages than it admits — Cantonese rules recited at dawn, Swedish grief with its floors and walls, a wife's four words of English, a Lascar's three — words that crossed the world and kept their furniture. Somali is just tonight's.
+
 Ten feet away the hedge fund manager is still reading about the Company on his phone. Same pub, same evening, same river. One moves money, the other moves boxes, and the chain between them is long enough that neither will notice it tonight.
 
 He finishes his tea, pulls his jacket tight, and looks once at the river before he goes back out into the cold.
+
+Hannah never rings the tea through. There is no slate behind this bar anymore — the card machine did for it years back — but every keeper of this room has kept one in her head, because a bar that cannot owe and be owed is only a shop. A week of grace chalked for a dockworker in the crash of '72; a rigger's wife's old slate settled with a flowerpot; tonic water written under candles and pipe-clay; a mended bodice paid for and never collected. The tea goes on the same ledger, the one nobody audits: the house's counter-book, four centuries old, in which every entry is eventually forgiven, which is exactly what makes it the opposite of every other ledger in this story.
 
 * * *
 
@@ -2361,6 +2371,8 @@ The Somali man doesn't glance back. Doesn't need to. He knows exactly what a Can
 
 On his way out, there's half a second — the hedge fund manager looks up, their eyes almost meet, the Somali man gives the small nod one stranger gives another: *I see you, that's enough.* The hedge fund manager nods back, automatic, not quite seeing him at all. Then the door shuts and he's gone, back to whatever bus takes him to wherever he actually lives, which isn't here, which is never here.
 
+At low tide, on the foreshore below the gallows, the mudlarks work the mud with trowels and licences — hobbyists now, where the trade used to be hunger. One of them comes up the stairs at dusk with the day's take in a tobacco tin and shows Hannah, for the price of a pint, the best of it: clay pipes, a musket flint, a garter buckle. And one coin. Gold, thin as a fingernail, stamped with writing that runs the wrong way and no king's head she knows. Foreign, the mudlark says. Old. Sailor dropped it, probably. Hannah turns it over twice and hands it back, and the river, which has held the question since before this house had glass in its windows, says nothing whatsoever about the others.
+
 Somewhere across the river, in a terraced house in Bow, a great-great-granddaughter of a Causeway chandler keeps three things she has never connected: a fuchsia in the yard that predates every fence around it; the steadiest hands in her school's first-aid course; and, at the back of a wardrobe, a parcel wrapped in paper gone the colour of weak tea — her grandmother's grandmother's, never to be thrown away, never to be opened. She could not tell you why. She keeps it anyway. Some families keep things the way some buildings do. In this part of London it runs in the blood and the brickwork both.
 
 The river doesn't care who's drinking and who's carrying tonight. It carries the tea, the gin, the containers, the money, all of it, without preference. That's what rivers do.
@@ -2392,6 +2404,8 @@ She doesn't call the brewery. Doesn't call a museum, not yet — not until she's
 The bar empties the way it always does — tourists first, back to their hotels; suits next, back to their towers; the stragglers last, the ones for whom this is a place and not an experience. Hannah wipes down, turns off half the taps, stacks the coasters.
 
 The room holds what it always holds: everything that's happened in it, unevenly remembered. A contract folded and unfolded on this bar four centuries back. A man's shaking hands. A number somebody couldn't stop repeating. A triangle drawn in spilled ale. A woman watching for a husband who never came. A confession about a well. A shareholder's ten and a half percent. A notebook filling up with bombs. Three of those things are sitting in a gap in the timber a few feet from where the hedge fund manager had his pint tonight, found and photographed and put back, and even now they explain almost nothing — a thimble, a scrap of paper, a notebook that stops mid-sentence, three objects standing in for everyone in this book who left nothing behind at all. None of it is on the walls. None of it is in the heritage section. The beams don't announce what they've seen. A building doesn't testify — it only stands, and leaves the noticing to whoever happens to be standing in it.
+
+And under all of it, older than any cargo, the room's longest-serving trade: the women who waited. For boys who signed. For a factor three years silent. For a husband off a Company ship. For a rigger in the Brazils with a plant between his knees. For a fireman son in a burning dock. The marks Ashby cut under the counter were the first entries in that ledger, and it is the only one this book has never once needed to explain, because every century has known how to read it on sight.
 
 Most nights, not much gets noticed. The tourist's photographs hold a room, tastefully lit, four stars out of five, and none of the four hundred years the guidebook promised her. The hedge fund manager doesn't photograph anything — the case study's already filed away as inspiration, everyone it was built on stripped out of the file. The room doesn't especially remember him either. He's one of thousands who've warmed their hands here on a drink they didn't order for the taste.
 
@@ -2480,6 +2494,8 @@ The Prospect of Whitby is real, and older than the Company. The tide still runs 
 **1800–1839**  The opium trade expands. Indian poppy is forced on China via Canton.
 
 **1833**  The Charter Act. The Company loses its monopoly on trade but keeps its territory.
+
+**1838**  The Fighting Temeraire passes Wapping under tow to the breakers at Rotherhithe. A painter gets it down.
 
 **1839**  The First Opium War begins. The Royal Navy enforces the Company's drug trade.
 

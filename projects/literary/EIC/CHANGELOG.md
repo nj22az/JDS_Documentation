@@ -4,6 +4,26 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-02] (fourth-wave threads — recommended set)
+
+### Added
+- The gallows: 2019 payoff for the Execution Dock chapters — the
+  replica noose over the foreshore, tourists grinning under it,
+  "the mud below is the same mud."
+- The Temeraire: the bar at the window, autumn 1838, as the Fighting
+  Temeraire passes under tow — "The bar has not seen the picture.
+  The bar saw the ship." Timeline entry added.
+- The mudlark's coin: Esther's 1696 gold surfaces on the 2019
+  foreshore in a hobbyist's tobacco tin; the river "says nothing
+  whatsoever about the others."
+- The slate: the house's counter-ledger bound in 2019 via the
+  Somali worker's unrung tea — the one ledger in the book in which
+  every entry is eventually forgiven.
+- Three bindings: how news enters the room; the room's languages;
+  the women who waited (keyed to Ashby's marks).
+- Thirteen remaining thread candidates banked in the craft plan
+  (§3f) with a saturation rule: replace or wait, never simply add.
+
 ## [2026-07-02] (the Zhang–Cray axis)
 
 ### Added
