@@ -4,6 +4,22 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-02] (three more author anecdotes adapted)
+
+### Added
+- Ch01 §VI: Tom's unspoken answer — the Essex millpond that was
+  the ocean, wreckers' false fires, "stories no one else in the
+  room could tell" (from "Why I Wanted to Be a Sailor").
+- Ch11 §III: Coombs's counter-memory — the Hakodate foot-bath,
+  shared chocolate, wordless understanding; deliberately the only
+  kept moment in the book with no object attached (from the
+  Rishiri anecdote; photos cut for 1880).
+- Ch13 §IV: the Canadian's Rotterdam story, re-set 1935 — the
+  brothel mistaken for a bar, the crew's chorus, then the laugh
+  running out on the May 1940 bombing of Rotterdam (from the 2006
+  cadet anecdote).
+- Craft plan §3g: adaptation log with one-touch/no-echo rule.
+
 ## [2026-07-02] (Wei's crossing — the author's anecdote adapted)
 
 ### Added

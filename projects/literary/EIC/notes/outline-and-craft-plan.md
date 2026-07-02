@@ -292,6 +292,28 @@ Pandora courts-martial (1792); the Lascar line's middle terms (1839, 1940). RULE
 one braid from puzzle-box; anything from this bank replaces, or waits for, a chapter that feels
 thin — it does not simply add.
 
+## 3g. Author-anecdote adaptations (2026-07-02)
+
+Real anecdotes from the author, translated into period and given to existing characters.
+Rule: **one touch each, no echoes elsewhere** — these are character texture, not braided
+threads. The Wei's-crossing adaptation (Uzbekistan/Seoul → ch12 §III) is logged in §3e.
+
+- **Ch01 §VI — Tom's unspoken answer** (from "Why I Wanted to Be a Sailor"). The Essex
+  millpond that was the ocean, serpents off the map edges, the cousin's wrecker tale of
+  false fires, "stories no one else in the room could tell." Placed at "He opens his
+  mouth. Nothing comes out." — the thimble gesture now sits on top of the reason he
+  can't speak.
+- **Ch11 §III — Coombs's counter-memory** (from the Rishiri foot-bath). Hakodate treaty
+  port, the shop up the hill, the stone ashiyu, shared chocolate carried from London,
+  wordless laughing. Photos cut (1880); the cut is the point — the only kept moment in
+  the book with **no object attached**, "the only cargo that came with no bill attached."
+- **Ch13 §IV — the Canadian's Rotterdam story** (from the 2006 cadet anecdote, re-set
+  1935). Taxi driver, valentine-card room, "what kind of bar doesn't keep beer?", the
+  hurt girl consoled, the crew's chorus (Bangkok second engineer included), months of
+  teasing — then the room's laugh runs out on the May 1940 bombing of Rotterdam: comedy
+  with the tide underneath. The free pint quietly joins the house counter-ledger the
+  2019 slate binding claims. No gin involved — the joke is the absence of any drink.
+
 ## 4. Chapters to consider converting to live scene — DONE (2026-07-02)
 
 Reportage-after-the-fact is a legitimate device and shouldn't be abandoned everywhere — variety
