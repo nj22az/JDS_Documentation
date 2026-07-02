@@ -147,6 +147,8 @@ He comes in later, when the Dragon's men have moved from cloves to a louder argu
 
 Hendricks. The Dutchman. Everyone in Wapping knows him. He's worked this river since before the Company existed, hauling cargo on a flat-bottomed barge, and he knows the Thames the way a priest knows his church — every channel, every sandbar, every tide.
 
+He drinks the house ale like everyone else, but there is a squat stone bottle that lives inside his coat — genever, juniper spirit from home — and he takes one measured pull from it at the end of each pint, a private punctuation. The English at the bar call it Dutch physic and want nothing to do with it: a medicine-smelling foreign habit, like the man himself. Give it ninety years and their grandchildren will be drowning in the stuff and calling it English. Nobody in this room knows that yet either.
+
 He's not popular here. He says things people don't want to hear, at the worst possible moment, and he's usually right.
 
 Tom notices him — Tom notices everyone tonight, the way anxious young men do — and carries his ale down the bar.
@@ -507,6 +509,8 @@ Necks, someone says.
 
 Necks, Tanner agrees, and goes back to his pint.
 
+The pint is ale, but the short glass beside it is the new thing: clear spirit, juniper-sharp — Hollands, the house calls it now, or geneva. Since a Dutchman took the English throne it has become nearly a patriotic act to prefer it to brandy, brandy being French, and France being the war. Old men grumble that their fathers called this stuff Dutch physic and wouldn't wash a wound with it. Their sons drink it for King William and the Protestant succession. It is the first time in this room's memory that a drink has changed its nationality. It will not be the last.
+
 * * *
 
 ## IV. The Odd Gold
@@ -848,6 +852,12 @@ My father is dead. My mother is dead. The looms are quiet. And the Company that 
 I didn't know about the weavers, Coates says. Quietly.
 
 Why would you. The Company doesn't tell its soldiers about weavers. It tells them about glory. You find out about the weavers after, in a bar, from a stranger.
+
+Coates pushes his empty tankard across. Gin, he says.
+
+The landlord doesn't move. Not in this house, he says. There's no heat in it; it's a wall, not a temper. I watched gin do to three streets what the Company did to the weavers — a penny drunk, twopence dead, mothers pawning the kettle and then the children's shoes. The magistrates finally got a collar on it six years back, and I'll not be the man who loosens it.
+
+Ale, then, Coates says, and means neither, and gets it.
 
 * * *
 
@@ -1419,6 +1429,8 @@ He comes in like a man who's been pushed, though nobody's touched him — the po
 
 He sits at the far end from Pemberton. Orders gin. His name is Hale — Dr Hale, naval surgeon, three years stationed off Canton.
 
+Gin and bark, he says to Hannah when she pours — an old service joke with all the laugh worn off it. In the fever ports the surgeons dose every man against the ague with Peruvian bark, and the bark is so bitter the men will risk the fever instead, so it goes down dissolved in spirits and sugar until it consents to be swallowed. Half of medicine east of the Cape, he says, to nobody in particular, is deciding what to hide the bitterness in. He says it like a man making conversation, and drinks like a man doing neither.
+
 He says nothing for a while, listening to Pemberton down the bar going on about auction prices and this year's Patna crop against last year's. His jaw tightens.
 
 Twelve and a half million, he says.
@@ -1556,6 +1568,8 @@ Gin, he says. One word, flat, like a stone dropped down a well. Hannah pours it.
 A man at the far end tries him. Back from India, then? Heard about the mutiny — terrible business, glad you made it back. The captain turns his head just enough to show his profile, and whatever's in it ends the conversation before it starts.
 
 He stays two hours. Four gins. Doesn't speak again, doesn't look at the river. Leaves the way he came, and the bar exhales when the door shuts behind him, the way a room exhales when a coffin's been carried out.
+
+Gin is having its year, as it happens. Some enterprising chemist has just this season patented an aerated quinine water — tonic, he is calling it — so that the bitter bark-dose every India hand swallows against fever can be had fizzing from a bottle, and the officers coming home from the horror are already asking for it the way they drank it in the mess: with gin, and lime, and no questions. The Company dies this August. Its drink is only now being born. They pass each other at the door, and nobody in the room remarks on it, because it is not the kind of thing that looks like history while it is happening.
 
 * * *
 
@@ -2259,7 +2273,25 @@ He's pleased with himself — feels he's honoured the place by knowing its busin
 
 * * *
 
-## VI. The Same River
+## VI. The Officer's Drink
+
+Two juniors from the five o'clock wave are still at the bar, ties in pockets, second round. One of them orders a gin and tonic — a double, the good tonic, and is there any pink grapefruit — because it is 2019 and gin has a menu in this pub now, forty bottles long, botanicals and copper stills and small-batch everything, the parish poison of 1750 reborn at twelve pounds a serve.
+
+His colleague makes the face. Gin and tonic? he says. What are you, gay?
+
+It's said lazily — a joke because it's shaped like one, the laugh already invoiced and expecting payment.
+
+Yep, says the man with the gin, not looking up from his phone, in the pleasant tone of someone confirming a delivery address. Anything else?
+
+The invoice goes unpaid. And Hannah, setting the glass down, adds the garnish the house has kept behind the bar for a century and a half: Officer's drink, that. The tonic's quinine — malaria medicine, bitter as a lawsuit, so they cut it with gin and lime to get it down. Every man who ran the Empire east of Suez drank them on doctor's orders. It's the most imperial object in this building, she says, and I'm counting the beams.
+
+The colleague looks at his lager and decides against asking after its family history, which is prudent, because the answer is Bavaria by way of a brand agency.
+
+The room has watched drinks change their clothes for four hundred years, the way it watched explanations do. Dutch physic becomes English courage. Mother's ruin becomes a gentleman's measure. The fever ration of the hardest men the Empire ever exported comes home, loses its malaria, gains a grapefruit, and gets called soft by a boy in a lanyard who has never taken anything for his health that tasted worse than oat milk. The drink outlived the Empire that mixed it — which is more than most of the Empire's monuments managed — and it has never once needed anyone to defend its honour, being, unlike most of what this room has served across four centuries, actual medicine.
+
+* * *
+
+## VII. The Same River
 
 The Somali man comes back in from his call, cold riding in with him. Same stool, same mug, another tea. Three feet from the hedge fund manager now, Hannah pouring for both of them at once.
 
@@ -2273,7 +2305,7 @@ The river doesn't care who's drinking and who's carrying tonight. It carries the
 
 * * *
 
-## VII. What Hannah Found
+## VIII. What Hannah Found
 
 The refit happens in January, when the tourist season's thinnest and the brewery finally agrees to the new cellar cooling system it's been promising since the autumn. Three days, the contractors say. It takes five, because nothing about a building this age goes to schedule, and on the third day, pulling the old bar counter away from the wall to run a cable behind it, one of them finds a gap in the timber that isn't structural — too regular, too deliberately worked, low enough that you'd have to duck and reach to find it at all.
 
@@ -2291,7 +2323,7 @@ She doesn't call the brewery. Doesn't call a museum, not yet — not until she's
 
 * * *
 
-## VIII. What Doesn't Show in the Photograph
+## IX. What Doesn't Show in the Photograph
 
 The bar empties the way it always does — tourists first, back to their hotels; suits next, back to their towers; the stragglers last, the ones for whom this is a place and not an experience. Hannah wipes down, turns off half the taps, stacks the coasters.
 

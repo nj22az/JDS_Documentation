@@ -4,6 +4,20 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-02] (gin line)
+
+### Added
+- The history of gin & tonic woven through the book as a third
+  texture motif, per author direction — six stations: Hendricks's
+  genever ("Dutch physic," 1603), gin's patriotic naturalization
+  under King William (1696), the landlord's Gin Lane refusal (1757),
+  Hale's "gin and bark" fever medicine (1839), tonic water patented
+  the year the Company dies (1858), and "The Officer's Drink" (new
+  2019 section): the "Gin and tonic? What are you, gay?" jibe dies
+  on the bar, and Hannah serves the history — the mocked drink is
+  the most imperial object in the building. Motif logged in the
+  craft plan (§3c).
+
 ## [2026-07-02] (1888 expansion — the centerpiece pass)
 
 ### Changed

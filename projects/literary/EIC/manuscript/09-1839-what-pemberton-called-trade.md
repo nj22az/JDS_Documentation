@@ -68,6 +68,8 @@ He comes in like a man who's been pushed, though nobody's touched him — the po
 
 He sits at the far end from Pemberton. Orders gin. His name is Hale — Dr Hale, naval surgeon, three years stationed off Canton.
 
+Gin and bark, he says to Hannah when she pours — an old service joke with all the laugh worn off it. In the fever ports the surgeons dose every man against the ague with Peruvian bark, and the bark is so bitter the men will risk the fever instead, so it goes down dissolved in spirits and sugar until it consents to be swallowed. Half of medicine east of the Cape, he says, to nobody in particular, is deciding what to hide the bitterness in. He says it like a man making conversation, and drinks like a man doing neither.
+
 He says nothing for a while, listening to Pemberton down the bar going on about auction prices and this year's Patna crop against last year's. His jaw tightens.
 
 Twelve and a half million, he says.
