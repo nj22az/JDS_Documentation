@@ -194,6 +194,8 @@ The charter was signed on New Year's Eve, she says. Three years back. Old Queen 
 
 He opens his mouth. Nothing comes out.
 
+What he cannot say — because at twenty-two, in front of this woman, it would sound like a child's answer, and because it is one — is that it was never the pepper. He grew up beside a millpond in Essex, a stretch of brown water a strong man could throw a stone across, and for ten summers it was the ocean. It had serpents in it, off the edges of the maps. There was a pirate cave under the willow roots, and a place on the far bank where — an older cousin swore to it — wreckers had once lit false fires to bring boats onto the stones, the boats being a rowing skiff and the stones being stones. He has wanted, for as long as he has been able to want anything, to come back through a door like this one with salt on his coat and stories no one else in the room could tell. There is no putting that in front of Ashby, next to forty-three men out of five hundred. It is not an answer to anything she has said. It is only the truth.
+
 Then, instead of anything he might have said, he does something instead. Reaches into his coat and comes out with the one thing in it worth more than the coat — a plain brass thimble, his mother's, the only piece of her he kept when there was nothing else worth the keeping. He sets it on the bar between them, not quite meeting her eye.
 
 Keep this, he says. Till I'm back.
