@@ -1,12 +1,12 @@
-> **1600**
+> **1603**
 >
 > *"They say the venture cannot fail, there being two hundred and eighteen fools instead of one."*
 >
-> — London broadsheet, 1600
+> — London broadsheet, 1603
 
 ---
 
-# 1600: The Boy Who Signed
+# 1603: The Boy Who Signed
 
 ## I. The Rain
 
@@ -14,7 +14,7 @@ The rain has not let up in three days. It comes in cold off the North Sea, turns
 
 Inside, the fire is built high. The ale is dark and it is good. A dozen men sit close to the heat, dockworkers mostly, hands like old leather. One coughs, wet and deep, the kind of cough a man does not recover from. Two argue about the price of tar. A third swears it will snow before morning and has already put money on it.
 
-Three nights before, in a warm room in the City, an old woman put her seal to a piece of paper. Nobody in this room knows about it yet. By the end of the week, most of them will.
+Three years before, in a warm room in the City, an old woman put her seal to a piece of paper. The old woman is dead now — gone in the spring, mourned, buried, succeeded. The paper is doing fine. Papers usually do.
 
 * * *
 
@@ -136,7 +136,7 @@ Tom notices him — Tom notices everyone tonight, the way anxious young men do �
 
 You were on the river before the Company. That right?
 
-Before your Queen was a thought in her father's head. Hendricks turns his pint slowly on the wood. I was hauling timber when the Portuguese owned everything east of the Cape and the English weren't allowed within a mile of it.
+Before your late Queen — God rest her — was a thought in her father's head. Hendricks turns his pint slowly on the wood. I was hauling timber when the Portuguese owned everything east of the Cape and the English weren't allowed within a mile of it.
 
 And now, Tom says.
 
@@ -148,7 +148,7 @@ Hendricks makes a sound that might be a laugh. On paper. And what happens when y
 
 The Dutch?
 
-The Dutch. Two years back, when your Company was still a dream in a ledger, the Dutch chartered their own. The VOC. Heard of it?
+The Dutch. The year before last, while your first fleet was still at sea, the Dutch chartered their own. The VOC. Heard of it?
 
 A little.
 
@@ -188,7 +188,7 @@ Hendricks has gone silent at his end of the bar, watching Tom the way a man watc
 
 Ashby comes over one last time, refills his ale.
 
-The charter was signed on New Year's Eve, she says. Old Queen Bess. Sixty-seven years old, and she signed a paper that said the Company could have the spice trade. Now here you are signing your own. She signs a paper. You sign a paper. Somewhere between the two papers, a great many men die. That's how it works, Tom. The people at the top sign. The people at the bottom die. The pepper comes back. The money comes back. The men don't.
+The charter was signed on New Year's Eve, she says. Three years back. Old Queen Bess — sixty-seven she was then, and dead since the spring, and the Company she signed into being is still here, hiring. Notice that, Tom. The queen is gone. The paper isn't. Now here you are signing your own. She signs a paper. You sign a paper. Somewhere between the two papers, a great many men die. That's how it works, Tom. The people at the top sign. The people at the bottom die. The pepper comes back. The money comes back. The men don't.
 
 He opens his mouth. Nothing comes out.
 
@@ -216,6 +216,6 @@ Ashby is alone. She takes a knife from her apron and scores a small mark into th
 
 Tom's thimble goes into the same gap, wedged back against the old wood where a notch can't be mistaken for a promise. She doesn't expect to see it collected. She has never once been wrong about that, and doesn't expect this morning to be the first time.
 
-The charter is a piece of paper in a locked room in the City. The Company is two hundred and eighteen names and a hold full of hope. Whether either is worth anything by Christmas, nobody in this bar could say. The ships go out. The boys sign. That's all that's known tonight, and it's all that needs to be.
+The charter is a piece of paper in a locked room in the City. The Company is two hundred and eighteen names and a warehouse of pepper the market has not yet agreed what to pay for. Whether the next fleet comes back at all, nobody in this bar could say. The ships go out. The boys sign. That's all that's known tonight, and it's all that needs to be.
 
 The tide goes out the way it always does, twice a day, indifferent to charters.

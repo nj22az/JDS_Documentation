@@ -4,6 +4,21 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-02]
+
+### Fixed
+- Re-dated the opening chapter from 1600 to 1603, resolving a
+  self-contradiction flagged by the author: the chapter had the
+  charter signed "three nights before" while Lancaster's crew were
+  already home from a first voyage that had not yet departed (fleet
+  sailed April 1601, returned September 1603). At 1603 every internal
+  reference lines up — first fleet "two years ago" and just paid off,
+  Tom signs for the second fleet (sailed spring 1604), Smythe back as
+  governor — and Elizabeth's death (March 1603) is folded in as a
+  thematic beat: the queen is dead, her paper is thriving. VOC
+  founding reference corrected to match (chartered 1602, while the
+  first fleet was at sea).
+
 ## [2026-07-01] (later the same day)
 
 ### Added
