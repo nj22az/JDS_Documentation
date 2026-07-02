@@ -4,6 +4,18 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-02] (gin line dramatized)
+
+### Changed
+- All gin stations converted from narrator-telling to scenes, per
+  author direction: Hendricks's Dutch-courage handoff to Tom (1603),
+  the brandy-order silence in the assassination year (1696), the
+  landlord laying Hogarth's Gin Lane on the bar as his licence
+  (1757), Hale mixing bark into gin on-page and the docker's taste
+  of it (1839), and a homesick subaltern ordering the first gin and
+  tonic by name while Hannah chalks "tonic water" on the brewery
+  slate (1858). The 2019 scene was already dramatized.
+
 ## [2026-07-02] (fuchsia — the living thread)
 
 ### Added

@@ -142,7 +142,9 @@ Why would you. The Company doesn't tell its soldiers about weavers. It tells the
 
 Coates pushes his empty tankard across. Gin, he says.
 
-The landlord doesn't move. Not in this house, he says. There's no heat in it; it's a wall, not a temper. I watched gin do to three streets what the Company did to the weavers — a penny drunk, twopence dead, mothers pawning the kettle and then the children's shoes. The magistrates finally got a collar on it six years back, and I'll not be the man who loosens it.
+The landlord doesn't move. Instead he reaches beneath the bar and lays a print flat on the wood between them, gone soft and white at the creases from years of exactly this. Gin Lane — Mr. Hogarth's sermon of six years back: the mother on the steps too drunk to feel her baby going over the rail, the pawnbroker fat as a bishop on kettles and carpenters' saws, a whole street falling down around its one thriving trade. The landlord taps the mother, once, without looking down. He has the print by heart.
+
+Not in this house, he says. There's no heat in it; it's a wall, not a temper. I watched gin do to three streets what the Company did to the weavers — a penny drunk, twopence dead, mothers pawning the kettle and then the children's shoes. The magistrates finally got a collar on it six years back, and I'll not be the man who loosens it. He slides the print away, under the bar, ready for the next man who asks. It is the only licence he keeps down there, and the only one he needs.
 
 Ale, then, Coates says, and means neither, and gets it.
 
