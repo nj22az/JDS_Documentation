@@ -92,7 +92,29 @@ Nobody has an answer for that. It isn't the kind of thing a bar can fix with an 
 
 * * *
 
-## VI. What the Bread Was For
+## VI. The Other Trial
+
+There is, as it happens, another captain being weighed in London this season, though nobody in this bar has spent a farthing's worth of breath on him tonight. In Westminster Hall, in its third year now, the trial of Warren Hastings grinds on — Governor-General of Bengal, the Company's own greatest man, impeached before the Lords for what the Company's rule did to the country it rules.
+
+It's a dockworker who brings it up, and mostly to needle the Company table: speaking of tyrants, gentlemen — how goes your captain's business up at Westminster? The one the Irishman's been roasting these two years and more?
+
+The senior Company man answers with the particular weariness of a man who has been asked this at dinners. You could not buy a seat, the first week, he says. Duchesses queuing at dawn. Tickets changing hands for more than that boat of Bligh's cost to fit out. Mr. Burke spoke four days together — four days — and when he got to what the tax men did at Rangpur there were ladies carried out of the Hall. I impeach him in the name of the people of India — the sentence crossed London faster than a fire crosses a rope-walk. For a month you would have thought the whole empire stood in the dock beside him.
+
+And now?
+
+Now it is the third year, the Company man says. The Lords sit on it a few weeks a season, when nothing better offers. Hastings dines out. The galleries are half empty. The novelty wore through, the way novelty does, and what's left is a very long argument about a very far country, conducted by lawyers, in a cold hall.
+
+The old waterman, who has had opinions all evening, has one more in him. Nineteen men in an open boat, he says — that's a story. A man can hold it in one hand. What the Irishman is selling is an empire's ledger, ten years of it, and nobody holds a ledger for seven years together. Not the Lords. Not the duchesses. Not this room either, and this room has better reason than most.
+
+It will end in acquittal, the senior Company man says, and there is no triumph in the way he says it, which is somehow worse. Watch. Not because the man is innocent, and not even quite because he's guilty. Because by the time it ends, the trial will be older than half the judges' appointments, and you cannot convict a piece of furniture. And because — he turns his glass slowly, and for one unguarded moment says the honest thing — the audience holds stock in the accused.
+
+A man steals one ship, somebody says from down the bar, and he hangs on the mud below this window inside a month. A man is charged with squeezing a province half to death, and he gets seven years of theatre with his costs paid.
+
+Different tides for different men, the old waterman says, and that is as far as anyone in this bar cares to take the matter tonight.
+
+* * *
+
+## VII. What the Bread Was For
 
 Someone near the fire, half in his cups, asks what in God's name they were doing out there in the first place, that far from anywhere, in a ship that size.
 
@@ -106,7 +128,7 @@ Nobody at the Company table finds this worth further comment. They finish their 
 
 * * *
 
-## VII. What the River Doesn't Carry
+## VIII. What the River Doesn't Carry
 
 The newspaper gets passed from table to table until the print wears soft at the folds and somebody finally uses it to light a pipe. The talk moves on, the way talk does, to the price of coal and a dog fight promised for Saturday and whether the frost will hold.
 

@@ -138,6 +138,10 @@ It's not property, it's a dividend, paid by people who never agreed to pay it. T
 
 The sepoys mutinied over cartridge grease, the shareholder says, calm, well-rehearsed. That was never really the issue, and you know it. The issue was an army turning on its employers, and the result was a massacre, and the response was severe because the provocation was severe. You cannot burn down a system and complain when the fire spreads.
 
+Parliament put the system on trial once, the journalist says. Hastings. Seven years in Westminster Hall.
+
+And acquitted him, the shareholder says, without a flicker. On every charge. Mr. Burke spent his genius, the Lords spent their patience, the Company paid the defence, and the verdict was innocent. The system examined itself with the greatest thoroughness in legal history and found itself blameless. I'd have thought a newspaperman would draw the obvious lesson about who holds the scales.
+
 Harding says nothing. He's gone somewhere that belongs to him and the well and the trees.
 
 A hundred years of governance, the shareholder continues, unstoppable now. Plassey to the mutiny, exactly a century. Railways. Telegraphs. English as a common tongue across a subcontinent that had dozens. It went there to trade. The governing came after, because someone had to, and there was no one else.

@@ -40,6 +40,8 @@
 
 **1789–1790**  The mutiny on the Bounty. Captain Bligh and eighteen loyal men are set adrift; all but one survive a 3,600-mile open-boat voyage to Timor.
 
+**1788–1795**  Edmund Burke leads the impeachment of Warren Hastings, Governor-General of Bengal — the Company's rule in India put on trial in Westminster Hall. Seven years later, Hastings is acquitted on every charge.
+
 **1793**  The Permanent Settlement. Land revenue fixed in perpetuity, pushing Bengal into poverty.
 
 **1799**  Tipu Sultan is defeated at Seringapatam. The Company takes Mysore.
