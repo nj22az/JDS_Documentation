@@ -5,8 +5,9 @@ Conceit: the Prospect of Whitby (formerly the Devil's Tavern), Wapping, as a fix
 East India Company from its 1600 charter to its 2019 afterlife as a tourist stop across the river
 from Canary Wharf.
 
-Status: 13 chapters drafted, spanning 1603–2019. Five chapters added to the original run of
-eight: Kidd (1701), Bligh (1790), Cutty Sark (1880), Ripper (1888), and Every (1696). This doc
+Status: 14 chapters drafted, spanning 1603–2019. Six chapters added to the original run of
+eight: Kidd (1701), Bligh (1790), Cutty Sark (1880), Ripper (1888), Every (1696), and the
+credit crisis / Boston tea chapter (1774). This doc
 is the standing plan for turning the draft into a page-turner rather than an illustrated
 history. Update it as decisions get made — it's a working doc, not a monument.
 
@@ -78,7 +79,7 @@ labor repeating under new names — rather than leaving it as a thematic coincid
 **Rule governing all three:** connections are seasoning, never load-bearing for comprehension.
 If a reader has to notice the Cache or the Ashby name to follow the plot, it's been overused.
 
-## 3a. Protagonist per chapter — DONE, all 13 chapters
+## 3a. Protagonist per chapter — DONE, all 14 chapters
 
 | Ch. | Protagonist | Active choice/stake | Cache item left / connective note |
 |---|---|---|---|
@@ -88,6 +89,7 @@ If a reader has to notice the Cache or the Ashby name to follow the plot, it's b
 | 1701 | Nathaniel ("Fenner") — a former Kidd crewman hiding in the crowd | Overhears that the exculpatory French passes were deliberately buried; writes down what he saw rather than stay silent or expose himself publicly. | Written account of the passes — second item in the Cache. |
 | 1757 | Coates | Weighs his pension and reputation, then goes on record with the journalist about the fixed battle at Plassey. | — |
 | 1770 | Mulvey | Recognizes and confronts Aldridge, a grain-hoarding profiteer, present in the bar. | — |
+| 1774 | Naylor, a Company tea-warehouse tallyman | Thirty-one years of exact, ignored counts; ordered to tally the stale hoard out to America, he writes to his nephew in Boston warning that the cheapness is the hook and the threepence is the precedent — against his employer, signed, knowing letters get opened. Never learns if it mattered; his nephew's careful reply is 'an answer of a kind.' | His hooked-N tally marks end up on chests at the bottom of Boston harbour. |
 | 1790 | Alec Munro, whose brother Davy was aboard the Bounty | Claims the connection publicly when a stranger asks the room directly, rather than hide it. | — |
 | 1839 | Mei, searching for her husband | Realizes Pemberton's cargo (via "Lintin," "receiving ship") is why he never came home; confronts him directly. | Table-crack scar-tissue origin planted here (background scuffle, uninvolved with Mei/Pemberton/Hale). |
 | 1858 | Harding | A colonel offers him a DSO and promotion contingent on the official Cawnpore story holding; Harding repeats the true number in front of the journalist instead. | — |
@@ -96,7 +98,7 @@ If a reader has to notice the Cache or the Ashby name to follow the plot, it's b
 | 1940 | Gwen | Personal stake made explicit: her son Peter is an AFS fireman in the docks; her post is also a vigil for him. | Her wartime notebook, kept back from the official ARP record — third item in the Cache. |
 | 2019 | Hannah ("the fourth of that name") | During a cellar refit, finds the Cache (thimble, Nathaniel's note, Gwen's notebook) and chooses to leave it exactly as found rather than report it. | **Cache payoff chapter.** Also pays off the lopsided-table scar-tissue gag (American tourist's husband wedges a coaster under it, oblivious). |
 
-Status: all 13 chapters now have an active protagonist. The Cache holds three items (1603, 1701,
+Status: all 14 chapters now have an active protagonist. The Cache holds three items (1603, 1701,
 1940), found and left in place in 2019. Both scar-tissue pairs (Louie's chair 1701→1888; the
 table 1839→2019) are complete. Remaining open items are craft-level polish, not structure — see
 Sections 4, 5, and 7 below (live-scene conversion candidates, refrain rationing, and the
@@ -172,13 +174,14 @@ the book — the refrain should land here more than anywhere).
 04  1701  Good for Business                   (Kidd — NEW)
 05  1757  A Soldier's Arithmetic               (Plassey)
 06  1770  What Mulvey Saw                      (Bengal Famine)
-07  1790  Forty-Seven Days                     (Bligh/Bounty — NEW)
-08  1839  What Pemberton Called Trade          (Opium)
-09  1858  What Harding Would Not Say           (Dissolution / Cawnpore)
-10  1880  The Hell Ship                        (Cutty Sark — NEW)
-11  1888  The Watchman's Daughter              (Ripper — NEW, only overtly fictional chapter)
-12  1940  A Warden's Watch                     (Blitz)
-13  2019  What the Suit Didn't See             (Present day)
+07  1774  Too Big to Sink                      (Credit crisis / bailout / Boston tea — NEW)
+08  1790  Forty-Seven Days                     (Bligh/Bounty — INTERLUDE)
+09  1839  What Pemberton Called Trade          (Opium)
+10  1858  What Harding Would Not Say           (Dissolution / Cawnpore)
+11  1880  The Hell Ship                        (Cutty Sark — INTERLUDE)
+12  1888  The Watchman's Daughter              (Ripper — INTERLUDE, only overtly fictional chapter)
+13  1940  A Warden's Watch                     (Blitz)
+14  2019  What the Suit Didn't See             (Present day)
 appendix  Timeline
 appendix  Bibliography
 ```

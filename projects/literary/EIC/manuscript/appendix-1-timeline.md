@@ -32,7 +32,11 @@
 
 **1770**  The Bengal Famine. Ten million die. The Company's revenue extraction continues.
 
-**1773**  The Regulating Act. Parliament attempts — and fails — to rein in the Company.
+**1772**  The credit crisis. Overextended and dividend-heavy, the Company cannot pay its bills; Parliament rescues it with a £1.4 million loan — the first state bailout of a corporation.
+
+**1773**  The Regulating Act puts Treasury oversight inside the Company; the Tea Act ships its unsold hoard to America, cheap, with the threepenny duty kept for the principle. In December, Boston throws 342 chests into the harbour.
+
+**1774**  News of the Boston Tea Party reaches London in January. The port is closed, troops follow, and the road to American independence opens over threepence a pound.
 
 **1789–1790**  The mutiny on the Bounty. Captain Bligh and eighteen loyal men are set adrift; all but one survive a 3,600-mile open-boat voyage to Timor.
 

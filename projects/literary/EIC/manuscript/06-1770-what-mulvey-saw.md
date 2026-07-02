@@ -74,7 +74,7 @@ I was there, Mulvey says. I walked through villages where everyone was dead. Not
 
 He finishes the gin. Signals for another. Hannah's hand is steady pouring it; nothing else in the room is.
 
-They're calling it the Permanent Settlement now, he says. Fix the revenue forever. Doesn't matter what happens after — flood, drought, another famine. The number's fixed. The Company gets paid regardless.
+And the assessments won't come down, he says. That's the part to understand. Famine or no famine, flood or drought, the number is the number. There's already talk in Calcutta of fixing it forever — settling the revenue once and never letting it move again, whatever the sky does. The Company gets paid regardless.
 
 He goes quiet. The bar's noise comes back slowly, the way it does, because men can only sit with someone else's horror for so long. Mulvey doesn't rejoin it. He's somewhere that isn't this room.
 

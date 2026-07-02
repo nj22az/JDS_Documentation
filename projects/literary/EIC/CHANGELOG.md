@@ -6,6 +6,22 @@ All notable changes to this project are recorded here.
 
 ## [2026-07-02]
 
+### Added
+- New chapter `07-1774-too-big-to-sink.md` — the 1772 credit crisis,
+  the first state bailout of a corporation, the Tea Act, and news of
+  the Boston Tea Party reaching Wapping in January 1774. Protagonist
+  Naylor, a Company tea-warehouse tallyman whose hooked-N marks end
+  up on chests at the bottom of Boston harbour. Chosen by the author
+  over merging chapters, taking the book from 13 to 14 chapters.
+  Chapters renumbered 01–14; timeline and bibliography extended.
+
+### Fixed
+- Removed a Permanent Settlement anachronism from the 1770 chapter
+  (the policy is Cornwallis's, 1793): Mulvey's line now speaks of
+  "talk in Calcutta of fixing the revenue forever" rather than
+  naming a policy 23 years early.
+
+
 ### Changed
 - Scope decision resolved: all 13 chapters stay; 1790 (Bounty),
   1880 (Cutty Sark), and 1888 (Ripper) are now styled as interludes —

@@ -16,8 +16,8 @@ A historical fiction anthology-novel: the East India Company, told from one fixe
 point of view — the Prospect of Whitby (formerly the Devil's Tavern) in Wapping,
 London — across five centuries, from its 1600 charter to its 2019 afterlife as a
 tourist stop across the river from Canary Wharf. Real history (the Every manhunt,
-Kidd's hanging, the Bengal Famine, the Opium Wars, the Cutty Sark killing,
-Cawnpore) mixed with invented characters and, in one chapter, an invented
+Kidd's hanging, the Bengal Famine, the Company's 1772 bailout and the Boston
+Tea Party, the Opium Wars, the Cutty Sark killing, Cawnpore) mixed with invented characters and, in one chapter, an invented
 resolution to a real unsolved crime (the 1888 Whitechapel murders).
 
 Not a JDS-numbered engineering document — this folder is non-technical creative
@@ -32,7 +32,7 @@ EIC/
 ├── CHANGELOG.md                    ← Change log
 ├── manuscript/                     ← Draft chapters, in reading order (source of truth)
 │   ├── 00-frontmatter.md
-│   ├── 01-1603 ... 13-2019         ← 13 chapters, numbered chronologically
+│   ├── 01-1603 ... 14-2019         ← 14 chapters, numbered chronologically
 │   └── appendix-timeline.md / appendix-bibliography.md
 ├── exports/
 │   ├── the-front-row-seat.md       ← Compiled single-file book (regenerate after chapter edits)
@@ -44,7 +44,7 @@ EIC/
 
 ## Status
 
-13 chapters drafted (1603–2019), every chapter carrying an invented protagonist
+14 chapters drafted (1603–2019), every chapter carrying an invented protagonist
 with an active in-scene choice, connected across the centuries by three light
 background devices (the Cache under the bar, the Ashby/Hannah keeper line, and
 recurring "scar tissue" damage to the room itself). See
