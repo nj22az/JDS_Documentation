@@ -160,10 +160,11 @@ story. Six stations, one paragraph or exchange each, never a scene of its own ex
 5. **1858 — the birth.** Erasmus Bond patents tonic water the same year the Company dissolves:
    "The Company dies this August. Its drink is only now being born. They pass each other at the
    door." (Harding's section is already titled "Gin" — the anchor was waiting.)
-6. **2019 — the payoff.** "The Officer's Drink": a junior suit's "Gin and tonic? What are you,
-   gay?" dies on the bar ("Yep. Anything else?"), and Hannah delivers the history — the mocked
-   drink is the most imperial object in the building. Drinks change clothes the way explanations
-   do.
+6. **2019 — the payoff.** "The Officer's Drink": a junior suit "says the thing — it doesn't
+   need printing," the jibe rendered as attitude rather than verbatim (tightened 2026-07-02 per
+   author direction); it stands alone in the room until even its owner can hear it, Hannah
+   delivers the history, and the gin drinker's "Cheers" closes four centuries of toasts. Drinks
+   change clothes the way explanations do; "it was an insult when it arrived in 1603, too." 
 
 Rule: same as the other motifs — texture, not plot. No further stations without cause; 1770's
 existing gin (Mulvey's despair-drink) and 1888's brandy (Cray) are left untouched deliberately.

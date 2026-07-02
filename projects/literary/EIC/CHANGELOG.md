@@ -4,6 +4,16 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-02] (2019 gin scene tightened)
+
+### Changed
+- "The Officer's Drink" tightened per author direction: the jibe is
+  now rendered as attitude rather than verbatim ("says the thing. It
+  doesn't need printing... a joke whose entire ambition is to make
+  another man account for his drink"), the response reduced to
+  silence and a mild "Cheers," and the closing paragraph now ties
+  the arc shut — "It was an insult when it arrived in 1603, too."
+
 ## [2026-07-02] (gin line dramatized)
 
 ### Changed
