@@ -166,7 +166,7 @@ The bar has gone properly quiet. Even the Dragon's men are listening now, preten
 
 Three in ten, Hendricks says. That's the number I hear for your Company's men. Won't come back. And if you try to trade where the Dutch already are, they'll take the rest.
 
-Tom stares at his ale. The brightness has gone out of his face, and what's replaced it isn't fear exactly. It's a man doing arithmetic and not liking the answer.
+Tom stares at his ale. The brightness has gone out of his face, and what's replaced it isn't fear exactly. It's the look of a man counting backwards from three in ten.
 
 * * *
 
@@ -217,5 +217,3 @@ Ashby is alone. She takes a knife from her apron and scores a small mark into th
 Tom's thimble goes into the same gap, wedged back against the old wood where a notch can't be mistaken for a promise. She doesn't expect to see it collected. She has never once been wrong about that, and doesn't expect this morning to be the first time.
 
 The charter is a piece of paper in a locked room in the City. The Company is two hundred and eighteen names and a warehouse of pepper the market has not yet agreed what to pay for. Whether the next fleet comes back at all, nobody in this bar could say. The ships go out. The boys sign. That's all that's known tonight, and it's all that needs to be.
-
-The tide goes out the way it always does, twice a day, indifferent to charters.

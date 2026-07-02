@@ -28,7 +28,7 @@ He's been at the bar since before the sailor came in with his newspaper, nursing
 
 His brother signed aboard the Bounty three years back in Deptford, seventeen years old and mad for the sea the way younger brothers get mad for whatever their older brothers haven't already claimed — Davy, quick with a rope, quicker with his mouth, the kind of green hand a hard voyage either makes or breaks. Alec hasn't had a letter in over a year. Nobody's had a letter from that ship in over a year; that's rather the trouble with a voyage to the far side of the world.
 
-So when the word Bounty comes up in a Wapping bar on a wet Tuesday, Alec Munro sets his ale down very carefully, the way a man sets down something he doesn't trust his hand to hold otherwise, and listens to every word of it like his life depends on the arithmetic — because in a way he hasn't yet let himself say aloud, it might.
+So when the word Bounty comes up in a Wapping bar on a wet Tuesday, Alec Munro sets his ale down very carefully, the way a man sets down something he doesn't trust his hand to hold otherwise, and listens to every word of it like his life depends on the count — because in a way he hasn't yet let himself say aloud, it might.
 
 * * *
 
@@ -50,7 +50,7 @@ The bar goes properly silent this time. Three thousand six hundred miles is most
 
 Forty-seven days, the paper says. Landed at Timor half-starved and half-drowned, all of them, and not a man of the eighteen lost to the sea. One killed by natives on some island early on. The rest walked off that boat on their own legs.
 
-Alec says nothing through any of it. The arithmetic on the table is Bligh's arithmetic — the eighteen men who stood by him, not the deck Davy stayed on, which by every account not yet printed still has no arithmetic done for it at all. Eighteen men accounted for tells him nothing about the nine or ten who didn't sail with them. It only tells him there's a second sum still waiting to be done somewhere out past all this counting, and nobody in London has the numbers for it yet.
+Alec says nothing through any of it. The count on the table is Bligh's count — the eighteen men who stood by him, not the deck Davy stayed on, which by every word yet printed has had no count made of it at all. Eighteen men accounted for tells him nothing about the nine or ten who didn't sail with them. It only tells him there's a second list still waiting to be written somewhere out past all this, and nobody in London has the names for it yet.
 
 * * *
 
@@ -106,7 +106,7 @@ Now it is the third year, the Company man says. The Lords sit on it a few weeks 
 
 The old waterman, who has had opinions all evening, has one more in him. Nineteen men in an open boat, he says — that's a story. A man can hold it in one hand. What the Irishman is selling is an empire's ledger, ten years of it, and nobody holds a ledger for seven years together. Not the Lords. Not the duchesses. Not this room either, and this room has better reason than most.
 
-It will end in acquittal, the senior Company man says, and there is no triumph in the way he says it, which is somehow worse. Watch. Not because the man is innocent, and not even quite because he's guilty. Because by the time it ends, the trial will be older than half the judges' appointments, and you cannot convict a piece of furniture. And because — he turns his glass slowly, and for one unguarded moment says the honest thing — the audience holds stock in the accused.
+It will end in acquittal, the senior Company man says, and there is no triumph in the way he says it, which is somehow worse. Watch. Not because the man is innocent, and not even quite because he's guilty. Because by the time it ends, the Hall will have grown used to him, and London does not condemn what it has grown used to. You cannot convict a piece of furniture. And because — he turns his glass slowly, and for one unguarded moment says the honest thing — the audience holds stock in the accused.
 
 A man steals one ship, somebody says from down the bar, and he hangs on the mud below this window inside a month. A man is charged with squeezing a province half to death, and he gets seven years of theatre with his costs paid.
 
@@ -132,8 +132,4 @@ Nobody at the Company table finds this worth further comment. They finish their 
 
 The newspaper gets passed from table to table until the print wears soft at the folds and somebody finally uses it to light a pipe. The talk moves on, the way talk does, to the price of coal and a dog fight promised for Saturday and whether the frost will hold.
 
-Alec Munro leaves before any of that, out into the wet dark, no wiser about his brother than he was when he came in — only wiser now about the shape of the not-knowing, which is its own kind of arithmetic, and the only kind anyone in London can give him tonight.
-
-Outside, the Thames does what it has always done, indifferent to which of tonight's arguments will still be remembered by anyone in a week — the mutiny or the mercy, the tyranny or the arithmetic, the twenty-three-foot boat or the three thousand miles behind it. It carries the ordinary traffic of a Tuesday night same as any other: coal barges, a late wherry, the tide turning on schedule whether anyone in this bar has settled the question of Captain Bligh's character or not.
-
-It has never once cared how a story ends, only that something is always moving through it toward the sea.
+Alec Munro leaves before any of that, out into the wet dark, no wiser about his brother than he was when he came in — only wiser now about the shape of the not-knowing, which is its own kind of answer, and the only kind anyone in London can give him tonight.

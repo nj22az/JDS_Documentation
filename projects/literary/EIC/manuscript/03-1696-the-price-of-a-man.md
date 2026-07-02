@@ -22,7 +22,7 @@ So the whole world is looking for one man, on the Crown's proclamation and the C
 
 ## II. Esther Finch
 
-She comes in on Thursday evenings to settle accounts — the bar sends her its overflow when ships pay off and every bed in Wapping fills, and she sends back men who want a hot breakfast, and the difference gets squared over a small beer she makes last an hour. Esther Finch, widow, four lodging rooms two doors up from the stairs. Married twenty years to a ship's carpenter who went to the yard one February morning and came home on a plank, and since then the arithmetic of her life has been small and exact: what a room brings in, what a fire costs, what a winter takes out of a roof and out of a woman's hands.
+She comes in on Thursday evenings to settle accounts — the bar sends her its overflow when ships pay off and every bed in Wapping fills, and she sends back men who want a hot breakfast, and the difference gets squared over a small beer she makes last an hour. Esther Finch, widow, four lodging rooms two doors up from the stairs. Married twenty years to a ship's carpenter who went to the yard one February morning and came home on a plank, and since then the reckoning of her life has been small and exact: what a room brings in, what a fire costs, what a winter takes out of a roof and out of a woman's hands.
 
 Her upstairs-back is let to a quiet man who calls himself Adams. Paid three months in advance, which nobody does. Polite, keeps no company, mended her stair rail without being asked and without mentioning it after. He sits sometimes at her kitchen table of an evening and watches the door — not nervously, nothing so easy to name — the way a man watches who is keeping a private tally of everyone who comes through it.
 
@@ -62,7 +62,7 @@ Esther Finch, who has come in to settle Thursday accounts, goes very still over 
 
 There is a tin under a floorboard in her kitchen with three of those coins in it, taken in good faith for rent.
 
-She does the arithmetic that night, lying awake, because arithmetic is what she has instead of prayer. Five hundred pounds. Her whole house — the beds, the linens, the roof her husband mended the summer before he died — might fetch eighty. Her husband earned thirty a year with his hands and they lived decently on it, and were pleased with themselves. Five hundred pounds is not money. It is a different life entirely: no more scrubbing, no more February, a servant girl of her own, a pew where the nod comes to her first. It is every want she has been too sensible to permit herself, stacked in one column, payable on information received.
+She does the reckoning that night, lying awake, because reckoning is what she has instead of prayer. Five hundred pounds. Her whole house — the beds, the linens, the roof her husband mended the summer before he died — might fetch eighty. Her husband earned thirty a year with his hands and they lived decently on it, and were pleased with themselves. Five hundred pounds is not money. It is a different life entirely: no more scrubbing, no more February, a servant girl of her own, a pew where the nod comes to her first. It is every want she has been too sensible to permit herself, stacked in one column, payable on information received.
 
 And in the other column: a quiet man who mended her stair.
 

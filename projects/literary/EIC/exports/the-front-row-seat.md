@@ -183,7 +183,7 @@ The bar has gone properly quiet. Even the Dragon's men are listening now, preten
 
 Three in ten, Hendricks says. That's the number I hear for your Company's men. Won't come back. And if you try to trade where the Dutch already are, they'll take the rest.
 
-Tom stares at his ale. The brightness has gone out of his face, and what's replaced it isn't fear exactly. It's a man doing arithmetic and not liking the answer.
+Tom stares at his ale. The brightness has gone out of his face, and what's replaced it isn't fear exactly. It's the look of a man counting backwards from three in ten.
 
 * * *
 
@@ -234,8 +234,6 @@ Ashby is alone. She takes a knife from her apron and scores a small mark into th
 Tom's thimble goes into the same gap, wedged back against the old wood where a notch can't be mistaken for a promise. She doesn't expect to see it collected. She has never once been wrong about that, and doesn't expect this morning to be the first time.
 
 The charter is a piece of paper in a locked room in the City. The Company is two hundred and eighteen names and a warehouse of pepper the market has not yet agreed what to pay for. Whether the next fleet comes back at all, nobody in this bar could say. The ships go out. The boys sign. That's all that's known tonight, and it's all that needs to be.
-
-The tide goes out the way it always does, twice a day, indifferent to charters.
 
 ---
 
@@ -307,7 +305,29 @@ They arrested us on false charges. Said we were plotting with the Japanese merce
 
 The bar has gone quiet around them. Men who weren't listening are listening now.
 
-They tortured us, Daniel says, plain as weather. Water down the throat until your stomach's full and you're drowning from the inside. Then they'd stamp on you and it would come back up, and they'd start again. Hours of it. Days. Until you confessed to whatever they wanted. Then they executed you anyway.
+Daniel's sentence stays broken where it stopped. Some sentences do.
+
+* * *
+
+## IV. The Room
+
+The room is coral stone and has no window, and it is three years ago, and it is also always.
+
+There is a table, and a man behind the table who asks the questions, and a clerk beside him who writes down the answers, and the writing is the part Daniel cannot stop watching, even now, even here — the pen moving patiently whether he speaks or screams, because the paper does not need him to speak. The paper was finished before he was brought in. His answers are a formality the ink is waiting to receive.
+
+The question is always the plot. Who ordered it. When it was to be. Who else. There is no plot, Daniel says, and the man behind the table nods, unhurried, unoffended, the way a man nods at a sum that hasn't come out right yet, and the cloth goes over Daniel's face again, and the water comes again.
+
+Nobody who has not had it done can be told what it is. It is not like drowning; it is drowning, on dry land, in a chair, at a speed of another man's choosing — the body's whole animal machinery screaming its one message while somewhere above the water a voice keeps asking, mild as a schoolmaster, who ordered it, when it was to be, who else. Then the weight on his belly, and the water coming back up, and the room again, and the pen, patient, waiting. Then again. Hours are the wrong measure. There are only two times in the room: the water, and the question.
+
+Through the wall, for two days, he can hear Towerson. Not words. Just the fact of him — the best man Daniel has ever served under, going the way everyone goes in that room, by lengths. On the third day the wall goes quiet, and the quiet is worse, and some days later — he has lost the count by then, the one thing he has never lost before or since — they come in and look at him the way men look at stock, and one of them says a word to the other, and the word is Batavia, and no one ever tells him why. He has been trying to work it out for three years: what he said, or didn't; what he was worth, or wasn't; why the axe for ten men and the boat for him. There is no answer. It was an entry in a ledger he will never see, made by a clerk with a patient pen, and it is the only mercy anyone showed at Amboyna, and it was not mercy. It was paperwork.
+
+* * *
+
+## V. What Came Back
+
+In the bar, three years and eleven thousand miles from the room, Daniel says almost none of this.
+
+Water, he says. They used water. And lets the rest of the sentence go where the first one went.
 
 A man by the fire has stopped coughing. Nobody is talking about the price of tar.
 
@@ -331,7 +351,7 @@ Daniel doesn't answer. He's back in a room in Amboyna, water in his lungs. Cotto
 
 * * *
 
-## IV. The Offer
+## VI. The Offer
 
 Word travels. It always does, in a bar this close to the docks — what Daniel told Carter is halfway round Wapping within the week, dressed up a little more with each telling, though nobody who's added to it has managed to make it worse than the plain truth already was.
 
@@ -365,7 +385,7 @@ He leaves. Daniel sits a while with the offer where Pryce left it, turning it ov
 
 * * *
 
-## V. The Woman Who Came Looking
+## VII. The Woman Who Came Looking
 
 She comes in on a Friday. Not young, not old. Dust on her shoes, a thin shawl, the particular set of a woman who has walked further than she meant to because there was no choice about it.
 
@@ -399,7 +419,7 @@ Daniel eats. Nell watches him, and for the first time since he walked through th
 
 * * *
 
-## VI. Cotton
+## VIII. Cotton
 
 Carter's back most evenings, treating the bar like an annex of his shop. Tonight he's got news, and Carter with news is Carter at full volume.
 
@@ -425,15 +445,13 @@ The Company's factories are becoming forts — walls going up in Surat, cannon o
 
 * * *
 
-## VII. The Walls Get Higher
+## IX. The Walls Get Higher
 
 Years pass. The bar fills and empties and fills again — same cycle, same ale, slowly improving. Daniel and Nell come in less often now, and when they do, it's a different quiet than the one he walked in with. Companionable. The quiet of two people who've said the worst of it out loud and are still sitting next to each other.
 
 The Company keeps growing. Bigger ships, bigger warehouses, busier docks. Sir Thomas Roe secured the factory at Surat years back; Bombay came later, a wedding gift from a Portuguese dowry that nobody at the time understood the size of. The factories have started growing walls. Nobody in this bar has said it out loud yet, but a factory stores goods, and a fort controls territory, and the difference is starting to show in the letters home.
 
 Just a wall, the letters say. Bricks and mortar. Nothing to worry about.
-
-The tide keeps its own accounts, and it owes nothing to any of them — not Daniel's water, not Carter's cotton, not a wall in Surat that is, for now, only a wall.
 
 ---
 
@@ -461,7 +479,7 @@ So the whole world is looking for one man, on the Crown's proclamation and the C
 
 ## II. Esther Finch
 
-She comes in on Thursday evenings to settle accounts — the bar sends her its overflow when ships pay off and every bed in Wapping fills, and she sends back men who want a hot breakfast, and the difference gets squared over a small beer she makes last an hour. Esther Finch, widow, four lodging rooms two doors up from the stairs. Married twenty years to a ship's carpenter who went to the yard one February morning and came home on a plank, and since then the arithmetic of her life has been small and exact: what a room brings in, what a fire costs, what a winter takes out of a roof and out of a woman's hands.
+She comes in on Thursday evenings to settle accounts — the bar sends her its overflow when ships pay off and every bed in Wapping fills, and she sends back men who want a hot breakfast, and the difference gets squared over a small beer she makes last an hour. Esther Finch, widow, four lodging rooms two doors up from the stairs. Married twenty years to a ship's carpenter who went to the yard one February morning and came home on a plank, and since then the reckoning of her life has been small and exact: what a room brings in, what a fire costs, what a winter takes out of a roof and out of a woman's hands.
 
 Her upstairs-back is let to a quiet man who calls himself Adams. Paid three months in advance, which nobody does. Polite, keeps no company, mended her stair rail without being asked and without mentioning it after. He sits sometimes at her kitchen table of an evening and watches the door — not nervously, nothing so easy to name — the way a man watches who is keeping a private tally of everyone who comes through it.
 
@@ -501,7 +519,7 @@ Esther Finch, who has come in to settle Thursday accounts, goes very still over 
 
 There is a tin under a floorboard in her kitchen with three of those coins in it, taken in good faith for rent.
 
-She does the arithmetic that night, lying awake, because arithmetic is what she has instead of prayer. Five hundred pounds. Her whole house — the beds, the linens, the roof her husband mended the summer before he died — might fetch eighty. Her husband earned thirty a year with his hands and they lived decently on it, and were pleased with themselves. Five hundred pounds is not money. It is a different life entirely: no more scrubbing, no more February, a servant girl of her own, a pew where the nod comes to her first. It is every want she has been too sensible to permit herself, stacked in one column, payable on information received.
+She does the reckoning that night, lying awake, because reckoning is what she has instead of prayer. Five hundred pounds. Her whole house — the beds, the linens, the roof her husband mended the summer before he died — might fetch eighty. Her husband earned thirty a year with his hands and they lived decently on it, and were pleased with themselves. Five hundred pounds is not money. It is a different life entirely: no more scrubbing, no more February, a servant girl of her own, a pew where the nod comes to her first. It is every want she has been too sensible to permit herself, stacked in one column, payable on information received.
 
 And in the other column: a quiet man who mended her stair.
 
@@ -671,7 +689,7 @@ Fenner takes it before the keeper can clear it. Asks her, low, for the loan of a
 
 He writes plainly. What he saw come off the Quedagh Merchant. What he saw carried away from Saint Mary's, and by whom, and that he would swear to it if any court still cared to ask, though he knows none ever will, and signs it with the name that was his before Fenner, because a lie is worth nothing as a witness. Then he does not know what to do with it. A confession with nowhere to go is just a heavier kind of guilt.
 
-The keeper — young enough herself that she never met the Ashby who first ran this place, but trained up by a woman who was trained by her in turn, the trade passed down like a good knife — watches him fold the paper smaller and smaller, the way she's watched other men fidget with things they can't make themselves throw on the fire. She says nothing. Only tips her head, once, toward the underside of the bar, where the wood has a gap a hand can just fit into, where the notches are, and older things besides, things she's found and never asked about and never moved.
+The keeper — young enough that she never met the Ashby who first ran this place, though the woman who trained her was trained by Ashby herself, the trade passed down like a good knife — watches him fold the paper smaller and smaller, the way she's watched other men fidget with things they can't make themselves throw on the fire. She says nothing. Only tips her head, once, toward the underside of the bar, where the wood has a gap a hand can just fit into, where the notches are, and older things besides, things she's found and never asked about and never moved.
 
 Fenner looks at her. She looks back, and shrugs, the particular shrug of someone who has decided that what a building keeps is no one's business but the building's.
 
@@ -779,7 +797,25 @@ Behind them, the dice game has resolved itself without bloodshed — one man owe
 
 * * *
 
-## IV. Spitalfields
+## IV. The Grove
+
+The twenty-third of June is a wet season day, and it begins before light, in a mango grove near a village nobody in England has ever pronounced.
+
+The grove is good ground and everyone in it knows how few of them there are. Three thousand men stand to among the trees — a thousand Europeans, the rest sepoys, and Coates among them with forty rounds and a bayonet and the particular dry mouth of a man doing his sums. Across a mile of open paddy, the Nawab's army comes out of its camp like a city deciding to move: horse and foot and guns until the counting stops meaning anything, war elephants in armour, cavalry in bodies bigger than Coates's whole army, the morning sun catching so much steel that the horizon glitters like water.
+
+The guns open at eight, theirs and ours, and for a while it is a battle, or sounds like one. A man three files from Coates is opened up by a round shot and dies asking what happened. This is the part Coates will keep saying, later, in a bar in Wapping: men died. Good men. Whatever else it was, the shot was real.
+
+At noon the sky does what Bengal skies do in June: it falls on them. An hour of rain like a wall coming down. Coates's battalion get their tarpaulins over the powder because their sergeants have been rained on in Bengal before; across the field, the Nawab's gunners haven't, and don't, and when the rain stops their guns have gone quiet as furniture. And their cavalry comes anyway — one brave, doomed rush behind a commander who believes his own side's silence is a trick — and the Company's guns, dry under their tarpaulins, take him and his horsemen apart in the open ground.
+
+And then, the thing Coates cannot make anyone in London understand. Nothing happens.
+
+Fifty thousand men stand in the heat of the afternoon and do not come. Coates stands in the grove with his musket loaded, watching a third of the horizon — the whole left of the Nawab's line, the cavalry and guns of Mir Jafar — sit their horses like men watching a horse race they have no money on. Now and then the order comes to fire, and Coates fires, at that distance, at that stillness, and it is like firing into a painted wall. Somewhere behind the stillness, a letter has already been signed. The men in the grove don't know that yet. But a soldier knows when the field is wrong the way a waterman knows a wrong tide, and by mid-afternoon every man in the grove knows he is not fighting an army. He is attending a transaction, with a musket, in the rain.
+
+By evening the Nawab's camp is a river of men running from something that never chased them. Coates walks through it at dusk with his battalion — past abandoned guns, past cook-fires still burning under pots still full, past an army's worth of everything dropped by men who had been sold that morning and were only now finding it out. Twenty-two of his own side are dead. Twenty-two, for Bengal. He steps over a fallen standard sinking into the mud and cannot shake the feeling — he never will shake it — that somewhere a clerk has already recorded the whole day, in a ledger, in advance.
+
+* * *
+
+## V. Spitalfields
 
 The landlord comes around the bar. He's been listening with his whole body — jaw tight, hands gripping the wood.
 
@@ -815,7 +851,7 @@ Why would you. The Company doesn't tell its soldiers about weavers. It tells the
 
 * * *
 
-## V. Three Men in a Bar
+## VI. Three Men in a Bar
 
 The young man has found his voice. Still too high, but steadier now.
 
@@ -851,7 +887,7 @@ Nobody speaks to Coates. The young man closes his notebook, puts the pencil away
 
 * * *
 
-## VI. What the River Sees
+## VII. What the River Sees
 
 The fire has gone out. Nobody lights it again.
 
@@ -991,13 +1027,13 @@ Pint, he tells Hannah. Drinks half in one go. Good haul this morning, he announc
 
 Nobody answers him. Talking to a press-gang officer is a good way to end up on a ship.
 
-You hear about the Bounty? he says, to the room. Bligh's own crew turned on him — set him adrift in an open boat, eighteen men, not enough water, four thousand miles from land. He made it, though. Navigated the whole way on a sextant and a bad temper. Every man with him lived. The one thing he couldn't keep alive was their loyalty.
+Busy season coming, he says, to the room. The Spaniards have thrown us off the Falklands — some rock at the bottom of the world nobody in this bar could find on a chart, and the King wants a fleet fitted out over it by spring. Forty ships want crews. Do you know what forty ships' worth of crews looks like, gathered off streets like yours? He smiles. You will.
 
-Bligh was a tyrant, someone mutters.
+Over a rock, someone mutters. Ten thousand miles away.
 
-No argument, the officer says. But a tyrant who can cross an ocean in an open boat is still a tyrant who can cross an ocean in an open boat. Men are complicated.
+Over the principle of the rock, the officer corrects him, cheerfully. Nobody fights over what a thing is worth. They fight over who's allowed to take it. I'd have thought this street would know that better than most, the company it keeps.
 
-He drinks his second pint, louder now. Men break, he says, almost thoughtful for a second. All of them, eventually — Bligh's crew, the Company's men in Bengal, the lads I drag off the street. Just a question of when.
+He drinks his second pint, louder now. Men break, he says, almost thoughtful for a second. All of them, eventually — the lads I drag off the street, the Company's men in Bengal, whole provinces, by what your quiet friend there's been saying. Just a question of when.
 
 He finishes, stands, puts on his hat, and leaves — and the bar exhales the way a room exhales when something dangerous has gone out the door.
 
@@ -1153,7 +1189,7 @@ Good tea, a docker mourns, on principle. A fortune of it, straight into the salt
 
 It was not good tea, Naylor says, from the end of the bar. It is the first thing he has said all evening, and something in the flatness of it turns heads. It was three years in bond and stale as ship's biscuit, most of it. I counted it in and I counted it out. They have not drowned a treasure. They have drowned a warehouse-clearing dressed as a favour.
 
-The arithmetic goes round the room regardless, because it always does: nine, maybe ten thousand pounds of property, steeping in a harbour. At the Company table the talk is already of consequences, and nobody doubts there will be consequences. They'll close the port, the senior man says. Ships of war and a regiment, and an example made of the town, because the money is nothing but the precedent is everything — you cannot let ten thousand pounds of a rescued company sit on the sea-floor and call it politics.
+The figures go round the room regardless, because they always do: nine, maybe ten thousand pounds of property, steeping in a harbour. At the Company table the talk is already of consequences, and nobody doubts there will be consequences. They'll close the port, the senior man says. Ships of war and a regiment, and an example made of the town, because the money is nothing but the precedent is everything — you cannot let ten thousand pounds of a rescued company sit on the sea-floor and call it politics.
 
 We hanged pirates once to soothe an emperor, says the oldest man at the table, who is old enough to have heard that story from men who stood in this room for it. Now we'll garrison a town to soothe a parliament. The scale of the theatre improves. The play doesn't change.
 
@@ -1205,7 +1241,7 @@ He's been at the bar since before the sailor came in with his newspaper, nursing
 
 His brother signed aboard the Bounty three years back in Deptford, seventeen years old and mad for the sea the way younger brothers get mad for whatever their older brothers haven't already claimed — Davy, quick with a rope, quicker with his mouth, the kind of green hand a hard voyage either makes or breaks. Alec hasn't had a letter in over a year. Nobody's had a letter from that ship in over a year; that's rather the trouble with a voyage to the far side of the world.
 
-So when the word Bounty comes up in a Wapping bar on a wet Tuesday, Alec Munro sets his ale down very carefully, the way a man sets down something he doesn't trust his hand to hold otherwise, and listens to every word of it like his life depends on the arithmetic — because in a way he hasn't yet let himself say aloud, it might.
+So when the word Bounty comes up in a Wapping bar on a wet Tuesday, Alec Munro sets his ale down very carefully, the way a man sets down something he doesn't trust his hand to hold otherwise, and listens to every word of it like his life depends on the count — because in a way he hasn't yet let himself say aloud, it might.
 
 * * *
 
@@ -1227,7 +1263,7 @@ The bar goes properly silent this time. Three thousand six hundred miles is most
 
 Forty-seven days, the paper says. Landed at Timor half-starved and half-drowned, all of them, and not a man of the eighteen lost to the sea. One killed by natives on some island early on. The rest walked off that boat on their own legs.
 
-Alec says nothing through any of it. The arithmetic on the table is Bligh's arithmetic — the eighteen men who stood by him, not the deck Davy stayed on, which by every account not yet printed still has no arithmetic done for it at all. Eighteen men accounted for tells him nothing about the nine or ten who didn't sail with them. It only tells him there's a second sum still waiting to be done somewhere out past all this counting, and nobody in London has the numbers for it yet.
+Alec says nothing through any of it. The count on the table is Bligh's count — the eighteen men who stood by him, not the deck Davy stayed on, which by every word yet printed has had no count made of it at all. Eighteen men accounted for tells him nothing about the nine or ten who didn't sail with them. It only tells him there's a second list still waiting to be written somewhere out past all this, and nobody in London has the names for it yet.
 
 * * *
 
@@ -1283,7 +1319,7 @@ Now it is the third year, the Company man says. The Lords sit on it a few weeks 
 
 The old waterman, who has had opinions all evening, has one more in him. Nineteen men in an open boat, he says — that's a story. A man can hold it in one hand. What the Irishman is selling is an empire's ledger, ten years of it, and nobody holds a ledger for seven years together. Not the Lords. Not the duchesses. Not this room either, and this room has better reason than most.
 
-It will end in acquittal, the senior Company man says, and there is no triumph in the way he says it, which is somehow worse. Watch. Not because the man is innocent, and not even quite because he's guilty. Because by the time it ends, the trial will be older than half the judges' appointments, and you cannot convict a piece of furniture. And because — he turns his glass slowly, and for one unguarded moment says the honest thing — the audience holds stock in the accused.
+It will end in acquittal, the senior Company man says, and there is no triumph in the way he says it, which is somehow worse. Watch. Not because the man is innocent, and not even quite because he's guilty. Because by the time it ends, the Hall will have grown used to him, and London does not condemn what it has grown used to. You cannot convict a piece of furniture. And because — he turns his glass slowly, and for one unguarded moment says the honest thing — the audience holds stock in the accused.
 
 A man steals one ship, somebody says from down the bar, and he hangs on the mud below this window inside a month. A man is charged with squeezing a province half to death, and he gets seven years of theatre with his costs paid.
 
@@ -1309,11 +1345,7 @@ Nobody at the Company table finds this worth further comment. They finish their 
 
 The newspaper gets passed from table to table until the print wears soft at the folds and somebody finally uses it to light a pipe. The talk moves on, the way talk does, to the price of coal and a dog fight promised for Saturday and whether the frost will hold.
 
-Alec Munro leaves before any of that, out into the wet dark, no wiser about his brother than he was when he came in — only wiser now about the shape of the not-knowing, which is its own kind of arithmetic, and the only kind anyone in London can give him tonight.
-
-Outside, the Thames does what it has always done, indifferent to which of tonight's arguments will still be remembered by anyone in a week — the mutiny or the mercy, the tyranny or the arithmetic, the twenty-three-foot boat or the three thousand miles behind it. It carries the ordinary traffic of a Tuesday night same as any other: coal barges, a late wherry, the tide turning on schedule whether anyone in this bar has settled the question of Captain Bligh's character or not.
-
-It has never once cared how a story ends, only that something is always moving through it toward the sea.
+Alec Munro leaves before any of that, out into the wet dark, no wiser about his brother than he was when he came in — only wiser now about the shape of the not-knowing, which is its own kind of answer, and the only kind anyone in London can give him tonight.
 
 ---
 
@@ -1490,8 +1522,6 @@ Hale stays a while longer, hands slowing to the shake of a clock running down. T
 Hannah is the one who finally helps. Gives Mei directions to a shipping office, somewhere the names on Company manifests might be recorded, if anyone thought it worth recording them. Mei takes the directions the way she took her own four words of English earlier — carefully, with both hands, unwilling to lose anything else tonight. She looks at the river once more and goes out into the cold to keep looking.
 
 The bar is empty. The smell is still there, faint under the salt — a flower that travelled ten thousand miles to sit in this room while the ale goes on being good. The triangle is complete again tonight, as it is most nights. Poppy grown, opium sold, silver moved, tea in British cups, money in Company ledgers. Addicts in Canton. A peasant in Bengal who has never heard of any of them. A woman somewhere in the London dark, still looking.
-
-The tide does not taste the difference between any of it. It goes out the way it always does, carrying what it's given, asking nothing about the ledger.
 
 ---
 
@@ -1775,8 +1805,6 @@ Nobody in this bar asks what becomes of the family Francis left behind. The news
 
 Cutty Sark herself is back on the river tonight, moored downstream, home from whatever tramp voyage has occupied her since — nobody at this table has kept close enough track to say which ports, only that she came back under a captain nobody's heard a bad word about yet, which these days counts as good news. She is, by any measure the men in this bar care to use, one of the most beautiful things ever built to cross water. She is also, in the telling that's followed her these two years, a ship men still call cursed, and both of those things are true at the same time without either one cancelling the other out.
 
-The river does not rank ships by their beauty or their body count. It carried tea for her glory years and carries the news of her disgrace with exactly the same indifference, the same tide, the same patient work of moving whatever is put into it out toward the sea — coal, jute, gossip, grief, a captain who couldn't live with what he'd done, and a mate who managed, somehow, to live with it for another forty years.
-
 ---
 
 > **1888**
@@ -1839,7 +1867,7 @@ She waits three nights before she is certain, and on the third night she is righ
 
 He leaves the Prospect at his usual hour, unhurried, the case under his arm, and instead of turning toward his rooms he turns the other way, down toward the darker stretch where the warehouses crowd close enough to blot out what little moon there is, and there is a woman ahead of him on the lane who has no idea she is being followed by anything worse than the cold.
 
-Su has been waiting in the alley beside the Prospect for two hours with a boning knife from her father's kitchen inside her sleeve, because the alley is the shortest way between his rooms and that stretch of warehouses, and she has done the arithmetic of his habits the way she once did the arithmetic of knots.
+Su has been waiting in the alley beside the Prospect for two hours with a boning knife from her father's kitchen inside her sleeve, because the alley is the shortest way between his rooms and that stretch of warehouses, and she has read his habits the way she once read knots — which ones are tied wrong, and what a wrong one costs somebody.
 
 She steps out in front of him instead of behind. It is the only piece of it that isn't instinct — she has thought about this part specifically, because a man like this will have planned for someone coming from behind and never once considered someone already standing in his way.
 
@@ -2015,8 +2043,6 @@ This one's nearly full — has been for a week, the last third given over to num
 
 The river doesn't care about any of it. It was here before the Company, before London, and it goes on carrying the ash and the oil slick and the debris of ships that didn't make it, silently, the way it always has. The Thames is not a witness. It's a river. Witnesses remember. Rivers just flow.
 
-The tide carries the ash downstream the way it carries everything — without preference, without ceremony, twice a day, on schedule, whatever else is burning.
-
 ---
 
 > **2019**
@@ -2143,7 +2169,7 @@ The river doesn't care who's drinking and who's carrying tonight. It carries the
 
 The refit happens in January, when the tourist season's thinnest and the brewery finally agrees to the new cellar cooling system it's been promising since the autumn. Three days, the contractors say. It takes five, because nothing about a building this age goes to schedule, and on the third day, pulling the old bar counter away from the wall to run a cable behind it, one of them finds a gap in the timber that isn't structural — too regular, too deliberately worked, low enough that you'd have to duck and reach to find it at all.
 
-Hannah — the fourth of that name to keep this bar, though she's never made a thing of it, the way none of the Hannahs ever have — is the one who actually puts her hand into it. Her gran mentioned something once, years back, half a joke over Christmas dinner: don't ever let them rip that old counter out without checking underneath it first, whatever you do. Family superstition, Hannah always assumed. The kind every family has about some floorboard or houseplant that nobody remembers the reason for and nobody wants to be the one who's wrong about ignoring.
+Hannah — the fourth of that name to keep this bar, or the fifth, depending on which aunt is doing the counting, though she's never made a thing of it, the way none of the Hannahs ever have — is the one who actually puts her hand into it. Her gran mentioned something once, years back, half a joke over Christmas dinner: don't ever let them rip that old counter out without checking underneath it first, whatever you do. Family superstition, Hannah always assumed. The kind every family has about some floorboard or houseplant that nobody remembers the reason for and nobody wants to be the one who's wrong about ignoring.
 
 She isn't wrong.
 
@@ -2170,6 +2196,24 @@ That's the ordinary condition of the place. It holds more than anyone passing th
 Outside, the tide is going out. It'll be back in six hours and gone again six after that, on a schedule older than the Company, older than the docks, older than the towers across the water. It has never once been wrong about what it is: water, moving toward the sea, indifferent to what it's asked to remember.
 
 The last light goes off over the bar. The building settles, one small private creak in old timber — the sound of something old absorbing, without comment, one more evening it won't be asked about tomorrow.
+
+---
+
+# Author's Note
+
+This is a work of fiction built on a scaffold of documented history, and the reader deserves to know which is which.
+
+The large events are real. The East India Company was chartered on the last day of 1600 and dissolved by Act of Parliament in 1858; Lancaster's first fleet sailed in 1601 and came home in 1603; ten English merchants were tortured and executed at Amboyna in 1623; Henry Every took the Ganj-i-Sawai in 1695 and was never caught, though six of his crew hanged at Execution Dock after a first jury's acquittal was retried into a conviction; William Kidd hanged on the same foreshore in 1701, and the rope broke the first time; Plassey was substantially arranged before it was fought; the Bengal famine of 1770 killed millions while the Company's revenue was collected in full; the Company was rescued from collapse by public money in 1773, and the tea that rescue sent to America went into Boston harbour that December; Edmund Burke prosecuted Warren Hastings for seven years and lost; Bligh sailed 3,600 miles in an open boat; a mate of the Cutty Sark killed a seaman in 1880 and her captain, having helped him escape, went over the rail in the Java Sea; the London docks burned through the autumn of 1940; and the towers of Canary Wharf now stand on the West India Docks. Where the record gave me dates, numbers, and weather, I have tried to keep to them. Where I have knowingly compressed or adjusted, the timeline at the back of this book records the true sequence.
+
+The people, with a handful of exceptions, are invented. Every protagonist in these pages — Tom, Daniel and Nell, Esther Finch, Nathaniel Cross, Coates, Mulvey, Naylor, Alec Munro, Mei, Harding, Coombs, Su Zhang, Gwen, and every keeper of the bar from Ashby to the last Hannah — is fiction, as is everything they say, hide, and decide. Real persons appear at the edges of their stories: Kidd, Every, Clive, Mir Jafar, Bligh, Hastings, Burke, Wallace and Smith of the Cutty Sark, and others. Where such people speak or are spoken of in these pages, their words and private motives are imagined, though I have tried to imagine them inside the boundaries of what the record supports.
+
+One chapter requires a stronger caution. The Whitechapel murders of 1888 were real, and were never solved. "The Watchman's Daughter" invents a killer and invents an ending, and neither is a claim about what actually happened. The five women who died deserve better than a solution made up for a novel; the chapter is offered as a story about the people the fear belonged to, not as an answer to a case that has none.
+
+Three chapters are marked as interludes — the Bounty, the Cutty Sark, the Whitechapel autumn — because they step outside the Company's own story into the wider life of the river that carried it. Two of the three are entirely real events. What makes them interludes is the widening of the lens, not the trustworthiness of the history.
+
+Finally, a word about the vantage point. This book stands in one London room for four centuries, which means it hears the empire mostly in the voices of the people who profited from it, served it, or drank near it — and only rarely in the voices of the people it was practised upon. That is a deliberate limit, and it has a cost, and I have tried to make the cost visible rather than pretend it away: the ledger in these pages is written from the counting-house side, and the reader is invited, on every page, to notice who is missing from the room. Bengal, Canton, Amboyna, and Boston had their own rooms, their own evenings, and their own stories, told better elsewhere — some of the places to start are listed in the bibliography that follows.
+
+The Prospect of Whitby is real, and older than the Company. The tide still runs past it twice a day. The rest is fiction.
 
 ---
 

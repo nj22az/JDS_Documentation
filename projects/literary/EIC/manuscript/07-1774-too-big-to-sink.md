@@ -92,7 +92,7 @@ Good tea, a docker mourns, on principle. A fortune of it, straight into the salt
 
 It was not good tea, Naylor says, from the end of the bar. It is the first thing he has said all evening, and something in the flatness of it turns heads. It was three years in bond and stale as ship's biscuit, most of it. I counted it in and I counted it out. They have not drowned a treasure. They have drowned a warehouse-clearing dressed as a favour.
 
-The arithmetic goes round the room regardless, because it always does: nine, maybe ten thousand pounds of property, steeping in a harbour. At the Company table the talk is already of consequences, and nobody doubts there will be consequences. They'll close the port, the senior man says. Ships of war and a regiment, and an example made of the town, because the money is nothing but the precedent is everything — you cannot let ten thousand pounds of a rescued company sit on the sea-floor and call it politics.
+The figures go round the room regardless, because they always do: nine, maybe ten thousand pounds of property, steeping in a harbour. At the Company table the talk is already of consequences, and nobody doubts there will be consequences. They'll close the port, the senior man says. Ships of war and a regiment, and an example made of the town, because the money is nothing but the precedent is everything — you cannot let ten thousand pounds of a rescued company sit on the sea-floor and call it politics.
 
 We hanged pirates once to soothe an emperor, says the oldest man at the table, who is old enough to have heard that story from men who stood in this room for it. Now we'll garrison a town to soothe a parliament. The scale of the theatre improves. The play doesn't change.
 

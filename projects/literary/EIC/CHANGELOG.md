@@ -4,6 +4,39 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-02] (craft pass per editorial assessment)
+
+### Added
+- Live-scene cut-aways, the deepest remaining craft fix: "The Room"
+  (the 1623 Amboyna interrogation, on-page, in the 1626 chapter) and
+  "The Grove" (the field at Plassey, 23 June 1757, through Coates's
+  eyes). The bar dialogue around each was trimmed so the chapters
+  show first and summarize second.
+- Author's Note (`appendix-0-authors-note.md`): documented fact vs
+  invention, the 1888 caveat, the interludes, and the vantage-point
+  honesty (the ledger is written from the counting-house side).
+
+### Changed
+- Refrain rationed: generic river/tide codas cut from six chapter
+  endings (1603, 1626, 1790, 1839, 1880, 1940) so the refrain lands
+  hard only at 1770, 1858, and 2019, with plot-specific closers
+  elsewhere.
+- "Arithmetic" tic audited: 16 instances cut to 8; the word now
+  belongs to Coates (1757) and the institutional voice only, with
+  each protagonist given their own idiom (Esther reckons, Naylor
+  tallies, Alec keeps counts and names, Su reads knots). Company
+  spokesmen differentiated (tutor / accountant / courtier / salesman
+  / advocate) and the voice map logged in the craft plan.
+
+### Fixed (continuity read-through)
+- The 1770 press-gang officer recounted the Bounty mutiny nineteen
+  years early; replaced with the Falklands crisis mobilization of
+  1770, which also now echoes Mulvey's famine account.
+- The 1701 keeper-lineage sentence was circular; clarified.
+- The 2019 "fourth of that name" Hannah count made deliberately
+  fuzzy family lore ("or the fifth, depending on which aunt is doing
+  the counting") — a strict count across 1770–2019 gives five.
+
 ## [2026-07-02]
 
 ### Added

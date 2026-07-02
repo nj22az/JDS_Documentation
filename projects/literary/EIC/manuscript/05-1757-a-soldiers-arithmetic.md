@@ -88,7 +88,25 @@ Behind them, the dice game has resolved itself without bloodshed — one man owe
 
 * * *
 
-## IV. Spitalfields
+## IV. The Grove
+
+The twenty-third of June is a wet season day, and it begins before light, in a mango grove near a village nobody in England has ever pronounced.
+
+The grove is good ground and everyone in it knows how few of them there are. Three thousand men stand to among the trees — a thousand Europeans, the rest sepoys, and Coates among them with forty rounds and a bayonet and the particular dry mouth of a man doing his sums. Across a mile of open paddy, the Nawab's army comes out of its camp like a city deciding to move: horse and foot and guns until the counting stops meaning anything, war elephants in armour, cavalry in bodies bigger than Coates's whole army, the morning sun catching so much steel that the horizon glitters like water.
+
+The guns open at eight, theirs and ours, and for a while it is a battle, or sounds like one. A man three files from Coates is opened up by a round shot and dies asking what happened. This is the part Coates will keep saying, later, in a bar in Wapping: men died. Good men. Whatever else it was, the shot was real.
+
+At noon the sky does what Bengal skies do in June: it falls on them. An hour of rain like a wall coming down. Coates's battalion get their tarpaulins over the powder because their sergeants have been rained on in Bengal before; across the field, the Nawab's gunners haven't, and don't, and when the rain stops their guns have gone quiet as furniture. And their cavalry comes anyway — one brave, doomed rush behind a commander who believes his own side's silence is a trick — and the Company's guns, dry under their tarpaulins, take him and his horsemen apart in the open ground.
+
+And then, the thing Coates cannot make anyone in London understand. Nothing happens.
+
+Fifty thousand men stand in the heat of the afternoon and do not come. Coates stands in the grove with his musket loaded, watching a third of the horizon — the whole left of the Nawab's line, the cavalry and guns of Mir Jafar — sit their horses like men watching a horse race they have no money on. Now and then the order comes to fire, and Coates fires, at that distance, at that stillness, and it is like firing into a painted wall. Somewhere behind the stillness, a letter has already been signed. The men in the grove don't know that yet. But a soldier knows when the field is wrong the way a waterman knows a wrong tide, and by mid-afternoon every man in the grove knows he is not fighting an army. He is attending a transaction, with a musket, in the rain.
+
+By evening the Nawab's camp is a river of men running from something that never chased them. Coates walks through it at dusk with his battalion — past abandoned guns, past cook-fires still burning under pots still full, past an army's worth of everything dropped by men who had been sold that morning and were only now finding it out. Twenty-two of his own side are dead. Twenty-two, for Bengal. He steps over a fallen standard sinking into the mud and cannot shake the feeling — he never will shake it — that somewhere a clerk has already recorded the whole day, in a ledger, in advance.
+
+* * *
+
+## V. Spitalfields
 
 The landlord comes around the bar. He's been listening with his whole body — jaw tight, hands gripping the wood.
 
@@ -124,7 +142,7 @@ Why would you. The Company doesn't tell its soldiers about weavers. It tells the
 
 * * *
 
-## V. Three Men in a Bar
+## VI. Three Men in a Bar
 
 The young man has found his voice. Still too high, but steadier now.
 
@@ -160,7 +178,7 @@ Nobody speaks to Coates. The young man closes his notebook, puts the pencil away
 
 * * *
 
-## VI. What the River Sees
+## VII. What the River Sees
 
 The fire has gone out. Nobody lights it again.
 
