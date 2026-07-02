@@ -1351,7 +1351,23 @@ Nobody at the Company table finds this worth further comment. They finish their 
 
 * * *
 
-## VIII. What the River Doesn't Carry
+## VIII. The Flower
+
+There is a plant on the Prospect's south sill this spring, crimson and purple, hanging its flowers like dancers caught mid-curtsey, and it is the only thing in the room tonight with no opinion about Captain Bligh.
+
+The bar owns the story of it the way it owns all its stories, polished with retelling. Two springs back, a rigger named Doyle came home from the Brazils with a plant in a biscuit-crate, watered the whole way out of his own ration, carried through two storms wedged between his knees — for Peg, his wife, who had asked him once, years before, to bring her back something that wasn't money and wasn't grief. It went on her sill on Anchor Street and flowered like nothing else in England, and half the lane found reasons to walk past it.
+
+Then Lee came. Lee the nurseryman, of the great Hammersmith grounds — a Scot with an eye that can price a leaf through a closed window — happened down Anchor Street on other business and stopped dead in the road. He offered Peg Doyle a sum. She said no: it was her husband's gift, and her husband was at sea. He doubled it. She said no again, and then, when the figure had climbed past what Doyle earned in a season, she named her own terms, and they were these: the money, and the first rooted cutting brought back to her sill, promised in writing. Lee — a man who recognized sound business when it beat him — signed.
+
+His nursery sells the slips now at a guinea apiece to ladies of quality, hundreds of them, every one descended from a plant that crossed an ocean between a rigger's knees. Buy at the dock for a kindness, multiply, sell dear at the fashionable end of town — the whole Company, somebody at this bar observed when the story was new, in a flowerpot, minus the cannons. Peg Doyle got her cutting back the same week she got her money, and the sill on Anchor Street flowers on, and that summer she brought a rooted slip round to the Prospect's keeper against an old slate and an older friendship. For the house, she said. It does well in river light.
+
+So there it stands tonight, on the sill, doing well in river light, while the room argues about a ship that sailed to the far side of the world for breadfruit and came back an open boat and a court-martial. His Majesty's Government moved a plant for the plantations' ledgers, and it cost a ship, a mutiny, and a dead man on an island. A rigger moved a plant for his wife, and it cost him some of his water ration. Of all the cargo that has passed this window in two hundred years — the pepper men drowned for, the cloth men rioted over, the tea a harbour drank, the poppy already rising in Bengal that a whole country will be made to swallow — the flower on the sill is the one shipment nobody, anywhere, died for.
+
+Alec Munro stops beside it a moment on his way out into the wet dark, and looks at it longer than a man usually looks at a flower — the thing that came back whole from the far side of the world, in a year when he cannot find out what else did.
+
+* * *
+
+## IX. What the River Doesn't Carry
 
 The newspaper gets passed from table to table until the print wears soft at the folds and somebody finally uses it to light a pipe. The talk moves on, the way talk does, to the price of coal and a dog fight promised for Saturday and whether the frost will hold.
 
@@ -2011,6 +2027,8 @@ Su goes back to folding shirts the next morning, because the shop still needs th
 
 She tells no one, ever. Not Hannah. Not her mother. Not the dockworker who handed her, without knowing it, the one fact she needed. Not her father — though on the first morning, in the yard, working through the form beside him in the cold, she feels him reading her through the crossed wrists the way he has read her since she was seven, and when they finish, his eyes are older than they were, and all he says is: your weight is back on your heels. Fix it. And she fixes it, and he never asks, and that is how two people who love each other carry a thing up a long flight of years — one landing at a time, without ever once naming what it weighs.
 
+That winter Hannah presses a small pot on her across the bar — a rooted cutting of the house's flower, the crimson dancer that has hung at the Prospect's window since before either of them was born. The Hannahs have been splitting it for a hundred years; it roots easy; mind it in frost. That is the whole conversation. A gift with no questions in it, which is, that winter, the only kind Su can take. It goes in the chandlery window, between the lamps, and blooms the next summer like a small unreasonable argument for the world, and Kate — who never saw a bright thing she didn't sing at — would have liked it, which is not nothing. Which is, some mornings, the whole of what there is.
+
 She thinks of Long Liz more than she expects to, in the after-years — Liz and her drowned family that never drowned, the story she wore because the true one couldn't be worn in public. Su understands her completely now. She has her own Princess Alice: a night, an alley, a clasp she took her hand from. A story that holds her up and can never be told, carried the way the river carries everything that goes into it — without a mark left on the surface, without anyone else ever quite knowing it's down there.
 
 Kate's bodice stays wrapped in its paper in the back room for years, paid for and never collected, because neither Su nor her mother can bring themselves to unpick the seams and use the cloth. When the shop finally passes to other hands, it goes with Su to her own house, still in its paper. Some accounts are kept open on purpose. It is the only entry in the family's books that both women can read and neither will ever say aloud.
@@ -2076,6 +2094,8 @@ She closes the book.
 Twenty-nine thousand bombs on the docks since September, she says. And counting.
 
 She opens it again and adds tonight's line. The dock system the Company built — the pepper docks, the tea docks, the engine room of an empire — burning, page by page.
+
+And once, between two nights of bombs, there is a line in the notebook that is not damage. Fuchsia flowering, west sill, it says — because the pot still stands where it has stood for a century and a half, and Hannah carries it down to the cellar at every siren and back up at every all-clear, the one resident of the house with a guaranteed shelter place. Gwen recorded it the way she records everything: once, exactly, without comment. A ledger of destruction is still a ledger. It takes what it's given.
 
 * * *
 
@@ -2181,7 +2201,7 @@ The river doesn't care about any of it. It was here before the Company, before L
 
 Eight taps behind the bar now, and not one of them pours anything that existed when this room was new. The beams are original. The flagstones are original. The floor still slopes toward a river that used to carry tea and opium and now carries, mostly, sightseeing boats. Everything about the Prospect of Whitby that can be photographed has survived. Almost everything that cannot has not.
 
-The pub's been called the Prospect of Whitby a long time now. Before that, the Devil's Tavern — a better name, but the people who run these things prefer something tourists can say without giggling. There's a sign outside with a ship painted on it, lit up along with everything else on this stretch of river these days. The world is too bright here now, most nights.
+The pub's been called the Prospect of Whitby a long time now. Before that, the Devil's Tavern — a better name, but the people who run these things prefer something tourists can say without giggling. There's a sign outside with a ship painted on it, lit up along with everything else on this stretch of river these days, and under the sign, hanging baskets of fuchsia — crimson, purple, absurdly alive — which the tourists photograph as set-dressing and which are the one thing on the frontage the heritage menu doesn't claim and couldn't: two centuries of cuttings of cuttings, the oldest living thing on the premises. The world is too bright here now, most nights.
 
 What's changed is everything but the bones. One tap used to serve this room; ale dark and warm, tasting of the river. Now there are eight, pouring things called Hop Fathom and Mudlark IPA, and the ale is still good — different, but good. There's a laminated menu with tasting notes. A section called 'Heritage,' three paragraphs, two of them wrong. A gift shop selling mugs and keyrings. A TripAdvisor sticker on the door.
 
@@ -2319,6 +2339,8 @@ Hannah sits on the floor behind her own bar for a long time, holding three centu
 
 That's, um. She doesn't finish the sentence either.
 
+She reads the notebook there on the floor, cover to cover, by phone-light. Dates, tonnages, streets that stopped existing between one entry and the next. And in the middle of the worst month, once, a line that isn't damage: Fuchsia flowering, west sill. Hannah looks up, through the doorway, to where six baskets of the same plant are flowering over the front door this minute — split and re-potted by every keeper since, herself included, because you do it the way it's always been done. Whoever kept this book stopped once, mid-catastrophe, to write down that a flower was managing. Hannah decides, on the floor, in the dust, that it is the most useful thing anyone has ever told her about the war.
+
 She doesn't call the brewery. Doesn't call a museum, not yet — not until she's had longer than an afternoon to decide what a discovery like this is actually for. She photographs it, properly, the way none of this book's tourists have ever photographed anything, and puts the three objects back exactly where she found them, and asks the contractor, with more force in her voice than the job requires, to leave that section of the wall precisely as it is.
 
 * * *
@@ -2350,6 +2372,8 @@ The people, with a handful of exceptions, are invented. Every protagonist in the
 One chapter requires a stronger caution. The Whitechapel murders of 1888 were real, and were never solved. "The Watchman's Daughter" invents a suspect and invents an ending, and neither is a claim about what actually happened — within the story itself, deliberately, no one ever learns whether the man in the alley was the murderer. Su's friendships with Elizabeth Stride and Catherine Eddowes are likewise invented: the two women were real, they died on the same September night, and what little of them appears here — Liz's borrowed Princess Alice grief, Kate's hop-picking summer and her cheerfulness — is drawn from the record and extended with affection. The five women who died deserve better than a solution made up for a novel; the chapter is offered as a story about the people the fear belonged to, not as an answer to a case that has none.
 
 Three chapters are marked as interludes — the Bounty, the Cutty Sark, the Whitechapel autumn — because they step outside the Company's own story into the wider life of the river that carried it. Two of the three are entirely real events. What makes them interludes is the widening of the lens, not the trustworthiness of the history.
+
+The fuchsia is folklore, faithfully retold: the story that Britain's first fuchsia came off a sailor's ship to a Wapping windowsill in the late 1780s, was bought by the nurseryman James Lee for guinea cuttings, and touched the Prospect itself, is the pub's own legend — and this book takes the pub's word for it. Peg and her rigger are invented; Lee was real; the plant, wherever it truly landed, conquered England.
 
 Finally, a word about the vantage point. This book stands in one London room for four centuries, which means it hears the empire mostly in the voices of the people who profited from it, served it, or drank near it — and only rarely in the voices of the people it was practised upon. That is a deliberate limit, and it has a cost, and I have tried to make the cost visible rather than pretend it away: the ledger in these pages is written from the counting-house side, and the reader is invited, on every page, to notice who is missing from the room. Bengal, Canton, Amboyna, and Boston had their own rooms, their own evenings, and their own stories, told better elsewhere — some of the places to start are listed in the bibliography that follows.
 
@@ -2398,6 +2422,8 @@ The Prospect of Whitby is real, and older than the Company. The tide still runs 
 **1774**  News of the Boston Tea Party reaches London in January. The port is closed, troops follow, and the road to American independence opens over threepence a pound.
 
 **1789–1790**  The mutiny on the Bounty. Captain Bligh and eighteen loyal men are set adrift; all but one survive a 3,600-mile open-boat voyage to Timor.
+
+**1788**  A sailor's fuchsia reaches a Wapping windowsill. The nurseryman James Lee buys it and sells cuttings at a guinea apiece — and the Prospect's sill gets a slip of Britain's first, the beginning of the pub's oldest living tenant.
 
 **1788–1795**  Edmund Burke leads the impeachment of Warren Hastings, Governor-General of Bengal — the Company's rule in India put on trial in Westminster Hall. Seven years later, Hastings is acquitted on every charge.
 

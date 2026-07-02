@@ -128,7 +128,23 @@ Nobody at the Company table finds this worth further comment. They finish their 
 
 * * *
 
-## VIII. What the River Doesn't Carry
+## VIII. The Flower
+
+There is a plant on the Prospect's south sill this spring, crimson and purple, hanging its flowers like dancers caught mid-curtsey, and it is the only thing in the room tonight with no opinion about Captain Bligh.
+
+The bar owns the story of it the way it owns all its stories, polished with retelling. Two springs back, a rigger named Doyle came home from the Brazils with a plant in a biscuit-crate, watered the whole way out of his own ration, carried through two storms wedged between his knees — for Peg, his wife, who had asked him once, years before, to bring her back something that wasn't money and wasn't grief. It went on her sill on Anchor Street and flowered like nothing else in England, and half the lane found reasons to walk past it.
+
+Then Lee came. Lee the nurseryman, of the great Hammersmith grounds — a Scot with an eye that can price a leaf through a closed window — happened down Anchor Street on other business and stopped dead in the road. He offered Peg Doyle a sum. She said no: it was her husband's gift, and her husband was at sea. He doubled it. She said no again, and then, when the figure had climbed past what Doyle earned in a season, she named her own terms, and they were these: the money, and the first rooted cutting brought back to her sill, promised in writing. Lee — a man who recognized sound business when it beat him — signed.
+
+His nursery sells the slips now at a guinea apiece to ladies of quality, hundreds of them, every one descended from a plant that crossed an ocean between a rigger's knees. Buy at the dock for a kindness, multiply, sell dear at the fashionable end of town — the whole Company, somebody at this bar observed when the story was new, in a flowerpot, minus the cannons. Peg Doyle got her cutting back the same week she got her money, and the sill on Anchor Street flowers on, and that summer she brought a rooted slip round to the Prospect's keeper against an old slate and an older friendship. For the house, she said. It does well in river light.
+
+So there it stands tonight, on the sill, doing well in river light, while the room argues about a ship that sailed to the far side of the world for breadfruit and came back an open boat and a court-martial. His Majesty's Government moved a plant for the plantations' ledgers, and it cost a ship, a mutiny, and a dead man on an island. A rigger moved a plant for his wife, and it cost him some of his water ration. Of all the cargo that has passed this window in two hundred years — the pepper men drowned for, the cloth men rioted over, the tea a harbour drank, the poppy already rising in Bengal that a whole country will be made to swallow — the flower on the sill is the one shipment nobody, anywhere, died for.
+
+Alec Munro stops beside it a moment on his way out into the wet dark, and looks at it longer than a man usually looks at a flower — the thing that came back whole from the far side of the world, in a year when he cannot find out what else did.
+
+* * *
+
+## IX. What the River Doesn't Carry
 
 The newspaper gets passed from table to table until the print wears soft at the folds and somebody finally uses it to light a pipe. The talk moves on, the way talk does, to the price of coal and a dog fight promised for Saturday and whether the frost will hold.
 
