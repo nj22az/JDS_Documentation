@@ -4,6 +4,21 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [3.10] — 2026-07-02
+
+### Added — Book PDF generator
+- **`scripts/md2book.py`** — compiles a markdown manuscript folder into a
+  publishable trade-book PDF (6×9 in, mirrored margins, justified and
+  hyphenated Liberation Serif, chapters opening on right-hand pages with
+  suppressed running heads, verso/recto running heads, and a contents page
+  with leader-dot page numbers via `target-counter`). Built for the EIC
+  literary project (`projects/literary/EIC/`) but generic: any folder of
+  `NN-YEAR-slug.md` chapters plus `appendix-N-*.md` back matter works.
+  Deliberately separate from `md2pdf.py`: PRO-007 governs JDS technical
+  documents (never justify, sans-serif, UNCONTROLLED COPY marking); a novel
+  is a different genre with different rules, so it gets its own tool rather
+  than flags bolted onto the document pipeline.
+
 ## [3.9] — 2026-06-26
 
 ### Fixed — Whole-repo review sweep (CA-2026-010)

@@ -1,3 +1,11 @@
+> **1701**
+>
+> *"The tide serves at five. The law serves whoever paid for the rope."*
+>
+> — Wapping saying, recorded 1701
+
+---
+
 # 1701: Good for Business
 
 ## I. Low Tide

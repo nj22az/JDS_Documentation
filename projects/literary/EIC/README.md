@@ -35,7 +35,8 @@ EIC/
 │   ├── 01-1600 ... 13-2019         ← 13 chapters, numbered chronologically
 │   └── appendix-timeline.md / appendix-bibliography.md
 ├── exports/
-│   └── the-front-row-seat.md       ← Compiled single-file book (regenerate after chapter edits)
+│   ├── the-front-row-seat.md       ← Compiled single-file book (regenerate after chapter edits)
+│   └── the-front-row-seat.pdf      ← Publishable 6×9 book PDF (`python3 scripts/md2book.py projects/literary/EIC/manuscript projects/literary/EIC/exports/the-front-row-seat.pdf`)
 ├── notes/
 │   └── outline-and-craft-plan.md   ← Working plan: strengths, weaknesses, next moves
 └── references/                     ← Source material, inspiration (empty so far)

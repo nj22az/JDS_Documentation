@@ -1,3 +1,11 @@
+> **1880**
+>
+> *"A ship may be the fastest thing on the water and still carry the slowest kind of news."*
+>
+> — Dockside saying, London, 1880
+
+---
+
 # 1880: The Hell Ship
 
 ## I. The Fastest Thing on the Water

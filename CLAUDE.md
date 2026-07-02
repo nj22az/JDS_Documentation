@@ -108,6 +108,7 @@ When you notice something that could be improved:
 | `scripts/jds-validate.py --fix` | Show suggested fixes for errors | Post-audit remediation |
 | `scripts/md2pdf.py` | JDS document → PDF (auto-coloured logo) | `python3 scripts/md2pdf.py <file.md>` |
 | `scripts/md2letter.py` | Letter template → PDF (Heritage Red logo) | `python3 scripts/md2letter.py <file.md>` |
+| `scripts/md2book.py` | Markdown manuscript folder → publishable trade-book PDF (6×9 in book typography, not PRO-007) | `python3 scripts/md2book.py <manuscript_dir> [out.pdf]` |
 | `scripts/generate-office-docs.py` | Excel workbook generator (timesheet, expense, mileage) | `python3 scripts/generate-office-docs.py timesheet\|expense\|mileage\|all [output]` |
 | `scripts/office2pdf.py` | Excel workbook → JDS-compliant PDF | `python3 scripts/office2pdf.py <file.xlsx> [output.pdf]` |
 | `scripts/logo-variants.py` | Generate SVG logo colour variants | `python3 scripts/logo-variants.py` |

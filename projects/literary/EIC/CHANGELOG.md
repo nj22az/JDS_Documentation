@@ -23,6 +23,17 @@ All notable changes to this project are recorded here.
   single markdown file (frontmatter, 13 chapters, timeline,
   bibliography; ~34,500 words). The chapter files in `manuscript/`
   remain the source of truth; regenerate the export after edits.
+- `exports/the-front-row-seat.pdf` — publishable 6×9 trade-book PDF
+  (122 pages), generated with the new `scripts/md2book.py` (JDS 3.10).
+  Book typography: justified/hyphenated Liberation Serif, chapters
+  opening on right-hand pages, running heads, contents with real page
+  numbers. The bibliography's working-notes section ("Suggested
+  additions") is excluded from the printed copy.
+- Epigraphs added to the four chapters that lacked them (1701, 1790,
+  1880, 1888), closing the consistency item flagged in the craft plan.
+- Appendix files renamed `appendix-1-timeline.md` /
+  `appendix-2-bibliography.md` so back-matter order is explicit
+  (Timeline before Bibliography).
 
 ### Changed
 - Chapters renumbered 01–13 to accommodate the new 1696 chapter.

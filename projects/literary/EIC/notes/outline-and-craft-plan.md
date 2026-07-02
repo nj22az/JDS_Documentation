@@ -198,9 +198,8 @@ higher" build-up the chapter 02 ending already gestures at). Candidates if anoth
 ever wanted: 1793 Permanent Settlement, or 1799 Seringapatam/Tipu Sultan. Not urgent — flagged
 so it's a decision, not an oversight.
 
-**Epigraph consistency (polish item):** the original eight chapters open with a dated epigraph
-block; of the five added chapters, 1696 has one but 1701, 1790, 1880, and 1888 do not. Add
-matching epigraphs to those four before submission.
+**Epigraph consistency — DONE:** all 13 chapters now open with a dated epigraph block
+(matching invented epigraphs added to 1701, 1790, 1880, and 1888).
 
 ## 7. Author's Note — needed before this goes out
 
