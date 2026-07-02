@@ -101,5 +101,3 @@ Nobody in this bar asks what becomes of the family Francis left behind. The news
 ## VIII. What the River Carries
 
 Cutty Sark herself is back on the river tonight, moored downstream, home from whatever tramp voyage has occupied her since — nobody at this table has kept close enough track to say which ports, only that she came back under a captain nobody's heard a bad word about yet, which these days counts as good news. She is, by any measure the men in this bar care to use, one of the most beautiful things ever built to cross water. She is also, in the telling that's followed her these two years, a ship men still call cursed, and both of those things are true at the same time without either one cancelling the other out.
-
-The river does not rank ships by their beauty or their body count. It carried tea for her glory years and carries the news of her disgrace with exactly the same indifference, the same tide, the same patient work of moving whatever is put into it out toward the sea — coal, jute, gossip, grief, a captain who couldn't live with what he'd done, and a mate who managed, somehow, to live with it for another forty years.

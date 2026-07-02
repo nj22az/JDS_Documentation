@@ -171,5 +171,3 @@ Hale stays a while longer, hands slowing to the shake of a clock running down. T
 Hannah is the one who finally helps. Gives Mei directions to a shipping office, somewhere the names on Company manifests might be recorded, if anyone thought it worth recording them. Mei takes the directions the way she took her own four words of English earlier — carefully, with both hands, unwilling to lose anything else tonight. She looks at the river once more and goes out into the cold to keep looking.
 
 The bar is empty. The smell is still there, faint under the salt — a flower that travelled ten thousand miles to sit in this room while the ale goes on being good. The triangle is complete again tonight, as it is most nights. Poppy grown, opium sold, silver moved, tea in British cups, money in Company ledgers. Addicts in Canton. A peasant in Bengal who has never heard of any of them. A woman somewhere in the London dark, still looking.
-
-The tide does not taste the difference between any of it. It goes out the way it always does, carrying what it's given, asking nothing about the ledger.

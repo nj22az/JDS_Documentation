@@ -118,13 +118,13 @@ Pint, he tells Hannah. Drinks half in one go. Good haul this morning, he announc
 
 Nobody answers him. Talking to a press-gang officer is a good way to end up on a ship.
 
-You hear about the Bounty? he says, to the room. Bligh's own crew turned on him — set him adrift in an open boat, eighteen men, not enough water, four thousand miles from land. He made it, though. Navigated the whole way on a sextant and a bad temper. Every man with him lived. The one thing he couldn't keep alive was their loyalty.
+Busy season coming, he says, to the room. The Spaniards have thrown us off the Falklands — some rock at the bottom of the world nobody in this bar could find on a chart, and the King wants a fleet fitted out over it by spring. Forty ships want crews. Do you know what forty ships' worth of crews looks like, gathered off streets like yours? He smiles. You will.
 
-Bligh was a tyrant, someone mutters.
+Over a rock, someone mutters. Ten thousand miles away.
 
-No argument, the officer says. But a tyrant who can cross an ocean in an open boat is still a tyrant who can cross an ocean in an open boat. Men are complicated.
+Over the principle of the rock, the officer corrects him, cheerfully. Nobody fights over what a thing is worth. They fight over who's allowed to take it. I'd have thought this street would know that better than most, the company it keeps.
 
-He drinks his second pint, louder now. Men break, he says, almost thoughtful for a second. All of them, eventually — Bligh's crew, the Company's men in Bengal, the lads I drag off the street. Just a question of when.
+He drinks his second pint, louder now. Men break, he says, almost thoughtful for a second. All of them, eventually — the lads I drag off the street, the Company's men in Bengal, whole provinces, by what your quiet friend there's been saying. Just a question of when.
 
 He finishes, stands, puts on his hat, and leaves — and the bar exhales the way a room exhales when something dangerous has gone out the door.
 

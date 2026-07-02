@@ -42,6 +42,8 @@ standing between "well-researched" and "page-turner."
    set. Do that at least twice more.
 3. **Ration the closing refrain** (see Section 5).
 
+**All three fixes executed as of 2026-07-02** — protagonists (3a), live scenes (4), refrain (5).
+
 ## 3. The throughline — decided
 
 Every chapter gets an invented protagonist with a real, active, in-scene choice (the Su model:
@@ -139,7 +141,7 @@ homework.
 Add new pairs sparingly if they occur naturally while rewriting — don't force one into every
 chapter just to hit a quota.
 
-## 4. Chapters to consider converting to live scene
+## 4. Chapters to consider converting to live scene — DONE (2026-07-02)
 
 Reportage-after-the-fact is a legitimate device and shouldn't be abandoned everywhere — variety
 is part of what keeps the collection from feeling like a gimmick. But right now only two chapters
@@ -154,7 +156,7 @@ live-scene rewrite or a live-scene *insert* alongside the existing bar frame:
   than Harding's recollection of it, would work — though there's a real argument for *keeping*
   Cawnpore as recollection-only, since restraint is doing real work there (see Section 6).
 
-## 5. Refrain rationing
+## 5. Refrain rationing — DONE (2026-07-02)
 
 "The river doesn't care / keep score / remember" closes nearly every chapter. Rotate among the
 images that already exist in the text — river, tide, ledger, machine, fire — and cut the closing
@@ -163,6 +165,27 @@ not a sign-off. Suggested chapters to end *without* the refrain: 1701 (already e
 not know how to answer if it were" — good, keep), 1790, 1880. Suggested chapters where the refrain
 should hit hardest and stay: 1770 (Bengal famine), 1858 (dissolution), 2019 (closing chapter of
 the book — the refrain should land here more than anywhere).
+
+## 5a. Voice map — keeping the centuries distinct (maintain on every pass)
+
+The Company-table spokesmen risk collapsing into one ironic voice. Registers now deliberately
+distinguished — keep them apart in future edits:
+
+- **Sillitoe (1701): the tutor.** Speaks in lessons, addresses juniors, patient contempt
+  ("Learn this now and it'll save you grief later").
+- **The tea-table senior (1774): the accountant.** Reasons in sums and consequences; almost no
+  imagery ("Do the sum"; the one allowed image is the chapter thesis, "too large to be let sink").
+- **The trial-weary senior (1790): the courtier.** Measures everything socially — seats,
+  dinners, duchesses, what London has grown used to.
+- **Pemberton (1839): the salesman.** Product language, demonstrations, the triangle in spilled ale.
+- **The shareholder (1858): the advocate.** Legal-financial idiom — "legitimate expectation,"
+  verdicts, scales.
+
+**The "arithmetic" rule:** the word belongs to Coates (1757 — his chapter's title and signature)
+and to the institutional voice (characters naming the *machine's* way of thinking). Protagonists
+each have their own idiom instead: Tom counts odds, Esther *reckons*, Naylor *tallies*, Alec
+keeps *counts and lists of names*, Su *reads knots*, Mei turns Pemberton's own word on him.
+Audited 2026-07-02: 16 instances cut to 8, all now within the rule.
 
 ## 6. Chapter order (current)
 
@@ -249,7 +272,7 @@ The options considered were:
    "Wapping nights"). Cheapest to produce, but it costs the book Su — its single best chapter —
    and breaks the Cache/scar-tissue payoff chains that now route through 1888.
 
-## 7. Author's Note — needed before this goes out
+## 7. Author's Note — DONE (2026-07-02, `manuscript/appendix-0-authors-note.md`)
 
 Real people are given invented private dialogue (Kidd, Bligh, Clive, Mir Jafar, Wallace, Smith).
 One chapter (1888) invents a vigilante killer for an unsolved real murder case. Both are

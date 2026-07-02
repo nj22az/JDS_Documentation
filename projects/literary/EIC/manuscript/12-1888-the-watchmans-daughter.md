@@ -60,7 +60,7 @@ She waits three nights before she is certain, and on the third night she is righ
 
 He leaves the Prospect at his usual hour, unhurried, the case under his arm, and instead of turning toward his rooms he turns the other way, down toward the darker stretch where the warehouses crowd close enough to blot out what little moon there is, and there is a woman ahead of him on the lane who has no idea she is being followed by anything worse than the cold.
 
-Su has been waiting in the alley beside the Prospect for two hours with a boning knife from her father's kitchen inside her sleeve, because the alley is the shortest way between his rooms and that stretch of warehouses, and she has done the arithmetic of his habits the way she once did the arithmetic of knots.
+Su has been waiting in the alley beside the Prospect for two hours with a boning knife from her father's kitchen inside her sleeve, because the alley is the shortest way between his rooms and that stretch of warehouses, and she has read his habits the way she once read knots — which ones are tied wrong, and what a wrong one costs somebody.
 
 She steps out in front of him instead of behind. It is the only piece of it that isn't instinct — she has thought about this part specifically, because a man like this will have planned for someone coming from behind and never once considered someone already standing in his way.
 

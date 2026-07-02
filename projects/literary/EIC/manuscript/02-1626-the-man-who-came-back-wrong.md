@@ -66,7 +66,29 @@ They arrested us on false charges. Said we were plotting with the Japanese merce
 
 The bar has gone quiet around them. Men who weren't listening are listening now.
 
-They tortured us, Daniel says, plain as weather. Water down the throat until your stomach's full and you're drowning from the inside. Then they'd stamp on you and it would come back up, and they'd start again. Hours of it. Days. Until you confessed to whatever they wanted. Then they executed you anyway.
+Daniel's sentence stays broken where it stopped. Some sentences do.
+
+* * *
+
+## IV. The Room
+
+The room is coral stone and has no window, and it is three years ago, and it is also always.
+
+There is a table, and a man behind the table who asks the questions, and a clerk beside him who writes down the answers, and the writing is the part Daniel cannot stop watching, even now, even here — the pen moving patiently whether he speaks or screams, because the paper does not need him to speak. The paper was finished before he was brought in. His answers are a formality the ink is waiting to receive.
+
+The question is always the plot. Who ordered it. When it was to be. Who else. There is no plot, Daniel says, and the man behind the table nods, unhurried, unoffended, the way a man nods at a sum that hasn't come out right yet, and the cloth goes over Daniel's face again, and the water comes again.
+
+Nobody who has not had it done can be told what it is. It is not like drowning; it is drowning, on dry land, in a chair, at a speed of another man's choosing — the body's whole animal machinery screaming its one message while somewhere above the water a voice keeps asking, mild as a schoolmaster, who ordered it, when it was to be, who else. Then the weight on his belly, and the water coming back up, and the room again, and the pen, patient, waiting. Then again. Hours are the wrong measure. There are only two times in the room: the water, and the question.
+
+Through the wall, for two days, he can hear Towerson. Not words. Just the fact of him — the best man Daniel has ever served under, going the way everyone goes in that room, by lengths. On the third day the wall goes quiet, and the quiet is worse, and some days later — he has lost the count by then, the one thing he has never lost before or since — they come in and look at him the way men look at stock, and one of them says a word to the other, and the word is Batavia, and no one ever tells him why. He has been trying to work it out for three years: what he said, or didn't; what he was worth, or wasn't; why the axe for ten men and the boat for him. There is no answer. It was an entry in a ledger he will never see, made by a clerk with a patient pen, and it is the only mercy anyone showed at Amboyna, and it was not mercy. It was paperwork.
+
+* * *
+
+## V. What Came Back
+
+In the bar, three years and eleven thousand miles from the room, Daniel says almost none of this.
+
+Water, he says. They used water. And lets the rest of the sentence go where the first one went.
 
 A man by the fire has stopped coughing. Nobody is talking about the price of tar.
 
@@ -90,7 +112,7 @@ Daniel doesn't answer. He's back in a room in Amboyna, water in his lungs. Cotto
 
 * * *
 
-## IV. The Offer
+## VI. The Offer
 
 Word travels. It always does, in a bar this close to the docks — what Daniel told Carter is halfway round Wapping within the week, dressed up a little more with each telling, though nobody who's added to it has managed to make it worse than the plain truth already was.
 
@@ -124,7 +146,7 @@ He leaves. Daniel sits a while with the offer where Pryce left it, turning it ov
 
 * * *
 
-## V. The Woman Who Came Looking
+## VII. The Woman Who Came Looking
 
 She comes in on a Friday. Not young, not old. Dust on her shoes, a thin shawl, the particular set of a woman who has walked further than she meant to because there was no choice about it.
 
@@ -158,7 +180,7 @@ Daniel eats. Nell watches him, and for the first time since he walked through th
 
 * * *
 
-## VI. Cotton
+## VIII. Cotton
 
 Carter's back most evenings, treating the bar like an annex of his shop. Tonight he's got news, and Carter with news is Carter at full volume.
 
@@ -184,12 +206,10 @@ The Company's factories are becoming forts — walls going up in Surat, cannon o
 
 * * *
 
-## VII. The Walls Get Higher
+## IX. The Walls Get Higher
 
 Years pass. The bar fills and empties and fills again — same cycle, same ale, slowly improving. Daniel and Nell come in less often now, and when they do, it's a different quiet than the one he walked in with. Companionable. The quiet of two people who've said the worst of it out loud and are still sitting next to each other.
 
 The Company keeps growing. Bigger ships, bigger warehouses, busier docks. Sir Thomas Roe secured the factory at Surat years back; Bombay came later, a wedding gift from a Portuguese dowry that nobody at the time understood the size of. The factories have started growing walls. Nobody in this bar has said it out loud yet, but a factory stores goods, and a fort controls territory, and the difference is starting to show in the letters home.
 
 Just a wall, the letters say. Bricks and mortar. Nothing to worry about.
-
-The tide keeps its own accounts, and it owes nothing to any of them — not Daniel's water, not Carter's cotton, not a wall in Surat that is, for now, only a wall.
