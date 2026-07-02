@@ -106,19 +106,17 @@ He's pleased with himself — feels he's honoured the place by knowing its busin
 
 ## VI. The Officer's Drink
 
-Two juniors from the five o'clock wave are still at the bar, ties in pockets, second round. One of them orders a gin and tonic — a double, the good tonic, and is there any pink grapefruit — because it is 2019 and gin has a menu in this pub now, forty bottles long, botanicals and copper stills and small-batch everything, the parish poison of 1750 reborn at twelve pounds a serve.
+Two juniors from the five o'clock wave, ties in pockets, second round. One orders a gin and tonic — a double, the good tonic — because it is 2019 and gin has a menu in this pub now, forty bottles long, the parish poison of 1750 reborn at twelve pounds a serve.
 
-His colleague makes the face. Gin and tonic? he says. What are you, gay?
+His colleague makes the face, and says the thing. It doesn't need printing. It is the tired little insinuation that has attached itself to certain glasses since some forgotten mess dinner — a joke whose entire ambition is to make another man account for his drink, and whose entire wit is the eyebrow it arrives with.
 
-It's said lazily — a joke because it's shaped like one, the laugh already invoiced and expecting payment.
+The man with the gin doesn't look up from his phone. He lets the remark stand alone in the middle of the room until even its owner can hear it — which takes about three seconds, and visibly feels longer.
 
-Yep, says the man with the gin, not looking up from his phone, in the pleasant tone of someone confirming a delivery address. Anything else?
+Hannah sets the glass down with the only garnish this house keeps: Officer's drink, that. Quinine against the malaria, bitter as a lawsuit; the gin and the lime are to get it down. Every man who ran the Empire east of Suez drank them on doctor's orders. Most imperial object in this building — and I'm counting the beams.
 
-The invoice goes unpaid. And Hannah, setting the glass down, adds the garnish the house has kept behind the bar for a century and a half: Officer's drink, that. The tonic's quinine — malaria medicine, bitter as a lawsuit, so they cut it with gin and lime to get it down. Every man who ran the Empire east of Suez drank them on doctor's orders. It's the most imperial object in this building, she says, and I'm counting the beams.
+Cheers, says the man with the gin, mildly, to the room in general, and drinks.
 
-The colleague looks at his lager and decides against asking after its family history, which is prudent, because the answer is Bavaria by way of a brand agency.
-
-The room has watched drinks change their clothes for four hundred years, the way it watched explanations do. Dutch physic becomes English courage. Mother's ruin becomes a gentleman's measure. The fever ration of the hardest men the Empire ever exported comes home, loses its malaria, gains a grapefruit, and gets called soft by a boy in a lanyard who has never taken anything for his health that tasted worse than oat milk. The drink outlived the Empire that mixed it — which is more than most of the Empire's monuments managed — and it has never once needed anyone to defend its honour, being, unlike most of what this room has served across four centuries, actual medicine.
+The room has watched drinks change their clothes for four hundred years, the way it watched explanations do. Dutch physic becomes English courage; mother's ruin becomes a gentleman's measure; the fever ration of the hardest men the Empire ever exported comes home, loses its malaria, and is asked to answer for its manliness by a man whose bravest daily act is hitting reply-all. It was an insult when it arrived in 1603, too. The drink has outlived everyone who ever needed it to say something about the man holding it, and it isn't finished.
 
 * * *
 
