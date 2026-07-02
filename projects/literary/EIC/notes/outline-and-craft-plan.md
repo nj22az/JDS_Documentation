@@ -5,7 +5,7 @@ Conceit: the Prospect of Whitby (formerly the Devil's Tavern), Wapping, as a fix
 East India Company from its 1600 charter to its 2019 afterlife as a tourist stop across the river
 from Canary Wharf.
 
-Status: 13 chapters drafted, spanning 1600–2019. Five chapters added to the original run of
+Status: 13 chapters drafted, spanning 1603–2019. Five chapters added to the original run of
 eight: Kidd (1701), Bligh (1790), Cutty Sark (1880), Ripper (1888), and Every (1696). This doc
 is the standing plan for turning the draft into a page-turner rather than an illustrated
 history. Update it as decisions get made — it's a working doc, not a monument.
@@ -53,9 +53,9 @@ below should still get the complete book. A reader who does notice gets a second
 the first. Three layers, load-bearing in this order:
 
 **(a) The Cache — the primary mechanism.** A hidden accumulation under the bar counter, seeded by
-Ashby's notches in 1600 (already in the text — one cut for every young man who signs and
+Ashby's notches in 1603 (already in the text — one cut for every young man who signs and
 ships out). Several protagonists, at the moment of their active choice, leave something physical
-there: Tom's keepsake (1600), Nathaniel's written testimony about the missing French passes
+there: Tom's keepsake (1603), Nathaniel's written testimony about the missing French passes
 (1701), and others as each chapter is drafted. No protagonist knows about any other's item — only
 the building holds all of it. Paid off in 2019, when it's finally found and counted. This is the
 throughline that most directly embodies "the pub is the protagonist": the place remembers what
@@ -82,7 +82,7 @@ If a reader has to notice the Cache or the Ashby name to follow the plot, it's b
 
 | Ch. | Protagonist | Active choice/stake | Cache item left / connective note |
 |---|---|---|---|
-| 1600 | Tom | Leaves a keepsake thimble with Ashby "till I'm back," an active bet against the odds she just gave him. | Keepsake thimble — first item in the Cache. |
+| 1603 | Tom | Leaves a keepsake thimble with Ashby "till I'm back," an active bet against the odds she just gave him. | Keepsake thimble — first item in the Cache. |
 | 1626 | Daniel | A Company man (Pryce) offers him money to keep quiet about Amboyna. Refuses. | — |
 | 1696 | Esther Finch, lodging-house widow | Half-guesses her quiet boarder sailed with Every; a Company-paid information-taker offers her a share of the £500 bounty, and she lies to his face rather than be bought — decided the month six substitutes hang at Execution Dock. | Throws the Mughal gold into the river at the end — deliberately NOT a Cache item (the river keeps it, not the building). |
 | 1701 | Nathaniel ("Fenner") — a former Kidd crewman hiding in the crowd | Overhears that the exculpatory French passes were deliberately buried; writes down what he saw rather than stay silent or expose himself publicly. | Written account of the passes — second item in the Cache. |
@@ -96,7 +96,7 @@ If a reader has to notice the Cache or the Ashby name to follow the plot, it's b
 | 1940 | Gwen | Personal stake made explicit: her son Peter is an AFS fireman in the docks; her post is also a vigil for him. | Her wartime notebook, kept back from the official ARP record — third item in the Cache. |
 | 2019 | Hannah ("the fourth of that name") | During a cellar refit, finds the Cache (thimble, Nathaniel's note, Gwen's notebook) and chooses to leave it exactly as found rather than report it. | **Cache payoff chapter.** Also pays off the lopsided-table scar-tissue gag (American tourist's husband wedges a coaster under it, oblivious). |
 
-Status: all 13 chapters now have an active protagonist. The Cache holds three items (1600, 1701,
+Status: all 13 chapters now have an active protagonist. The Cache holds three items (1603, 1701,
 1940), found and left in place in 2019. Both scar-tissue pairs (Louie's chair 1701→1888; the
 table 1839→2019) are complete. Remaining open items are craft-level polish, not structure — see
 Sections 4, 5, and 7 below (live-scene conversion candidates, refrain rationing, and the
@@ -108,7 +108,7 @@ A second, lighter connective device, separate from the Cache: small physical dam
 itself, caused on-page by an incident in one chapter, then noticed — never explained — by an
 unconnected character in a much later chapter. No dialogue ever explains the origin; the payoff
 scene just shows someone reacting to the object as it is now. This mirrors details already
-latent in the draft (the cracked stool in 1600, "the floor is sticky in the same three places it
+latent in the draft (the cracked stool in 1603, "the floor is sticky in the same three places it
 has always been sticky" in 1757) — treat those the same way: leave them unexplained, don't
 retcon an origin for them unless one is wanted later.
 
@@ -166,7 +166,7 @@ the book — the refrain should land here more than anywhere).
 
 ```
 00  Frontmatter
-01  1600  The Boy Who Signed
+01  1603  The Boy Who Signed                (re-dated from 1600, see note)
 02  1626  The Man Who Came Back Wrong        (Amboyna — re-dated from 1614, see note)
 03  1696  The Price of a Man                  (Every / Child's War — NEW)
 04  1701  Good for Business                   (Kidd — NEW)
@@ -182,6 +182,13 @@ the book — the refrain should land here more than anywhere).
 appendix  Timeline
 appendix  Bibliography
 ```
+
+**Re-dating note (chapter 01):** originally dated 1600, which contradicted itself — the
+charter signed "three nights before" alongside Lancaster's crew already home from a voyage that
+had not yet departed (first fleet sailed April 1601, returned September 1603). Re-dated to 1603:
+first fleet out "two years ago" and just returned, Tom signs for the second fleet (Middleton's,
+sailed spring 1604), Smythe re-elected governor, and Elizabeth's death (March 1603) becomes a
+thematic gain — the queen is dead, her paper is thriving.
 
 **Re-dating note (chapter 02):** the Amboyna chapter was originally dated 1614, but the massacre
 happened in 1623 and Daniel's two-year imprisonment in Batavia puts his return at ~1626. Re-dated
@@ -200,6 +207,38 @@ so it's a decision, not an oversight.
 
 **Epigraph consistency — DONE:** all 13 chapters now open with a dated epigraph block
 (matching invented epigraphs added to 1701, 1790, 1880, and 1888).
+
+## 6a. Scope decision — EIC-core vs Thames-afterlife chapters (OPEN, author's call)
+
+The author has flagged that five of the thirteen chapters depart from the original 8-chapter
+EIC-only outline: 1696 (Every), 1701 (Kidd), 1790 (Bounty), 1880 (Cutty Sark), 1888 (Ripper).
+Honest assessment of how tangential each actually is:
+
+- **1696 and 1701 are EIC-central, not tangential.** The Every crisis had Aurangzeb seizing
+  Company factories and jailing factors; the manhunt ran on Company money; Kidd's prosecution
+  was driven by the Company's need to show the Mughal court that England polices its own. These
+  episodes appear in the standard EIC histories (Keay, Dalrymple). They earn their place on
+  Company grounds alone.
+- **1790, 1880, 1888 are genuinely tangential to the Company** — Royal Navy, a tea clipper
+  post-monopoly, and the East End underworld — though each is deliberately tethered (the
+  Company table's breadfruit economics in 1790; the two old Company pensioners in 1880; Cray's
+  Leadenhall pension and Su's father's Company ship in 1888).
+
+Why the expansion is defensible anyway: per the author's own direction, the protagonists — and
+the Company itself — are tools; the Prospect, London, and the river are the story. The subtitle
+says "Five Centuries of History from the Banks of the Thames," not "of the East India Company."
+And the book's thesis needs the post-1858 chapters to land: the machine outliving its name IS
+the argument, and 1880/1888/1940/2019 are where that argument pays off.
+
+Options, for the author to decide:
+1. **Keep all 13 (recommended).** Frame the book as "the Company and its long afterlife, watched
+   from one room." No changes needed; the Author's Note can say this in one sentence.
+2. **Mark the tangential three as interludes.** Typographic middle path: 1790, 1880, 1888 styled
+   as "Interlude" chapters (smaller opener, no year numeral) to signal the widening lens without
+   cutting anything.
+3. **Cut back to the EIC-only spine.** Drop 1790/1880/1888 (or move to an appendix of
+   "Wapping nights"). Cheapest to produce, but it costs the book Su — its single best chapter —
+   and breaks the Cache/scar-tissue payoff chains that now route through 1888.
 
 ## 7. Author's Note — needed before this goes out
 
