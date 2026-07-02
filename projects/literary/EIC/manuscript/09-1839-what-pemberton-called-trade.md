@@ -16,6 +16,8 @@ The bar is busier than it used to be, and the men in it have changed kind, not j
 
 A ship passes the window. Then another. Then three more, heading downriver, sitting deep and loaded. The men at the bar glance up — the look of men who know exactly what's in those holds and are pleased about it.
 
+Last autumn a different ship went by, going the other way, and the whole bar came to the window for her: the Temeraire — the old Fighting Temeraire, ninety-eight guns, Trafalgar — dismasted, dead, under tow to the breakers at Rotherhithe behind a steam tug half her length. Nobody spoke while she passed. Sail hauled to the knacker's by smoke: every man at this window knew exactly what he was looking at, and not one of them could have said it aloud. A painter got it down, they say, from somewhere along this reach — got the sunset in behind her like a funeral the sky had agreed to hold. The bar has not seen the picture. The bar saw the ship.
+
 Behind the bar's regular business, a card game two tables over tips suddenly physical — a disputed deal, a shove, a stumbled step backward into a table that catches the falling man across the shin instead of anything softer. By the time the argument's settled the table's back leg has gone from merely old to permanently wrong, cracked at the joint. Someone wedges a folded receipt under it before the night's out, and nobody gives it a second thought.
 
 * * *

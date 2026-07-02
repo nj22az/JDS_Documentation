@@ -54,6 +54,8 @@
 
 **1833**  The Charter Act. The Company loses its monopoly on trade but keeps its territory.
 
+**1838**  The Fighting Temeraire passes Wapping under tow to the breakers at Rotherhithe. A painter gets it down.
+
 **1839**  The First Opium War begins. The Royal Navy enforces the Company's drug trade.
 
 **1857**  The Indian Rebellion (Sepoy Mutiny). The Company's rule crumbles.

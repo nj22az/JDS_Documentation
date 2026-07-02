@@ -249,6 +249,37 @@ through relatives and consequences, never by name outside their own chapter:
 cameo shows calm and habit only. Su's family appears named only in 1888; everywhere else they
 are recognizable, never labelled.
 
+## 3f. Fourth-wave threads — implemented set + held bank (2026-07-02)
+
+From the author-approved recommendation round, **implemented** (the book is at braid capacity;
+these were chosen for real-history weight and existing hooks):
+
+- **The gallows (real pub lore).** 2019 payoff added: the replica noose over the foreshore,
+  tourists grinning under it, "the mud below is the same mud" — Every's six, Kidd twice, and the
+  pie crowds. Pays off 1696/1701 without touching them.
+- **The Temeraire (1839).** The bar at the window as the Fighting Temeraire passes under tow,
+  autumn 1838 — sail hauled to the knacker's by smoke; the painter unnamed ("The bar has not
+  seen the picture. The bar saw the ship."). Timeline entry added.
+- **The mudlark's coin (2019).** Esther's 1696 gold surfaces after three centuries: "writing
+  that runs the wrong way and no king's head she knows" (exact 1696 phrasing); the river "says
+  nothing whatsoever about the others." Closes the loop without answering it.
+- **The slate.** The house's counter-ledger named and bound in 2019 (the unrung tea): its four
+  existing hooks (1774 grace, 1790 Peg's slate, 1858 tonic chalk, 1888 Kate's slate) gathered
+  into one paragraph — "the only ledger in this story in which every entry is eventually
+  forgiven."
+- **Three one-line bindings:** how news enters the room (post → palm, in 2019 §II); the room's
+  languages (Cantonese rules, Swedish grief, four words, three — 2019 §IV); the women who waited
+  (named once, 2019 §IX, keyed to Ashby's marks).
+
+**Held threads (banked, not implemented — draw on these before inventing new ones):** Judge
+Jeffreys taken at the stairs (1688 lore, would slot into 1696); Dickens/the sketchers (1858);
+the pub cat; the window glass; frost fairs / the river that used to stop; bells→sirens→
+notifications; tattoos as manifests (Every's crew were identified by marks); food never eaten
+(bread and cheese vs. the cargo); the upstairs rooms economy; Alec's list resolved via the
+Pandora courts-martial (1792); the Lascar line's middle terms (1839, 1940). RULE: the book is
+one braid from puzzle-box; anything from this bank replaces, or waits for, a chapter that feels
+thin — it does not simply add.
+
 ## 4. Chapters to consider converting to live scene — DONE (2026-07-02)
 
 Reportage-after-the-fact is a legitimate device and shouldn't be abandoned everywhere — variety
