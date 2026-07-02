@@ -46,6 +46,7 @@
 
 ## Suggested additions (for the new chapters — not yet sourced)
 
+- A source on the 1772 credit crisis, the bailout, and the Boston Tea Party (1774 chapter) — Benjamin Woods Labaree's *The Boston Tea Party* (1964) is the standard account; Nick Robins (already listed) covers the bailout.
 - A source on Henry Every, the Ganj-i-Sawai, and the first worldwide manhunt (1696 chapter) — Steven Johnson's *Enemy of All Mankind* (2020) is the standard modern account.
 - A source on Captain Kidd's trial and the missing French passes (1701 chapter).
 - A source on the Bounty mutiny and Bligh's open-boat voyage (1790 chapter) — Caroline Alexander's *The Bounty* (2003) is the standard modern account.
