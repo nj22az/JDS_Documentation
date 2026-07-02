@@ -4,6 +4,21 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-02] (fuchsia — the living thread)
+
+### Added
+- The Prospect's fuchsia legend woven in as a fourth motif, the
+  living counterpart to the Cache, per author direction (living-
+  thread package, Peg Doyle vignette dramatized, keeper-tended).
+  Five stations: "The Flower" (new 1790 section — the rigger, Peg's
+  terms, Lee's guinea cuttings, and the breadfruit resonance: "the
+  one shipment nobody, anywhere, died for"); Hannah's cutting for Su
+  (1888); "Fuchsia flowering, west sill" in Gwen's notebook (1940);
+  the baskets tourists photograph as set-dressing (2019); and Hannah
+  finding Gwen's flower line in the Cache notebook (2019 payoff).
+  Timeline entry (1788) and Author's Note folklore caveat added;
+  motif logged in the craft plan (§3d).
+
 ## [2026-07-02] (gin line)
 
 ### Added

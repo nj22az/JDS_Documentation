@@ -168,6 +168,35 @@ story. Six stations, one paragraph or exchange each, never a scene of its own ex
 Rule: same as the other motifs — texture, not plot. No further stations without cause; 1770's
 existing gin (Mulvey's despair-drink) and 1888's brandy (Cray) are left untouched deliberately.
 
+## 3d. The fuchsia — the living thread (motif, DONE 2026-07-02)
+
+Per author direction: the Prospect's fuchsia legend (Britain's first fuchsia off a sailor's ship
+to a Wapping windowsill, late 1780s; James Lee's guinea cuttings; the pub's own claim to the
+first sale) as a fourth motif — the living counterpart to the Cache. The Cache is what the house
+keeps of the dead; the fuchsia is what it keeps alive. Keeper-tended (the Hannahs split and
+re-pot it, generation after generation). Five stations:
+
+1. **1790 — "The Flower" (new section, the arrival).** The Peg Doyle vignette: a rigger carries
+   the plant home between his knees for his wife; she refuses Lee's money until he adds the
+   first rooted cutting back, in writing; a slip comes to the Prospect "against an old slate and
+   an older friendship." Placed directly after the breadfruit section for the resonance: the
+   Crown moved a plant and it cost a ship, a mutiny, and a man; a rigger moved a plant and it
+   cost some water ration. Carries the motif's thesis line, said once: the one shipment nobody,
+   anywhere, died for.
+2. **1888 — the gift.** Hannah presses a rooted cutting on Su that winter — "a gift with no
+   questions in it, which is, that winter, the only kind Su can take."
+3. **1940 — the ledger's one kind entry.** "Fuchsia flowering, west sill" in Gwen's notebook,
+   between two nights of bombs; Hannah carries the pot to the cellar at every siren.
+4. **2019 (frontage) — the baskets.** Tourists photograph them as set-dressing; the one thing
+   the heritage menu doesn't claim: two centuries of cuttings of cuttings, the oldest living
+   thing on the premises.
+5. **2019 (payoff) — the notebook.** Hannah finds Gwen's flower line while reading the Cache
+   notebook by phone-light, looks up at the baskets over the door — the living thread and the
+   Cache touching in the book's final chapter.
+
+Timeline entry added (1788); Author's Note names the legend as folklore faithfully retold (Peg
+and her rigger invented; Lee real). Rule: same as all motifs — no further stations without cause.
+
 ## 4. Chapters to consider converting to live scene — DONE (2026-07-02)
 
 Reportage-after-the-fact is a legitimate device and shouldn't be abandoned everywhere — variety

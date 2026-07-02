@@ -12,7 +12,7 @@
 
 Eight taps behind the bar now, and not one of them pours anything that existed when this room was new. The beams are original. The flagstones are original. The floor still slopes toward a river that used to carry tea and opium and now carries, mostly, sightseeing boats. Everything about the Prospect of Whitby that can be photographed has survived. Almost everything that cannot has not.
 
-The pub's been called the Prospect of Whitby a long time now. Before that, the Devil's Tavern — a better name, but the people who run these things prefer something tourists can say without giggling. There's a sign outside with a ship painted on it, lit up along with everything else on this stretch of river these days. The world is too bright here now, most nights.
+The pub's been called the Prospect of Whitby a long time now. Before that, the Devil's Tavern — a better name, but the people who run these things prefer something tourists can say without giggling. There's a sign outside with a ship painted on it, lit up along with everything else on this stretch of river these days, and under the sign, hanging baskets of fuchsia — crimson, purple, absurdly alive — which the tourists photograph as set-dressing and which are the one thing on the frontage the heritage menu doesn't claim and couldn't: two centuries of cuttings of cuttings, the oldest living thing on the premises. The world is too bright here now, most nights.
 
 What's changed is everything but the bones. One tap used to serve this room; ale dark and warm, tasting of the river. Now there are eight, pouring things called Hop Fathom and Mudlark IPA, and the ale is still good — different, but good. There's a laminated menu with tasting notes. A section called 'Heritage,' three paragraphs, two of them wrong. A gift shop selling mugs and keyrings. A TripAdvisor sticker on the door.
 
@@ -149,6 +149,8 @@ Her hand finds a scored patchwork of notches first — dozens of them, worn soft
 Hannah sits on the floor behind her own bar for a long time, holding three centuries in one hand and no idea, yet, what any of it means.
 
 That's, um. She doesn't finish the sentence either.
+
+She reads the notebook there on the floor, cover to cover, by phone-light. Dates, tonnages, streets that stopped existing between one entry and the next. And in the middle of the worst month, once, a line that isn't damage: Fuchsia flowering, west sill. Hannah looks up, through the doorway, to where six baskets of the same plant are flowering over the front door this minute — split and re-potted by every keeper since, herself included, because you do it the way it's always been done. Whoever kept this book stopped once, mid-catastrophe, to write down that a flower was managing. Hannah decides, on the floor, in the dust, that it is the most useful thing anyone has ever told her about the war.
 
 She doesn't call the brewery. Doesn't call a museum, not yet — not until she's had longer than an afternoon to decide what a discovery like this is actually for. She photographs it, properly, the way none of this book's tourists have ever photographed anything, and puts the three objects back exactly where she found them, and asks the contractor, with more force in her voice than the job requires, to leave that section of the wall precisely as it is.
 

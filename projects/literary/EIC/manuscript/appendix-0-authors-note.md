@@ -10,6 +10,8 @@ One chapter requires a stronger caution. The Whitechapel murders of 1888 were re
 
 Three chapters are marked as interludes — the Bounty, the Cutty Sark, the Whitechapel autumn — because they step outside the Company's own story into the wider life of the river that carried it. Two of the three are entirely real events. What makes them interludes is the widening of the lens, not the trustworthiness of the history.
 
+The fuchsia is folklore, faithfully retold: the story that Britain's first fuchsia came off a sailor's ship to a Wapping windowsill in the late 1780s, was bought by the nurseryman James Lee for guinea cuttings, and touched the Prospect itself, is the pub's own legend — and this book takes the pub's word for it. Peg and her rigger are invented; Lee was real; the plant, wherever it truly landed, conquered England.
+
 Finally, a word about the vantage point. This book stands in one London room for four centuries, which means it hears the empire mostly in the voices of the people who profited from it, served it, or drank near it — and only rarely in the voices of the people it was practised upon. That is a deliberate limit, and it has a cost, and I have tried to make the cost visible rather than pretend it away: the ledger in these pages is written from the counting-house side, and the reader is invited, on every page, to notice who is missing from the room. Bengal, Canton, Amboyna, and Boston had their own rooms, their own evenings, and their own stories, told better elsewhere — some of the places to start are listed in the bibliography that follows.
 
 The Prospect of Whitby is real, and older than the Company. The tide still runs past it twice a day. The rest is fiction.
