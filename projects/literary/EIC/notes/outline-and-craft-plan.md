@@ -168,6 +168,15 @@ story. Six stations, one paragraph or exchange each, never a scene of its own ex
 Rule: same as the other motifs — texture, not plot. No further stations without cause; 1770's
 existing gin (Mulvey's despair-drink) and 1888's brandy (Cray) are left untouched deliberately.
 
+**Dramatized (2026-07-02):** all stations converted from narrator-telling to scene — 1603:
+Hendricks's wordless Dutch-courage handoff to Tom at the door ("They mean it as an insult. They
+still beg."); 1696: a stranger's brandy order meets the room's cold pause in the assassination
+year, and he amends to Hollands; 1757: the landlord lays Hogarth's Gin Lane on the bar — "the
+only licence he keeps down there"; 1839: Hale mixes the bark into the gin on-page and the docker
+who tastes it folds like wet paper ("The poppy for its customers; the bark for its servants");
+1858: a homesick subaltern orders the first gin and tonic by name, and Hannah chalks *tonic
+water* on the brewery slate. 2019 was already a scene.
+
 ## 3d. The fuchsia — the living thread (motif, DONE 2026-07-02)
 
 Per author direction: the Prospect's fuchsia legend (Britain's first fuchsia off a sailor's ship

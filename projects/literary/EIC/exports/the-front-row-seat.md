@@ -219,7 +219,15 @@ Ashby looks at the thimble, then at him, and doesn't reach for it straight away 
 
 Till you're back, she says. Not agreeing. Not disagreeing. Just repeating it, the way you repeat a wager back to the man who's made it, so there's no confusion later about what was said.
 
-He finishes his ale, stands, puts on his cloak. At the door he pauses, hand on the latch, and doesn't look back. The cold takes him. The dark and the mud and the river swallow him — the same as they've always been, indifferent to whether he comes back or not.
+He finishes his ale, stands, puts on his cloak.
+
+Hendricks stops him at the end of the bar — wordless, the stone bottle held out, uncorked. Tom hesitates, then drinks, and his eyes water on the instant, juniper and fire and something like pine resin lit, and the Dragon's lads laugh, not unkindly, at the face he makes.
+
+For the morning, Hendricks says, taking the bottle back. In the Low Countries the English soldiers beg this off us before an assault. They have a name for it — Dutch courage. They mean it as an insult. He works the cork home with his thumb. They still beg.
+
+Go and sign your paper, boy.
+
+At the door he pauses, hand on the latch, and doesn't look back. The cold takes him. The dark and the mud and the river swallow him — the same as they've always been, indifferent to whether he comes back or not.
 
 The door closes. Ashby stands still behind the counter. Hendricks finishes his pint and leaves without a word. The Dragon's men are asleep, or close to it, and the fire is down to embers.
 
@@ -510,6 +518,8 @@ Necks, someone says.
 Necks, Tanner agrees, and goes back to his pint.
 
 The pint is ale, but the short glass beside it is the new thing: clear spirit, juniper-sharp — Hollands, the house calls it now, or geneva. Since a Dutchman took the English throne it has become nearly a patriotic act to prefer it to brandy, brandy being French, and France being the war. Old men grumble that their fathers called this stuff Dutch physic and wouldn't wash a wound with it. Their sons drink it for King William and the Protestant succession. It is the first time in this room's memory that a drink has changed its nationality. It will not be the last.
+
+It gets its demonstration the same week. A stranger off a Rotherhithe hoy asks for brandy, and the room does a small cold thing it has learned this year: it pauses. Brandy is French; France harbours the men who would put a knife in King William — half of Wapping swore the loyal Association this spring over exactly that — and a man drinking French in a Protestant bar in an assassination year ought at least to have the manners to do it quietly. The stranger reads the silence the way sailors read weather. Hollands, he amends. The room resumes its noise where it left it. Wise, says someone, to nobody in particular, and the keeper pours the juniper and says nothing at all, because a house that survives three reigns learns to sell what the year is drinking.
 
 * * *
 
@@ -855,7 +865,9 @@ Why would you. The Company doesn't tell its soldiers about weavers. It tells the
 
 Coates pushes his empty tankard across. Gin, he says.
 
-The landlord doesn't move. Not in this house, he says. There's no heat in it; it's a wall, not a temper. I watched gin do to three streets what the Company did to the weavers — a penny drunk, twopence dead, mothers pawning the kettle and then the children's shoes. The magistrates finally got a collar on it six years back, and I'll not be the man who loosens it.
+The landlord doesn't move. Instead he reaches beneath the bar and lays a print flat on the wood between them, gone soft and white at the creases from years of exactly this. Gin Lane — Mr. Hogarth's sermon of six years back: the mother on the steps too drunk to feel her baby going over the rail, the pawnbroker fat as a bishop on kettles and carpenters' saws, a whole street falling down around its one thriving trade. The landlord taps the mother, once, without looking down. He has the print by heart.
+
+Not in this house, he says. There's no heat in it; it's a wall, not a temper. I watched gin do to three streets what the Company did to the weavers — a penny drunk, twopence dead, mothers pawning the kettle and then the children's shoes. The magistrates finally got a collar on it six years back, and I'll not be the man who loosens it. He slides the print away, under the bar, ready for the next man who asks. It is the only licence he keeps down there, and the only one he needs.
 
 Ale, then, Coates says, and means neither, and gets it.
 
@@ -1445,7 +1457,13 @@ He comes in like a man who's been pushed, though nobody's touched him — the po
 
 He sits at the far end from Pemberton. Orders gin. His name is Hale — Dr Hale, naval surgeon, three years stationed off Canton.
 
-Gin and bark, he says to Hannah when she pours — an old service joke with all the laugh worn off it. In the fever ports the surgeons dose every man against the ague with Peruvian bark, and the bark is so bitter the men will risk the fever instead, so it goes down dissolved in spirits and sugar until it consents to be swallowed. Half of medicine east of the Cape, he says, to nobody in particular, is deciding what to hide the bitterness in. He says it like a man making conversation, and drinks like a man doing neither.
+Gin and bark, he says to Hannah when she pours — and then, because the joke stopped being one somewhere off Canton, he makes it literal: from a waistcoat pocket, a paper twist of grey-brown powder; a pinch into the gin; a stir with the blade of a pocket-knife wiped first on his sleeve. Peruvian bark. In the fever ports the surgeons dose every man with it against the ague, and the bark is so bitter the men will risk the fever instead, so it goes down dissolved in spirits and sugar until it consents to be swallowed.
+
+The docker on the next stool asks, warily, what the powder is. Hale slides the glass across instead of answering. Taste it.
+
+The docker tastes it, and his face folds like wet paper. Christ, he says, with reverence.
+
+Quite, Hale says, taking the glass back. That's the Company's other plant. The poppy for its customers; the bark for its servants. Consider which of the two it troubles to make swallowable. He drinks, and doesn't wince, which is its own small piece of testimony.
 
 He says nothing for a while, listening to Pemberton down the bar going on about auction prices and this year's Patna crop against last year's. His jaw tightens.
 
@@ -1585,7 +1603,13 @@ A man at the far end tries him. Back from India, then? Heard about the mutiny �
 
 He stays two hours. Four gins. Doesn't speak again, doesn't look at the river. Leaves the way he came, and the bar exhales when the door shuts behind him, the way a room exhales when a coffin's been carried out.
 
-Gin is having its year, as it happens. Some enterprising chemist has just this season patented an aerated quinine water — tonic, he is calling it — so that the bitter bark-dose every India hand swallows against fever can be had fizzing from a bottle, and the officers coming home from the horror are already asking for it the way they drank it in the mess: with gin, and lime, and no questions. The Company dies this August. Its drink is only now being born. They pass each other at the door, and nobody in the room remarks on it, because it is not the kind of thing that looks like history while it is happening.
+Gin is having its year, as it happens. Later that same week a subaltern not ten days off the trooper — young, sun-scorched, one arm still stiff in its sleeve — asks Hannah for gin and tonic water. Indian tonic, he says, hopeful. The new bottled sort.
+
+Hannah has never heard of it. He explains, apologetic, the way men explain a home they are not sure they're allowed to be homesick for: quinine water, against the fever — some chemist has just patented it, fizzing, in bottles — and in the mess at a place the newspapers have taught everyone to flinch at, they drank it every dusk with gin and a knife of lime, on the surgeon's orders, and it tastes of England and medicine in equal parts, and he has been dreaming of it, he says, since Calcutta.
+
+Plain gin tonight, Hannah says, gently, and lime when the lime comes. And she writes tonic water on the slate she keeps for the brewery man, under candles and pipe-clay — and that is how the drink of the next century enters this house: as a homesick boy's request, and four words of chalk.
+
+The Company dies this August. Its drink is only now being born. They pass each other at the door, and nobody in the room remarks on it, because it is not the kind of thing that looks like history while it is happening.
 
 * * *
 

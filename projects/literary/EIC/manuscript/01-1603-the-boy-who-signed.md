@@ -202,7 +202,15 @@ Ashby looks at the thimble, then at him, and doesn't reach for it straight away 
 
 Till you're back, she says. Not agreeing. Not disagreeing. Just repeating it, the way you repeat a wager back to the man who's made it, so there's no confusion later about what was said.
 
-He finishes his ale, stands, puts on his cloak. At the door he pauses, hand on the latch, and doesn't look back. The cold takes him. The dark and the mud and the river swallow him — the same as they've always been, indifferent to whether he comes back or not.
+He finishes his ale, stands, puts on his cloak.
+
+Hendricks stops him at the end of the bar — wordless, the stone bottle held out, uncorked. Tom hesitates, then drinks, and his eyes water on the instant, juniper and fire and something like pine resin lit, and the Dragon's lads laugh, not unkindly, at the face he makes.
+
+For the morning, Hendricks says, taking the bottle back. In the Low Countries the English soldiers beg this off us before an assault. They have a name for it — Dutch courage. They mean it as an insult. He works the cork home with his thumb. They still beg.
+
+Go and sign your paper, boy.
+
+At the door he pauses, hand on the latch, and doesn't look back. The cold takes him. The dark and the mud and the river swallow him — the same as they've always been, indifferent to whether he comes back or not.
 
 The door closes. Ashby stands still behind the counter. Hendricks finishes his pint and leaves without a word. The Dragon's men are asleep, or close to it, and the fire is down to embers.
 

@@ -52,6 +52,8 @@ Necks, Tanner agrees, and goes back to his pint.
 
 The pint is ale, but the short glass beside it is the new thing: clear spirit, juniper-sharp — Hollands, the house calls it now, or geneva. Since a Dutchman took the English throne it has become nearly a patriotic act to prefer it to brandy, brandy being French, and France being the war. Old men grumble that their fathers called this stuff Dutch physic and wouldn't wash a wound with it. Their sons drink it for King William and the Protestant succession. It is the first time in this room's memory that a drink has changed its nationality. It will not be the last.
 
+It gets its demonstration the same week. A stranger off a Rotherhithe hoy asks for brandy, and the room does a small cold thing it has learned this year: it pauses. Brandy is French; France harbours the men who would put a knife in King William — half of Wapping swore the loyal Association this spring over exactly that — and a man drinking French in a Protestant bar in an assassination year ought at least to have the manners to do it quietly. The stranger reads the silence the way sailors read weather. Hollands, he amends. The room resumes its noise where it left it. Wise, says someone, to nobody in particular, and the keeper pours the juniper and says nothing at all, because a house that survives three reigns learns to sell what the year is drinking.
+
 * * *
 
 ## IV. The Odd Gold

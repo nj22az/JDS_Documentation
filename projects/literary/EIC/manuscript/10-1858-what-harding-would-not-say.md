@@ -30,7 +30,13 @@ A man at the far end tries him. Back from India, then? Heard about the mutiny �
 
 He stays two hours. Four gins. Doesn't speak again, doesn't look at the river. Leaves the way he came, and the bar exhales when the door shuts behind him, the way a room exhales when a coffin's been carried out.
 
-Gin is having its year, as it happens. Some enterprising chemist has just this season patented an aerated quinine water — tonic, he is calling it — so that the bitter bark-dose every India hand swallows against fever can be had fizzing from a bottle, and the officers coming home from the horror are already asking for it the way they drank it in the mess: with gin, and lime, and no questions. The Company dies this August. Its drink is only now being born. They pass each other at the door, and nobody in the room remarks on it, because it is not the kind of thing that looks like history while it is happening.
+Gin is having its year, as it happens. Later that same week a subaltern not ten days off the trooper — young, sun-scorched, one arm still stiff in its sleeve — asks Hannah for gin and tonic water. Indian tonic, he says, hopeful. The new bottled sort.
+
+Hannah has never heard of it. He explains, apologetic, the way men explain a home they are not sure they're allowed to be homesick for: quinine water, against the fever — some chemist has just patented it, fizzing, in bottles — and in the mess at a place the newspapers have taught everyone to flinch at, they drank it every dusk with gin and a knife of lime, on the surgeon's orders, and it tastes of England and medicine in equal parts, and he has been dreaming of it, he says, since Calcutta.
+
+Plain gin tonight, Hannah says, gently, and lime when the lime comes. And she writes tonic water on the slate she keeps for the brewery man, under candles and pipe-clay — and that is how the drink of the next century enters this house: as a homesick boy's request, and four words of chalk.
+
+The Company dies this August. Its drink is only now being born. They pass each other at the door, and nobody in the room remarks on it, because it is not the kind of thing that looks like history while it is happening.
 
 * * *
 
