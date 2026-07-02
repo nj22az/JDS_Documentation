@@ -565,6 +565,14 @@ Five years from now the crowd will walk down to the mud again for a bigger name,
 
 ---
 
+> **1701**
+>
+> *"The tide serves at five. The law serves whoever paid for the rope."*
+>
+> — Wapping saying, recorded 1701
+
+---
+
 # 1701: Good for Business
 
 ## I. Low Tide
@@ -1051,6 +1059,14 @@ Outside, the river is black, carrying whatever the docks put into it the way it 
 
 ---
 
+> **1790**
+>
+> *"Three thousand six hundred miles on six ounces of bread a day. Parliament has fed men worse and called it policy."*
+>
+> — Coffee-house wit, London, 1790
+
+---
+
 # 1790: Forty-Seven Days
 
 ## I. The News
@@ -1513,6 +1529,14 @@ The last tankard of the night goes on the shelf. The Company is ending. The ale 
 
 ---
 
+> **1880**
+>
+> *"A ship may be the fastest thing on the water and still carry the slowest kind of news."*
+>
+> — Dockside saying, London, 1880
+
+---
+
 # 1880: The Hell Ship
 
 ## I. The Fastest Thing on the Water
@@ -1608,6 +1632,14 @@ Nobody in this bar asks what becomes of the family Francis left behind. The news
 Cutty Sark herself is back on the river tonight, moored downstream, home from whatever tramp voyage has occupied her since — nobody at this table has kept close enough track to say which ports, only that she came back under a captain nobody's heard a bad word about yet, which these days counts as good news. She is, by any measure the men in this bar care to use, one of the most beautiful things ever built to cross water. She is also, in the telling that's followed her these two years, a ship men still call cursed, and both of those things are true at the same time without either one cancelling the other out.
 
 The river does not rank ships by their beauty or their body count. It carried tea for her glory years and carries the news of her disgrace with exactly the same indifference, the same tide, the same patient work of moving whatever is put into it out toward the sea — coal, jute, gossip, grief, a captain who couldn't live with what he'd done, and a mate who managed, somehow, to live with it for another forty years.
+
+---
+
+> **1888**
+>
+> *"The watch committees carry rattles and cudgels. What walks these lanes carries neither."*
+>
+> — East London broadsheet, November 1888
 
 ---
 

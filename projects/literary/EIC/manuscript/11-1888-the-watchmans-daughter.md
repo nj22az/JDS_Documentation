@@ -1,3 +1,11 @@
+> **1888**
+>
+> *"The watch committees carry rattles and cudgels. What walks these lanes carries neither."*
+>
+> — East London broadsheet, November 1888
+
+---
+
 # 1888: The Watchman's Daughter
 
 ## I. The Watch Committees

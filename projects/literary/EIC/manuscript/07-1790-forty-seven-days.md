@@ -1,3 +1,11 @@
+> **1790**
+>
+> *"Three thousand six hundred miles on six ounces of bread a day. Parliament has fed men worse and called it policy."*
+>
+> — Coffee-house wit, London, 1790
+
+---
+
 # 1790: Forty-Seven Days
 
 ## I. The News
