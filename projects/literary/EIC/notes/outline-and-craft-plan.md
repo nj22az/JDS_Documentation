@@ -141,6 +141,33 @@ homework.
 Add new pairs sparingly if they occur naturally while rewriting — don't force one into every
 chapter just to hit a quota.
 
+## 3c. The gin line — a drink's biography (motif, DONE 2026-07-02)
+
+Per author direction: the history of gin & tonic woven through the whole book as a third texture
+motif alongside the Cache and the scar tissue — apt because the G&T is literally a Company
+story. Six stations, one paragraph or exchange each, never a scene of its own except the last:
+
+1. **1603 — the seed.** Hendricks's stone bottle of genever; the English call it "Dutch physic"
+   and want none of it. Narrator prolepsis: their grandchildren will drown in it and call it
+   English.
+2. **1696 — the naturalization.** Under a Dutch king, Hollands becomes nearly patriotic; brandy
+   drinks like treason. "The first time in this room's memory that a drink has changed its
+   nationality. It will not be the last."
+3. **1757 — Gin Lane.** The Spitalfields landlord refuses to stock it — "a penny drunk, twopence
+   dead" — six years after the 1751 Gin Act. Gin as what London did to itself.
+4. **1839 — the medicine.** Hale's "gin and bark": Peruvian-bark fever doses dissolved in
+   spirits in the fever ports. The manly, medicinal inception.
+5. **1858 — the birth.** Erasmus Bond patents tonic water the same year the Company dissolves:
+   "The Company dies this August. Its drink is only now being born. They pass each other at the
+   door." (Harding's section is already titled "Gin" — the anchor was waiting.)
+6. **2019 — the payoff.** "The Officer's Drink": a junior suit's "Gin and tonic? What are you,
+   gay?" dies on the bar ("Yep. Anything else?"), and Hannah delivers the history — the mocked
+   drink is the most imperial object in the building. Drinks change clothes the way explanations
+   do.
+
+Rule: same as the other motifs — texture, not plot. No further stations without cause; 1770's
+existing gin (Mulvey's despair-drink) and 1888's brandy (Cray) are left untouched deliberately.
+
 ## 4. Chapters to consider converting to live scene — DONE (2026-07-02)
 
 Reportage-after-the-fact is a legitimate device and shouldn't be abandoned everywhere — variety

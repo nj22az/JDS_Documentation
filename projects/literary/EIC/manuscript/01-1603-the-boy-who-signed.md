@@ -130,6 +130,8 @@ He comes in later, when the Dragon's men have moved from cloves to a louder argu
 
 Hendricks. The Dutchman. Everyone in Wapping knows him. He's worked this river since before the Company existed, hauling cargo on a flat-bottomed barge, and he knows the Thames the way a priest knows his church — every channel, every sandbar, every tide.
 
+He drinks the house ale like everyone else, but there is a squat stone bottle that lives inside his coat — genever, juniper spirit from home — and he takes one measured pull from it at the end of each pint, a private punctuation. The English at the bar call it Dutch physic and want nothing to do with it: a medicine-smelling foreign habit, like the man himself. Give it ninety years and their grandchildren will be drowning in the stuff and calling it English. Nobody in this room knows that yet either.
+
 He's not popular here. He says things people don't want to hear, at the worst possible moment, and he's usually right.
 
 Tom notices him — Tom notices everyone tonight, the way anxious young men do — and carries his ale down the bar.

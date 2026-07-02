@@ -30,6 +30,8 @@ A man at the far end tries him. Back from India, then? Heard about the mutiny �
 
 He stays two hours. Four gins. Doesn't speak again, doesn't look at the river. Leaves the way he came, and the bar exhales when the door shuts behind him, the way a room exhales when a coffin's been carried out.
 
+Gin is having its year, as it happens. Some enterprising chemist has just this season patented an aerated quinine water — tonic, he is calling it — so that the bitter bark-dose every India hand swallows against fever can be had fizzing from a bottle, and the officers coming home from the horror are already asking for it the way they drank it in the mess: with gin, and lime, and no questions. The Company dies this August. Its drink is only now being born. They pass each other at the door, and nobody in the room remarks on it, because it is not the kind of thing that looks like history while it is happening.
+
 * * *
 
 ## III. The Story

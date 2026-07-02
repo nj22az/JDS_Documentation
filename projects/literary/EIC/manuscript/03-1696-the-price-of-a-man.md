@@ -50,6 +50,8 @@ Necks, someone says.
 
 Necks, Tanner agrees, and goes back to his pint.
 
+The pint is ale, but the short glass beside it is the new thing: clear spirit, juniper-sharp — Hollands, the house calls it now, or geneva. Since a Dutchman took the English throne it has become nearly a patriotic act to prefer it to brandy, brandy being French, and France being the war. Old men grumble that their fathers called this stuff Dutch physic and wouldn't wash a wound with it. Their sons drink it for King William and the Protestant succession. It is the first time in this room's memory that a drink has changed its nationality. It will not be the last.
+
 * * *
 
 ## IV. The Odd Gold

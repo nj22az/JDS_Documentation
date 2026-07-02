@@ -104,7 +104,25 @@ He's pleased with himself — feels he's honoured the place by knowing its busin
 
 * * *
 
-## VI. The Same River
+## VI. The Officer's Drink
+
+Two juniors from the five o'clock wave are still at the bar, ties in pockets, second round. One of them orders a gin and tonic — a double, the good tonic, and is there any pink grapefruit — because it is 2019 and gin has a menu in this pub now, forty bottles long, botanicals and copper stills and small-batch everything, the parish poison of 1750 reborn at twelve pounds a serve.
+
+His colleague makes the face. Gin and tonic? he says. What are you, gay?
+
+It's said lazily — a joke because it's shaped like one, the laugh already invoiced and expecting payment.
+
+Yep, says the man with the gin, not looking up from his phone, in the pleasant tone of someone confirming a delivery address. Anything else?
+
+The invoice goes unpaid. And Hannah, setting the glass down, adds the garnish the house has kept behind the bar for a century and a half: Officer's drink, that. The tonic's quinine — malaria medicine, bitter as a lawsuit, so they cut it with gin and lime to get it down. Every man who ran the Empire east of Suez drank them on doctor's orders. It's the most imperial object in this building, she says, and I'm counting the beams.
+
+The colleague looks at his lager and decides against asking after its family history, which is prudent, because the answer is Bavaria by way of a brand agency.
+
+The room has watched drinks change their clothes for four hundred years, the way it watched explanations do. Dutch physic becomes English courage. Mother's ruin becomes a gentleman's measure. The fever ration of the hardest men the Empire ever exported comes home, loses its malaria, gains a grapefruit, and gets called soft by a boy in a lanyard who has never taken anything for his health that tasted worse than oat milk. The drink outlived the Empire that mixed it — which is more than most of the Empire's monuments managed — and it has never once needed anyone to defend its honour, being, unlike most of what this room has served across four centuries, actual medicine.
+
+* * *
+
+## VII. The Same River
 
 The Somali man comes back in from his call, cold riding in with him. Same stool, same mug, another tea. Three feet from the hedge fund manager now, Hannah pouring for both of them at once.
 
@@ -118,7 +136,7 @@ The river doesn't care who's drinking and who's carrying tonight. It carries the
 
 * * *
 
-## VII. What Hannah Found
+## VIII. What Hannah Found
 
 The refit happens in January, when the tourist season's thinnest and the brewery finally agrees to the new cellar cooling system it's been promising since the autumn. Three days, the contractors say. It takes five, because nothing about a building this age goes to schedule, and on the third day, pulling the old bar counter away from the wall to run a cable behind it, one of them finds a gap in the timber that isn't structural — too regular, too deliberately worked, low enough that you'd have to duck and reach to find it at all.
 
@@ -136,7 +154,7 @@ She doesn't call the brewery. Doesn't call a museum, not yet — not until she's
 
 * * *
 
-## VIII. What Doesn't Show in the Photograph
+## IX. What Doesn't Show in the Photograph
 
 The bar empties the way it always does — tourists first, back to their hotels; suits next, back to their towers; the stragglers last, the ones for whom this is a place and not an experience. Hannah wipes down, turns off half the taps, stacks the coasters.
 

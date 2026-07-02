@@ -140,6 +140,12 @@ I didn't know about the weavers, Coates says. Quietly.
 
 Why would you. The Company doesn't tell its soldiers about weavers. It tells them about glory. You find out about the weavers after, in a bar, from a stranger.
 
+Coates pushes his empty tankard across. Gin, he says.
+
+The landlord doesn't move. Not in this house, he says. There's no heat in it; it's a wall, not a temper. I watched gin do to three streets what the Company did to the weavers — a penny drunk, twopence dead, mothers pawning the kettle and then the children's shoes. The magistrates finally got a collar on it six years back, and I'll not be the man who loosens it.
+
+Ale, then, Coates says, and means neither, and gets it.
+
 * * *
 
 ## VI. Three Men in a Bar
