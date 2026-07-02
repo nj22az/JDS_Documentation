@@ -4,6 +4,15 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [3.10.1] — 2026-07-02
+
+### Fixed — md2book.py front-epigraph justification
+- The book-epigraph page's blockquote declared `text-align: center`, but the
+  paragraphs inside it matched the global `p { text-align: justify }` rule,
+  producing badly stretched word spacing on a narrow centred block. Added
+  `.book-epigraph-page blockquote p { text-align: center; text-indent: 0;
+  hyphens: none; }` so epigraph paragraphs stay centred.
+
 ## [3.10] — 2026-07-02
 
 ### Added — Book PDF generator
