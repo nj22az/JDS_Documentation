@@ -56,6 +56,8 @@ Twenty-nine thousand bombs on the docks since September, she says. And counting.
 
 She opens it again and adds tonight's line. The dock system the Company built — the pepper docks, the tea docks, the engine room of an empire — burning, page by page.
 
+One night in October the wind comes off a burning bond up-river where a gin house kept its stock, and for an hour the smoke over Wapping smells of juniper — the whole parish briefly aromatic, like the inside of a stone bottle — and the old docker, sniffing at the door, observes that Jerry has finally hit something London will genuinely miss. It is the only joke anyone makes that week, and it does the work of ten.
+
 And once, between two nights of bombs, there is a line in the notebook that is not damage. Fuchsia flowering, west sill, it says — because the pot still stands where it has stood for a century and a half, and Hannah carries it down to the cellar at every siren and back up at every all-clear, the one resident of the house with a guaranteed shelter place. Gwen recorded it the way she records everything: once, exactly, without comment. A ledger of destruction is still a ledger. It takes what it's given.
 
 * * *

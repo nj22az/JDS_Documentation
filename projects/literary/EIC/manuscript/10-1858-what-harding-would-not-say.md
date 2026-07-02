@@ -36,6 +36,8 @@ Hannah has never heard of it. He explains, apologetic, the way men explain a hom
 
 Plain gin tonight, Hannah says, gently, and lime when the lime comes. And she writes tonic water on the slate she keeps for the brewery man, under candles and pipe-clay — and that is how the drink of the next century enters this house: as a homesick boy's request, and four words of chalk.
 
+The bottles come in three weeks later, because Hannah is not a woman who chalks a thing twice. The subaltern gets the first of them, stood by the house — gin, tonic, and a knife of lime, in a pewter tankard, the house never having owned a glass worth the name. He drinks it at the window with his stiff arm resting on the sill and goes quiet in the particular way of a man tasting a place he isn't in, and when he leaves, Hannah writes nothing on any slate at all, because some transactions are not for the books.
+
 The Company dies this August. Its drink is only now being born. They pass each other at the door, and nobody in the room remarks on it, because it is not the kind of thing that looks like history while it is happening.
 
 * * *

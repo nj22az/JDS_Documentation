@@ -74,7 +74,9 @@ The docker on the next stool asks, warily, what the powder is. Hale slides the g
 
 The docker tastes it, and his face folds like wet paper. Christ, he says, with reverence.
 
-Quite, Hale says, taking the glass back. That's the Company's other plant. The poppy for its customers; the bark for its servants. Consider which of the two it troubles to make swallowable. He drinks, and doesn't wince, which is its own small piece of testimony.
+Quite, Hale says, taking the glass back. That's the Company's other plant. The poppy for its customers; the bark for its servants. Consider which of the two it troubles to make swallowable. Then he begs the heel of a lime off Hannah's punch makings and squeezes it in — against the scurvy, he says, and against the taste, which needs more help than the scurvy does — and drinks, and doesn't wince, which is its own small piece of testimony.
+
+Gin, bark, lime. The entire pharmacopoeia of empire assembled in one glass in a Wapping bar, twenty years before anyone thinks to sell the bitter part fizzing in bottles and give the whole thing a name.
 
 He says nothing for a while, listening to Pemberton down the bar going on about auction prices and this year's Patna crop against last year's. His jaw tightens.
 

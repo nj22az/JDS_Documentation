@@ -166,8 +166,21 @@ story. Six stations, one paragraph or exchange each, never a scene of its own ex
    delivers the history, and the gin drinker's "Cheers" closes four centuries of toasts. Drinks
    change clothes the way explanations do; "it was an insult when it arrived in 1603, too." 
 
-Rule: same as the other motifs — texture, not plot. No further stations without cause; 1770's
-existing gin (Mulvey's despair-drink) and 1888's brandy (Cray) are left untouched deliberately.
+Rule: same as the other motifs — texture, not plot. **GUARD (hard): no stations in 1770 or
+1888.** Mulvey's despair-gin works because it goes unremarked; Cray's unchanging brandy is
+characterization. Any future pass that touches either is a regression.
+
+**Second pass (2026-07-02, author-approved recommendations):** 1626 boycott added (Carter pours
+the house genever onto the flagstones when Amboyna lands — insult → boycott → adoption completes
+the drink's nationality arc, with prolepsis to 1696); lime completes the glass in 1839 ("the
+entire pharmacopoeia of empire... twenty years before anyone thinks to sell the bitter part
+fizzing in bottles"); the 1858 subaltern returns for the first bottled G&T, stood by the house
+in a pewter tankard; juniper in the Blitz smoke (1940, placed before the fuchsia notebook line
+so smoke precedes flower); the toast micro-arc lands on 2019's "Cheers" ("the last worn coin of
+four centuries of toasts — for King William, to nothing, to absent friends"); and Hannah's own
+after-close G&T under the fuchsia closes the book's final chapter with three threads touching.
+Timeline (1751 Gin Act), Author's Note (the gin history is real), and bibliography (Walker &
+Nesbitt, Kew) updated.
 
 **Dramatized (2026-07-02):** all stations converted from narrator-telling to scene — 1603:
 Hendricks's wordless Dutch-courage handoff to Tom at the door ("They mean it as an insult. They

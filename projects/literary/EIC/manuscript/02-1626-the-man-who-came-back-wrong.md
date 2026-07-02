@@ -102,6 +102,8 @@ He drinks. His hands are steadier now — as steady as they're going to get. Som
 
 Carter, for once, has nothing to say. He looks at Daniel. At his ale. At the river through the window, grey and slow and not caring either way.
 
+What he does instead is stand, walk to the counter, and take down the squat stone bottle the house keeps for the Dutch skippers' trade — genever, juniper spirit, the stuff the river's Hollanders take against the cold — and uncork it, and pour the whole of it, slowly, onto the flagstones. Nobody stops him. Nobody charges him for it either. It is a small, useless, entirely understood gesture, and the smell of juniper hangs over the room for an hour afterwards like a verdict. It will be a long generation before anyone in this house asks for the Dutch spirit by name again — and when someone finally does, there will be a Dutch king on an English throne, and the drink will have changed its papers.
+
 The Spice Islands are finished for us, he says eventually. Company's pulled out. Dutch have the forts, the soldiers, the monopoly. Nobody's fighting them for a nutmeg tree.
 
 No, Daniel says. Not there.

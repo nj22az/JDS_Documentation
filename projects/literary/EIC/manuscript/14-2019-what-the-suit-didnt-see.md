@@ -114,7 +114,7 @@ The man with the gin doesn't look up from his phone. He lets the remark stand al
 
 Hannah sets the glass down with the only garnish this house keeps: Officer's drink, that. Quinine against the malaria, bitter as a lawsuit; the gin and the lime are to get it down. Every man who ran the Empire east of Suez drank them on doctor's orders. Most imperial object in this building — and I'm counting the beams.
 
-Cheers, says the man with the gin, mildly, to the room in general, and drinks.
+Cheers, says the man with the gin, mildly, to the room in general, and drinks. It is the last worn coin of four centuries of toasts this bar has taken — for King William, to nothing, to absent friends — melted down by use into one word that swears allegiance to nothing but the next mouthful.
 
 The room has watched drinks change their clothes for four hundred years, the way it watched explanations do. Dutch physic becomes English courage; mother's ruin becomes a gentleman's measure; the fever ration of the hardest men the Empire ever exported comes home, loses its malaria, and is asked to answer for its manliness by a man whose bravest daily act is hitting reply-all. It was an insult when it arrived in 1603, too. The drink has outlived everyone who ever needed it to say something about the man holding it, and it isn't finished.
 
@@ -165,5 +165,7 @@ Most nights, not much gets noticed. The tourist's photographs hold a room, taste
 That's the ordinary condition of the place. It holds more than anyone passing through will ever ask to see. None of it is contradicted by the eight taps and the gift shop. It simply isn't required by them — the way a ledger can sit accurate and true in a drawer for two hundred years, no longer opened, no longer asked.
 
 Outside, the tide is going out. It'll be back in six hours and gone again six after that, on a schedule older than the Company, older than the docks, older than the towers across the water. It has never once been wrong about what it is: water, moving toward the sea, indifferent to what it's asked to remember.
+
+Hannah's own drink, when the last lock is turned, is a gin and tonic — a habit she has never once examined — taken standing at the dark window, where the streetlight catches the fuchsia over the door. Quinine, juniper, lime: the empire reduced at last to something a woman can hold in one hand, drunk in ten quiet minutes beneath a flower that crossed the same ocean for love. She rinses the glass and sets it to drain.
 
 The last light goes off over the bar. The building settles, one small private creak in old timber — the sound of something old absorbing, without comment, one more evening it won't be asked about tomorrow.

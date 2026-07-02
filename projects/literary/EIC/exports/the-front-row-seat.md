@@ -351,6 +351,8 @@ He drinks. His hands are steadier now — as steady as they're going to get. Som
 
 Carter, for once, has nothing to say. He looks at Daniel. At his ale. At the river through the window, grey and slow and not caring either way.
 
+What he does instead is stand, walk to the counter, and take down the squat stone bottle the house keeps for the Dutch skippers' trade — genever, juniper spirit, the stuff the river's Hollanders take against the cold — and uncork it, and pour the whole of it, slowly, onto the flagstones. Nobody stops him. Nobody charges him for it either. It is a small, useless, entirely understood gesture, and the smell of juniper hangs over the room for an hour afterwards like a verdict. It will be a long generation before anyone in this house asks for the Dutch spirit by name again — and when someone finally does, there will be a Dutch king on an English throne, and the drink will have changed its papers.
+
 The Spice Islands are finished for us, he says eventually. Company's pulled out. Dutch have the forts, the soldiers, the monopoly. Nobody's fighting them for a nutmeg tree.
 
 No, Daniel says. Not there.
@@ -1463,7 +1465,9 @@ The docker on the next stool asks, warily, what the powder is. Hale slides the g
 
 The docker tastes it, and his face folds like wet paper. Christ, he says, with reverence.
 
-Quite, Hale says, taking the glass back. That's the Company's other plant. The poppy for its customers; the bark for its servants. Consider which of the two it troubles to make swallowable. He drinks, and doesn't wince, which is its own small piece of testimony.
+Quite, Hale says, taking the glass back. That's the Company's other plant. The poppy for its customers; the bark for its servants. Consider which of the two it troubles to make swallowable. Then he begs the heel of a lime off Hannah's punch makings and squeezes it in — against the scurvy, he says, and against the taste, which needs more help than the scurvy does — and drinks, and doesn't wince, which is its own small piece of testimony.
+
+Gin, bark, lime. The entire pharmacopoeia of empire assembled in one glass in a Wapping bar, twenty years before anyone thinks to sell the bitter part fizzing in bottles and give the whole thing a name.
 
 He says nothing for a while, listening to Pemberton down the bar going on about auction prices and this year's Patna crop against last year's. His jaw tightens.
 
@@ -1608,6 +1612,8 @@ Gin is having its year, as it happens. Later that same week a subaltern not ten 
 Hannah has never heard of it. He explains, apologetic, the way men explain a home they are not sure they're allowed to be homesick for: quinine water, against the fever — some chemist has just patented it, fizzing, in bottles — and in the mess at a place the newspapers have taught everyone to flinch at, they drank it every dusk with gin and a knife of lime, on the surgeon's orders, and it tastes of England and medicine in equal parts, and he has been dreaming of it, he says, since Calcutta.
 
 Plain gin tonight, Hannah says, gently, and lime when the lime comes. And she writes tonic water on the slate she keeps for the brewery man, under candles and pipe-clay — and that is how the drink of the next century enters this house: as a homesick boy's request, and four words of chalk.
+
+The bottles come in three weeks later, because Hannah is not a woman who chalks a thing twice. The subaltern gets the first of them, stood by the house — gin, tonic, and a knife of lime, in a pewter tankard, the house never having owned a glass worth the name. He drinks it at the window with his stiff arm resting on the sill and goes quiet in the particular way of a man tasting a place he isn't in, and when he leaves, Hannah writes nothing on any slate at all, because some transactions are not for the books.
 
 The Company dies this August. Its drink is only now being born. They pass each other at the door, and nobody in the room remarks on it, because it is not the kind of thing that looks like history while it is happening.
 
@@ -2119,6 +2125,8 @@ Twenty-nine thousand bombs on the docks since September, she says. And counting.
 
 She opens it again and adds tonight's line. The dock system the Company built — the pepper docks, the tea docks, the engine room of an empire — burning, page by page.
 
+One night in October the wind comes off a burning bond up-river where a gin house kept its stock, and for an hour the smoke over Wapping smells of juniper — the whole parish briefly aromatic, like the inside of a stone bottle — and the old docker, sniffing at the door, observes that Jerry has finally hit something London will genuinely miss. It is the only joke anyone makes that week, and it does the work of ten.
+
 And once, between two nights of bombs, there is a line in the notebook that is not damage. Fuchsia flowering, west sill, it says — because the pot still stands where it has stood for a century and a half, and Hannah carries it down to the cellar at every siren and back up at every all-clear, the one resident of the house with a guaranteed shelter place. Gwen recorded it the way she records everything: once, exactly, without comment. A ledger of destruction is still a ledger. It takes what it's given.
 
 * * *
@@ -2327,7 +2335,7 @@ The man with the gin doesn't look up from his phone. He lets the remark stand al
 
 Hannah sets the glass down with the only garnish this house keeps: Officer's drink, that. Quinine against the malaria, bitter as a lawsuit; the gin and the lime are to get it down. Every man who ran the Empire east of Suez drank them on doctor's orders. Most imperial object in this building — and I'm counting the beams.
 
-Cheers, says the man with the gin, mildly, to the room in general, and drinks.
+Cheers, says the man with the gin, mildly, to the room in general, and drinks. It is the last worn coin of four centuries of toasts this bar has taken — for King William, to nothing, to absent friends — melted down by use into one word that swears allegiance to nothing but the next mouthful.
 
 The room has watched drinks change their clothes for four hundred years, the way it watched explanations do. Dutch physic becomes English courage; mother's ruin becomes a gentleman's measure; the fever ration of the hardest men the Empire ever exported comes home, loses its malaria, and is asked to answer for its manliness by a man whose bravest daily act is hitting reply-all. It was an insult when it arrived in 1603, too. The drink has outlived everyone who ever needed it to say something about the man holding it, and it isn't finished.
 
@@ -2379,6 +2387,8 @@ That's the ordinary condition of the place. It holds more than anyone passing th
 
 Outside, the tide is going out. It'll be back in six hours and gone again six after that, on a schedule older than the Company, older than the docks, older than the towers across the water. It has never once been wrong about what it is: water, moving toward the sea, indifferent to what it's asked to remember.
 
+Hannah's own drink, when the last lock is turned, is a gin and tonic — a habit she has never once examined — taken standing at the dark window, where the streetlight catches the fuchsia over the door. Quinine, juniper, lime: the empire reduced at last to something a woman can hold in one hand, drunk in ten quiet minutes beneath a flower that crossed the same ocean for love. She rinses the glass and sets it to drain.
+
 The last light goes off over the bar. The building settles, one small private creak in old timber — the sound of something old absorbing, without comment, one more evening it won't be asked about tomorrow.
 
 ---
@@ -2395,7 +2405,7 @@ One chapter requires a stronger caution. The Whitechapel murders of 1888 were re
 
 Three chapters are marked as interludes — the Bounty, the Cutty Sark, the Whitechapel autumn — because they step outside the Company's own story into the wider life of the river that carried it. Two of the three are entirely real events. What makes them interludes is the widening of the lens, not the trustworthiness of the history.
 
-The fuchsia is folklore, faithfully retold: the story that Britain's first fuchsia came off a sailor's ship to a Wapping windowsill in the late 1780s, was bought by the nurseryman James Lee for guinea cuttings, and touched the Prospect itself, is the pub's own legend — and this book takes the pub's word for it. Peg and her rigger are invented; Lee was real; the plant, wherever it truly landed, conquered England.
+The fuchsia is folklore, faithfully retold: the story that Britain's first fuchsia came off a sailor's ship to a Wapping windowsill in the late 1780s, was bought by the nurseryman James Lee for guinea cuttings, and touched the Prospect itself, is the pub's own legend — and this book takes the pub's word for it. Peg and her rigger are invented; Lee was real; the plant, wherever it truly landed, conquered England. The gin thread, by contrast, is straight history: genever came over with the Dutch wars and the jeer of "Dutch courage"; William's accession made the spirit patriotic; the Gin Craze and the Act of 1751 happened as the landlord remembers them; Company and Navy surgeons truly dissolved cinchona bark in spirits and sugar to get it down; and aerated tonic water was patented in 1858, the year the Company died. The gin and tonic is the one imperial institution in this book still in daily service.
 
 Finally, a word about the vantage point. This book stands in one London room for four centuries, which means it hears the empire mostly in the voices of the people who profited from it, served it, or drank near it — and only rarely in the voices of the people it was practised upon. That is a deliberate limit, and it has a cost, and I have tried to make the cost visible rather than pretend it away: the ledger in these pages is written from the counting-house side, and the reader is invited, on every page, to notice who is missing from the room. Bengal, Canton, Amboyna, and Boston had their own rooms, their own evenings, and their own stories, told better elsewhere — some of the places to start are listed in the bibliography that follows.
 
@@ -2430,6 +2440,8 @@ The Prospect of Whitby is real, and older than the Company. The tide still runs 
 **1696**  Six of Every's crew hang at Execution Dock — after a first jury acquits them and the trial is run again. Every himself is never caught.
 
 **1701**  Captain Kidd is hanged at Execution Dock, near the Prospect of Whitby.
+
+**1751**  Parliament's Gin Act finally throttles the Gin Craze; Hogarth publishes Gin Lane the same year — "drunk for a penny, dead drunk for twopence."
 
 **1757**  Robert Clive wins the Battle of Plassey. Bengal falls under Company control.
 
@@ -2524,6 +2536,7 @@ The Prospect of Whitby is real, and older than the Company. The tide still runs 
 ## Suggested additions (for the new chapters — not yet sourced)
 
 - A source on the Hastings impeachment (1790 chapter thread) — P.J. Marshall's *The Impeachment of Warren Hastings* (1965) is the standard study; Dirks's *The Scandal of Empire* (already listed) centres on it.
+- A source on gin, quinine, and the gin & tonic (the gin thread) — Kim Walker and Mark Nesbitt's *Just the Tonic: A Natural History of Tonic Water* (Kew Publishing, 2019).
 - A source on the 1772 credit crisis, the bailout, and the Boston Tea Party (1774 chapter) — Benjamin Woods Labaree's *The Boston Tea Party* (1964) is the standard account; Nick Robins (already listed) covers the bailout.
 - A source on Henry Every, the Ganj-i-Sawai, and the first worldwide manhunt (1696 chapter) — Steven Johnson's *Enemy of All Mankind* (2020) is the standard modern account.
 - A source on Captain Kidd's trial and the missing French passes (1701 chapter).

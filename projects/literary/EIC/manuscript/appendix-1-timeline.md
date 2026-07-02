@@ -26,6 +26,8 @@
 
 **1701**  Captain Kidd is hanged at Execution Dock, near the Prospect of Whitby.
 
+**1751**  Parliament's Gin Act finally throttles the Gin Craze; Hogarth publishes Gin Lane the same year — "drunk for a penny, dead drunk for twopence."
+
 **1757**  Robert Clive wins the Battle of Plassey. Bengal falls under Company control.
 
 **1765**  The Company gains the diwani — the right to collect revenue in Bengal, Bihar, and Orissa.
