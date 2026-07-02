@@ -1469,6 +1469,10 @@ Quite, Hale says, taking the glass back. That's the Company's other plant. The p
 
 Gin, bark, lime. The entire pharmacopoeia of empire assembled in one glass in a Wapping bar, twenty years before anyone thinks to sell the bitter part fizzing in bottles and give the whole thing a name.
 
+It is in the same flat, inventoried voice that Hale gives the room, unasked, the one good memory he brought home. Ashore in Canton he watched three drunk sailors off a receiving ship start trouble in a factory lane — the kind of trouble that ends with somebody opened up — and watched it ended instead by an old man, small, past sixty, a teacher of the neighbourhood boys, who put all three of them on the ground in less time than it takes to tell it, without anger, almost without moving. And then knelt, and set the wrist he had broken doing it, because he was also the lane's bonesetter, and splinted it with a folded fan and two strips torn off his own hem. The gentlest violence I ever saw, Hale says, into his gin. The whole lane called him master.
+
+The lane he is remembering has less than two years left before the gunships find its river. Nobody in this room knows that yet, and the old master least of all.
+
 He says nothing for a while, listening to Pemberton down the bar going on about auction prices and this year's Patna crop against last year's. His jaw tightens.
 
 Twelve and a half million, he says.
@@ -1630,6 +1634,10 @@ Nobody answers. He tries Hannah — you must have stories, a bar this close to t
 I pour drinks, she says. I don't collect stories.
 
 He writes something down anyway. Probably not what she said.
+
+He has better luck, briefly, with a young Company surgeon two tables over — sun-browned, barely thirty, home between postings, with the steadiness of a man nothing has yet managed to reach. Bengal, the surgeon agrees, pleasantly. Two years. And when the journalist asks what he saw there, in the year everyone saw something, the young man considers the question the way you'd consider an interesting specimen. A surgeon sees what a war needs him to see, he says, in the tone of a man giving his name, and orders brandy — gin, he observes, being for patients — and drinks it slowly, watching the room with a mild, cataloguing attention, and offers nothing further at all.
+
+The journalist writes down calm. It is the right word, and he will never know how right. The surgeon's name is Cray. He will drift back through this room, off and on, for thirty years, and the house will get used to him. Houses do.
 
 * * *
 
@@ -1903,7 +1911,7 @@ Mind yourself down there, duchess, she says on her way out, the last Monday of t
 
 ## III. The Work
 
-Her grandfather was a master in Canton. Not a rich man — a man other men came to, which on his street was better than rich. Sailors who saw such things in the treaty ports came home calling it Chinese boxing, and other words would come later, but her father never used any of them. He called it the work, in the same flat voice he used for the shop's accounts, and he taught it to Su in the yard behind the chandlery from the time she was seven years old, at dawn, before the counter opened, because that was when his own father had taught him.
+Her grandfather was a master in Canton. Not a rich man — a man other men came to, which on his street was better than rich. He kept his school until the English gunships came up the Pearl River and the war made the city no place for teaching boys, and then he moved the family to the raw new colony at Hong Kong — a fishing shore the treaties were busily turning into a harbour — and began again in a yard behind a ship-chandler's on the waterfront, where her father grew up learning both trades at once: the art before dawn, and rope, tar and lamp-oil the rest of the day. When the old man died, Wei Zhang buried him on the hillside above the harbour, took ship, and carried both trades to the far end of the world. Which is how a war the Company started over opium came, two generations later, to decide what a girl in Wapping could do with her hands. Sailors who saw such things in the treaty ports came home calling it Chinese boxing, and other words would come later, but her father never used any of them. He called it the work, in the same flat voice he used for the shop's accounts, and he taught it to Su in the yard behind the chandlery from the time she was seven years old, at dawn, before the counter opened, because that was when his own father had taught him.
 
 The work is not what the sailors' stories make of it. It is standing in a low horse stance while the wash-copper heats, until her legs shake, and then until they stop shaking, which takes years. It is her forearms meeting the wooden rail, over and over, until bone learns what bone can be asked to bear. It is the laundry itself, though she doesn't understand that for a long time — ten thousand sheets wrung out by hand build a grip no drill can, and her father watches her wring them and says nothing and counts it as training, because it is. And it is two-person work in the near-dark, her arms crossed against his, learning to read force through touch the way she reads knots by eye: where a push is going before it knows itself, which way a wrist wants to turn, what a shoulder confesses half a second before the hand moves. Listening, her father calls it. By fifteen she can stand in the yard with her eyes shut and tell him, through two crossed wrists, which foot his weight is on.
 
@@ -1954,6 +1962,8 @@ He is precise in his habits. Same stool. Same brandy, never more than two. He is
 He is also — and this is the part that will not simplify later, no matter how much later needs it to — kind. Or something that photographs identically to kindness. When the potboy took a fever in the spring, Cray climbed two flights to see him, twice, and charged nothing, and the boy mended. He set a docker's dislocated shoulder once, right there on the bar floor, gently, talking the man through it like weather. He asks after Su's mother's rheumatism with what sounds like real knowledge, and the liniment he recommends actually works. He is polite to the barmaids in a way some of them find courtly and others find difficult to name a reason for disliking. He remembers their names. He watches the room the way a man watches a ledger, totting something up that nobody else can see the columns of.
 
 A terrible autumn, he says to Su in October, quietly, settling his coin on the bar. I understand you knew one of the women. I am sorry for it. There is nothing in his face but an old man's sympathy. That is either the truth about him, or the most frightening fact in this whole story, and Su will never in her life find out which.
+
+They are, though neither of them will ever frame it so, the Company's two long echoes met in one room: a surgeon its wars taught to be calm, and a girl its opium war washed out of Canton two generations back. The machine has been dead thirty years. Its consequences are only now reaching the bar.
 
 * * *
 
@@ -2185,11 +2195,11 @@ The sirens start at quarter to nine. Nobody moves at first. Then the engines get
 
 The first bomb is close. The building doesn't rattle — it shakes. Glasses leap off the shelf and shatter. The blackout paper tears free in strips, and orange light comes through where black should be. The docks, burning again. Or still.
 
-Everyone hits the floor. Even the old docker, who's spent weeks insisting he isn't afraid of bombs, who has a scar from the last war to prove it — under the table now with the rest of them. The Canadian's curled under the bar making a sound that isn't quite a word. Gwen stays at her table, writing through the falling plaster, eyes going to the window between lines — not for the bomb's sake, but for the glow beyond it, checked against the memory of where Peter's crew was working when she last had word, which was two days ago and might as well be two years for all the comfort it gives her now. The record is the one thing keeping her upright while everything else is on the floor. It is also, tonight, the only kind of watching over him she's allowed to do out loud.
+Everyone hits the floor. Even the old docker, who's spent weeks insisting he isn't afraid of bombs, who has a scar from the last war to prove it — under the table now with the rest of them. The Canadian's curled under the bar making a sound that isn't quite a word. The old laundrywoman from the Causeway — Chinese, seventy-odd, in this bar on Fridays since anyone can remember — does not get under anything. She sits where she sat, back against the wall, eyes closed, hands folded in her lap, and her hands are perfectly still, and the stillness comes off her like heat off a stove, and the corner of the room nearest her is measurably braver for it. Gwen stays at her table, writing through the falling plaster, eyes going to the window between lines — not for the bomb's sake, but for the glow beyond it, checked against the memory of where Peter's crew was working when she last had word, which was two days ago and might as well be two years for all the comfort it gives her now. The record is the one thing keeping her upright while everything else is on the floor. It is also, tonight, the only kind of watching over him she's allowed to do out loud.
 
 The bomb lands two streets off — close enough to strip a warehouse roof and every window on this side of the lane. The Prospect stands. Dust sifts from the beams, a shelf of bottles goes over, and the building holds, the way it has through three hundred years of a city trying to fall down around it. Two streets east, a terrace that predates the Company's own dissolution simply isn't there by morning. There's no accounting for which buildings the bombs choose. There never is.
 
-The all-clear sounds, thin as a whistle ending a match nobody won. The regulars get up slowly, brushing plaster from their hair. Hannah comes out from behind the bar with a cut on her cheek she doesn't touch, already counting unbroken bottles.
+The all-clear sounds, thin as a whistle ending a match nobody won. The regulars get up slowly, brushing plaster from their hair. Hannah comes out from behind the bar with a cut on her cheek she doesn't touch, already counting unbroken bottles. The old laundrywoman is already up and sweeping glass alongside her, wordless, and is gone before anyone can thank her, the way she has always been.
 
 The Canadian crawls out white-faced, nearly falls, and the old docker catches his arm and holds him steady — two men who've never met, propping each other up in the dust.
 
@@ -2350,6 +2360,8 @@ The hedge fund manager glances over — the kind of glance that registers a pers
 The Somali man doesn't glance back. Doesn't need to. He knows exactly what a Canary Wharf suit looks like — sees a dozen a day, riding past in taxis, shoes worth a month of his rent, sharing his exact stretch of river in a completely different economy. He loads the containers that carry the goods that men like this one eventually price and trade. The chain runs straight through this room tonight, the way it always has, and neither of them says so, because saying so costs more than either has to spend on a Tuesday.
 
 On his way out, there's half a second — the hedge fund manager looks up, their eyes almost meet, the Somali man gives the small nod one stranger gives another: *I see you, that's enough.* The hedge fund manager nods back, automatic, not quite seeing him at all. Then the door shuts and he's gone, back to whatever bus takes him to wherever he actually lives, which isn't here, which is never here.
+
+Somewhere across the river, in a terraced house in Bow, a great-great-granddaughter of a Causeway chandler keeps three things she has never connected: a fuchsia in the yard that predates every fence around it; the steadiest hands in her school's first-aid course; and, at the back of a wardrobe, a parcel wrapped in paper gone the colour of weak tea — her grandmother's grandmother's, never to be thrown away, never to be opened. She could not tell you why. She keeps it anyway. Some families keep things the way some buildings do. In this part of London it runs in the blood and the brickwork both.
 
 The river doesn't care who's drinking and who's carrying tonight. It carries the tea, the gin, the containers, the money, all of it, without preference. That's what rivers do.
 

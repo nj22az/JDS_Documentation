@@ -54,6 +54,10 @@ I pour drinks, she says. I don't collect stories.
 
 He writes something down anyway. Probably not what she said.
 
+He has better luck, briefly, with a young Company surgeon two tables over — sun-browned, barely thirty, home between postings, with the steadiness of a man nothing has yet managed to reach. Bengal, the surgeon agrees, pleasantly. Two years. And when the journalist asks what he saw there, in the year everyone saw something, the young man considers the question the way you'd consider an interesting specimen. A surgeon sees what a war needs him to see, he says, in the tone of a man giving his name, and orders brandy — gin, he observes, being for patients — and drinks it slowly, watching the room with a mild, cataloguing attention, and offers nothing further at all.
+
+The journalist writes down calm. It is the right word, and he will never know how right. The surgeon's name is Cray. He will drift back through this room, off and on, for thirty years, and the house will get used to him. Houses do.
+
 * * *
 
 ## IV. The Mouth of the Cannon
