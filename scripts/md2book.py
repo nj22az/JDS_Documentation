@@ -44,6 +44,10 @@ FOLIO_SIZE = "9.5pt"
 
 SCENE_BREAK_MARK = "*&#8195;*&#8195;*"   # em-space separated asterisks
 
+# A chapter file opening with this marker is styled as an interlude:
+# a labelled, smaller opener and an italic contents entry.
+INTERLUDE_MARKER = "<!-- interlude -->"
+
 # Book-only editorial cut: working notes that don't belong in a printed copy.
 BIBLIOGRAPHY_CUT_MARKER = "## Suggested additions"
 
@@ -151,6 +155,11 @@ section.chapter > .chapter-head {{ page: chapter-opener; }}
     text-align: center; font-size: {CHAPTER_YEAR_SIZE}; color: #555;
     margin: 1.15in 0 0.12in 0; letter-spacing: 0.08em;
 }}
+.interlude-label {{
+    text-align: center; font-variant: small-caps; letter-spacing: 0.32em;
+    font-size: 9pt; color: #666; margin: 1.0in 0 0 0;
+}}
+.interlude .chapter-year {{ margin-top: 0.12in; font-size: 24pt; }}
 h1.chapter-title {{
     text-align: center; font-size: {CHAPTER_TITLE_SIZE}; font-weight: normal;
     font-variant: small-caps; letter-spacing: 0.14em; margin: 0 0 0.55in 0;
@@ -222,16 +231,23 @@ def render_epigraph(epigraph_markdown):
 
 
 def render_chapter(index, chapter_text):
-    epigraph, body = split_epigraph(chapter_text)
+    text = chapter_text.lstrip()
+    is_interlude = text.startswith(INTERLUDE_MARKER)
+    if is_interlude:
+        text = text[len(INTERLUDE_MARKER):].lstrip()
+    epigraph, body = split_epigraph(text)
     heading = re.match(r"#\s+(\d{4}):\s+(.+)", body)
     if not heading:
         sys.exit(f"chapter {index}: expected '# YEAR: Title' heading")
     year, title = heading.group(1), heading.group(2).strip()
     body_html = style_scene_breaks(markdown_to_html(body.split("\n", 1)[1]))
     epigraph_html = render_epigraph(epigraph) if epigraph else ""
-    return year, title, (
-        f'<section class="chapter" id="ch-{index}">'
+    section_class = "chapter interlude" if is_interlude else "chapter"
+    label_html = '<div class="interlude-label">Interlude</div>' if is_interlude else ""
+    return year, title, is_interlude, (
+        f'<section class="{section_class}" id="ch-{index}">'
         f'<div class="chapter-head">'
+        f"{label_html}"
         f'<div class="chapter-year">{year}</div>'
         f'<h1 class="chapter-title">{title}</h1>'
         f"{epigraph_html}"
@@ -262,10 +278,12 @@ def build_html(manuscript_dir, title, subtitle, author):
 
     toc_rows, chapter_html = [], []
     for index, chapter_file in enumerate(chapters, start=1):
-        year, chapter_title, html = render_chapter(index, chapter_file.read_text())
+        year, chapter_title, is_interlude, html = render_chapter(
+            index, chapter_file.read_text())
+        toc_title = f"<em>{chapter_title}</em>" if is_interlude else chapter_title
         toc_rows.append(
             f'<li><a href="#ch-{index}"><span class="toc-year">{year}</span>'
-            f"{chapter_title}</a></li>"
+            f"{toc_title}</a></li>"
         )
         chapter_html.append(html)
 

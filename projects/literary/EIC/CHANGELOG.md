@@ -6,6 +6,15 @@ All notable changes to this project are recorded here.
 
 ## [2026-07-02]
 
+### Changed
+- Scope decision resolved: all 13 chapters stay; 1790 (Bounty),
+  1880 (Cutty Sark), and 1888 (Ripper) are now styled as interludes —
+  small-caps "Interlude" label on the opener, reduced year numeral,
+  italic contents entries — via an `<!-- interlude -->` marker read
+  by scripts/md2book.py. 1696 and 1701 remain full chapters
+  (EIC-central: the Every crisis and Kidd's prosecution were Company
+  affairs).
+
 ### Fixed
 - Re-dated the opening chapter from 1600 to 1603, resolving a
   self-contradiction flagged by the author: the chapter had the
