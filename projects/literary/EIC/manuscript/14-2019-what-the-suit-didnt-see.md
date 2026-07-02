@@ -130,6 +130,8 @@ The Somali man doesn't glance back. Doesn't need to. He knows exactly what a Can
 
 On his way out, there's half a second — the hedge fund manager looks up, their eyes almost meet, the Somali man gives the small nod one stranger gives another: *I see you, that's enough.* The hedge fund manager nods back, automatic, not quite seeing him at all. Then the door shuts and he's gone, back to whatever bus takes him to wherever he actually lives, which isn't here, which is never here.
 
+Somewhere across the river, in a terraced house in Bow, a great-great-granddaughter of a Causeway chandler keeps three things she has never connected: a fuchsia in the yard that predates every fence around it; the steadiest hands in her school's first-aid course; and, at the back of a wardrobe, a parcel wrapped in paper gone the colour of weak tea — her grandmother's grandmother's, never to be thrown away, never to be opened. She could not tell you why. She keeps it anyway. Some families keep things the way some buildings do. In this part of London it runs in the blood and the brickwork both.
+
 The river doesn't care who's drinking and who's carrying tonight. It carries the tea, the gin, the containers, the money, all of it, without preference. That's what rivers do.
 
 * * *

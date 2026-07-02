@@ -220,6 +220,35 @@ re-pot it, generation after generation). Five stations:
 Timeline entry added (1788); Author's Note names the legend as folklore faithfully retold (Peg
 and her rigger invented; Lee real). Rule: same as all motifs — no further stations without cause.
 
+## 3e. The Zhang–Cray axis — character threads (DONE 2026-07-02)
+
+Per author direction, Su and Cray developed across the book the way the gin and fuchsia were —
+through relatives and consequences, never by name outside their own chapter:
+
+- **1839 — the grandfather.** Hale's Canton memory: an unnamed old master ends a factory-lane
+  brawl in three moves and then sets the wrist he broke, "the gentlest violence I ever saw."
+  Narrator prolepsis: the gunships find his river within two years.
+- **1858 — young Cray.** A Company surgeon, barely thirty, gives the journalist "a surgeon sees
+  what a war needs him to see" thirty years before he retires the line at the Prospect; orders
+  brandy, "gin being for patients"; watches the room with a mild, cataloguing attention. "He
+  will drift back through this room, off and on, for thirty years."
+- **1888 — the ancestry and the thesis.** The Work now carries the Hong Kong drama: the war
+  closes Canton, the family rebuilds behind a ship-chandler's on the new colony's waterfront
+  (which is where Wei's two trades come from), and the chapter names the collision: Su and Cray
+  are "the Company's two long echoes met in one room... The machine has been dead thirty years.
+  Its consequences are only now reaching the bar."
+- **1940 — old Su, unnamed.** The laundrywoman who does not get under anything during the raid:
+  eyes closed, hands perfectly still ("during would have got her killed" — readers of 1888 know
+  the stillness), sweeping glass beside Hannah before anyone can thank her.
+- **2019 — the descendant in Bow.** A great-great-granddaughter keeps three unconnected things:
+  a fuchsia older than its fences, the steadiest hands in her first-aid course, and a tea-brown
+  paper parcel — never to be thrown away, never to be opened. (The bodice travels by family, not
+  premises: the shop "passes to other hands" within Su's lifetime, per the 1888 text.)
+
+**HARD GUARD:** nothing in any chapter may confirm or deny that Cray was the Ripper. The 1858
+cameo shows calm and habit only. Su's family appears named only in 1888; everywhere else they
+are recognizable, never labelled.
+
 ## 4. Chapters to consider converting to live scene — DONE (2026-07-02)
 
 Reportage-after-the-fact is a legitimate device and shouldn't be abandoned everywhere — variety

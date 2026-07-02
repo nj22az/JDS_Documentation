@@ -4,6 +4,24 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-02] (the Zhang–Cray axis)
+
+### Added
+- Su and Cray developed across the book through relatives and
+  consequences, per author direction: Hale's Canton memory of the
+  old master (1839, Su's grandfather, unnamed); a young surgeon
+  named Cray giving the journalist "a surgeon sees what a war needs
+  him to see" thirty years early (1858); the Hong Kong drama added
+  to The Work — the war closes Canton, the family rebuilds behind a
+  waterfront chandler's, Wei learns both trades (1888), plus the
+  thesis line: Su and Cray as "the Company's two long echoes met in
+  one room"; old Su unnamed in the Blitz, the laundrywoman whose
+  folded hands stay perfectly still through the raid (1940); and a
+  great-great-granddaughter in Bow keeping a fuchsia, the steadiest
+  hands in her first-aid course, and an unopened tea-brown parcel
+  (2019). Hard guard logged: nothing may ever confirm or deny Cray's
+  guilt.
+
 ## [2026-07-02] (gin thread — second pass, author-approved set)
 
 ### Added
