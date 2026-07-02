@@ -11,7 +11,7 @@
 
 > *"The wind off the Thames always tasted like a mix of low tide, rotting timber, and coal smoke. It was the smell of empire. You just didn't know it yet."*
 >
-> — The Prospect of Whitby, Wapping
+> — Nils Johansson
 
 ---
 
@@ -31,7 +31,7 @@ The rain has not let up in three days. It comes in cold off the North Sea, turns
 
 Inside, the fire is built high. The ale is dark and it is good. A dozen men sit close to the heat, dockworkers mostly, hands like old leather. One coughs, wet and deep, the kind of cough a man does not recover from. Two argue about the price of tar. A third swears it will snow before morning and has already put money on it.
 
-Three years before, in a warm room in the City, an old woman put her seal to a piece of paper. The old woman is dead now — gone in the spring, mourned, buried, succeeded. The paper is doing fine. Papers usually do.
+Three years before, on the last day of a dying century, an old woman put her seal to a piece of paper — the Queen, Elizabeth, giving two hundred and eighteen merchants leave to trade east of the Cape. The old woman is dead now — gone in the spring, mourned, buried, succeeded by a Scotsman. The paper is doing fine. Papers usually do.
 
 * * *
 

@@ -11,6 +11,6 @@
 
 > *"The wind off the Thames always tasted like a mix of low tide, rotting timber, and coal smoke. It was the smell of empire. You just didn't know it yet."*
 >
-> — The Prospect of Whitby, Wapping
+> — Nils Johansson
 
 ---
