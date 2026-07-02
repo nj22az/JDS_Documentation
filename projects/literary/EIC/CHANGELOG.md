@@ -4,6 +4,19 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-02] (opening clarity — author feedback)
+
+### Changed
+- Front epigraph now attributed to Nils Johansson (was "The
+  Prospect of Whitby, Wapping"); wording kept as "the smell of
+  empire" (condition, not country).
+- Ch01 §I closing paragraph now names Elizabeth and the charter
+  ("on the last day of a dying century... giving two hundred and
+  eighteen merchants leave to trade east of the Cape... succeeded
+  by a Scotsman") — the riddle version only worked for readers
+  who already knew the 1600/1603 dates. Ashby's §VI "Old Queen
+  Bess" speech now lands as confirmation, not answer key.
+
 ## [2026-07-02] (three more author anecdotes adapted)
 
 ### Added
