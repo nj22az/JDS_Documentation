@@ -15,6 +15,15 @@ All notable changes to this project are recorded here.
   over merging chapters, taking the book from 13 to 14 chapters.
   Chapters renumbered 01–14; timeline and bibliography extended.
 
+### Added
+- The Hastings impeachment woven in at the author's suggestion: new
+  section "The Other Trial" in the 1790 chapter (Burke's prosecution
+  of the Company's rule, third year, Westminster Hall half empty
+  while the bar feasts on the Bounty story), plus a two-line payoff
+  in 1858 where the shareholder cites the acquittal ("the system
+  examined itself... and found itself blameless"). Timeline and
+  bibliography extended accordingly.
+
 ### Fixed
 - Removed a Permanent Settlement anachronism from the 1770 chapter
   (the policy is Cornwallis's, 1793): Mulvey's line now speaks of
