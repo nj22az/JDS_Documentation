@@ -208,7 +208,7 @@ so it's a decision, not an oversight.
 **Epigraph consistency — DONE:** all 13 chapters now open with a dated epigraph block
 (matching invented epigraphs added to 1701, 1790, 1880, and 1888).
 
-## 6a. Scope decision — EIC-core vs Thames-afterlife chapters (OPEN, author's call)
+## 6a. Scope decision — RESOLVED: keep all 13, mark three as interludes
 
 The author has flagged that five of the thirteen chapters depart from the original 8-chapter
 EIC-only outline: 1696 (Every), 1701 (Kidd), 1790 (Bounty), 1880 (Cutty Sark), 1888 (Ripper).
@@ -230,7 +230,13 @@ says "Five Centuries of History from the Banks of the Thames," not "of the East 
 And the book's thesis needs the post-1858 chapters to land: the machine outliving its name IS
 the argument, and 1880/1888/1940/2019 are where that argument pays off.
 
-Options, for the author to decide:
+**Decision (2026-07-02):** the author chose to keep the tangential chapters and embrace the
+interlude framing — "I like the interludes... I think they add to the story." Implemented:
+1790, 1880, and 1888 carry an `<!-- interlude -->` marker in their manuscript files; md2book.py
+renders them with a small-caps "Interlude" label, a reduced year numeral, and italic contents
+entries. 1696 and 1701 remain full chapters (EIC-central, per the assessment above).
+
+The options considered were:
 1. **Keep all 13 (recommended).** Frame the book as "the Company and its long afterlife, watched
    from one room." No changes needed; the Author's Note can say this in one sentence.
 2. **Mark the tangential three as interludes.** Typographic middle path: 1790, 1880, 1888 styled
