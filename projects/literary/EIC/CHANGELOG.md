@@ -18,6 +18,12 @@ All notable changes to this project are recorded here.
   (see git history for the per-chapter breakdown), the Cache device
   (three items, paid off in 2019), and two scar-tissue pairs.
 
+### Added (compiled export)
+- `exports/the-front-row-seat.md` — the full book compiled into a
+  single markdown file (frontmatter, 13 chapters, timeline,
+  bibliography; ~34,500 words). The chapter files in `manuscript/`
+  remain the source of truth; regenerate the export after edits.
+
 ### Changed
 - Chapters renumbered 01–13 to accommodate the new 1696 chapter.
 - 1888 chapter enhanced per author suggestions and retitled

@@ -30,10 +30,12 @@ output under `projects/`.
 EIC/
 ├── README.md                       ← This project card
 ├── CHANGELOG.md                    ← Change log
-├── manuscript/                     ← Draft chapters, in reading order
+├── manuscript/                     ← Draft chapters, in reading order (source of truth)
 │   ├── 00-frontmatter.md
 │   ├── 01-1600 ... 13-2019         ← 13 chapters, numbered chronologically
 │   └── appendix-timeline.md / appendix-bibliography.md
+├── exports/
+│   └── the-front-row-seat.md       ← Compiled single-file book (regenerate after chapter edits)
 ├── notes/
 │   └── outline-and-craft-plan.md   ← Working plan: strengths, weaknesses, next moves
 └── references/                     ← Source material, inspiration (empty so far)
