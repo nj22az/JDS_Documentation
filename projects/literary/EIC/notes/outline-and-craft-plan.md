@@ -245,6 +245,18 @@ through relatives and consequences, never by name outside their own chapter:
   paper parcel — never to be thrown away, never to be opened. (The bodice travels by family, not
   premises: the shop "passes to other hands" within Su's lifetime, per the 1888 text.)
 
+- **1888 §III — Wei's crossing (added 2026-07-02, from the author's own travel anecdote).**
+  The one-sentence "took ship" expanded into the family's twice-a-year heirloom story: the
+  clerk who stamped everything twice while the tide turned; the harbourmaster's English "aimed
+  just over his head"; the runner boy ("You are Zhang... Run") who refused payment — rule three
+  ("never for payment") given its face a generation early; "It felt good to run"; the steerage
+  meal; the cabin boy who braced for the blow and got a still hand instead; and the borrowed
+  white bowl never returned, kept wrapped on the shop's high shelf — "the debt he cannot pay,
+  and the payment he was not allowed to make." One echo only, §VII station steps: Su re-hears
+  the story's first half (the man the empire looked through) at the moment the city looks
+  through her. **No third touch** — 2019's languages line already carries the family's
+  Cantonese; the runner is never called a Lascar (that word belongs to 1770/2019).
+
 **HARD GUARD:** nothing in any chapter may confirm or deny that Cray was the Ripper. The 1858
 cameo shows calm and habit only. Su's family appears named only in 1888; everywhere else they
 are recognizable, never labelled.
