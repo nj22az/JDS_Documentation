@@ -4,6 +4,20 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-02] (external methodology review — book-genesis-v4)
+
+### Added
+- Craft plan §5b: prose anti-pattern audit — a 7-point cut list
+  (binary-negation openers, self-explaining metaphors, automatic
+  rule of three, pseudo-philosophical closings, too-successful
+  emotional control, too-clean dialogue, precision flex) plus a
+  three-lens read-through protocol, distilled from review of the
+  MIT-licensed book-genesis-v4 evaluator/disruptor checklists.
+  Two of its tests (thematic echo chamber, graduated reveal) are
+  documented as deliberate non-adoptions with our existing guards
+  cited. No manuscript changes; the audit applies on the next
+  full read-through.
+
 ## [2026-07-02] (fourth-wave threads — recommended set)
 
 ### Added

@@ -326,6 +326,40 @@ each have their own idiom instead: Tom counts odds, Esther *reckons*, Naylor *ta
 keeps *counts and lists of names*, Su *reads knots*, Mei turns Pemberton's own word on him.
 Audited 2026-07-02: 16 instances cut to 8, all now within the rule.
 
+## 5b. Prose anti-pattern audit (maintain on every pass; adapted 2026-07-02)
+
+Distilled from an external checklist (book-genesis-v4's evaluator/disruptor agents, MIT-licensed)
+after review — their generation pipeline is irrelevant to us, but their diagnostic list of
+machine-flavoured prose tics is a good mirror. Adapted here to what actually threatens *this*
+book; use during any full read-through:
+
+**Scan for and cut:**
+1. **Binary-negation openers** ("Not X. Not Y. It was Z.") — rewrite as direct assertion.
+2. **Self-explaining metaphors** — end at the image; delete the "because…" extension.
+3. **Automatic rule of three** — where three parallel items appear, check one isn't padding.
+4. **Pseudo-philosophical closings** — a section may not end on an extractable universal truth
+   more than once per chapter; the refrain-rationing rule (§5) already polices the big one.
+5. **Emotion managed too successfully** — characters who notice a feeling, master it, and
+   continue, every time. Let control fail somewhere small (voice, hands) without narration.
+6. **Clean dialogue** — period voice excuses formality, not perfection; keep interruptions,
+   repetitions, and unanswered lines, especially in bar-room scenes.
+7. **Precision flex** — unnecessarily exact numbers outside the counting-house voices. Exact
+   figures belong to Coates, the accountant, and the shareholder *as characterisation*;
+   everyone else counts like a human ("more than she could count").
+
+**Two of their tests we deliberately fail, on purpose — do not "fix":**
+- **Thematic echo chamber** (every detail resonates): a braided anthology *is* an echo chamber
+  by design. Our guard is different — the seasoning-never-load-bearing rule and the held-thread
+  bank ("replace or wait, never simply add"), not de-braiding. But the test is still useful at
+  the *scene* level: each chapter must contain furniture that means nothing.
+- **Graduated reveal** (same structural shape every chapter): this was the book's original
+  diagnosis (§2) and is already solved by protagonist-per-chapter with different choice types;
+  re-check on any new chapter.
+
+**Reader-lens for the final read-through** (borrowed, useful): read each chapter once as the
+fast reader (would I stop here?), once as the hostile reader (logic, dates, continuity), once
+as the casual reader (do I like being in this room?). Three lenses, one pass each.
+
 ## 6. Chapter order (current)
 
 ```
