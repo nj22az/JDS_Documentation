@@ -4,6 +4,18 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-03] (the showdown fleshed out)
+
+### Changed
+- Ch12 §IX expanded into a staged showdown: Cray opens unworried
+  ("Go home. I shan't mention it"), is broken twice (wrist, then
+  elbow after the lancet), and ends terrified — his own rehearsed
+  quiet handed back "with the direction reversed." Three
+  beginnings, all his; Su silent throughout, stepping back after
+  each ending per the rules; the knife framed as the smallest
+  move that finally ends it. He never calls for the watch — an
+  in-scene near-admission that still proves nothing.
+
 ## [2026-07-03] (brother renamed Lee)
 
 ### Changed
