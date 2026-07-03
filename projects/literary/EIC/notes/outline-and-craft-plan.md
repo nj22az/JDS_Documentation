@@ -273,6 +273,16 @@ through relatives and consequences, never by name outside their own chapter:
   dates with "one pairing she has never been able to make lie flat" (§XI). Everything still
   "fits, and proves nothing."
 
+- **1888 — the fan (2026-07-03).** The grandfather's folded fan from Hale's 1839 Canton memory
+  (he splinted the wrist he broke with it) is now an heirloom: §III teaching tool ("raps an
+  elbow level... crossed the ocean in the same bundle as the white bowl"), §IX in Su's left
+  hand in the fog, one functional beat (disarms the lancet — "has splinted more wrists than it
+  has struck"). Plus one wordless echo of Hale's line at the wrist-break: "it would look of all
+  things almost gentle" — never the verbatim phrase in Su's chapter. Rejected from the same
+  external draft: Cray Mutiny-madness backstory (violates the unsimplifiable-Cray rule),
+  "she had stopped the monster" (violates the hard guard), the three-second fight (contradicts
+  the three-beginnings showdown), the trophy rationale for the clasp (weaker than the rules
+  rationale).
 - **1888 §IX — the showdown expansion (2026-07-03, author-directed).** The fight now runs on a
   **three-beginnings structure, all his**: (1) the clasp — ends with the wrist "past where
   wrists agree to go"; (2) the left-handed lancet aimed at the hand she stops things with —
