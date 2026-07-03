@@ -273,6 +273,20 @@ through relatives and consequences, never by name outside their own chapter:
   dates with "one pairing she has never been able to make lie flat" (§XI). Everything still
   "fits, and proves nothing."
 
+- **1888 §IX — the showdown expansion (2026-07-03, author-directed).** The fight now runs on a
+  **three-beginnings structure, all his**: (1) the clasp — ends with the wrist "past where
+  wrists agree to go"; (2) the left-handed lancet aimed at the hand she stops things with —
+  ends with the elbow; (3) the compelled last lunge at her throat ("men like him do not leave
+  a lane's account unsettled") — ends with the knife, framed as the smallest move that will
+  finally end it ("she has ended it twice already... and it has not stayed ended"). Arc: Cray
+  opens **not worried at all** (recovers composure instantly, "your people can't afford
+  mentioning, can they"), moves through professional reassessment, and finishes **terrified**
+  — recognising his own rehearsed quiet "handed back to him with the direction reversed."
+  Su speaks not one word in the lane. Her ruthlessness IS the rules: she steps back after
+  each ending and waits. New in-scene tilt item: **he never calls for the watch** ("It fits.
+  It proves nothing. It is very nearly an admission") — kept in-scene, NOT added to the §XI
+  list (saturation). His final "You," now reprises his own opening word.
+
 **HARD GUARD (updated 2026-07-03):** nothing in any chapter may confirm or deny that Cray was
 the author of the five Whitechapel murders. What IS on-page fact since the strengthening pass:
 he attacked one unnamed woman on the night he died, witnessed by Su — a one-night attacker,
