@@ -4,6 +4,16 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-03] (second fan pass — the bonesetter's fulcrum)
+
+### Changed
+- Ch12 §IX wrist-break: the closed fan is now the fulcrum —
+  "applied the one way her grandfather never applied it"; "she
+  knows to the inch where that is; it was her grandfather's other
+  trade." Fan capped at two functional beats (fulcrum + lancet
+  disarm); listening-extension and on-page splint-vs-scalpel
+  statement rejected.
+
 ## [2026-07-03] (theory intake — one line applied, three frames rejected)
 
 ### Added

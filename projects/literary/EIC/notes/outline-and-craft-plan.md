@@ -282,7 +282,14 @@ through relatives and consequences, never by name outside their own chapter:
   external draft: Cray Mutiny-madness backstory (violates the unsimplifiable-Cray rule),
   "she had stopped the monster" (violates the hard guard), the three-second fight (contradicts
   the three-beginnings showdown), the trophy rationale for the clasp (weaker than the rules
-  rationale).
+  rationale). **Second fan pass (2026-07-03):** the fan now has exactly two functional beats —
+  the bonesetter's fulcrum at the wrist-break ("applied the one way her grandfather never
+  applied it"; "she knows to the inch where that is; it was her grandfather's other trade")
+  and the tendon strike that disarms the lancet. Rejected: fan-as-listening-extension
+  (listening is skin-through-bone, established bare — wood as apparatus dilutes it) and any
+  on-page statement of the splint-vs-scalpel contrast (it IS the scene; naming it is the
+  philosophical-aside anti-pattern, §5b item 4). **No third fan beat, ever** — two is
+  inheritance, three is choreography.
 - **1888 §IX — the showdown expansion (2026-07-03, author-directed).** The fight now runs on a
   **three-beginnings structure, all his**: (1) the clasp — ends with the wrist "past where
   wrists agree to go"; (2) the left-handed lancet aimed at the hand she stops things with —
