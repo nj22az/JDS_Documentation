@@ -4,6 +4,13 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-03] (husband renamed Erik Johansson)
+
+### Changed
+- Su's husband renamed Anders → Erik Johansson (author
+  direction); ch12 §XII and craft plan. The author's surname
+  enters Su's line from 1892 on.
+
 ## [2026-07-03] (Anders — Su's husband, §XII)
 
 ### Added
