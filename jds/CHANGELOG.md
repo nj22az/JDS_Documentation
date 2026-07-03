@@ -4,6 +4,19 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [3.10.2] — 2026-07-03
+
+### Fixed — version-check regex silently matched stale versions (CA-2026-011)
+- The changelog/README version-consistency check used `(\d+\.\d+)` — exactly
+  two components. Against a three-component version like `3.10.1` it failed
+  to match at the intended heading, and `re.search` silently fell through to
+  the next OLDER two-component heading later in the file (e.g. `## [3.10]`),
+  reporting that stale version as current with no warning or error raised.
+  Same failure class as CA-2026-009 (root README check silently matching
+  nothing). Fixed by making the version pattern accept an optional patch
+  component (`\d+\.\d+(?:\.\d+)?`) everywhere a version is parsed
+  (jds/CHANGELOG, jds/README, root README).
+
 ## [3.10.1] — 2026-07-02
 
 ### Fixed — md2book.py front-epigraph justification

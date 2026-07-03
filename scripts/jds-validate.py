@@ -672,17 +672,25 @@ def check_changelog_version(result):
     changelog_ver = None
     readme_ver = None
 
+    # Version numbers may be X.Y or X.Y.Z (patch releases like 3.10.1 are valid).
+    # A pattern anchored to exactly two components would fail to match a
+    # three-component version and silently fall through to whatever OLDER
+    # two-component heading appears later in the file, reporting a stale
+    # version as current without ever raising an error (same failure class
+    # as CA-2026-009). The optional third group prevents that.
+    version_pattern = r'(\d+\.\d+(?:\.\d+)?)'
+
     if os.path.exists(changelog_path):
         content = safe_read(changelog_path)
         if content:
-            match = re.search(r'## \[(\d+\.\d+)\]', content)
+            match = re.search(r'## \[' + version_pattern + r'\]', content)
             if match:
                 changelog_ver = match.group(1)
 
     if os.path.exists(readme_path):
         content = safe_read(readme_path)
         if content:
-            match = re.search(r'\*\*Version:\*\*\s*(\d+\.\d+)', content)
+            match = re.search(r'\*\*Version:\*\*\s*' + version_pattern, content)
             if match:
                 readme_ver = match.group(1)
 
@@ -702,7 +710,7 @@ def check_changelog_version(result):
     if os.path.exists(root_readme):
         content = safe_read(root_readme)
         if content:
-            match = re.search(r'\*\*Version\s+(\d+\.\d+)\*\*', content)
+            match = re.search(r'\*\*Version\s+' + version_pattern + r'\*\*', content)
             if match:
                 root_ver = match.group(1)
                 if changelog_ver and root_ver != changelog_ver:
@@ -710,7 +718,7 @@ def check_changelog_version(result):
                 else:
                     result.ok(f'Root README version consistent: {root_ver}')
             else:
-                result.warn('Could not parse "**Version X.Y**" from root README')
+                result.warn('Could not parse "**Version X.Y[.Z]**" from root README')
 
 
 def check_corrective_action_log(result):

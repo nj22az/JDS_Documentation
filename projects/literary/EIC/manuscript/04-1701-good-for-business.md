@@ -114,7 +114,7 @@ He wedges the paper into the gap, back against the old wood, where a hand would 
 
 ## VII. What the River Keeps
 
-By full dark the crowd has mostly gone home, pleased with itself, already turning the afternoon into a story to tell at breakfast. Down on the mud, a cage of iron bars waits empty a little longer, built to hold what's left of a man somewhere the tide will reach twice a day — a reminder, the court called it, for the next captain who thinks a commission is the same thing as a conscience.
+By full dark the crowd has mostly gone home, pleased with itself, already turning the afternoon into a story to tell at breakfast. Down on the mud, a cage of iron bars waits empty a little longer, bound downriver for Tilbury Point, built to hold what's left of a man where the tide will reach him twice a day — a reminder, the court called it, for the next captain who thinks a commission is the same thing as a conscience.
 
 Fenner pays for his ale, leaves before the keeper can say anything else to him, and walks out into the same dark and mud that took a boy named Tom a hundred years before him, indifferent to which of them comes back. He will not use the name Fenner again after tonight. There is a collier leaving on the morning tide that isn't particular about a new hand's papers, and by the time it makes open water he will have a third name ready, the way a man in his trade keeps a spare coat.
 
