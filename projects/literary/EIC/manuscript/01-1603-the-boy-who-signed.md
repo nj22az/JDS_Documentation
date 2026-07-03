@@ -18,9 +18,11 @@ Three years before, on the last day of a dying century, an old woman put her sea
 
 * * *
 
-## II. Ashby
+## II. Margaret Ashby
 
 She runs the place. Owns it, more likely, though nobody asks and she never says. Past forty, hands red from lifting and scrubbing, tough the way the stone in the old churches downriver is tough. She has buried two husbands and talks about it the way other women talk about the weather. Men die. You pour the ale and sweep the floor and get on with it.
+
+Her own crossing is a quarter-century behind her now and she has worn it smooth in the telling, the way a story gets told until it stops hurting and starts being useful instead. Margareta, she was, out of a fishing town on the coast beyond Gothenburg, one of nine, a father who mended nets and a mother who salted herring until her hands were more brine than skin. She came over on a timber ship at seventeen with a cousin's letter and a dead certainty that a harbour city on a great river had to want for something a strong back and a level head could supply. It wanted, as it turned out, for barmaids. She married an Englishman named Ashby within the year — a waterman, gone eleven years now, the first of the two she buried — and kept his name the way she'd kept nothing else English easily, because a name is a small thing to hold onto in a country that mangles every other word out of you. The regulars who go back far enough still call her Maggie, softly, the way you'd use a name that belongs to somebody younger than the woman standing in front of you now. Everybody else has only ever known Ashby, which suits her. Margareta stayed on the boat. Ashby is who runs a bar.
 
 Tonight she is busy. Word has gone round that a ship is in, and where a ship comes in, men follow, and where men follow they want a drink. She moves behind the bar the way a woman moves who has done this ten thousand times — pouring, wiping, taking coin, watching the whole room without seeming to look at any part of it.
 
@@ -211,6 +213,8 @@ Hendricks stops him at the end of the bar — wordless, the stone bottle held ou
 For the morning, Hendricks says, taking the bottle back. In the Low Countries the English soldiers beg this off us before an assault. They have a name for it — Dutch courage. They mean it as an insult. He works the cork home with his thumb. They still beg.
 
 Go and sign your paper, boy.
+
+Goodnight, Maggie, he says on his way past the bar — the only man left in the room who remembers her arriving on a boat much like the one that will take Tom, and young in much the same way. She doesn't look up from wiping the counter, but something in her shoulders answers him that Ashby never would.
 
 At the door he pauses, hand on the latch, and doesn't look back. The cold takes him. The dark and the mud and the river swallow him — the same as they've always been, indifferent to whether he comes back or not.
 
