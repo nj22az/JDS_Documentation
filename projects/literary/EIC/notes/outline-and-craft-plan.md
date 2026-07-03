@@ -438,6 +438,30 @@ book; use during any full read-through:
 fast reader (would I stop here?), once as the hostile reader (logic, dates, continuity), once
 as the casual reader (do I like being in this room?). Three lenses, one pass each.
 
+## 5c. Theory intake — the standing bar (2026-07-03)
+
+Author supplied four theoretical frames (Žižek subjective/objective violence & tellability;
+aestheticization/simulacrum; the Kantian Sublime; Benjamin mythic/divine violence). Ruling:
+**theory may sharpen one concrete line in a voice entitled to speak it; it may never appear
+as vocabulary or as narrator commentary.** Applied and rejected as follows:
+
+- **Applied (1858):** one Colonel sentence — "The well is news, Captain; the guns are
+  administration. The one is for printing, the other is for filing." The tellability asymmetry
+  stated as administrative policy, in his own idiom. Nothing else needed: "substantially true"
+  already carries the propaganda-model's sharpest edge (managed narrative built from selected
+  truth).
+- **Rejected (2019 gallows / simulacrum):** the text already outflanks Baudrillard — instead
+  of "a copy without an original," the book says the original is still right there ("the mud
+  below is the same mud"), unnoticed. Also the suit must not see it: the chapter is *What the
+  Suit Didn't See*; awareness belongs to the narrator, not him.
+- **Rejected (Sublime river):** the book's river is deliberately anti-sublime — "The Thames is
+  not a witness. It's a river." Kantian awe would re-inflate the rationed refrain and reverse
+  the book's signature move: the horror is that the river does NOT mean anything.
+- **Rejected (Benjamin, 1888):** the fight already embodies rule-bound counter-violence that
+  refuses to become the new collector ("the work was made by small people for exactly this
+  moment"; the unopened case IS the refusal of mythic succession). Naming it "holy" or
+  "structural" on the page is the philosophical-aside anti-pattern (§5b item 4).
+
 ## 6. Chapter order (current)
 
 ```

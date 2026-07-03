@@ -104,7 +104,7 @@ There's a Distinguished Service Order in the pipeline for the officers who serve
 
 Harding says nothing. He has learned, this past year, exactly how much silence a man can produce when he needs to.
 
-There is a version of the relief of Cawnpore this country needs to hear, the colonel goes on. Sepoy butchery. British soldiers arriving too late to save the innocent, in time only to exact a measured justice. That version is in every paper in England already, and it happens to be substantially true. What serves nobody — least of all the men who served with you, Captain — is a word like Devil's Wind spoken in a bar by an officer whose name will end up in the same paper that prints his citation.
+There is a version of the relief of Cawnpore this country needs to hear, the colonel goes on. Sepoy butchery. British soldiers arriving too late to save the innocent, in time only to exact a measured justice. That version is in every paper in England already, and it happens to be substantially true. The well is news, Captain; the guns are administration. The one is for printing, the other is for filing. What serves nobody — least of all the men who served with you, Captain — is a word like Devil's Wind spoken in a bar by an officer whose name will end up in the same paper that prints his citation.
 
 You want me to leave out the cannons, Harding says.
 
