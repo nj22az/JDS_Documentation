@@ -73,6 +73,28 @@ carries, given to whoever's daughter or niece takes over the bar**, the way a tr
 any one person holding it. One light line per appearance is enough — never a revealed twist, just
 the ordinary fact of how the place has always worked.
 
+**(b-i) Margaret "Maggie" Ashby's origin (added 2026-07-03, author-directed pivot).** Ashby is
+now named in full and given a Swedish backstory: Margareta, from a fishing town on the coast
+beyond Gothenburg, crossed at seventeen, married an Englishman named Ashby (a waterman, first
+of the two husbands she buries), kept his name. Regulars who go back far enough call her Maggie
+(Hendricks does, once, at the chapter's close); everyone else knows her only as Ashby. This is
+the deepening the author asked for — real biography for the keeper-line's founder — done as an
+addition to ch01 §II only; no other chapter's "Ashby" references needed to change, since Ashby
+remains her working/legacy name throughout (1701's "the Ashby who first ran this place," 2019's
+"the marks Ashby cut," the Author's Note).
+
+**(b-ii) The silent Ashby–Erik thread (2026-07-03).** Per author direction, Maggie is Erik
+Johansson's ancestor — but the connection is authorial fact, never stated on the page, per the
+book's existing "seasoning never load-bearing" rule and the author's own confirmed choice
+("silent — never stated"). Mechanism (for continuity only, not prose): Maggie's own family
+stayed in Sweden; a younger brother's line, generations later — after Swedish patronymics
+fixed into inherited surnames — becomes "Johansson." Erik descends from that Gothenburg branch,
+not from any English child of Maggie's. The only textual anchor is geographic rhyme: ch01
+places Maggie "on the coast beyond Gothenburg"; ch12 already has Erik's "father was Swedish,
+out of Gothenburg." No character in either chapter ever learns of the other. **Hard guard:**
+no future chapter may have any character state or discover this connection — it stays exactly
+as invisible as the Cache items are to each other.
+
 **(c) One labor line — for texture, not plot.** Carter the chandler (1626) anchors a second
 thread: Wapping trades ran in families. A later docker can be his descendant, tying the book's
 existing Lascar → Somali dockworker echo (already in the 2019 chapter) into the same pattern —
@@ -597,3 +619,38 @@ stool. Other shelf-mates: *Cloud Atlas* (nested time structure), Rutherfurd's *L
 (generational saga on one city). The title-page framing (epigraphs, bibliography, timeline)
 already reads as "prestige narrative nonfiction" packaging — lean into that; it's a real
 differentiator against straight historical fiction.
+
+## 10. Character-growth pivot (2026-07-03, author-directed)
+
+The author asked to let characters "grow and be more important" — a real softening of the
+original hard rule in §3 ("the protagonists are tools, not the story"). Author's chosen scope,
+when asked directly: **deepen within the current 14 chapters/five-century spine — do not
+restructure into a smaller set of character-saga chapters.** The pub and the 1603→2019 timeline
+remain the spine; recurring figures (the keeper line, the Zhang–Johansson line) get more real
+biography and interiority than a pure "seasoning" rule would previously have allowed, but the
+book does not become a family saga with the Company as backdrop. First application: Margaret
+"Maggie" Ashby (§3(b-i) above). Future passes should ask, per chapter: does this character
+deserve one more paragraph of real biography, without the chapter's protagonist-with-active-
+choice structure (§3a) changing shape. The "seasoning never load-bearing" rule for cross-chapter
+*connections* (§3, final line) still holds — it is the individual chapters' interiority that may
+now run deeper, not the web of Easter eggs between them.
+
+## 11. Chapter structure — titles primary, years as subtitle (2026-07-03, author-directed)
+
+Changed in `scripts/md2book.py` only — **no manuscript file needed editing**, since each
+chapter's `# YEAR: Title` heading line already carries both pieces of data separately; this was
+purely a rendering-hierarchy fix:
+
+- Each of the 11 non-interlude chapters now opens with a small kicker ("Chapter One" through
+  "Chapter Eleven"), the chapter's **name** as a large dominant heading, and the **year** as a
+  small italic subtitle beneath it. The three interludes keep their existing "Interlude" kicker
+  in place of a number (unchanged behaviour, now sharing the same visual weight as the numbered
+  kicker).
+- Contents page redesigned to match: each entry now leads with the chapter number (or
+  "Interlude") and the title; the year no longer appears in the TOC at all — only at the actual
+  chapter opening, which is standard practice for multi-era novels (per §9's own comps: *Cloud
+  Atlas* does exactly this).
+- `CHAPTER_NUMBER_WORDS` in the script is a plain spelled-out list (One…Twenty) — extend it if
+  the book ever grows past 20 numbered chapters, but do not otherwise touch the numbering logic;
+  it derives entirely from counting non-interlude files in manuscript order, so reordering or
+  adding chapters "just works."

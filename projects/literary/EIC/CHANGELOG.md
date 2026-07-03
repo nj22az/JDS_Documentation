@@ -4,6 +4,28 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-03] (craft pivot — chapter structure + Maggie Ashby)
+
+### Changed
+- `scripts/md2book.py`: chapter openers redesigned — title is now the
+  dominant heading, year is a small italic subtitle beneath it, and each
+  numbered chapter gets a "Chapter One" … "Chapter Eleven" kicker
+  (interludes keep "Interlude" in place of a number). Contents page
+  redesigned to match — leads with the chapter number/"Interlude" and
+  title; the year no longer appears in the TOC. No manuscript files
+  needed editing (`# YEAR: Title` already carried both fields).
+- Ch01 §II: Ashby named in full — Margaret ("Maggie") Ashby, Swedish-born
+  near Gothenburg, crossed at seventeen, married an English waterman
+  named Ashby (kept his name; first of the two husbands she buries).
+  Regulars who go back far enough call her Maggie (Hendricks does, once,
+  at the chapter's close); everyone else knows her only as Ashby.
+- Craft plan: logged the author's character-growth pivot (§10) — deepen
+  interiority within the existing 14-chapter spine, not a restructure —
+  and the silent Ashby–Erik ancestry mechanism (§3 b-ii): Maggie's own
+  Swedish family, not her English children, is Erik Johansson's line.
+  Never stated on the page, per the book's existing seasoning rule;
+  the only textual anchor is the shared Gothenburg origin.
+
 ## [2026-07-03] (cold read-through — six fixes)
 
 ### Changed

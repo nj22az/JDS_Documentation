@@ -36,11 +36,21 @@ BODY_SIZE = "10.5pt"
 BODY_LEADING = "1.45"
 LANGUAGE = "en-GB"                       # drives hyphenation
 
-CHAPTER_YEAR_SIZE = "34pt"
-CHAPTER_TITLE_SIZE = "17pt"
+CHAPTER_KICKER_SIZE = "10.5pt"           # "Chapter One" / "Interlude" label
+CHAPTER_TITLE_SIZE = "26pt"              # the chapter's name — the dominant heading
+CHAPTER_DATELINE_SIZE = "11.5pt"         # the year, now a subtitle under the title
 SUBHEAD_SIZE = "10.5pt"
 RUNNING_HEAD_SIZE = "8.5pt"
 FOLIO_SIZE = "9.5pt"
+
+# Spelled-out numbers for the 11 non-interlude chapters ("Chapter One", not
+# "Chapter 1") — interludes get the "Interlude" kicker instead of a number,
+# so this only needs to run as far as the book has numbered chapters.
+CHAPTER_NUMBER_WORDS = [
+    "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine",
+    "Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen",
+    "Seventeen", "Eighteen", "Nineteen", "Twenty",
+]
 
 SCENE_BREAK_MARK = "*&#8195;*&#8195;*"   # em-space separated asterisks
 
@@ -145,7 +155,11 @@ h1 + p, h2 + p, .epigraph + p, .scene-break + p, .chapter-start + p {{
 .contents ol {{ list-style: none; margin: 0 0.25in; padding: 0; }}
 .contents li {{ margin-bottom: 0.55em; font-size: 10.5pt; }}
 .contents a {{ text-decoration: none; color: black; }}
-.contents .toc-year {{ display: inline-block; width: 3.2em; }}
+.contents .toc-num {{
+    display: inline-block; width: 4.9em; padding-right: 0.4em;
+    color: #555; font-size: 9.5pt; font-variant: small-caps;
+    letter-spacing: 0.06em;
+}}
 .contents a::after {{
     content: leader(" . ") target-counter(attr(href), page);
 }}
@@ -153,19 +167,18 @@ h1 + p, h2 + p, .epigraph + p, .scene-break + p, .chapter-start + p {{
 /* ----------------------------------------------------------- chapters -- */
 section.chapter {{ page-break-before: right; }}
 section.chapter > .chapter-head {{ page: chapter-opener; }}
-.chapter-year {{
-    text-align: center; font-size: {CHAPTER_YEAR_SIZE}; color: #555;
-    margin: 1.15in 0 0.12in 0; letter-spacing: 0.08em;
+.chapter-kicker {{
+    text-align: center; font-variant: small-caps; letter-spacing: 0.28em;
+    font-size: {CHAPTER_KICKER_SIZE}; color: #666; margin: 1.15in 0 0.5in 0;
 }}
-.interlude-label {{
-    text-align: center; font-variant: small-caps; letter-spacing: 0.32em;
-    font-size: 9pt; color: #666; margin: 1.0in 0 0 0;
-}}
-.interlude .chapter-year {{ margin-top: 0.12in; font-size: 24pt; }}
 h1.chapter-title {{
     text-align: center; font-size: {CHAPTER_TITLE_SIZE}; font-weight: normal;
-    font-variant: small-caps; letter-spacing: 0.14em; margin: 0 0 0.55in 0;
+    letter-spacing: 0.01em; margin: 0 0 0.2in 0; line-height: 1.2;
     string-set: chaptertitle content();
+}}
+.chapter-dateline {{
+    text-align: center; font-size: {CHAPTER_DATELINE_SIZE}; font-style: italic;
+    color: #666; margin: 0 0 0.55in 0; letter-spacing: 0.04em;
 }}
 .epigraph {{
     margin: 0 0.55in 0.55in 0.55in; font-size: 9.5pt; line-height: 1.55;
@@ -232,7 +245,10 @@ def render_epigraph(epigraph_markdown):
     return f'<div class="epigraph">{html}</div>'
 
 
-def render_chapter(index, chapter_text):
+def render_chapter(index, chapter_text, chapter_number):
+    """chapter_number is the spelled-out ordinal (e.g. "One") for a numbered
+    chapter, or None for an interlude, which gets the "Interlude" kicker
+    instead of a number."""
     text = chapter_text.lstrip()
     is_interlude = text.startswith(INTERLUDE_MARKER)
     if is_interlude:
@@ -245,13 +261,13 @@ def render_chapter(index, chapter_text):
     body_html = style_scene_breaks(markdown_to_html(body.split("\n", 1)[1]))
     epigraph_html = render_epigraph(epigraph) if epigraph else ""
     section_class = "chapter interlude" if is_interlude else "chapter"
-    label_html = '<div class="interlude-label">Interlude</div>' if is_interlude else ""
+    kicker = "Interlude" if is_interlude else f"Chapter {chapter_number}"
     return year, title, is_interlude, (
         f'<section class="{section_class}" id="ch-{index}">'
         f'<div class="chapter-head">'
-        f"{label_html}"
-        f'<div class="chapter-year">{year}</div>'
+        f'<div class="chapter-kicker">{kicker}</div>'
         f'<h1 class="chapter-title">{title}</h1>'
+        f'<div class="chapter-dateline">{year}</div>'
         f"{epigraph_html}"
         f'</div><div class="chapter-start"></div>'
         f"{body_html}</section>"
@@ -279,13 +295,23 @@ def build_html(manuscript_dir, title, subtitle, author):
     book_epigraph = extract_book_epigraph(frontmatter[0].read_text()) if frontmatter else ""
 
     toc_rows, chapter_html = [], []
+    numbered_count = 0
     for index, chapter_file in enumerate(chapters, start=1):
+        raw = chapter_file.read_text()
+        is_interlude = raw.lstrip().startswith(INTERLUDE_MARKER)
+        chapter_number = None
+        if not is_interlude:
+            numbered_count += 1
+            if numbered_count > len(CHAPTER_NUMBER_WORDS):
+                sys.exit("chapter count exceeds CHAPTER_NUMBER_WORDS — extend the list")
+            chapter_number = CHAPTER_NUMBER_WORDS[numbered_count - 1]
         year, chapter_title, is_interlude, html = render_chapter(
-            index, chapter_file.read_text())
+            index, raw, chapter_number)
         toc_title = f"<em>{chapter_title}</em>" if is_interlude else chapter_title
+        toc_kicker = "Interlude" if is_interlude else chapter_number
         toc_rows.append(
-            f'<li><a href="#ch-{index}"><span class="toc-year">{year}</span>'
-            f"{toc_title}</a></li>"
+            f'<li><span class="toc-num">{toc_kicker}</span>'
+            f'<a href="#ch-{index}">{toc_title}</a></li>'
         )
         chapter_html.append(html)
 
@@ -295,7 +321,8 @@ def build_html(manuscript_dir, title, subtitle, author):
         heading = re.match(r"#\s+(.+)", appendix_file.read_text())
         label = heading.group(1).split(":")[0] if heading else appendix_file.stem
         toc_rows.append(
-            f'<li><a href="#bm-{index}"><span class="toc-year">&nbsp;</span>{label}</a></li>'
+            f'<li><span class="toc-num">&nbsp;</span>'
+            f'<a href="#bm-{index}">{label}</a></li>'
         )
 
     return f"""<!DOCTYPE html>
