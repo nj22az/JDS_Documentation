@@ -304,6 +304,17 @@ through relatives and consequences, never by name outside their own chapter:
   It proves nothing. It is very nearly an admission") — kept in-scene, NOT added to the §XI
   list (saturation). His final "You," now reprises his own opening word.
 
+- **1888 §XII — Anders (2026-07-03, author-directed).** Su's husband: a Swedish sailor off the
+  timber ships, father from Gothenburg, mother born on a Trinidad sugar estate to a family
+  shipped from Calcutta under indenture "in the years after the Company died" — the machine
+  renamed, the ships unchanged (plugs straight into the rebranding thesis; honest history,
+  indenture began 1845). Payoffs: Liz's "grief has a floor and walls in Swedish" (§II) lands —
+  Su marries into the language; the asks-nothing marriage rhymes with Daniel-and-Nell without
+  verbatim echo; the slack-tide Sunday row gives the river its one hour "with nothing owing in
+  it either direction." One touch, §XII only; 2019's Bow descendant silently gains the mixed
+  lineage with no text change. REJECTED from the same suggestion set: mother descended from a
+  1600 charter merchant (load-bearing coincidence; unnecessary — the indenture link is real).
+
 **HARD GUARD (updated 2026-07-03):** nothing in any chapter may confirm or deny that Cray was
 the author of the five Whitechapel murders. What IS on-page fact since the strengthening pass:
 he attacked one unnamed woman on the night he died, witnessed by Su — a one-night attacker,
