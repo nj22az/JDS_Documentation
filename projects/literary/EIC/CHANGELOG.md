@@ -4,6 +4,28 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-03] (1888 strengthening pass — Kit, the rescue, the tilt)
+
+### Changed
+- Ch12 §V: Kit — Su's brother, dead of fever 1881; Cray's
+  deniable wrongdoing (came in the morning, counted the fee,
+  wrote "fever") set against the potboy kindness.
+- Ch12 §IX rewritten: Su interrupts Cray mid-attack on an unnamed
+  woman (suppression phase, case shut); the woman flees nameless;
+  the fight beats retained. "Never first" now literal — the fight
+  was started before she reached it, and not by her.
+- Ch12 §X: clasp stakes recut for the witnessed attack; new "Why
+  is weightless" paragraph — her reason stated plainly (he was
+  killing a woman when she reached him), the five left unknowable.
+- Ch12 §VI/§XI: evidence tilted to ~90/10 reader conviction —
+  the laundry that never came in, the early-leaving dates with
+  one pairing that will not lie flat. Everything still "fits,
+  and proves nothing."
+- Ch12 §VIII: Kit's debt named as the entry she scratches out
+  first, per the rules.
+- Craft plan §3e bullet + hard guard updated (one-night attacker
+  is on-page fact; the five never attach).
+
 ## [2026-07-02] (opening clarity — author feedback)
 
 ### Changed

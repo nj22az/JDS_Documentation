@@ -257,9 +257,29 @@ through relatives and consequences, never by name outside their own chapter:
   through her. **No third touch** — 2019's languages line already carries the family's
   Cantonese; the runner is never called a Lascar (that word belongs to 1770/2019).
 
-**HARD GUARD:** nothing in any chapter may confirm or deny that Cray was the Ripper. The 1858
-cameo shows calm and habit only. Su's family appears named only in 1888; everywhere else they
-are recognizable, never labelled.
+- **1888 — the strengthening pass (2026-07-03, author-directed).** Three changes, all inside
+  ch12: **(a) Kit** — Su's little brother, dead of fever winter 1881 aged seven; Cray, sent for
+  at night, came in the morning, unhurried, counted the fee, wrote *fever*; not murder, not even
+  parish-neglect — the same man who climbed two flights free for the potboy. §V carries the full
+  story; §VIII names Kit's debt as "the entry she scratches out first" (real, owed, and exactly
+  the kind the rules forbid her to collect). **(b) The rescue** — §IX rewritten: Su's planned
+  interception is repealed by the lane; she interrupts Cray mid-attack (suppression phase, no
+  blade shown, case shut on the ground), the woman flees nameless, the fight then runs as
+  before. **Why is now weightless** (§X states it plainly): he was killing a woman when she
+  reached him; the work is for ending a fight already started. Her lifetime question is no
+  longer "did I kill an innocent?" but "did I stop THE monster or only a common one?"
+  **(c) The tilt** — reader conviction moved to ~90/10 without on-page proof: the laundry
+  detail (fifteen years, never one collar sent in — §VI plant, §XI payoff) and the early-leaving
+  dates with "one pairing she has never been able to make lie flat" (§XI). Everything still
+  "fits, and proves nothing."
+
+**HARD GUARD (updated 2026-07-03):** nothing in any chapter may confirm or deny that Cray was
+the author of the five Whitechapel murders. What IS on-page fact since the strengthening pass:
+he attacked one unnamed woman on the night he died, witnessed by Su — a one-night attacker,
+never the confirmed Ripper. The case stays unopened; the woman stays nameless and never
+surfaces; no future edit may let the five attach to him. The 1858 cameo shows calm and habit
+only. Su's family appears named only in 1888; everywhere else they are recognizable, never
+labelled.
 
 ## 3f. Fourth-wave threads — implemented set + held bank (2026-07-02)
 
