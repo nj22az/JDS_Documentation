@@ -4,6 +4,13 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-03] (brother renamed Lee)
+
+### Changed
+- Su's brother renamed Ming → Lee (author direction), ch12 and
+  craft plan. No collision: the nurseryman James Lee (fuchsia
+  lore, Author's Note) is a different century and context.
+
 ## [2026-07-03] (Su's family 100% Chinese — author direction)
 
 ### Changed
