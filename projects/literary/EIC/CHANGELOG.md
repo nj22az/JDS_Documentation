@@ -4,6 +4,21 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-03] (the grandfather's fan + fog — showdown enhancement)
+
+### Added
+- The 1839 fan becomes an heirloom: §III teaching tool (crossed
+  in the same bundle as the white bowl; splinted the wrists it
+  broke), §IX in Su's left hand, one beat disarming the lancet.
+- Yellow-grey river fog through §IX (tableau + the dogleg).
+- One wordless echo of Hale's "gentlest violence": the wrist-break
+  "would look of all things almost gentle."
+
+### Rejected (from the same suggestion set)
+- Cray Mutiny-madness backstory; "she had stopped the monster";
+  the three-second fight; the trophy rationale for the unopened
+  case.
+
 ## [2026-07-03] (the showdown fleshed out)
 
 ### Changed
