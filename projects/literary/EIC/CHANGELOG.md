@@ -4,6 +4,18 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-03] (Su's family 100% Chinese — author direction)
+
+### Changed
+- Su's mother is now Sau-Ling Zhang, sent for from Hong Kong
+  "the year the shop could feed two," baptised at the mission
+  church by the docks (preserves "her mother's God kept books"
+  and the fast-days simile). Mary O'Connell removed.
+- The brother renamed Kit → Ming (all ch12 occurrences + craft
+  plan).
+- Wei's crossing meal line: "Irish cooking" → "twenty years of
+  her cooking."
+
 ## [2026-07-03] (1888 strengthening pass — Kit, the rescue, the tilt)
 
 ### Changed

@@ -258,10 +258,10 @@ through relatives and consequences, never by name outside their own chapter:
   Cantonese; the runner is never called a Lascar (that word belongs to 1770/2019).
 
 - **1888 — the strengthening pass (2026-07-03, author-directed).** Three changes, all inside
-  ch12: **(a) Kit** — Su's little brother, dead of fever winter 1881 aged seven; Cray, sent for
+  ch12: **(a) Ming** — Su's little brother, dead of fever winter 1881 aged seven; Cray, sent for
   at night, came in the morning, unhurried, counted the fee, wrote *fever*; not murder, not even
   parish-neglect — the same man who climbed two flights free for the potboy. §V carries the full
-  story; §VIII names Kit's debt as "the entry she scratches out first" (real, owed, and exactly
+  story; §VIII names Ming's debt as "the entry she scratches out first" (real, owed, and exactly
   the kind the rules forbid her to collect). **(b) The rescue** — §IX rewritten: Su's planned
   interception is repealed by the lane; she interrupts Cray mid-attack (suppression phase, no
   blade shown, case shut on the ground), the woman flees nameless, the fight then runs as
