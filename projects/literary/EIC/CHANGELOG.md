@@ -4,6 +4,17 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-03] (theory intake — one line applied, three frames rejected)
+
+### Added
+- Ch10: one Colonel sentence ("The well is news, Captain; the
+  guns are administration...") — the tellability asymmetry as
+  administrative policy, in period voice.
+- Craft plan §5c: standing bar for theory suggestions — theory
+  may sharpen one concrete line in an entitled voice, never
+  appear as vocabulary; simulacrum/Sublime/Benjamin frames
+  documented as already-embodied and rejected as text.
+
 ## [2026-07-03] (the grandfather's fan + fog — showdown enhancement)
 
 ### Added
