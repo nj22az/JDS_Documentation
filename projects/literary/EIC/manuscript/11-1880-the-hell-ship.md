@@ -46,7 +46,7 @@ He lets the bar tell its version. It's mostly right. He doesn't correct the part
 
 ## IV. Smith and Francis
 
-The mate's name is Sydney Smith. Bully, by every account that's reached London — the kind of officer who finds a reason to work a man past reason and calls it discipline. The seaman is John Francis, signed on in Cardiff, willing enough but green at the work, which on a ship like this one is close to an unforgivable sin. Smith rode him from the first week.
+The mate's name is Sydney Smith. Bully, in every account that's come home — the kind of officer who finds a reason to work a man past reason and calls it discipline. The seaman is John Francis, signed on in Cardiff, willing enough but green at the work, which on a ship like this one is close to an unforgivable sin. Smith rode him from the first week.
 
 It comes to a head in a gale in the Indian Ocean. Francis, ordered about twice in the chaos of the storm, disobeys — whether from confusion or defiance, no man telling the story agrees. He comes at the mate with an iron bar. Smith wrenches it away from him and puts it across his skull instead. Three days later, Francis is dead of it.
 
@@ -102,6 +102,6 @@ Nobody in this bar asks what becomes of the family Francis left behind. The news
 
 * * *
 
-## VIII. What the River Carries
+## VIII. What the River Brings Back
 
 Cutty Sark herself is back on the river tonight, moored downstream, home from whatever tramp voyage has occupied her since — nobody at this table has kept close enough track to say which ports, only that she came back under a captain nobody's heard a bad word about yet, which these days counts as good news. She is, by any measure the men in this bar care to use, one of the most beautiful things ever built to cross water. She is also, in the telling that's followed her these two years, a ship men still call cursed, and both of those things are true at the same time without either one cancelling the other out.

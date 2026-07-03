@@ -1,6 +1,6 @@
 # Corrective Action Log
 
-**Last updated:** 2026-06-26
+**Last updated:** 2026-07-03
 
 This log tracks all nonconformances and corrective actions raised under [JDS-PRO-008](../procedures/JDS-PRO-008_corrective-action.md).
 
@@ -11,6 +11,20 @@ This log tracks all nonconformances and corrective actions raised under [JDS-PRO
 *No open corrective actions.*
 
 ## Closed Actions
+
+### CA-2026-011 — Version-check regex silently matched a stale version | CLOSED
+
+| | |
+|---|---|
+| **Date** | 2026-07-03 |
+| **Source** | Full validation run (`jds-validate.py`) during an EIC project session, prompted by "1 small thing to tidy" surfacing on the root-README check |
+| **Description** | Earlier the same session, a genuine three-component patch version (`3.10.1`) was introduced for a small md2book.py fix. The changelog/README version-consistency check used the pattern `(\d+\.\d+)` — exactly two components — which cannot match `## [3.10.1]` or `**Version:** 3.10.1`. Because `re.search` has no end-anchor, it did not fail loudly; it silently skipped past the unmatched three-component heading and matched the next OLDER two-component heading further down the file (`## [3.10]`), reporting that stale version as "consistent" with no warning. Only the root-README check (which has no older fallback line to fall through to) surfaced a warning, and only because it found nothing to match at all. |
+| **Root Cause** | Same class as CA-2026-009: a version-parsing regex too narrow for the actual content, failing silently (via fallthrough to a different match) rather than loudly. Three-component versions are a legitimate versioning choice (patch-level fixes) that the validator's pattern had never been designed to accept. |
+
+**Corrective Action:**
+1. Widened the version pattern to `\d+\.\d+(?:\.\d+)?` in all three places it is parsed (jds/CHANGELOG, jds/README, root README), so `X.Y` and `X.Y.Z` both match correctly at the intended heading.
+2. Bumped JDS to 3.10.2 (this fix) and reconciled all three version locations to match exactly.
+3. Logged here so a future narrowing of the version format (should one ever be needed) checks this precedent first.
 
 ### CA-2026-010 — Whole-repo review sweep (6 parallel agents) | CLOSED
 

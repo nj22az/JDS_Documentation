@@ -717,7 +717,7 @@ He wedges the paper into the gap, back against the old wood, where a hand would 
 
 ## VII. What the River Keeps
 
-By full dark the crowd has mostly gone home, pleased with itself, already turning the afternoon into a story to tell at breakfast. Down on the mud, a cage of iron bars waits empty a little longer, built to hold what's left of a man somewhere the tide will reach twice a day — a reminder, the court called it, for the next captain who thinks a commission is the same thing as a conscience.
+By full dark the crowd has mostly gone home, pleased with itself, already turning the afternoon into a story to tell at breakfast. Down on the mud, a cage of iron bars waits empty a little longer, bound downriver for Tilbury Point, built to hold what's left of a man where the tide will reach him twice a day — a reminder, the court called it, for the next captain who thinks a commission is the same thing as a conscience.
 
 Fenner pays for his ale, leaves before the keeper can say anything else to him, and walks out into the same dark and mud that took a boy named Tom a hundred years before him, indifferent to which of them comes back. He will not use the name Fenner again after tonight. There is a collier leaving on the morning tide that isn't particular about a new hand's papers, and by the time it makes open water he will have a third name ready, the way a man in his trade keeps a spare coat.
 
@@ -861,7 +861,7 @@ Coates says nothing.
 
 There were riots. Parliament banned the cotton — twice, because the Company found a way around the first ban inside a year. And when the second ban actually held, when English weavers finally got their looms back, you know what the Company did? Found new customers. Europe. Africa. The Americas. It didn't lose a shilling. It just stopped needing us.
 
-My father is dead. My mother is dead. The looms are quiet. And the Company that did it is sitting forty miles from here deciding how much of Bengal's rice fields to turn into indigo next year.
+My father's dead. My mother's dead. The looms are quiet. And the Company that did it is sitting forty miles from here deciding how much of Bengal's rice fields to turn into indigo next year.
 
 I didn't know about the weavers, Coates says. Quietly.
 
@@ -979,7 +979,7 @@ Rice. Monsoon came late in sixty-nine, then didn't come at all where it mattered
 
 Bad harvest, the man says. Happens. We had a bad one here in forty and forty-one.
 
-Mulvey's mouth does the thing a smile would do, if a smile were still possible for him, which it isn't. Bad harvest. Yes. And then the Company decided what to do about it. That's the part I came back with.
+Mulvey's mouth makes the shape a smile would make, if a smile were still possible for him, which it isn't. Bad harvest. Yes. And then the Company decided what to do about it. That's the part I came back with.
 
 The bar's gone quieter. Not silent — this is a tavern, not a church — but quieter. Company has that effect in Wapping.
 
@@ -1061,7 +1061,7 @@ Over the principle of the rock, the officer corrects him, cheerfully. Nobody fig
 
 He drinks his second pint, louder now. Men break, he says, almost thoughtful for a second. All of them, eventually — the lads I drag off the street, the Company's men in Bengal, whole provinces, by what your quiet friend there's been saying. Just a question of when.
 
-He finishes, stands, puts on his hat, and leaves — and the bar exhales the way a room exhales when something dangerous has gone out the door.
+He finishes, stands, puts on his hat, and leaves — and the bar exhales the way a room does when something dangerous has gone out the door.
 
 * * *
 
@@ -1320,7 +1320,7 @@ Both things can be true, the old waterman says. Doesn't happen to make either on
 
 He looks round the room then, the way a man does when a thought's occurred to him mid-sentence. Anybody here have kin that sailed on her? No more weight on it than he'd put on asking about the tide table. Ship that size, three years out — somebody in a room this size is bound to have a nephew or a cousin aboard her.
 
-Nobody answers straightaway. Alec Munro's hand goes still around his tankard, and for one long moment the safest thing in the world would be to say nothing at all — to let the question pass the way a hundred questions pass through a bar full of strangers every night. It would cost him nothing. Nobody here knows Davy's name. Nobody would ever connect a quiet man nursing a flat ale to a story about mutiny that hasn't even settled into its final shape yet.
+Nobody answers straightaway. Alec Munro's grip stills on his tankard, and for one long moment the safest thing in the world would be to say nothing at all — to let the question pass the way a hundred questions pass through a bar full of strangers every night. It would cost him nothing. Nobody here knows Davy's name. Nobody would ever connect a quiet man nursing a flat ale to a story about mutiny that hasn't even settled into its final shape yet.
 
 My brother, he says instead. Signed aboard her in Deptford. Three years back.
 
@@ -1370,7 +1370,7 @@ Nobody at the Company table finds this worth further comment. They finish their 
 
 ## VIII. The Flower
 
-There is a plant on the Prospect's south sill this spring, crimson and purple, hanging its flowers like dancers caught mid-curtsey, and it is the only thing in the room tonight with no opinion about Captain Bligh.
+There is a plant on the Prospect's west sill this spring, crimson and purple, hanging its flowers like dancers caught mid-curtsey, and it is the only thing in the room tonight with no opinion about Captain Bligh.
 
 The bar owns the story of it the way it owns all its stories, polished with retelling. Two springs back, a rigger named Doyle came home from the Brazils with a plant in a biscuit-crate, watered the whole way out of his own ration, carried through two storms wedged between his knees — for Peg, his wife, who had asked him once, years before, to bring her back something that wasn't money and wasn't grief. It went on her sill on Anchor Street and flowered like nothing else in England, and half the lane found reasons to walk past it.
 
@@ -1823,7 +1823,7 @@ He lets the bar tell its version. It's mostly right. He doesn't correct the part
 
 ## IV. Smith and Francis
 
-The mate's name is Sydney Smith. Bully, by every account that's reached London — the kind of officer who finds a reason to work a man past reason and calls it discipline. The seaman is John Francis, signed on in Cardiff, willing enough but green at the work, which on a ship like this one is close to an unforgivable sin. Smith rode him from the first week.
+The mate's name is Sydney Smith. Bully, in every account that's come home — the kind of officer who finds a reason to work a man past reason and calls it discipline. The seaman is John Francis, signed on in Cardiff, willing enough but green at the work, which on a ship like this one is close to an unforgivable sin. Smith rode him from the first week.
 
 It comes to a head in a gale in the Indian Ocean. Francis, ordered about twice in the chaos of the storm, disobeys — whether from confusion or defiance, no man telling the story agrees. He comes at the mate with an iron bar. Smith wrenches it away from him and puts it across his skull instead. Three days later, Francis is dead of it.
 
@@ -1879,7 +1879,7 @@ Nobody in this bar asks what becomes of the family Francis left behind. The news
 
 * * *
 
-## VIII. What the River Carries
+## VIII. What the River Brings Back
 
 Cutty Sark herself is back on the river tonight, moored downstream, home from whatever tramp voyage has occupied her since — nobody at this table has kept close enough track to say which ports, only that she came back under a captain nobody's heard a bad word about yet, which these days counts as good news. She is, by any measure the men in this bar care to use, one of the most beautiful things ever built to cross water. She is also, in the telling that's followed her these two years, a ship men still call cursed, and both of those things are true at the same time without either one cancelling the other out.
 
@@ -1992,7 +1992,9 @@ He is precise in his habits. Same stool. Same brandy, never more than two. He is
 
 He is also — and this is the part that will not simplify later, no matter how much later needs it to — kind. Or something that photographs identically to kindness. When the potboy took a fever in the spring, Cray climbed two flights to see him, twice, and charged nothing, and the boy mended. He set a docker's dislocated shoulder once, right there on the bar floor, gently, talking the man through it like weather. He asks after Su's mother's rheumatism with what sounds like real knowledge, and the liniment he recommends actually works. He is polite to the barmaids in a way some of them find courtly and others find difficult to name a reason for disliking. He remembers their names. He watches the room the way a man watches a ledger, totting something up that nobody else can see the columns of.
 
-What the room does not know — because the family has never once said it in English — is that the Zhangs keep an entry of their own on the doctor, eight winters old now. Su's brother Lee, born when she was four, took a fever the winter he was seven — a boy with two languages to be stubborn in and one year of his own mornings in the yard behind him, his stance still all elbows. Her father went himself through the sleet to the doctor's rooms at ten o'clock at night, and stood at the street door, and was told through the housekeeper, the doctor being at his supper, that Dr. Cray would call in the morning. He called in the morning. Unhurried. He looked at Lee for about the length of a pot of tea, said what doctors say when they have decided that the rest is waiting, took his fee from her mother's hand — counted it; her mother is a mild woman who has wished no one harm in her life, and still, eight years on, the counting is the part she cannot forgive — wrote fever in his register, which was true as far as it went, and left. Lee died on the third night. It was not murder. It was not even neglect as the parish counts neglect: a doctor came, the fee was the usual fee, the word in the register was the true word. It was only a man deciding — somewhere behind his eyes, at the street door, through his housekeeper — what a chandler's boy off the Causeway was worth getting cold for. The same man climbed two flights, twice, for the potboy, and charged nothing. Both of those facts are him. In eight years, neither one has ever agreed to cancel the other.
+What the room does not know — because the family has never once said it in English — is that the Zhangs keep an entry of their own on the doctor, eight winters old now. Su's brother Lee, born when she was four, took a fever the winter he was seven — a boy with two languages to be stubborn in and one year of his own mornings in the yard behind him, his stance still all elbows. Her father went himself through the sleet to the doctor's rooms at ten o'clock at night, and stood at the street door, and was told through the housekeeper, the doctor being at his supper, that Dr. Cray would call in the morning. He called in the morning. Unhurried. He looked at Lee for about the length of a pot of tea, said what doctors say when they have decided that the rest is waiting, took his fee from her mother's hand — counted it; her mother is a mild woman who has wished no one harm in her life, and still, eight years on, the counting is the part she cannot forgive — wrote fever in his register, which was true as far as it went, and left. Lee died on the third night.
+
+It was not murder. It was not even neglect as the parish counts neglect: a doctor came, the fee was the usual fee, the word in the register was the true word. It was only a man deciding — somewhere behind his eyes, at the street door, through his housekeeper — what a chandler's boy off the Causeway was worth getting cold for. The same man climbed two flights, twice, for the potboy, and charged nothing. Both of those facts are him. In eight years, neither one has ever agreed to cancel the other.
 
 The family took his rheumatism advice afterward, and takes it still, because it is good advice and the shop cannot afford a feud with the only stethoscope in three streets. Her father said nothing then and has said nothing since, and taught Su her forms that whole winter with a stillness she mistook, at twelve, for calm.
 
@@ -2154,7 +2156,7 @@ Liz used to say that grief in English was only a noise to her — that in Swedis
 
 Kate's bodice stays wrapped in its paper in the back room for years, paid for and never collected, because neither Su nor her mother can bring themselves to unpick the seams and use the cloth. When the shop finally passes to other hands, it goes with Su to her own house, still in its paper. Some accounts are kept open on purpose. It is the only entry in the family's books that both women can read and neither will ever say aloud.
 
-The water took him in without comment. It has never once been asked what it's holding, and it has never once answered.
+The water took him in without ceremony. It has never once been asked what it's holding, and it has never once answered.
 
 ---
 
@@ -2264,7 +2266,7 @@ Global network, he says, like the words taste bad. You think moving cargo across
 
 Didn't say it was new.
 
-You implied it. He orders a pint, drinks half in one go. These docks were built 1803. East India Company. Heard of them?
+You implied it. He orders a pint, sees off half of it in a swallow. These docks were built 1803. East India Company. Heard of them?
 
 Sure. The tea people.
 

@@ -456,6 +456,14 @@ book; use during any full read-through:
 fast reader (would I stop here?), once as the hostile reader (logic, dates, continuity), once
 as the casual reader (do I like being in this room?). Three lenses, one pass each.
 
+## 5b-result. Cold read-through — DONE (2026-07-03)
+
+Full three-lens pass + mechanical sweep completed. Six minor findings, all fixed same day
+(duplicate river section title, "without comment" double-ending, five phrase collisions,
+Tilbury Point, fuchsia sill, one paragraph split). Continuity verified clean: dates, Cache
+inventory vs 2019 discovery, chair (1701→1888) and table (1839→2019) chains, gin stations,
+friction test, arithmetic rule. The draft is submission-ready pending the author's own read.
+
 ## 5c. Theory intake — the standing bar (2026-07-03)
 
 Author supplied four theoretical frames (Žižek subjective/objective violence & tellability;

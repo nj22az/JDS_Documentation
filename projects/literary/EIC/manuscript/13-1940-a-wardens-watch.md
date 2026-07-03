@@ -104,7 +104,7 @@ Global network, he says, like the words taste bad. You think moving cargo across
 
 Didn't say it was new.
 
-You implied it. He orders a pint, drinks half in one go. These docks were built 1803. East India Company. Heard of them?
+You implied it. He orders a pint, sees off half of it in a swallow. These docks were built 1803. East India Company. Heard of them?
 
 Sure. The tea people.
 

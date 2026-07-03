@@ -80,7 +80,7 @@ Both things can be true, the old waterman says. Doesn't happen to make either on
 
 He looks round the room then, the way a man does when a thought's occurred to him mid-sentence. Anybody here have kin that sailed on her? No more weight on it than he'd put on asking about the tide table. Ship that size, three years out — somebody in a room this size is bound to have a nephew or a cousin aboard her.
 
-Nobody answers straightaway. Alec Munro's hand goes still around his tankard, and for one long moment the safest thing in the world would be to say nothing at all — to let the question pass the way a hundred questions pass through a bar full of strangers every night. It would cost him nothing. Nobody here knows Davy's name. Nobody would ever connect a quiet man nursing a flat ale to a story about mutiny that hasn't even settled into its final shape yet.
+Nobody answers straightaway. Alec Munro's grip stills on his tankard, and for one long moment the safest thing in the world would be to say nothing at all — to let the question pass the way a hundred questions pass through a bar full of strangers every night. It would cost him nothing. Nobody here knows Davy's name. Nobody would ever connect a quiet man nursing a flat ale to a story about mutiny that hasn't even settled into its final shape yet.
 
 My brother, he says instead. Signed aboard her in Deptford. Three years back.
 
@@ -130,7 +130,7 @@ Nobody at the Company table finds this worth further comment. They finish their 
 
 ## VIII. The Flower
 
-There is a plant on the Prospect's south sill this spring, crimson and purple, hanging its flowers like dancers caught mid-curtsey, and it is the only thing in the room tonight with no opinion about Captain Bligh.
+There is a plant on the Prospect's west sill this spring, crimson and purple, hanging its flowers like dancers caught mid-curtsey, and it is the only thing in the room tonight with no opinion about Captain Bligh.
 
 The bar owns the story of it the way it owns all its stories, polished with retelling. Two springs back, a rigger named Doyle came home from the Brazils with a plant in a biscuit-crate, watered the whole way out of his own ration, carried through two storms wedged between his knees — for Peg, his wife, who had asked him once, years before, to bring her back something that wasn't money and wasn't grief. It went on her sill on Anchor Street and flowered like nothing else in England, and half the lane found reasons to walk past it.
 

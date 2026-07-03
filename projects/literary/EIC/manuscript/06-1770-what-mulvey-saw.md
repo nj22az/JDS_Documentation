@@ -44,7 +44,7 @@ Rice. Monsoon came late in sixty-nine, then didn't come at all where it mattered
 
 Bad harvest, the man says. Happens. We had a bad one here in forty and forty-one.
 
-Mulvey's mouth does the thing a smile would do, if a smile were still possible for him, which it isn't. Bad harvest. Yes. And then the Company decided what to do about it. That's the part I came back with.
+Mulvey's mouth makes the shape a smile would make, if a smile were still possible for him, which it isn't. Bad harvest. Yes. And then the Company decided what to do about it. That's the part I came back with.
 
 The bar's gone quieter. Not silent — this is a tavern, not a church — but quieter. Company has that effect in Wapping.
 
@@ -126,7 +126,7 @@ Over the principle of the rock, the officer corrects him, cheerfully. Nobody fig
 
 He drinks his second pint, louder now. Men break, he says, almost thoughtful for a second. All of them, eventually — the lads I drag off the street, the Company's men in Bengal, whole provinces, by what your quiet friend there's been saying. Just a question of when.
 
-He finishes, stands, puts on his hat, and leaves — and the bar exhales the way a room exhales when something dangerous has gone out the door.
+He finishes, stands, puts on his hat, and leaves — and the bar exhales the way a room does when something dangerous has gone out the door.
 
 * * *
 

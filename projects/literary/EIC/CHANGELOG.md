@@ -4,6 +4,26 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-03] (cold read-through — six fixes)
+
+### Changed
+- 1880 §VIII retitled "What the River Brings Back" (was a verbatim
+  duplicate of 1940 §VII "What the River Carries").
+- Ch12 ending: "without ceremony" (freed "without comment" for the
+  book's final line).
+- Phrase collisions de-duplicated: "every account that's come
+  home" (1880), "the way a room does" (1770), "sees off half of it
+  in a swallow" (1940), "makes the shape a smile would make"
+  (1770), "grip stills" (1790), landlord's contractions (1757).
+- Kidd's gibbet now "bound downriver for Tilbury Point" (1701).
+- Fuchsia sill reconciled: west sill from 1790 on.
+- Lee paragraph split at "It was not murder" (ch12 §V).
+
+### Verified clean (read-through)
+- All dates, the Cache inventory vs 2019 discovery, chair/table
+  provenance chains, gin stations, exposition-friction test, and
+  the arithmetic rule. No structural findings.
+
 ## [2026-07-03] (husband renamed Erik Johansson)
 
 ### Changed

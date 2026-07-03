@@ -134,7 +134,7 @@ Coates says nothing.
 
 There were riots. Parliament banned the cotton — twice, because the Company found a way around the first ban inside a year. And when the second ban actually held, when English weavers finally got their looms back, you know what the Company did? Found new customers. Europe. Africa. The Americas. It didn't lose a shilling. It just stopped needing us.
 
-My father is dead. My mother is dead. The looms are quiet. And the Company that did it is sitting forty miles from here deciding how much of Bengal's rice fields to turn into indigo next year.
+My father's dead. My mother's dead. The looms are quiet. And the Company that did it is sitting forty miles from here deciding how much of Bengal's rice fields to turn into indigo next year.
 
 I didn't know about the weavers, Coates says. Quietly.
 
