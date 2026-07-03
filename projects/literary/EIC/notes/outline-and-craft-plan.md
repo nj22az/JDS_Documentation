@@ -304,7 +304,7 @@ through relatives and consequences, never by name outside their own chapter:
   It proves nothing. It is very nearly an admission") — kept in-scene, NOT added to the §XI
   list (saturation). His final "You," now reprises his own opening word.
 
-- **1888 §XII — Anders (2026-07-03, author-directed).** Su's husband: a Swedish sailor off the
+- **1888 §XII — Erik Johansson (2026-07-03, author-directed).** Su's husband: a Swedish sailor off the
   timber ships, father from Gothenburg, mother born on a Trinidad sugar estate to a family
   shipped from Calcutta under indenture "in the years after the Company died" — the machine
   renamed, the ships unchanged (plugs straight into the rebranding thesis; honest history,
