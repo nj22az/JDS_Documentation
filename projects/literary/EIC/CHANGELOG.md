@@ -4,6 +4,17 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-03] (Anders — Su's husband, §XII)
+
+### Added
+- Ch12 §XII: Anders, Swedish sailor, mother born to an indentured
+  Calcutta family on a Trinidad estate — "the machine had changed
+  its name by then, but the ships had not changed their business."
+  Liz's Swedish-grief line pays off (Su marries into the
+  language); the asks-nothing marriage; the slack-tide Sunday row.
+  Rejected: charter-merchant ancestry for the mother
+  (load-bearing coincidence).
+
 ## [2026-07-03] (second fan pass — the bonesetter's fulcrum)
 
 ### Changed
