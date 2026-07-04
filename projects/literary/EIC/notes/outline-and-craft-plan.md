@@ -73,27 +73,38 @@ carries, given to whoever's daughter or niece takes over the bar**, the way a tr
 any one person holding it. One light line per appearance is enough — never a revealed twist, just
 the ordinary fact of how the place has always worked.
 
-**(b-i) Margaret "Maggie" Ashby's origin (added 2026-07-03, author-directed pivot).** Ashby is
-now named in full and given a Swedish backstory: Margareta, from a fishing town on the coast
-beyond Gothenburg, crossed at seventeen, married an Englishman named Ashby (a waterman, first
-of the two husbands she buries), kept his name. Regulars who go back far enough call her Maggie
-(Hendricks does, once, at the chapter's close); everyone else knows her only as Ashby. This is
-the deepening the author asked for — real biography for the keeper-line's founder — done as an
-addition to ch01 §II only; no other chapter's "Ashby" references needed to change, since Ashby
-remains her working/legacy name throughout (1701's "the Ashby who first ran this place," 2019's
-"the marks Ashby cut," the Author's Note).
+**(b-i) Margaret "Maggie" Ashby's origin (added 2026-07-03; REVISED 2026-07-03, author-directed
+"enhance Maggie" pass).** SUPERSEDES the earlier "crossed at seventeen, married Ashby first"
+version. Maggie now arrives in London **as an older widow, not a girl of 17.** Full biography:
+Margareta, from a fishing town on the coast beyond Gothenburg, one of nine, raised half in a
+boat (can read a current and a rigging before English — new competence, not combat). Married
+young, for love, a fisherman named **Johan**; they worked the northern water and had a son.
+Johan was taken not by the sea but by a slow wasting sickness (two years); the son then took the
+King's coin in the **Swedish navy**. Widowed and sonless, she crossed to London to start over,
+and there married and buried a **second** husband — the Englishman **Ashby**, a Thames waterman
+lost at a deep-water berth off Africa (~6 years before 1603). **Johan is the first she buried,
+Ashby the second and last;** she keeps Ashby's (English) name because the Swedish life is over.
+Portrait: past forty, weathered, formidable — eyes "blue-grey as a cold tide"; the danger is
+that "she had already taken your measure and found the figure small." **No beauty-inventory, no
+martial beat** (author kept Su's hidden-fighter identity singular). Ripples handled in ch01:
+§II (portrait + biography rewrite), §III (Tom is "the age her own boy is"), §VI (Ashby = second
+husband lost at sea, year fixed to fit; Hendricks now remembers her arriving "a widow… starting
+the back half of a life," not "young"). No other chapter's "Ashby" references change (still her
+working/legacy name: 1701, 2019, Author's Note).
 
-**(b-ii) The silent Ashby–Erik thread (2026-07-03).** Per author direction, Maggie is Erik
-Johansson's ancestor — but the connection is authorial fact, never stated on the page, per the
-book's existing "seasoning never load-bearing" rule and the author's own confirmed choice
-("silent — never stated"). Mechanism (for continuity only, not prose): Maggie's own family
-stayed in Sweden; a younger brother's line, generations later — after Swedish patronymics
-fixed into inherited surnames — becomes "Johansson." Erik descends from that Gothenburg branch,
-not from any English child of Maggie's. The only textual anchor is geographic rhyme: ch01
-places Maggie "on the coast beyond Gothenburg"; ch12 already has Erik's "father was Swedish,
-out of Gothenburg." No character in either chapter ever learns of the other. **Hard guard:**
-no future chapter may have any character state or discover this connection — it stays exactly
-as invisible as the Cache items are to each other.
+**(b-ii) The Ashby–Erik thread — now EXPLICIT (REVISED 2026-07-03, author-directed).** REVERSES
+the earlier "silent / hard guard / never stated" rule at the author's explicit choice ("son as
+the explicit Erik link — makes an invisible thread visible"). New mechanism, now on the page:
+Maggie's Swedish son (son of **Johan** → a **Johansson**) is the ancestral root of **Erik
+Johansson** (ch12 §XII). ch01 §II now carries a proleptic paragraph — in the book's existing
+forward-glance voice (cf. the §V gin prolepsis) — noting that Johan's name "will come back up
+these same river-stairs… Johansson turned English at last, carried home generations down the
+years by a man who will step off a timber boat with a sea-bag of salt-stiff shirts" (deliberate
+echo of ch12 Erik's entrance). Kept tasteful: the prolepsis names the **returning name**, not
+the ch12 marriage — no hard spoiler. Geographic anchor still reinforces it (Maggie "beyond
+Gothenburg"; Erik's father "out of Gothenburg"). The old hard guard is retired; the thread is
+intentionally visible in ch01 and pays off in ch12/ch14. (Optional future touch: a one-line
+echo in ch12 §XII if the author wants the loop closed from the far end too — not done yet.)
 
 **(c) One labor line — for texture, not plot.** Carter the chandler (1626) anchors a second
 thread: Wapping trades ran in families. A later docker can be his descendant, tying the book's

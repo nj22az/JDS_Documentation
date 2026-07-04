@@ -37,17 +37,13 @@ Three years before, on the last day of a dying century, an old woman put her sea
 
 ## II. Margaret Ashby
 
-She runs the place. Owns it, more likely, though nobody asks and she never says. Past forty, hands red from lifting and scrubbing, tough the way the stone in the old churches downriver is tough — and eyes the blue-grey of a cold tide, that missed nothing and let a room know they missed nothing. Not a face men called pretty. A face men were careful around. The dangerous thing about her was never her hands: it was that she had already taken your measure, before you'd got your cloak off, and generally found the figure small. She has buried two husbands and talks about it the way other women talk about the weather. Men die. You pour the ale and sweep the floor and get on with it.
+She runs the place. Owns it, more likely, though nobody asks and she never says. Past forty, hands red from lifting and scrubbing, tough the way the stone in the old churches downriver is tough. She has buried two husbands and talks about it the way other women talk about the weather. Men die. You pour the ale and sweep the floor and get on with it.
 
-Her own crossing is only some years behind her now — she came to this country later than most, and older, a grown woman with a life already spent behind her — and she has worn the story smooth in the telling since, the way a story gets told until it stops hurting and starts being useful instead. Margareta, she was, out of a fishing town on the coast beyond Gothenburg, one of nine, a father who mended nets and a mother who salted herring until her hands were more brine than skin — a girl raised half in a boat, who could read a running current and a badly-set rigging before she could read a word of English, and handle a small craft in foul water the way other girls handled a broom. She married young and for love, which she'll tell you was the one purely foolish thing she ever did and would do again tomorrow: a fisherman named Johan, and the two of them worked the cold northern water together and got a son between them. The sea everyone had warned her about never laid a finger on Johan. A slow rot took him instead, from the inside out, across two bad years; and when the frozen ground finally closed over him the boy was old enough to want a deck of his own, and took the King's coin in the Swedish navy — and that was the house stood empty, husband under the earth and son handed over to the very water she'd spent her whole life braced to lose him to.
-
-She did not stay to keep a house full of ghosts. She took a timber ship south and traded the clean biting ice of home for the coal-smoke and rotting piles of the Thames, on a plain certainty that a harbour city on a great river had to want for something a strong back and a level head could supply. It wanted, as it turned out, for barmaids. And it gave her, in time, a second husband to bury — an Englishman named Ashby, a Thames waterman who took a deep-water berth the winter the river work dried up and did not come back from it, the sea keeping him off the coast of Africa the way it had never once troubled to keep Johan. Ashby was the second, and the last; Johan was the first. She kept Ashby's name the way she'd kept nothing else English easily, because a name is a small thing to hold onto in a country that mangles every other word out of you, and because the Margareta who had answered to a Swedish one belonged to a life that was over. The regulars who go back far enough still call her Maggie, softly, the way you'd use a name that belongs to somebody younger than the woman standing in front of you now. Everybody else has only ever known Ashby, which suits her. Margareta stayed on the northern water. Ashby is who runs a bar.
-
-What she cannot know — what she'd name the cruelest sort of foolishness to let herself think — is that the boy she grieves out of her life tonight, freezing on his Swedish deck, is not the end of Johan's line but the middle of it. His father's name will come back to this same reach of the river, worn soft by the crossing, Johansson turned English at last, carried home generations down the years by a man who will step off a timber boat with a sea-bag of salt-stiff shirts and no notion at all that he is coming home. The river keeps longer accounts than the people who work it. Tonight it is only a woman behind a bar with a Swedish name folded away in a drawer, and a boy on a far deck she has taught herself, most nights, not to wait for.
+Her own crossing is a quarter-century behind her now and she has worn it smooth in the telling, the way a story gets told until it stops hurting and starts being useful instead. Margareta, she was, out of a fishing town on the coast beyond Gothenburg, one of nine, a father who mended nets and a mother who salted herring until her hands were more brine than skin. She came over on a timber ship at seventeen with a cousin's letter and a dead certainty that a harbour city on a great river had to want for something a strong back and a level head could supply. It wanted, as it turned out, for barmaids. She married an Englishman named Ashby within the year — a waterman, gone eleven years now, the first of the two she buried — and kept his name the way she'd kept nothing else English easily, because a name is a small thing to hold onto in a country that mangles every other word out of you. The regulars who go back far enough still call her Maggie, softly, the way you'd use a name that belongs to somebody younger than the woman standing in front of you now. Everybody else has only ever known Ashby, which suits her. Margareta stayed on the boat. Ashby is who runs a bar.
 
 Tonight she is busy. Word has gone round that a ship is in, and where a ship comes in, men follow, and where men follow they want a drink. She moves behind the bar the way a woman moves who has done this ten thousand times — pouring, wiping, taking coin, watching the whole room without seeming to look at any part of it.
 
-He comes in around dusk, shaking rain off a cloak that has seen better years. Young. Twenty, maybe twenty-two — the age her own boy is this winter, or near enough, on whatever cold deck the Swedish crown keeps him. Ink on his fingers. He sits down and orders ale, and she pours it without asking what he wants, which means he has been in before.
+He comes in around dusk, shaking rain off a cloak that has seen better years. Young. Twenty, maybe twenty-two. Ink on his fingers. He sits down and orders ale, and she pours it without asking what he wants, which means he has been in before.
 
 He has a paper in his pocket. He takes it out and smooths it flat on the bar and reads it the way a man reads a letter from someone he loves, or a sentence handed down by a judge.
 
@@ -205,7 +201,7 @@ Eat. You won't eat like this for months. My second husband was at sea — told m
 
 Your second husband.
 
-Died. Six years back now, off Africa. Never found the body. She says it plainly, the way you say a thing that's stopped being painful and simply become fact. That's sailors for you. You learn to pour the drinks and not wait by the window. Funny thing about the water. I spent a whole first marriage braced for it to take a fisherman off me, and a sickness got him instead, in his own bed. Then I marry a riverman — safe as houses, never out of sight of London — and the sea reaches all the way up to Africa for him. It has a humour to it. Just not a kind one.
+Died. Twelve years ago, off Africa. Never found the body. She says it plainly, the way you say a thing that's stopped being painful and simply become fact. That's sailors for you. You learn to pour the drinks and not wait by the window.
 
 Tom eats. Outside, the ships at anchor are dark shapes on darker water, masts swaying, rigging making small sounds like men who cannot sleep.
 
@@ -235,7 +231,7 @@ For the morning, Hendricks says, taking the bottle back. In the Low Countries th
 
 Go and sign your paper, boy.
 
-Goodnight, Maggie, he says on his way past the bar — the only man left in the room who remembers her stepping off a timber boat much like the one that will take Tom, a widow off the northern water starting the back half of a life in a city that couldn't say her name. She doesn't look up from wiping the counter, but something in her shoulders answers him that Ashby never would.
+Goodnight, Maggie, he says on his way past the bar — the only man left in the room who remembers her arriving on a boat much like the one that will take Tom, and young in much the same way. She doesn't look up from wiping the counter, but something in her shoulders answers him that Ashby never would.
 
 At the door he pauses, hand on the latch, and doesn't look back. The cold takes him. The dark and the mud and the river swallow him — the same as they've always been, indifferent to whether he comes back or not.
 
@@ -254,6 +250,7 @@ Ashby is alone. She takes a knife from her apron and scores a small mark into th
 Tom's thimble goes into the same gap, wedged back against the old wood where a notch can't be mistaken for a promise. She doesn't expect to see it collected. She has never once been wrong about that, and doesn't expect this morning to be the first time.
 
 The charter is a piece of paper in a locked room in the City. The Company is two hundred and eighteen names and a warehouse of pepper the market has not yet agreed what to pay for. Whether the next fleet comes back at all, nobody in this bar could say. The ships go out. The boys sign. That's all that's known tonight, and it's all that needs to be.
+
 ---
 
 > **1626**
@@ -1929,7 +1926,7 @@ Mind yourself down there, duchess, she says on her way out, the last Monday of t
 
 ## III. The Work
 
-Her grandfather was a master in Canton. Not a rich man — a man other men came to, which on his street was better than rich. He kept his school until the English gunships came up the Pearl River and the war made the city no place for teaching boys, and then he moved the family to the raw new colony at Hong Kong — a fishing shore the treaties were busily turning into a harbour — and began again in a yard behind a ship-chandler's on the waterfront, where her father grew up learning both trades at once: the art before dawn, and rope, tar and lamp-oil the rest of the day. When the old man died, Wei Zhang buried him on the hillside above the harbour, took ship, and carried both trades to the far end of the world — to London, and to the thin scatter of his own countrymen along its river: a few hundred souls, perhaps, in a city of millions, and of those the merest handful settled and shopkeeping, gathering in ones and twos around the Causeway at Limehouse, where a home for stranded Asian sailors had opened its doors the year before he landed. He was one of that handful a patient man could have counted on his fingers and toes — a Chinese chandler with a Cantonese wife sent for across the world, keeping a shop and a wash-copper on the Causeway among the few Chinese families gathered there, on the same crook of the riverside that fed the Prospect its custom and carried the Company's cargo past every door on it. Which is how a war the Company started over opium came, two generations later, to decide what a girl in Wapping could do with her hands. Sailors who saw such things in the treaty ports came home calling it Chinese boxing, and other words would come later, but her father never used any of them. He called it the work, in the same flat voice he used for the shop's accounts, and he taught it to Su in the yard behind the chandlery from the time she was seven years old, at dawn, before the counter opened, because that was when his own father had taught him.
+Her grandfather was a master in Canton. Not a rich man — a man other men came to, which on his street was better than rich. He kept his school until the English gunships came up the Pearl River and the war made the city no place for teaching boys, and then he moved the family to the raw new colony at Hong Kong — a fishing shore the treaties were busily turning into a harbour — and began again in a yard behind a ship-chandler's on the waterfront, where her father grew up learning both trades at once: the art before dawn, and rope, tar and lamp-oil the rest of the day. When the old man died, Wei Zhang buried him on the hillside above the harbour, took ship, and carried both trades to the far end of the world — to London, and to the thin scatter of his own countrymen along its river: a few hundred souls, perhaps, in a city of millions, and of those the merest handful settled and shopkeeping, gathering in ones and twos around the Causeway at Limehouse, where a home for stranded Asian sailors had opened its doors the year before he landed. He was one of that handful a patient man could have counted on his fingers and toes — a Chinese chandler with a Cantonese wife sent for across the world, keeping a shop and a wash-copper a mile down the river from the Causeway and two streets from the Prospect, close enough to Limehouse to be of that small huddled community and close enough to the Wapping trade to be fed by it. Which is how a war the Company started over opium came, two generations later, to decide what a girl in Wapping could do with her hands. Sailors who saw such things in the treaty ports came home calling it Chinese boxing, and other words would come later, but her father never used any of them. He called it the work, in the same flat voice he used for the shop's accounts, and he taught it to Su in the yard behind the chandlery from the time she was seven years old, at dawn, before the counter opened, because that was when his own father had taught him.
 
 The work is not what the sailors' stories make of it. It is standing in a low horse stance while the wash-copper heats, until her legs shake, and then until they stop shaking, which takes years. It is her forearms meeting the wooden rail, over and over, until bone learns what bone can be asked to bear. It is the laundry itself, though she doesn't understand that for a long time — ten thousand sheets wrung out by hand build a grip no drill can, and her father watches her wring them and says nothing and counts it as training, because it is. Corrections arrive by fan — a plain folded wooden fan, older than her father, that raps an elbow level or presses a knee out of a lazy angle without a word ever being spent; in Canton it had splinted the very wrists it broke, the lane's master being also the lane's bonesetter, and it crossed the ocean in the same bundle as the white bowl. And it is two-person work in the near-dark, her arms crossed against his, learning to read force through touch the way she reads knots by eye: where a push is going before it knows itself, which way a wrist wants to turn, what a shoulder confesses half a second before the hand moves. Listening, her father calls it. By fifteen she can stand in the yard with her eyes shut and tell him, through two crossed wrists, which foot his weight is on.
 
@@ -2228,7 +2225,7 @@ Twenty-nine thousand bombs on the docks since September, she says. And counting.
 
 She opens it again and adds tonight's line. The dock system the Company built — the pepper docks, the tea docks, the engine room of an empire — burning, page by page.
 
-One night in October the wind comes off a burning bond up-river where a gin house kept its stock, and for an hour the smoke over Wapping smells of juniper — the whole parish briefly aromatic, like the inside of a stone bottle — and the docker, sniffing at the door, observes that Jerry has finally hit something London will genuinely miss. It is the only joke anyone makes that week, and it does the work of ten.
+One night in October the wind comes off a burning bond up-river where a gin house kept its stock, and for an hour the smoke over Wapping smells of juniper — the whole parish briefly aromatic, like the inside of a stone bottle — and the old docker, sniffing at the door, observes that Jerry has finally hit something London will genuinely miss. It is the only joke anyone makes that week, and it does the work of ten.
 
 And once, between two nights of bombs, there is a line in the notebook that is not damage. Fuchsia flowering, west sill, it says — because the pot still stands where it has stood for a century and a half, and Hannah carries it down to the cellar at every siren and back up at every all-clear, the one resident of the house with a guaranteed shelter place. Gwen recorded it the way she records everything: once, exactly, without comment. A ledger of destruction is still a ledger. It takes what it's given.
 
@@ -2266,9 +2263,9 @@ He's doing better than he thinks. Still upright. Still talking. Still drinking, 
 
 ## V. The Man Who Remembers
 
-He comes in after the Canadian's been talking an hour. Fifty-odd, though the docks have thrown in another ten for free — built short and wide, with the enormous hands of a man who has spent a working life lifting things not meant to be lifted, and a scar under one eye that a German gave him the last time the world did this.
+He comes in after the Canadian's been talking an hour. Old — sixty-five, seventy, hard to say — built short and wide with the enormous hands of a man who's spent fifty years lifting things not meant to be lifted.
 
-A docker since he was fifteen, when his father walked him down to the water and told him this was his life now — the same walk his own father had once given him, and his before that. He's worked every dock on the river, and so had his father, the whole of a life, until this September — the same month the bombs came — when the old man's chest finally gave out and he clocked out of work and life in the same week, which is the only way his son has ever heard of a docker wanting to go. He buried him three weeks back, in the Limehouse ground where the family has always gone. Nobody in this room knows that tonight, because he has not said it, because saying a thing like that out loud is not the kind of thing his people do. His father drank in this room, so did his grandfather, and his grandfather's grandfather ran a chandler's shop off the Causeway two centuries back, supplying rope and tar to Company ships — a name, Carter, that means nothing to anyone in the room tonight except the docker himself, and even he only remembers it because his mother mentioned it once, in passing, the way families mention names that used to matter and don't anymore.
+A docker since 1918, when he was fifteen and his father walked him down to the water and told him this was his life now. He's worked every dock on the river. Sits next to the Canadian without introducing himself — doesn't need to, everyone here knows him, his father drank in this room, so did his grandfather, and his grandfather's grandfather ran a chandler's shop off the Causeway two centuries back, supplying rope and tar to Company ships — a name, Carter, that means nothing to anyone in the room tonight except the docker himself, and even he only remembers it because his mother mentioned it once, in passing, the way families mention names that used to matter and don't anymore.
 
 He listens to the talk of global networks and supply chains and snorts.
 
@@ -2296,13 +2293,13 @@ The sirens start at quarter to nine. Nobody moves at first. Then the engines get
 
 The first bomb is close. The building doesn't rattle — it shakes. Glasses leap off the shelf and shatter. The blackout paper tears free in strips, and orange light comes through where black should be. The docks, burning again. Or still.
 
-Everyone hits the floor. Even the docker, who's spent weeks insisting he isn't afraid of bombs, who came through the last war and never lets the room forget it — under the table now with the rest of them. The Canadian's curled under the bar making a sound that isn't quite a word. The old laundrywoman from the Causeway — Chinese, seventy-odd, in this bar on Fridays since anyone can remember — does not get under anything. She sits where she sat, back against the wall, eyes closed, hands folded in her lap, and her hands are perfectly still, and the stillness comes off her like heat off a stove, and the corner of the room nearest her is measurably braver for it. Gwen stays at her table, writing through the falling plaster, eyes going to the window between lines — not for the bomb's sake, but for the glow beyond it, checked against the memory of where Peter's crew was working when she last had word, which was two days ago and might as well be two years for all the comfort it gives her now. The record is the one thing keeping her upright while everything else is on the floor. It is also, tonight, the only kind of watching over him she's allowed to do out loud.
+Everyone hits the floor. Even the old docker, who's spent weeks insisting he isn't afraid of bombs, who has a scar from the last war to prove it — under the table now with the rest of them. The Canadian's curled under the bar making a sound that isn't quite a word. The old laundrywoman from the Causeway — Chinese, seventy-odd, in this bar on Fridays since anyone can remember — does not get under anything. She sits where she sat, back against the wall, eyes closed, hands folded in her lap, and her hands are perfectly still, and the stillness comes off her like heat off a stove, and the corner of the room nearest her is measurably braver for it. Gwen stays at her table, writing through the falling plaster, eyes going to the window between lines — not for the bomb's sake, but for the glow beyond it, checked against the memory of where Peter's crew was working when she last had word, which was two days ago and might as well be two years for all the comfort it gives her now. The record is the one thing keeping her upright while everything else is on the floor. It is also, tonight, the only kind of watching over him she's allowed to do out loud.
 
 The bomb lands two streets off — close enough to strip a warehouse roof and every window on this side of the lane. The Prospect stands. Dust sifts from the beams, a shelf of bottles goes over, and the building holds, the way it has through three hundred years of a city trying to fall down around it. Two streets east, a terrace that predates the Company's own dissolution simply isn't there by morning. There's no accounting for which buildings the bombs choose. There never is.
 
 The all-clear sounds, thin as a whistle ending a match nobody won. The regulars get up slowly, brushing plaster from their hair. Hannah comes out from behind the bar with a cut on her cheek she doesn't touch, already counting unbroken bottles. The old laundrywoman is already up and sweeping glass alongside her, wordless, and is gone before anyone can thank her, the way she has always been.
 
-The Canadian crawls out white-faced, nearly falls, and the docker catches his arm and holds him steady — two men who've never met, propping each other up in the dust.
+The Canadian crawls out white-faced, nearly falls, and the old docker catches his arm and holds him steady — two men who've never met, propping each other up in the dust.
 
 First time? the docker says.
 
@@ -2320,13 +2317,14 @@ Nobody in the room tonight knows how many more nights of this are coming. That n
 
 Twenty-nine thousand bombs is tonight's running total in Gwen's notebook — not final, just tonight's. Twenty-nine thousand holes where the Company's docks used to stand: the import dock, the export dock, the lock gates, the warehouses, the crane tracks, the rail lines that carried cargo out to the rest of Britain. Some of it still burning from three nights back. Nobody knows how many more pages the book has left in it.
 
-The docker sits with his pint and says nothing more. It's in his face when he looks east, and it is more than the docks. His father gave that water the whole of his life, and it gave him back a ruined chest and a box in the Limehouse ground and, at the very last, the one mercy of going three weeks before he'd have had to watch it burn. His son has not worked out yet whether that was a kindness or the hardest part of the whole business. Whatever's left of the world his father spent a life on will not look tomorrow the way it looked yesterday, and he has stopped expecting it to. He came in tonight because this is where his father drank, and his grandfather before him, and a man has to carry a grief like this one somewhere the walls are older than the thing he's lost.
+The old docker sits with his pint and says nothing more. It's in his face when he looks east. Whatever's left of the world he spent fifty years working will not look tomorrow the way it looked yesterday, and he's stopped expecting it to.
 
 Gwen closes the notebook. Tonight's entry is finished. She doesn't know yet whether Peter's crew was anywhere near tonight's line, and won't know until he either walks through that door in the morning, soot-blackened and short a few hours' sleep, or doesn't. The book can't tell her that. She keeps it anyway. She doesn't know how many more the war will ask of her and has given up asking herself. She only knows the book has to be kept, night after night, so someone, eventually, can say exactly what happened and when.
 
 This one's nearly full — has been for a week, the last third given over to numbers with barely a person left to hang them on — and ARP headquarters wants it handed in when it is, filed with the others as the official record. Gwen means to hand it in. She's meant to for three nights running. Instead, when it's done, she tucks it into the gap under the bar's far end, the one Hannah showed her once, half-joking — this is where the old stuff goes — and starts the next volume on a headquarters blank instead. Some of what's written in this one is hers alone, Peter's name more than once, in places no ARP report has any business asking after, and she isn't ready yet to hand that part over to anyone's filing cabinet but this building's.
 
 The river doesn't care about any of it. It was here before the Company, before London, and it goes on carrying the ash and the oil slick and the debris of ships that didn't make it, silently, the way it always has. The Thames is not a witness. It's a river. Witnesses remember. Rivers just flow.
+
 ---
 
 > **2019**
@@ -2471,7 +2469,7 @@ On his way out, there's half a second — the hedge fund manager looks up, their
 
 At low tide, on the foreshore below the gallows, the mudlarks work the mud with trowels and licences — hobbyists now, where the trade used to be hunger. One of them comes up the stairs at dusk with the day's take in a tobacco tin and shows Hannah, for the price of a pint, the best of it: clay pipes, a musket flint, a garter buckle. And one coin. Gold, thin as a fingernail, stamped with writing that runs the wrong way and no king's head she knows. Foreign, the mudlark says. Old. Sailor dropped it, probably. Hannah turns it over twice and hands it back, and the river, which has held the question since before this house had glass in its windows, says nothing whatsoever about the others.
 
-Somewhere across the river, in a terraced house in Bow, a great-great-granddaughter of a Causeway chandler and a Swedish sailor off the timber ships keeps three things she has never connected: a fuchsia in the yard that predates every fence around it; the steadiest hands in her school's first-aid course; and, at the back of a wardrobe, a parcel wrapped in paper gone the colour of weak tea — her grandmother's grandmother's, never to be thrown away, never to be opened. She could not tell you why. She keeps it anyway. Some families keep things the way some buildings do. In this part of London it runs in the blood and the brickwork both.
+Somewhere across the river, in a terraced house in Bow, a great-great-granddaughter of a Causeway chandler keeps three things she has never connected: a fuchsia in the yard that predates every fence around it; the steadiest hands in her school's first-aid course; and, at the back of a wardrobe, a parcel wrapped in paper gone the colour of weak tea — her grandmother's grandmother's, never to be thrown away, never to be opened. She could not tell you why. She keeps it anyway. Some families keep things the way some buildings do. In this part of London it runs in the blood and the brickwork both.
 
 The river doesn't care who's drinking and who's carrying tonight. It carries the tea, the gin, the containers, the money, all of it, without preference. That's what rivers do.
 
@@ -2514,6 +2512,7 @@ Outside, the tide is going out. It'll be back in six hours and gone again six af
 Hannah's own drink, when the last lock is turned, is a gin and tonic — a habit she has never once examined — taken standing at the dark window, where the streetlight catches the fuchsia over the door. Quinine, juniper, lime: the empire reduced at last to something a woman can hold in one hand, drunk in ten quiet minutes beneath a flower that crossed the same ocean for love. She rinses the glass and sets it to drain.
 
 The last light goes off over the bar. The building settles, one small private creak in old timber — the sound of something old absorbing, without comment, one more evening it won't be asked about tomorrow.
+
 ---
 
 # Author's Note
@@ -2590,35 +2589,26 @@ The Prospect of Whitby is real, and older than the Company. The tide still runs 
 
 **1800–1839**  The opium trade expands. Indian poppy is forced on China via Canton.
 
-**1829**  Sir Robert Peel founds the Metropolitan Police; the new blue-coated "bobbies" replace the old parish night-watch. They will never quite reach the poorest lanes of the East End — a gap those streets fill themselves, sixty years on, with watch committees of their own.
-
 **1833**  The Charter Act. The Company loses its monopoly on trade but keeps its territory.
 
 **1838**  The Fighting Temeraire passes Wapping under tow to the breakers at Rotherhithe. A painter gets it down.
 
 **1839**  The First Opium War begins. The Royal Navy enforces the Company's drug trade.
 
-**1848**  The junk Keying — the first Chinese vessel to reach Britain — moors on the Thames below Blackwall, and Londoners pay a shilling to board her. Her crew's displays of Chinese boxing are among the first the city has ever seen. Forty years downriver, a Wapping laundress will still be keeping the art.
-
-**1851**  The Great Exhibition opens under Paxton's glass in Hyde Park; six million file past the manufactured wealth of empire. Among the exhibits is the Koh-i-Noor, taken from the Punjab the year before.
-
 **1857**  The Indian Rebellion (Sepoy Mutiny). The Company's rule crumbles.
 
-**1858**  The Government of India Act dissolves the Company; the Crown takes over, and the machine continues under a new name. That same summer the Thames, thick with the city's raw sewage, chokes London in the Great Stink and drives Parliament out of its own chambers — bullying the great sewers into being at last. And that same year aerated tonic water is patented: quinine made just drinkable, and the gin and tonic is born — an anti-malarial ration to keep the empire's men upright in its fever provinces.
-
-**1861**  The Tooley Street Fire. The riverside warehouses south of London Bridge go up — tallow and saltpetre feeding a blaze that burns for the better part of a fortnight, destroys some eleven acres of wharves, and kills James Braidwood, father of the London fire brigade. The docks learn again what they are built of: everything that burns.
+**1858**  The Government of India Act dissolves the Company. The Crown takes over. The machine continues.
 
 **1880**  The clipper Cutty Sark's mate kills a seaman on a voyage to Anjer; her captain, John Wallace, helps the mate escape and later takes his own life. The mate is convicted of manslaughter two years later.
 
 **1888**  The Whitechapel murders terrorise the East End. Five canonical victims between August and November; the killer is never identified.
-
-**1889**  The Great Dock Strike. Tens of thousands of dockers walk out across Wapping and the East End and hold the greatest port on earth still for five weeks, until the owners concede the "dockers' tanner" — sixpence an hour. For once, the men at the bottom set the price.
 
 **1940–1945**  The Blitz. The Company's docks are bombed. The empire's engine room burns.
 
 **1991**  Canary Wharf opens on the old docks. New glass towers rise where Company ships once loaded.
 
 **Present**  The Prospect of Whitby serves craft beer. The machine runs in spreadsheets. The river flows.
+
 ---
 
 # Select Bibliography

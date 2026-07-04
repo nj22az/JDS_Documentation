@@ -4,6 +4,249 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-04] (ch13 — the author's father, carried by the docker; + age-bug fix)
+
+Relocated the personal material (father's death) from Ch14 to **Ch13 (1940)** after a
+full-book read-through judged it the best home (working-class/family/Blitz chapter; the
+docker was a sketch). Adapted fully into period — no hospital, no Örebro. Preserved:
+`_versions/13-...pre-father-beat-2026-07-04.md`. PDF 174 pp.
+
+### Fixed (pre-existing continuity bug)
+- The docker's age was self-contradictory: "sixty-five, seventy… fifty years working" vs
+  "a docker since 1918, when he was fifteen" (~37) vs "a scar from the last war" (WWI vet).
+  Reconciled to **~50, a WWI veteran** — which also lets his father die as a still-working
+  man (the only age at which "clocked out of work and life" fits). Removed "sixty-five,
+  seventy", "fifty years", "since 1918"; the four "old docker" refs → "the docker".
+
+### Added (ch13 §V + §VII)
+- §V: the docker's father — a lifelong docker who "clocked out of work and life in the
+  same week" this September (the father's own truth, adapted), buried "in the Limehouse
+  ground where the family has always gone." The son carries it unspoken. Deepens the docker
+  from a sketch and rhymes with Gwen waiting on her son Peter.
+- §VII: his silence looking east now carries the double loss — his father AND the docks his
+  father gave his life to, both gone in one season; "the one mercy of going three weeks
+  before he'd have had to watch it burn."
+
+## [2026-07-04] (ch14 father beat — TRIED then REVERTED)
+
+Author-directed, personal. A Ch14 §VII beat drawn from a family record (father's death,
+21 Jul 2023) was added, then **reverted at the author's request** — he didn't want Örebro
+named and wasn't happy with the present-day-frame placement. Ch14 restored exactly (174 pp);
+`_versions/14-...pre-father-beat-2026-07-04.md` retained. The material is being **relocated
+to flesh out an earlier chapter** (chapter + treatment TBD with the author). No name/location
+to be used; the transferable core is the working-man's dignified death and "clocked out of
+work and life at the same time."
+
+## [2026-07-04] (full-book continuity read-through — 3 fixes, 2 flags)
+
+Read-through of all 14 chapters + frontmatter + appendices, focused on the seams the
+recent Ch1/Ch12/timeline work touched, plus the keeper line and the ancestry thread.
+Verified consistent: the keeper line (Ashby → trained successors → Hannah; Ch04 confirms
+it's trade-based, "not necessarily bloodline," so Maggie's Swedish-son-only rewrite does
+NOT break it); the Cache items (thimble/Kidd-paper/1940-notebook) pay off in Ch14 §VIII;
+Su reappears as the 1940 "laundrywoman from the Causeway, seventy-odd" (Ch13); dates vs the
+timeline; chapters 03/05/07/08 untouched by any changed thread.
+
+### Fixed (real inconsistency, introduced in the ch12 atmosphere pass)
+- **Ch12 §III geography.** The grounding said the Zhang shop sat "a mile down the river from
+  the Causeway and two streets from the Prospect" — contradicting the book's three "Causeway"
+  references for the family (§V "off the Causeway", Ch13 "from the Causeway", Ch14 "a Causeway
+  chandler"). Rewritten to place the shop **on the Causeway**, on "the same crook of the
+  riverside that fed the Prospect its custom" — keeps the Limehouse-Chinese texture and the
+  Prospect orbit without the contradictory mile. (Supersedes the ch12 atmosphere-pass log note.)
+
+### Changed (thread-completion, discretionary)
+- **Ch1 §II** prolepsis: "come back up these same river-stairs" → "come back to this same reach
+  of the river" (Erik arrives at Su's Causeway shop, not the tavern's stairs).
+- **Ch14 §VII** loop-close: the Bow descendant is now "a great-great-granddaughter of a Causeway
+  chandler **and a Swedish sailor off the timber ships**" — lands the Johan→Johansson→Erik
+  thread (planted Ch1, paid Ch12) in the finale, echoing Ch12's Erik. Trivially reverted.
+
+### Flagged, NOT changed (pre-existing; author's call)
+- **Chair vs table, short leg.** The wonky-furniture motif is a *chair* losing a leg in 1701
+  (Ch04) and "the chair with the too-short back leg" in 1888 (Ch12), but a *table* with a short
+  leg in 2019 (Ch14 §III), "the better part of two centuries." Likely two separate scar-tissue
+  items (Ch14's action is pint-on-table), but the echo/timespan don't perfectly line up.
+- **Two "Causeway chandlers."** Carter (English chandler off the Causeway, Ch02/Ch13 docker's
+  ancestor) and Wei Zhang (Chinese chandler off the Causeway, Ch12). Parallel families, same
+  trade and locale across ~250 years — reads as intentional resonance, but the shared phrase
+  "Causeway chandler" could be conflated by a close reader.
+
+### Build
+- Export re-synced (3 chapters spliced); PDF rebuilt, 174 pp; fix verified absent/present in both.
+
+## [2026-07-03] (timeline appendix — six additions incl. the Gin & Tonic)
+
+Author caught that the Gin & Tonic (established in the 1858 chapter + Author's Note)
+was missing from `appendix-1-timeline.md`. Added it and five other Wapping/London-
+thematic milestones, in the timeline's house style (bold year, 1–3 thematic sentences).
+
+### Added / expanded (appendix-1-timeline.md)
+- **1829** — Peel founds the Metropolitan Police; forward-ties to the 1888 watch committees.
+- **1848** — the junk *Keying* on the Thames; its crew's "Chinese boxing" displays echo the
+  book's term and set up Su. **Date corrected from the author's 1851** — the Keying was in
+  London 1848 (broken up by the mid-1850s), so it was NOT present at the 1851 Exhibition.
+- **1851** — the Great Exhibition (kept as its own accurate entry; the Koh-i-Noor).
+- **1858** (expanded) — India Act + the **Great Stink** (its actual year) + aerated tonic water
+  patented → the **Gin & Tonic** born as an anti-malarial ration. NB: Great Stink belongs here
+  (1858), which is why it was declined for the 1888 river scene (anachronistic there).
+- **1861** — the Tooley Street Fire (Braidwood); thematic setup for the 1940 Blitz chapter.
+- **1889** — the Great Dock Strike ("dockers' tanner"); working-class bookend after 1888.
+
+### Verified
+- Chronological order preserved; PDF rebuilt (174 pp); entries phrase-checked mss↔export.
+- 1858 timeline entry now consistent with ch10 (1858) and the Author's Note.
+
+## [2026-07-03] (ch01 Maggie Ashby enhancement + explicit Erik thread)
+
+From the author's "enhance Maggie" draft, triaged (most of it Ch1 already had). Author
+decisions: weathered/formidable portrait (no beauty-inventory); command-not-combat (no
+martial beat — keeps Su singular); and the big one — the **Swedish son as the explicit
+Erik Johansson ancestral link**, which rewrites Maggie's origin. Full before/after in
+`notes/revision-log-ch01-maggie.md`. Preserved: `_versions/01-1603-...rev-A-pre-maggie-
+2026-07-03.md` (+ export). PDF still 174 pp.
+
+### Changed (ch01)
+- §II portrait: cold-tide eyes, "a face men were careful around," and the command line
+  ("the dangerous thing about her was never her hands…").
+- §II biography **rewritten**: widowed-mother origin — first husband **Johan** (Swedish
+  fisherman, died of illness, not the sea); a son who took the King's coin in the Swedish
+  navy; she crossed to London a widow and married/buried **Ashby** (waterman lost at sea
+  off Africa) as her **second** husband. Adds her Swedish boat-competence. Fixes the old
+  husband-ordering wrinkle.
+- §III: Tom is now "the age her own boy is… on whatever cold deck the Swedish crown keeps him."
+- §VI: Ashby = second husband lost at sea (year fixed); Hendricks remembers her arriving "a
+  widow… starting the back half of a life," not "young."
+
+### Added (ch01)
+- §II proleptic ¶ making the **Johan → Johansson → Erik** thread visible (book's forward-glance
+  voice; echoes ch12 Erik's "sea-bag of salt-stiff shirts" entrance). Names the returning name,
+  not the ch12 marriage.
+
+### Superseded / reversed
+- Prior canon "crossed at seventeen; Ashby the first husband" (CHANGELOG 2026-07-03 craft pivot).
+- Craft-plan **(b-ii)**: the "silent / hard-guard, never state the Ashby–Erik link" rule is
+  formally **reversed** at author direction; the thread is now explicit on the page.
+
+### Declined (author choice)
+- Young-beautiful portrait; Su-like "coiled power"/bare-handed beat; the "butcher/lamb" simile
+  (collides with ch12 Cray; kept Ch1's "run off and join a circus" mother-look).
+
+## [2026-07-03] (ch12 atmosphere & world-building — Rev C → Rev D)
+
+From the author's 11-point enhancement list, triaged. Author decisions: keep the
+disciplined fight (no zigzag); cold-menace river, NO Great Stink (anachronistic for
+1888 + wrong register); Limehouse texture with the shop staying near the Prospect.
+Already-present items (watch committees §I, class-impunity §VII) untouched. Full
+triage + before/after in `notes/revision-log-ch12-supporting-cast.md` (Pass 3).
+Preserved: `_versions/...rev-C-pre-atmosphere-2026-07-03.md` (+ export). Ch12 → 174 pp.
+
+### Added
+- §III: Limehouse-Causeway grounding — Wei one of a handful of settled Chinese
+  shopkeepers around the Causeway (1856 sailors' home); shop "a mile down the river
+  from the Causeway and two streets from the Prospect." Reconciles §V "off the
+  Causeway" with the shop's Prospect-proximity.
+- §IX: market-to-quiet contrast (Shadwell end of the Highway, naphtha flares,
+  costermongers) + the **London Particular** — the pea-souper as coal-and-industry
+  fog AND moral obscurity ("unmakes a city … hands you doubt in their stead").
+
+### Changed
+- §IX river-fall: cold-menace amplification ("black water … the winter ebb hard and
+  cold as a drawn blade"; "indifferent to a pristine surgeon as to anything else it
+  has ever been fed"). Elegiac close preserved; no sewer imagery.
+
+### Declined (author choice)
+- Zigzag fight rollercoaster (breaks Su's "smallest number of moves"); Great Stink
+  grotesque river death (anachronistic; breaks the restrained ending).
+
+### Deferred
+- Marketing/positioning artifact (high-concept pitch, comps, upmarket framing) —
+  offered as a separate `notes/` sheet, pending author go-ahead.
+
+## [2026-07-03] (ch12 showdown reframe — Rev B → Rev C)
+
+Author brief: Su is not a stalker — she was working and stumbled on the crime.
+Cray attacks the witness, underestimates a laundress's strength; her indifference
+breaks him and provokes a fatal, clumsy charge; his own momentum carries him into
+the Thames. Author decisions: ending = full river-fall (no deliberate kill);
+keep §V–VII suspicion, cut only §VIII stalking + §IX ambush. Full before/after in
+`notes/revision-log-ch12-supporting-cast.md` (Pass 2). Preserved before this pass:
+`_versions/12-1888-...rev-B-pre-showdown-2026-07-03.md` and
+`_versions/the-front-row-seat.pre-showdown-2026-07-03.md`. Ch12 11,374 → 11,814 (+440).
+
+### Changed
+- §VIII retitled "Three Nights" → **"Never First"** and rewritten: she keeps the
+  rule by NOT hunting (banks the heat, returns to the laundry). Planted: she now
+  carries her grandfather's fan as a talisman (mirrors her father in the doorway),
+  which is how the fan is on her in §IX without premeditation.
+- §IX opening rewritten: the two-hour ambush, the pre-built plan, and the boning
+  knife are gone. She's walking home from a linen delivery, takes the fog shortcut,
+  and the dropped basket frees the victim.
+- §IX fight rewritten: Cray moves first (seizes her collar, underestimates her);
+  kept the fan-fulcrum "green wood" wrist-break and the two-disables spine. Did
+  NOT add the ribs/knee escalation — held the "smallest number of moves" rule.
+- §IX "afraid" beat expanded: her blankness is the explicit catalyst ("looked at
+  like weather … will not even grant him the tribute of fear").
+- §IX ending rewritten: deliberate knife-kill → **river-fall** (his charge, her
+  sidestep, his momentum over the wharf lip; Woolwich/Princess-Alice callback).
+- §X "The Clasp" reworked for no-body: culpability preserved ("something in her
+  steered the empty air he flung himself into"); the CASE (not a body) goes to the
+  river; Pass-1 Sau-Ling disposal folded in with adjusted evidence.
+
+### Removed
+- Su's premeditation arc (stalking / lying in wait) and the boning knife.
+
+### Verified clean
+- §XI (now quietly ironic — "a madman drowned in the river"), §XII ("took him in
+  without ceremony" now literal), §V–VII suspicion retained, no orphan knife refs,
+  no §IX/§X timeline overlap. Export re-synced and phrase-checked against manuscript.
+
+## [2026-07-03] (ch12 supporting-cast deepening — Rev A → Rev B)
+
+Editorial brief: bring Wei, Sau-Ling, Cray, and Liz/Kate up to Su's depth
+(the "raise the waterline on the supporting hull" note). Deepen interiority
+within the existing spine; no restructure. Full before/after in
+`notes/revision-log-ch12-supporting-cast.md`. Original preserved verbatim at
+`_versions/12-1888-the-watchmans-daughter.rev-A-pre-charwork-2026-07-03.md`.
+Ch12 9,780 → 11,374 words (+1,594). Nothing deleted — all insertions/expansions.
+
+### Added
+- Ch12 §III: present-day "his hands now" ¶ for Wei — rope calluses, tar in the
+  knuckle-seams, cold finding the old breaks his bonesetter father set with the
+  same fan, grip a half-beat slow, wash-copper caulked chandler-fashion (oakum +
+  tar, "the way he would have mended a hull").
+- Ch12 §X: Sau-Ling's silent second disposal — she boils Su's bloodied clothes
+  "past testimony" before the shop opens; laundress-expertise as agency,
+  mirroring Su's river; pays off her §IV creed ("open, at a loss, on purpose").
+- Ch12 §II: Kate's held promise — the slow song she only knows the *front* of,
+  to be finished with the back half fetched from the Kent hop gardens.
+- Ch12 §XII: the song's payoff as an echoing void — Su never learns how "the
+  girl on the quay makes out"; "there are tunes she will only ever know the
+  fronts of."
+
+### Changed (expanded, original text retained inside each)
+- Ch12 §IV (shutters): Wei's vulnerability beat — the stiff high bolt won't come
+  for him; Su drives it home unasked; she registers wordlessly that he is aging
+  and she is now the stronger (cross-stitched to Liz's grief-language idea).
+- Ch12 §IV (Kate's bodice): Sau-Ling's spoken creed — the holy book kept at a
+  loss "on purpose, forever," explicitly the opposite of Wei's must-balance
+  rules (dramatizes the §III "two systems of debt").
+- Ch12 §V (docker's shoulder): one line → full witnessed scene of surgical
+  detachment — "the same nothing" the alley later confirms; plants the "flinch"
+  the §VI Mutiny-dockworker line already pays off; doubles Cray's hands against
+  Wei's ("reads a knot").
+- Ch12 §II (Liz): grief-language exchange made mutual — Su gives back her own
+  untranslatable word; "briefly and exactly, understood." Strengthens the §XII
+  Swedish-marriage payoff.
+
+### Verified clean
+- §VI flinch payoff, §XII "accounts kept open on purpose," §III two-systems,
+  §IX bruise-silence, fan-as-bonesetter, all dates/names/plot facts — no clashes.
+
+### Deferred
+- Book/PDF regenerate (`md2book.py`) and `exports/the-front-row-seat.md` refresh
+  held pending author sign-off.
+
 ## [2026-07-03] (craft pivot — chapter structure + Maggie Ashby)
 
 ### Changed

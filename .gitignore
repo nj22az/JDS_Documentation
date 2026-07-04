@@ -41,3 +41,7 @@ __pycache__/
 
 # safe-to-delete/ is for temporary review files — never commit generated outputs
 safe-to-delete/
+
+# macOS AppleDouble / Finder junk (this volume generates these constantly)
+._*
+.DS_Store
