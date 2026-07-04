@@ -110,8 +110,14 @@ ol.toc .yr { color: var(--muted); font-variant-numeric: tabular-nums; }
 
 
 def ordered_files(manuscript_dir):
-    """Frontmatter, then NN- chapters, then appendices — filename order."""
-    return sorted(manuscript_dir.glob("*.md"))
+    """Frontmatter, then NN- chapters, then appendices — filename order.
+
+    Skips macOS AppleDouble sidecars (._*), which are binary and would crash the
+    UTF-8 read on network/exFAT volumes that create them.
+    """
+    return sorted(
+        p for p in manuscript_dir.glob("*.md") if not p.name.startswith(".")
+    )
 
 
 def parse_meta(path, text):

@@ -76,8 +76,8 @@ the ordinary fact of how the place has always worked.
 **(b-i) Margaret "Maggie" Ashby's origin (added 2026-07-03; REVISED 2026-07-03, author-directed
 "enhance Maggie" pass).** SUPERSEDES the earlier "crossed at seventeen, married Ashby first"
 version. Maggie now arrives in London **as an older widow, not a girl of 17.** Full biography:
-Margareta, from a fishing town on the coast beyond Gothenburg, one of nine, raised half in a
-boat (can read a current and a rigging before English — new competence, not combat). Married
+Margareta, from a small fishing village on the coast outside Stockholm, one of nine, raised half
+in a boat (can read a current and a rigging before English — new competence, not combat). Married
 young, for love, a fisherman named **Johan**; they worked the northern water and had a son.
 Johan was taken not by the sea but by a slow wasting sickness (two years); the son then took the
 King's coin in the **Swedish navy**. Widowed and sonless, she crossed to London to start over,
@@ -101,10 +101,17 @@ forward-glance voice (cf. the §V gin prolepsis) — noting that Johan's name "w
 these same river-stairs… Johansson turned English at last, carried home generations down the
 years by a man who will step off a timber boat with a sea-bag of salt-stiff shirts" (deliberate
 echo of ch12 Erik's entrance). Kept tasteful: the prolepsis names the **returning name**, not
-the ch12 marriage — no hard spoiler. Geographic anchor still reinforces it (Maggie "beyond
-Gothenburg"; Erik's father "out of Gothenburg"). The old hard guard is retired; the thread is
+the ch12 marriage — no hard spoiler. The old hard guard is retired; the thread is
 intentionally visible in ch01 and pays off in ch12/ch14. (Optional future touch: a one-line
 echo in ch12 §XII if the author wants the loop closed from the far end too — not done yet.)
+
+**(b-iii) Johansson family geography — HARD RULE (author-directed 2026-07-04).** In the prose,
+**every** Swedish-origin reference uses exactly one phrase: **"a small fishing village outside
+Stockholm."** Both Maggie/Johan (1603, ch01 §II) and Erik's father (1888, ch12 §XII) share it —
+a clean rhyme that carries the thread. **Never name Gothenburg, Stora Mellösa, or Hjälmaren on
+the page** — the first is wrong; the last two are real (the author's family is from Stora Mellösa
+by Lake Hjälmaren, the Örebro region) but too obscure for a reader, so they stay out of the book.
+No exceptions; supersedes every earlier "Gothenburg" reference.
 
 **(c) One labor line — for texture, not plot.** Carter the chandler (1626) anchors a second
 thread: Wapping trades ran in families. A later docker can be his descendant, tying the book's
@@ -338,7 +345,7 @@ through relatives and consequences, never by name outside their own chapter:
   list (saturation). His final "You," now reprises his own opening word.
 
 - **1888 §XII — Erik Johansson (2026-07-03, author-directed).** Su's husband: a Swedish sailor off the
-  timber ships, father from Gothenburg, mother born on a Trinidad sugar estate to a family
+  timber ships, father from a small fishing village outside Stockholm, mother born on a Trinidad sugar estate to a family
   shipped from Calcutta under indenture "in the years after the Company died" — the machine
   renamed, the ships unchanged (plugs straight into the rebranding thesis; honest history,
   indenture began 1845). Payoffs: Liz's "grief has a floor and walls in Swedish" (§II) lands —

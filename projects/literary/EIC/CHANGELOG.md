@@ -4,6 +4,20 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-04] (Swedish geography corrected — Gothenburg removed)
+
+Author correction: **Gothenburg is wrong and out of the book entirely.** Every
+Swedish-origin reference now uses one phrase — **"a small fishing village outside
+Stockholm"** — shared by Maggie/Johan (Ch01 §II) and Erik's father (Ch12 §XII), which
+also gives the ancestry thread a clean rhyme. Specific real place-names (Stora Mellösa,
+Lake Hjälmaren — the author's actual family region near Örebro) are deliberately kept
+OFF the page as too obscure for a reader. Hard rule recorded in craft plan §(b-iii) and
+in agent memory. Manuscript, compiled export, and HTML verified free of all three names;
+`_versions/` snapshots and older log entries retain "Gothenburg" as historical record.
+Also hardened `scripts/md2web.py` to skip AppleDouble `._*` files (was crashing the build).
+
+---
+
 ## [2026-07-04] (ch13 — the author's father, carried by the docker; + age-bug fix)
 
 Relocated the personal material (father's death) from Ch14 to **Ch13 (1940)** after a

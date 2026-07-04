@@ -59,7 +59,10 @@ collided with canon, so each was put to the author as a fork.
   Johan d. of illness; son to navy mid-teens; she crossed ~7–8 yrs ago; Ashby d. at sea ~6 yrs ago.
 - **Craft plan updated** — notes (b-i) and (b-ii): the origin is revised and the old "silent /
   hard guard, never stated" Erik rule is formally **reversed** (now explicit via the son).
-- Geographic anchor intact: Maggie "beyond Gothenburg"; Erik's father "out of Gothenburg" (ch12).
+- Geographic anchor (REVISED 2026-07-04, author-directed): **Gothenburg removed entirely.** Both
+  Maggie's origin and Erik's father now use the same phrase, "a small fishing village outside
+  Stockholm." No Gothenburg, and no Stora Mellösa/Hjälmaren on the page (reader wouldn't know them)
+  — see craft plan §(b-iii).
 
 ## Export & build
 
