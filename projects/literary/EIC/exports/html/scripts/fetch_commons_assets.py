@@ -334,14 +334,14 @@ def slug_ext(url, content_type=""):
 
 
 def request_json(url):
-    ctx = ssl._create_unverified_context()
+    ctx = ssl.create_default_context()
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=40, context=ctx) as response:
         return json.load(response)
 
 
 def download(url, out):
-    ctx = ssl._create_unverified_context()
+    ctx = ssl.create_default_context()
     content_type = ""
     data = b""
     for attempt in range(2):

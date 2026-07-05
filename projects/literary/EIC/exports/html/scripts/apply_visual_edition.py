@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import html
 import json
 import re
 from pathlib import Path
@@ -276,10 +277,12 @@ def render_index(assets):
 def render_credits(assets):
     rows = []
     for asset in assets.values():
-        if asset.get("source_url"):
-            source = f'<a href="{asset["source_url"]}">{asset.get("commons_title", asset["title"])}</a>'
+        url = asset.get("source_url") or ""
+        if url.startswith(("https://", "http://")):
+            label = html.escape(str(asset.get("commons_title") or asset["title"]))
+            source = f'<a href="{html.escape(url, quote=True)}" rel="noopener noreferrer">{label}</a>'
         else:
-            source = asset.get("source_note", "Generated for this edition")
+            source = html.escape(str(asset.get("source_note", "Generated for this edition")))
         rows.append(
             f'''<article class="credit-item" id="{asset['id']}">
   <img src="{asset['file']}" alt="{asset['alt']}" loading="lazy" decoding="async">
