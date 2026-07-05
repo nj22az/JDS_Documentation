@@ -613,5 +613,31 @@
     "credit": "https://www.britishmuseum.org/collection/object/W_1948-1009-0-69",
     "date": "circa 1615 date QS:P571,+1615-00-00T00:00:00Z/9,P1480,Q5727902",
     "attribution_required": "false"
+  },
+  {
+    "id": "liz-su-laundry",
+    "title": "Long Liz and Su at the laundry counter",
+    "caption": "Long Liz and Su Zhang at the shop counter in Wapping — the two women whose deaths turn the 1888 chapter, before they were names on a list.",
+    "alt": "Painted illustration of two women, an auburn-haired Swede and a Chinese girl with a braid, folding linen at a rain-lit shop counter.",
+    "file": "assets/img/liz-su-laundry.png",
+    "source_url": "",
+    "source_note": "Original illustration created for this edition by the author.",
+    "creator": "Author (AI-assisted illustration)",
+    "date": "2026",
+    "license": "Author-owned illustration",
+    "usage_terms": "Used with permission for this edition"
+  },
+  {
+    "id": "su-cray-alley",
+    "title": "Su and Dr. Cray in the alley",
+    "caption": "Su, her grandfather's fan in her hand and the dropped laundry basket behind her, faces Dr. Cray in the fog off Wapping Wall — the confrontation at the heart of the 1888 chapter.",
+    "alt": "Painted night scene: a young Chinese woman with braids holding a folded fan faces an older top-hatted gentleman on wet cobbles by the Thames, a MURDERS handbill on the wall.",
+    "file": "assets/img/su-cray-alley.png",
+    "source_url": "",
+    "source_note": "Original illustration created for this edition by the author.",
+    "creator": "Author (AI-assisted illustration)",
+    "date": "2026",
+    "license": "Author-owned illustration",
+    "usage_terms": "Used with permission for this edition"
   }
 ]

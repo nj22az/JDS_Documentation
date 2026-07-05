@@ -4,6 +4,33 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-05] (web reader — React reading app + custom illustrations)
+
+Built a static React (Vite + TS) reading edition to replace the plain multi-page
+HTML export — Apple-style: serif reading body, adjustable text size, light/dark/auto,
+cover + contents, reading-progress bar, keyboard nav. Live at
+https://nj22az.github.io/the-front-row-seat/ (source: `reader/`).
+
+### Added
+- `reader/` — versioned app source. Manuscript stays the source of truth:
+  `reader/tools/build_content.py` compiles `manuscript/*.md` → `content.json` and
+  copies the canonical `exports/html/assets/` images into the app. `content.json`,
+  `public/assets/`, `node_modules/`, and `dist/` are generated/ignored (see
+  `reader/README.md` for the two-step build).
+- Two author illustrations wired into the 1888 chapter:
+  `liz-su-laundry.png` (Long Liz + Su at the laundry counter) as the chapter hero,
+  with a new portrait-hero treatment (contained image over a blurred fill, so tall
+  art isn't cropped); `su-cray-alley.png` (the Su/Cray confrontation) as an inline
+  figure at §IX "The Alley". Both registered in `archive-assets.json` and credited
+  to the author.
+
+### Note
+- A first showdown image (`suvscray.png`) supplied earlier was UTF-8-corrupted and
+  unrecoverable; the author re-exported a clean PNG, now `su-cray-alley.png`.
+- Homepage card on nj22az.github.io updated to "read online" copy.
+
+---
+
 ## [2026-07-04] (Swedish geography corrected — Gothenburg removed)
 
 Author correction: **Gothenburg is wrong and out of the book entirely.** Every
