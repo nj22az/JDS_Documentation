@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-import html
 import json
 import re
+from html import escape as html_escape
 from pathlib import Path
 
 
@@ -279,10 +279,10 @@ def render_credits(assets):
     for asset in assets.values():
         url = asset.get("source_url") or ""
         if url.startswith(("https://", "http://")):
-            label = html.escape(str(asset.get("commons_title") or asset["title"]))
-            source = f'<a href="{html.escape(url, quote=True)}" rel="noopener noreferrer">{label}</a>'
+            label = html_escape(str(asset.get("commons_title") or asset["title"]))
+            source = f'<a href="{html_escape(url, quote=True)}" rel="noopener noreferrer">{label}</a>'
         else:
-            source = html.escape(str(asset.get("source_note", "Generated for this edition")))
+            source = html_escape(str(asset.get("source_note", "Generated for this edition")))
         rows.append(
             f'''<article class="credit-item" id="{asset['id']}">
   <img src="{asset['file']}" alt="{asset['alt']}" loading="lazy" decoding="async">
