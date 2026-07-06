@@ -4,6 +4,32 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-06] (tightening pass — Chapters 4 onward)
+
+Full consistency/chronology audit of Ch4–14 in the spirit of the Ch1–3 review.
+**Verified clean:** mortality figures (43/500 = nine-in-ten, consistent), dates and
+period facts (Clive's £234k, the 1773 £1.4m bailout, 342 chests, Bounty's 3,600 miles,
+Lin's 20k chests, the 10.5% dissolution dividend), no modern finance terms in narration,
+clean section numbering in all 14, and the running threads (fuchsia, gin/tonic, Su's
+grandfather → Su, Cray 1858 → 1888). Ch4–14 held up far better than Ch1–3 did — only
+two real fixes:
+
+### Fixed
+- **Keeper-line continuity (Ch5, 1757):** the bar's keepers are framed as a line of
+  women (Maggie → the Hannahs; Ch14 "every keeper… in *her* head"), but 1757 has a male
+  landlord whose maleness is core to his character. Marked him as the exception ("a man
+  this time, which this house has not often been run by"), reconciling it without rewriting
+  him or the Author's Note.
+- **River-refrain de-duplication (Ch6, 1770):** Ch4 and Ch6 both closed on "the river
+  doesn't keep score/count." Kept Ch4's (load-bearing for Kidd's "guilty vs merely useful"),
+  varied Ch6's to the famine's own image ("carries the tenth million as lightly as the first").
+
+### Offered, not done
+- Deeper per-chapter prose line-editing (wordiness/over-explanation) on Ch4–14 — held back
+  rather than churn prose that reads well; available on request per chapter.
+
+---
+
 ## [2026-07-06] (editorial pass on Ch1–3 + Author's Note line)
 
 From a detailed editorial review — tightening chronology and consistency, not adding.

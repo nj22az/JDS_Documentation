@@ -833,7 +833,7 @@ The London Gazette calls it a glorious victory. Three thousand Company troops ag
 
 It is not the whole story. Nobody in this bar knows that yet. Not until the man on the third stool starts talking.
 
-There has been another landlord since the last one. Broad, angry in a way that looks permanent, built into the face — hands like shovels, a voice that carries over every conversation in the room, which is his way of making sure nobody has a conversation he isn't part of. The fire is going. The floor is sticky in the same three places it has always been sticky. Nothing about the room has changed since the last time it didn't matter.
+There has been another landlord since the last one — a man this time, which this house has not often been run by, and the few regulars who go back far enough feel the change without being able to put a name to it. Broad, angry in a way that looks permanent, built into the face — hands like shovels, a voice that carries over every conversation in the room, which is his way of making sure nobody has a conversation he isn't part of. The fire is going. The floor is sticky in the same three places it has always been sticky. Nothing about the room has changed since the last time it didn't matter.
 
 The ships on the river have changed, though. Bigger now. The Company's East Indiamen are the largest merchant vessels in the world, three decks deep, carrying more guns than a naval frigate. The Company started as a room full of men with a piece of paper from a Queen: sail out, buy things, bring them back, sell them for more than you paid. The oldest idea there is. Somewhere along the way it stopped being that. Nobody has quite found the word for what it is now. But it's visible from any window on this stretch of river, the way a storm is visible before it arrives.
 
@@ -1022,7 +1022,6 @@ Outside, a barge moves downstream, lantern swinging, carrying something — ther
 The young man's notebook is full tonight. Whether his employer reads it, whether Parliament does anything with it, isn't a question this room can answer. The landlord has watched notebooks like it leave through that door before, thick with dates and outrage, and he cannot recall the river running an inch slower for any of them.
 
 The last sound in the room is a tankard set down on wood. A small, solid click. The kind a building absorbs without noticing — one more mark among thousands it stopped counting a long time ago.
-
 ---
 
 > **1770**
@@ -1209,8 +1208,7 @@ The Company started as a room full of merchants with a charter and a hope. It is
 
 Ten million does not get smaller with repeating. Hannah puts the chairs up. Wipes the counter down one more time, slower than usual tonight.
 
-Outside, the river is black, carrying whatever the docks put into it the way it always has — grain, revenue, silence, men. It does not keep the count. It never has.
-
+Outside, the river is black, carrying whatever the docks put into it the way it always has — grain, revenue, silence, men. It weighs none of it and carries all of it, the tenth million as lightly as the first. That is a river's whole mercy, and it cannot be told apart from not caring at all.
 ---
 
 > **1774**
