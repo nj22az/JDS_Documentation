@@ -4,6 +4,47 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-06] (editorial pass on Ch1–3 + Author's Note line)
+
+From a detailed editorial review — tightening chronology and consistency, not adding.
+
+### Author's Note
+- Added the author's line: "World history belongs to all of us; no single room, least
+  of all this one, holds more than a corner of it…" (closes the vantage-point paragraph).
+
+### Ch1 (1603) — fixes
+- **Casualty odds reconciled:** every "three in ten" → **nine in ten** (matches the
+  repeated 43-of-500 figure; the old numbers contradicted).
+- **Hendricks's age fixed:** "before your late Queen was a thought in her father's head"
+  (would make him ~70+ in 1603) → "before your Company was so much as a thought in a
+  merchant's head."
+- **VOC timing:** "the year before last" → "last year" (chartered 1602, chapter late 1603).
+- **Fight timing:** "spent an hour learning" → "one bad minute"; "one brave hour" → neutral.
+- **Mara's origin** given one clean Portuguese-world route (Macau/Lisbon/sugar islands),
+  reconciling the concept art without expanding her.
+- Light trims of Wager redundancy; Maggie's backstory split for more air.
+
+### Ch2 (1626) — fixes
+- **Cotton de-anachronised:** the calico panic (Spitalfields riots, bonfires, Parliament
+  bans — a 1690s–1720s event) rewritten to early-stage 1626 ("not enough yet to frighten
+  Parliament… a quarrel for our grandsons"), keeping the India/Surat/cotton pivot.
+- **Daniel's route clarified:** Batavia → Surat → home, cleaner.
+- **"Paperwork" repetition reduced** (varied "charges/questioning" so the word keeps force;
+  the Deposition section now carries the theme).
+- **Maggie's age acknowledged** (~65 in 1626; "slower on her feet than she was a generation
+  back, when a boy named Tom sat at this same bar").
+
+### Ch3 (1696) — fix
+- **Gunsway/Ganj-i-Sawai** made explicit (Gunsway = Wapping's worn-down coinage; the true
+  name kept for the trial/those who've been east).
+
+### Not done (author's call)
+- Ch3 "meet Esther sooner" restructure — left §I intact rather than reshape a strong chapter.
+
+PDF rebuilt (184 pp).
+
+---
+
 ## [2026-07-06] (Foreword simplified + Chapter 2 additions)
 
 ### Changed

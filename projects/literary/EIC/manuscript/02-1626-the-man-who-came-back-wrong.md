@@ -40,7 +40,7 @@ His name is Daniel Vale. Factor for the Company, stationed on one of the Spice I
 
 What he found was the Dutch.
 
-Maggie comes over. Sets a tankard down without asking what he wants — you don't ask a shaking man what he wants, you just put ale in front of him.
+Maggie comes over — slower on her feet than she was a generation back, when a boy named Tom sat at this same bar with a paper in his pocket, though no man in the room has yet found it useful to notice, or would say so if he had. She sets a tankard down without asking what he wants — you don't ask a shaking man what he wants, you just put ale in front of him.
 
 Drink, she says. Not a suggestion.
 
@@ -92,11 +92,11 @@ Water, he says. They used water. And lets the rest of the sentence go where the 
 
 A man by the fire has stopped coughing. Nobody is talking about the price of tar.
 
-Towerson was our head of factory. My superior. They took him first — two days before he broke. Made him watch the rest of it after. He told them there was no plot, that we were merchants, not soldiers. They'd already decided. Orders from Amsterdam. The charges were paperwork. The torture was paperwork. The killing was the actual point.
+Towerson was our head of factory. My superior. They took him first — two days before he broke. Made him watch the rest of it after. He told them there was no plot, that we were merchants, not soldiers. They'd already decided. Orders from Amsterdam. The charges were a formality. The questioning was procedure. The killing was the actual point.
 
 How many? Carter asks.
 
-Ten Englishmen. Beheaded. The Japanese were burned. I wasn't there for it — they'd already shipped me to Batavia as a prisoner. Two years before they let me go. Came back on a Dutch ship. The Company gave me Surat after. A desk and a ledger, where the heat makes you want to die and nobody mentions Amboyna at all.
+Ten Englishmen. Beheaded. The Japanese were burned. I wasn't there for it — they'd shipped me to Batavia first, a prisoner, two years before they let me go. Then the Company gave me Surat: a desk, a ledger, heat enough to make a man want to die, and nobody who would say the word Amboyna out loud. And now home — as if home were a thing a man could still use, once he got back to it.
 
 He drinks. His hands are steadier now — as steady as they're going to get. Something in his face has shifted. Not relief. More like a man who's opened a door he's kept shut a long time and found the room behind it exactly as bad as he remembered.
 
@@ -218,17 +218,13 @@ Company's moving everything to India, he tells the room in general. Spice Island
 
 What money? A dockworker, not looking up from his cup.
 
-Cotton. Carter says it like the man's slow. Indian cotton — light as air, printed in colours that don't wash out. Women in the City can't get enough of it. Calico plain, chintz printed. Comes off the Coromandel coast by the ton, and the price has tripled in ten years. Men are making more off Indian cotton in a decade than their grandfathers made off wool in a lifetime.
+Cotton. Carter says it like the man's slow. Indian cotton — light as air, and it takes a dye the way English cloth never learns to. The great houses have started asking after it by name: calico, they call the plain sort; chintz, the printed. Comes off the Coromandel coast, and the few men who got in early are quietly making fortunes nobody's put a proper figure to yet.
 
-And the weavers? somebody else asks. Spitalfields lot?
+And nobody minds? somebody asks. The weavers, the wool lot?
 
-Furious. Can't compete with it — cheaper, lighter, better, and the women want it regardless. There's been rioting. Bonfires of the stuff in the street. Parliament's talking bans.
+Not yet, Carter says. Not enough of it comes in yet to frighten Parliament, nor to set a Spitalfields man breaking anyone's windows over it — that'll be a quarrel for our grandsons, if the stuff keeps arriving the way it's lately started to. For now it's only enough for men with warehouses to notice, and quiet enough that the noticing is still worth money. Which is exactly the moment to be in it.
 
-They're going to ban cloth?
-
-They're going to try, Carter says. That's what a government does when it can't compete with something — it legislates against it instead. Won't work. The cotton's too good and too cheap.
-
-Behind him, two men are arguing with real heat over whether a barrel of Carter's own tar was short-measured last month, and Carter, mid-sentence about looms and Parliament, breaks off just long enough to shout that it was not short-measured, he weighed it himself, before picking the cotton thread back up without missing a beat.
+Behind him, two men are arguing with real heat over whether a barrel of Carter's own tar was short-measured last month, and Carter, mid-sentence about Coromandel and calico, breaks off just long enough to shout that it was not short-measured, he weighed it himself, before picking the cotton thread back up without missing a beat.
 
 Daniel isn't listening. He's at the end of the bar with Nell, who's come back every evening since that first Friday. She talks. He listens. It suits them. He's eating now. Drinking his ale instead of staring into it.
 
