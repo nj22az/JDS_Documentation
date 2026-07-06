@@ -4,6 +4,31 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-06] (Foreword simplified + Chapter 2 additions)
+
+### Changed
+- **Foreword rewritten** in the author's own plain first-person voice (replacing the
+  Jack London pastiche, which read "too weird"). Draws on the author's real writing
+  (a Marseille bar, a Seoul airport runner, the lake he grew up beside) to frame the
+  book as lived experience laid over real history; disclaims fiction/coincidence;
+  points to the back-matter timeline of real events.
+
+### Added — Ch2 (02-1626)
+- **New §VI "The Deposition":** a Company clerk takes Daniel's testimony and sanitises
+  it in real time ("They drowned us by inches" → "examined with some severity"),
+  mirroring the Amboyna clerk of §IV — both empires' paperwork. Daniel signs; he has
+  been "drowned twice."
+- **Daniel named Daniel Vale;** Pryce's polite-menace line ("The dead are not helped
+  by accuracy, Mr. Vale. The living are sometimes ruined by it").
+- **Sharper Nell entrance:** she has chased the rumours (told he was dead twice, mad
+  once, remarried once), comes anyway, and knows him by his hands before the face.
+- **Carter's calculation** (grief sliding into "what can I do with it"; Daniel withdraws)
+  and the **old Dutch skipper** who quietly leaves after the genever is poured (the
+  river does not sort the guilty from the near-enough). Sections renumbered VI–X.
+- Ch2 3,270 → 4,285 words; book PDF → 184 pp.
+
+---
+
 ## [2026-07-06] (Ch1 "The Wager" fight interlude + reader SEO + character art)
 
 Big Ch1 enhancement per author's detailed spec ("Enhance Tom"), plus reader SEO /
