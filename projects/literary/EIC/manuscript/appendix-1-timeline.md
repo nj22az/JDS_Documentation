@@ -52,19 +52,29 @@
 
 **1800–1839**  The opium trade expands. Indian poppy is forced on China via Canton.
 
+**1829**  Sir Robert Peel founds the Metropolitan Police; the new blue-coated "bobbies" replace the old parish night-watch. They will never quite reach the poorest lanes of the East End — a gap those streets fill themselves, sixty years on, with watch committees of their own.
+
 **1833**  The Charter Act. The Company loses its monopoly on trade but keeps its territory.
 
 **1838**  The Fighting Temeraire passes Wapping under tow to the breakers at Rotherhithe. A painter gets it down.
 
 **1839**  The First Opium War begins. The Royal Navy enforces the Company's drug trade.
 
+**1848**  The junk Keying — the first Chinese vessel to reach Britain — moors on the Thames below Blackwall, and Londoners pay a shilling to board her. Her crew's displays of Chinese boxing are among the first the city has ever seen. Forty years downriver, a Wapping laundress will still be keeping the art.
+
+**1851**  The Great Exhibition opens under Paxton's glass in Hyde Park; six million file past the manufactured wealth of empire. Among the exhibits is the Koh-i-Noor, taken from the Punjab the year before.
+
 **1857**  The Indian Rebellion (Sepoy Mutiny). The Company's rule crumbles.
 
-**1858**  The Government of India Act dissolves the Company. The Crown takes over. The machine continues.
+**1858**  The Government of India Act dissolves the Company; the Crown takes over, and the machine continues under a new name. That same summer the Thames, thick with the city's raw sewage, chokes London in the Great Stink and drives Parliament out of its own chambers — bullying the great sewers into being at last. And that same year aerated tonic water is patented: quinine made just drinkable, and the gin and tonic is born — an anti-malarial ration to keep the empire's men upright in its fever provinces.
+
+**1861**  The Tooley Street Fire. The riverside warehouses south of London Bridge go up — tallow and saltpetre feeding a blaze that burns for the better part of a fortnight, destroys some eleven acres of wharves, and kills James Braidwood, father of the London fire brigade. The docks learn again what they are built of: everything that burns.
 
 **1880**  The clipper Cutty Sark's mate kills a seaman on a voyage to Anjer; her captain, John Wallace, helps the mate escape and later takes his own life. The mate is convicted of manslaughter two years later.
 
 **1888**  The Whitechapel murders terrorise the East End. Five canonical victims between August and November; the killer is never identified.
+
+**1889**  The Great Dock Strike. Tens of thousands of dockers walk out across Wapping and the East End and hold the greatest port on earth still for five weeks, until the owners concede the "dockers' tanner" — sixpence an hour. For once, the men at the bottom set the price.
 
 **1940–1945**  The Blitz. The Company's docks are bombed. The empire's engine room burns.
 

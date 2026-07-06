@@ -182,4 +182,4 @@ The Company started as a room full of merchants with a charter and a hope. It is
 
 Ten million does not get smaller with repeating. Hannah puts the chairs up. Wipes the counter down one more time, slower than usual tonight.
 
-Outside, the river is black, carrying whatever the docks put into it the way it always has — grain, revenue, silence, men. It does not keep the count. It never has.
+Outside, the river is black, carrying whatever the docks put into it the way it always has — grain, revenue, silence, men. It weighs none of it and carries all of it, the tenth million as lightly as the first. That is a river's whole mercy, and it cannot be told apart from not caring at all.
