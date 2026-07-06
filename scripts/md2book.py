@@ -287,12 +287,17 @@ def extract_book_epigraph(frontmatter_text):
 
 
 def build_html(manuscript_dir, title, subtitle, author):
-    files = sorted(manuscript_dir.glob("*.md"))
+    files = sorted(f for f in manuscript_dir.glob("*.md") if not f.name.startswith("."))
     frontmatter = [f for f in files if f.name.startswith("00-")]
+    forewords = [f for f in files if "foreword" in f.name.lower()]
     chapters = [f for f in files if re.match(r"\d\d-\d{4}-", f.name)]
     appendices = [f for f in files if f.name.startswith("appendix-")]
 
     book_epigraph = extract_book_epigraph(frontmatter[0].read_text()) if frontmatter else ""
+    foreword_html = "".join(
+        f'<section class="backmatter foreword">{markdown_to_html(f.read_text())}</section>'
+        for f in forewords
+    )
 
     toc_rows, chapter_html = [], []
     numbered_count = 0
@@ -354,6 +359,7 @@ def build_html(manuscript_dir, title, subtitle, author):
     <ol>{''.join(toc_rows)}</ol>
   </div>
 </div>
+{foreword_html}
 {''.join(chapter_html)}
 {''.join(backmatter_html)}
 </div>

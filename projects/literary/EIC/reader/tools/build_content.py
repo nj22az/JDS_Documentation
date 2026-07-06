@@ -179,7 +179,9 @@ def render_body(body_md, page_key, assets):
 
 
 def meta(page_key, heading):
-    if page_key.startswith("00-"):
+    if "foreword" in page_key:
+        return "Foreword", "", heading
+    if page_key.startswith("00"):
         return "Front Matter", "", heading
     if page_key.startswith("appendix"):
         return "Appendix", "", heading
@@ -203,7 +205,7 @@ def inject_between(text, start, end, payload):
 
 def build_seo(pages, description):
     """Write JSON-LD + a real chapter list into index.html, and a sitemap."""
-    story = [p for p in pages if p["kicker"] != "Front Matter"
+    story = [p for p in pages if p["kicker"] not in ("Front Matter", "Foreword")
              and not p["kicker"].startswith("Appendix")]
 
     jsonld = {
