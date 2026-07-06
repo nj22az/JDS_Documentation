@@ -639,5 +639,57 @@
     "date": "2026",
     "license": "Author-owned illustration",
     "usage_terms": "Used with permission for this edition"
+  },
+  {
+    "id": "tom-maggie-paper",
+    "title": "Tom and Maggie at the bar",
+    "caption": "Tom with the Company's paper and his mother's brass thimble before him, and Maggie beside him — the human heart of the chapter.",
+    "alt": "Painted scene of a young red-bearded man at a tavern table with a document and a small brass thimble, an older woman standing beside him.",
+    "file": "assets/img/tom-maggie-paper.png",
+    "source_url": "",
+    "source_note": "Original character illustration created for this edition by the author.",
+    "creator": "Author (AI-assisted illustration)",
+    "date": "2026",
+    "license": "Author-owned illustration",
+    "usage_terms": "Used with permission for this edition"
+  },
+  {
+    "id": "silas-rook",
+    "title": "Silas Rook",
+    "caption": "Silas Rook — 'Rock' — the Cornish bruiser who brings Mara into the tavern and offers Tom a fight for her debt.",
+    "alt": "Painted portrait of a huge, thick-necked, bearded man in a stained shirt seated with a pewter tankard in a rainy riverside tavern.",
+    "file": "assets/img/silas-rook.png",
+    "source_url": "",
+    "source_note": "Original character illustration created for this edition by the author.",
+    "creator": "Author (AI-assisted illustration)",
+    "date": "2026",
+    "license": "Author-owned illustration",
+    "usage_terms": "Used with permission for this edition"
+  },
+  {
+    "id": "dragons-lad",
+    "title": "A hand off the Red Dragon",
+    "caption": "One of the returned men of the first fleet, converting his wages into ale — forty-three of five hundred came home.",
+    "alt": "Painted portrait of a broad, curly-haired sailor in a black oilskin coat with a stone bottle and tankard in a candlelit tavern.",
+    "file": "assets/img/dragons-lad.png",
+    "source_url": "",
+    "source_note": "Original character illustration created for this edition by the author.",
+    "creator": "Author (AI-assisted illustration)",
+    "date": "2026",
+    "license": "Author-owned illustration",
+    "usage_terms": "Used with permission for this edition"
+  },
+  {
+    "id": "hendricks",
+    "title": "Hendricks, the Dutchman",
+    "caption": "Hendricks, who worked the river before the Company existed and knows what the VOC does east of the Cape.",
+    "alt": "Painted portrait of a weathered, balding older man in a dark coat with a squat stone genever bottle beside him in a riverside tavern.",
+    "file": "assets/img/hendricks.png",
+    "source_url": "",
+    "source_note": "Original character illustration created for this edition by the author.",
+    "creator": "Author (AI-assisted illustration)",
+    "date": "2026",
+    "license": "Author-owned illustration",
+    "usage_terms": "Used with permission for this edition"
   }
 ]

@@ -37,7 +37,7 @@ Three years before, on the last day of a dying century, an old woman put her sea
 
 ## II. Margaret Ashby
 
-She runs the place. Owns it, more likely, though nobody asks and she never says. Past forty, hands red from lifting and scrubbing, tough the way the stone in the old churches downriver is tough — and eyes the blue-grey of a cold tide, that missed nothing and let a room know they missed nothing. Not a face men called pretty. A face men were careful around. The dangerous thing about her was never her hands: it was that she had already taken your measure, before you'd got your cloak off, and generally found the figure small. She has buried two husbands and talks about it the way other women talk about the weather. Men die. You pour the ale and sweep the floor and get on with it.
+She runs the place. Owns it, more likely, though nobody asks and she never says. Past forty, hands red from lifting and scrubbing, tough the way the stone in the old churches downriver is tough — and eyes the blue-grey of a cold tide, that missed nothing and let a room know they missed nothing. Not a face men called pretty. A face men were careful around. The dangerous thing about her was never her hands: it was that she had already taken your measure, before you'd got your cloak off, and generally found the figure small. She has buried two husbands and talks about it the way other women talk about the weather. Men die. You pour the ale and sweep the floor and get on with it. She will take the last farthing off a man who can pay for his drink and press bread on one who can't, and think no more of him for needing it, and dare either of them to remark on the difference.
 
 Her own crossing is only some years behind her now — she came to this country later than most, and older, a grown woman with a life already spent behind her — and she has worn the story smooth in the telling since, the way a story gets told until it stops hurting and starts being useful instead. Margareta, she was, out of a small fishing village on the coast outside Stockholm, one of nine, a father who mended nets and a mother who salted herring until her hands were more brine than skin — a girl raised half in a boat, who could read a running current and a badly-set rigging before she could read a word of English, and handle a small craft in foul water the way other girls handled a broom. She married young and for love, which she'll tell you was the one purely foolish thing she ever did and would do again tomorrow: a fisherman named Johan, and the two of them worked the cold northern water together and got a son between them. The sea everyone had warned her about never laid a finger on Johan. A slow rot took him instead, from the inside out, across two bad years; and when the frozen ground finally closed over him the boy was old enough to want a deck of his own, and took the King's coin in the Swedish navy — and that was the house stood empty, husband under the earth and son handed over to the very water she'd spent her whole life braced to lose him to.
 
@@ -111,7 +111,45 @@ Something flickers under his brightness — a man who knows he's about to do som
 
 * * *
 
-## IV. The Dragon's Lads
+## IV. The Wager
+
+The evening might have stayed an ordinary one. Most of them do.
+
+It stops being ordinary when the door lets in a man who takes up more of it than the frame was built for. Silas Rook — Rock, to the men who have tried to move him and learned better — a Cornish tin-hauler turned ship-breaker turned whatever pays by the day, thick through the neck and chest the way men get who break things for a living, a beard on him like wet rope. The word runs ahead of him the way it does: that he put a lighterman's jaw out at Deptford and laughed while the teeth came; that he killed a Lascar at Gravesend and the matter cost him six shillings to make disappear. The room does the small cold arithmetic a room does, and makes space.
+
+He has a woman with him. He has her by the wrist.
+
+She is young, and — Tom notices it first, and is ashamed of it before the thought has finished — she is beautiful, dark-haired, Lisbon or somewhere south of it in the set of her face. Mara, Rook calls her, when he calls her anything. She owes him passage, he tells the room, cheerful about it, a debt off a ship out of São Tomé; and a debt is a debt, and until it's paid she is his to let out as the debt allows. He has decided the debt allows a great deal. He sets her on a stool by the fire and opens a trade: a coin on the bar buys a man the right to sit her on his knee, or take a kiss off her, or wager the pair of them into a wrestle for the whole of the night. Coins appear. Men laugh. It is the oldest business on the river dressed up as an evening's sport, and the room, having settled its opinion of Rook at the door, lets it run.
+
+Tom watches because she is beautiful. Then Rook's hand closes on her wrist to move her along to the next paying lap, and she turns it in the firelight, and Tom sees the bruising stacked under the torn lace, old under new, the ledger of a thing that has been happening a long while. She does not cry out. She has stopped counting on the room and started counting the doors. And the boy in Tom, the part still looking, goes out like a pinched candle, and something older stands up where it was.
+
+Leave her be, Tom says. It comes out smaller than he wants it to.
+
+Rook looks at him the way you'd look at a stool that had spoken. Then he smiles, because this is better sport than the coins. Buy a turn like an honest man, writer, or fight me for the debt. He says it easily. He has done this before and it has always ended the one way.
+
+Don't be a fool, Tom. Ashby's voice from the bar, low and level. She has seen exactly where this goes. Don't wager over a woman's life.
+
+It isn't a wager, Tom says, and stands.
+
+Rook hits him first, and the room hears it land. Tom goes back over a table and the blood is there at once, hot down his chin. Stay down, Ashby says, and means it. Tom gets up. He grew up beside a millpond in Essex where the mill-boys and the carters' sons settled things behind the granary with fists and mud and whatever a knee could do, and he had been beaten there often enough to have learned the one thing worth the learning: the shape of a big man's certainty — the first rush, the wide swing, the half-second when weight mistakes itself for the whole of the argument. He slips late and ugly and lands a clean thing on the jaw, a blow the room draws breath at, a blow that ought to end it. Rook spits red into the rushes, works his mouth once as though testing a hinge, and comes on smiling with half of it. And there it is, the thing that empties the laughter out of the room: pain is not going to stop this man. Tom is no longer in a fight he can win. He is in a problem he may not get out of alive.
+
+Rook takes him by the throat and drives him back into the bar, lifting him half off his feet, and for a long moment the world shrinks to no air and the reek of the other man. Tom does not go looking for a noble answer. His hand finds Rook's — the big right hand, spread flat on the bar's edge for the leverage — and he hooks two of the fingers over the oak and puts the last of himself into bending them the wrong way until the hand gives with the sound of a green stick breaking. The grip stutters. Half a second. There is ale slicked across the flags where a tankard went over, and Tom has seen it and Rook has not; he sets a heel behind the big man's ankle and lets Rook's own weight finish what Tom has no strength left to do, and Rook goes down — not the way men go down in stories, but heavily, wrong — and the bar's edge finds the side of his head on the way, and the room hears that too.
+
+Rook is not finished. Men like Rook are never quite finished; he is dragging a knee under himself, ruined hand and all, when Ashby ends it for good.
+
+She comes round the bar without hurrying and puts her knife through the sleeve of his sound arm into the wood, pinning it, and bends so only the near tables catch it. The debt's mine now, she says. I've bought it off you — here's the price. She sets a single coin on the bar by his pinned wrist. The girl sleeps upstairs tonight. Any man who cares to argue it can find me in daylight, sober, and see how far he gets. She works the knife loose. Rook does the arithmetic she is holding out to him, through the pain and the blood, and being a man who has understood force his whole life, he understands hers. He gets up. He goes.
+
+Mara does not thank Tom. She does not give him anything he could warm his hands on afterward. She spits her own blood onto the flags — her mouth is cut too; it was never only the wrist — and asks Ashby, not Tom, where the back stairs are. Ashby tells her. Going past, she gives Tom one look, and it is not love and it is not gratitude; it is only recognition, one animal marking another that did an unlooked-for thing, and then she is up the stairs and gone. She'll be gone again before light, and Ashby knows it, because safety in Wapping is a thing you are lent for a night and never two, and Mara knows that better than anyone left in the room.
+
+Tom is at the bar, shaking too hard to lift the tankard, one eye swelling shut, a tooth loose against his tongue, the split in his lip letting blood faster than he can swallow it. Ashby sets a cloth down in front of him. Not gentle. Not proud.
+
+Hold that to your mouth, she says.
+
+He holds it. And she looks, for a moment, not at him but at the paper lying where he left it on the bar — the Company's paper, tomorrow's signature still folded up inside it. Tom had thought the paper in his pocket was a door out. He has just spent an hour learning what men do with a door when there is a person on the far side of it and the lock is in their hand.
+
+* * *
+
+## V. The Dragon's Lads
 
 The door opens an hour later and the wind brings in noise and cold and the smell of the river at night. Five or six men clump in from the waterfront, loud, salt-stiff, converting their wages into ale as fast as Ashby can pour it. One of them is missing two fingers on his left hand and doesn't seem to have noticed, which tells you something about what he has noticed instead.
 
@@ -147,7 +185,7 @@ And money, she agrees. Money that isn't going to bring back four hundred and fif
 
 * * *
 
-## V. The Dutchman
+## VI. The Dutchman
 
 He comes in later, when the Dragon's men have moved from cloves to a louder argument about something else entirely. The door brings in a wall of cold, the candles gutter, and behind it comes a man who looks carved out of the river itself — broad, short, hands like two enormous mittens of callused flesh, the particular squint of someone who has spent more years looking at horizons than at other people.
 
@@ -157,7 +195,9 @@ He drinks the house ale like everyone else, but there is a squat stone bottle th
 
 He's not popular here. He says things people don't want to hear, at the worst possible moment, and he's usually right.
 
-Tom notices him — Tom notices everyone tonight, the way anxious young men do — and carries his ale down the bar.
+Ashby brings him his pint without being asked and without warmth, which from her is a kind of welcome. You talk too much, Dutchman, she says. Only when the boys are listening too little, Margareta, he answers, and she does not break stride — but something in her jaw takes note of the name the rest of the room has never once heard her called. That name stayed north of the water, she says. Then it has travelled badly, he says, and drinks. They have been doing some version of this for years. She trusts him rather more than she would ever say, which is not far, but is further than she trusts most.
+
+Tom notices him — Tom notices everyone tonight, the way anxious young men do, and the way a boy does when one eye is closing and he wants the room to think he isn't counting the door — and carries his ale down the bar.
 
 You were on the river before the Company. That right?
 
@@ -181,7 +221,7 @@ Not enough, then. More capital than you. Better ships. Better guns. And they are
 
 Lancaster was there, Tom says. He made deals.
 
-Lancaster made deals with men the Dutch have since killed or driven out. He picks his pint back up, and his voice drops — not secrecy, just weariness, the kind that comes from watching the same story play out too many times. I've heard what they do to competitors. From Dutchmen. My own countrymen, who went out rich in their heads and came back with nothing. Or didn't come back.
+Lancaster made deals with men the Dutch have since killed or driven out. He picks his pint back up, and his voice drops — not secrecy, just weariness, the kind that comes from watching the same story play out too many times. I've heard what they do to competitors. From Dutchmen. My own countrymen, who went out rich in their heads and came back with nothing. Or didn't come back. I had a brother go out with them — Pieter, younger than me, full up to the eyes with the islands. He came home rich in nothing but the fever, and spent the last of himself in a lodging house off the Ratcliff road, raving about punishment, about the Company's islands, about a thing he'd watched that he could never get the shape of into words. I never had the whole of it out of him before he went. Enough of it, though. Do not mistake my accent for their flag, boy. A man may know his own countrymen, and know them for wolves.
 
 What do they do?
 
@@ -193,9 +233,11 @@ Three in ten, Hendricks says. That's the number I hear for your Company's men. W
 
 Tom stares at his ale. The brightness has gone out of his face, and what's replaced it isn't fear exactly. It's the look of a man counting backwards from three in ten.
 
+Hendricks looks at him then — really looks, at the eye going black and the lip still weeping where Rook opened it, the whole bruised account of the boy's one brave hour. Whatever he thinks of it, he does not let it warm his face. A big man in a tavern is honest danger, boy, he says. You can see him come. You beat him because he stood where your fist could reach him, and because the ale was on the floor and not in his belly. He takes his one measured pull from the stone bottle, corks it with his thumb. The thing you sign for in the morning does not stand so near. It is never drunk, and it keeps no ale on the floor for you, and it has no hand you can break. That is the whole difference between a fight and a Company. One of the two you can win.
+
 * * *
 
-## VI. The Night Before
+## VII. The Night Before
 
 The evening wears on. The Dragon's men get loud again, the way men do when they've drunk long enough for the fear to surface but not long enough to win. Singing, badly. One of them crying quietly into his ale — the way men cry in bars: not at all, and completely. Somewhere behind them, the snow bet from earlier is being loudly re-litigated — no snow yet, and the man who staked his supper on it is being reminded of this at length and without mercy.
 
@@ -217,7 +259,7 @@ The charter was signed on New Year's Eve, she says. Three years back. Old Queen 
 
 He opens his mouth. Nothing comes out.
 
-What he cannot say — because at twenty-two, in front of this woman, it would sound like a child's answer, and because it is one — is that it was never the pepper. He grew up beside a millpond in Essex, a stretch of brown water a strong man could throw a stone across, and for ten summers it was the ocean. It had serpents in it, off the edges of the maps. There was a pirate cave under the willow roots, and a place on the far bank where — an older cousin swore to it — wreckers had once lit false fires to bring boats onto the stones, the boats being a rowing skiff and the stones being stones. He has wanted, for as long as he has been able to want anything, to come back through a door like this one with salt on his coat and stories no one else in the room could tell. There is no putting that in front of Ashby, next to forty-three men out of five hundred. It is not an answer to anything she has said. It is only the truth.
+What he cannot say — because at twenty-two, in front of this woman, it would sound like a child's answer, and because it is one — is that it was never the pepper. That same brown millpond in Essex, behind the granary where the mill-boys taught him the shape of a fight, had been for ten summers before any of that a stretch of water a strong man could throw a stone across, and the whole of the ocean. It had serpents in it, off the edges of the maps. There was a pirate cave under the willow roots, and a place on the far bank where — an older cousin swore to it — wreckers had once lit false fires to bring boats onto the stones, the boats being a rowing skiff and the stones being stones. He has wanted, for as long as he has been able to want anything, to come back through a door like this one with salt on his coat and stories no one else in the room could tell. There is no putting that in front of Ashby, next to forty-three men out of five hundred. It is not an answer to anything she has said. It is only the truth.
 
 Then, instead of anything he might have said, he does something instead. Reaches into his coat and comes out with the one thing in it worth more than the coat — a plain brass thimble, his mother's, the only piece of her he kept when there was nothing else worth the keeping. He sets it on the bar between them, not quite meeting her eye.
 
@@ -243,7 +285,7 @@ The door closes. Ashby stands still behind the counter. Hendricks finishes his p
 
 He will sign the paper in the morning. He will get on the ship. This is how it works tonight, in this bar, on this river: a boy hears the odds, drinks his ale, and goes anyway. The river does not keep track.
 
-## VII. What Comes After
+## VIII. What Comes After
 
 Morning comes grey and wet. The river is loud enough to hear over the empty bar. Somewhere behind the tavern a cockerel crows — a farmer's bird, or an optimist's; in Wapping the distinction isn't always clear.
 

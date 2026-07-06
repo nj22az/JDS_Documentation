@@ -4,6 +4,47 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-06] (Ch1 "The Wager" fight interlude + reader SEO + character art)
+
+Big Ch1 enhancement per author's detailed spec ("Enhance Tom"), plus reader SEO /
+Safari-translation support and four author character illustrations. Ch1 4,380 → 6,037
+words; PDF → 178 pp.
+
+### Added — Ch1 (01-1603)
+- **New §IV "The Wager":** a violent tavern interlude between Tom's paper (§III) and the
+  Dragon's Lads. **Silas Rook** ("Rock"), a Cornish bruiser, brings in **Mara** (Lisbon
+  via São Tomé) on a passage-debt and wagers sailors over her. Tom's turn from
+  infatuation → shame (the bruised wrist) → resolve ("It isn't a wager"). An ugly,
+  barely-won fight: Rook hits first, fights *through* pain (broken jaw does nothing), Tom
+  wins by mechanics not strength (breaks Rook's hand on the bar edge, ale-slick-floor
+  sweep). **Maggie ends it** (knife through the sleeve, buys the debt, shelters Mara).
+  **Mara keeps agency** — asks Maggie not Tom for the back stairs; one look of recognition,
+  not gratitude; gone by dawn. Quiet close: "Hold that to your mouth" + the paper/door line.
+  The thimble (§VII) remains the true climax.
+- Tom's rough millpond-boy fighting planted in §IV; §VII millpond-as-ocean turned into a
+  callback so the same childhood carries both facets.
+- Maggie contradiction (§II): takes the last farthing off who can pay, presses bread on who can't.
+- Hendricks (§VI): a personal wound (brother **Pieter**, dead of Amboyna-fever raving of
+  "punishment"); the old-familiarity "Margareta" exchange with Maggie; and a post-fight
+  test that shrinks the fight against the Company ("the difference between a fight and a Company").
+- Sections renumbered IV–VIII to accommodate the interlude.
+
+### Added — reader (web app)
+- **SEO:** Book JSON-LD (14 chapters), Open Graph / Twitter cards, canonical, sitemap.xml,
+  and a crawlable in-shell fallback (title + blurb + linked chapter list). **Safari
+  translation:** lang=en + real fallback text so Safari detects English and offers Translate.
+- **Four author character images** wired into Ch1: Tom+Maggie (hero), Silas Rook (§IV),
+  a Red Dragon hand (§V), Hendricks (§VI). Registered + credited in archive-assets.json.
+- Portrait-hero treatment (contained-on-blur) already used for 1888 also applies here.
+- `build_content.py` made repo-portable (parents[2] + EIC_ROOT fallback) and now emits SEO.
+
+### Note
+- Author supplied a full character-art set (Maggie, Tom, Hendricks, Vasco, Silas). "Vasco"
+  is used as an unnamed Red Dragon sailor visual (no new named character, per the spec).
+  The Maggie montage is held (a dedicated crop can be made on request).
+
+---
+
 ## [2026-07-05] (web reader — React reading app + custom illustrations)
 
 Built a static React (Vite + TS) reading edition to replace the plain multi-page

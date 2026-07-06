@@ -9,6 +9,7 @@ injected). Also copies the referenced images into the app's public/assets.
 Run:  python3 tools/build_content.py
 """
 import json
+import os
 import re
 import shutil
 import struct
@@ -42,13 +43,32 @@ def image_size(path: Path):
 # This script lives at  projects/literary/EIC/reader/tools/build_content.py
 #   parents[0] = tools,  parents[1] = reader,  parents[2] = EIC project root.
 APP = Path(__file__).resolve().parents[1]
-EIC = Path(__file__).resolve().parents[2]
+
+
+def _find_eic():
+    """EIC root = parents[2] in the repo; EIC_ROOT env overrides for dev copies."""
+    repo = Path(__file__).resolve().parents[2]
+    if (repo / "manuscript").is_dir():
+        return repo
+    env = os.environ.get("EIC_ROOT")
+    if env and (Path(env) / "manuscript").is_dir():
+        return Path(env)
+    raise SystemExit(
+        "Cannot locate the EIC project root (no manuscript/ found). "
+        "Run from inside the repo, or set EIC_ROOT to the EIC folder."
+    )
+
+
+EIC = _find_eic()
 MANUSCRIPT = EIC / "manuscript"
 HTML_ASSETS = EIC / "exports" / "html" / "assets"
 ASSETS_JSON = HTML_ASSETS / "data" / "archive-assets.json"
 
 OUT_DATA = APP / "src" / "data" / "content.json"
 OUT_PUBLIC = APP / "public" / "assets"
+INDEX_HTML = APP / "index.html"
+SITE_URL = "https://nj22az.github.io/the-front-row-seat/"
+COVER_URL = SITE_URL + "assets/generated/front-row-seat-cover.png"
 
 INTERLUDE = "<!-- interlude -->"
 CHAPTER_WORDS = ["One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight",
@@ -57,7 +77,7 @@ CHAPTER_WORDS = ["One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight",
 # Hero image per page (curated), reused from the illustrated edition.
 HERO = {
     "00-frontmatter": "front-row-seat-cover",
-    "01-1603-the-boy-who-signed": "east-indiaman-cirencester",
+    "01-1603-the-boy-who-signed": "tom-maggie-paper",
     "02-1626-the-man-who-came-back-wrong": "amboyna-massacre",
     "03-1696-the-price-of-a-man": "every-ganj-i-sawai",
     "04-1701-good-for-business": "wapping-old-stairs",
@@ -77,7 +97,7 @@ HERO = {
 }
 
 INLINE = {
-    "01-1603-the-boy-who-signed": [("III. The Boy with the Paper", "eic-coat-of-arms")],
+    "01-1603-the-boy-who-signed": [("IV. The Wager", "silas-rook"), ("V. The Dragon's Lads", "dragons-lad"), ("VI. The Dutchman", "hendricks")],
     "02-1626-the-man-who-came-back-wrong": [("VIII. Cotton", "surat-map-1730"), ("IX. The Walls Get Higher", "surat-warehouse")],
     "03-1696-the-price-of-a-man": [("IV. The Odd Gold", "mughal-gold")],
     "04-1701-good-for-business": [("V. The Sound of It", "captain-kidd-hanging")],
@@ -170,6 +190,82 @@ def meta(page_key, heading):
     return None, year, title  # kicker filled by caller (chapter/interlude counter)
 
 
+def html_escape(s):
+    return (s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+            .replace('"', "&quot;"))
+
+
+def inject_between(text, start, end, payload):
+    """Idempotently replace content between marker comments."""
+    pattern = re.compile(re.escape(start) + r".*?" + re.escape(end), re.S)
+    return pattern.sub(start + payload + end, text, count=1)
+
+
+def build_seo(pages, description):
+    """Write JSON-LD + a real chapter list into index.html, and a sitemap."""
+    story = [p for p in pages if p["kicker"] != "Front Matter"
+             and not p["kicker"].startswith("Appendix")]
+
+    jsonld = {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "The Front-Row Seat",
+        "alternativeHeadline": "Five Centuries of History from the Banks of the Thames",
+        "author": {"@type": "Person", "name": "Nils Johansson"},
+        "inLanguage": "en",
+        "bookFormat": "https://schema.org/EBook",
+        "url": SITE_URL,
+        "image": COVER_URL,
+        "description": description,
+        "numberOfPages": len(story),
+        "hasPart": [
+            {"@type": "Chapter", "position": i + 1,
+             "name": p["title"],
+             "url": SITE_URL + "#/read/" + p["id"]}
+            for i, p in enumerate(story)
+        ],
+    }
+    jsonld_html = ('\n    <script type="application/ld+json">'
+                   + json.dumps(jsonld, ensure_ascii=False) + "</script>\n    ")
+
+    # Fallback: title, blurb, and a real, linked chapter list (crawler + no-JS + Safari lang)
+    items = "\n".join(
+        f'          <li><a href="#/read/{p["id"]}">{html_escape(p["title"])}'
+        + (f' <span>({html_escape(p["year"])})</span>' if p["year"] else "")
+        + "</a></li>"
+        for p in story
+    )
+    fallback = f"""
+      <main lang="en" style="max-width:40rem;margin:0 auto;padding:2rem 1.25rem;font-family:Georgia,serif;line-height:1.6;color:#1d1d1f">
+        <h1>The Front-Row Seat</h1>
+        <p><em>Five Centuries of History from the Banks of the Thames</em></p>
+        <p>An illustrated historical novel by Nils Johansson. The East India Company, the Prospect of Whitby, and the machine that never stops &mdash; told from one riverside tavern on the Thames, across fourteen chapters from 1600 to 2019.</p>
+        <p><a href="#/">Open the interactive reader &rarr;</a></p>
+        <nav aria-label="Chapters">
+          <ol>
+{items}
+          </ol>
+        </nav>
+        <p>If you are reading this, the interactive reader is still loading &mdash; it will replace this page shortly.</p>
+      </main>
+      """
+
+    html = INDEX_HTML.read_text(encoding="utf-8")
+    html = inject_between(html, "<!-- seo:jsonld:start -->", "<!-- seo:jsonld:end -->", jsonld_html)
+    html = inject_between(html, "<!-- seo:fallback:start -->", "<!-- seo:fallback:end -->", fallback)
+    INDEX_HTML.write_text(html, encoding="utf-8")
+
+    sitemap = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        f'  <url><loc>{SITE_URL}</loc><changefreq>monthly</changefreq>'
+        f'<priority>1.0</priority></url>\n'
+        '</urlset>\n'
+    )
+    (APP / "public" / "sitemap.xml").write_text(sitemap, encoding="utf-8")
+    print(f"SEO: index.html patched ({len(story)} chapters), sitemap.xml written")
+
+
 def main():
     assets = load_assets()
     files = sorted(p for p in MANUSCRIPT.glob("*.md") if not p.name.startswith("."))
@@ -232,6 +328,10 @@ def main():
                 shutil.rmtree(dst)
             shutil.copytree(src, dst, ignore=shutil.ignore_patterns("._*"))
     print(f"content.json: {len(pages)} pages, {len(credits)} credits")
+
+    build_seo(pages, out["subtitle"] + ". "
+              "An illustrated historical novel by Nils Johansson, told from the "
+              "Prospect of Whitby on the Thames, across fourteen chapters from 1600 to 2019.")
 
 
 if __name__ == "__main__":
