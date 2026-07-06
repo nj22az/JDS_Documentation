@@ -654,19 +654,6 @@
     "usage_terms": "Used with permission for this edition"
   },
   {
-    "id": "silas-rook",
-    "title": "Silas Rook",
-    "caption": "Silas Rook — 'Rock' — the Cornish bruiser who brings Mara into the tavern and offers Tom a fight for her debt.",
-    "alt": "Painted portrait of a huge, thick-necked, bearded man in a stained shirt seated with a pewter tankard in a rainy riverside tavern.",
-    "file": "assets/img/silas-rook.png",
-    "source_url": "",
-    "source_note": "Original character illustration created for this edition by the author.",
-    "creator": "Author (AI-assisted illustration)",
-    "date": "2026",
-    "license": "Author-owned illustration",
-    "usage_terms": "Used with permission for this edition"
-  },
-  {
     "id": "dragons-lad",
     "title": "A hand off the Red Dragon",
     "caption": "One of the returned men of the first fleet, converting his wages into ale — forty-three of five hundred came home.",
@@ -685,6 +672,19 @@
     "caption": "Hendricks, who worked the river before the Company existed and knows what the VOC does east of the Cape.",
     "alt": "Painted portrait of a weathered, balding older man in a dark coat with a squat stone genever bottle beside him in a riverside tavern.",
     "file": "assets/img/hendricks.png",
+    "source_url": "",
+    "source_note": "Original character illustration created for this edition by the author.",
+    "creator": "Author (AI-assisted illustration)",
+    "date": "2026",
+    "license": "Author-owned illustration",
+    "usage_terms": "Used with permission for this edition"
+  },
+  {
+    "id": "the-wager",
+    "title": "The Wager",
+    "caption": "Silas Rook squares off against Tom in the crowded tavern — Mara bound at the bar, Maggie behind it, the room watching. The confrontation at the heart of §IV.",
+    "alt": "Painted tavern scene: a huge bald bruiser faces a younger man with fists clenched, a bound woman seated at the bar, an older woman behind it, a crowd of onlookers in lamplight.",
+    "file": "assets/img/the-wager.png",
     "source_url": "",
     "source_note": "Original character illustration created for this edition by the author.",
     "creator": "Author (AI-assisted illustration)",
