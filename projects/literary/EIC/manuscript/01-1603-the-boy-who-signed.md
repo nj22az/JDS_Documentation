@@ -18,13 +18,13 @@ Three years before, on the last day of a dying century, an old woman put her sea
 
 * * *
 
-## II. Margaret Ashby
+## II. Maggie
 
 She runs the place. Owns it, more likely, though nobody asks and she never says. Past forty, hands red from lifting and scrubbing, tough the way the stone in the old churches downriver is tough — and eyes the blue-grey of a cold tide, that missed nothing and let a room know they missed nothing. Not a face men called pretty. A face men were careful around. The dangerous thing about her was never her hands: it was that she had already taken your measure, before you'd got your cloak off, and generally found the figure small. She has buried two husbands and talks about it the way other women talk about the weather. Men die. You pour the ale and sweep the floor and get on with it. She will take the last farthing off a man who can pay for his drink and press bread on one who can't, and think no more of him for needing it, and dare either of them to remark on the difference.
 
 Her own crossing is only some years behind her now — she came to this country later than most, and older, a grown woman with a life already spent behind her — and she has worn the story smooth in the telling since, the way a story gets told until it stops hurting and starts being useful instead. Margareta, she was, out of a small fishing village on the coast outside Stockholm, one of nine, a father who mended nets and a mother who salted herring until her hands were more brine than skin — a girl raised half in a boat, who could read a running current and a badly-set rigging before she could read a word of English, and handle a small craft in foul water the way other girls handled a broom. She married young and for love, which she'll tell you was the one purely foolish thing she ever did and would do again tomorrow: a fisherman named Johan, and the two of them worked the cold northern water together and got a son between them. The sea everyone had warned her about never laid a finger on Johan. A slow rot took him instead, from the inside out, across two bad years; and when the frozen ground finally closed over him the boy was old enough to want a deck of his own, and took the King's coin in the Swedish navy — and that was the house stood empty, husband under the earth and son handed over to the very water she'd spent her whole life braced to lose him to.
 
-She did not stay to keep a house full of ghosts. She took a timber ship south and traded the clean biting ice of home for the coal-smoke and rotting piles of the Thames, on a plain certainty that a harbour city on a great river had to want for something a strong back and a level head could supply. It wanted, as it turned out, for barmaids. And it gave her, in time, a second husband to bury — an Englishman named Ashby, a Thames waterman who took a deep-water berth the winter the river work dried up and did not come back from it, the sea keeping him off the coast of Africa the way it had never once troubled to keep Johan. Ashby was the second, and the last; Johan was the first. She kept Ashby's name the way she'd kept nothing else English easily, because a name is a small thing to hold onto in a country that mangles every other word out of you, and because the Margareta who had answered to a Swedish one belonged to a life that was over. The regulars who go back far enough still call her Maggie, softly, the way you'd use a name that belongs to somebody younger than the woman standing in front of you now. Everybody else has only ever known Ashby, which suits her. Margareta stayed on the northern water. Ashby is who runs a bar.
+She did not stay to keep a house full of ghosts. She took a timber ship south and traded the clean biting ice of home for the coal-smoke and rotting piles of the Thames, on a plain certainty that a harbour city on a great river had to want for something a strong back and a level head could supply. It wanted, as it turned out, for barmaids. And it gave her, in time, a second husband to bury — an English waterman who took a deep-water berth the winter the river work dried up and did not come back from it, the sea keeping him off the coast of Africa the way it had never once troubled to keep Johan. He was the second, and the last; Johan was the first. To the river she has only ever been Maggie — a worn-down English scrap of Margareta, the one piece of the old name light enough to carry across the water — because the Margareta who answered to the whole of it in Swedish belonged to a life that was over, and a name is a small thing to hold onto in a country that mangles every other word out of you. Margareta stayed on the northern water. Maggie is who runs the bar.
 
 What she cannot know — what she'd name the cruelest sort of foolishness to let herself think — is that the boy she grieves out of her life tonight, freezing on his Swedish deck, is not the end of Johan's line but the middle of it. His father's name will come back to this same reach of the river, worn soft by the crossing, Johansson turned English at last, carried home generations down the years by a man who will step off a timber boat with a sea-bag of salt-stiff shirts and no notion at all that he is coming home. The river keeps longer accounts than the people who work it. Tonight it is only a woman behind a bar with a Swedish name folded away in a drawer, and a boy on a far deck she has taught herself, most nights, not to wait for.
 
@@ -34,7 +34,7 @@ He comes in around dusk, shaking rain off a cloak that has seen better years. Yo
 
 He has a paper in his pocket. He takes it out and smooths it flat on the bar and reads it the way a man reads a letter from someone he loves, or a sentence handed down by a judge.
 
-Ashby comes over. Stands in front of him with the rag over her shoulder and her arms folded, and looks at him the way a mother looks at a boy who has just told her he means to run off and join a circus.
+Maggie comes over. Stands in front of him with the rag over her shoulder and her arms folded, and looks at him the way a mother looks at a boy who has just told her he means to run off and join a circus.
 
 You are going to sign it, then.
 
@@ -110,21 +110,21 @@ Leave her be, Tom says. It comes out smaller than he wants it to.
 
 Rook looks at him the way you'd look at a stool that had spoken. Then he smiles, because this is better sport than the coins. Buy a turn like an honest man, writer, or fight me for the debt. He says it easily. He has done this before and it has always ended the one way.
 
-Don't be a fool, Tom. Ashby's voice from the bar, low and level. She has seen exactly where this goes. Don't wager over a woman's life.
+Don't be a fool, Tom. Maggie's voice from the bar, low and level. She has seen exactly where this goes. Don't wager over a woman's life.
 
 It isn't a wager, Tom says, and stands.
 
-Rook hits him first, and the room hears it land. Tom goes back over a table and the blood is there at once, hot down his chin. Stay down, Ashby says, and means it. Tom gets up. He grew up beside a millpond in Essex where the mill-boys and the carters' sons settled things behind the granary with fists and mud and whatever a knee could do, and he had been beaten there often enough to have learned the one thing worth the learning: the shape of a big man's certainty — the first rush, the wide swing, the half-second when weight mistakes itself for the whole of the argument. He slips late and ugly and lands a clean thing on the jaw, a blow the room draws breath at, a blow that ought to end it. Rook spits red into the rushes, works his mouth once as though testing a hinge, and comes on smiling with half of it. And there it is, the thing that empties the laughter out of the room: pain is not going to stop this man. Tom is no longer in a fight he can win. He is in a problem he may not get out of alive.
+Rook hits him first, and the room hears it land. Tom goes back over a table and the blood is there at once, hot down his chin. Stay down, Maggie says, and means it. Tom gets up. He grew up beside a millpond in Essex where the mill-boys and the carters' sons settled things behind the granary with fists and mud and whatever a knee could do, and he had been beaten there often enough to have learned the one thing worth the learning: the shape of a big man's certainty — the first rush, the wide swing, the half-second when weight mistakes itself for the whole of the argument. He slips late and ugly and lands a clean thing on the jaw, a blow the room draws breath at, a blow that ought to end it. Rook spits red into the rushes, works his mouth once as though testing a hinge, and comes on smiling with half of it. And there it is, the thing that empties the laughter out of the room: pain is not going to stop this man. Tom is no longer in a fight he can win. He is in a problem he may not get out of alive.
 
 Rook takes him by the throat and drives him back into the bar, lifting him half off his feet, and for a long moment the world shrinks to no air and the reek of the other man. Tom does not go looking for a noble answer. His hand finds Rook's — the big right hand, spread flat on the bar's edge for the leverage — and he hooks two of the fingers over the oak and puts the last of himself into bending them the wrong way until the hand gives with the sound of a green stick breaking. The grip stutters. Half a second. There is ale slicked across the flags where a tankard went over, and Tom has seen it and Rook has not; he sets a heel behind the big man's ankle and lets Rook's own weight finish what Tom has no strength left to do, and Rook goes down — not the way men go down in stories, but heavily, wrong — and the bar's edge finds the side of his head on the way, and the room hears that too.
 
-Rook is not finished. Men like Rook are never quite finished; he is dragging a knee under himself, ruined hand and all, when Ashby ends it for good.
+Rook is not finished. Men like Rook are never quite finished; he is dragging a knee under himself, ruined hand and all, when Maggie ends it for good.
 
 She comes round the bar without hurrying and puts her knife through the sleeve of his sound arm into the wood, pinning it, and bends so only the near tables catch it. The debt's mine now, she says. I've bought it off you — here's the price. She sets a single coin on the bar by his pinned wrist. The girl sleeps upstairs tonight. Any man who cares to argue it can find me in daylight, sober, and see how far he gets. She works the knife loose. Rook does the arithmetic she is holding out to him, through the pain and the blood, and being a man who has understood force his whole life, he understands hers. He gets up. He goes.
 
-Mara does not thank Tom. She does not give him anything he could warm his hands on afterward. She spits her own blood onto the flags — her mouth is cut too; it was never only the wrist — and asks Ashby, not Tom, where the back stairs are. Ashby tells her. Going past, she gives Tom one look, and it is not love and it is not gratitude; it is only recognition, one animal marking another that did an unlooked-for thing, and then she is up the stairs and gone. She'll be gone again before light, and Ashby knows it, because safety in Wapping is a thing you are lent for a night and never two, and Mara knows that better than anyone left in the room.
+Mara does not thank Tom. She does not give him anything he could warm his hands on afterward. She spits her own blood onto the flags — her mouth is cut too; it was never only the wrist — and asks Maggie, not Tom, where the back stairs are. Maggie tells her. Going past, she gives Tom one look, and it is not love and it is not gratitude; it is only recognition, one animal marking another that did an unlooked-for thing, and then she is up the stairs and gone. She'll be gone again before light, and Maggie knows it, because safety in Wapping is a thing you are lent for a night and never two, and Mara knows that better than anyone left in the room.
 
-Tom is at the bar, shaking too hard to lift the tankard, one eye swelling shut, a tooth loose against his tongue, the split in his lip letting blood faster than he can swallow it. Ashby sets a cloth down in front of him. Not gentle. Not proud.
+Tom is at the bar, shaking too hard to lift the tankard, one eye swelling shut, a tooth loose against his tongue, the split in his lip letting blood faster than he can swallow it. Maggie sets a cloth down in front of him. Not gentle. Not proud.
 
 Hold that to your mouth, she says.
 
@@ -134,7 +134,7 @@ He holds it. And she looks, for a moment, not at him but at the paper lying wher
 
 ## V. The Dragon's Lads
 
-The door opens an hour later and the wind brings in noise and cold and the smell of the river at night. Five or six men clump in from the waterfront, loud, salt-stiff, converting their wages into ale as fast as Ashby can pour it. One of them is missing two fingers on his left hand and doesn't seem to have noticed, which tells you something about what he has noticed instead.
+The door opens an hour later and the wind brings in noise and cold and the smell of the river at night. Five or six men clump in from the waterfront, loud, salt-stiff, converting their wages into ale as fast as Maggie can pour it. One of them is missing two fingers on his left hand and doesn't seem to have noticed, which tells you something about what he has noticed instead.
 
 The Dragon's lads, one of them announces to the room. Just in. Lancaster let us go.
 
@@ -156,7 +156,7 @@ Was it worth it? Tom asks. The voyage. Was it worth it?
 
 The sailor considers this properly, the way a man considers a question he hasn't let himself ask. The pepper was good. Very good. The rest of it — ask me again in ten years. If I'm still here.
 
-Ashby brings bread and cheese to the Dragon's men. They fall on it like wolves. She watches them eat with the look of someone counting — the ones who came back, the ones who didn't, the cost of pepper measured out in men.
+Maggie brings bread and cheese to the Dragon's men. They fall on it like wolves. She watches them eat with the look of someone counting — the ones who came back, the ones who didn't, the cost of pepper measured out in men.
 
 They were lucky, she tells Tom quietly, refilling his ale. Lancaster knew what he was doing. Most captains don't.
 
@@ -178,7 +178,7 @@ He drinks the house ale like everyone else, but there is a squat stone bottle th
 
 He's not popular here. He says things people don't want to hear, at the worst possible moment, and he's usually right.
 
-Ashby brings him his pint without being asked and without warmth, which from her is a kind of welcome. You talk too much, Dutchman, she says. Only when the boys are listening too little, Margareta, he answers, and she does not break stride — but something in her jaw takes note of the name the rest of the room has never once heard her called. That name stayed north of the water, she says. Then it has travelled badly, he says, and drinks. They have been doing some version of this for years. She trusts him rather more than she would ever say, which is not far, but is further than she trusts most.
+Maggie brings him his pint without being asked and without warmth, which from her is a kind of welcome. You talk too much, Dutchman, she says. Only when the boys are listening too little, Margareta, he answers, and she does not break stride — but something in her jaw takes note of the name the rest of the room has never once heard her called. That name stayed north of the water, she says. Then it has travelled badly, he says, and drinks. They have been doing some version of this for years. She trusts him rather more than she would ever say, which is not far, but is further than she trusts most.
 
 Tom notices him — Tom notices everyone tonight, the way anxious young men do, and the way a boy does when one eye is closing and he wants the room to think he isn't counting the door — and carries his ale down the bar.
 
@@ -224,7 +224,7 @@ Hendricks looks at him then — really looks, at the eye going black and the lip
 
 The evening wears on. The Dragon's men get loud again, the way men do when they've drunk long enough for the fear to surface but not long enough to win. Singing, badly. One of them crying quietly into his ale — the way men cry in bars: not at all, and completely. Somewhere behind them, the snow bet from earlier is being loudly re-litigated — no snow yet, and the man who staked his supper on it is being reminded of this at length and without mercy.
 
-Ashby brings Tom bread and cheese he didn't ask for.
+Maggie brings Tom bread and cheese he didn't ask for.
 
 Eat. You won't eat like this for months. My second husband was at sea — told me. Salt beef till it walks off the plate.
 
@@ -236,19 +236,19 @@ Tom eats. Outside, the ships at anchor are dark shapes on darker water, masts sw
 
 Hendricks has gone silent at his end of the bar, watching Tom the way a man watches a ship he already knows is going to sink. Not pleasure. Not pity. Just recognition. The boy will go. The boy will sign. The odds are three in ten, and the boy is twenty-two, and the Dutch are still only a story.
 
-Ashby comes over one last time, refills his ale.
+Maggie comes over one last time, refills his ale.
 
 The charter was signed on New Year's Eve, she says. Three years back. Old Queen Bess — sixty-seven she was then, and dead since the spring, and the Company she signed into being is still here, hiring. Notice that, Tom. The queen is gone. The paper isn't. Now here you are signing your own. She signs a paper. You sign a paper. Somewhere between the two papers, a great many men die. That's how it works, Tom. The people at the top sign. The people at the bottom die. The pepper comes back. The money comes back. The men don't.
 
 He opens his mouth. Nothing comes out.
 
-What he cannot say — because at twenty-two, in front of this woman, it would sound like a child's answer, and because it is one — is that it was never the pepper. That same brown millpond in Essex, behind the granary where the mill-boys taught him the shape of a fight, had been for ten summers before any of that a stretch of water a strong man could throw a stone across, and the whole of the ocean. It had serpents in it, off the edges of the maps. There was a pirate cave under the willow roots, and a place on the far bank where — an older cousin swore to it — wreckers had once lit false fires to bring boats onto the stones, the boats being a rowing skiff and the stones being stones. He has wanted, for as long as he has been able to want anything, to come back through a door like this one with salt on his coat and stories no one else in the room could tell. There is no putting that in front of Ashby, next to forty-three men out of five hundred. It is not an answer to anything she has said. It is only the truth.
+What he cannot say — because at twenty-two, in front of this woman, it would sound like a child's answer, and because it is one — is that it was never the pepper. That same brown millpond in Essex, behind the granary where the mill-boys taught him the shape of a fight, had been for ten summers before any of that a stretch of water a strong man could throw a stone across, and the whole of the ocean. It had serpents in it, off the edges of the maps. There was a pirate cave under the willow roots, and a place on the far bank where — an older cousin swore to it — wreckers had once lit false fires to bring boats onto the stones, the boats being a rowing skiff and the stones being stones. He has wanted, for as long as he has been able to want anything, to come back through a door like this one with salt on his coat and stories no one else in the room could tell. There is no putting that in front of Maggie, next to forty-three men out of five hundred. It is not an answer to anything she has said. It is only the truth.
 
 Then, instead of anything he might have said, he does something instead. Reaches into his coat and comes out with the one thing in it worth more than the coat — a plain brass thimble, his mother's, the only piece of her he kept when there was nothing else worth the keeping. He sets it on the bar between them, not quite meeting her eye.
 
 Keep this, he says. Till I'm back.
 
-Ashby looks at the thimble, then at him, and doesn't reach for it straight away — she has held out her hand for enough of these to know what it costs a man to leave one. When she does pick it up, she doesn't make a show of it. Closes her fist around it the way she'd close a fist around a coin she meant to keep separate from the till.
+Maggie looks at the thimble, then at him, and doesn't reach for it straight away — she has held out her hand for enough of these to know what it costs a man to leave one. When she does pick it up, she doesn't make a show of it. Closes her fist around it the way she'd close a fist around a coin she meant to keep separate from the till.
 
 Till you're back, she says. Not agreeing. Not disagreeing. Just repeating it, the way you repeat a wager back to the man who's made it, so there's no confusion later about what was said.
 
@@ -260,11 +260,11 @@ For the morning, Hendricks says, taking the bottle back. In the Low Countries th
 
 Go and sign your paper, boy.
 
-Goodnight, Maggie, he says on his way past the bar — the only man left in the room who remembers her stepping off a timber boat much like the one that will take Tom, a widow off the northern water starting the back half of a life in a city that couldn't say her name. She doesn't look up from wiping the counter, but something in her shoulders answers him that Ashby never would.
+Goodnight, Maggie, he says on his way past the bar — the only man left in the room who remembers her stepping off a timber boat much like the one that will take Tom, a widow off the northern water starting the back half of a life in a city that couldn't say her name. She doesn't look up from wiping the counter, but something in her shoulders answers him — the worn ease of two people who crossed the same cold water a long time ago — that she shows no one else in this room.
 
 At the door he pauses, hand on the latch, and doesn't look back. The cold takes him. The dark and the mud and the river swallow him — the same as they've always been, indifferent to whether he comes back or not.
 
-The door closes. Ashby stands still behind the counter. Hendricks finishes his pint and leaves without a word. The Dragon's men are asleep, or close to it, and the fire is down to embers.
+The door closes. Maggie stands still behind the counter. Hendricks finishes his pint and leaves without a word. The Dragon's men are asleep, or close to it, and the fire is down to embers.
 
 He will sign the paper in the morning. He will get on the ship. This is how it works tonight, in this bar, on this river: a boy hears the odds, drinks his ale, and goes anyway. The river does not keep track.
 
@@ -274,7 +274,7 @@ Morning comes grey and wet. The river is loud enough to hear over the empty bar.
 
 The stool by the window sits empty, its crack settled into shape. On the table, a ring left by a tankard is already fading into the wood — one mark among hundreds still to come.
 
-Ashby is alone. She takes a knife from her apron and scores a small mark into the underside of the counter, low, where you'd have to duck to see it. There's already a crowd of them down there — one for every young man who sat on that stool with a paper in his pocket and walked out toward a ship. She stopped counting them long ago. She keeps cutting them anyway. It isn't superstition. It isn't a prayer. It's the one thing she's found to do with her hands that isn't standing at the window.
+Maggie is alone. She takes a knife from her apron and scores a small mark into the underside of the counter, low, where you'd have to duck to see it. There's already a crowd of them down there — one for every young man who sat on that stool with a paper in his pocket and walked out toward a ship. She stopped counting them long ago. She keeps cutting them anyway. It isn't superstition. It isn't a prayer. It's the one thing she's found to do with her hands that isn't standing at the window.
 
 Tom's thimble goes into the same gap, wedged back against the old wood where a notch can't be mistaken for a promise. She doesn't expect to see it collected. She has never once been wrong about that, and doesn't expect this morning to be the first time.
 

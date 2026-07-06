@@ -73,6 +73,13 @@ carries, given to whoever's daughter or niece takes over the bar**, the way a tr
 any one person holding it. One light line per appearance is enough — never a revealed twist, just
 the ordinary fact of how the place has always worked.
 
+> **NAME — HARD RULE (author-directed 2026-07-06): she is MAGGIE, never "Ashby."** The surname
+> "Ashby" has been removed from the entire manuscript at the author's request. Her second husband is
+> now an unnamed English waterman; the keeper line reads "from Maggie to the last Hannah" (Ch14,
+> Author's Note); the old Maggie-vs-Ashby public/private-name device is gone. Everywhere below and in
+> the sections that follow, read every "Ashby" as **Maggie** — the notes are historical and were not
+> retro-edited. Do not reintroduce "Ashby" as her name or surname. See memory: keeper-name-maggie-not-ashby.
+
 **(b-i) Margaret "Maggie" Ashby's origin (added 2026-07-03; REVISED 2026-07-03, author-directed
 "enhance Maggie" pass).** SUPERSEDES the earlier "crossed at seventeen, married Ashby first"
 version. Maggie now arrives in London **as an older widow, not a girl of 17.** Full biography:
