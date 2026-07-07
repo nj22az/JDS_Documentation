@@ -15,6 +15,26 @@
 
 ---
 
+---
+
+# Foreword
+
+I am an engineer, not a historian. I have spent most of my working life at sea and in the yards and engine rooms of other people's countries. This book is fiction. I want to say that plainly, before you start.
+
+The people in it never existed. Tom, Maggie, Daniel, Su — I made them up, and their names too. If one of them reminds you of someone real, that is chance and nothing more. None of this happened to anyone you could go and find.
+
+But the history is real. The Company sailed. The docks burned. Ten million people starved while the account books balanced. Those things happened, to people who were not invented. There is a plain timeline of them at the back of this book, so you can hold what is true against what I made up.
+
+Here is what I actually did. I took things out of my own life — a bar in Marseille where something in me snapped, a young man who ran me through an airport in Seoul and asked for nothing, the lake I grew up beside that I was sure had pirate caves in it — and I moved them into older centuries and gave them other names. I did it because the feelings are old. A young man signing his years away, a fight that starts before you have finished thinking, a stranger who helps you for no reason at all — none of that is new. It only wears different clothes in different centuries.
+
+I could not send you back in time to feel it for yourself. So I sent these people instead. They stand where I could not, and feel what I have felt, and come back to tell you it was so.
+
+Read them as real. That is the closest thing to true I have to offer.
+
+*— Nils Johansson*
+
+---
+
 > **1603**
 >
 > *"They say the venture cannot fail, there being two hundred and eighteen fools instead of one."*
@@ -35,19 +55,27 @@ Three years before, on the last day of a dying century, an old woman put her sea
 
 * * *
 
-## II. Margaret Ashby
+## II. Maggie
 
-She runs the place. Owns it, more likely, though nobody asks and she never says. Past forty, hands red from lifting and scrubbing, tough the way the stone in the old churches downriver is tough. She has buried two husbands and talks about it the way other women talk about the weather. Men die. You pour the ale and sweep the floor and get on with it.
+She runs the place. Owns it, more likely, though nobody asks and she never says. Past forty, hands red from lifting and scrubbing, tough the way the stone in the old churches downriver is tough — and eyes the blue-grey of a cold tide, that missed nothing and let a room know they missed nothing. Not a face men called pretty. A face men were careful around. The dangerous thing about her was never her hands: it was that she had already taken your measure, before you'd got your cloak off, and generally found the figure small. She has buried two husbands and talks about it the way other women talk about the weather. Men die. You pour the ale and sweep the floor and get on with it. She will take the last farthing off a man who can pay for his drink and press bread on one who can't, and think no more of him for needing it, and dare either of them to remark on the difference.
 
-Her own crossing is a quarter-century behind her now and she has worn it smooth in the telling, the way a story gets told until it stops hurting and starts being useful instead. Margareta, she was, out of a fishing town on the coast beyond Gothenburg, one of nine, a father who mended nets and a mother who salted herring until her hands were more brine than skin. She came over on a timber ship at seventeen with a cousin's letter and a dead certainty that a harbour city on a great river had to want for something a strong back and a level head could supply. It wanted, as it turned out, for barmaids. She married an Englishman named Ashby within the year — a waterman, gone eleven years now, the first of the two she buried — and kept his name the way she'd kept nothing else English easily, because a name is a small thing to hold onto in a country that mangles every other word out of you. The regulars who go back far enough still call her Maggie, softly, the way you'd use a name that belongs to somebody younger than the woman standing in front of you now. Everybody else has only ever known Ashby, which suits her. Margareta stayed on the boat. Ashby is who runs a bar.
+Her own crossing is only some years behind her now — she came to this country later than most, and older, a grown woman with a life already spent behind her — and she has worn the story smooth in the telling since, the way a story gets told until it stops hurting and starts being useful instead. Margareta, she was, out of a small fishing village on the coast outside Stockholm, one of nine, a father who mended nets and a mother who salted herring until her hands were more brine than skin — a girl raised half in a boat, who could read a running current and a badly-set rigging before she could read a word of English, and handle a small craft in foul water the way other girls handled a broom.
+
+She married young and for love, which she'll tell you was the one purely foolish thing she ever did and would do again tomorrow: a fisherman named Johan, and the two of them worked the cold northern water together and got a son between them. The sea everyone had warned her about never laid a finger on Johan. A slow rot took him instead, from the inside out, across two bad years; and when the frozen ground finally closed over him the boy was old enough to want a deck of his own, and took the King's coin in the Swedish navy — and that was the house stood empty, husband under the earth and son handed over to the very water she'd spent her whole life braced to lose him to.
+
+She did not stay to keep a house full of ghosts. She took a timber ship south and traded the clean biting ice of home for the coal-smoke and rotting piles of the Thames, on a plain certainty that a harbour city on a great river had to want for something a strong back and a level head could supply. It wanted, as it turned out, for barmaids. And it gave her, in time, a second husband to bury — an English waterman who took a deep-water berth the winter the river work dried up and did not come back from it, the sea keeping him off the coast of Africa the way it had never once troubled to keep Johan. He was the second, and the last; Johan was the first.
+
+To the river she has only ever been Maggie — a worn-down English scrap of Margareta, the one piece of the old name light enough to carry across the water — because the Margareta who answered to the whole of it in Swedish belonged to a life that was over, and a name is a small thing to hold onto in a country that mangles every other word out of you. Margareta stayed on the northern water. Maggie is who runs the bar.
+
+What she cannot know — what she'd name the cruelest sort of foolishness to let herself think — is that the boy she grieves out of her life tonight, freezing on his Swedish deck, is not the end of Johan's line but the middle of it. His father's name will come back to this same reach of the river, worn soft by the crossing, Johansson turned English at last, carried home generations down the years by a man who will step off a timber boat with a sea-bag of salt-stiff shirts and no notion at all that he is coming home. The river keeps longer accounts than the people who work it. Tonight it is only a woman behind a bar with a Swedish name folded away in a drawer, and a boy on a far deck she has taught herself, most nights, not to wait for.
 
 Tonight she is busy. Word has gone round that a ship is in, and where a ship comes in, men follow, and where men follow they want a drink. She moves behind the bar the way a woman moves who has done this ten thousand times — pouring, wiping, taking coin, watching the whole room without seeming to look at any part of it.
 
-He comes in around dusk, shaking rain off a cloak that has seen better years. Young. Twenty, maybe twenty-two. Ink on his fingers. He sits down and orders ale, and she pours it without asking what he wants, which means he has been in before.
+He comes in around dusk, shaking rain off a cloak that has seen better years. Young. Twenty, maybe twenty-two — the age her own boy is this winter, or near enough, on whatever cold deck the Swedish crown keeps him. Ink on his fingers. He sits down and orders ale, and she pours it without asking what he wants, which means he has been in before.
 
 He has a paper in his pocket. He takes it out and smooths it flat on the bar and reads it the way a man reads a letter from someone he loves, or a sentence handed down by a judge.
 
-Ashby comes over. Stands in front of him with the rag over her shoulder and her arms folded, and looks at him the way a mother looks at a boy who has just told her he means to run off and join a circus.
+Maggie comes over. Stands in front of him with the rag over her shoulder and her arms folded, and looks at him the way a mother looks at a boy who has just told her he means to run off and join a circus.
 
 You are going to sign it, then.
 
@@ -89,7 +117,7 @@ What are they paying you?
 
 Twenty pounds a year. A writer's wage. Keeping the accounts.
 
-Twenty pounds to keep books on a ship where three in ten men don't make it back. Your mother know?
+Twenty pounds to keep books on a ship where nine in ten don't come home. Your mother know?
 
 My mother is dead.
 
@@ -107,9 +135,47 @@ Something flickers under his brightness — a man who knows he's about to do som
 
 * * *
 
-## IV. The Dragon's Lads
+## IV. The Wager
 
-The door opens an hour later and the wind brings in noise and cold and the smell of the river at night. Five or six men clump in from the waterfront, loud, salt-stiff, converting their wages into ale as fast as Ashby can pour it. One of them is missing two fingers on his left hand and doesn't seem to have noticed, which tells you something about what he has noticed instead.
+The evening might have stayed an ordinary one. Most of them do.
+
+It stops being ordinary when the door lets in a man who takes up more of it than the frame was built for. Silas Rook — Rock, to the men who have tried to move him and learned better — a Cornish tin-hauler turned ship-breaker turned whatever pays by the day, thick through the neck and chest the way men get who break things for a living, a beard on him like wet rope. The word runs ahead of him the way it does: that he put a lighterman's jaw out at Deptford and laughed while the teeth came; that he killed a Lascar at Gravesend and the matter cost him six shillings to make disappear. The room does the small cold arithmetic a room does, and makes space.
+
+He has a woman with him. He has her by the wrist.
+
+She is young, and — Tom notices it first, and is ashamed of it before the thought has finished — she is beautiful, with the whole reach of the Portuguese sea in her face — Macau, Lisbon, the sugar islands, no one of them able to claim the whole of her. Mara, Rook calls her, when he calls her anything. She owes him passage, he tells the room, cheerful about it, a debt he says began on a ship out of São Tomé and has been chasing her across the world ever since; and a debt is a debt, and until it's paid she is his to let out as the debt allows. He has decided the debt allows a great deal. He sets her on a stool by the fire and opens a trade: a coin on the bar buys a man the right to sit her on his knee, or take a kiss off her, or wager the pair of them into a wrestle for the whole of the night. Coins appear. Men laugh. It is the oldest business on the river dressed up as an evening's sport, and the room, having settled its opinion of Rook at the door, lets it run.
+
+Tom watches because she is beautiful. Then Rook's hand closes on her wrist to move her along to the next paying lap, and she turns it in the firelight, and Tom sees the bruising stacked under the torn lace, old under new, the ledger of a thing that has been happening a long while. She does not cry out. She has stopped counting on the room and started counting the doors. And the boy in Tom, the part still looking, goes out like a pinched candle, and something older stands up where it was.
+
+Leave her be, Tom says. It comes out smaller than he wants it to.
+
+Rook looks at him the way you'd look at a stool that had spoken. Then he smiles, because this is better sport than the coins. Buy a turn like an honest man, writer, or fight me for the debt. He says it easily. He has done this before and it has always ended the one way.
+
+Don't be a fool, Tom. Maggie's voice from the bar, low and level. She has seen exactly where this goes. Don't wager over a woman's life.
+
+It isn't a wager, Tom says, and stands.
+
+Rook hits him first, and the room hears it land. Tom goes back over a table and the blood is there at once, hot down his chin. Stay down, Maggie says, and means it. Tom gets up. He grew up beside a millpond in Essex where the mill-boys and the carters' sons settled things behind the granary with fists and mud and whatever a knee could do, and he had been beaten there often enough to have learned the one thing worth the learning: the shape of a big man's certainty — the first rush, the wide swing, the half-second when weight mistakes itself for the whole of the argument. He slips late and ugly and lands a clean thing on the jaw, a blow the room draws breath at, a blow that ought to end it. Rook spits red into the rushes, works his mouth once as though testing a hinge, and comes on smiling with half of it. And there it is, the thing that empties the laughter out of the room: pain will not stop this man. Tom is no longer in a fight he can win, but a problem he may not get out of alive.
+
+Rook takes him by the throat and drives him back into the bar, lifting him half off his feet, and for a long moment the world shrinks to no air and the reek of the other man. Tom does not go looking for a noble answer. His hand finds Rook's — the big right hand, spread flat on the bar's edge for the leverage — and he hooks two of the fingers over the oak and puts the last of himself into bending them the wrong way until the hand gives with the sound of a green stick breaking. The grip stutters. Half a second. There is ale slicked across the flags where a tankard went over, and Tom has seen it and Rook has not; he sets a heel behind the big man's ankle and lets Rook's own weight finish what Tom has no strength left to do, and Rook goes down — not the way men go down in stories, but heavily, wrong — and the bar's edge finds the side of his head on the way, and the room hears that too.
+
+Rook is not finished. Men like Rook are never quite finished; he is dragging a knee under himself, ruined hand and all, when Maggie ends it for good.
+
+She comes round the bar without hurrying and puts her knife through the sleeve of his sound arm into the wood, pinning it, and bends so only the near tables catch it. The debt's mine now, she says. I've bought it off you — here's the price. She sets a single coin on the bar by his pinned wrist. The girl sleeps upstairs tonight. Any man who cares to argue it can find me in daylight, sober, and see how far he gets. She works the knife loose. Rook does the arithmetic she is holding out to him, through the pain and the blood, and being a man who has understood force his whole life, he understands hers. He gets up. He goes.
+
+Mara does not thank Tom. She does not give him anything he could warm his hands on afterward. She spits her own blood onto the flags — her mouth is cut too; it was never only the wrist — and asks Maggie, not Tom, where the back stairs are. Maggie tells her. Going past, she gives Tom one look, and it is not love and it is not gratitude; it is only recognition, one animal marking another that did an unlooked-for thing, and then she is up the stairs and gone. She'll be gone again before light — safety in Wapping is a thing you are lent for a night and never two, and no one left in the room knows that better than she does.
+
+Tom is at the bar, shaking too hard to lift the tankard, one eye swelling shut, a tooth loose against his tongue, the split in his lip letting blood faster than he can swallow it. Maggie sets a cloth down in front of him. Not gentle. Not proud.
+
+Hold that to your mouth, she says.
+
+He holds it. And she looks, for a moment, not at him but at the paper lying where he left it on the bar — the Company's paper, tomorrow's signature still folded up inside it. Tom had thought the paper in his pocket was a door out. He has just had it beaten into him, in the space of one bad minute, what men do with a door when there is a person on the far side of it and the lock is in their hand.
+
+* * *
+
+## V. The Dragon's Lads
+
+The door opens an hour later and the wind brings in noise and cold and the smell of the river at night. Five or six men clump in from the waterfront, loud, salt-stiff, converting their wages into ale as fast as Maggie can pour it. One of them is missing two fingers on his left hand and doesn't seem to have noticed, which tells you something about what he has noticed instead.
 
 The Dragon's lads, one of them announces to the room. Just in. Lancaster let us go.
 
@@ -131,7 +197,7 @@ Was it worth it? Tom asks. The voyage. Was it worth it?
 
 The sailor considers this properly, the way a man considers a question he hasn't let himself ask. The pepper was good. Very good. The rest of it — ask me again in ten years. If I'm still here.
 
-Ashby brings bread and cheese to the Dragon's men. They fall on it like wolves. She watches them eat with the look of someone counting — the ones who came back, the ones who didn't, the cost of pepper measured out in men.
+Maggie brings bread and cheese to the Dragon's men. They fall on it like wolves. She watches them eat with the look of someone counting — the ones who came back, the ones who didn't, the cost of pepper measured out in men.
 
 They were lucky, she tells Tom quietly, refilling his ale. Lancaster knew what he was doing. Most captains don't.
 
@@ -143,7 +209,7 @@ And money, she agrees. Money that isn't going to bring back four hundred and fif
 
 * * *
 
-## V. The Dutchman
+## VI. The Dutchman
 
 He comes in later, when the Dragon's men have moved from cloves to a louder argument about something else entirely. The door brings in a wall of cold, the candles gutter, and behind it comes a man who looks carved out of the river itself — broad, short, hands like two enormous mittens of callused flesh, the particular squint of someone who has spent more years looking at horizons than at other people.
 
@@ -153,11 +219,13 @@ He drinks the house ale like everyone else, but there is a squat stone bottle th
 
 He's not popular here. He says things people don't want to hear, at the worst possible moment, and he's usually right.
 
-Tom notices him — Tom notices everyone tonight, the way anxious young men do — and carries his ale down the bar.
+Maggie brings him his pint without being asked and without warmth, which from her is a kind of welcome. You talk too much, Dutchman, she says. Only when the boys are listening too little, Margareta, he answers, and she does not break stride — but something in her jaw takes note of the name the rest of the room has never once heard her called. That name stayed north of the water, she says. Then it has travelled badly, he says, and drinks. They have been doing some version of this for years. She trusts him rather more than she would ever say, which is not far, but is further than she trusts most.
+
+Tom notices him — Tom notices everyone tonight, the way anxious young men do, and the way a boy does when one eye is closing and he wants the room to think he isn't counting the door — and carries his ale down the bar.
 
 You were on the river before the Company. That right?
 
-Before your late Queen — God rest her — was a thought in her father's head. Hendricks turns his pint slowly on the wood. I was hauling timber when the Portuguese owned everything east of the Cape and the English weren't allowed within a mile of it.
+Before your Company was so much as a thought in a merchant's head — God rest your late Queen, she signed it into being with one foot in the grave. Hendricks turns his pint slowly on the wood. I was hauling timber on this river when the Portuguese owned everything east of the Cape and the English weren't allowed within a mile of it.
 
 And now, Tom says.
 
@@ -169,7 +237,7 @@ Hendricks makes a sound that might be a laugh. On paper. And what happens when y
 
 The Dutch?
 
-The Dutch. The year before last, while your first fleet was still at sea, the Dutch chartered their own. The VOC. Heard of it?
+The Dutch. Last year, while your first fleet was still at sea, the Dutch chartered their own. The VOC. Heard of it?
 
 A little.
 
@@ -177,7 +245,7 @@ Not enough, then. More capital than you. Better ships. Better guns. And they are
 
 Lancaster was there, Tom says. He made deals.
 
-Lancaster made deals with men the Dutch have since killed or driven out. He picks his pint back up, and his voice drops — not secrecy, just weariness, the kind that comes from watching the same story play out too many times. I've heard what they do to competitors. From Dutchmen. My own countrymen, who went out rich in their heads and came back with nothing. Or didn't come back.
+Lancaster made deals with men the Dutch have since killed or driven out. He picks his pint back up, and his voice drops — not secrecy, just weariness, the kind that comes from watching the same story play out too many times. I've heard what they do to competitors. From Dutchmen. My own countrymen, who went out rich in their heads and came back with nothing. Or didn't come back. I had a brother go out with them — Pieter, younger than me, full up to the eyes with the islands. He came home rich in nothing but the fever, and spent the last of himself in a lodging house off the Ratcliff road, raving about punishment, about the Company's islands, about a thing he'd watched that he could never get the shape of into words. I never had the whole of it out of him before he went. Enough of it, though. Do not mistake my accent for their flag, boy. A man may know his own countrymen, and know them for wolves.
 
 What do they do?
 
@@ -185,41 +253,43 @@ Burn the posts. Sink the ships. Arrest the rivals on false charges and execute t
 
 The bar has gone properly quiet. Even the Dragon's men are listening now, pretending not to.
 
-Three in ten, Hendricks says. That's the number I hear for your Company's men. Won't come back. And if you try to trade where the Dutch already are, they'll take the rest.
+Nine in ten, Hendricks says. That's the number I hear for your Company's men. Won't come back. And if you try to trade where the Dutch already are, they'll take the rest.
 
-Tom stares at his ale. The brightness has gone out of his face, and what's replaced it isn't fear exactly. It's the look of a man counting backwards from three in ten.
+Tom stares at his ale. The brightness has gone out of his face, and what's replaced it isn't fear exactly. It's the look of a man counting backwards from nine in ten.
+
+Hendricks looks at him then — really looks, at the eye going black and the lip still weeping where Rook opened it, the whole bruised account of what the boy has just done. Whatever he thinks of it, he does not let it warm his face. A big man in a tavern is honest danger, boy, he says. You can see him come. You beat him because he stood where your fist could reach him, and because the ale was on the floor and not in his belly. He takes his one measured pull from the stone bottle, corks it with his thumb. The thing you sign for in the morning does not stand so near. It is never drunk, and it keeps no ale on the floor for you, and it has no hand you can break. That is the whole difference between a fight and a Company. One of the two you can win.
 
 * * *
 
-## VI. The Night Before
+## VII. The Night Before
 
 The evening wears on. The Dragon's men get loud again, the way men do when they've drunk long enough for the fear to surface but not long enough to win. Singing, badly. One of them crying quietly into his ale — the way men cry in bars: not at all, and completely. Somewhere behind them, the snow bet from earlier is being loudly re-litigated — no snow yet, and the man who staked his supper on it is being reminded of this at length and without mercy.
 
-Ashby brings Tom bread and cheese he didn't ask for.
+Maggie brings Tom bread and cheese he didn't ask for.
 
 Eat. You won't eat like this for months. My second husband was at sea — told me. Salt beef till it walks off the plate.
 
 Your second husband.
 
-Died. Twelve years ago, off Africa. Never found the body. She says it plainly, the way you say a thing that's stopped being painful and simply become fact. That's sailors for you. You learn to pour the drinks and not wait by the window.
+Died. Six years back now, off Africa. Never found the body. She says it plainly, the way you say a thing that's stopped being painful and simply become fact. That's sailors for you. You learn to pour the drinks and not wait by the window. Funny thing about the water. I spent a whole first marriage braced for it to take a fisherman off me, and a sickness got him instead, in his own bed. Then I marry a riverman — safe as houses, never out of sight of London — and the sea reaches all the way up to Africa for him. It has a humour to it. Just not a kind one.
 
 Tom eats. Outside, the ships at anchor are dark shapes on darker water, masts swaying, rigging making small sounds like men who cannot sleep.
 
-Hendricks has gone silent at his end of the bar, watching Tom the way a man watches a ship he already knows is going to sink. Not pleasure. Not pity. Just recognition. The boy will go. The boy will sign. The odds are three in ten, and the boy is twenty-two, and the Dutch are still only a story.
+Hendricks has gone silent at his end of the bar, watching Tom the way a man watches a ship he already knows is going to sink. Not pleasure. Not pity. Just recognition. The boy will go. The boy will sign. The odds are nine in ten against him, and the boy is twenty-two, and the Dutch are still only a story.
 
-Ashby comes over one last time, refills his ale.
+Maggie comes over one last time, refills his ale.
 
 The charter was signed on New Year's Eve, she says. Three years back. Old Queen Bess — sixty-seven she was then, and dead since the spring, and the Company she signed into being is still here, hiring. Notice that, Tom. The queen is gone. The paper isn't. Now here you are signing your own. She signs a paper. You sign a paper. Somewhere between the two papers, a great many men die. That's how it works, Tom. The people at the top sign. The people at the bottom die. The pepper comes back. The money comes back. The men don't.
 
 He opens his mouth. Nothing comes out.
 
-What he cannot say — because at twenty-two, in front of this woman, it would sound like a child's answer, and because it is one — is that it was never the pepper. He grew up beside a millpond in Essex, a stretch of brown water a strong man could throw a stone across, and for ten summers it was the ocean. It had serpents in it, off the edges of the maps. There was a pirate cave under the willow roots, and a place on the far bank where — an older cousin swore to it — wreckers had once lit false fires to bring boats onto the stones, the boats being a rowing skiff and the stones being stones. He has wanted, for as long as he has been able to want anything, to come back through a door like this one with salt on his coat and stories no one else in the room could tell. There is no putting that in front of Ashby, next to forty-three men out of five hundred. It is not an answer to anything she has said. It is only the truth.
+What he cannot say — because at twenty-two, in front of this woman, it would sound like a child's answer, and because it is one — is that it was never the pepper. That same brown millpond in Essex, behind the granary where the mill-boys taught him the shape of a fight, had been for ten summers before any of that a stretch of water a strong man could throw a stone across, and the whole of the ocean. It had serpents in it, off the edges of the maps. There was a pirate cave under the willow roots, and a place on the far bank where — an older cousin swore to it — wreckers had once lit false fires to bring boats onto the stones, the boats being a rowing skiff and the stones being stones. He has wanted, for as long as he has been able to want anything, to come back through a door like this one with salt on his coat and stories no one else in the room could tell. There is no putting that in front of Maggie, next to forty-three men out of five hundred. It is not an answer to anything she has said. It is only the truth.
 
 Then, instead of anything he might have said, he does something instead. Reaches into his coat and comes out with the one thing in it worth more than the coat — a plain brass thimble, his mother's, the only piece of her he kept when there was nothing else worth the keeping. He sets it on the bar between them, not quite meeting her eye.
 
 Keep this, he says. Till I'm back.
 
-Ashby looks at the thimble, then at him, and doesn't reach for it straight away — she has held out her hand for enough of these to know what it costs a man to leave one. When she does pick it up, she doesn't make a show of it. Closes her fist around it the way she'd close a fist around a coin she meant to keep separate from the till.
+Maggie looks at the thimble, then at him, and doesn't reach for it straight away — she has held out her hand for enough of these to know what it costs a man to leave one. When she does pick it up, she doesn't make a show of it. Closes her fist around it the way she'd close a fist around a coin she meant to keep separate from the till.
 
 Till you're back, she says. Not agreeing. Not disagreeing. Just repeating it, the way you repeat a wager back to the man who's made it, so there's no confusion later about what was said.
 
@@ -231,21 +301,21 @@ For the morning, Hendricks says, taking the bottle back. In the Low Countries th
 
 Go and sign your paper, boy.
 
-Goodnight, Maggie, he says on his way past the bar — the only man left in the room who remembers her arriving on a boat much like the one that will take Tom, and young in much the same way. She doesn't look up from wiping the counter, but something in her shoulders answers him that Ashby never would.
+Goodnight, Maggie, he says on his way past the bar — the only man left in the room who remembers her stepping off a timber boat much like the one that will take Tom, a widow off the northern water starting the back half of a life in a city that couldn't say her name. She doesn't look up from wiping the counter, but something in her shoulders answers him — the worn ease of two people who crossed the same cold water a long time ago — that she shows no one else in this room.
 
 At the door he pauses, hand on the latch, and doesn't look back. The cold takes him. The dark and the mud and the river swallow him — the same as they've always been, indifferent to whether he comes back or not.
 
-The door closes. Ashby stands still behind the counter. Hendricks finishes his pint and leaves without a word. The Dragon's men are asleep, or close to it, and the fire is down to embers.
+The door closes. Maggie stands still behind the counter. Hendricks finishes his pint and leaves without a word. The Dragon's men are asleep, or close to it, and the fire is down to embers.
 
 He will sign the paper in the morning. He will get on the ship. This is how it works tonight, in this bar, on this river: a boy hears the odds, drinks his ale, and goes anyway. The river does not keep track.
 
-## VII. What Comes After
+## VIII. What Comes After
 
 Morning comes grey and wet. The river is loud enough to hear over the empty bar. Somewhere behind the tavern a cockerel crows — a farmer's bird, or an optimist's; in Wapping the distinction isn't always clear.
 
 The stool by the window sits empty, its crack settled into shape. On the table, a ring left by a tankard is already fading into the wood — one mark among hundreds still to come.
 
-Ashby is alone. She takes a knife from her apron and scores a small mark into the underside of the counter, low, where you'd have to duck to see it. There's already a crowd of them down there — one for every young man who sat on that stool with a paper in his pocket and walked out toward a ship. She stopped counting them long ago. She keeps cutting them anyway. It isn't superstition. It isn't a prayer. It's the one thing she's found to do with her hands that isn't standing at the window.
+Maggie is alone. She takes a knife from her apron and scores a small mark into the underside of the counter, low, where you'd have to duck to see it. There's already a crowd of them down there — one for every young man who sat on that stool with a paper in his pocket and walked out toward a ship. She stopped counting them long ago. She keeps cutting them anyway. It isn't superstition. It isn't a prayer. It's the one thing she's found to do with her hands that isn't standing at the window.
 
 Tom's thimble goes into the same gap, wedged back against the old wood where a notch can't be mistaken for a promise. She doesn't expect to see it collected. She has never once been wrong about that, and doesn't expect this morning to be the first time.
 
@@ -291,11 +361,11 @@ He sits. Doesn't order. Hands flat on the counter, trembling, and his eyes are f
 
 This bar has seen the look before. Men who come back changed in ways you can't quite point to. The tremor. The stillness. A kind of attention that's really its opposite — total withdrawal into a place nobody else can follow. The sea does this to some men. The tropics do it worse. Amboyna did it worst of all.
 
-His name is Daniel. Factor for the Company, stationed on one of the Spice Islands — the nutmeg islands, the most valuable dirt on earth, or so the Dutch believe. He went out young, ambitious, sure he'd come back with a fortune and a story worth telling.
+His name is Daniel Vale. Factor for the Company, stationed on one of the Spice Islands — the nutmeg islands, the most valuable dirt on earth, or so the Dutch believe. He went out young, ambitious, sure he'd come back with a fortune and a story worth telling.
 
 What he found was the Dutch.
 
-Ashby comes over. Sets a tankard down without asking what he wants — you don't ask a shaking man what he wants, you just put ale in front of him.
+Maggie comes over — slower on her feet than she was a generation back, when a boy named Tom sat at this same bar with a paper in his pocket, though no man in the room has yet found it useful to notice, or would say so if he had. She sets a tankard down without asking what he wants — you don't ask a shaking man what he wants, you just put ale in front of him.
 
 Drink, she says. Not a suggestion.
 
@@ -305,7 +375,7 @@ He drinks. One pull, then another. The tremor slows. Doesn't stop. Slows is the 
 
 ## III. The Water
 
-It takes Daniel three days to talk. Three days of sitting, drinking ale he can't taste, flinching at the door. Ashby puts food in front of him. He pushes it round the plate. The other patrons give him room. The river does its business outside the window; the ale stays good; Daniel sits.
+It takes Daniel three days to talk. Three days of sitting, drinking ale he can't taste, flinching at the door. Maggie puts food in front of him. He pushes it round the plate. The other patrons give him room. The river does its business outside the window; the ale stays good; Daniel sits.
 
 On the fourth day, Carter comes in. Ships' chandler — rope, tar, canvas, whatever a vessel needs before it sails — big man, big voice, and he's known Daniel long enough to know he isn't just another broken sailor. Pulls up a stool. Orders two ales. Slides one across.
 
@@ -347,17 +417,21 @@ Water, he says. They used water. And lets the rest of the sentence go where the 
 
 A man by the fire has stopped coughing. Nobody is talking about the price of tar.
 
-Towerson was our head of factory. My superior. They took him first — two days before he broke. Made him watch the rest of it after. He told them there was no plot, that we were merchants, not soldiers. They'd already decided. Orders from Amsterdam. The charges were paperwork. The torture was paperwork. The killing was the actual point.
+Towerson was our head of factory. My superior. They took him first — two days before he broke. Made him watch the rest of it after. He told them there was no plot, that we were merchants, not soldiers. They'd already decided. Orders from Amsterdam. The charges were a formality. The questioning was procedure. The killing was the actual point.
 
 How many? Carter asks.
 
-Ten Englishmen. Beheaded. The Japanese were burned. I wasn't there for it — they'd already shipped me to Batavia as a prisoner. Two years before they let me go. Came back on a Dutch ship. The Company gave me Surat after. A desk and a ledger, where the heat makes you want to die and nobody mentions Amboyna at all.
+Ten Englishmen. Beheaded. The Japanese were burned. I wasn't there for it — they'd shipped me to Batavia first, a prisoner, two years before they let me go. Then the Company gave me Surat: a desk, a ledger, heat enough to make a man want to die, and nobody who would say the word Amboyna out loud. And now home — as if home were a thing a man could still use, once he got back to it.
 
 He drinks. His hands are steadier now — as steady as they're going to get. Something in his face has shifted. Not relief. More like a man who's opened a door he's kept shut a long time and found the room behind it exactly as bad as he remembered.
 
 Carter, for once, has nothing to say. He looks at Daniel. At his ale. At the river through the window, grey and slow and not caring either way.
 
 What he does instead is stand, walk to the counter, and take down the squat stone bottle the house keeps for the Dutch skippers' trade — genever, juniper spirit, the stuff the river's Hollanders take against the cold — and uncork it, and pour the whole of it, slowly, onto the flagstones. Nobody stops him. Nobody charges him for it either. It is a small, useless, entirely understood gesture, and the smell of juniper hangs over the room for an hour afterwards like a verdict. It will be a long generation before anyone in this house asks for the Dutch spirit by name again — and when someone finally does, there will be a Dutch king on an English throne, and the drink will have changed its papers.
+
+At the far end of the bar an old Dutch skipper, grey and stringy, who has drunk in this room since before Carter had a shop, sets down his own cup half finished, gets up, and goes out into the afternoon. He is not angry. He is not anything a man could name. He has simply understood, quicker than the room did, that the juniper on the floor was poured at him too, and that there is no useful sentence left for him to say in here tonight. Nobody stops him. Nobody looks at him going. That is its own kind of verdict, and a colder one, because the men at Amboyna were Amsterdam's men and this one only ever hauled timber. The river does not sort the guilty from the near-enough; it never has; and a bar this close to the river learns the trick from it.
+
+Carter watches Daniel a moment longer, and then, because he is a merchant and cannot help it even now, he starts — gently, almost kindly — to mine him. Which ports. Which of the Dutch factors gave the orders. How they took the fort, and with what, and how many soldiers it wants to hold a spice island against a company that means to have it. Not cruelty. Carter's grief is real. But grief and use live in the same room in a man like Carter, and the questions keep sliding, without his quite meaning them to, from *what did they do to you* toward *what can I do with it.* Daniel hears the turn happen. He has a good ear for it now; the men in the coral room had the same ear, turned the other way. He stops answering. Puts his sentences down where he put the others.
 
 The Spice Islands are finished for us, he says eventually. Company's pulled out. Dutch have the forts, the soldiers, the monopoly. Nobody's fighting them for a nutmeg tree.
 
@@ -369,7 +443,31 @@ Daniel doesn't answer. He's back in a room in Amboyna, water in his lungs. Cotto
 
 * * *
 
-## VI. The Offer
+## VI. The Deposition
+
+Before Pryce comes with his coin, the Company tries the cheaper thing first. It asks Daniel, very correctly, to give a deposition.
+
+A clerk is sent to a back room in a counting-house off the stairs — a candle, a good sheet of paper, an inkwell, and the particular patience of a man who has taken down a great many accounts and believes not one of them is any business of his. He is polite. He is nearly kind. He tells Daniel to take his time, to say it in his own words, that the Company wishes only to have the matter correctly set down.
+
+Daniel says it in his own words.
+
+They tie a cloth over your face, he says, and pour water onto it until the whole of your body is certain it is drowning, and then they stop, and ask their question, and then they begin again. They drowned us by inches. For days.
+
+The pen moves. Daniel watches it move, the way he watched the other pen move, and he reads it upside-down across the table the way you learn to read anything being written about you: *The prisoner states that he was examined with some severity.*
+
+That is not what I said, Daniel says.
+
+It is the substance of it, the clerk says, not unkindly, and dips the pen. The Company has no need of the — he chooses the gentleman's word — the colour. Only the facts. And the fact is that you were questioned, and released, and are here to speak of it, which is more than every man can say.
+
+Daniel names Towerson. The pen writes that a factor of the establishment was among those who did not survive. Daniel says ten men beheaded on a beach. The pen writes that the affair was attended by loss of life on both sides — because there had been a scuffle when they were first dragged out, and a Dutch soldier took a cut across the hand, and so it is both sides now, forever, in the only copy anyone will keep.
+
+By the time it is done it is a true document. Every sentence in it is a thing that happened. It is also a lie of the completest kind — the kind built entirely out of facts, that stands the truth on its head with each of them in turn — and Daniel signs it, because a man who will not sign is a man with something to hide, and he has already learned what is done to men the paper decides have something to hide.
+
+Walking out, he understands that he has now been drowned twice. Once in a coral room by men who wanted the truth out of him, and once in a lit English office by a mild man who wanted it kept in. The water was gentler the second time. That is the only difference he can find between them, and he looks for it a long while.
+
+* * *
+
+## VII. The Offer
 
 Word travels. It always does, in a bar this close to the docks — what Daniel told Carter is halfway round Wapping within the week, dressed up a little more with each telling, though nobody who's added to it has managed to make it worse than the plain truth already was.
 
@@ -381,7 +479,7 @@ The Company is grateful for your service, Pryce says. Batavia. Two years a priso
 
 Daniel says nothing. He has learned, this past year, that saying nothing is the safest answer to most sentences that start with the Company is grateful.
 
-There's a difficulty, Pryce goes on. Talk. In bars. About Amboyna. About the passes, the questioning, the numbers. It does the Company no good, and it does you no good either, dwelling on it the way you have been. We could improve your situation considerably. A better posting. A clerk's wage doubled. Whatever debts your family carries, cleared. In exchange for — Pryce chooses the word with visible care — quiet. Just quiet. Let the thing rest where it lies.
+There's a difficulty, Pryce goes on. Talk. In bars. About Amboyna. About the passes, the questioning, the numbers. The dead are not helped by accuracy, Mr. Vale — I have always found that the hardest thing to make a grieving man believe, and the truest. The living are sometimes ruined by it. It does the Company no good, and it does you no good either, dwelling on it the way you have been. We could improve your situation considerably. A better posting. A clerk's wage doubled. Whatever debts your family carries, cleared. In exchange for — Pryce chooses the word with visible care — quiet. Just quiet. Let the thing rest where it lies.
 
 Daniel looks at him for a long moment. You want me to stop telling people what happened to Towerson.
 
@@ -403,11 +501,11 @@ He leaves. Daniel sits a while with the offer where Pryce left it, turning it ov
 
 * * *
 
-## VII. The Woman Who Came Looking
+## VIII. The Woman Who Came Looking
 
-She comes in on a Friday. Not young, not old. Dust on her shoes, a thin shawl, the particular set of a woman who has walked further than she meant to because there was no choice about it.
+She comes in on a Friday. Not young, not old. Dust on her shoes, a thin shawl, the particular set of a woman who has walked further than she meant to because there was no choice about it. She has been walking, in one sense, for three years — through dock offices and mission churches and the doorways of lodging houses, following a name that changed its story with every mouth that carried it. She has been told he was dead, twice, by men who seemed sure of it. Told he was mad, once. Told, by a clerk at a Company door who had no reason to lie to her, that he had taken another wife out east and would not thank her for the coming. She came anyway. You do not turn back from that kind of walking. You only, in the end, arrive.
 
-She stands in the doorway. Her eyes go face to face, searching, and stop on Daniel. Whatever was holding her together on the walk here falters, just for a second.
+She stands in the doorway, and she does not ask whether Daniel is here. She has done all her asking already, on the road; asking is for people who still have a question left. Her eyes move along the bar, and they stop — not on his face, which the three years have changed past any easy knowing, but on his hands, flat and shaking on the counter. She knew him by his hands before she let herself trust the face. Whatever was holding her together on the walk here falters, just for a second.
 
 Daniel doesn't see her at first — he's watching his ale, the way he does most hours now. Something makes him look up. He sees her. His face does something complicated: guilt and relief and a kind of frightened tenderness all trying to happen at once.
 
@@ -431,13 +529,13 @@ I'm not the man you married.
 
 No, she says. And I'm not the woman you married either. We can be new people together, or old people who don't fit anymore. But we work that out here. Not through three more years of silence.
 
-Ashby sets down bread, cheese, something that might be stew, and leaves without a word — she knows which moments in her bar are not hers to be part of.
+Maggie sets down bread, cheese, something that might be stew, and leaves without a word — she knows which moments in her bar are not hers to be part of.
 
 Daniel eats. Nell watches him, and for the first time since he walked through that door, his hands are still.
 
 * * *
 
-## VIII. Cotton
+## IX. Cotton
 
 Carter's back most evenings, treating the bar like an annex of his shop. Tonight he's got news, and Carter with news is Carter at full volume.
 
@@ -445,17 +543,13 @@ Company's moving everything to India, he tells the room in general. Spice Island
 
 What money? A dockworker, not looking up from his cup.
 
-Cotton. Carter says it like the man's slow. Indian cotton — light as air, printed in colours that don't wash out. Women in the City can't get enough of it. Calico plain, chintz printed. Comes off the Coromandel coast by the ton, and the price has tripled in ten years. Men are making more off Indian cotton in a decade than their grandfathers made off wool in a lifetime.
+Cotton. Carter says it like the man's slow. Indian cotton — light as air, and it takes a dye the way English cloth never learns to. The great houses have started asking after it by name: calico, they call the plain sort; chintz, the printed. Comes off the Coromandel coast, and the few men who got in early are quietly making fortunes nobody's put a proper figure to yet.
 
-And the weavers? somebody else asks. Spitalfields lot?
+And nobody minds? somebody asks. The weavers, the wool lot?
 
-Furious. Can't compete with it — cheaper, lighter, better, and the women want it regardless. There's been rioting. Bonfires of the stuff in the street. Parliament's talking bans.
+Not yet, Carter says. Not enough of it comes in yet to frighten Parliament, nor to set a Spitalfields man breaking anyone's windows over it — that'll be a quarrel for our grandsons, if the stuff keeps arriving the way it's lately started to. For now it's only enough for men with warehouses to notice, and quiet enough that the noticing is still worth money. Which is exactly the moment to be in it.
 
-They're going to ban cloth?
-
-They're going to try, Carter says. That's what a government does when it can't compete with something — it legislates against it instead. Won't work. The cotton's too good and too cheap.
-
-Behind him, two men are arguing with real heat over whether a barrel of Carter's own tar was short-measured last month, and Carter, mid-sentence about looms and Parliament, breaks off just long enough to shout that it was not short-measured, he weighed it himself, before picking the cotton thread back up without missing a beat.
+Behind him, two men are arguing with real heat over whether a barrel of Carter's own tar was short-measured last month, and Carter, mid-sentence about Coromandel and calico, breaks off just long enough to shout that it was not short-measured, he weighed it himself, before picking the cotton thread back up without missing a beat.
 
 Daniel isn't listening. He's at the end of the bar with Nell, who's come back every evening since that first Friday. She talks. He listens. It suits them. He's eating now. Drinking his ale instead of staring into it.
 
@@ -463,7 +557,7 @@ The Company's factories are becoming forts — walls going up in Surat, cannon o
 
 * * *
 
-## IX. The Walls Get Higher
+## X. The Walls Get Higher
 
 Years pass. The bar fills and empties and fills again — same cycle, same ale, slowly improving. Daniel and Nell come in less often now, and when they do, it's a different quiet than the one he walked in with. Companionable. The quiet of two people who've said the worst of it out loud and are still sitting next to each other.
 
@@ -487,7 +581,7 @@ Just a wall, the letters say. Bricks and mortar. Nothing to worry about.
 
 There is a proclamation nailed to the post at the top of the river stairs, and it has been there long enough that the rain has had two goes at it and somebody's knife has had one. It names a man — Henry Every, late master of the ship Fancy, called Long Ben by men who claim to have sailed with him, which is suddenly a great many more men than any one ship could carry. It names a number: five hundred pounds. And between the man and the number it lists his crimes in the careful language of men who were not there — piracy upon the high seas, robbery of the ship Gunsway of Surat, offences against the peace of our sovereign lord the King and the amity of his allies.
 
-What the proclamation does not say, everyone in Wapping already knows, because sailors talk and the story has had a year to cross two oceans and every bar in between. The Gunsway — Ganj-i-Sawai, the men who've been east say, rolling the strangeness of it on their tongues — was the Great Mughal's own ship, the richest thing afloat on any water, coming home from Mecca heavy with gold and pilgrims. Every took her off the Indian coast with one lucky broadside and two hours of boarding work, and what his crew did aboard her in the days that followed is not printed anywhere, and gets told in this bar only late, and quietly, and never with pride. There were women aboard. Some of them went into the sea rather than wait. That part never makes the broadsheets. The gold makes every one of them.
+What the proclamation does not say, everyone in Wapping already knows, because sailors talk and the story has had a year to cross two oceans and every bar in between. The Gunsway — Wapping's own worn-down coinage for the Ganj-i-Sawai, which the men who've actually been east still say properly, rolling the strangeness of the true name on their tongues — was the Great Mughal's own ship, the richest thing afloat on any water, coming home from Mecca heavy with gold and pilgrims. Every took her off the Indian coast with one lucky broadside and two hours of boarding work, and what his crew did aboard her in the days that followed is not printed anywhere, and gets told in this bar only late, and quietly, and never with pride. There were women aboard. Some of them went into the sea rather than wait. That part never makes the broadsheets. The gold makes every one of them.
 
 Six hundred thousand pounds, the number goes, though nobody who says it can count that high. And the Emperor of India — who commands more soldiers than England has people, and in whose ports the Company lives on sufferance, like a mouse in a granary — wants the man who did it, and has shut the Company's factories and put its factors in irons until somebody brings him.
 
@@ -711,7 +805,7 @@ Fenner takes it before the keeper can clear it. Asks her, low, for the loan of a
 
 He writes plainly. What he saw come off the Quedagh Merchant. What he saw carried away from Saint Mary's, and by whom, and that he would swear to it if any court still cared to ask, though he knows none ever will, and signs it with the name that was his before Fenner, because a lie is worth nothing as a witness. Then he does not know what to do with it. A confession with nowhere to go is just a heavier kind of guilt.
 
-The keeper — young enough that she never met the Ashby who first ran this place, though the woman who trained her was trained by Ashby herself, the trade passed down like a good knife — watches him fold the paper smaller and smaller, the way she's watched other men fidget with things they can't make themselves throw on the fire. She says nothing. Only tips her head, once, toward the underside of the bar, where the wood has a gap a hand can just fit into, where the notches are, and older things besides, things she's found and never asked about and never moved.
+The keeper — young enough that she never met the Maggie who first ran this place, though the woman who trained her was trained by Maggie herself, the trade passed down like a good knife — watches him fold the paper smaller and smaller, the way she's watched other men fidget with things they can't make themselves throw on the fire. She says nothing. Only tips her head, once, toward the underside of the bar, where the wood has a gap a hand can just fit into, where the notches are, and older things besides, things she's found and never asked about and never moved.
 
 Fenner looks at her. She looks back, and shrugs, the particular shrug of someone who has decided that what a building keeps is no one's business but the building's.
 
@@ -745,7 +839,7 @@ The London Gazette calls it a glorious victory. Three thousand Company troops ag
 
 It is not the whole story. Nobody in this bar knows that yet. Not until the man on the third stool starts talking.
 
-There has been another landlord since the last one. Broad, angry in a way that looks permanent, built into the face — hands like shovels, a voice that carries over every conversation in the room, which is his way of making sure nobody has a conversation he isn't part of. The fire is going. The floor is sticky in the same three places it has always been sticky. Nothing about the room has changed since the last time it didn't matter.
+There has been another landlord since the last one — a man this time, which this house has not often been run by, and the few regulars who go back far enough feel the change without being able to put a name to it. Broad, angry in a way that looks permanent, built into the face — hands like shovels, a voice that carries over every conversation in the room, which is his way of making sure nobody has a conversation he isn't part of. The fire is going. The floor is sticky in the same three places it has always been sticky. Nothing about the room has changed since the last time it didn't matter.
 
 The ships on the river have changed, though. Bigger now. The Company's East Indiamen are the largest merchant vessels in the world, three decks deep, carrying more guns than a naval frigate. The Company started as a room full of men with a piece of paper from a Queen: sail out, buy things, bring them back, sell them for more than you paid. The oldest idea there is. Somewhere along the way it stopped being that. Nobody has quite found the word for what it is now. But it's visible from any window on this stretch of river, the way a storm is visible before it arrives.
 
@@ -1121,7 +1215,7 @@ The Company started as a room full of merchants with a charter and a hope. It is
 
 Ten million does not get smaller with repeating. Hannah puts the chairs up. Wipes the counter down one more time, slower than usual tonight.
 
-Outside, the river is black, carrying whatever the docks put into it the way it always has — grain, revenue, silence, men. It does not keep the count. It never has.
+Outside, the river is black, carrying whatever the docks put into it the way it always has — grain, revenue, silence, men. It weighs none of it and carries all of it, the tenth million as lightly as the first. That is a river's whole mercy, and it cannot be told apart from not caring at all.
 
 ---
 
@@ -1242,7 +1336,6 @@ The Company sails on. That is the whole moral of the year, if the year has one: 
 The river carried the chests out the way it carries everything. It was a different water that sent them back.
 
 ---
-
 
 > **1790**
 >
@@ -1780,7 +1873,6 @@ The last tankard of the night goes on the shelf. The Company is ending. The ale 
 
 ---
 
-
 > **1880**
 >
 > *"A ship may be the fastest thing on the water and still carry the slowest kind of news."*
@@ -1889,7 +1981,6 @@ Cutty Sark herself is back on the river tonight, moored downstream, home from wh
 
 ---
 
-
 > **1888**
 >
 > *"The watch committees carry rattles and cudgels. What walks these lanes carries neither."*
@@ -1916,9 +2007,9 @@ Before they were the third and the fourth names on a list, they were customers.
 
 The laundry Su Zhang's mother takes in comes from everywhere the river touches — sailors' shirts mostly, brought round in a wicker basket and settled at the Prospect's bar because half the customers owe money faster than they can be tracked down anywhere else — but some of it walks in off the Whitechapel Road on its own feet. Working women, the polite word is, when a polite word gets used at all. They bring what they have: a good bodice that has to last, a Sunday shawl, linens whose whiteness is a kind of livelihood. They pay in farthings, and they pay late, and Su's mother takes the work anyway, because Sau-Ling Zhang — sent for from Hong Kong the year the shop could feed two, baptised since at the mission church by the docks — has been poor in two countries and holds strong opinions about who deserves clean linen, which is everyone.
 
-Long Liz comes on Mondays, when she comes. A tall Swede with a soft accent she can put on or take off like a bonnet, who crossed her own ocean the way Su's father crossed his, and remade herself in English the way he did, and knows it — the two of them once spent a quarter of an hour at the shop counter comparing, with great seriousness, which words they still could not feel anything in. Grief, Liz said, is only a noise to me in English. In Swedish it has a floor and walls. Liz tells everyone who will listen that she lost her husband and two of her children when the Princess Alice went down — six hundred souls in the Thames off Woolwich, the worst night the river ever gave this city — and Su, who has spent her life reading which knots are tied wrong, worked out years ago that the story isn't true, or isn't hers. She has never said so. Some stories are load-bearing. You do not pull them out of a person and expect the person to keep standing.
+Long Liz comes on Mondays, when she comes. A tall Swede with a soft accent she can put on or take off like a bonnet, who crossed her own ocean the way Su's father crossed his, and remade herself in English the way he did, and knows it — the two of them once spent a quarter of an hour at the shop counter comparing, with great seriousness, which words they still could not feel anything in. Grief, Liz said, is only a noise to me in English. In Swedish it has a floor and walls. And Su, who keeps her two languages in separate rooms and visits each alone, gave her back the word her father uses in the yard and will not translate — the one that comes out flat and small in English as *the work* and in Cantonese has a weight in the mouth like a stone taken up in the hand — and Liz nodded slowly, the way a person nods at a foreign coin they can tell is real money even if it cannot be spent here. For a quarter of an hour two women who had each crossed an ocean and left a self on the far shore of it stood at a laundry counter and were, briefly and exactly, understood. It did not happen to Su often, being understood in either language. She kept the quarter of an hour the way you keep a thing you were not given a second of. Liz tells everyone who will listen that she lost her husband and two of her children when the Princess Alice went down — six hundred souls in the Thames off Woolwich, the worst night the river ever gave this city — and Su, who has spent her life reading which knots are tied wrong, worked out years ago that the story isn't true, or isn't hers. She has never said so. Some stories are load-bearing. You do not pull them out of a person and expect the person to keep standing.
 
-Kate comes whenever there's mending, which is always, because Kate's whole wardrobe is a running argument with time. Small, quick, Midlands-voiced, cheerful the way a kettle is cheerful — loudest when things are hottest. She calls Su *duchess*, for no reason anyone remembers, and sings while she waits for her parcels — halves of songs, verses of things, whatever's already in the room. In September she's full of plans: she and her man are off to Kent for the hopping, weeks of clean air and farm wages, and she'll come back flush and settle her slate, see if she doesn't. She says it laughing, both of them knowing the slate will outlive them all.
+Kate comes whenever there's mending, which is always, because Kate's whole wardrobe is a running argument with time. Small, quick, Midlands-voiced, cheerful the way a kettle is cheerful — loudest when things are hottest. She calls Su *duchess*, for no reason anyone remembers, and sings while she waits for her parcels — halves of songs, verses of things, whatever's already in the room. There is one she keeps coming back to, a slow one about a girl waiting on a quay, and she only ever has the front of it — the rest went the way half of everything in Kate's life has gone — and she has promised Su, more than once and again this September, that the hop gardens will have the whole of it, the hoppers always do, and she'll carry the back half home like a jar of good Kentish honey and they'll have the entire song out at last, all of it, start to finish, and find out how the girl on the quay makes out. Su has come to look forward to it more than she would say. In September she's full of plans: she and her man are off to Kent for the hopping, weeks of clean air and farm wages, and she'll come back flush and settle her slate, see if she doesn't. She says it laughing, both of them knowing the slate will outlive them all.
 
 Mind yourself down there, duchess, she says on her way out, the last Monday of the summer, nodding at the newspaper on the counter with its black headline. And Su says, You too, and means it the ordinary amount — the amount you mean it when the world still seems wide enough for everyone to be careful in.
 
@@ -1926,9 +2017,11 @@ Mind yourself down there, duchess, she says on her way out, the last Monday of t
 
 ## III. The Work
 
-Her grandfather was a master in Canton. Not a rich man — a man other men came to, which on his street was better than rich. He kept his school until the English gunships came up the Pearl River and the war made the city no place for teaching boys, and then he moved the family to the raw new colony at Hong Kong — a fishing shore the treaties were busily turning into a harbour — and began again in a yard behind a ship-chandler's on the waterfront, where her father grew up learning both trades at once: the art before dawn, and rope, tar and lamp-oil the rest of the day. When the old man died, Wei Zhang buried him on the hillside above the harbour, took ship, and carried both trades to the far end of the world. Which is how a war the Company started over opium came, two generations later, to decide what a girl in Wapping could do with her hands. Sailors who saw such things in the treaty ports came home calling it Chinese boxing, and other words would come later, but her father never used any of them. He called it the work, in the same flat voice he used for the shop's accounts, and he taught it to Su in the yard behind the chandlery from the time she was seven years old, at dawn, before the counter opened, because that was when his own father had taught him.
+Her grandfather was a master in Canton. Not a rich man — a man other men came to, which on his street was better than rich. He kept his school until the English gunships came up the Pearl River and the war made the city no place for teaching boys, and then he moved the family to the raw new colony at Hong Kong — a fishing shore the treaties were busily turning into a harbour — and began again in a yard behind a ship-chandler's on the waterfront, where her father grew up learning both trades at once: the art before dawn, and rope, tar and lamp-oil the rest of the day. When the old man died, Wei Zhang buried him on the hillside above the harbour, took ship, and carried both trades to the far end of the world — to London, and to the thin scatter of his own countrymen along its river: a few hundred souls, perhaps, in a city of millions, and of those the merest handful settled and shopkeeping, gathering in ones and twos around the Causeway at Limehouse, where a home for stranded Asian sailors had opened its doors the year before he landed. He was one of that handful a patient man could have counted on his fingers and toes — a Chinese chandler with a Cantonese wife sent for across the world, keeping a shop and a wash-copper on the Causeway among the few Chinese families gathered there, on the same crook of the riverside that fed the Prospect its custom and carried the Company's cargo past every door on it. Which is how a war the Company started over opium came, two generations later, to decide what a girl in Wapping could do with her hands. Sailors who saw such things in the treaty ports came home calling it Chinese boxing, and other words would come later, but her father never used any of them. He called it the work, in the same flat voice he used for the shop's accounts, and he taught it to Su in the yard behind the chandlery from the time she was seven years old, at dawn, before the counter opened, because that was when his own father had taught him.
 
 The work is not what the sailors' stories make of it. It is standing in a low horse stance while the wash-copper heats, until her legs shake, and then until they stop shaking, which takes years. It is her forearms meeting the wooden rail, over and over, until bone learns what bone can be asked to bear. It is the laundry itself, though she doesn't understand that for a long time — ten thousand sheets wrung out by hand build a grip no drill can, and her father watches her wring them and says nothing and counts it as training, because it is. Corrections arrive by fan — a plain folded wooden fan, older than her father, that raps an elbow level or presses a knee out of a lazy angle without a word ever being spent; in Canton it had splinted the very wrists it broke, the lane's master being also the lane's bonesetter, and it crossed the ocean in the same bundle as the white bowl. And it is two-person work in the near-dark, her arms crossed against his, learning to read force through touch the way she reads knots by eye: where a push is going before it knows itself, which way a wrist wants to turn, what a shoulder confesses half a second before the hand moves. Listening, her father calls it. By fifteen she can stand in the yard with her eyes shut and tell him, through two crossed wrists, which foot his weight is on.
+
+His hands wrote all of this into her, and this autumn, without meaning to, she has begun reading what is being written back out of them. Forty years of rope have laid down calluses that no longer soften; the chandler's tar has gone into the seams of his knuckles and stayed there, a grey chart no washing lifts. And the cold has started finding the old breaks — his own father set most of them, in the yard above the Hong Kong harbour, with this same fan that raps her elbow level; the lane's master being also the lane's bonesetter, the hand that corrects is the hand that was corrected — so that on a raw morning his grip closes a half-beat behind his intention, and he has taken, without a word spent on it, to doing the fine fan-work by the window where the light is kind. When the wash-copper split its seam last winter he did not send for a tinsmith the shop could not pay: he mended it the way he would have mended a hull, oakum driven into the split and payed over with tar, and it has held a year and will hold another, and it is the kind of mend that tells you a man learned his hands on a waterfront and was never afterward allowed to forget it. Su has read those hands as fixed as the tide her whole life. She is beginning, this autumn, to read the other thing in them, and to wish she could not.
 
 And it is rules. The rules come with the art the way the tide comes with the river. Her father recites them in Cantonese and makes her give them back in English, because a rule you can only say in one language is a rule you only half know.
 
@@ -1972,9 +2065,9 @@ Long Liz. And Kate.
 
 Su hears the second name in the Prospect itself, from a carman reading a late edition aloud, stumbling over *Eddowes* the way print makes strangers of people you know, and the room goes on around her — appalled, thrilled, theorizing — while she stands with a basket of clean shirts on her hip and a docket in her hand and, very carefully, does not fall down.
 
-Back with hop money, I'll settle the slate. Kate had come home from Kent early — the hopping gone wrong, back in the city days before, broke as ever, everyone says so afterwards. The mending basket in the shop's back room still holds a bodice of hers, taken in at the seams, wrapped in paper, paid for and never collected. Su's mother, who has buried a country and two sisters and calls weeping a Tuesday, sits down that evening over that parcel and cries the way stones would cry if they could, and then stands up and finishes the day's pressing, because grief in Shadwell is a luxury taken in instalments.
+Back with hop money, I'll settle the slate. Kate had come home from Kent early — the hopping gone wrong, back in the city days before, broke as ever, everyone says so afterwards. The mending basket in the shop's back room still holds a bodice of hers, taken in at the seams, wrapped in paper, paid for and never collected. Su's mother, who has buried a country and two sisters and calls weeping a Tuesday, sits down that evening over that parcel and cries the way stones would cry if they could — and somewhere in it she says the thing Su will keep the longest, not to Su exactly, more to the paper and the God she was dipped into at the mission by the docks. She has never once believed the holy book balanced, she says. If it balanced, a place like this would be the proof there was nobody keeping it. She washes for the drowned and the used-up and the never-paid because a God who ran His accounts the way the fine gentlemen run theirs would not be worth the walk to church of a Sunday. The debt of a place like Wapping is meant to be carried at a loss, she says, smoothing the parcel's paper flat with the side of her hand as though pressing out a seam — that is the whole of what mercy is: a column that will never once come right, and you keep it open anyway, on purpose, forever. It is the nearest thing to a creed Su ever hears her mother speak, and it is the exact opposite of her father's, whose every rule exists so that a ledger will close; and Su, who lives in the narrow yard between the two of them, files it with the rest of what she is made of. Then her mother stands up and finishes the day's pressing, because grief in Shadwell is a luxury taken in instalments.
 
-Her father closes the shutters himself that night, which he has not done in years — walks the shop-front slow, testing each bolt like a man reading the street through his fingertips.
+Her father closes the shutters himself that night, which he has not done in years — walks the shop-front slow, testing each bolt like a man reading the street through his fingertips. The high bolt, the stiff one, does not come for him the way it always has: his hand sets on it and closes, and the cold is in the knuckles, and the bolt does not move, and he stands with it a moment longer than a man stands with a thing he can still do. Su reaches past him without being asked and drives it home, one motion, the way ten thousand mornings taught her. Neither of them says anything, because there is nothing to say that would not be worse than the quiet. But through the back of her own hand against his she has felt the exact thing Liz meant about words with floors and walls — here is one, in both her languages and needing neither: her father is getting old, and she is the stronger of them now, and the night the East End learned to be afraid is the night she found it out.
 
 Su does not cry. Something else happens instead, lower down and worse: a long, patient heat, banked like the copper's fire, that does not gutter and does not spread and does not go out. She takes it to her father in the yard before dawn, because she does not trust it, and he is the only person she knows who has carried one like it.
 
@@ -1994,7 +2087,7 @@ Dr. Reginald Cray has been a fixture some fifteen years now, since he retired fr
 
 He is precise in his habits. Same stool. Same brandy, never more than two. He is good with his hands in the way old surgeons are — steady, economical, no wasted motion, and he still carries a leather case that never seems to leave his side, the kind a physician might carry to a house call, though nobody has ever seen what's inside it.
 
-He is also — and this is the part that will not simplify later, no matter how much later needs it to — kind. Or something that photographs identically to kindness. When the potboy took a fever in the spring, Cray climbed two flights to see him, twice, and charged nothing, and the boy mended. He set a docker's dislocated shoulder once, right there on the bar floor, gently, talking the man through it like weather. He asks after Su's mother's rheumatism with what sounds like real knowledge, and the liniment he recommends actually works. He is polite to the barmaids in a way some of them find courtly and others find difficult to name a reason for disliking. He remembers their names. He watches the room the way a man watches a ledger, totting something up that nobody else can see the columns of.
+He is also — and this is the part that will not simplify later, no matter how much later needs it to — kind. Or something that photographs identically to kindness. When the potboy took a fever in the spring, Cray climbed two flights to see him, twice, and charged nothing, and the boy mended. He set a docker's dislocated shoulder once, right there on the bar floor, and Su watched the whole of it. The man had gone down under a swung crate and come up with his arm hanging in a way arms do not, grey and sweating and making the low sound big men make when they are frightened past their pride, and Cray finished his brandy first — not hurried, not callous, simply finishing it — and then knelt and took the ruined arm in both hands and read it through his thumbs the way Su's father reads a knot, and told the man, in the voice you would use for the weather, that this would be brief, and that he might shout if he liked, most did. Then he did something small and exact, and the shoulder went back into the man with a sound like a heavy drawer pushed shut, and the man shouted, and it was over, and Cray was wiping his hands on his own handkerchief before the shout had finished coming down off the rafters. The bar thought it was wonderful. It *was* wonderful. What Su could not name, at twelve, and would be able to name to the inch by the following winter, was that nothing had crossed the doctor's face the whole time he did it — not distaste, not effort, not the small private flinch that even a good butcher gives — only the level attention of a man doing a thing he is good at to a piece of material that happens, this evening, to be a person. She filed it the way she filed everything, without yet knowing what drawer it went in. She learned the drawer in an alley, on the last third of a November night, watching the same face keep the same nothing over a woman held against a wall. He asks after Su's mother's rheumatism with what sounds like real knowledge, and the liniment he recommends actually works. He is polite to the barmaids in a way some of them find courtly and others find difficult to name a reason for disliking. He remembers their names. He watches the room the way a man watches a ledger, totting something up that nobody else can see the columns of.
 
 What the room does not know — because the family has never once said it in English — is that the Zhangs keep an entry of their own on the doctor, eight winters old now. Su's brother Lee, born when she was four, took a fever the winter he was seven — a boy with two languages to be stubborn in and one year of his own mornings in the yard behind him, his stance still all elbows. Her father went himself through the sleet to the doctor's rooms at ten o'clock at night, and stood at the street door, and was told through the housekeeper, the doctor being at his supper, that Dr. Cray would call in the morning. He called in the morning. Unhurried. He looked at Lee for about the length of a pot of tea, said what doctors say when they have decided that the rest is waiting, took his fee from her mother's hand — counted it; her mother is a mild woman who has wished no one harm in her life, and still, eight years on, the counting is the part she cannot forgive — wrote fever in his register, which was true as far as it went, and left. Lee died on the third night.
 
@@ -2044,31 +2137,29 @@ She tells no one. Not Hannah. Not her mother. Not — and this costs the most, a
 
 * * *
 
-## VIII. Three Nights
+## VIII. Never First
 
-She does not let herself decide he is the author of all five. That is the newspapers' arithmetic, and she has no way to do it, and she knows the difference between what she can count and what she can't — her whole life has been kept in ledgers that had to balance. What she decides is smaller and harder: whatever this man is, he is hunting. And stopping a hunting thing does not require knowing the whole of its history.
+She does not let herself decide he is the author of all five. That is the newspapers' arithmetic, and she has no way to do it, and she knows the difference between what she can count and what she can't — her whole life has been kept in ledgers that had to balance. And she does not let herself do the other thing either, the thing the banked heat under her ribs has wanted since the thirtieth of September: go and find him in the dark and be sure.
 
-But it does require being sure of the hunt. Those are the rules, and she keeps them the way her mother keeps fast days — resentfully, completely. Never first: he must be moving before she is. Never in anger: and here she does the hardest work of her life, harder than any stance her father ever held her in, because the banked heat that has lived under her ribs since the thirtieth of September wants this — wants it to be him, wants it to be for Kate and for Liz, and, lower down and older, for Lee, which is the entry she scratches out first, every night, because Lee's debt is real, and owed, and exactly the kind the rules forbid her to collect — and the rules say that a debt-collector in an alley will collect whether the debt is owed or not. So she takes the heat and makes it wait outside. What goes into the dark with her must be colder than that, or nothing her father built in that yard means anything.
+Because those are the rules, and she keeps them the way her mother keeps fast days — resentfully, completely. Never first: he must be moving before she is, and it is not her place to make him move. Never in anger: and here she does the hardest work of her life, harder than any stance her father ever held her in, because the heat wants this — wants it to be him, wants it to be for Kate and for Liz, and, lower down and older, for Lee, which is the entry she scratches out first, every time, because Lee's debt is real, and owed, and exactly the kind the rules forbid her to collect — and the rules say that whoever goes looking for a debt in an alley will collect it whether it is owed or not. So she does not go looking. She takes the heat and banks it and goes back to folding shirts, which is the whole of what the work asks of her now: to do nothing, correctly, for as long as nothing is what the rules require. It is the hardest thing she has ever not done.
 
-She waits three nights, watching. The first two nights he walks to his rooms like any old man, and she goes home and lies awake and is glad, and is ashamed of being glad, and is ashamed of being ashamed.
+She keeps back only one small thing for herself. Since the killings she has taken to carrying her grandfather's fan in her sleeve — the plain folded wooden one that has corrected her elbows all her life — not as a plan and not as a hunt, but the way her father has taken to standing in his doorway at closing with his hands folded where the street can see them: a private steadiness, the one piece of the dawn yard small enough to carry into a frightening city. She tells herself it means nothing. She is nineteen, and it is that kind of autumn, and every woman on the dock road is carrying something now.
 
-On the third night he turns the other way.
+She is not looking for him at all, on the night the fog puts him in front of her.
 
 * * *
 
 ## IX. The Alley
 
-He leaves the Prospect at his usual hour, unhurried, the case under his arm, and instead of turning toward his rooms he turns down toward the darker stretch where the warehouses crowd close enough to blot out what little moon there is, and there is a woman ahead of him on the lane — alone, tired-walking, one of the hundreds this city uses up — who has no idea she is being followed by anything worse than the cold.
+She is coming home late from the far end of Wapping, where she has carried a basket of clean linen to a sailors' boarding house that settles its account on the last Monday and only then, and her arms ache from the weight of it. For most of the way home there is the ordinary world to walk through: the Shadwell end of the Highway is still up and roaring, the street stalls flaring under their naphtha lamps — the light hissing and jumping, throwing every shadow twice — costermongers crying the last of the day's herring and winter greens down to nothing, a man ladling hot eels out of a copper, children underfoot, the whole warm animal noise of poor people not yet done with a day. It is the London she was born into, and she reads it the way she reads a docket, and nothing in it means her any harm.
 
-Su has been in the alley beside the Prospect for two hours, in the yellow-grey river fog that has come up with the evening — thick enough to soften the gas lamps to smears and swallow the far end of the lane — her collar high against the damp, her grandfather's fan closed in her left hand, and the boning knife from her father's kitchen lying along her right forearm inside her sleeve. The alley is the shortest way between his rooms and that stretch, and she has read his habits the way she once read knots — which ones are tied wrong, and what a wrong one costs somebody.
+Then she turns off it, toward the river, and inside the width of one street the noise falls away behind her and the fog stands in its place. It has been thickening all evening — the true article, the London Particular, coal-smoke off ten thousand grates married to whatever the works along the river breathe out, gone the yellow-grey of old brass and thick enough to soften the gas lamps to smears and swallow the far end of every lane. It is the kind of fog that unmakes a city: it takes away the straight reassuring lines of the place, the certainties, and hands you doubt in their stead, so that a street walked a thousand times becomes a thing felt for one step at a time, and anything at all could be standing in the next yard of it and you would not know until you were in its arms. She takes the shortcut behind the sufferance wharf anyway, because it is late and cold and the shortcut is where the shortcut has always been.
 
-The plan is the one piece of the night she built in advance, and she built it to keep the rules the way her father builds a form. She will be standing in his way — in front of him, in the open lane — because a man like this will have spent a lifetime planning for someone coming from behind and never once considered someone already standing in his path, and because in front of him she is only a girl in a lane, and whatever happens next is his to begin. Never first, kept whole and on purpose.
+That is when she hears it. Not a shout — there is never a shout, she will understand later; a man this practised works inside a quiet he has rehearsed. A scuffle. Cloth dragging on wet brick. The particular hush of something being done to someone that both of them have agreed, for opposite reasons, to keep quiet about.
 
-The lane repeals the plan in under a minute. He does not walk like an old man tonight. He gains on the woman where the lane doglegs behind the sufferance wharf, and for the length of eight heartbeats the fog and a warehouse buttress take the two of them out of Su's sight, and when the lane straightens again the case is on the ground with its handle still rocking, and the woman is against the wall with his forearm across her throat and his other hand sealed over her mouth, her heels sliding on the wet stone. The worst of it — the part Su will wake to for years — is the quiet. No shout. No struggle worth the word. A man performing something rehearsed, with no wasted motion, the way her father performs a form.
+She rounds the warehouse buttress and the fog thins and there he is: Dr. Reginald Cray, who drinks his two brandies and asks after her mother's rheumatism, with a woman pinned against the wall, his forearm across her throat and his other hand sealed over her mouth, her heels sliding on the wet stone. He is not hurried. He is performing something rehearsed, with no wasted motion, the way her father performs a form — and that, the economy of it, is the worst of it, the part Su will wake to for years.
 
-Su runs. She does not shout: a shout makes a man stop and think, and a man this practised would think with his hands. She runs the way the yard taught her to move, low and quiet, and the distance is twenty yards, and then ten, and then nothing.
-
-He hears her at the very last and turns — and the woman is out from under him in the half-second his weight shifts: on her knees, then on her feet, then simply gone, footfalls dying down the lane, and neither of them so much as turns a head after her. The fight was started before Su ever reached it, and not by her, and not on her.
+The basket goes out of her hands. She does not decide to drop it; her hands drop it, and the clatter of it on the cobbles is enormous in the fog, and in the half-second Cray's weight shifts toward the sound the woman is out from under him — on her knees, then her feet, then simply gone, footfalls dying down the lane, and neither of them so much as turns a head after her. Whatever was started here was started before Su reached it, and not by her, and not on her. The rule she has kept all autumn by doing nothing has just been kept for her, by the fog and a dropped basket and a woman she will never see in daylight.
 
 And Dr. Cray straightens up, and settles his coat, and is not worried at all.
 
@@ -2080,9 +2171,9 @@ Su says nothing. She has decided — somewhere below decision, where the work li
 
 What unsettles him first is not the silence. It is that she has not moved. A girl should have flinched by now, or wept, or run — he has a lifetime's catalogue of what people do in lanes — and this one only stands, weight settled, hands loose, watching his shoulders instead of his face, the way her father taught her: the face lies; the shoulders confess. He is not worried yet. But he adjusts, the way a man adjusts to a stair that is not where the staircase promised — and his hand goes to the case at his feet. To the clasp, not the handle. Everything her father ever taught her agrees at once about what that means.
 
-She is inside his reach before it opens. Her left forearm finds his right — listening — and his arm tells her everything through the touch, the way arms have told her things in a dark yard for twelve years: the wrist turning over, the weight rocking back to make room for whatever the oilcloth holds. Her heel stamps down the side of his knee, short and low, and his structure goes the way structures go when the ground is subtracted from them — and going down, his free hand closes on her collar with a strength that has nothing old in it at all: a surgeon's grip, educated on struggle, and for one whole second it is winning, wrenching her half off her feet, and that second is where anybody else this city could have sent into this lane dies.
+He does not reach it after all. He decides, instead, that she is a small thing to be moved out of an inconvenient evening, and he lunges for her collar with the flat certainty of a man who has spent his whole life being stronger than whatever he needed to be stronger than — meaning to fold a startled girl who weighs nothing down to the wet stone.
 
-But her body has wrung ten thousand sheets, and her wrist has been turned by her father ten thousand mornings, and the work was made by small people for exactly this moment. She folds with the wrench instead of against it, borrows it, turns inside it, and as she turns the closed fan slides over his forearm and under his wrist — a bonesetter's fulcrum, applied the one way her grandfather never applied it. From the outside, if the fog held any witness, it would look of all things almost gentle. His wrist comes with her the way wrists must, past where wrists agree to go — she knows to the inch where that is; it was her grandfather's other trade — and the grip dies with a sound like green wood.
+He has made, in his whole ordered life, no larger error. His hand closes on her collar and closes on a strength that has nothing girlish in it at all, because her grip and her shoulders were not made in a drawing room; they were made by ten thousand sheets wrung out by hand in a cold yard before the counter opened, and by ten thousand mornings of her father turning her wrist past where wrists agree to go, and the work was built by small people for exactly this moment. For one whole second his surgeon's grip is winning, wrenching her half off her feet, and that second is where anybody else this city could have sent into this lane dies. But she folds with the wrench instead of against it, borrows it, steps deep inside his reach where a long man has no leverage, and her left forearm finds his right — listening — and his arm tells her everything through the touch, the way arms have told her things in a dark yard for twelve years: the wrist turning over, the weight rocking back. The closed fan slides over his forearm and under his wrist — a bonesetter's fulcrum, applied the one way her grandfather never applied it. From the outside, if the fog held any witness, it would look of all things almost gentle. His wrist comes with her the way wrists must, past where wrists agree to go — she knows to the inch where that is; it was her grandfather's other trade — and the grip dies with a sound like green wood.
 
 And she steps back.
 
@@ -2098,35 +2189,37 @@ She steps back again. Two paces. Still nothing said.
 
 And now Dr. Cray is afraid.
 
-It comes up in him the way she has watched it come up in others all that autumn — in the shoulders first, then the breathing, and at the last in the eyes, which go down the lane, both ways, quick: the look of a creature suddenly needing the world to contain somebody else. There is nobody else. There is a girl who will not speak, and a dark that will not help him, and a quiet he recognises — she can see the recognising happen, and it is the exact size of his terror — because it is his own quiet, the rehearsed kind, the kind that gets things done in lanes, handed back to him with the direction reversed. He makes a sound then, small and high, with nothing of the bar's courtly fixture in it. His face never changed, all those years, when a woman passed the window alone. It is changing now.
+It comes up in him the way she has watched it come up in others all that autumn — in the shoulders first, then the breathing, and at the last in the eyes, which go down the lane, both ways, quick: the look of a creature suddenly needing the world to contain somebody else. There is nobody else. There is a girl who will not speak and will not gloat and will not grant him any of the things his lifetime's catalogue has taught him to expect from a lane, and a dark that will not help him, and a quiet he recognises — she can see the recognising happen, and it is the exact size of his terror — because it is his own quiet, the rehearsed kind, the kind that gets things done in lanes, handed back to him with the direction reversed. He makes a sound then, small and high, with nothing of the bar's courtly fixture in it. His face never changed, all those years, when a woman passed the window alone. It is changing now. What he cannot survive is not the wrist, and not the dark; it is being weighed and found ordinary — he, who carried the power of an empire in a leather case and decided at a street door who was worth getting cold for, looked at like weather by a laundry girl who will not even grant him the tribute of fear.
 
 They both know he cannot leave. Not because she blocks the way — she does not; the lane to his rooms stands open behind him — but because of what walking off would leave alive behind him: a witness with a memory, a shop two streets from his door. Men like him do not leave a lane's account unsettled; it is not in the design of them. She watches him understand it — watches the door close in his own logic, the way a diagnosis closes — and waits for what the design does next.
 
-It does what it has always done. He gathers what is left of himself and begins, the third time and the last, broken-handed, up off the wall, at her throat. She has ended it twice already, in the smallest ways that would end it, and it has not stayed ended.
+It does what it has always done. *You,* he says — the word he spent on her at the start of the evening, when it was still pleasant, come back to him stripped of everything that ever followed it — and then, broken-handed and blind with what her stillness has done to him, he gathers the whole ruined weight of himself up off the wall and throws it at her, the third time and the last, meaning to carry them both over the low lip of the wharf, or into the wall, or into anything at all that would make her stop being what she is. She has ended it twice already, in the smallest ways that would end it, and it has not stayed ended.
 
-The knife does, in her hand, low and once and almost without sound, what it was built to do to something considerably tougher than what it meets tonight.
+Su does not brace for it. She reads the shift in his shoulders the way ten thousand dawns taught her to read it — the face lies; the shoulders confess — and at the last fraction of a second she pivots on her heel and is simply not where he arrives.
 
-He goes down against the warehouse wall and does not get back up. His face, at the last of it, is not what she braced for. It is a question, unfinished — as though a calculation had come out wrong and he wanted, professionally, to know where. He does not confess. He does not deny. You, he says — the word he spent on her at the start of the evening, when it was still pleasant, come back to him with everything after it missing — and the rest of the sentence goes wherever the rest of such sentences go, and the alley is very quiet except for the river doing what the river does forty feet away.
+He meets nothing but fog. His own momentum, on stone slick with the river's breath, carries him where he was already going: past her, over the low wooden lip of the embankment, his arms reaching for a purchase the night does not offer — and under the lip there is only the drop, and the black water waiting at the foot of it, the winter ebb running out hard and cold as a drawn blade. The sound is not a large one — a heavy, folding splash, forty feet from where the river has been running all along, doing what the river does — and then the current, which took six hundred souls off Woolwich on the worst night this city ever gave itself and did not pause over them, has him too, and closes over him without keeping a ripple to mark it, as indifferent to a pristine surgeon as to anything else it has ever been fed. His face, in the half-instant before the fog and the water closed on it, was not the terror she braced for. It was a question, unfinished — as though a calculation had come out wrong and he wanted, professionally, to know where.
 
 Down the lane there is only dark where the woman went. Su never learns her name, never sees her face in daylight, and no account of that night ever finds its way into any paper she will read. A woman with her life just handed back to her does not carry the story to a police station that has spent the autumn arresting foreigners for their faces; whatever she told whoever held her when the shaking stopped, the autumn swallowed it with everything else it swallowed.
 
-Su stands over him, breathing hard, before she starts shaking — not before; during would have got her killed. After is allowed. His grip is stamped into her collarbone in bruises that will take three weeks to fade, and she will wear high collars every one of those days, and her mother will notice, and say nothing, because Sau-Ling Zhang keeps her own ledgers and knows an entry that isn't hers to read.
+Su goes to the edge of the wharf and looks down, breathing hard, and there is only moving dark and the fog lying on it and nothing reaching back up; the fast water has already closed over the place. Then, and not before — before would have got her killed — she starts to shake. His grip is stamped into her collarbone in bruises that will take three weeks to fade, and she will wear high collars every one of those days, and her mother will notice, and say nothing, because Sau-Ling Zhang keeps her own ledgers and knows an entry that isn't hers to read. She stands in the fog until the shaking is a thing she is doing and not a thing being done to her. Then she gathers the spilled linen back into the basket by feel, because it is hers, and because there is one thing left in this lane she has not yet done.
 
 * * *
 
 ## X. The Clasp
 
-The case lies in the mud where it fell, and this is the part of the night she has planned least, because she could not plan it without deciding, and she could not decide.
+The case lies in the mud where it fell when the woman tore free, and this is the part of the night Su has no plan for at all, because there was never a plan — there was a basket and a shortcut and a scuffle in the fog — and because the case is the one thing the river has not already taken, and she is the only one left in the lane to decide what becomes of it.
 
-She kneels with her hand on the clasp for a long time. One motion. Inside is either the thing the oilcloth's shape has promised all along — and then the autumn has an ending, and Kate and Liz get their answer, and the heat under her ribs gets to call itself right — or it is bandages and a retired man's blade and an old man's habits, and the man she has just killed was only tonight's monster and not the season's, and the five answers the city wants are still out there in the dark wearing somebody else's coat.
+She kneels with her hand on the clasp for a long time. One motion. Inside is either the thing the oilcloth's shape has promised since the evening she glimpsed it over the bar — and then the autumn has an ending, and Kate and Liz get their answer, and the man the river just took was the man the century keeps its capital letters for — or it is bandages and a retired man's blade and an old man's habits, and the man she drove into the water was only tonight's monster and not the season's, and the five answers the city wants are still out there in the dark wearing somebody else's coat.
 
 She takes her hand off the clasp.
 
-Not because she is afraid of the answer — she tells herself this on her knees in the dark, and will spend years checking whether it was true. Because of the rules. If she opens it and finds the horror, the thing she has just done becomes a payment, a wage, a debt collected — never for payment — and she will have made herself, backwards, in one motion, exactly what her father warned the world would offer to make her. What she did in this lane has to stand on what she saw when she did it: a woman under his hands, a rehearsed quiet, a hand going to the clasp even as he fell. That was enough to act on. It will have to be enough to live on. Knowing more now would not make the dead man more stopped. It would only make her more comfortable — and comfort, her father says, is the one wage the work never pays.
+Not because she is afraid of the answer — she tells herself this on her knees in the dark, and will spend years checking whether it was true. Because of the rules. She read his shoulders and was not where he arrived; she can tell herself forever that the river did it and not her, and she will try — but she was in the lane, and something in her steered the empty air he flung himself into, and she will not pretend on her knees that her hands are clean. If she opens the case now and finds the horror, then what she did stops being the ending of a murder she walked in on and becomes a payment, a wage, a debt collected — never for payment — and she will have made herself, backwards, in one motion, exactly what her father warned the world would offer to make her. What she did in this lane has to stand on what she saw when she did it: a woman under his hands, a rehearsed quiet, a hand going to the clasp instead of the handle. That was enough to act on. It will have to be enough to live on. Knowing more now would not make the drowned man more stopped. It would only make her more comfortable — and comfort, her father says, is the one wage the work never pays.
 
 Of the two questions the lane has left her with, only one has weight, and it is not the one the world would suppose. Why is weightless. He was killing a woman when she reached him — whatever else he was or wasn't, whatever the case does or doesn't hold, that much happened in front of her, under his hands, in that practised quiet. The work exists for that moment and no other: a fight already started, ended in the smallest number of moves that will end it. People who were not in the lane will always have gentler moves available to them; she had a grip on her collar that was winning. If she had been slower, the woman was dead. If she had been softer, she was. Why will never once keep her awake. What she can never know — the five, the autumn, the name the papers spent a winter selling — that is the question with the weight, and she chose to carry it here, on her knees in the mud, with her hand coming off the clasp.
 
-The body goes into the Thames before first light, weighted with chain from her father's shop. The case goes in with it, unopened, wrapped and weighted separately, a little further out — the one thing in the world that could have answered the question, translated into the only language the river speaks, which has no word for yes and no word for no.
+The case goes into the Thames after him, before first light, unopened, weighted with chain from her father's shop — the one thing in the world that could have answered the question, wrapped and given to the only language the river speaks, which has no word for yes and no word for no.
+
+There is a second disposal that night, and Su has no hand in it. She comes in through the back before first light with the river and the fight both on her — mud to the elbow, the fog still in her hair, and the doctor's blood, from a wrist that broke like green wood, dried stiff into her sleeve — and she means to see to it herself, quietly, the way she has meant to carry all of it — and finds she does not have to. Her mother is already up, already at the copper, the fire already drawn. Sau-Ling Zhang takes the bundle out of her daughter's arms without meeting her eyes and without one word, the way she has taken ten thousand ruined things off ten thousand strangers, and does to it what a laundress of thirty years' standing knows how to do to cloth that must not be permitted to keep a history: she boils it past testimony. Blood is only one more stain to a woman who has lifted out every kind there is. By the time the shop opens the sleeve is drying on the line, clean, ordinary, one shirt among the morning's whites, and nothing has been said, and nothing across all the years to come ever will be. And Su understands, watching it steam, that her mother has kept a ledger of her own the whole time, in a hand Su was never taught to read, and has just entered in it, without a syllable, the largest sum of either of their lives — and left the column open, at a loss, on purpose, forever, because that is the only kind of book Sau-Ling Zhang has ever believed a God worth having would keep.
 
 * * *
 
@@ -2150,11 +2243,13 @@ She tells no one, ever. Not Hannah. Not her mother. Not the dockworker who hande
 
 That winter Hannah presses a small pot on her across the bar — a rooted cutting of the house's flower, the crimson dancer that has hung at the Prospect's window since before either of them was born. The Hannahs have been splitting it for a hundred years; it roots easy; mind it in frost. That is the whole conversation. A gift with no questions in it, which is, that winter, the only kind Su can take. It goes in the chandlery window, between the lamps, and blooms the next summer like a small unreasonable argument for the world, and Kate — who never saw a bright thing she didn't sing at — would have liked it, which is not nothing. Which is, some mornings, the whole of what there is.
 
+The song stays a front with no back to it. Su never does hear how the girl on the quay makes out — Kate carried the second half of it down to Kent and neither the song nor the singer came home — and for years, folding in the quiet, Su will find herself at the end of that first verse with her mouth already shaped around a second that never learned itself, and nothing coming, and the shirt going into the basket half a beat wrong. There are tunes she will only ever know the fronts of. It is a small grief laid beside the others, and like the others it does not get smaller; it only learns to keep quieter.
+
 She thinks of Long Liz more than she expects to, in the after-years — Liz and her drowned family that never drowned, the story she wore because the true one couldn't be worn in public. Su understands her completely now. She has her own Princess Alice: a night, an alley, a clasp she took her hand from. A story that holds her up and can never be told, carried the way the river carries everything that goes into it — without a mark left on the surface, without anyone else ever quite knowing it's down there.
 
 The Swede comes four years after that autumn, up the shop steps with a sea-bag of salt-stiff shirts and a name with soft corners in it — Erik Johansson — a big, unhurried man off the timber ships, polite to her mother in three languages and wrong in all of them. Su reads him before anything is said, the way she reads everyone: the shoulders of a man carrying something lashed down and riding quiet. She has seen that trim on exactly one other man, and she grew up in his yard.
 
-His father was Swedish, out of Gothenburg. His mother was born on a sugar estate in Trinidad, to a family shipped out of Calcutta under indenture papers in the years after the Company died — the machine had changed its name by then, but the ships had not changed their business, and her people crossed the world in them the way Su's father crossed it in his: steerage, one bundle, everything else owed. When Erik finally tells her this — months on, over mending, in the flat voice of a man reciting a manifest because the cargo is his own family — Su does not say what she is thinking, which is that the same machine moved both their houses across the world and never once entered either of them in its books except as freight.
+His father was Swedish, out of a small fishing village on the coast outside Stockholm. His mother was born on a sugar estate in Trinidad, to a family shipped out of Calcutta under indenture papers in the years after the Company died — the machine had changed its name by then, but the ships had not changed their business, and her people crossed the world in them the way Su's father crossed it in his: steerage, one bundle, everything else owed. When Erik finally tells her this — months on, over mending, in the flat voice of a man reciting a manifest because the cargo is his own family — Su does not say what she is thinking, which is that the same machine moved both their houses across the world and never once entered either of them in its books except as freight.
 
 Liz used to say that grief in English was only a noise to her — that in Swedish it had a floor and walls. Su marries into the language four years after the autumn that taught her what Liz meant, and finds out, over a long marriage, that it is true, and that other words keep their furniture too. Erik asks her almost nothing, ever, which she understands in time is not incuriosity but seamanship: a man long enough on the water knows that everyone comes off it with cargo stowed below the line, and that a good crewmate does not go down another's hold uninvited. On slack-tide Sundays he rows her out on the river — the river that moved her family, drowned her question, and owes her more than it will ever admit — and she goes, and the water, which has taken everything this house ever fed it, gives the two of them back an hour with nothing owing in it either direction.
 
@@ -2222,7 +2317,7 @@ Twenty-nine thousand bombs on the docks since September, she says. And counting.
 
 She opens it again and adds tonight's line. The dock system the Company built — the pepper docks, the tea docks, the engine room of an empire — burning, page by page.
 
-One night in October the wind comes off a burning bond up-river where a gin house kept its stock, and for an hour the smoke over Wapping smells of juniper — the whole parish briefly aromatic, like the inside of a stone bottle — and the old docker, sniffing at the door, observes that Jerry has finally hit something London will genuinely miss. It is the only joke anyone makes that week, and it does the work of ten.
+One night in October the wind comes off a burning bond up-river where a gin house kept its stock, and for an hour the smoke over Wapping smells of juniper — the whole parish briefly aromatic, like the inside of a stone bottle — and the docker, sniffing at the door, observes that Jerry has finally hit something London will genuinely miss. It is the only joke anyone makes that week, and it does the work of ten.
 
 And once, between two nights of bombs, there is a line in the notebook that is not damage. Fuchsia flowering, west sill, it says — because the pot still stands where it has stood for a century and a half, and Hannah carries it down to the cellar at every siren and back up at every all-clear, the one resident of the house with a guaranteed shelter place. Gwen recorded it the way she records everything: once, exactly, without comment. A ledger of destruction is still a ledger. It takes what it's given.
 
@@ -2260,9 +2355,9 @@ He's doing better than he thinks. Still upright. Still talking. Still drinking, 
 
 ## V. The Man Who Remembers
 
-He comes in after the Canadian's been talking an hour. Old — sixty-five, seventy, hard to say — built short and wide with the enormous hands of a man who's spent fifty years lifting things not meant to be lifted.
+He comes in after the Canadian's been talking an hour. Fifty-odd, though the docks have thrown in another ten for free — built short and wide, with the enormous hands of a man who has spent a working life lifting things not meant to be lifted, and a scar under one eye that a German gave him the last time the world did this.
 
-A docker since 1918, when he was fifteen and his father walked him down to the water and told him this was his life now. He's worked every dock on the river. Sits next to the Canadian without introducing himself — doesn't need to, everyone here knows him, his father drank in this room, so did his grandfather, and his grandfather's grandfather ran a chandler's shop off the Causeway two centuries back, supplying rope and tar to Company ships — a name, Carter, that means nothing to anyone in the room tonight except the docker himself, and even he only remembers it because his mother mentioned it once, in passing, the way families mention names that used to matter and don't anymore.
+A docker since he was fifteen, when his father walked him down to the water and told him this was his life now — the same walk his own father had once given him, and his before that. He's worked every dock on the river, and so had his father, the whole of a life, until this September — the same month the bombs came — when the old man's chest finally gave out and he clocked out of work and life in the same week, which is the only way his son has ever heard of a docker wanting to go. He buried him three weeks back, in the Limehouse ground where the family has always gone. Nobody in this room knows that tonight, because he has not said it, because saying a thing like that out loud is not the kind of thing his people do. His father drank in this room, so did his grandfather, and his grandfather's grandfather ran a chandler's shop off the Causeway two centuries back, supplying rope and tar to Company ships — a name, Carter, that means nothing to anyone in the room tonight except the docker himself, and even he only remembers it because his mother mentioned it once, in passing, the way families mention names that used to matter and don't anymore.
 
 He listens to the talk of global networks and supply chains and snorts.
 
@@ -2290,13 +2385,13 @@ The sirens start at quarter to nine. Nobody moves at first. Then the engines get
 
 The first bomb is close. The building doesn't rattle — it shakes. Glasses leap off the shelf and shatter. The blackout paper tears free in strips, and orange light comes through where black should be. The docks, burning again. Or still.
 
-Everyone hits the floor. Even the old docker, who's spent weeks insisting he isn't afraid of bombs, who has a scar from the last war to prove it — under the table now with the rest of them. The Canadian's curled under the bar making a sound that isn't quite a word. The old laundrywoman from the Causeway — Chinese, seventy-odd, in this bar on Fridays since anyone can remember — does not get under anything. She sits where she sat, back against the wall, eyes closed, hands folded in her lap, and her hands are perfectly still, and the stillness comes off her like heat off a stove, and the corner of the room nearest her is measurably braver for it. Gwen stays at her table, writing through the falling plaster, eyes going to the window between lines — not for the bomb's sake, but for the glow beyond it, checked against the memory of where Peter's crew was working when she last had word, which was two days ago and might as well be two years for all the comfort it gives her now. The record is the one thing keeping her upright while everything else is on the floor. It is also, tonight, the only kind of watching over him she's allowed to do out loud.
+Everyone hits the floor. Even the docker, who's spent weeks insisting he isn't afraid of bombs, who came through the last war and never lets the room forget it — under the table now with the rest of them. The Canadian's curled under the bar making a sound that isn't quite a word. The old laundrywoman from the Causeway — Chinese, seventy-odd, in this bar on Fridays since anyone can remember — does not get under anything. She sits where she sat, back against the wall, eyes closed, hands folded in her lap, and her hands are perfectly still, and the stillness comes off her like heat off a stove, and the corner of the room nearest her is measurably braver for it. Gwen stays at her table, writing through the falling plaster, eyes going to the window between lines — not for the bomb's sake, but for the glow beyond it, checked against the memory of where Peter's crew was working when she last had word, which was two days ago and might as well be two years for all the comfort it gives her now. The record is the one thing keeping her upright while everything else is on the floor. It is also, tonight, the only kind of watching over him she's allowed to do out loud.
 
 The bomb lands two streets off — close enough to strip a warehouse roof and every window on this side of the lane. The Prospect stands. Dust sifts from the beams, a shelf of bottles goes over, and the building holds, the way it has through three hundred years of a city trying to fall down around it. Two streets east, a terrace that predates the Company's own dissolution simply isn't there by morning. There's no accounting for which buildings the bombs choose. There never is.
 
 The all-clear sounds, thin as a whistle ending a match nobody won. The regulars get up slowly, brushing plaster from their hair. Hannah comes out from behind the bar with a cut on her cheek she doesn't touch, already counting unbroken bottles. The old laundrywoman is already up and sweeping glass alongside her, wordless, and is gone before anyone can thank her, the way she has always been.
 
-The Canadian crawls out white-faced, nearly falls, and the old docker catches his arm and holds him steady — two men who've never met, propping each other up in the dust.
+The Canadian crawls out white-faced, nearly falls, and the docker catches his arm and holds him steady — two men who've never met, propping each other up in the dust.
 
 First time? the docker says.
 
@@ -2314,7 +2409,7 @@ Nobody in the room tonight knows how many more nights of this are coming. That n
 
 Twenty-nine thousand bombs is tonight's running total in Gwen's notebook — not final, just tonight's. Twenty-nine thousand holes where the Company's docks used to stand: the import dock, the export dock, the lock gates, the warehouses, the crane tracks, the rail lines that carried cargo out to the rest of Britain. Some of it still burning from three nights back. Nobody knows how many more pages the book has left in it.
 
-The old docker sits with his pint and says nothing more. It's in his face when he looks east. Whatever's left of the world he spent fifty years working will not look tomorrow the way it looked yesterday, and he's stopped expecting it to.
+The docker sits with his pint and says nothing more. It's in his face when he looks east, and it is more than the docks. His father gave that water the whole of his life, and it gave him back a ruined chest and a box in the Limehouse ground and, at the very last, the one mercy of going three weeks before he'd have had to watch it burn. His son has not worked out yet whether that was a kindness or the hardest part of the whole business. Whatever's left of the world his father spent a life on will not look tomorrow the way it looked yesterday, and he has stopped expecting it to. He came in tonight because this is where his father drank, and his grandfather before him, and a man has to carry a grief like this one somewhere the walls are older than the thing he's lost.
 
 Gwen closes the notebook. Tonight's entry is finished. She doesn't know yet whether Peter's crew was anywhere near tonight's line, and won't know until he either walks through that door in the morning, soot-blackened and short a few hours' sleep, or doesn't. The book can't tell her that. She keeps it anyway. She doesn't know how many more the war will ask of her and has given up asking herself. She only knows the book has to be kept, night after night, so someone, eventually, can say exactly what happened and when.
 
@@ -2466,7 +2561,7 @@ On his way out, there's half a second — the hedge fund manager looks up, their
 
 At low tide, on the foreshore below the gallows, the mudlarks work the mud with trowels and licences — hobbyists now, where the trade used to be hunger. One of them comes up the stairs at dusk with the day's take in a tobacco tin and shows Hannah, for the price of a pint, the best of it: clay pipes, a musket flint, a garter buckle. And one coin. Gold, thin as a fingernail, stamped with writing that runs the wrong way and no king's head she knows. Foreign, the mudlark says. Old. Sailor dropped it, probably. Hannah turns it over twice and hands it back, and the river, which has held the question since before this house had glass in its windows, says nothing whatsoever about the others.
 
-Somewhere across the river, in a terraced house in Bow, a great-great-granddaughter of a Causeway chandler keeps three things she has never connected: a fuchsia in the yard that predates every fence around it; the steadiest hands in her school's first-aid course; and, at the back of a wardrobe, a parcel wrapped in paper gone the colour of weak tea — her grandmother's grandmother's, never to be thrown away, never to be opened. She could not tell you why. She keeps it anyway. Some families keep things the way some buildings do. In this part of London it runs in the blood and the brickwork both.
+Somewhere across the river, in a terraced house in Bow, a great-great-granddaughter of a Causeway chandler and a Swedish sailor off the timber ships keeps three things she has never connected: a fuchsia in the yard that predates every fence around it; the steadiest hands in her school's first-aid course; and, at the back of a wardrobe, a parcel wrapped in paper gone the colour of weak tea — her grandmother's grandmother's, never to be thrown away, never to be opened. She could not tell you why. She keeps it anyway. Some families keep things the way some buildings do. In this part of London it runs in the blood and the brickwork both.
 
 The river doesn't care who's drinking and who's carrying tonight. It carries the tea, the gin, the containers, the money, all of it, without preference. That's what rivers do.
 
@@ -2498,7 +2593,7 @@ The bar empties the way it always does — tourists first, back to their hotels;
 
 The room holds what it always holds: everything that's happened in it, unevenly remembered. A contract folded and unfolded on this bar four centuries back. A man's shaking hands. A number somebody couldn't stop repeating. A triangle drawn in spilled ale. A woman watching for a husband who never came. A confession about a well. A shareholder's ten and a half percent. A notebook filling up with bombs. Three of those things are sitting in a gap in the timber a few feet from where the hedge fund manager had his pint tonight, found and photographed and put back, and even now they explain almost nothing — a thimble, a scrap of paper, a notebook that stops mid-sentence, three objects standing in for everyone in this book who left nothing behind at all. None of it is on the walls. None of it is in the heritage section. The beams don't announce what they've seen. A building doesn't testify — it only stands, and leaves the noticing to whoever happens to be standing in it.
 
-And under all of it, older than any cargo, the room's longest-serving trade: the women who waited. For boys who signed. For a factor three years silent. For a husband off a Company ship. For a rigger in the Brazils with a plant between his knees. For a fireman son in a burning dock. The marks Ashby cut under the counter were the first entries in that ledger, and it is the only one this book has never once needed to explain, because every century has known how to read it on sight.
+And under all of it, older than any cargo, the room's longest-serving trade: the women who waited. For boys who signed. For a factor three years silent. For a husband off a Company ship. For a rigger in the Brazils with a plant between his knees. For a fireman son in a burning dock. The marks Maggie cut under the counter were the first entries in that ledger, and it is the only one this book has never once needed to explain, because every century has known how to read it on sight.
 
 Most nights, not much gets noticed. The tourist's photographs hold a room, tastefully lit, four stars out of five, and none of the four hundred years the guidebook promised her. The hedge fund manager doesn't photograph anything — the case study's already filed away as inspiration, everyone it was built on stripped out of the file. The room doesn't especially remember him either. He's one of thousands who've warmed their hands here on a drink they didn't order for the taste.
 
@@ -2518,7 +2613,7 @@ This is a work of fiction built on a scaffold of documented history, and the rea
 
 The large events are real. The East India Company was chartered on the last day of 1600 and dissolved by Act of Parliament in 1858; Lancaster's first fleet sailed in 1601 and came home in 1603; ten English merchants were tortured and executed at Amboyna in 1623; Henry Every took the Ganj-i-Sawai in 1695 and was never caught, though six of his crew hanged at Execution Dock after a first jury's acquittal was retried into a conviction; William Kidd hanged on the same foreshore in 1701, and the rope broke the first time; Plassey was substantially arranged before it was fought; the Bengal famine of 1770 killed millions while the Company's revenue was collected in full; the Company was rescued from collapse by public money in 1773, and the tea that rescue sent to America went into Boston harbour that December; Edmund Burke prosecuted Warren Hastings for seven years and lost; Bligh sailed 3,600 miles in an open boat; a mate of the Cutty Sark killed a seaman in 1880 and her captain, having helped him escape, went over the rail in the Java Sea; the London docks burned through the autumn of 1940; and the towers of Canary Wharf now stand on the West India Docks. Where the record gave me dates, numbers, and weather, I have tried to keep to them. Where I have knowingly compressed or adjusted, the timeline at the back of this book records the true sequence.
 
-The people, with a handful of exceptions, are invented. Every protagonist in these pages — Tom, Daniel and Nell, Esther Finch, Nathaniel Cross, Coates, Mulvey, Naylor, Alec Munro, Mei, Harding, Coombs, Su Zhang, Gwen, and every keeper of the bar from Ashby to the last Hannah — is fiction, as is everything they say, hide, and decide. Real persons appear at the edges of their stories: Kidd, Every, Clive, Mir Jafar, Bligh, Hastings, Burke, Wallace and Smith of the Cutty Sark, and others. Where such people speak or are spoken of in these pages, their words and private motives are imagined, though I have tried to imagine them inside the boundaries of what the record supports.
+The people, with a handful of exceptions, are invented. Every protagonist in these pages — Tom, Daniel and Nell, Esther Finch, Nathaniel Cross, Coates, Mulvey, Naylor, Alec Munro, Mei, Harding, Coombs, Su Zhang, Gwen, and every keeper of the bar from Maggie to the last Hannah — is fiction, as is everything they say, hide, and decide. Real persons appear at the edges of their stories: Kidd, Every, Clive, Mir Jafar, Bligh, Hastings, Burke, Wallace and Smith of the Cutty Sark, and others. Where such people speak or are spoken of in these pages, their words and private motives are imagined, though I have tried to imagine them inside the boundaries of what the record supports.
 
 One chapter requires a stronger caution. The Whitechapel murders of 1888 were real, and were never solved. "The Watchman's Daughter" invents a suspect and invents an ending, and neither is a claim about what actually happened — within the story itself, deliberately, no one ever learns whether the man in the alley was the murderer. Su's friendships with Elizabeth Stride and Catherine Eddowes are likewise invented: the two women were real, they died on the same September night, and what little of them appears here — Liz's borrowed Princess Alice grief, Kate's hop-picking summer and her cheerfulness — is drawn from the record and extended with affection. The five women who died deserve better than a solution made up for a novel; the chapter is offered as a story about the people the fear belonged to, not as an answer to a case that has none.
 
@@ -2526,7 +2621,7 @@ Three chapters are marked as interludes — the Bounty, the Cutty Sark, the Whit
 
 The fuchsia is folklore, faithfully retold: the story that Britain's first fuchsia came off a sailor's ship to a Wapping windowsill in the late 1780s, was bought by the nurseryman James Lee for guinea cuttings, and touched the Prospect itself, is the pub's own legend — and this book takes the pub's word for it. Peg and her rigger are invented; Lee was real; the plant, wherever it truly landed, conquered England. The gin thread, by contrast, is straight history: genever came over with the Dutch wars and the jeer of "Dutch courage"; William's accession made the spirit patriotic; the Gin Craze and the Act of 1751 happened as the landlord remembers them; Company and Navy surgeons truly dissolved cinchona bark in spirits and sugar to get it down; and aerated tonic water was patented in 1858, the year the Company died. The gin and tonic is the one imperial institution in this book still in daily service.
 
-Finally, a word about the vantage point. This book stands in one London room for four centuries, which means it hears the empire mostly in the voices of the people who profited from it, served it, or drank near it — and only rarely in the voices of the people it was practised upon. That is a deliberate limit, and it has a cost, and I have tried to make the cost visible rather than pretend it away: the ledger in these pages is written from the counting-house side, and the reader is invited, on every page, to notice who is missing from the room. Bengal, Canton, Amboyna, and Boston had their own rooms, their own evenings, and their own stories, told better elsewhere — some of the places to start are listed in the bibliography that follows.
+Finally, a word about the vantage point. This book stands in one London room for four centuries, which means it hears the empire mostly in the voices of the people who profited from it, served it, or drank near it — and only rarely in the voices of the people it was practised upon. That is a deliberate limit, and it has a cost, and I have tried to make the cost visible rather than pretend it away: the ledger in these pages is written from the counting-house side, and the reader is invited, on every page, to notice who is missing from the room. Bengal, Canton, Amboyna, and Boston had their own rooms, their own evenings, and their own stories, told better elsewhere — some of the places to start are listed in the bibliography that follows. World history belongs to all of us; no single room, least of all this one, holds more than a corner of it, and the corner is only worth standing in if it sends you looking for the rest.
 
 The Prospect of Whitby is real, and older than the Company. The tide still runs past it twice a day. The rest is fiction.
 
@@ -2586,19 +2681,29 @@ The Prospect of Whitby is real, and older than the Company. The tide still runs 
 
 **1800–1839**  The opium trade expands. Indian poppy is forced on China via Canton.
 
+**1829**  Sir Robert Peel founds the Metropolitan Police; the new blue-coated "bobbies" replace the old parish night-watch. They will never quite reach the poorest lanes of the East End — a gap those streets fill themselves, sixty years on, with watch committees of their own.
+
 **1833**  The Charter Act. The Company loses its monopoly on trade but keeps its territory.
 
 **1838**  The Fighting Temeraire passes Wapping under tow to the breakers at Rotherhithe. A painter gets it down.
 
 **1839**  The First Opium War begins. The Royal Navy enforces the Company's drug trade.
 
+**1848**  The junk Keying — the first Chinese vessel to reach Britain — moors on the Thames below Blackwall, and Londoners pay a shilling to board her. Her crew's displays of Chinese boxing are among the first the city has ever seen. Forty years downriver, a Wapping laundress will still be keeping the art.
+
+**1851**  The Great Exhibition opens under Paxton's glass in Hyde Park; six million file past the manufactured wealth of empire. Among the exhibits is the Koh-i-Noor, taken from the Punjab the year before.
+
 **1857**  The Indian Rebellion (Sepoy Mutiny). The Company's rule crumbles.
 
-**1858**  The Government of India Act dissolves the Company. The Crown takes over. The machine continues.
+**1858**  The Government of India Act dissolves the Company; the Crown takes over, and the machine continues under a new name. That same summer the Thames, thick with the city's raw sewage, chokes London in the Great Stink and drives Parliament out of its own chambers — bullying the great sewers into being at last. And that same year aerated tonic water is patented: quinine made just drinkable, and the gin and tonic is born — an anti-malarial ration to keep the empire's men upright in its fever provinces.
+
+**1861**  The Tooley Street Fire. The riverside warehouses south of London Bridge go up — tallow and saltpetre feeding a blaze that burns for the better part of a fortnight, destroys some eleven acres of wharves, and kills James Braidwood, father of the London fire brigade. The docks learn again what they are built of: everything that burns.
 
 **1880**  The clipper Cutty Sark's mate kills a seaman on a voyage to Anjer; her captain, John Wallace, helps the mate escape and later takes his own life. The mate is convicted of manslaughter two years later.
 
 **1888**  The Whitechapel murders terrorise the East End. Five canonical victims between August and November; the killer is never identified.
+
+**1889**  The Great Dock Strike. Tens of thousands of dockers walk out across Wapping and the East End and hold the greatest port on earth still for five weeks, until the owners concede the "dockers' tanner" — sixpence an hour. For once, the men at the bottom set the price.
 
 **1940–1945**  The Blitz. The Company's docks are bombed. The empire's engine room burns.
 

@@ -4,6 +4,42 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-07] (manuscript re-synced with published revision — Maggie, Stockholm, Foreword)
+
+### Changed
+- **Ashby dropped from the book entirely** (author-directed): the keeper
+  is Maggie on every page — ch01 (§II retitled "Maggie"), ch02, 1701's
+  "the Maggie who first ran this place," 2019's "the marks Maggie cut,"
+  and the Author's Note. No married surname remains in her biography.
+- **Gothenburg scrapped** (author-directed): Maggie is now from a small
+  fishing village on the coast **outside Stockholm**; Erik Johansson's
+  father (ch12 §XII) comes from the same unnamed village. Per author
+  direction, Gothenburg is not to appear anywhere unless the book one
+  day engages the Swedish East India Company (headquartered there).
+- Ch01 §II rewritten and expanded: Maggie's first husband is now Johan,
+  a Swedish fisherman lost to illness, their son gone to the Swedish
+  navy — the Johansson line stated once, narrator-only, as returning to
+  this reach of the river generations later. Second husband remains the
+  English waterman lost off Africa. Crossing re-dated: she came over as
+  a grown woman, not at seventeen.
+- Manuscript synced from the published reader (nj22az.github.io/the-front-row-seat),
+  which had run ahead of this folder: revisions ported to ch01, ch02,
+  ch03 (Gunsway coinage), ch04, ch05 (male landlord noted), ch06 (new
+  river close), ch12 (expanded), ch13, ch14 (Bow descendant gains the
+  Swedish sailor), Author's Note (new closing sentence on world
+  history), and the timeline (new 1829, 1848, 1851, 1861, 1889 entries;
+  expanded 1858).
+- Craft plan §3(b-i)/(b-ii) rewritten to record the pivot and the
+  updated Maggie–Erik mechanism (narrator-stated once, still invisible
+  to every character); all remaining Ashby/Gothenburg references in
+  notes and README corrected.
+- `exports/the-front-row-seat.md` regenerated from the synced manuscript.
+
+### Added
+- `manuscript/00a-foreword.md` — the Foreword ("I am an engineer, not a
+  historian"), previously live on the site but missing from the
+  manuscript source of truth.
+
 ## [2026-07-03] (craft pivot — chapter structure + Maggie Ashby)
 
 ### Changed

@@ -31,7 +31,7 @@ EIC/
 ├── README.md                       ← This project card
 ├── CHANGELOG.md                    ← Change log
 ├── manuscript/                     ← Draft chapters, in reading order (source of truth)
-│   ├── 00-frontmatter.md
+│   ├── 00-frontmatter.md / 00a-foreword.md
 │   ├── 01-1603 ... 14-2019         ← 14 chapters, numbered chronologically
 │   └── appendix-timeline.md / appendix-bibliography.md
 ├── exports/
@@ -46,7 +46,7 @@ EIC/
 
 14 chapters drafted (1603–2019), every chapter carrying an invented protagonist
 with an active in-scene choice, connected across the centuries by three light
-background devices (the Cache under the bar, the Ashby/Hannah keeper line, and
+background devices (the Cache under the bar, the Maggie/Hannah keeper line, and
 recurring "scar tissue" damage to the room itself). See
 `notes/outline-and-craft-plan.md` for the standing craft plan; remaining work is
 polish-level (epigraph consistency, refrain rationing, an Author's Note, and a

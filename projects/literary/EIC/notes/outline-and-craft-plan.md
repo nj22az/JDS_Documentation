@@ -22,7 +22,7 @@ history. Update it as decisions get made — it's a working doc, not a monument.
   institutions launder atrocity into arithmetic — approached from a different angle (a hanging,
   a bribe, a famine, a drug empire, a massacre-and-reprisal, a dissolution, a case study). Keep
   finding new angles on the same idea; don't state the idea more plainly.
-- **The barkeep as chorus.** Ashby → Hannah → Hannah. Good continuity already. See
+- **The barkeep as chorus.** Maggie → Hannah → Hannah. Good continuity already. See
   Section 3 for making this a deliberate, payoff-able thread instead of a coincidence of naming.
 
 ## 2. The core problem: every chapter has the same shape
@@ -56,7 +56,7 @@ below should still get the complete book. A reader who does notice gets a second
 the first. Three layers, load-bearing in this order:
 
 **(a) The Cache — the primary mechanism.** A hidden accumulation under the bar counter, seeded by
-Ashby's notches in 1603 (already in the text — one cut for every young man who signs and
+Maggie's notches in 1603 (already in the text — one cut for every young man who signs and
 ships out). Several protagonists, at the moment of their active choice, leave something physical
 there: Tom's keepsake (1603), Nathaniel's written testimony about the missing French passes
 (1701), and others as each chapter is drafted. No protagonist knows about any other's item — only
@@ -64,7 +64,7 @@ the building holds all of it. Paid off in 2019, when it's finally found and coun
 throughline that most directly embodies "the pub is the protagonist": the place remembers what
 the people never told each other.
 
-**(b) The keeper line — Ashby.** Ashby's trade (not necessarily her exact bloodline)
+**(b) The keeper line — Maggie.** Maggie's trade (not necessarily her exact bloodline)
 recurs behind the bar at intervals — trained successors, a name passed down rather than a title
 deed. This explains, and makes deliberate, something already latent in the draft: "Hannah" already
 appears as the keeper across 1770, 1839, and 1858 — a 90-year span too long for one woman. Rather
@@ -73,27 +73,30 @@ carries, given to whoever's daughter or niece takes over the bar**, the way a tr
 any one person holding it. One light line per appearance is enough — never a revealed twist, just
 the ordinary fact of how the place has always worked.
 
-**(b-i) Margaret "Maggie" Ashby's origin (added 2026-07-03, author-directed pivot).** Ashby is
-now named in full and given a Swedish backstory: Margareta, from a fishing town on the coast
-beyond Gothenburg, crossed at seventeen, married an Englishman named Ashby (a waterman, first
-of the two husbands she buries), kept his name. Regulars who go back far enough call her Maggie
-(Hendricks does, once, at the chapter's close); everyone else knows her only as Ashby. This is
-the deepening the author asked for — real biography for the keeper-line's founder — done as an
-addition to ch01 §II only; no other chapter's "Ashby" references needed to change, since Ashby
-remains her working/legacy name throughout (1701's "the Ashby who first ran this place," 2019's
-"the marks Ashby cut," the Author's Note).
+**(b-i) Maggie's origin (2026-07-03 pivot; superseded 2026-07-07, author-directed).** The
+surname Ashby is **dropped from the book entirely** — she is Maggie on every page, in every
+chapter, in the Author's Note ("the Maggie who first ran this place" in 1701, "the marks
+Maggie cut" in 2019). Her biography, as now written in ch01 §II: Margareta, from a small
+fishing village on the coast **outside Stockholm** (Gothenburg is scrapped — per author
+direction Gothenburg appears nowhere unless the book one day engages the Swedish East India
+Company, which was headquartered there), one of nine, raised half in a boat. Married young
+and for love: a fisherman named **Johan**, one son between them; Johan died of a slow illness,
+the son took the King's coin in the Swedish navy, and Margareta crossed to London as a grown
+woman — later and older than most. Her second buried husband is an unnamed English waterman
+lost off Africa. "Maggie" is the worn-down English scrap of Margareta — no married name
+involved. Hendricks's close-of-chapter intimacy beat survives as "Goodnight, Maggie" from the
+one man who remembers her arriving.
 
-**(b-ii) The silent Ashby–Erik thread (2026-07-03).** Per author direction, Maggie is Erik
-Johansson's ancestor — but the connection is authorial fact, never stated on the page, per the
-book's existing "seasoning never load-bearing" rule and the author's own confirmed choice
-("silent — never stated"). Mechanism (for continuity only, not prose): Maggie's own family
-stayed in Sweden; a younger brother's line, generations later — after Swedish patronymics
-fixed into inherited surnames — becomes "Johansson." Erik descends from that Gothenburg branch,
-not from any English child of Maggie's. The only textual anchor is geographic rhyme: ch01
-places Maggie "on the coast beyond Gothenburg"; ch12 already has Erik's "father was Swedish,
-out of Gothenburg." No character in either chapter ever learns of the other. **Hard guard:**
-no future chapter may have any character state or discover this connection — it stays exactly
-as invisible as the Cache items are to each other.
+**(b-ii) The Maggie–Erik Johansson thread (updated 2026-07-07 to match the published text).**
+Maggie IS Erik Johansson's ancestor, through her son by Johan — the boy on the Swedish deck.
+The connection is now stated **once, narrator-only**, in ch01 §II ("Johansson turned English
+at last, carried home generations down the years by a man who will step off a timber boat
+with a sea-bag of salt-stiff shirts") and echoed by origin-rhyme in ch12 §XII (Erik's father:
+"Swedish, out of a small fishing village on the coast outside Stockholm" — the same village,
+never named). 2019's Bow descendant now names "a Swedish sailor off the timber ships"
+alongside the Causeway chandler. **Hard guard (unchanged in spirit):** no *character* may
+ever state, learn, or discover the connection — it lives in the narrator's ledger and the
+reader's noticing only.
 
 **(c) One labor line — for texture, not plot.** Carter the chandler (1626) anchors a second
 thread: Wapping trades ran in families. A later docker can be his descendant, tying the book's
@@ -101,13 +104,13 @@ existing Lascar → Somali dockworker echo (already in the 2019 chapter) into th
 labor repeating under new names — rather than leaving it as a thematic coincidence.
 
 **Rule governing all three:** connections are seasoning, never load-bearing for comprehension.
-If a reader has to notice the Cache or the Ashby name to follow the plot, it's been overused.
+If a reader has to notice the Cache or the keeper line to follow the plot, it's been overused.
 
 ## 3a. Protagonist per chapter — DONE, all 14 chapters
 
 | Ch. | Protagonist | Active choice/stake | Cache item left / connective note |
 |---|---|---|---|
-| 1603 | Tom | Leaves a keepsake thimble with Ashby "till I'm back," an active bet against the odds she just gave him. | Keepsake thimble — first item in the Cache. |
+| 1603 | Tom | Leaves a keepsake thimble with Maggie "till I'm back," an active bet against the odds she just gave him. | Keepsake thimble — first item in the Cache. |
 | 1626 | Daniel | A Company man (Pryce) offers him money to keep quiet about Amboyna. Refuses. | — |
 | 1696 | Esther Finch, lodging-house widow | Half-guesses her quiet boarder sailed with Every; a Company-paid information-taker offers her a share of the £500 bounty, and she lies to his face rather than be bought — decided the month six substitutes hang at Execution Dock. | Throws the Mughal gold into the river at the end — deliberately NOT a Cache item (the river keeps it, not the building). |
 | 1701 | Nathaniel ("Fenner") — a former Kidd crewman hiding in the crowd | Overhears that the exculpatory French passes were deliberately buried; writes down what he saw rather than stay silent or expose himself publicly. | Written account of the passes — second item in the Cache. |
@@ -327,7 +330,7 @@ through relatives and consequences, never by name outside their own chapter:
   list (saturation). His final "You," now reprises his own opening word.
 
 - **1888 §XII — Erik Johansson (2026-07-03, author-directed).** Su's husband: a Swedish sailor off the
-  timber ships, father from Gothenburg, mother born on a Trinidad sugar estate to a family
+  timber ships, father from the same Stockholm-coast fishing village as Maggie (see §3 b-ii), mother born on a Trinidad sugar estate to a family
   shipped from Calcutta under indenture "in the years after the Company died" — the machine
   renamed, the ships unchanged (plugs straight into the rebranding thesis; honest history,
   indenture began 1845). Payoffs: Liz's "grief has a floor and walls in Swedish" (§II) lands —
@@ -365,7 +368,7 @@ these were chosen for real-history weight and existing hooks):
   forgiven."
 - **Three one-line bindings:** how news enters the room (post → palm, in 2019 §II); the room's
   languages (Cantonese rules, Swedish grief, four words, three — 2019 §IV); the women who waited
-  (named once, 2019 §IX, keyed to Ashby's marks).
+  (named once, 2019 §IX, keyed to Maggie's marks).
 
 **Held threads (banked, not implemented — draw on these before inventing new ones):** Judge
 Jeffreys taken at the stairs (1688 lore, would slot into 1696); Dickens/the sketchers (1858);
@@ -629,7 +632,7 @@ restructure into a smaller set of character-saga chapters.** The pub and the 160
 remain the spine; recurring figures (the keeper line, the Zhang–Johansson line) get more real
 biography and interiority than a pure "seasoning" rule would previously have allowed, but the
 book does not become a family saga with the Company as backdrop. First application: Margaret
-"Maggie" Ashby (§3(b-i) above). Future passes should ask, per chapter: does this character
+"Maggie" (§3(b-i) above). Future passes should ask, per chapter: does this character
 deserve one more paragraph of real biography, without the chapter's protagonist-with-active-
 choice structure (§3a) changing shape. The "seasoning never load-bearing" rule for cross-chapter
 *connections* (§3, final line) still holds — it is the individual chapters' interiority that may
