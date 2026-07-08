@@ -118,13 +118,15 @@ I was here, he says, which is the trouble. He nods at the window, the river, the
 
 The room thinks on it. It is a strange arithmetic to swallow — that the far end of the story everybody has spent the evening exclaiming over was this end, that the chests went out on the same water standing black outside that window.
 
+Somebody asks who he is, since he seems set on being somebody. Holman, he says. James Holman, out of Boston. He says it the way a man lays his papers on a counter — nothing hidden, nothing volunteered — and the room, having weighed the name and found it carried like an honest one, lets him keep the floor.
+
 Naylor is watching him now, down the bar. They drowned stale leaf, he says. Not a challenge — he is only laying his count alongside, the way he lays everything. Three years in bond, most of it. And they knew it was cheap. That was the whole of the scheme: cheaper than the smugglers, cheaper than anybody. A bargain.
 
-That's what it was, the Boston man agrees. Cheap. He says the word the way you would name the offence rather than the price. You don't understand the town if you think the cheapness helped. A dear insult a man can refuse and feel himself a fool for a day. A cheap one — cheap enough that refusing it costs him hard money, in a bad winter, in front of his neighbours — that one is aimed lower. That one is built to make a man lift his hand to his own harness. They read the bargain exact, both halves of it. That is why it went in the water and not into the shops.
+That's what it was, Holman agrees. Cheap. He says the word the way you would name the offence rather than the price. You don't understand the town if you think the cheapness helped. A dear insult a man can refuse and feel himself a fool for a day. A cheap one — cheap enough that refusing it costs him hard money, in a bad winter, in front of his neighbours — that one is aimed lower. That one is built to make a man lift his hand to his own harness. They read the bargain exact, both halves of it. That is why it went in the water and not into the shops.
 
 Naylor considers this the way he considers a count that balances from a direction he had not tried. The hook baited with the discount, he says, mostly to himself. It is, near enough to the word, what he paid most of an evening's candle to write to Boston in the autumn. He does not say so.
 
-At the Company table the senior man's prophecy is still hanging over the room — ships of war, a regiment, the port shut like a debtor's door. The Boston man drinks to the bottom of his cup before he answers it, though nobody addressed it to him.
+At the Company table the senior man's prophecy is still hanging over the room — ships of war, a regiment, the port shut like a debtor's door. Holman drinks to the bottom of his cup before he answers it, though nobody addressed it to him.
 
 My wife's people sell fish off the Long Wharf, he says. My brother lighters grain in that harbour. Close the port and you don't punish the men in the paint — you can't find the men in the paint, that is the point of paint. You punish the lightermen and the fish-sellers and every soul who eats off that water. He sets the cup down. Same trade as this street, gentlemen. Shut Wapping for a year and ask yourselves what Wapping does about it.
 
@@ -134,7 +136,7 @@ He is a while answering. If the port closes, there's no cargo home and no wage w
 
 He is nearly at the door when Naylor speaks again, in the tone of a man asking after the weather in a place he has never been. The Long Wharf. There's a chandlery near the head of it — cordage and lamp-oil. A man about thirty keeps it.
 
-I know it, the Boston man says. I've sold that house oil. Quiet man. Fair scales. He waits, in case there is more to the question. There isn't — or none that Naylor is willing to put into a room. Fair scales is worth knowing, Naylor says, and goes back to his ale, and the Boston man reads the whole of it in half a second, the way port towns teach a man to read it — everyone on a waterfront is somebody's letter that didn't get written — and lets it be.
+I know it, Holman says. I've sold that house oil. Quiet man. Fair scales. He waits, in case there is more to the question. There isn't — or none that Naylor is willing to put into a room. Fair scales is worth knowing, Naylor says, and goes back to his ale, and Holman reads the whole of it in half a second, the way port towns teach a man to read it — everyone on a waterfront is somebody's letter that didn't get written — and lets it be.
 
 Friday, the ebb, he says again from the doorway, to nobody in particular. If a man had a word he wanted carrying.
 

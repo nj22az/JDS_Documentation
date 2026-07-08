@@ -4,6 +4,31 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-08] (the Wager reworked + the Boston man named)
+
+### Changed
+- **Ch 1 §IV "The Wager" rewritten** (author-directed; the dramatic DNA
+  of The Sand Pebbles' confrontation borrowed, not copied): Rook now
+  auctions Mara against a card debt and makes her serve the room;
+  Tom's "She has heard enough" is answered with "Then buy her," his
+  emptied pockets swept to the floor — "Not enough." Mara fights for
+  herself (the jug of ale into Rook's eyes, the stool into his knee,
+  the mug across his wrist), declining to be property rather than
+  being rescued. Tom is losing when Maggie's single sentence — "Any
+  man who still calls himself a sailor had best decide what sort of
+  river he drinks beside" — raises the room: the old docker, the man
+  with the killing cough, the tar-arguers, then more. Rook reads the
+  arithmetic of a room on its feet and folds; Maggie buys the debt
+  with one of Tom's coins, bought and witnessed. Nobody feels
+  victorious; the closing papers/doors/locks beat is unchanged.
+- **Ch 2 (Dutch Courage) §II**: Hendricks' post-mortem of the fight
+  updated to the new version — he arrives after it, hears it from the
+  room, and lands the chapter's thesis: "no room has ever once stood
+  up to a paper."
+- **Ch 8 §VI**: the American mate is now named — James Holman, out of
+  Boston (author-chosen name; no collision elsewhere in the book).
+- Craft plan §3a rows updated; compiled export regenerated.
+
 ## [2026-07-08] (five-part structure + foreword fixes)
 
 ### Added
