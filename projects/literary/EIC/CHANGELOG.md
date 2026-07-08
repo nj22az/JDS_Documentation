@@ -4,6 +4,36 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-08] (five-part structure + foreword fixes)
+
+### Added
+- **Five named parts** grouping the existing chapters (nothing merged,
+  nothing removed — author-directed organisation for readability):
+  Part One "The Venture" (1603–1626), Part Two "The Gallows Years"
+  (1696–1701), Part Three "Kings of Bengal" (1757–1790), Part Four
+  "The Poppy" (1839–1888), Part Five "Afterlives" (1940–2019).
+  Interludes trail the part whose era they belong to. Each part is a
+  `NNz-part-*.md` divider file (`<!-- part -->` marker) with a title,
+  year range, and a 2–3 sentence orienting note.
+- `scripts/md2book.py`: part-divider support — right-hand part-title
+  pages, small-caps part rows in the contents, parts never counted in
+  chapter numbering.
+
+### Fixed
+- `scripts/md2book.py` silently dropped `00a-foreword.md` (it matched
+  none of the three file categories) — the printed book had no
+  Foreword. Now rendered after the contents page with its own TOC row.
+- Foreword/Author's Note overlap trimmed (author-directed "keep both"):
+  the Foreword loses its timeline pointer sentence — the Author's Note
+  owns the accounting; the Foreword keeps the promise.
+
+### Changed
+- Compiled export regenerated (now includes the five part pages).
+- README structure/status and craft-plan status updated; the
+  considered-and-rejected chapter-merging option is logged in the
+  craft plan (it would recreate the over-length problem the 1603
+  split fixed).
+
 ## [2026-07-08] (Boston Tea Party — the American sailor + the war-era timeline)
 
 ### Changed

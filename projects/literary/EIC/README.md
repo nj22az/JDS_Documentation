@@ -32,6 +32,7 @@ EIC/
 ├── CHANGELOG.md                    ← Change log
 ├── manuscript/                     ← Draft chapters, in reading order (source of truth)
 │   ├── 00-frontmatter.md / 00a-foreword.md
+│   ├── NNz-part-*.md               ← 5 part-divider pages (The Venture … Afterlives)
 │   ├── 01-1603 ... 15-2019         ← 15 chapters, numbered chronologically
 │   └── appendix-timeline.md / appendix-bibliography.md
 ├── exports/
@@ -44,7 +45,9 @@ EIC/
 
 ## Status
 
-15 chapters drafted (1603–2019; the 1603 evening spans two), every chapter carrying an invented protagonist
+15 chapters drafted (1603–2019; the 1603 evening spans two), grouped into
+five named parts (The Venture / The Gallows Years / Kings of Bengal /
+The Poppy / Afterlives), every chapter carrying an invented protagonist
 with an active in-scene choice, connected across the centuries by three light
 background devices (the Cache under the bar, the Maggie/Hannah keeper line, and
 recurring "scar tissue" damage to the room itself). See

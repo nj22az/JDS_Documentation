@@ -58,6 +58,15 @@ SCENE_BREAK_MARK = "*&#8195;*&#8195;*"   # em-space separated asterisks
 # a labelled, smaller opener and an italic contents entry.
 INTERLUDE_MARKER = "<!-- interlude -->"
 
+# A file opening with this marker is a part divider: a right-hand part-title
+# page ("Part One — The Venture", a year range, a short orienting note) that
+# groups the chapters after it. Parts are never counted as chapters.
+PART_MARKER = "<!-- part -->"
+
+# The foreword file: front matter, rendered between the contents page and
+# the first part, with its own contents entry.
+FOREWORD_FILENAME = "00a-foreword.md"
+
 # Book-only editorial cut: working notes that don't belong in a printed copy.
 BIBLIOGRAPHY_CUT_MARKER = "## Suggested additions"
 
@@ -198,6 +207,30 @@ h2 {{
 }}
 em {{ line-height: inherit; }}
 
+/* ------------------------------------------------------------- parts -- */
+section.part {{ page-break-before: right; page: chapter-opener; }}
+.part-kicker {{
+    text-align: center; font-variant: small-caps; letter-spacing: 0.3em;
+    font-size: {CHAPTER_KICKER_SIZE}; color: #666; margin: 2.1in 0 0.45in 0;
+}}
+h1.part-title {{
+    text-align: center; font-size: {CHAPTER_TITLE_SIZE}; font-weight: normal;
+    letter-spacing: 0.01em; margin: 0 0 0.2in 0; line-height: 1.2;
+}}
+.part-dateline {{
+    text-align: center; font-size: {CHAPTER_DATELINE_SIZE}; font-style: italic;
+    color: #666; margin: 0 0 0.6in 0; letter-spacing: 0.04em;
+}}
+.part-note {{ margin: 0 0.55in; }}
+.part-note p {{
+    text-align: center; text-indent: 0; font-style: italic;
+    font-size: 10pt; line-height: 1.6; color: #333;
+}}
+.contents li.toc-part {{
+    margin: 1.1em 0 0.55em 0; font-variant: small-caps;
+    letter-spacing: 0.12em;
+}}
+
 /* -------------------------------------------------------- back matter -- */
 section.backmatter {{ page-break-before: right; }}
 section.backmatter h1 {{
@@ -274,6 +307,31 @@ def render_chapter(index, chapter_text, chapter_number):
     )
 
 
+def render_part(part_index, text):
+    """A part-divider page. Expects '# Part N — Title', an italic year-range
+    line, then the orienting note."""
+    text = text.lstrip()[len(PART_MARKER):].lstrip()
+    heading = re.match(r"#\s+(Part [A-Za-z]+)\s+—\s+(.+)", text)
+    if not heading:
+        sys.exit(f"part {part_index}: expected '# Part N — Title' heading")
+    kicker, title = heading.group(1), heading.group(2).strip()
+    rest = text.split("\n", 1)[1].strip()
+    dateline = ""
+    dateline_match = re.match(r"\*([^*]+)\*\s*\n", rest + "\n")
+    if dateline_match:
+        dateline = dateline_match.group(1)
+        rest = rest[dateline_match.end():].strip()
+    note_html = markdown_to_html(rest)
+    return kicker, title, (
+        f'<section class="part" id="part-{part_index}">'
+        f'<div class="part-kicker">{kicker}</div>'
+        f'<h1 class="part-title">{title}</h1>'
+        f'<div class="part-dateline">{dateline}</div>'
+        f'<div class="part-note">{note_html}</div>'
+        f"</section>"
+    )
+
+
 def render_backmatter(index, text):
     cut = text.find(BIBLIOGRAPHY_CUT_MARKER)
     if cut != -1:
@@ -289,15 +347,40 @@ def extract_book_epigraph(frontmatter_text):
 def build_html(manuscript_dir, title, subtitle, author):
     files = sorted(manuscript_dir.glob("*.md"))
     frontmatter = [f for f in files if f.name.startswith("00-")]
+    foreword = [f for f in files if f.name == FOREWORD_FILENAME]
+    parts = [f for f in files if f.read_text().lstrip().startswith(PART_MARKER)]
     chapters = [f for f in files if re.match(r"\d\d-\d{4}-", f.name)]
     appendices = [f for f in files if f.name.startswith("appendix-")]
 
     book_epigraph = extract_book_epigraph(frontmatter[0].read_text()) if frontmatter else ""
 
     toc_rows, chapter_html = [], []
+
+    foreword_html = ""
+    if foreword:
+        foreword_html = render_backmatter("foreword", foreword[0].read_text())
+        toc_rows.append(
+            '<li><span class="toc-num">&nbsp;</span>'
+            '<a href="#bm-foreword">Foreword</a></li>'
+        )
+
+    # Chapters and part dividers interleave in filename order.
+    body_files = sorted(parts + chapters, key=lambda f: f.name)
     numbered_count = 0
-    for index, chapter_file in enumerate(chapters, start=1):
-        raw = chapter_file.read_text()
+    part_count = 0
+    index = 0
+    for body_file in body_files:
+        raw = body_file.read_text()
+        if raw.lstrip().startswith(PART_MARKER):
+            part_count += 1
+            kicker, part_title, html = render_part(part_count, raw)
+            toc_rows.append(
+                f'<li class="toc-part">'
+                f'<a href="#part-{part_count}">{kicker} — {part_title}</a></li>'
+            )
+            chapter_html.append(html)
+            continue
+        index += 1
         is_interlude = raw.lstrip().startswith(INTERLUDE_MARKER)
         chapter_number = None
         if not is_interlude:
@@ -354,6 +437,7 @@ def build_html(manuscript_dir, title, subtitle, author):
     <ol>{''.join(toc_rows)}</ol>
   </div>
 </div>
+{foreword_html}
 {''.join(chapter_html)}
 {''.join(backmatter_html)}
 </div>

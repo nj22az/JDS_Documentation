@@ -23,7 +23,7 @@ I am an engineer, not a historian. I have spent most of my working life at sea a
 
 The people in it never existed. Tom, Maggie, Daniel, Su — I made them up, and their names too. If one of them reminds you of someone real, that is chance and nothing more. None of this happened to anyone you could go and find.
 
-But the history is real. The Company sailed. The docks burned. Ten million people starved while the account books balanced. Those things happened, to people who were not invented. There is a plain timeline of them at the back of this book, so you can hold what is true against what I made up.
+But the history is real. The Company sailed. The docks burned. Ten million people starved while the account books balanced. Those things happened, to people who were not invented.
 
 Here is what I actually did. I took things out of my own life — a bar in Marseille where something in me snapped, a young man who ran me through an airport in Seoul and asked for nothing, the lake I grew up beside that I was sure had pirate caves in it — and I moved them into older centuries and gave them other names. I did it because the feelings are old. A young man signing his years away, a fight that starts before you have finished thinking, a stranger who helps you for no reason at all — none of that is new. It only wears different clothes in different centuries.
 
@@ -32,6 +32,14 @@ I could not send you back in time to feel it for yourself. So I sent these peopl
 Read them as real. That is the closest thing to true I have to offer.
 
 *— Nils Johansson*
+
+---
+
+# Part One — The Venture
+
+*1603–1626*
+
+A queen signs a paper on the last day of a dying century, and a company is born with a monopoly, a fleet, and no idea what it will become. In one tavern on the north bank of the Thames, the first boys sign on, the first survivors come home and edit their stories, and the first man comes back wrong. The price of the venture starts arriving before the profit does.
 
 ---
 
@@ -577,6 +585,14 @@ Just a wall, the letters say. Bricks and mortar. Nothing to worry about.
 
 ---
 
+# Part Two — The Gallows Years
+
+*1696–1701*
+
+The trade is bigger now, and it has learned what to do when an emperor is angry: hang somebody. Two manhunts, two trials, and two crowds on the low-tide mud below the tavern's windows. When the trade requires a body, a body will be found — the only question the river leaves open is whose.
+
+---
+
 > **1696**
 >
 > *"Five hundred pounds for one man. There are streets in Wapping you could buy for less."*
@@ -830,6 +846,14 @@ By full dark the crowd has mostly gone home, pleased with itself, already turnin
 Fenner pays for his ale, leaves before the keeper can say anything else to him, and walks out into the same dark and mud that took a boy named Tom a hundred years before him, indifferent to which of them comes back. He will not use the name Fenner again after tonight. There is a collier leaving on the morning tide that isn't particular about a new hand's papers, and by the time it makes open water he will have a third name ready, the way a man in his trade keeps a spare coat.
 
 The river takes the noise of the evening the way it takes everything — the cheering, the pie seller's last calls, the creak of the empty cage settling on its chains, the tide already turning to come back in. It does not keep score of who was guilty and who was merely useful. It has never once been asked to, and it would not know how to answer if it were.
+
+---
+
+# Part Three — Kings of Bengal
+
+*1757–1790*
+
+A company of merchants buys a battle, inherits a province of twenty million people, and starves a third of it without missing a dividend. When the bill finally arrives, Parliament pays it — and the rescue's tea ends up at the bottom of an American harbour. Through it all the ships keep sailing, and one open boat crosses three thousand six hundred miles of ocean on six ounces of bread a day.
 
 ---
 
@@ -1536,6 +1560,14 @@ Alec Munro stops beside it a moment on his way out into the wet dark, and looks 
 The newspaper gets passed from table to table until the print wears soft at the folds and somebody finally uses it to light a pipe. The talk moves on, the way talk does, to the price of coal and a dog fight promised for Saturday and whether the frost will hold.
 
 Alec Munro leaves before any of that, out into the wet dark, no wiser about his brother than he was when he came in — only wiser now about the shape of the not-knowing, which is its own kind of answer, and the only kind anyone in London can give him tonight.
+
+---
+
+# Part Four — The Poppy
+
+*1839–1888*
+
+The Company's last great cargo is opium, its last war is fought to sell it, and its death in 1858 changes the name on the paperwork and nothing else. The machine's wake spreads for a generation — a hell ship, a terrified autumn in Whitechapel — and washes up at the bar the children of wars the room has already half forgotten.
 
 ---
 
@@ -2306,6 +2338,14 @@ Liz used to say that grief in English was only a noise to her — that in Swedis
 Kate's bodice stays wrapped in its paper in the back room for years, paid for and never collected, because neither Su nor her mother can bring themselves to unpick the seams and use the cloth. When the shop finally passes to other hands, it goes with Su to her own house, still in its paper. Some accounts are kept open on purpose. It is the only entry in the family's books that both women can read and neither will ever say aloud.
 
 The water took him in without ceremony. It has never once been asked what it's holding, and it has never once answered.
+
+---
+
+# Part Five — Afterlives
+
+*1940–2019*
+
+The docks the Company built burn under German bombs, and what the fire spares, money finishes. At the end the tavern is the oldest witness left on the river — pouring gin and tonic, minding a flower, and keeping under its counter everything the centuries trusted it with.
 
 ---
 

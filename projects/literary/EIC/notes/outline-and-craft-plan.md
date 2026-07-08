@@ -5,7 +5,7 @@ Conceit: the Prospect of Whitby (formerly the Devil's Tavern), Wapping, as a fix
 East India Company from its 1600 charter to its 2019 afterlife as a tourist stop across the river
 from Canary Wharf.
 
-Status: 15 chapters drafted, spanning 1603–2019 (the 1603 evening split into two chapters, 2026-07-07: "The Boy Who Signed" + "Dutch Courage"). Six chapters added to the original run of
+Status: 15 chapters drafted, spanning 1603–2019 (the 1603 evening split into two chapters, 2026-07-07: "The Boy Who Signed" + "Dutch Courage"). Grouped 2026-07-08 into five named parts — The Venture (1603–1626), The Gallows Years (1696–1701), Kings of Bengal (1757–1790), The Poppy (1839–1888), Afterlives (1940–2019) — each with a part-title page carrying a 2–3 sentence orienting note; interludes trail the part whose era they belong to. Nothing merged, nothing removed: parts are pure grouping (author-directed; combining chapters was considered and rejected — it would recreate the over-length problem the 1603 split fixed). Six chapters added to the original run of
 eight: Kidd (1701), Bligh (1790), Cutty Sark (1880), Ripper (1888), Every (1696), and the
 credit crisis / Boston tea chapter (1774). This doc
 is the standing plan for turning the draft into a page-turner rather than an illustrated
