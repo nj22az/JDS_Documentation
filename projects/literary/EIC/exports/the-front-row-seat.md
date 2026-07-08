@@ -171,9 +171,19 @@ Hold that to your mouth, she says.
 
 He holds it. And she looks, for a moment, not at him but at the paper lying where he left it on the bar — the Company's paper, tomorrow's signature still folded up inside it. Tom had thought the paper in his pocket was a door out. He has just had it beaten into him, in the space of one bad minute, what men do with a door when there is a person on the far side of it and the lock is in their hand.
 
-* * *
+---
 
-## V. The Dragon's Lads
+> **1603**
+>
+> *"The Hollanders have chartered a company of their own, with more capital and better guns. Pray the pepper is worth the neighbours."*
+>
+> — Waterman's talk, Wapping, 1603
+
+---
+
+# 1603: Dutch Courage
+
+## I. The Dragon's Lads
 
 The door opens an hour later and the wind brings in noise and cold and the smell of the river at night. Five or six men clump in from the waterfront, loud, salt-stiff, converting their wages into ale as fast as Maggie can pour it. One of them is missing two fingers on his left hand and doesn't seem to have noticed, which tells you something about what he has noticed instead.
 
@@ -209,7 +219,7 @@ And money, she agrees. Money that isn't going to bring back four hundred and fif
 
 * * *
 
-## VI. The Dutchman
+## II. The Dutchman
 
 He comes in later, when the Dragon's men have moved from cloves to a louder argument about something else entirely. The door brings in a wall of cold, the candles gutter, and behind it comes a man who looks carved out of the river itself — broad, short, hands like two enormous mittens of callused flesh, the particular squint of someone who has spent more years looking at horizons than at other people.
 
@@ -261,7 +271,7 @@ Hendricks looks at him then — really looks, at the eye going black and the lip
 
 * * *
 
-## VII. The Night Before
+## III. The Night Before
 
 The evening wears on. The Dragon's men get loud again, the way men do when they've drunk long enough for the fear to surface but not long enough to win. Singing, badly. One of them crying quietly into his ale — the way men cry in bars: not at all, and completely. Somewhere behind them, the snow bet from earlier is being loudly re-litigated — no snow yet, and the man who staked his supper on it is being reminded of this at length and without mercy.
 
@@ -309,7 +319,7 @@ The door closes. Maggie stands still behind the counter. Hendricks finishes his 
 
 He will sign the paper in the morning. He will get on the ship. This is how it works tonight, in this bar, on this river: a boy hears the odds, drinks his ale, and goes anyway. The river does not keep track.
 
-## VIII. What Comes After
+## IV. What Comes After
 
 Morning comes grey and wet. The river is loud enough to hear over the empty bar. Somewhere behind the tavern a cockerel crows — a farmer's bird, or an optimist's; in Wapping the distinction isn't always clear.
 

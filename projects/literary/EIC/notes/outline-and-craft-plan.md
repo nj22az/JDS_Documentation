@@ -5,7 +5,7 @@ Conceit: the Prospect of Whitby (formerly the Devil's Tavern), Wapping, as a fix
 East India Company from its 1600 charter to its 2019 afterlife as a tourist stop across the river
 from Canary Wharf.
 
-Status: 14 chapters drafted, spanning 1603–2019. Six chapters added to the original run of
+Status: 15 chapters drafted, spanning 1603–2019 (the 1603 evening split into two chapters, 2026-07-07: "The Boy Who Signed" + "Dutch Courage"). Six chapters added to the original run of
 eight: Kidd (1701), Bligh (1790), Cutty Sark (1880), Ripper (1888), Every (1696), and the
 credit crisis / Boston tea chapter (1774). This doc
 is the standing plan for turning the draft into a page-turner rather than an illustrated
@@ -91,7 +91,7 @@ one man who remembers her arriving.
 Maggie IS Erik Johansson's ancestor, through her son by Johan — the boy on the Swedish deck.
 The connection is now stated **once, narrator-only**, in ch01 §II ("Johansson turned English
 at last, carried home generations down the years by a man who will step off a timber boat
-with a sea-bag of salt-stiff shirts") and echoed by origin-rhyme in ch12 §XII (Erik's father:
+with a sea-bag of salt-stiff shirts") and echoed by origin-rhyme in the 1888 chapter §XII (Erik's father:
 "Swedish, out of a small fishing village on the coast outside Stockholm" — the same village,
 never named). 2019's Bow descendant now names "a Swedish sailor off the timber ships"
 alongside the Causeway chandler. **Hard guard (unchanged in spirit):** no *character* may
@@ -106,11 +106,12 @@ labor repeating under new names — rather than leaving it as a thematic coincid
 **Rule governing all three:** connections are seasoning, never load-bearing for comprehension.
 If a reader has to notice the Cache or the keeper line to follow the plot, it's been overused.
 
-## 3a. Protagonist per chapter — DONE, all 14 chapters
+## 3a. Protagonist per chapter — DONE, all chapters
 
 | Ch. | Protagonist | Active choice/stake | Cache item left / connective note |
 |---|---|---|---|
-| 1603 | Tom | Leaves a keepsake thimble with Maggie "till I'm back," an active bet against the odds she just gave him. | Keepsake thimble — first item in the Cache. |
+| 1603 (The Boy Who Signed) | Tom | Hears the odds from Maggie, then is tested mid-decision: stands up to Rook over Mara and wins ugly. Chapter ends on what the fight taught him about papers, doors, and locks. | — |
+| 1603 (Dutch Courage) | Tom | Hears Hendricks's warning (VOC, nine in ten), and leaves his mother's thimble with Maggie "till I'm back" — an active bet against the odds he's just been given. | Keepsake thimble — first item in the Cache. |
 | 1626 | Daniel | A Company man (Pryce) offers him money to keep quiet about Amboyna. Refuses. | — |
 | 1696 | Esther Finch, lodging-house widow | Half-guesses her quiet boarder sailed with Every; a Company-paid information-taker offers her a share of the £500 bounty, and she lies to his face rather than be bought — decided the month six substitutes hang at Execution Dock. | Throws the Mughal gold into the river at the end — deliberately NOT a Cache item (the river keeps it, not the building). |
 | 1701 | Nathaniel ("Fenner") — a former Kidd crewman hiding in the crowd | Overhears that the exculpatory French passes were deliberately buried; writes down what he saw rather than stay silent or expose himself publicly. | Written account of the passes — second item in the Cache. |
@@ -125,7 +126,7 @@ If a reader has to notice the Cache or the keeper line to follow the plot, it's 
 | 1940 | Gwen | Personal stake made explicit: her son Peter is an AFS fireman in the docks; her post is also a vigil for him. | Her wartime notebook, kept back from the official ARP record — third item in the Cache. |
 | 2019 | Hannah ("the fourth of that name") | During a cellar refit, finds the Cache (thimble, Nathaniel's note, Gwen's notebook) and chooses to leave it exactly as found rather than report it. | **Cache payoff chapter.** Also pays off the lopsided-table scar-tissue gag (American tourist's husband wedges a coaster under it, oblivious). |
 
-Status: all 14 chapters now have an active protagonist. The Cache holds three items (1603, 1701,
+Status: all chapters now have an active protagonist. The Cache holds three items (1603, 1701,
 1940), found and left in place in 2019. Both scar-tissue pairs (Louie's chair 1701→1888; the
 table 1839→2019) are complete. Remaining open items are craft-level polish, not structure — see
 Sections 4, 5, and 7 below (live-scene conversion candidates, refrain rationing, and the
@@ -283,7 +284,7 @@ through relatives and consequences, never by name outside their own chapter:
   Cantonese; the runner is never called a Lascar (that word belongs to 1770/2019).
 
 - **1888 — the strengthening pass (2026-07-03, author-directed).** Three changes, all inside
-  ch12: **(a) Lee** — Su's little brother, dead of fever winter 1881 aged seven; Cray, sent for
+  1888 chapter: **(a) Lee** — Su's little brother, dead of fever winter 1881 aged seven; Cray, sent for
   at night, came in the morning, unhurried, counted the fee, wrote *fever*; not murder, not even
   parish-neglect — the same man who climbed two flights free for the potboy. §V carries the full
   story; §VIII names Lee's debt as "the entry she scratches out first" (real, owed, and exactly
@@ -383,7 +384,7 @@ thin — it does not simply add.
 
 Real anecdotes from the author, translated into period and given to existing characters.
 Rule: **one touch each, no echoes elsewhere** — these are character texture, not braided
-threads. The Wei's-crossing adaptation (Uzbekistan/Seoul → ch12 §III) is logged in §3e.
+threads. The Wei's-crossing adaptation (Uzbekistan/Seoul → 1888 chapter §III) is logged in §3e.
 
 - **Ch01 §VI — Tom's unspoken answer** (from "Why I Wanted to Be a Sailor"). The Essex
   millpond that was the ocean, serpents off the map edges, the cousin's wrecker tale of
@@ -627,7 +628,7 @@ differentiator against straight historical fiction.
 
 The author asked to let characters "grow and be more important" — a real softening of the
 original hard rule in §3 ("the protagonists are tools, not the story"). Author's chosen scope,
-when asked directly: **deepen within the current 14 chapters/five-century spine — do not
+when asked directly: **deepen within the current chapter set/five-century spine — do not
 restructure into a smaller set of character-saga chapters.** The pub and the 1603→2019 timeline
 remain the spine; recurring figures (the keeper line, the Zhang–Johansson line) get more real
 biography and interiority than a pure "seasoning" rule would previously have allowed, but the
@@ -644,7 +645,7 @@ Changed in `scripts/md2book.py` only — **no manuscript file needed editing**, 
 chapter's `# YEAR: Title` heading line already carries both pieces of data separately; this was
 purely a rendering-hierarchy fix:
 
-- Each of the 11 non-interlude chapters now opens with a small kicker ("Chapter One" through
+- Each of the 12 non-interlude chapters now opens with a small kicker ("Chapter One" through
   "Chapter Eleven"), the chapter's **name** as a large dominant heading, and the **year** as a
   small italic subtitle beneath it. The three interludes keep their existing "Interlude" kicker
   in place of a number (unchanged behaviour, now sharing the same visual weight as the numbered

@@ -32,7 +32,7 @@ EIC/
 ├── CHANGELOG.md                    ← Change log
 ├── manuscript/                     ← Draft chapters, in reading order (source of truth)
 │   ├── 00-frontmatter.md / 00a-foreword.md
-│   ├── 01-1603 ... 14-2019         ← 14 chapters, numbered chronologically
+│   ├── 01-1603 ... 15-2019         ← 15 chapters, numbered chronologically
 │   └── appendix-timeline.md / appendix-bibliography.md
 ├── exports/
 │   ├── the-front-row-seat.md       ← Compiled single-file book (regenerate after chapter edits)
@@ -44,7 +44,7 @@ EIC/
 
 ## Status
 
-14 chapters drafted (1603–2019), every chapter carrying an invented protagonist
+15 chapters drafted (1603–2019; the 1603 evening spans two), every chapter carrying an invented protagonist
 with an active in-scene choice, connected across the centuries by three light
 background devices (the Cache under the bar, the Maggie/Hannah keeper line, and
 recurring "scar tissue" damage to the room itself). See

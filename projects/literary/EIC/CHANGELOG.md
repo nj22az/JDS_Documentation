@@ -4,6 +4,32 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-07] (1603 split into two chapters — readability)
+
+### Changed
+- **Chapter 1 (6,000 words, double the book's chapter rhythm) split in
+  two at its natural seam**, per author direction, for readability:
+  - **Ch 1 "1603: The Boy Who Signed"** (§I–IV, ~3,000 words): the rain,
+    Maggie, the interrogation over the paper, and the Rook fight —
+    ending on Tom bleeding at the bar, looking at the Company's paper,
+    having learned what men do with a door when the lock is theirs.
+  - **Ch 2 "1603: Dutch Courage"** (~3,000 words, sections renumbered
+    I–IV): the Dragon's lads, Hendricks and the VOC warning, the
+    thimble, and the morning after. New epigraph in the invented-
+    broadsheet style ("The Hollanders have chartered a company of
+    their own…" — Waterman's talk, Wapping, 1603).
+  - Same continuous evening; the second chapter's "an hour later"
+    opening deliberately carries across the break. No prose changed
+    beyond the split, the section renumbering, and the new epigraph.
+- Chapters 02–14 renumbered 03–15 (filenames only; titles unchanged).
+  The book now has 12 numbered chapters + 3 interludes.
+- README and craft plan updated (chapter counts, §3a table now has a
+  row per 1603 chapter); compiled export regenerated; `md2book.py`
+  needed no changes (kicker words run to "Sixteen") — test build OK.
+- **Note:** the web reader (nj22az.github.io/the-front-row-seat) is
+  built from a separate app source and must be rebuilt/republished to
+  pick up the split.
+
 ## [2026-07-07] (manuscript re-synced with published revision — Maggie, Stockholm, Foreword)
 
 ### Changed
