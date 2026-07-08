@@ -4,6 +4,28 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-08] (Holman elaborated — the whaleman's ledger)
+
+### Changed
+- **Ch 8 §VI "The Boston Man" deepened** (author-directed): Holman is
+  now a harpooner-turned-mate — try-pot burn up the forearm, a
+  scrimshawed whale's tooth of his wife worked in his pocket ("She
+  says the nose is wrong. The nose was wrong four voyages ago; the
+  rest of her has caught up since."), and a lapsed Nantucket Quaker's
+  plain speech that surfaces once, at the port-closing peak ("Close
+  that port and thee will starve my wife's mother before thee
+  inconveniences one man in paint"). New exchange with the Company
+  table's senior man carrying the section's quotable lines: "You can
+  kill a whale, because a whale keeps its heart where a harpoon can
+  reach it. I've seen no chart yet that marks the heart of a
+  company."; the whale-line/knowing-when-to-cut speech ("Two crews,
+  one line, and not a knife out on either end of it"); "We light
+  London so London can read the Acts it writes against us"; and the
+  grandchildren line before Friday's ebb. All prior beats intact
+  (naming, cheapness-as-insult, point-of-paint, fair scales, the
+  untaken word to the Long Wharf).
+- Craft plan §3a 1774 row extended; compiled export regenerated.
+
 ## [2026-07-08] (the Wager reworked + the Boston man named)
 
 ### Changed

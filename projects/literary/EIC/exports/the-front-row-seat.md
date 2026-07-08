@@ -1381,7 +1381,7 @@ It was never the threepence, the senior man says, and for once there is no smugn
 
 ## VI. The Boston Man
 
-He has been in the corner all evening, and nobody has marked him for anything but another deep-water man drinking through the winter — which is what he is, near enough. It is when the figures start going round the room that he sets his cup down and speaks, not loudly, in English that crossed the ocean some generations back and has come home with the corners planed different.
+He has been in the corner all evening, and nobody has marked him for anything but another deep-water man drinking through the winter — which is what he is, near enough. Built by his trade, the way the river's men can read at a glance: shoulders for the oar, forearms for the line, and up the right forearm a shiny old burn where a try-pot once spoke to him and he was slow answering. While the room talks he sits working something small in his coat pocket with his thumb, the way other men worry a coin. It is when the figures start going round that he sets his cup down and speaks, not loudly, in English that crossed the ocean some generations back and has come home with the corners planed different.
 
 The Dartmouth, he says. The Eleanour. The Beaver. Anybody here know whose ships those are?
 
@@ -1395,7 +1395,9 @@ I was here, he says, which is the trouble. He nods at the window, the river, the
 
 The room thinks on it. It is a strange arithmetic to swallow — that the far end of the story everybody has spent the evening exclaiming over was this end, that the chests went out on the same water standing black outside that window.
 
-Somebody asks who he is, since he seems set on being somebody. Holman, he says. James Holman, out of Boston. He says it the way a man lays his papers on a counter — nothing hidden, nothing volunteered — and the room, having weighed the name and found it carried like an honest one, lets him keep the floor.
+Somebody asks who he is, since he seems set on being somebody. Holman, he says. James Holman, out of Boston. He says it the way a man lays his papers on a counter — nothing hidden, nothing volunteered — and the room, having weighed the name and found it carried like an honest one, lets him keep the floor. Harpooner at seventeen, he adds, when the room's silence asks for more; mate at thirty; too old now for the boats and too used to them to say so. The thing his thumb has been working comes out of the pocket while he talks: a whale's tooth, scrimshawed, a woman's profile scratched into it in lamp-black, worn soft at the edges from exactly this.
+
+The tooth gets noticed, because everything about a stranger gets noticed on a night like this. My wife, Holman says, turning it once so the near stools can see. Drawn from memory, four voyages. She says the nose is wrong. He puts it away. The nose was wrong four voyages ago. The rest of her has caught up since.
 
 Naylor is watching him now, down the bar. They drowned stale leaf, he says. Not a challenge — he is only laying his count alongside, the way he lays everything. Three years in bond, most of it. And they knew it was cheap. That was the whole of the scheme: cheaper than the smugglers, cheaper than anybody. A bargain.
 
@@ -1403,9 +1405,25 @@ That's what it was, Holman agrees. Cheap. He says the word the way you would nam
 
 Naylor considers this the way he considers a count that balances from a direction he had not tried. The hook baited with the discount, he says, mostly to himself. It is, near enough to the word, what he paid most of an evening's candle to write to Boston in the autumn. He does not say so.
 
+It is the senior man at the Company table who takes Holman up, in the courteous voice the Company keeps for men it is measuring. And when the port closes, sir — and it will close — what does Boston propose? To fight the Royal Navy with fishing smacks?
+
+Holman does not answer straight away. He looks at the man the way he'd look at weather making up to windward.
+
+I was a harpooner seventeen years, he says. Killed more whales than this room has men. And I'll tell you the whole of what I learned, gratis, since the evening's been generous. You can kill a whale, because a whale keeps its heart where a harpoon can reach it. He lets that sit. I've seen no chart yet that marks the heart of a company.
+
+Nobody at the Company table answers that, because there is no answer to it that doesn't prove it.
+
+And I'll tell you the other thing, Holman says, and now he is talking to the whole room. I've been in the boat when the fish sounds. The line runs out so fast it will take a man's leg off at the knee, and the whole art of the trade is knowing when to cut. He makes the little motion, flat hand, once — a man who has done it, or seen it done too late. Nobody in Parliament has ever stood in that boat. And before you ask — no, gentlemen, nobody in Boston has either. That is what frightens me. Two crews, one line, and not a knife out on either end of it.
+
+The room is quiet enough now that the lamps can be heard fizzing. Holman looks up at them, and something that is almost a laugh comes off him, with no joy in it.
+
+Every lamp in this room is burning Nantucket oil, he says. We light London so London can read the Acts it writes against us.
+
 At the Company table the senior man's prophecy is still hanging over the room — ships of war, a regiment, the port shut like a debtor's door. Holman drinks to the bottom of his cup before he answers it, though nobody addressed it to him.
 
-My wife's people sell fish off the Long Wharf, he says. My brother lighters grain in that harbour. Close the port and you don't punish the men in the paint — you can't find the men in the paint, that is the point of paint. You punish the lightermen and the fish-sellers and every soul who eats off that water. He sets the cup down. Same trade as this street, gentlemen. Shut Wapping for a year and ask yourselves what Wapping does about it.
+My wife's people sell fish off the Long Wharf, he says. My brother lighters grain in that harbour. Close the port and you don't punish the men in the paint — you can't find the men in the paint, that is the point of paint. Close that port and thee will starve my wife's mother before thee inconveniences one man in paint. He hears it come out of himself — the plain speech of a grandmother's Nantucket kitchen, thirty years buried, surfacing the way it only does when the water's bad — and he does not take it back. You punish the lightermen and the fish-sellers and every soul who eats off that water. He sets the cup down. Same trade as this street, gentlemen. Shut Wapping for a year and ask yourselves what Wapping does about it.
+
+And understand what you'd be shutting it on, he says, quieter. Half of Boston was christened in Thames water, or near enough. You won't be sending soldiers to a foreign country. You'll be sending them to your grandchildren — and they'll be met by men with English muskets and English names.
 
 Somebody asks the practical question — winter berths, wages, whether he'll sign English and wait for the weather over there to pass.
 
