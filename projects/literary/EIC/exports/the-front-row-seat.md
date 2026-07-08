@@ -1333,7 +1333,47 @@ It was never the threepence, the senior man says, and for once there is no smugn
 
 * * *
 
-## VI. The Marks
+## VI. The Boston Man
+
+He has been in the corner all evening, and nobody has marked him for anything but another deep-water man drinking through the winter — which is what he is, near enough. It is when the figures start going round the room that he sets his cup down and speaks, not loudly, in English that crossed the ocean some generations back and has come home with the corners planed different.
+
+The Dartmouth, he says. The Eleanour. The Beaver. Anybody here know whose ships those are?
+
+The Company's, a docker says, in the tone of a man answering an easy one.
+
+No, the Boston man says. Rotch of Nantucket owns two of them — whaling money, Quakers, oil out and goods home. The third belongs to a Boston house. American built, American owned, American crewed. He turns his cup a half-turn on the wood. The Company never owned one plank on that wharf. Only the leaf. The men in the paint hoisted it out with the ships' own tackle — asked the mate for the keys and handed them back after, had the blocks rigged proper before they started. It was our decks they stood on. That's why they swept them.
+
+You were there? somebody asks.
+
+I was here, he says, which is the trouble. He nods at the window, the river, the forest of masts on the dark water. My ship's been in the oil trade to this river eleven years. I know the Dartmouth's people the way you know men you've wintered with. And I stood on this water in September and watched the Company's chests go into her — off wharves that pay half this room's wages. Some of you will have loaded them. Think on that a moment. The tea Boston drowned went aboard in London, with Wapping hands under it.
+
+The room thinks on it. It is a strange arithmetic to swallow — that the far end of the story everybody has spent the evening exclaiming over was this end, that the chests went out on the same water standing black outside that window.
+
+Naylor is watching him now, down the bar. They drowned stale leaf, he says. Not a challenge — he is only laying his count alongside, the way he lays everything. Three years in bond, most of it. And they knew it was cheap. That was the whole of the scheme: cheaper than the smugglers, cheaper than anybody. A bargain.
+
+That's what it was, the Boston man agrees. Cheap. He says the word the way you would name the offence rather than the price. You don't understand the town if you think the cheapness helped. A dear insult a man can refuse and feel himself a fool for a day. A cheap one — cheap enough that refusing it costs him hard money, in a bad winter, in front of his neighbours — that one is aimed lower. That one is built to make a man lift his hand to his own harness. They read the bargain exact, both halves of it. That is why it went in the water and not into the shops.
+
+Naylor considers this the way he considers a count that balances from a direction he had not tried. The hook baited with the discount, he says, mostly to himself. It is, near enough to the word, what he paid most of an evening's candle to write to Boston in the autumn. He does not say so.
+
+At the Company table the senior man's prophecy is still hanging over the room — ships of war, a regiment, the port shut like a debtor's door. The Boston man drinks to the bottom of his cup before he answers it, though nobody addressed it to him.
+
+My wife's people sell fish off the Long Wharf, he says. My brother lighters grain in that harbour. Close the port and you don't punish the men in the paint — you can't find the men in the paint, that is the point of paint. You punish the lightermen and the fish-sellers and every soul who eats off that water. He sets the cup down. Same trade as this street, gentlemen. Shut Wapping for a year and ask yourselves what Wapping does about it.
+
+Somebody asks the practical question — winter berths, wages, whether he'll sign English and wait for the weather over there to pass.
+
+He is a while answering. If the port closes, there's no cargo home and no wage waiting when I get there, he says. Every reason a sensible man stays on this river. He turns the empty cup upside down on the counter, the small deliberate gesture of a man done drinking. My ship drops down on Friday's ebb. I'll be on her. A man wants to be home before a thing like this finds its shape — and it will not blow over. You heard the gentleman. Both sides mean to spend a great deal more than tea.
+
+He is nearly at the door when Naylor speaks again, in the tone of a man asking after the weather in a place he has never been. The Long Wharf. There's a chandlery near the head of it — cordage and lamp-oil. A man about thirty keeps it.
+
+I know it, the Boston man says. I've sold that house oil. Quiet man. Fair scales. He waits, in case there is more to the question. There isn't — or none that Naylor is willing to put into a room. Fair scales is worth knowing, Naylor says, and goes back to his ale, and the Boston man reads the whole of it in half a second, the way port towns teach a man to read it — everyone on a waterfront is somebody's letter that didn't get written — and lets it be.
+
+Friday, the ebb, he says again from the doorway, to nobody in particular. If a man had a word he wanted carrying.
+
+The cold takes him. Nobody in the room takes him up on it.
+
+* * *
+
+## VII. The Marks
 
 Naylor stays late that night, which is not his habit, nursing a last ale with his ledger-keeper's patience while the bar empties around him.
 
@@ -2675,9 +2715,15 @@ The Prospect of Whitby is real, and older than the Company. The tide still runs 
 
 **1772**  The credit crisis. Overextended and dividend-heavy, the Company cannot pay its bills; Parliament rescues it with a £1.4 million loan — the first state bailout of a corporation.
 
-**1773**  The Regulating Act puts Treasury oversight inside the Company; the Tea Act ships its unsold hoard to America, cheap, with the threepenny duty kept for the principle. In December, Boston throws 342 chests into the harbour.
+**1773**  The Regulating Act puts Treasury oversight inside the Company; the Tea Act ships its unsold hoard to America, cheap, with the threepenny duty kept for the principle. The ships that carry it — the Dartmouth, the Eleanour, the Beaver — are American-owned and American-crewed, and the tea goes aboard in the Thames, with Wapping hands under it. In December, Boston throws all 342 chests into the harbour, using the ships' own tackle, and sweeps the decks after.
 
 **1774**  News of the Boston Tea Party reaches London in January. The port is closed, troops follow, and the road to American independence opens over threepence a pound.
+
+**1775**  Lexington and Concord. The war the tea started begins in earnest; the Navy fits out, and the press gangs sweep Wapping's streets for crews.
+
+**1776**  The thirteen colonies declare independence.
+
+**1783**  The Treaty of Paris. Britain recognises American independence — the threepence collected in full, at the price of a continent.
 
 **1789–1790**  The mutiny on the Bounty. Captain Bligh and eighteen loyal men are set adrift; all but one survive a 3,600-mile open-boat voyage to Timor.
 

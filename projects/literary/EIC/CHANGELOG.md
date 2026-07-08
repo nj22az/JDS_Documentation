@@ -4,6 +4,28 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-08] (Boston Tea Party — the American sailor + the war-era timeline)
+
+### Changed
+- **Ch 8 "1774: Too Big to Sink" — new §VI "The Boston Man"** (~900
+  words; old §VI "The Marks" becomes §VII): an American mate off the
+  Nantucket oil trade is in the room the night the news arrives. He
+  corrects the room's picture (the tea ships — Dartmouth, Eleanour,
+  Beaver — were American-owned and American-crewed; the tea was loaded
+  in the Thames with Wapping hands under it; the raiders used the
+  ships' own tackle, which is why they swept the decks), answers
+  Naylor's "stale leaf" with the cheapness-as-insult argument, hears
+  the port-closing prophecy as a man whose family eats off that port,
+  and chooses Friday's ebb for home. Closing beat: Naylor asks after a
+  Long Wharf chandlery without naming Ben; the offer of a word carried
+  goes untaken — §VII's "he never learns" stands.
+- **Timeline**: 1773 entry expanded (American ships, Thames loading);
+  new 1775 (Lexington/press gangs), 1776 (Declaration), 1783 (Treaty
+  of Paris — "the threepence collected in full, at the price of a
+  continent"), closing the war-era gap between 1774 and 1788.
+- Craft plan §3a: 1774 row's connective note extended.
+- Compiled export regenerated.
+
 ## [2026-07-07] (1603 split into two chapters — readability)
 
 ### Changed

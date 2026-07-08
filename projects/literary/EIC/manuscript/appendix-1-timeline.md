@@ -36,9 +36,15 @@
 
 **1772**  The credit crisis. Overextended and dividend-heavy, the Company cannot pay its bills; Parliament rescues it with a £1.4 million loan — the first state bailout of a corporation.
 
-**1773**  The Regulating Act puts Treasury oversight inside the Company; the Tea Act ships its unsold hoard to America, cheap, with the threepenny duty kept for the principle. In December, Boston throws 342 chests into the harbour.
+**1773**  The Regulating Act puts Treasury oversight inside the Company; the Tea Act ships its unsold hoard to America, cheap, with the threepenny duty kept for the principle. The ships that carry it — the Dartmouth, the Eleanour, the Beaver — are American-owned and American-crewed, and the tea goes aboard in the Thames, with Wapping hands under it. In December, Boston throws all 342 chests into the harbour, using the ships' own tackle, and sweeps the decks after.
 
 **1774**  News of the Boston Tea Party reaches London in January. The port is closed, troops follow, and the road to American independence opens over threepence a pound.
+
+**1775**  Lexington and Concord. The war the tea started begins in earnest; the Navy fits out, and the press gangs sweep Wapping's streets for crews.
+
+**1776**  The thirteen colonies declare independence.
+
+**1783**  The Treaty of Paris. Britain recognises American independence — the threepence collected in full, at the price of a continent.
 
 **1789–1790**  The mutiny on the Bounty. Captain Bligh and eighteen loyal men are set adrift; all but one survive a 3,600-mile open-boat voyage to Timor.
 
