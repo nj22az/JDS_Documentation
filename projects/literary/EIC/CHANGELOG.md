@@ -4,6 +4,33 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-08] (1626 gains a Cache item + 1701 writer's-paper irony)
+
+### Changed
+- **Ch 3 "1626: The Man Who Came Back Wrong" — new §VIII "The True
+  Copy"** (author-directed enhancement): after refusing Pryce's bribe,
+  Daniel writes his own true account of Amboyna — the sentence the
+  Company's deposition would not hold — and Maggie shows him the gap
+  under the counter, where he hides it (touching, but leaving alone,
+  the small metal thing already there — Tom's thimble). This fills the
+  one gap in the Cache throughline: Tom's thimble (1603) → **Daniel's
+  account (1626)** → Fenner's testimony (1701) → Gwen's notebook
+  (1940) → found 2019. Rhymes the chapter's own paradox (the signed
+  deposition is a lie built of facts; the hidden copy is the truth).
+  Later sections renumbered IX–XI.
+- **Ch 15 "2019" §VIII/§IX payoff** updated to four objects: Hannah's
+  hand now also finds the older, barely-legible Amboyna sheet
+  (Amboyna / Towerson / a number); "three centuries → four hundred
+  years," "three objects → four objects," and the §IX recap adjusted
+  ("two scraps of paper… four objects"). Still explains nothing to
+  Hannah — consistent with the others.
+- **Ch 5 "1701" §VI** — surfaced the buried irony: Fenner's testimony
+  is written on the young Company writer's own forgotten sheet ("a
+  sheet the Company paid for and one of its own threw away"), the
+  Company's instrument turned witness against it.
+- Craft plan §3(a) Cache list + §3a 1626 row updated; export
+  regenerated.
+
 ## [2026-07-08] (epigraphs now spoken by our characters + Holman→Homang)
 
 ### Changed

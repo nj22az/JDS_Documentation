@@ -176,7 +176,23 @@ He leaves. Daniel sits a while with the offer where Pryce left it, turning it ov
 
 * * *
 
-## VIII. The Woman Who Came Looking
+## VIII. The True Copy
+
+The deposition he signed sits in a box in Leadenhall Street, and it is a true document, and it is a lie, and the space between those two facts is where Daniel has lived every day since he put his name to it.
+
+Some weeks after Pryce, on an evening the bar is nearly empty, he asks Maggie for paper and ink. She brings them and asks nothing, the way she brings ale to a shaking man — there are hours in this trade a woman learns not to put questions into.
+
+He sets it down plainly, the thing the clerk's pen would not receive. Ten Englishmen and ten Japanese. Towerson two days under the water before he broke, and made to watch the rest of it after. The coral room with no window, the cloth, the patient pen that was finished before he was ever brought in. The word Batavia, and no reason given for it, then or since. At the foot he writes his whole name, unshortened, because he has signed enough lies to know exactly what one is worth as a witness, and this is meant to be the other thing. It takes him most of the evening, and when it is done he has told the truth entire exactly once, on one sheet of paper, in a language no Company clerk can summon him back to amend.
+
+Then he does not know what to do with it. He has just refused good money to keep this quiet, and here he sits having turned the quiet into an object he must now hide or burn — a true account with nowhere to go being only a heavier kind of the very thing Pryce came to buy.
+
+Maggie takes the rag off her shoulder and wipes a length of counter that does not need it, and without looking at him tips her head at the underside of the bar, where the wood has a gap a hand can just fit into. He ducks and reaches and finds it already tenanted — a crowd of small notches worn soft at the edges, and pushed back where a draught has kept it dry, something small and metal his fingers touch and, understanding it is not his to know, leave alone. She offers no account of any of it, and when he looks up her shoulders say only that what a house keeps is the house's own business, and has been longer than he has been alive.
+
+He wedges the paper back against the old wood. It will not raise Towerson off that beach; it is not justice, nor anything with a name so large. But it is the true copy, lodged where no Company pen can reach in and stand it on its head, and that is more than the box in Leadenhall Street will ever hold. He straightens, and something in him that has been on its feet since the coral room sits down at last, a little.
+
+* * *
+
+## IX. The Woman Who Came Looking
 
 She comes in on a Friday. Not young, not old. Dust on her shoes, a thin shawl, the particular set of a woman who has walked further than she meant to because there was no choice about it. She has been walking, in one sense, for three years — through dock offices and mission churches and the doorways of lodging houses, following a name that changed its story with every mouth that carried it. She has been told he was dead, twice, by men who seemed sure of it. Told he was mad, once. Told, by a clerk at a Company door who had no reason to lie to her, that he had taken another wife out east and would not thank her for the coming. She came anyway. You do not turn back from that kind of walking. You only, in the end, arrive.
 
@@ -210,7 +226,7 @@ Daniel eats. Nell watches him, and for the first time since he walked through th
 
 * * *
 
-## IX. Cotton
+## X. Cotton
 
 Carter's back most evenings, treating the bar like an annex of his shop. Tonight he's got news, and Carter with news is Carter at full volume.
 
@@ -232,7 +248,7 @@ The Company's factories are becoming forts — walls going up in Surat, cannon o
 
 * * *
 
-## X. The Walls Get Higher
+## XI. The Walls Get Higher
 
 Years pass. The bar fills and empties and fills again — same cycle, same ale, slowly improving. Daniel and Nell come in less often now, and when they do, it's a different quiet than the one he walked in with. Companionable. The quiet of two people who've said the worst of it out loud and are still sitting next to each other.
 

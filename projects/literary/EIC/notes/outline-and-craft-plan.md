@@ -93,8 +93,8 @@ the first. Three layers, load-bearing in this order:
 **(a) The Cache — the primary mechanism.** A hidden accumulation under the bar counter, seeded by
 Maggie's notches in 1603 (already in the text — one cut for every young man who signs and
 ships out). Several protagonists, at the moment of their active choice, leave something physical
-there: Tom's keepsake (1603), Nathaniel's written testimony about the missing French passes
-(1701), and others as each chapter is drafted. No protagonist knows about any other's item — only
+there: Tom's keepsake (1603), Daniel's own true account of Amboyna (1626, added 2026-07-08 — the true copy the Company's deposition would not hold; Maggie shows him the gap she started), Nathaniel's written testimony about the missing French passes
+(1701), Gwen's wartime notebook (1940), and others as each chapter is drafted. No protagonist knows about any other's item — only
 the building holds all of it. Paid off in 2019, when it's finally found and counted. This is the
 throughline that most directly embodies "the pub is the protagonist": the place remembers what
 the people never told each other.
@@ -147,7 +147,7 @@ If a reader has to notice the Cache or the keeper line to follow the plot, it's 
 |---|---|---|---|
 | 1603 (The Boy Who Signed) | Tom | Hears the odds from Maggie, then is tested mid-decision. The Wager (reworked 2026-07-08, author-directed, Sand Pebbles dramatic DNA — borrowed, not copied): Rook auctions Mara against a card debt; Tom's "She has heard enough" → "Then buy her" → coins swept to the floor → "Not enough." Mara fights for herself (ale in the eyes, stool, mug on the wrist — declining to be property, not saving Tom); Tom is losing when Maggie's one sentence ("Any man who still calls himself a sailor had best decide what sort of river he drinks beside") raises the room — docker, the coughing man, the tar-arguers — and Rook, fluent in force, reads the new arithmetic and folds. Maggie buys the debt with one of Tom's coins, bought and witnessed. Note: Hendricks is NOT among the risers (he arrives in Dutch Courage §II); his ch2 speech now dissects this version (no room has ever once stood up to a paper). | — |
 | 1603 (Dutch Courage) | Tom | Hears Hendricks's warning (VOC, nine in ten), and leaves his mother's thimble with Maggie "till I'm back" — an active bet against the odds he's just been given. | Keepsake thimble — first item in the Cache. |
-| 1626 | Daniel | A Company man (Pryce) offers him money to keep quiet about Amboyna. Refuses. | — |
+| 1626 | Daniel | Refuses Pryce's money to keep quiet about Amboyna — then goes further (§VIII "The True Copy", added 2026-07-08): writes his own true account of Amboyna and hides it in Maggie's gap under the counter. | **Cache item — second in the chain.** Rhymes forward with Fenner (1701): the deposition he signs is a lie built of facts; the hidden copy is the truth. Paid off 2019 §VIII (now four objects). |
 | 1696 | Esther Finch, lodging-house widow | Half-guesses her quiet boarder sailed with Every; a Company-paid information-taker offers her a share of the £500 bounty, and she lies to his face rather than be bought — decided the month six substitutes hang at Execution Dock. | Throws the Mughal gold into the river at the end — deliberately NOT a Cache item (the river keeps it, not the building). |
 | 1701 | Nathaniel ("Fenner") — a former Kidd crewman hiding in the crowd | Overhears that the exculpatory French passes were deliberately buried; writes down what he saw rather than stay silent or expose himself publicly. | Written account of the passes — second item in the Cache. |
 | 1757 | Coates | Weighs his pension and reputation, then goes on record with the journalist about the fixed battle at Plassey. | — |

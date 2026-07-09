@@ -541,7 +541,23 @@ He leaves. Daniel sits a while with the offer where Pryce left it, turning it ov
 
 * * *
 
-## VIII. The Woman Who Came Looking
+## VIII. The True Copy
+
+The deposition he signed sits in a box in Leadenhall Street, and it is a true document, and it is a lie, and the space between those two facts is where Daniel has lived every day since he put his name to it.
+
+Some weeks after Pryce, on an evening the bar is nearly empty, he asks Maggie for paper and ink. She brings them and asks nothing, the way she brings ale to a shaking man — there are hours in this trade a woman learns not to put questions into.
+
+He sets it down plainly, the thing the clerk's pen would not receive. Ten Englishmen and ten Japanese. Towerson two days under the water before he broke, and made to watch the rest of it after. The coral room with no window, the cloth, the patient pen that was finished before he was ever brought in. The word Batavia, and no reason given for it, then or since. At the foot he writes his whole name, unshortened, because he has signed enough lies to know exactly what one is worth as a witness, and this is meant to be the other thing. It takes him most of the evening, and when it is done he has told the truth entire exactly once, on one sheet of paper, in a language no Company clerk can summon him back to amend.
+
+Then he does not know what to do with it. He has just refused good money to keep this quiet, and here he sits having turned the quiet into an object he must now hide or burn — a true account with nowhere to go being only a heavier kind of the very thing Pryce came to buy.
+
+Maggie takes the rag off her shoulder and wipes a length of counter that does not need it, and without looking at him tips her head at the underside of the bar, where the wood has a gap a hand can just fit into. He ducks and reaches and finds it already tenanted — a crowd of small notches worn soft at the edges, and pushed back where a draught has kept it dry, something small and metal his fingers touch and, understanding it is not his to know, leave alone. She offers no account of any of it, and when he looks up her shoulders say only that what a house keeps is the house's own business, and has been longer than he has been alive.
+
+He wedges the paper back against the old wood. It will not raise Towerson off that beach; it is not justice, nor anything with a name so large. But it is the true copy, lodged where no Company pen can reach in and stand it on its head, and that is more than the box in Leadenhall Street will ever hold. He straightens, and something in him that has been on its feet since the coral room sits down at last, a little.
+
+* * *
+
+## IX. The Woman Who Came Looking
 
 She comes in on a Friday. Not young, not old. Dust on her shoes, a thin shawl, the particular set of a woman who has walked further than she meant to because there was no choice about it. She has been walking, in one sense, for three years — through dock offices and mission churches and the doorways of lodging houses, following a name that changed its story with every mouth that carried it. She has been told he was dead, twice, by men who seemed sure of it. Told he was mad, once. Told, by a clerk at a Company door who had no reason to lie to her, that he had taken another wife out east and would not thank her for the coming. She came anyway. You do not turn back from that kind of walking. You only, in the end, arrive.
 
@@ -575,7 +591,7 @@ Daniel eats. Nell watches him, and for the first time since he walked through th
 
 * * *
 
-## IX. Cotton
+## X. Cotton
 
 Carter's back most evenings, treating the bar like an annex of his shop. Tonight he's got news, and Carter with news is Carter at full volume.
 
@@ -597,7 +613,7 @@ The Company's factories are becoming forts — walls going up in Surat, cannon o
 
 * * *
 
-## X. The Walls Get Higher
+## XI. The Walls Get Higher
 
 Years pass. The bar fills and empties and fills again — same cycle, same ale, slowly improving. Daniel and Nell come in less often now, and when they do, it's a different quiet than the one he walked in with. Companionable. The quiet of two people who've said the worst of it out loud and are still sitting next to each other.
 
@@ -851,7 +867,7 @@ He leaves. The factor from Bombay finishes his glass at his own pace and follows
 
 Fenner takes it before the keeper can clear it. Asks her, low, for the loan of a pen, and she brings one without asking why, the way a woman who has kept this bar a long time learns not to ask why a quiet man wants a pen at the end of a hanging day.
 
-He writes plainly. What he saw come off the Quedagh Merchant. What he saw carried away from Saint Mary's, and by whom, and that he would swear to it if any court still cared to ask, though he knows none ever will, and signs it with the name that was his before Fenner, because a lie is worth nothing as a witness. Then he does not know what to do with it. A confession with nowhere to go is just a heavier kind of guilt.
+He writes plainly. What he saw come off the Quedagh Merchant. What he saw carried away from Saint Mary's, and by whom, and that he would swear to it if any court still cared to ask, though he knows none ever will, and signs it with the name that was his before Fenner, because a lie is worth nothing as a witness. The paper under his hand is the writer's own — Company stock, bought to keep the Company's accounts in the Company's version, carried in a Company man's satchel and left behind by a Company man's carelessness — and it strikes him, setting the truth down on it, that he could not have chosen a better page had he the whole of London to pick from: the one honest word about Kidd, written on a sheet the Company paid for and one of its own threw away. Then he does not know what to do with it. A confession with nowhere to go is just a heavier kind of guilt.
 
 The keeper — young enough that she never met the Maggie who first ran this place, though the woman who trained her was trained by Maggie herself, the trade passed down like a good knife — watches him fold the paper smaller and smaller, the way she's watched other men fidget with things they can't make themselves throw on the fire. She says nothing. Only tips her head, once, toward the underside of the bar, where the wood has a gap a hand can just fit into, where the notches are, and older things besides, things she's found and never asked about and never moved.
 
@@ -2729,15 +2745,15 @@ Hannah — the fourth of that name to keep this bar, or the fifth, depending on 
 
 She isn't wrong.
 
-Her hand finds a scored patchwork of notches first — dozens of them, worn soft at the edges, cut by more than one hand over more years than she has any way of counting. Then, wedged further back where a draught's kept it dry longer than seems possible: a small brass thimble, tarnished black. A twist of paper, brittle at the folds, ink faded to the colour of the wood around it, a handful of words about a ship called the Quedagh Merchant and a name — Nathaniel Cross — still legible if she tilts it to the light. And behind that, less old, its blue cover gone the grey of everything left in the dark too long: a notebook, pencil still in the spine, dates in a neat clerk's hand running from September to a page that simply stops, mid-list, mid-war, mid-sentence almost, as though someone meant to come back to it and didn't, or did, and just never needed to add another line.
+Her hand finds a scored patchwork of notches first — dozens of them, worn soft at the edges, cut by more than one hand over more years than she has any way of counting. Then, wedged further back where a draught's kept it dry longer than seems possible: a small brass thimble, tarnished black. A sheet older even than that, foxed to the colour of weak tea and gone soft as cloth, unfolding under her fingers with the reluctance of a thing that means to come apart in them — only a few words giving themselves up, pressed hard enough once to have half-cut the grain: a place that might read Amboyna, a name that might read Towerson, and a number. A twist of paper, brittle at the folds, ink faded to the colour of the wood around it, a handful of words about a ship called the Quedagh Merchant and a name — Nathaniel Cross — still legible if she tilts it to the light. And behind that, less old, its blue cover gone the grey of everything left in the dark too long: a notebook, pencil still in the spine, dates in a neat clerk's hand running from September to a page that simply stops, mid-list, mid-war, mid-sentence almost, as though someone meant to come back to it and didn't, or did, and just never needed to add another line.
 
-Hannah sits on the floor behind her own bar for a long time, holding three centuries in one hand and no idea, yet, what any of it means.
+Hannah sits on the floor behind her own bar for a long time, holding four hundred years in one hand and no idea, yet, what any of it means.
 
 That's, um. She doesn't finish the sentence either.
 
 She reads the notebook there on the floor, cover to cover, by phone-light. Dates, tonnages, streets that stopped existing between one entry and the next. And in the middle of the worst month, once, a line that isn't damage: Fuchsia flowering, west sill. Hannah looks up, through the doorway, to where six baskets of the same plant are flowering over the front door this minute — split and re-potted by every keeper since, herself included, because you do it the way it's always been done. Whoever kept this book stopped once, mid-catastrophe, to write down that a flower was managing. Hannah decides, on the floor, in the dust, that it is the most useful thing anyone has ever told her about the war.
 
-She doesn't call the brewery. Doesn't call a museum, not yet — not until she's had longer than an afternoon to decide what a discovery like this is actually for. She photographs it, properly, the way none of this book's tourists have ever photographed anything, and puts the three objects back exactly where she found them, and asks the contractor, with more force in her voice than the job requires, to leave that section of the wall precisely as it is.
+She doesn't call the brewery. Doesn't call a museum, not yet — not until she's had longer than an afternoon to decide what a discovery like this is actually for. She photographs it, properly, the way none of this book's tourists have ever photographed anything, and puts the four objects back exactly where she found them, and asks the contractor, with more force in her voice than the job requires, to leave that section of the wall precisely as it is.
 
 * * *
 
@@ -2745,7 +2761,7 @@ She doesn't call the brewery. Doesn't call a museum, not yet — not until she's
 
 The bar empties the way it always does — tourists first, back to their hotels; suits next, back to their towers; the stragglers last, the ones for whom this is a place and not an experience. Hannah wipes down, turns off half the taps, stacks the coasters.
 
-The room holds what it always holds: everything that's happened in it, unevenly remembered. A contract folded and unfolded on this bar four centuries back. A man's shaking hands. A number somebody couldn't stop repeating. A triangle drawn in spilled ale. A woman watching for a husband who never came. A confession about a well. A shareholder's ten and a half percent. A notebook filling up with bombs. Three of those things are sitting in a gap in the timber a few feet from where the hedge fund manager had his pint tonight, found and photographed and put back, and even now they explain almost nothing — a thimble, a scrap of paper, a notebook that stops mid-sentence, three objects standing in for everyone in this book who left nothing behind at all. None of it is on the walls. None of it is in the heritage section. The beams don't announce what they've seen. A building doesn't testify — it only stands, and leaves the noticing to whoever happens to be standing in it.
+The room holds what it always holds: everything that's happened in it, unevenly remembered. A contract folded and unfolded on this bar four centuries back. A man's shaking hands. A number somebody couldn't stop repeating. A triangle drawn in spilled ale. A woman watching for a husband who never came. A confession about a well. A shareholder's ten and a half percent. A notebook filling up with bombs. Four of those things are sitting in a gap in the timber a few feet from where the hedge fund manager had his pint tonight, found and photographed and put back, and even now they explain almost nothing — a thimble, two scraps of paper, a notebook that stops mid-sentence, four objects standing in for everyone in this book who left nothing behind at all. None of it is on the walls. None of it is in the heritage section. The beams don't announce what they've seen. A building doesn't testify — it only stands, and leaves the noticing to whoever happens to be standing in it.
 
 And under all of it, older than any cargo, the room's longest-serving trade: the women who waited. For boys who signed. For a factor three years silent. For a husband off a Company ship. For a rigger in the Brazils with a plant between his knees. For a fireman son in a burning dock. The marks Maggie cut under the counter were the first entries in that ledger, and it is the only one this book has never once needed to explain, because every century has known how to read it on sight.
 
