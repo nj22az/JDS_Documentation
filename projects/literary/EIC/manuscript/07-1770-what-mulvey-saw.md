@@ -1,8 +1,8 @@
 > **1770**
 >
-> *"The revenue return for this district shows no shortfall. The dead are not a line item."*
+> *"The drought was an act of God. The famine was an act of the Company."*
 >
-> — Company collector's report, Bengal, 1770
+> — Mulvey, Company clerk, Bengal, 1770
 
 ---
 

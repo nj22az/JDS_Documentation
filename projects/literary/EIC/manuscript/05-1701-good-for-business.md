@@ -1,8 +1,8 @@
 > **1701**
 >
-> *"The tide serves at five. The law serves whoever paid for the rope."*
+> *"The Company doesn't require the right man. It requires a man, and an ending, and ships that keep sailing on schedule."*
 >
-> — Wapping saying, recorded 1701
+> — Sillitoe, East India Company Court of Committees, 1701
 
 ---
 

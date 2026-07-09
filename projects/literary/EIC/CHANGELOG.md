@@ -4,6 +4,30 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-08] (epigraphs now spoken by our characters + Holman→Homang)
+
+### Changed
+- **All 15 chapter epigraphs re-attributed to named invented characters**
+  (author-directed: "the quotes should be from the characters we made up
+  together"). Each was an anonymous source (broadsheet / newsletter /
+  "Wapping saying"); each is now a line lifted from that chapter's own
+  body, spoken by its character — Maggie, Hendricks, Daniel, Esther
+  Finch, Sillitoe, Coates, Mulvey, Naylor, Alec Munro, Mei, Harding,
+  Coombs, Wei Zhang, Gwen, Hannah. (1696 shifted 3rd→1st person for
+  Esther; 2019 uses the 2019 Hannah's gin-and-tonic line, since
+  each epigraph must come from the chapter it heads; all others verbatim.)
+- **Author's Note** updated: adds James Holman to the protagonist roll
+  and states the epigraph device outright — "The line that stands at
+  the head of each chapter is one of theirs… the book quoting its own
+  invented people rather than any record."
+- **Holman → Homang** (Ch 8 §VI): James Holman's history gains two
+  years on the Company's Canton ships before the whaling, where the
+  coolie gangs renamed him Homang — a name he still answers to and has
+  never corrected. Author's tribute to Holman from *The Sand Pebbles*;
+  also ties Holman into the Company's own labour chain.
+- Craft plan §0 added (epigraph table + Homang note); export
+  regenerated.
+
 ## [2026-07-08] (1888 excitement pass — Su chapter re-paced)
 
 ### Changed

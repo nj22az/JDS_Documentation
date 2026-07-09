@@ -1,8 +1,8 @@
 > **1858**
 >
-> *"The Company is dead. Long live the machine that wore its name."*
+> *"Devil's Wind, the sepoys called it — the wind off the cannon mouth."*
 >
-> — Parliamentary sketch-writer, London, 1858
+> — Captain Harding, 1858
 
 ---
 

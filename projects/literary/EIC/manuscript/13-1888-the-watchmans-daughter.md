@@ -2,9 +2,9 @@
 
 > **1888**
 >
-> *"The watch committees carry rattles and cudgels. What walks these lanes carries neither."*
+> *"Never first. Never for show. Never for payment. Never in anger."*
 >
-> — East London broadsheet, November 1888
+> — Wei Zhang, the rules of the work, as taught to his daughter
 
 ---
 

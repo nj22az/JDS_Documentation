@@ -45,9 +45,9 @@ A queen signs a paper on the last day of a dying century, and a company is born 
 
 > **1603**
 >
-> *"They say the venture cannot fail, there being two hundred and eighteen fools instead of one."*
+> *"Forty-three. Out of five hundred. That is what the East Indies does to Englishmen. These are the odds. Take note of them."*
 >
-> — London broadsheet, 1603
+> — Maggie, keeper of the Prospect of Whitby, 1603
 
 ---
 
@@ -205,9 +205,9 @@ He holds it. And she looks, for a moment, not at him but at the paper lying wher
 
 > **1603**
 >
-> *"The Hollanders have chartered a company of their own, with more capital and better guns. Pray the pepper is worth the neighbours."*
+> *"That is the whole difference between a fight and a Company. One of the two you can win."*
 >
-> — Waterman's talk, Wapping, 1603
+> — Hendricks, waterman, Wapping, 1603
 
 ---
 
@@ -365,9 +365,9 @@ The charter is a piece of paper in a locked room in the City. The Company is two
 
 > **1626**
 >
-> *"A factory, they call it, though no wall yet built could keep out a monsoon, let alone a Hollander with a grievance."*
+> *"The charges were a formality. The questioning was procedure. The killing was the actual point."*
 >
-> — Factor's letter, Surat, 1626
+> — Daniel, factor, Amboyna, 1626
 
 ---
 
@@ -617,9 +617,9 @@ The trade is bigger now, and it has learned what to do when an emperor is angry:
 
 > **1696**
 >
-> *"Five hundred pounds for one man. There are streets in Wapping you could buy for less."*
+> *"I have been poor my whole life. I have never yet been purchased."*
 >
-> — Broadsheet, London, 1696
+> — Esther Finch, lodging-house widow, Wapping, 1696
 
 ---
 
@@ -749,9 +749,9 @@ Five years from now the crowd will walk down to the mud again for a bigger name,
 
 > **1701**
 >
-> *"The tide serves at five. The law serves whoever paid for the rope."*
+> *"The Company doesn't require the right man. It requires a man, and an ending, and ships that keep sailing on schedule."*
 >
-> — Wapping saying, recorded 1701
+> — Sillitoe, East India Company Court of Committees, 1701
 
 ---
 
@@ -881,9 +881,9 @@ A company of merchants buys a battle, inherits a province of twenty million peop
 
 > **1757**
 >
-> *"A kingdom changed hands before breakfast, and the coffee houses of Cornhill have spoken of nothing else since."*
+> *"Plassey wasn't a battle. It was the moment the Company stopped being merchants and started being kings."*
 >
-> — London newsletter, August 1757
+> — Sergeant Coates, 1757
 
 ---
 
@@ -1089,9 +1089,9 @@ The last sound in the room is a tankard set down on wood. A small, solid click. 
 
 > **1770**
 >
-> *"The revenue return for this district shows no shortfall. The dead are not a line item."*
+> *"The drought was an act of God. The famine was an act of the Company."*
 >
-> — Company collector's report, Bengal, 1770
+> — Mulvey, Company clerk, Bengal, 1770
 
 ---
 
@@ -1277,9 +1277,9 @@ Outside, the river is black, carrying whatever the docks put into it the way it 
 
 > **1774**
 >
-> *"They have made a teapot of Boston harbour, and the leaf was three years stale."*
+> *"They have not drowned a treasure. They have drowned a warehouse-clearing dressed as a favour."*
 >
-> — London newsletter, January 1774
+> — Naylor, tea warehouse tallyman, Wapping, 1774
 
 ---
 
@@ -1395,7 +1395,7 @@ I was here, he says, which is the trouble. He nods at the window, the river, the
 
 The room thinks on it. It is a strange arithmetic to swallow — that the far end of the story everybody has spent the evening exclaiming over was this end, that the chests went out on the same water standing black outside that window.
 
-Somebody asks who he is, since he seems set on being somebody. Holman, he says. James Holman, out of Boston. He says it the way a man lays his papers on a counter — nothing hidden, nothing volunteered — and the room, having weighed the name and found it carried like an honest one, lets him keep the floor. Harpooner at seventeen, he adds, when the room's silence asks for more; mate at thirty; too old now for the boats and too used to them to say so. The thing his thumb has been working comes out of the pocket while he talks: a whale's tooth, scrimshawed, a woman's profile scratched into it in lamp-black, worn soft at the edges from exactly this.
+Somebody asks who he is, since he seems set on being somebody. Holman, he says. James Holman, out of Boston. He says it the way a man lays his papers on a counter — nothing hidden, nothing volunteered — and the room, having weighed the name and found it carried like an honest one, lets him keep the floor. Harpooner at seventeen, he adds, when the room's silence asks for more; mate at thirty; too old now for the boats and too used to them to say so. Before the harpoon there were two years on the Company's own ships out of Canton, loading tea and silk alongside coolie gangs who could not get their mouths round Holman and settled, without asking him, on Homang instead — a name he answered to the whole two years and has never once corrected a man for using since, on the grounds that a name given freely by men doing harder work than his own was not a thing worth arguing with. The thing his thumb has been working comes out of the pocket while he talks: a whale's tooth, scrimshawed, a woman's profile scratched into it in lamp-black, worn soft at the edges from exactly this.
 
 The tooth gets noticed, because everything about a stranger gets noticed on a night like this. My wife, Holman says, turning it once so the near stools can see. Drawn from memory, four voyages. She says the nose is wrong. He puts it away. The nose was wrong four voyages ago. The rest of her has caught up since.
 
@@ -1455,9 +1455,9 @@ The river carried the chests out the way it carries everything. It was a differe
 
 > **1790**
 >
-> *"Three thousand six hundred miles on six ounces of bread a day. Parliament has fed men worse and called it policy."*
+> *"I only know he was aboard her, and now she's back, and he isn't on the list of names in that newspaper."*
 >
-> — Coffee-house wit, London, 1790
+> — Alec Munro, Wapping, 1790
 
 ---
 
@@ -1615,9 +1615,9 @@ The Company's last great cargo is opium, its last war is fought to sell it, and 
 
 > **1839**
 >
-> *"The chests are marked Patna and Benares. No one at the Custom House asks what becomes of them after Lintin."*
+> *"You know the ship. You know Lintin. You know receiving ship."*
 >
-> — Canton merchant's letter book, 1839
+> — Mei, 1839
 
 ---
 
@@ -1807,9 +1807,9 @@ The bar is empty. The smell is still there, faint under the salt — a flower th
 
 > **1858**
 >
-> *"The Company is dead. Long live the machine that wore its name."*
+> *"Devil's Wind, the sepoys called it — the wind off the cannon mouth."*
 >
-> — Parliamentary sketch-writer, London, 1858
+> — Captain Harding, 1858
 
 ---
 
@@ -1999,9 +1999,9 @@ The last tankard of the night goes on the shelf. The Company is ending. The ale 
 
 > **1880**
 >
-> *"A ship may be the fastest thing on the water and still carry the slowest kind of news."*
+> *"Some captains hire steady men. Some hire men who don't ask awkward questions in court. It isn't always the same list."*
 >
-> — Dockside saying, London, 1880
+> — Coombs, ordinary seaman, Cutty Sark, 1880
 
 ---
 
@@ -2107,9 +2107,9 @@ Cutty Sark herself is back on the river tonight, moored downstream, home from wh
 
 > **1888**
 >
-> *"The watch committees carry rattles and cudgels. What walks these lanes carries neither."*
+> *"Never first. Never for show. Never for payment. Never in anger."*
 >
-> — East London broadsheet, November 1888
+> — Wei Zhang, the rules of the work, as taught to his daughter
 
 ---
 
@@ -2415,9 +2415,9 @@ The docks the Company built burn under German bombs, and what the fire spares, m
 
 > **1940–1945**
 >
-> *"The docks are burning. The docks are always burning."*
+> *"Twenty-nine thousand bombs on the docks since September. And counting."*
 >
-> — ARP Warden's notebook, Stepney, 1940
+> — Gwen, ARP Warden's notebook, Stepney, 1940
 
 ---
 
@@ -2575,9 +2575,9 @@ The river doesn't care about any of it. It was here before the Company, before L
 
 > **2019**
 >
-> *"They have kept the beams and the flagstones. They have not kept anyone who remembers what the beams were for."*
+> *"The most imperial object in this building — and I'm counting the beams."*
 >
-> — Visitor's notebook, Wapping, 2019
+> — Hannah, keeper of the Prospect of Whitby, on a gin and tonic, 2019
 
 ---
 
@@ -2767,7 +2767,7 @@ This is a work of fiction built on a scaffold of documented history, and the rea
 
 The large events are real. The East India Company was chartered on the last day of 1600 and dissolved by Act of Parliament in 1858; Lancaster's first fleet sailed in 1601 and came home in 1603; ten English merchants were tortured and executed at Amboyna in 1623; Henry Every took the Ganj-i-Sawai in 1695 and was never caught, though six of his crew hanged at Execution Dock after a first jury's acquittal was retried into a conviction; William Kidd hanged on the same foreshore in 1701, and the rope broke the first time; Plassey was substantially arranged before it was fought; the Bengal famine of 1770 killed millions while the Company's revenue was collected in full; the Company was rescued from collapse by public money in 1773, and the tea that rescue sent to America went into Boston harbour that December; Edmund Burke prosecuted Warren Hastings for seven years and lost; Bligh sailed 3,600 miles in an open boat; a mate of the Cutty Sark killed a seaman in 1880 and her captain, having helped him escape, went over the rail in the Java Sea; the London docks burned through the autumn of 1940; and the towers of Canary Wharf now stand on the West India Docks. Where the record gave me dates, numbers, and weather, I have tried to keep to them. Where I have knowingly compressed or adjusted, the timeline at the back of this book records the true sequence.
 
-The people, with a handful of exceptions, are invented. Every protagonist in these pages — Tom, Daniel and Nell, Esther Finch, Nathaniel Cross, Coates, Mulvey, Naylor, Alec Munro, Mei, Harding, Coombs, Su Zhang, Gwen, and every keeper of the bar from Maggie to the last Hannah — is fiction, as is everything they say, hide, and decide. Real persons appear at the edges of their stories: Kidd, Every, Clive, Mir Jafar, Bligh, Hastings, Burke, Wallace and Smith of the Cutty Sark, and others. Where such people speak or are spoken of in these pages, their words and private motives are imagined, though I have tried to imagine them inside the boundaries of what the record supports.
+The people, with a handful of exceptions, are invented. Every protagonist in these pages — Tom, Daniel and Nell, Esther Finch, Nathaniel Cross, Coates, Mulvey, Naylor, James Holman, Alec Munro, Mei, Harding, Coombs, Su Zhang, Gwen, and every keeper of the bar from Maggie to the last Hannah — is fiction, as is everything they say, hide, and decide. The line that stands at the head of each chapter is one of theirs, lifted from the pages that follow — the book quoting its own invented people rather than any record, because in a story told from one room the only witnesses are the ones who came through the door. Real persons appear at the edges of their stories: Kidd, Every, Clive, Mir Jafar, Bligh, Hastings, Burke, Wallace and Smith of the Cutty Sark, and others. Where such people speak or are spoken of in these pages, their words and private motives are imagined, though I have tried to imagine them inside the boundaries of what the record supports.
 
 One chapter requires a stronger caution. The Whitechapel murders of 1888 were real, and were never solved. "The Watchman's Daughter" invents a suspect and invents an ending, and neither is a claim about what actually happened — within the story itself, deliberately, no one ever learns whether the man in the alley was the murderer. Su's friendships with Elizabeth Stride and Catherine Eddowes are likewise invented: the two women were real, they died on the same September night, and what little of them appears here — Liz's borrowed Princess Alice grief, Kate's hop-picking summer and her cheerfulness — is drawn from the record and extended with affection. The five women who died deserve better than a solution made up for a novel; the chapter is offered as a story about the people the fear belonged to, not as an answer to a case that has none.
 

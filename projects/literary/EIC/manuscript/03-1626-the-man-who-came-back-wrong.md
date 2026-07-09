@@ -1,8 +1,8 @@
 > **1626**
 >
-> *"A factory, they call it, though no wall yet built could keep out a monsoon, let alone a Hollander with a grievance."*
+> *"The charges were a formality. The questioning was procedure. The killing was the actual point."*
 >
-> — Factor's letter, Surat, 1626
+> — Daniel, factor, Amboyna, 1626
 
 ---
 

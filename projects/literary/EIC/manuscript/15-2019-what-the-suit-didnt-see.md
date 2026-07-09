@@ -1,8 +1,8 @@
 > **2019**
 >
-> *"They have kept the beams and the flagstones. They have not kept anyone who remembers what the beams were for."*
+> *"The most imperial object in this building — and I'm counting the beams."*
 >
-> — Visitor's notebook, Wapping, 2019
+> — Hannah, keeper of the Prospect of Whitby, on a gin and tonic, 2019
 
 ---
 

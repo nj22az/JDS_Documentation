@@ -1,8 +1,8 @@
 > **1757**
 >
-> *"A kingdom changed hands before breakfast, and the coffee houses of Cornhill have spoken of nothing else since."*
+> *"Plassey wasn't a battle. It was the moment the Company stopped being merchants and started being kings."*
 >
-> — London newsletter, August 1757
+> — Sergeant Coates, 1757
 
 ---
 

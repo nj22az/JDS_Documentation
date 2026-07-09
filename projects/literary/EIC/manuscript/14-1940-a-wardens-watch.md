@@ -1,8 +1,8 @@
 > **1940–1945**
 >
-> *"The docks are burning. The docks are always burning."*
+> *"Twenty-nine thousand bombs on the docks since September. And counting."*
 >
-> — ARP Warden's notebook, Stepney, 1940
+> — Gwen, ARP Warden's notebook, Stepney, 1940
 
 ---
 

@@ -1,8 +1,8 @@
 > **1603**
 >
-> *"The Hollanders have chartered a company of their own, with more capital and better guns. Pray the pepper is worth the neighbours."*
+> *"That is the whole difference between a fight and a Company. One of the two you can win."*
 >
-> — Waterman's talk, Wapping, 1603
+> — Hendricks, waterman, Wapping, 1603
 
 ---
 

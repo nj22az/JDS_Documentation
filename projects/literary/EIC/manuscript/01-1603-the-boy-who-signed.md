@@ -1,8 +1,8 @@
 > **1603**
 >
-> *"They say the venture cannot fail, there being two hundred and eighteen fools instead of one."*
+> *"Forty-three. Out of five hundred. That is what the East Indies does to Englishmen. These are the odds. Take note of them."*
 >
-> — London broadsheet, 1603
+> — Maggie, keeper of the Prospect of Whitby, 1603
 
 ---
 

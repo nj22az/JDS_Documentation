@@ -2,9 +2,9 @@
 
 > **1790**
 >
-> *"Three thousand six hundred miles on six ounces of bread a day. Parliament has fed men worse and called it policy."*
+> *"I only know he was aboard her, and now she's back, and he isn't on the list of names in that newspaper."*
 >
-> — Coffee-house wit, London, 1790
+> — Alec Munro, Wapping, 1790
 
 ---
 

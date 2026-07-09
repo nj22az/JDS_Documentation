@@ -1,8 +1,8 @@
 > **1696**
 >
-> *"Five hundred pounds for one man. There are streets in Wapping you could buy for less."*
+> *"I have been poor my whole life. I have never yet been purchased."*
 >
-> — Broadsheet, London, 1696
+> — Esther Finch, lodging-house widow, Wapping, 1696
 
 ---
 

@@ -2,9 +2,9 @@
 
 > **1880**
 >
-> *"A ship may be the fastest thing on the water and still carry the slowest kind of news."*
+> *"Some captains hire steady men. Some hire men who don't ask awkward questions in court. It isn't always the same list."*
 >
-> — Dockside saying, London, 1880
+> — Coombs, ordinary seaman, Cutty Sark, 1880
 
 ---
 

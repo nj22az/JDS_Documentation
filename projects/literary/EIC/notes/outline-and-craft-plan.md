@@ -13,6 +13,41 @@ history. Update it as decisions get made — it's a working doc, not a monument.
 
 ---
 
+## 0. Epigraphs — the book quotes its own people (2026-07-08, author-directed)
+
+Every chapter epigraph was an anonymous source (broadsheet, newsletter, "Wapping saying,
+recorded"). Per author direction — "the quotes should be from the characters we made up
+together" — all fifteen are now lines lifted verbatim (or lightly first-person-adjusted) from
+the chapter that follows, attributed to the named invented character who speaks them:
+
+| Ch | Epigraph speaker | Line |
+|---|---|---|
+| 1603 Boy | Maggie | "Forty-three. Out of five hundred… These are the odds. Take note of them." |
+| 1603 Dutch Courage | Hendricks | "That is the whole difference between a fight and a Company. One of the two you can win." |
+| 1626 | Daniel | "The charges were a formality. The questioning was procedure. The killing was the actual point." |
+| 1696 | Esther Finch | "I have been poor my whole life. I have never yet been purchased." (3rd→1st person) |
+| 1701 | Sillitoe | "The Company doesn't require the right man. It requires a man, and an ending…" |
+| 1757 | Coates | "Plassey wasn't a battle. It was the moment the Company stopped being merchants and started being kings." |
+| 1770 | Mulvey | "The drought was an act of God. The famine was an act of the Company." |
+| 1774 | Naylor | "They have not drowned a treasure. They have drowned a warehouse-clearing dressed as a favour." |
+| 1790 | Alec Munro | "…he isn't on the list of names in that newspaper." |
+| 1839 | Mei | "You know the ship. You know Lintin. You know receiving ship." |
+| 1858 | Harding | "Devil's Wind, the sepoys called it — the wind off the cannon mouth." |
+| 1880 | Coombs | "Some captains hire steady men. Some hire men who don't ask awkward questions in court…" |
+| 1888 | Wei Zhang | "Never first. Never for show. Never for payment. Never in anger." |
+| 1940 | Gwen | "Twenty-nine thousand bombs on the docks since September. And counting." |
+| 2019 | Hannah | "The most imperial object in this building — and I'm counting the beams." (the g&t line; "I pour drinks / I don't collect stories" belongs to the 1858 Hannah, not this chapter) |
+
+The Author's Note now states the device explicitly ("The line that stands at the head of each
+chapter is one of theirs… the book quoting its own invented people rather than any record").
+Guard: if a chapter is ever re-cut, check its epigraph line still appears in the body.
+
+**Holman → Homang (2026-07-08, author-directed; a tribute to Holman from *The Sand Pebbles*).**
+Ch 8 §VI: James Holman's bio gains two years on the Company's Canton ships before the whaling,
+where the coolie gangs renamed him Homang — a name he still answers to and has never corrected,
+"a name given freely by men doing harder work than his own was not a thing worth arguing with."
+Ties Holman into the Company's own labour chain and deepens the whaleman.
+
 ## 1. What's already working — keep doing this
 
 - **The fixed-location conceit.** One bar, one river, five centuries. This is the spine an

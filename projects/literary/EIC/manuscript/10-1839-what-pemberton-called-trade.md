@@ -1,8 +1,8 @@
 > **1839**
 >
-> *"The chests are marked Patna and Benares. No one at the Custom House asks what becomes of them after Lintin."*
+> *"You know the ship. You know Lintin. You know receiving ship."*
 >
-> — Canton merchant's letter book, 1839
+> — Mei, 1839
 
 ---
 

@@ -1,8 +1,8 @@
 > **1774**
 >
-> *"They have made a teapot of Boston harbour, and the leaf was three years stale."*
+> *"They have not drowned a treasure. They have drowned a warehouse-clearing dressed as a favour."*
 >
-> — London newsletter, January 1774
+> — Naylor, tea warehouse tallyman, Wapping, 1774
 
 ---
 
@@ -118,7 +118,7 @@ I was here, he says, which is the trouble. He nods at the window, the river, the
 
 The room thinks on it. It is a strange arithmetic to swallow — that the far end of the story everybody has spent the evening exclaiming over was this end, that the chests went out on the same water standing black outside that window.
 
-Somebody asks who he is, since he seems set on being somebody. Holman, he says. James Holman, out of Boston. He says it the way a man lays his papers on a counter — nothing hidden, nothing volunteered — and the room, having weighed the name and found it carried like an honest one, lets him keep the floor. Harpooner at seventeen, he adds, when the room's silence asks for more; mate at thirty; too old now for the boats and too used to them to say so. The thing his thumb has been working comes out of the pocket while he talks: a whale's tooth, scrimshawed, a woman's profile scratched into it in lamp-black, worn soft at the edges from exactly this.
+Somebody asks who he is, since he seems set on being somebody. Holman, he says. James Holman, out of Boston. He says it the way a man lays his papers on a counter — nothing hidden, nothing volunteered — and the room, having weighed the name and found it carried like an honest one, lets him keep the floor. Harpooner at seventeen, he adds, when the room's silence asks for more; mate at thirty; too old now for the boats and too used to them to say so. Before the harpoon there were two years on the Company's own ships out of Canton, loading tea and silk alongside coolie gangs who could not get their mouths round Holman and settled, without asking him, on Homang instead — a name he answered to the whole two years and has never once corrected a man for using since, on the grounds that a name given freely by men doing harder work than his own was not a thing worth arguing with. The thing his thumb has been working comes out of the pocket while he talks: a whale's tooth, scrimshawed, a woman's profile scratched into it in lamp-black, worn soft at the edges from exactly this.
 
 The tooth gets noticed, because everything about a stranger gets noticed on a night like this. My wife, Holman says, turning it once so the near stools can see. Drawn from memory, four voyages. She says the nose is wrong. He puts it away. The nose was wrong four voyages ago. The rest of her has caught up since.
 
