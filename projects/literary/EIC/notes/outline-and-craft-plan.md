@@ -138,7 +138,7 @@ A fourth connective thread, narrator-only, extending the fan/Canton lineage that
 1839→1888 back to 1774. The "work" that saves Su in 1888 is now glimpsed by two outsiders the
 Company's own machine put in a Canton factory lane before the war drove the tradition to London
 in the refugee Zhangs:
-- **1774 §VI** (anchor, ~185 words): in his Canton years (~1772) Holman's wrist is wrecked by a
+- **1774 §VI** (anchor, ~140 words, trimmed 2026-07-08): in his Canton years (~1772) Holman's wrist is wrecked by a
   tea-chest and set by a lane bonesetter-boxer who has just downed two brawlers "with no heat in
   it at all" — the gentlest hands / most dangerous man paradox; "splinted it with a folded fan
   and a strip torn from his own hem" (verbatim-family echo of Hale's 1839 line). Deepens Homang:

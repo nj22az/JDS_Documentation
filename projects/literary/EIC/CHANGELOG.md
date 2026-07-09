@@ -13,13 +13,13 @@ All notable changes to this project are recorded here.
   glimpsed by two outsiders the Company's machine placed in a Canton
   factory lane, before its opium war drove the tradition to London in
   the refugee Zhangs.
-  - **Ch 8 §VI** (anchor, ~185 words): in his Canton years Holman's
-    wrist is broken by a tea-chest and set by a lane bonesetter-boxer
-    who has just downed two brawlers "with no heat in it at all" —
-    splinted "with a folded fan and a strip torn from his own hem"
-    (echo of Hale's 1839 line). Deepens Homang: the bonesetter and the
-    coolie gangs' name are "the same pocket," both given free by people
-    the world told him to count beneath him.
+  - **Ch 8 §VI** (anchor, ~140 words after a 2026-07-08 trim): in his
+    Canton years Holman's wrist is broken by a tea-chest and set by a
+    lane bonesetter-boxer who has just downed two brawlers "with no
+    heat in it" — splinted "with a folded fan and a strip off his own
+    hem" (echo of Hale's 1839 line). Deepens Homang: the bonesetter is
+    "of a piece" with keeping the gangs' name, both given free by
+    people the world told him to count beneath him.
   - **Ch 10 (1839) §IV** (one clause): Hale's old master now taught "as
     his teacher's teacher before him, the way that lane had always made
     its masters" — the generational depth reaching toward 1772.
