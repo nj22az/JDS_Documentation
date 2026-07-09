@@ -4,6 +4,42 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-08] (1888 excitement pass — Su chapter re-paced)
+
+### Changed
+- **Ch 13 "1888: The Watchman's Daughter" re-paced for tension**
+  (author-directed: "more interesting and exciting"), sections
+  renumbered I–XIII (was I–XII). Every hard guard preserved — no one,
+  Su included, ever learns whether Cray was the Ripper; every clue
+  "fits and proves nothing"; Su tells no one; no prose deleted, only
+  reordered and added.
+  - **Cold open** — §I now opens in scene: two watch-committee men
+    close on Su in the fog and she calmly works out which of them
+    she'd put down first, before the news-report paragraph (unchanged)
+    follows.
+  - **Reorder** — the deaths (now §III "The Thirtieth of September")
+    move ahead of the training backstory (now §IV "The Work"),
+    closing ~2,500 words of idle time between Kate's goodbye and the
+    killings. The dawn-yard "What are the rules… for this" dialogue
+    moves from the end of the deaths section to the end of the
+    training section, landing as the rules being asked for in grief
+    rather than as backstory filler.
+  - **New §VII "The Shirt"**: a week after Cray's case clasp slips in
+    front of her, he sends the shop its first washing from him in
+    fifteen years — a wordless probe she starves of an answer. Makes
+    the duel two-directional (he moves a piece too) without breaking
+    "never first."
+  - **Watched beat** — new paragraph opens §IX "Never First": twice in
+    the following weeks she feels eyes on her walk home and finds
+    nothing, raising dread before the alley without adding a scene.
+  - Recap section (§XII) extended: the shirt joins the "fits, and
+    proves nothing" evidence ledger alongside the razor cut, schedule,
+    and laundry.
+- Craft plan §3a 1888 entries updated (new excitement-pass log entry;
+  stale section cross-references in the two earlier 1888 log entries
+  and the Maggie–Erik note corrected for the renumbering).
+- Compiled export regenerated.
+
 ## [2026-07-08] (Holman elaborated — the whaleman's ledger)
 
 ### Changed

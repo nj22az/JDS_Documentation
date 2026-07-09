@@ -91,7 +91,7 @@ one man who remembers her arriving.
 Maggie IS Erik Johansson's ancestor, through her son by Johan — the boy on the Swedish deck.
 The connection is now stated **once, narrator-only**, in ch01 §II ("Johansson turned English
 at last, carried home generations down the years by a man who will step off a timber boat
-with a sea-bag of salt-stiff shirts") and echoed by origin-rhyme in the 1888 chapter §XII (Erik's father:
+with a sea-bag of salt-stiff shirts") and echoed by origin-rhyme in the 1888 chapter §XIII (renumbered 2026-07-08; was §XII) (Erik's father:
 "Swedish, out of a small fishing village on the coast outside Stockholm" — the same village,
 never named). 2019's Bow descendant now names "a Swedish sailor off the timber ships"
 alongside the Causeway chandler. **Hard guard (unchanged in spirit):** no *character* may
@@ -283,25 +283,45 @@ through relatives and consequences, never by name outside their own chapter:
   through her. **No third touch** — 2019's languages line already carries the family's
   Cantonese; the runner is never called a Lascar (that word belongs to 1770/2019).
 
+- **1888 — the excitement pass (2026-07-08, author-directed).** "More interesting, more
+  exciting," implemented as four changes, sections renumbered I–XIII (was I–XII); every hard
+  guard preserved (no one, Su included, ever learns whether Cray was the Ripper; every clue
+  "fits and proves nothing"; Su tells no one; no prose deleted, only reordered/added).
+  **(i) Cold open** — §I now opens in scene (two watch-committee men closing on Su in the fog,
+  her arithmetic of which to put down first) before the expository paragraph, which follows
+  unchanged. **(ii) Reorder** — the deaths (old §IV, now §III "The Thirtieth of September") now
+  come before the training backstory (old §III, now §IV "The Work"), closing ~2,500 words of
+  dead-engine idle between Kate's goodbye and the killings; the dawn-yard "What are the rules…
+  for this" dialogue moved from the end of the deaths section to the end of the training section,
+  where it now reads as the rules being *asked for* in grief rather than backstory filler.
+  **(iii) The Shirt** — new §VII: a week after Cray's clasp slips in front of her (§VI), he sends
+  the shop its first-ever washing from him — a wordless probe ("what does the laundry girl's face
+  do, over my linen?") that Su starves of an answer; makes the duel two-directional for the first
+  time (he moves a piece too) without breaking "never first" (she reacts, doesn't seek him out).
+  **(iv) Watched beat** — new paragraph opens §IX "Never First": twice in the following weeks she
+  feels eyes on the walk home and finds nothing; raises dread going into the alley without adding
+  a scene. Recap (now §XII) gained "...and the shirt that finally did" / a second "fits, and
+  proves nothing" clause for the shirt, keeping the evidence ledger complete.
+
 - **1888 — the strengthening pass (2026-07-03, author-directed).** Three changes, all inside
   1888 chapter: **(a) Lee** — Su's little brother, dead of fever winter 1881 aged seven; Cray, sent for
   at night, came in the morning, unhurried, counted the fee, wrote *fever*; not murder, not even
   parish-neglect — the same man who climbed two flights free for the potboy. §V carries the full
-  story; §VIII names Lee's debt as "the entry she scratches out first" (real, owed, and exactly
-  the kind the rules forbid her to collect). **(b) The rescue** — §IX rewritten: Su's planned
+  story; §IX names (renumbered 2026-07-08; was §VIII) names Lee's debt as "the entry she scratches out first" (real, owed, and exactly
+  the kind the rules forbid her to collect). **(b) The rescue** — §X rewritten (renumbered 2026-07-08; was §IX): Su's planned
   interception is repealed by the lane; she interrupts Cray mid-attack (suppression phase, no
   blade shown, case shut on the ground), the woman flees nameless, the fight then runs as
-  before. **Why is now weightless** (§X states it plainly): he was killing a woman when she
+  before. **Why is now weightless** (§XI states it plainly (renumbered 2026-07-08; was §X)): he was killing a woman when she
   reached him; the work is for ending a fight already started. Her lifetime question is no
   longer "did I kill an innocent?" but "did I stop THE monster or only a common one?"
   **(c) The tilt** — reader conviction moved to ~90/10 without on-page proof: the laundry
-  detail (fifteen years, never one collar sent in — §VI plant, §XI payoff) and the early-leaving
-  dates with "one pairing she has never been able to make lie flat" (§XI). Everything still
+  detail (fifteen years, never one collar sent in — §VI plant, §XII payoff (renumbered 2026-07-08; was §XI)) and the early-leaving
+  dates with "one pairing she has never been able to make lie flat" (§XII, renumbered 2026-07-08; was §XI). Everything still
   "fits, and proves nothing."
 
 - **1888 — the fan (2026-07-03).** The grandfather's folded fan from Hale's 1839 Canton memory
-  (he splinted the wrist he broke with it) is now an heirloom: §III teaching tool ("raps an
-  elbow level... crossed the ocean in the same bundle as the white bowl"), §IX in Su's left
+  (he splinted the wrist he broke with it) is now an heirloom: §IV teaching tool (renumbered 2026-07-08; was §III) ("raps an
+  elbow level... crossed the ocean in the same bundle as the white bowl"), §X in Su's left (renumbered 2026-07-08; was §IX)
   hand in the fog, one functional beat (disarms the lancet — "has splinted more wrists than it
   has struck"). Plus one wordless echo of Hale's line at the wrist-break: "it would look of all
   things almost gentle" — never the verbatim phrase in Su's chapter. Rejected from the same
