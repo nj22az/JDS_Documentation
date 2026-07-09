@@ -4,6 +4,34 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-08] (the Canton bonesetter thread — Holman → Hale → Su)
+
+### Added
+- **A new narrator-only thread tying Holman (1774) to Su's family (1888)**
+  (author-directed), extending the fan/Canton lineage that already ran
+  1839→1888 back to 1774. The martial "work" that saves Su is now
+  glimpsed by two outsiders the Company's machine placed in a Canton
+  factory lane, before its opium war drove the tradition to London in
+  the refugee Zhangs.
+  - **Ch 8 §VI** (anchor, ~185 words): in his Canton years Holman's
+    wrist is broken by a tea-chest and set by a lane bonesetter-boxer
+    who has just downed two brawlers "with no heat in it at all" —
+    splinted "with a folded fan and a strip torn from his own hem"
+    (echo of Hale's 1839 line). Deepens Homang: the bonesetter and the
+    coolie gangs' name are "the same pocket," both given free by people
+    the world told him to count beneath him.
+  - **Ch 10 (1839) §IV** (one clause): Hale's old master now taught "as
+    his teacher's teacher before him, the way that lane had always made
+    its masters" — the generational depth reaching toward 1772.
+  - **Ch 13 (1888) §IV**: the fan is "older than the grandfather who
+    carried it out of Canton," and splinted in that lane "now and then
+    some foreign sailor who never knew what lane he had been lucky in"
+    — the quiet reach back to Holman.
+- **Hard guard:** no character ever states or discovers it; the thread
+  lives only in repeated imagery (the folded fan, the bonesetter who
+  mends what he breaks, gentle-vs-dangerous). Theme, not bloodline.
+- Craft plan §3(c-ii) added; export regenerated.
+
 ## [2026-07-08] (1626 gains a Cache item + 1701 writer's-paper irony)
 
 ### Changed

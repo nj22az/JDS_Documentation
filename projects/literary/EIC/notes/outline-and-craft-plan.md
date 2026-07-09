@@ -133,6 +133,31 @@ alongside the Causeway chandler. **Hard guard (unchanged in spirit):** no *chara
 ever state, learn, or discover the connection — it lives in the narrator's ledger and the
 reader's noticing only.
 
+**(c-ii) The Canton bonesetter lineage — Holman → Hale → Su (2026-07-08, author-directed).**
+A fourth connective thread, narrator-only, extending the fan/Canton lineage that already ran
+1839→1888 back to 1774. The "work" that saves Su in 1888 is now glimpsed by two outsiders the
+Company's own machine put in a Canton factory lane before the war drove the tradition to London
+in the refugee Zhangs:
+- **1774 §VI** (anchor, ~185 words): in his Canton years (~1772) Holman's wrist is wrecked by a
+  tea-chest and set by a lane bonesetter-boxer who has just downed two brawlers "with no heat in
+  it at all" — the gentlest hands / most dangerous man paradox; "splinted it with a folded fan
+  and a strip torn from his own hem" (verbatim-family echo of Hale's 1839 line). Deepens Homang:
+  the bonesetter and the name the gangs gave him are "the same pocket" — both given free by
+  people the world told him to count beneath him. This man is the **teacher-generation** above
+  Hale's 1839 master (who is "past sixty" in 1839, born ~1775 — not yet alive in 1772).
+- **1839 §IV** (one clause): Hale's old master now taught "as his teacher's teacher before him,
+  the way that lane had always made its masters" — establishes the multi-generation depth
+  reaching back toward Holman's era.
+- **1888 §IV** (fan passage): the fan is now "older than her father and older than the grandfather
+  who carried it out of Canton," and in the lane it splinted "dockhands, brawlers, now and then
+  some foreign sailor who never knew what lane he had been lucky in" — the quiet reach back to
+  Holman (the foreign sailor), the payoff a 1774-reader clicks on a re-read.
+**Hard guard:** no character ever states or discovers the connection — it lives in repeated
+imagery (the folded fan, the bonesetter who mends what he breaks, gentle-vs-dangerous) only,
+exactly like the "almost gentle" echo already sanctioned in the fan note. The machine both
+witnesses the art (via its tea-ship and its opium-war surgeon) and manufactures the exiles who
+carry it home. Theme, not bloodline.
+
 **(c) One labor line — for texture, not plot.** Carter the chandler (1626) anchors a second
 thread: Wapping trades ran in families. A later docker can be his descendant, tying the book's
 existing Lascar → Somali dockworker echo (already in the 2019 chapter) into the same pattern —
