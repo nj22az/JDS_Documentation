@@ -24,19 +24,19 @@ He comes in after dark, and the bar goes quiet — not the quiet of someone loud
 
 A captain. Shows in the cut of him, the sun-darkened face, the eyes that aren't looking at anything in this room — they're looking at somewhere else entirely, somewhere hot and far away, and have been for long enough to forget how to look at anything closer.
 
-Gin, he says. One word, flat, like a stone dropped down a well. Hannah pours it. He holds it in both hands and doesn't drink — just holds it, the way a drowning man holds a rope he isn't using yet.
+Gin, he says. One word, flat, like a stone dropped down a well. Martha pours it. He holds it in both hands and doesn't drink — just holds it, the way a drowning man holds a rope he isn't using yet.
 
 A man at the far end tries him. Back from India, then? Heard about the mutiny — terrible business, glad you made it back. The captain turns his head just enough to show his profile, and whatever's in it ends the conversation before it starts.
 
 He stays two hours. Four gins. Doesn't speak again, doesn't look at the river. Leaves the way he came, and the bar exhales when the door shuts behind him, the way a room exhales when a coffin's been carried out.
 
-Gin is having its year, as it happens. Later that same week a subaltern not ten days off the trooper — young, sun-scorched, one arm still stiff in its sleeve — asks Hannah for gin and tonic water. Indian tonic, he says, hopeful. The new bottled sort.
+Gin is having its year, as it happens. Later that same week a subaltern not ten days off the trooper — young, sun-scorched, one arm still stiff in its sleeve — asks Martha for gin and tonic water. Indian tonic, he says, hopeful. The new bottled sort.
 
-Hannah has never heard of it. He explains, apologetic, the way men explain a home they are not sure they're allowed to be homesick for: quinine water, against the fever — some chemist has just patented it, fizzing, in bottles — and in the mess at a place the newspapers have taught everyone to flinch at, they drank it every dusk with gin and a knife of lime, on the surgeon's orders, and it tastes of England and medicine in equal parts, and he has been dreaming of it, he says, since Calcutta.
+Martha has never heard of it. He explains, apologetic, the way men explain a home they are not sure they're allowed to be homesick for: quinine water, against the fever — some chemist has just patented it, fizzing, in bottles — and in the mess at a place the newspapers have taught everyone to flinch at, they drank it every dusk with gin and a knife of lime, on the surgeon's orders, and it tastes of England and medicine in equal parts, and he has been dreaming of it, he says, since Calcutta.
 
-Plain gin tonight, Hannah says, gently, and lime when the lime comes. And she writes tonic water on the slate she keeps for the brewery man, under candles and pipe-clay — and that is how the drink of the next century enters this house: as a homesick boy's request, and four words of chalk.
+Plain gin tonight, Martha says, gently, and lime when the lime comes. And she writes tonic water on the slate she keeps for the brewery man, under candles and pipe-clay — and that is how the drink of the next century enters this house: as a homesick boy's request, and four words of chalk.
 
-The bottles come in three weeks later, because Hannah is not a woman who chalks a thing twice. The subaltern gets the first of them, stood by the house — gin, tonic, and a knife of lime, in a pewter tankard, the house never having owned a glass worth the name. He drinks it at the window with his stiff arm resting on the sill and goes quiet in the particular way of a man tasting a place he isn't in, and when he leaves, Hannah writes nothing on any slate at all, because some transactions are not for the books.
+The bottles come in three weeks later, because Martha is not a woman who chalks a thing twice. The subaltern gets the first of them, stood by the house — gin, tonic, and a knife of lime, in a pewter tankard, the house never having owned a glass worth the name. He drinks it at the window with his stiff arm resting on the sill and goes quiet in the particular way of a man tasting a place he isn't in, and when he leaves, Martha writes nothing on any slate at all, because some transactions are not for the books.
 
 The Company dies this August. Its drink is only now being born. They pass each other at the door, and nobody in the room remarks on it, because it is not the kind of thing that looks like history while it is happening.
 
@@ -48,7 +48,7 @@ He comes back the next afternoon — Harding, though nobody's learned the name y
 
 I'm from the Times, he announces to the room. Covering the dissolution. Looking for anyone with Company connections.
 
-Nobody answers. He tries Hannah — you must have stories, a bar this close to the docks.
+Nobody answers. He tries Martha — you must have stories, a bar this close to the docks.
 
 I pour drinks, she says. I don't collect stories.
 
@@ -84,7 +84,7 @@ How many, the journalist manages. At the cannons.
 
 Harding looks at him properly for the first time, and whatever the boy sees in that look, he doesn't pick his pencil back up for a long while. Hundreds. Maybe more. Hanged from the trees along the road too, lines of them, visible a mile off. It wasn't anger by then. Anger has a direction. This didn't. This was just weather, and everyone under it grabbing and destroying because there was nothing else left to do, and the well was full, and the well was full, and the well was full.
 
-Hannah pours him another without being asked, and sets it down gentle, and doesn't say anything, because there's nothing to say — only the pouring, which says *I see you and I cannot help you* well enough on its own.
+Martha pours him another without being asked, and sets it down gentle, and doesn't say anything, because there's nothing to say — only the pouring, which says *I see you and I cannot help you* well enough on its own.
 
 * * *
 
@@ -118,7 +118,7 @@ The colonel's face doesn't move, though something behind it does. That number ap
 
 Then I expect I'll be wearing this one a good deal longer than that, Harding says. Quietly. Not a challenge. Just an answer, the kind a man gives once he's worked out what it costs and decided he can afford it, or decided he can't afford the alternative, which comes to the same thing by the end.
 
-The colonel looks round the room once — the journalist, very obviously not writing; Hannah, very obviously not listening; a handful of regulars doing an excellent impression of men absorbed entirely in their own drinks — and seems to measure, in that one glance, exactly how much damage has already been done and how little more a scene would repair. He straightens his coat.
+The colonel looks round the room once — the journalist, very obviously not writing; Martha, very obviously not listening; a handful of regulars doing an excellent impression of men absorbed entirely in their own drinks — and seems to measure, in that one glance, exactly how much damage has already been done and how little more a scene would repair. He straightens his coat.
 
 That's your choice to make, Captain, he says, and something almost like respect moves under the words before it's put away again. I'll say you were unwell today. Buys you a week, perhaps, before someone else asks.
 
@@ -176,7 +176,7 @@ He puts on his hat, looks once at Harding the way a man looks at a mirror he'd r
 
 ## VIII. The Machine Remembers
 
-They're all gone now — Harding first, gin still standing untouched and going flat; the journalist next, already composing his headline; the shareholder before that, gold buttons and all. Hannah wipes the counter with the slow, unseeing motion of a woman whose hands are working while her mind does something else.
+They're all gone now — Harding first, gin still standing untouched and going flat; the journalist next, already composing his headline; the shareholder before that, gold buttons and all. Martha wipes the counter with the slow, unseeing motion of a woman whose hands are working while her mind does something else.
 
 The dissolution is not an ending. It's a rebranding. The machine the Company built has no loyalty to the Company — it was built for extraction and control, and nothing in tonight's Act touches either. Tonight the name on the paperwork is East India Company. By every account in this room, within the year it will be the Crown. The name changes. The function, everyone here already seems to understand, does not.
 

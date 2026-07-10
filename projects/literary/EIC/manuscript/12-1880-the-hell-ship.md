@@ -86,7 +86,7 @@ Coombs is in the bar again the week the trial's announced — a different man th
 
 He sits with the letter open on the bar in front of him for the better part of an hour, not drinking much, not talking at all, while the old rigger and the others rehearse the story around him the same as they always do, none of them aware they're doing it in front of the one man who could correct every detail that's wrong.
 
-A mate's rating isn't nothing, he says eventually, to no one in particular, or to Hannah, who happens to be nearest. Owners talk. An officer stands up in the Central Criminal Court and says a captain covered up a killing, and there's men who'll remember that name a good deal longer than they remember why he said it. Won't matter that I was right. Some captains hire steady men. Some hire men who don't ask awkward questions in court. It isn't always the same list.
+A mate's rating isn't nothing, he says eventually, to no one in particular, or to Flo, who happens to be nearest. Owners talk. An officer stands up in the Central Criminal Court and says a captain covered up a killing, and there's men who'll remember that name a good deal longer than they remember why he said it. Won't matter that I was right. Some captains hire steady men. Some hire men who don't ask awkward questions in court. It isn't always the same list.
 
 Nobody answers him, because nobody in the bar has realised yet that he's asking the question out loud for the first time, and by the time they work out what conversation they've just overheard, he's already folded the letter back along its creases and put it away.
 

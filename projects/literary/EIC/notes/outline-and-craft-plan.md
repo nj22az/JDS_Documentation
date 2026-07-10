@@ -738,3 +738,24 @@ purely a rendering-hierarchy fix:
   the book ever grows past 20 numbered chapters, but do not otherwise touch the numbering logic;
   it derives entirely from counting non-interlude files in manuscript order, so reordering or
   adding chapters "just works."
+
+## 0b. Keeper renames + "the practice" (2026-07-10, author-directed)
+
+- **The Hannah trade-name device is retired** ("I don't like four Hannahs — give them
+  other names"). Each keeper is now her own woman; the thread is the training line
+  (aunt to niece to daughter, back to Maggie), not a shared name. The line now runs:
+  Maggie (1603, 1626) → the unnamed young keeper (1701, trained in Maggie's line) →
+  **Bess** (1770) → **Martha** (1839 AND 1858 — same woman, nineteen years apart) →
+  **Flo** (1880 AND 1888 — same woman; gives Su the fuchsia cutting) → **Vera** (1940)
+  → **Hannah** (2019 only — the name now appears in exactly one chapter). The 2019
+  "fourth of that name" sentence reworked to a line-of-keepers sentence ("all the way
+  back… to a Swedish widow nobody remembers" — narrator-only Maggie bookend, guard
+  intact). Author's Note roster updated to "Maggie, Bess, Martha, Flo, Vera, Hannah".
+  §3(b) above is superseded by this scheme; §0's "the 1858 Hannah" now reads Martha.
+- **"The work" → "the practice"** (author-directed: "can we use a better word?").
+  Wei Zhang's name for the art, all art-sense instances in ch13 (epigraph attribution,
+  §IV title now "The Practice", and 12 body instances). Mundane "work" uses untouched
+  (watch committees, laundry, "hardest work of her life"). Craft rationale: closer to
+  what gung fu literally means (skill earned by practice), still flat and trade-like
+  in English (the Liz translation passage still works), and it buys a deliberate
+  mirror: Cray's "practised quiet" vs Su's practice — his rehearsed, hers earned.

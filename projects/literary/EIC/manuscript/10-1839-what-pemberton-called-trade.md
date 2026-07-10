@@ -28,7 +28,7 @@ He comes in on a night the smell's stronger than usual — a ship's in close fro
 
 He orders wine.
 
-Wine. Hannah pauses half a second, which for Hannah is a long time, then finds a bottle and pours without comment. She's seen everything. This barely registers.
+Wine. Martha pauses half a second, which for Martha is a long time, then finds a bottle and pours without comment. She's seen everything. This barely registers.
 
 His name is Pemberton, learned from the talk that builds around him the way talk builds around men like this. Supercargo — the merchant on board a ship, not the captain, not the mate. Knows what's in the hold, what it cost, what it sells for. On Pemberton's ship, what's in the hold is opium.
 
@@ -70,13 +70,13 @@ He comes in like a man who's been pushed, though nobody's touched him — the po
 
 He sits at the far end from Pemberton. Orders gin. His name is Hale — Dr Hale, naval surgeon, three years stationed off Canton.
 
-Gin and bark, he says to Hannah when she pours — and then, because the joke stopped being one somewhere off Canton, he makes it literal: from a waistcoat pocket, a paper twist of grey-brown powder; a pinch into the gin; a stir with the blade of a pocket-knife wiped first on his sleeve. Peruvian bark. In the fever ports the surgeons dose every man with it against the ague, and the bark is so bitter the men will risk the fever instead, so it goes down dissolved in spirits and sugar until it consents to be swallowed.
+Gin and bark, he says to Martha when she pours — and then, because the joke stopped being one somewhere off Canton, he makes it literal: from a waistcoat pocket, a paper twist of grey-brown powder; a pinch into the gin; a stir with the blade of a pocket-knife wiped first on his sleeve. Peruvian bark. In the fever ports the surgeons dose every man with it against the ague, and the bark is so bitter the men will risk the fever instead, so it goes down dissolved in spirits and sugar until it consents to be swallowed.
 
 The docker on the next stool asks, warily, what the powder is. Hale slides the glass across instead of answering. Taste it.
 
 The docker tastes it, and his face folds like wet paper. Christ, he says, with reverence.
 
-Quite, Hale says, taking the glass back. That's the Company's other plant. The poppy for its customers; the bark for its servants. Consider which of the two it troubles to make swallowable. Then he begs the heel of a lime off Hannah's punch makings and squeezes it in — against the scurvy, he says, and against the taste, which needs more help than the scurvy does — and drinks, and doesn't wince, which is its own small piece of testimony.
+Quite, Hale says, taking the glass back. That's the Company's other plant. The poppy for its customers; the bark for its servants. Consider which of the two it troubles to make swallowable. Then he begs the heel of a lime off Martha's punch makings and squeezes it in — against the scurvy, he says, and against the taste, which needs more help than the scurvy does — and drinks, and doesn't wince, which is its own small piece of testimony.
 
 Gin, bark, lime. The entire pharmacopoeia of empire assembled in one glass in a Wapping bar, twenty years before anyone thinks to sell the bitter part fizzing in bottles and give the whole thing a name.
 
@@ -110,11 +110,11 @@ She comes in and the air shifts — the way it does when someone enters who does
 
 She's not young, not old. Her face has settled into the geometry of worry. No coat suited to English weather; it's autumn and the river wind comes straight through the glass.
 
-She moves to the window, not the bar. Hannah approaches, asks if she can help. The woman answers in a language that isn't English, then, slow and careful:
+She moves to the window, not the bar. Martha approaches, asks if she can help. The woman answers in a language that isn't English, then, slow and careful:
 
 My husband. Company ship.
 
-Four words, carefully chosen. It's all the English she means to spend on a barkeep who couldn't give her what she needs even with the whole language at her disposal — Mei has more of it than that, saved up the way a woman saves a little money nobody knows about, for when it will actually buy something. She shows Hannah a letter, worn soft from handling — a husband last seen boarding a Company vessel in Canton two years ago, bound for London, a cargo of tea and a promise to return.
+Four words, carefully chosen. It's all the English she means to spend on a barkeep who couldn't give her what she needs even with the whole language at her disposal — Mei has more of it than that, saved up the way a woman saves a little money nobody knows about, for when it will actually buy something. She shows Martha a letter, worn soft from handling — a husband last seen boarding a Company vessel in Canton two years ago, bound for London, a cargo of tea and a promise to return.
 
 She watches the river the way you watch a door you're expecting someone through. Tracks every ship from the moment it appears to the moment it's gone round the bend. She has crossed an ocean to stand in a bar and look for one face on one deck, and the odds of finding it are close enough to nothing that nobody in the room says so out loud.
 
@@ -184,6 +184,6 @@ The bar empties slowly, then all at once. Pemberton leaves first, nodding to the
 
 Hale stays a while longer, hands slowing to the shake of a clock running down. Then he glances at Mei, starts toward her as if to help, and stops — there's nothing left to say that would reach her, in any language. He leaves without saying it.
 
-Hannah is the one who finally helps. Gives Mei directions to a shipping office, somewhere the names on Company manifests might be recorded, if anyone thought it worth recording them. Mei takes the directions the way she took her own four words of English earlier — carefully, with both hands, unwilling to lose anything else tonight. She looks at the river once more and goes out into the cold to keep looking.
+Martha is the one who finally helps. Gives Mei directions to a shipping office, somewhere the names on Company manifests might be recorded, if anyone thought it worth recording them. Mei takes the directions the way she took her own four words of English earlier — carefully, with both hands, unwilling to lose anything else tonight. She looks at the river once more and goes out into the cold to keep looking.
 
 The bar is empty. The smell is still there, faint under the salt — a flower that travelled ten thousand miles to sit in this room while the ale goes on being good. The triangle is complete again tonight, as it is most nights. Poppy grown, opium sold, silver moved, tea in British cups, money in Company ledgers. Addicts in Canton. A peasant in Bengal who has never heard of any of them. A woman somewhere in the London dark, still looking.

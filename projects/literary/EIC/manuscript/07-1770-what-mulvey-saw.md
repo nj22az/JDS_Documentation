@@ -14,7 +14,7 @@ By the time most of London hears anything, it's already over. Ten million people
 
 Some years have passed since Plassey. Nobody's counting anymore. The talk in the bar has changed to match — it used to be ships and cargo and whether the French would try something. Now it's Bengal. Not Bengal the trading post. Bengal the territory. Bengal the thing the Company owns, or administers, or governs, whatever word gets used this week to avoid saying *rule*. Everyone in this room knows the Company rules Bengal now. The only people who didn't know it, until the rains failed, were the people of Bengal.
 
-Hannah wipes the bar with a rag that has seen better centuries. The place is busier than it used to be — more Company men, more of the particular breed of Londoner who can smell money and follows the scent.
+Bess wipes the bar with a rag that has seen better centuries. The place is busier than it used to be — more Company men, more of the particular breed of Londoner who can smell money and follows the scent.
 
 Something is coming. It shows in the faces of the men getting off the ships lately — a different set of faces than came back after Plassey. War has a shape and an ending. What comes after war has neither, and it shows.
 
@@ -24,7 +24,7 @@ Something is coming. It shows in the faces of the men getting off the ships late
 
 He comes in on a Tuesday. Thin — not ship-thin, not fever-thin. The thinness of a man who has stopped eating on purpose, because eating is connected in his mind to something he can't think about without the room tilting.
 
-He sits. Hannah asks what he wants. Water, he says. She brings it. Asks if he wants food. He shakes his head — not *no*, not *not hungry*, just the shake. Door closed. Don't ask again.
+He sits. Bess asks what he wants. Water, he says. She brings it. Asks if he wants food. He shakes his head — not *no*, not *not hungry*, just the shake. Door closed. Don't ask again.
 
 His name is Mulvey. Company man in Bengal, some kind of clerk with a desk and a small authority over people whose language he never learned. He's come back to London. He's come back wrong.
 
@@ -68,11 +68,11 @@ Mulvey doesn't have to think about the number.
 
 Ten million. A third of Bengal. One in three, dead, in a land that was one of the richest on earth before the Company arrived. And the Company's answer to a third of a province starving to death was to raise taxes, hoard grain, and make the survivors grow more opium.
 
-Hannah has stopped wiping the bar. She's just standing there with the rag in her hand.
+Bess has stopped wiping the bar. She's just standing there with the rag in her hand.
 
 I was there, Mulvey says. I walked through villages where everyone was dead. Not the old, not the sick. Everyone. I saw a child eating mud. The drought was an act of God. The famine was an act of the Company. The drought killed the rice. The Company killed the people.
 
-He finishes the gin. Signals for another. Hannah's hand is steady pouring it; nothing else in the room is.
+He finishes the gin. Signals for another. Bess's hand is steady pouring it; nothing else in the room is.
 
 And the assessments won't come down, he says. That's the part to understand. Famine or no famine, flood or drought, the number is the number. There's already talk in Calcutta of fixing it forever — settling the revenue once and never letting it move again, whatever the sky does. The Company gets paid regardless.
 
@@ -88,7 +88,7 @@ He knows the face. Not well — seen twice, three years apart. Once across a war
 
 Mulvey stands. It's the first thing he's done all evening that isn't drinking, and the room notices the change in him before it notices where he's walking.
 
-You had grain, he says. Not loud. He doesn't need to be loud; the bar has already gone quiet around Hannah's stopped rag, around the gin, around the whole shape of the evening, and quiet carries further than shouting does. Murshidabad. Seventeen seventy. You had grain in a warehouse and armed men on the door, and you waited.
+You had grain, he says. Not loud. He doesn't need to be loud; the bar has already gone quiet around Bess's stopped rag, around the gin, around the whole shape of the evening, and quiet carries further than shouting does. Murshidabad. Seventeen seventy. You had grain in a warehouse and armed men on the door, and you waited.
 
 Aldridge looks up slowly, the look of a man deciding whether an interruption is worth acknowledging. I'm sure I don't know you, sir.
 
@@ -104,7 +104,7 @@ For a moment it looks as though Mulvey might go further than words — his hand 
 
 I hope you remember my face too, one day, he says instead, quieter now. I hope it costs you a night's sleep eventually. Somewhere. Some year.
 
-Aldridge doesn't answer that. Finishes his claret at his own pace, the way a man finishes a drink he intends to enjoy regardless of the company, and signals Hannah for the reckoning. He leaves without hurrying, and the door closing behind him makes no more sound than it ever does.
+Aldridge doesn't answer that. Finishes his claret at his own pace, the way a man finishes a drink he intends to enjoy regardless of the company, and signals Bess for the reckoning. He leaves without hurrying, and the door closing behind him makes no more sound than it ever does.
 
 Mulvey sits back down. His hands don't stop shaking for the rest of the night, though whether that's the gin or something else, nobody in the bar could rightly say, least of all him.
 
@@ -114,7 +114,7 @@ Mulvey sits back down. His hands don't stop shaking for the rest of the night, t
 
 He comes in like weather. Big, not tall — the particular thickness of a man who moves other men around for a living. A face that looks like it enjoys its work, which, given what the work is, is the worst thing about him.
 
-Pint, he tells Hannah. Drinks half in one go. Good haul this morning, he announces to nobody and everybody. Twelve off Ratcliffe Highway. The King gets his crew either way.
+Pint, he tells Bess. Drinks half in one go. Good haul this morning, he announces to nobody and everybody. Twelve off Ratcliffe Highway. The King gets his crew either way.
 
 Nobody answers him. Talking to a press-gang officer is a good way to end up on a ship.
 
@@ -134,7 +134,7 @@ He finishes, stands, puts on his hat, and leaves — and the bar exhales the way
 
 He comes in the side door, the one the delivery boys use. Small. Indian. Clothes that aren't his, given to him or taken off a pile. A Lascar — one of the thousands the Company ships across the world and pays less than English crew, and abandons here once the unloading's done, because passage home costs money and the Company's accounts don't have a line for it.
 
-He sits at a corner table. Hannah brings water, then food he didn't ask for, and leaves without a word — she's fed enough of these men to know not to make it a conversation.
+He sits at a corner table. Bess brings water, then food he didn't ask for, and leaves without a word — she's fed enough of these men to know not to make it a conversation.
 
 Ship, he says eventually. Gone. No home.
 
@@ -180,6 +180,6 @@ They leave eventually, all three, back into whatever the night has for them. The
 
 The Company started as a room full of merchants with a charter and a hope. It is now a government. It commands armies, rules millions, moves money across the whole width of the world, and did all of it inside two hundred years — the blink of an eye, measured against stone.
 
-Ten million does not get smaller with repeating. Hannah puts the chairs up. Wipes the counter down one more time, slower than usual tonight.
+Ten million does not get smaller with repeating. Bess puts the chairs up. Wipes the counter down one more time, slower than usual tonight.
 
 Outside, the river is black, carrying whatever the docks put into it the way it always has — grain, revenue, silence, men. It weighs none of it and carries all of it, the tenth million as lightly as the first. That is a river's whole mercy, and it cannot be told apart from not caring at all.

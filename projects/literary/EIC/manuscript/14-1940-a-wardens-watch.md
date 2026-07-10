@@ -30,7 +30,7 @@ She takes the corner table — her post, every night, because from there she can
 
 She opens a small notebook, blue cover, pencil in the spine, and writes. Date, time, location, damage. She's kept it since the seventh of September, the first night, three hundred and forty-eight bombers turning the docks into a furnace.
 
-Hannah brings her tea she won't drink. Never does. She writes instead.
+Vera brings her tea she won't drink. Never does. She writes instead.
 
 A bomb falls, distant, maybe two miles east. The sound arrives in the chest before the ears catch it. Glasses chime on the shelf. Gwen doesn't flinch — just writes the time, the direction, two words for what kind. Then goes back to waiting for the next one.
 
@@ -58,7 +58,7 @@ She opens it again and adds tonight's line. The dock system the Company built �
 
 One night in October the wind comes off a burning bond up-river where a gin house kept its stock, and for an hour the smoke over Wapping smells of juniper — the whole parish briefly aromatic, like the inside of a stone bottle — and the docker, sniffing at the door, observes that Jerry has finally hit something London will genuinely miss. It is the only joke anyone makes that week, and it does the work of ten.
 
-And once, between two nights of bombs, there is a line in the notebook that is not damage. Fuchsia flowering, west sill, it says — because the pot still stands where it has stood for a century and a half, and Hannah carries it down to the cellar at every siren and back up at every all-clear, the one resident of the house with a guaranteed shelter place. Gwen recorded it the way she records everything: once, exactly, without comment. A ledger of destruction is still a ledger. It takes what it's given.
+And once, between two nights of bombs, there is a line in the notebook that is not damage. Fuchsia flowering, west sill, it says — because the pot still stands where it has stood for a century and a half, and Vera carries it down to the cellar at every siren and back up at every all-clear, the one resident of the house with a guaranteed shelter place. Gwen recorded it the way she records everything: once, exactly, without comment. A ledger of destruction is still a ledger. It takes what it's given.
 
 * * *
 
@@ -66,11 +66,11 @@ And once, between two nights of bombs, there is a line in the notebook that is n
 
 He comes in on a Friday, Canadian, young — twenty-three, maybe — trying hard to look like a man who isn't scared and failing at it.
 
-Beer. Hannah pours him the best bitter. He drinks, makes a face.
+Beer. Vera pours him the best bitter. He drinks, makes a face.
 
 That's — huh.
 
-It's beer, Hannah says.
+It's beer, Vera says.
 
 Is it, though?
 
@@ -80,9 +80,9 @@ Somebody asks about the girls, because somebody always does, and instead he tell
 
 It wasn't a bar, he says, aggrieved, over the rising laughter. And then the girl came out, and — he holds up both hands — beautiful, honestly, like something out of a picture I wasn't supposed to be watching, and my face must have done something, because hers fell, and she says, all hurt: you don't like me? What's wrong with me? Nothing's wrong with you, I told her, nothing in this world, I was looking for a bar. And the madam — very kind about it, very motherly — says to her, the gentleman was not looking for this kind of experience, and walks me down the stairs like I'm being sent home from school. And the driver's still at the curb, window down, grinning like his horse came in. Did you have a good time? Where to now?
 
-The room is gone by then — the old boys wheezing, somebody slapping the bar, Hannah laughing into the glasses she's drying. And the ship was worse, the Canadian says, mournful, milking it. Chief officer just looks at me and says, so you didn't do anything. I didn't do anything, I tell him. He says: oh, I know you didn't. We believed the second engineer too, when he got lost in a massage parlour in Bangkok for three hours. Couldn't find the exit, he said. And for months — months — every port we made, somebody offering to help me find a bar. Careful, son. Some places don't serve alcohol.
+The room is gone by then — the old boys wheezing, somebody slapping the bar, Vera laughing into the glasses she's drying. And the ship was worse, the Canadian says, mournful, milking it. Chief officer just looks at me and says, so you didn't do anything. I didn't do anything, I tell him. He says: oh, I know you didn't. We believed the second engineer too, when he got lost in a massage parlour in Bangkok for three hours. Couldn't find the exit, he said. And for months — months — every port we made, somebody offering to help me find a bar. Careful, son. Some places don't serve alcohol.
 
-Then the laugh runs out, the way laughs run out now, on a clock everyone in the room can hear, and the man nearest the window says it, not unkindly, into his pint: burned, though. Rotterdam. Back in May. Middle of the city, gone in an afternoon. And the Canadian says, yeah. Yeah, I heard that. And nobody says anything about the girl in the purple room, because there is nothing to say that the war has left standing, and Hannah pours him another of the beer he doesn't believe is beer, and doesn't take his coin for it.
+Then the laugh runs out, the way laughs run out now, on a clock everyone in the room can hear, and the man nearest the window says it, not unkindly, into his pint: burned, though. Rotterdam. Back in May. Middle of the city, gone in an afternoon. And the Canadian says, yeah. Yeah, I heard that. And nobody says anything about the girl in the purple room, because there is nothing to say that the war has left standing, and Vera pours him another of the beer he doesn't believe is beer, and doesn't take his coin for it.
 
 The whole world's connected, he says, hands not quite steady around his glass. I met a fella from Bombay on my last run, loading tea. Same tea that comes into these docks. Same route the Company used two centuries back. Different ships, same river.
 
@@ -110,7 +110,7 @@ Sure. The tea people.
 
 The tea people. He almost smiles. Tea, silk, spices, cotton, opium — everything from the east came through those docks. I worked them as a boy. Three ships could fit in the import dock alone.
 
-He finishes the pint. Hannah refills without asking.
+He finishes the pint. Vera refills without asking.
 
 Now it's rubble. Whole lot of it, since September. He says it flat, not angry, the voice of a man watching something he saw coming arrive anyway. Bombed the docks in the last war too — Zeppelins, not as bad. Took two years to rebuild, but they did. I don't know if they'll rebuild this time. The docks were the engine room. Everything came through here. Now it's just burning.
 
@@ -128,7 +128,7 @@ Everyone hits the floor. Even the docker, who's spent weeks insisting he isn't a
 
 The bomb lands two streets off — close enough to strip a warehouse roof and every window on this side of the lane. The Prospect stands. Dust sifts from the beams, a shelf of bottles goes over, and the building holds, the way it has through three hundred years of a city trying to fall down around it. Two streets east, a terrace that predates the Company's own dissolution simply isn't there by morning. There's no accounting for which buildings the bombs choose. There never is.
 
-The all-clear sounds, thin as a whistle ending a match nobody won. The regulars get up slowly, brushing plaster from their hair. Hannah comes out from behind the bar with a cut on her cheek she doesn't touch, already counting unbroken bottles. The old laundrywoman is already up and sweeping glass alongside her, wordless, and is gone before anyone can thank her, the way she has always been.
+The all-clear sounds, thin as a whistle ending a match nobody won. The regulars get up slowly, brushing plaster from their hair. Vera comes out from behind the bar with a cut on her cheek she doesn't touch, already counting unbroken bottles. The old laundrywoman is already up and sweeping glass alongside her, wordless, and is gone before anyone can thank her, the way she has always been.
 
 The Canadian crawls out white-faced, nearly falls, and the docker catches his arm and holds him steady — two men who've never met, propping each other up in the dust.
 
@@ -152,6 +152,6 @@ The docker sits with his pint and says nothing more. It's in his face when he lo
 
 Gwen closes the notebook. Tonight's entry is finished. She doesn't know yet whether Peter's crew was anywhere near tonight's line, and won't know until he either walks through that door in the morning, soot-blackened and short a few hours' sleep, or doesn't. The book can't tell her that. She keeps it anyway. She doesn't know how many more the war will ask of her and has given up asking herself. She only knows the book has to be kept, night after night, so someone, eventually, can say exactly what happened and when.
 
-This one's nearly full — has been for a week, the last third given over to numbers with barely a person left to hang them on — and ARP headquarters wants it handed in when it is, filed with the others as the official record. Gwen means to hand it in. She's meant to for three nights running. Instead, when it's done, she tucks it into the gap under the bar's far end, the one Hannah showed her once, half-joking — this is where the old stuff goes — and starts the next volume on a headquarters blank instead. Some of what's written in this one is hers alone, Peter's name more than once, in places no ARP report has any business asking after, and she isn't ready yet to hand that part over to anyone's filing cabinet but this building's.
+This one's nearly full — has been for a week, the last third given over to numbers with barely a person left to hang them on — and ARP headquarters wants it handed in when it is, filed with the others as the official record. Gwen means to hand it in. She's meant to for three nights running. Instead, when it's done, she tucks it into the gap under the bar's far end, the one Vera showed her once, half-joking — this is where the old stuff goes — and starts the next volume on a headquarters blank instead. Some of what's written in this one is hers alone, Peter's name more than once, in places no ARP report has any business asking after, and she isn't ready yet to hand that part over to anyone's filing cabinet but this building's.
 
 The river doesn't care about any of it. It was here before the Company, before London, and it goes on carrying the ash and the oil slick and the debris of ships that didn't make it, silently, the way it always has. The Thames is not a witness. It's a river. Witnesses remember. Rivers just flow.

@@ -4,6 +4,31 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-10] (keeper renames + "the practice")
+
+### Changed
+- **The Hannah trade-name device is retired** (author-directed: "I
+  don't like four Hannahs — give them other names, rework them").
+  Each keeper is her own woman; the thread is now the training line,
+  not a shared name: Maggie (1603/1626) → the young keeper (1701) →
+  **Bess** (1770) → **Martha** (1839 and 1858, same woman) → **Flo**
+  (1880 and 1888, same woman — gives Su the fuchsia cutting) →
+  **Vera** (1940) → **Hannah** (2019 only). Chapters 7, 10, 11, 12,
+  13, 14 renamed throughout; ch15's "fourth of that name" sentence
+  reworked to a line-of-keepers sentence ending at "a Swedish widow
+  nobody remembers" (narrator-only Maggie bookend, guard intact);
+  "The Hannahs have been splitting it" (ch13 fuchsia) → "The bar's
+  keepers have been splitting it". Author's Note roster now "Maggie,
+  Bess, Martha, Flo, Vera, Hannah".
+- **"The work" → "the practice"** (author-directed): Wei Zhang's name
+  for the art, all art-sense instances in ch13 — epigraph attribution,
+  §IV retitled "The Practice", and every body use. Mundane "work"
+  untouched. Rationale: truer to gung fu's literal sense, still flat
+  in English for the Liz translation passage, and gains the mirror
+  with Cray's "practised quiet".
+- Character map appendix and craft plan (§0b) updated to match.
+- Export regenerated; book PDF builds clean.
+
 ## [2026-07-10] (new appendix — Character Map: The People and the Threads)
 
 ### Added
