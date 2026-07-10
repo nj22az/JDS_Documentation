@@ -4,6 +4,26 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-10] (humanizing pass — calibration sample, Ch 3 "1626")
+
+### Changed
+- **Ch 3 "1626: The Man Who Came Back Wrong" — Medium humanizing pass**
+  (author request: "can the language be more human?"). Calibration
+  sample for a possible whole-book pass; the other 14 chapters are
+  untouched pending the author's verdict.
+  - "the way" 16 → 8 (kept where it earns its place)
+  - Em-dashes 53 → 28 (converted to colons, periods, plainer syntax)
+  - Trailing paragraph epigrams rationed: cut "Some sentences do.",
+    "The river does not sort the guilty from the near-enough…",
+    "You do not turn back from that kind of walking. You only, in the
+    end, arrive." — the images stay, the aphorist drum-hit goes
+  - Carter's dialogue register roughened (a chandler, not an essayist):
+    "takes a dye like English cloth never will", "That's a fight for
+    our grandsons"
+- **Hard guards untouched:** the epigraph-source line, all §VIII "True
+  Copy" Cache beats, section structure I–XI, the "Just a wall" ending.
+- Export regenerated (63,767 words).
+
 ## [2026-07-08] (the Canton bonesetter thread — Holman → Hale → Su)
 
 ### Added

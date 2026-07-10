@@ -375,13 +375,13 @@ The charter is a piece of paper in a locked room in the City. The Company is two
 
 ## I. The Ship from Amboyna
 
-A ship comes up the river on a grey afternoon, riding low, sails slack, in no hurry at all. Word comes off it before the crew do. One name, passed hand to hand along the waterfront the way bad news travels — faster than good news ever does.
+A ship comes up the river on a grey afternoon, riding low, sails slack, in no hurry at all. Word comes off it before the crew do. One name, passed hand to hand along the waterfront, faster than good news ever travels.
 
 *Amboyna.*
 
 Nobody on the dock has the whole of it yet. Just the name.
 
-By the time it reaches the tavern by the stairs, the place has changed the way places change when nobody's watching closely. Longer bar. Flagstones where the rushes used to be. A new sign nobody remembers the old one well enough to miss. The boy who signed his contract here years back, for twenty pounds and a share of the pepper, sailed south and never came back to see any of it. The bar didn't keep count of him. It only kept standing.
+By the time it reaches the tavern by the stairs, the place has changed without anyone quite watching it happen. Longer bar. Flagstones where the rushes used to be. A new sign nobody remembers the old one well enough to miss. The boy who signed his contract here years back, for twenty pounds and a share of the pepper, sailed south and never came back to see any of it. The bar didn't keep count of him. It only kept standing.
 
 The ships on the river have multiplied. The Company has factories now — Surat, Masulipatam, Agra — small English footholds on coastlines and river towns that never asked for them, each one a bet that the local ruler stays friendly and the weather stays kind.
 
@@ -393,19 +393,19 @@ Word on the dock says it didn't pay off.
 
 ## II. The Man Who Came Back Wrong
 
-The light's gone flat, grey through cloud, and the river's low enough to show the mud — dark, streaked, the low-tide smell of brine and rot coming in through the window.
+The light has gone flat and grey, and the river is low enough to show the mud: dark, streaked, the low-tide smell of brine and rot coming in through the window.
 
-He walks in like a man not sure the ground will hold. Slow. Careful. Thin in a way that isn't hunger, or isn't only hunger — the thinness of someone who's stopped eating because food has become a problem instead of a comfort. His clothes are English but old and hang wrong, made for a bigger man than the one left inside them.
+He walks in like a man not sure the ground will hold. Slow. Careful. Thin, and not hunger-thin, or not only that: he has stopped eating, because food has become a problem instead of a comfort. His clothes are English but old, and they hang wrong, cut for a bigger man than the one left inside them.
 
-He sits. Doesn't order. Hands flat on the counter, trembling, and his eyes are fixed on the wood but not looking at it — looking at somewhere behind the eyes instead, a room with no windows.
+He sits. Doesn't order. His hands lie flat on the counter, trembling. His eyes are on the wood but not looking at it. They are looking at a room with no windows, somewhere behind them.
 
-This bar has seen the look before. Men who come back changed in ways you can't quite point to. The tremor. The stillness. A kind of attention that's really its opposite — total withdrawal into a place nobody else can follow. The sea does this to some men. The tropics do it worse. Amboyna did it worst of all.
+This bar has seen the look before. Men who come back changed in ways you can't quite point to. The tremor. The stillness. An attention that is really its opposite: total withdrawal, into a place nobody else can follow. The sea does this to some men. The tropics do it worse. Amboyna did it worst of all.
 
 His name is Daniel Vale. Factor for the Company, stationed on one of the Spice Islands — the nutmeg islands, the most valuable dirt on earth, or so the Dutch believe. He went out young, ambitious, sure he'd come back with a fortune and a story worth telling.
 
 What he found was the Dutch.
 
-Maggie comes over — slower on her feet than she was a generation back, when a boy named Tom sat at this same bar with a paper in his pocket, though no man in the room has yet found it useful to notice, or would say so if he had. She sets a tankard down without asking what he wants — you don't ask a shaking man what he wants, you just put ale in front of him.
+Maggie comes over, slower on her feet than she was a generation back, when a boy named Tom sat at this same bar with a paper in his pocket. No man in the room has found it useful to notice, or would say so if he had. She sets a tankard down without asking. You don't ask a shaking man what he wants. You put ale in front of him.
 
 Drink, she says. Not a suggestion.
 
@@ -417,7 +417,7 @@ He drinks. One pull, then another. The tremor slows. Doesn't stop. Slows is the 
 
 It takes Daniel three days to talk. Three days of sitting, drinking ale he can't taste, flinching at the door. Maggie puts food in front of him. He pushes it round the plate. The other patrons give him room. The river does its business outside the window; the ale stays good; Daniel sits.
 
-On the fourth day, Carter comes in. Ships' chandler — rope, tar, canvas, whatever a vessel needs before it sails — big man, big voice, and he's known Daniel long enough to know he isn't just another broken sailor. Pulls up a stool. Orders two ales. Slides one across.
+On the fourth day Carter comes in. Ships' chandler: rope, tar, canvas, whatever a vessel needs before it sails. Big man, big voice, and he has known Daniel long enough to know he isn't just another broken sailor. He pulls up a stool, orders two ales, slides one across.
 
 You're Company. Amboyna.
 
@@ -431,7 +431,7 @@ They arrested us on false charges. Said we were plotting with the Japanese merce
 
 The bar has gone quiet around them. Men who weren't listening are listening now.
 
-Daniel's sentence stays broken where it stopped. Some sentences do.
+Daniel's sentence stays broken where it stopped.
 
 * * *
 
@@ -439,13 +439,13 @@ Daniel's sentence stays broken where it stopped. Some sentences do.
 
 The room is coral stone and has no window, and it is three years ago, and it is also always.
 
-There is a table, and a man behind the table who asks the questions, and a clerk beside him who writes down the answers, and the writing is the part Daniel cannot stop watching, even now, even here — the pen moving patiently whether he speaks or screams, because the paper does not need him to speak. The paper was finished before he was brought in. His answers are a formality the ink is waiting to receive.
+There is a table, and a man behind the table who asks the questions, and a clerk beside him who writes down the answers, and the writing is the part Daniel cannot stop watching, even now, even here: the pen moving patiently whether he speaks or screams. The paper does not need him to speak. It was finished before he was brought in. His answers are a formality the ink is waiting to receive.
 
-The question is always the plot. Who ordered it. When it was to be. Who else. There is no plot, Daniel says, and the man behind the table nods, unhurried, unoffended, the way a man nods at a sum that hasn't come out right yet, and the cloth goes over Daniel's face again, and the water comes again.
+The question is always the plot. Who ordered it. When it was to be. Who else. There is no plot, Daniel says, and the man behind the table nods, unhurried, unoffended, a man checking a sum that has not yet come out right, and the cloth goes over Daniel's face again, and the water comes again.
 
-Nobody who has not had it done can be told what it is. It is not like drowning; it is drowning, on dry land, in a chair, at a speed of another man's choosing — the body's whole animal machinery screaming its one message while somewhere above the water a voice keeps asking, mild as a schoolmaster, who ordered it, when it was to be, who else. Then the weight on his belly, and the water coming back up, and the room again, and the pen, patient, waiting. Then again. Hours are the wrong measure. There are only two times in the room: the water, and the question.
+Nobody who has not had it done can be told what it is. It is not like drowning; it is drowning, on dry land, in a chair, at a speed of another man's choosing. The body's whole animal machinery screams its one message while above the water a voice keeps asking, mild as a schoolmaster: who ordered it, when it was to be, who else. Then the weight on his belly, and the water coming back up, and the room again, and the pen, patient, waiting. Then again. Hours are the wrong measure. There are only two times in the room: the water, and the question.
 
-Through the wall, for two days, he can hear Towerson. Not words. Just the fact of him — the best man Daniel has ever served under, going the way everyone goes in that room, by lengths. On the third day the wall goes quiet, and the quiet is worse, and some days later — he has lost the count by then, the one thing he has never lost before or since — they come in and look at him the way men look at stock, and one of them says a word to the other, and the word is Batavia, and no one ever tells him why. He has been trying to work it out for three years: what he said, or didn't; what he was worth, or wasn't; why the axe for ten men and the boat for him. There is no answer. It was an entry in a ledger he will never see, made by a clerk with a patient pen, and it is the only mercy anyone showed at Amboyna, and it was not mercy. It was paperwork.
+Through the wall, for two days, he can hear Towerson. Not words. Just the fact of him — the best man Daniel has ever served under, going by lengths. On the third day the wall goes quiet, and the quiet is worse. Some days later — he has lost the count by then, the one thing he has never lost before or since — they come in and look at him the way men look at stock, and one of them says a word to the other, and the word is Batavia, and no one ever tells him why. He has been trying to work it out for three years: what he said, or didn't; what he was worth, or wasn't; why the axe for ten men and the boat for him. There is no answer. It was an entry in a ledger he will never see, made by a clerk with a patient pen, and it is the only mercy anyone showed at Amboyna, and it was not mercy. It was paperwork.
 
 * * *
 
@@ -463,13 +463,13 @@ How many? Carter asks.
 
 Ten Englishmen. Beheaded. The Japanese were burned. I wasn't there for it — they'd shipped me to Batavia first, a prisoner, two years before they let me go. Then the Company gave me Surat: a desk, a ledger, heat enough to make a man want to die, and nobody who would say the word Amboyna out loud. And now home — as if home were a thing a man could still use, once he got back to it.
 
-He drinks. His hands are steadier now — as steady as they're going to get. Something in his face has shifted. Not relief. More like a man who's opened a door he's kept shut a long time and found the room behind it exactly as bad as he remembered.
+He drinks. His hands are steadier now; as steady as they are going to get. Something in his face has shifted. Not relief. More like a man who has opened a door he kept shut a long time and found the room behind it exactly as bad as he remembered.
 
 Carter, for once, has nothing to say. He looks at Daniel. At his ale. At the river through the window, grey and slow and not caring either way.
 
-What he does instead is stand, walk to the counter, and take down the squat stone bottle the house keeps for the Dutch skippers' trade — genever, juniper spirit, the stuff the river's Hollanders take against the cold — and uncork it, and pour the whole of it, slowly, onto the flagstones. Nobody stops him. Nobody charges him for it either. It is a small, useless, entirely understood gesture, and the smell of juniper hangs over the room for an hour afterwards like a verdict. It will be a long generation before anyone in this house asks for the Dutch spirit by name again — and when someone finally does, there will be a Dutch king on an English throne, and the drink will have changed its papers.
+What he does instead is stand, walk to the counter, and take down the squat stone bottle the house keeps for the Dutch skippers' trade — genever, the juniper spirit the river's Hollanders take against the cold — and uncork it, and pour the whole of it, slowly, onto the flagstones. Nobody stops him. Nobody charges him for it either. It is a small, useless, entirely understood gesture, and the smell of juniper hangs over the room for an hour afterwards like a verdict. It will be a long generation before anyone in this house asks for the Dutch spirit by name again. When someone finally does, there will be a Dutch king on an English throne, and the drink will have changed its papers.
 
-At the far end of the bar an old Dutch skipper, grey and stringy, who has drunk in this room since before Carter had a shop, sets down his own cup half finished, gets up, and goes out into the afternoon. He is not angry. He is not anything a man could name. He has simply understood, quicker than the room did, that the juniper on the floor was poured at him too, and that there is no useful sentence left for him to say in here tonight. Nobody stops him. Nobody looks at him going. That is its own kind of verdict, and a colder one, because the men at Amboyna were Amsterdam's men and this one only ever hauled timber. The river does not sort the guilty from the near-enough; it never has; and a bar this close to the river learns the trick from it.
+At the far end of the bar an old Dutch skipper, grey and stringy, who has drunk in this room since before Carter had a shop, sets down his own cup half finished, gets up, and goes out into the afternoon. He is not angry. He is not anything with a name. He has simply understood, quicker than the room did, that the juniper on the floor was poured at him too, and that there is no useful sentence left for him to say in here tonight. Nobody stops him. Nobody looks at him going. That is its own kind of verdict, and a colder one, because the men at Amboyna were Amsterdam's men and this one only ever hauled timber.
 
 Carter watches Daniel a moment longer, and then, because he is a merchant and cannot help it even now, he starts — gently, almost kindly — to mine him. Which ports. Which of the Dutch factors gave the orders. How they took the fort, and with what, and how many soldiers it wants to hold a spice island against a company that means to have it. Not cruelty. Carter's grief is real. But grief and use live in the same room in a man like Carter, and the questions keep sliding, without his quite meaning them to, from *what did they do to you* toward *what can I do with it.* Daniel hears the turn happen. He has a good ear for it now; the men in the coral room had the same ear, turned the other way. He stops answering. Puts his sentences down where he put the others.
 
@@ -487,13 +487,13 @@ Daniel doesn't answer. He's back in a room in Amboyna, water in his lungs. Cotto
 
 Before Pryce comes with his coin, the Company tries the cheaper thing first. It asks Daniel, very correctly, to give a deposition.
 
-A clerk is sent to a back room in a counting-house off the stairs — a candle, a good sheet of paper, an inkwell, and the particular patience of a man who has taken down a great many accounts and believes not one of them is any business of his. He is polite. He is nearly kind. He tells Daniel to take his time, to say it in his own words, that the Company wishes only to have the matter correctly set down.
+A clerk is sent to a back room in a counting-house off the stairs: a candle, a good sheet of paper, an inkwell, and the patience of a man who has taken down a great many accounts and believes not one of them is any business of his. He is polite. He is nearly kind. He tells Daniel to take his time, to say it in his own words, that the Company wishes only to have the matter correctly set down.
 
 Daniel says it in his own words.
 
 They tie a cloth over your face, he says, and pour water onto it until the whole of your body is certain it is drowning, and then they stop, and ask their question, and then they begin again. They drowned us by inches. For days.
 
-The pen moves. Daniel watches it move, the way he watched the other pen move, and he reads it upside-down across the table the way you learn to read anything being written about you: *The prisoner states that he was examined with some severity.*
+The pen moves. Daniel watches it the same as he watched the other pen, and reads it upside-down across the table, the way you learn to read anything being written about you: *The prisoner states that he was examined with some severity.*
 
 That is not what I said, Daniel says.
 
@@ -501,7 +501,7 @@ It is the substance of it, the clerk says, not unkindly, and dips the pen. The C
 
 Daniel names Towerson. The pen writes that a factor of the establishment was among those who did not survive. Daniel says ten men beheaded on a beach. The pen writes that the affair was attended by loss of life on both sides — because there had been a scuffle when they were first dragged out, and a Dutch soldier took a cut across the hand, and so it is both sides now, forever, in the only copy anyone will keep.
 
-By the time it is done it is a true document. Every sentence in it is a thing that happened. It is also a lie of the completest kind — the kind built entirely out of facts, that stands the truth on its head with each of them in turn — and Daniel signs it, because a man who will not sign is a man with something to hide, and he has already learned what is done to men the paper decides have something to hide.
+By the time it is done it is a true document. Every sentence in it is a thing that happened. It is also a lie of the completest kind, built entirely out of facts, every one of them standing the truth on its head. Daniel signs it. A man who will not sign is a man with something to hide, and he has learned what is done to men the paper decides have something to hide.
 
 Walking out, he understands that he has now been drowned twice. Once in a coral room by men who wanted the truth out of him, and once in a lit English office by a mild man who wanted it kept in. The water was gentler the second time. That is the only difference he can find between them, and he looks for it a long while.
 
@@ -509,11 +509,11 @@ Walking out, he understands that he has now been drowned twice. Once in a coral 
 
 ## VII. The Offer
 
-Word travels. It always does, in a bar this close to the docks — what Daniel told Carter is halfway round Wapping within the week, dressed up a little more with each telling, though nobody who's added to it has managed to make it worse than the plain truth already was.
+Word travels. It always does in a bar this close to the docks. What Daniel told Carter is halfway round Wapping within the week, dressed up a little more with each telling, though nobody has managed to make it worse than the plain truth already was.
 
 The Company hears it too. Word like that always finds its way back to Leadenhall Street eventually, and Leadenhall Street does not care for it.
 
-He comes in on a Tuesday, a man Daniel's never seen before — precise coat, precise voice, the kind of politeness that has been trained rather than felt. Introduces himself as Pryce, on the Company's business, and sits without being asked, the way men do when they've decided in advance that the seat is theirs.
+He comes in on a Tuesday, a man Daniel's never seen before. Precise coat, precise voice, a politeness trained rather than felt. Introduces himself as Pryce, on the Company's business, and sits without being asked, the way men do when they've decided in advance that the seat is theirs.
 
 The Company is grateful for your service, Pryce says. Batavia. Two years a prisoner, and you came home able to hold a pen and keep a ledger, which is more than some men manage after less. Surat's been good to you, I hope.
 
@@ -537,7 +537,7 @@ Pryce doesn't argue. Men like Pryce never argue with an answer, only note it. He
 
 You'll have the same posting tomorrow that you had yesterday, he says. Nothing changes because of this conversation. I'd only ask you to consider how much less it costs everyone if the story simply stops being interesting.
 
-He leaves. Daniel sits a while with the offer where Pryce left it, turning it over slowly, the way he turns over most things now, before setting it down for good.
+He leaves. Daniel sits a while with the offer where Pryce left it, turning it over slowly, and then sets it down for good.
 
 * * *
 
@@ -545,13 +545,13 @@ He leaves. Daniel sits a while with the offer where Pryce left it, turning it ov
 
 The deposition he signed sits in a box in Leadenhall Street, and it is a true document, and it is a lie, and the space between those two facts is where Daniel has lived every day since he put his name to it.
 
-Some weeks after Pryce, on an evening the bar is nearly empty, he asks Maggie for paper and ink. She brings them and asks nothing, the way she brings ale to a shaking man — there are hours in this trade a woman learns not to put questions into.
+Some weeks after Pryce, on an evening the bar is nearly empty, he asks Maggie for paper and ink. She brings them and asks nothing. There are hours in this trade a woman learns not to put questions into.
 
-He sets it down plainly, the thing the clerk's pen would not receive. Ten Englishmen and ten Japanese. Towerson two days under the water before he broke, and made to watch the rest of it after. The coral room with no window, the cloth, the patient pen that was finished before he was ever brought in. The word Batavia, and no reason given for it, then or since. At the foot he writes his whole name, unshortened, because he has signed enough lies to know exactly what one is worth as a witness, and this is meant to be the other thing. It takes him most of the evening, and when it is done he has told the truth entire exactly once, on one sheet of paper, in a language no Company clerk can summon him back to amend.
+He sets it down plainly, the thing the clerk's pen would not receive. Ten Englishmen and ten Japanese. Towerson two days under the water before he broke, and made to watch the rest of it after. The coral room with no window, the cloth, the patient pen that was finished before he was ever brought in. The word Batavia, and no reason given for it, then or since. At the foot he writes his whole name, unshortened, because he has signed enough lies to know exactly what one is worth as a witness, and this is meant to be the other thing. It takes him most of the evening. When it is done he has told the truth entire exactly once, on one sheet of paper, in a language no Company clerk can summon him back to amend.
 
-Then he does not know what to do with it. He has just refused good money to keep this quiet, and here he sits having turned the quiet into an object he must now hide or burn — a true account with nowhere to go being only a heavier kind of the very thing Pryce came to buy.
+Then he does not know what to do with it. He has just refused good money to keep this quiet, and here he sits having turned the quiet into an object he must now hide or burn. A true account with nowhere to go is only a heavier kind of the very thing Pryce came to buy.
 
-Maggie takes the rag off her shoulder and wipes a length of counter that does not need it, and without looking at him tips her head at the underside of the bar, where the wood has a gap a hand can just fit into. He ducks and reaches and finds it already tenanted — a crowd of small notches worn soft at the edges, and pushed back where a draught has kept it dry, something small and metal his fingers touch and, understanding it is not his to know, leave alone. She offers no account of any of it, and when he looks up her shoulders say only that what a house keeps is the house's own business, and has been longer than he has been alive.
+Maggie takes the rag off her shoulder and wipes a length of counter that does not need it, and without looking at him tips her head at the underside of the bar, where the wood has a gap a hand can just fit into. He ducks and reaches and finds it already tenanted — a crowd of small notches worn soft at the edges, and pushed back where a draught has kept it dry, something small and metal his fingers touch and, understanding it is not his to know, leave alone. She offers no account of any of it. When he looks up, her shoulders say only that what a house keeps is the house's own business, and has been longer than he has been alive.
 
 He wedges the paper back against the old wood. It will not raise Towerson off that beach; it is not justice, nor anything with a name so large. But it is the true copy, lodged where no Company pen can reach in and stand it on its head, and that is more than the box in Leadenhall Street will ever hold. He straightens, and something in him that has been on its feet since the coral room sits down at last, a little.
 
@@ -559,11 +559,11 @@ He wedges the paper back against the old wood. It will not raise Towerson off th
 
 ## IX. The Woman Who Came Looking
 
-She comes in on a Friday. Not young, not old. Dust on her shoes, a thin shawl, the particular set of a woman who has walked further than she meant to because there was no choice about it. She has been walking, in one sense, for three years — through dock offices and mission churches and the doorways of lodging houses, following a name that changed its story with every mouth that carried it. She has been told he was dead, twice, by men who seemed sure of it. Told he was mad, once. Told, by a clerk at a Company door who had no reason to lie to her, that he had taken another wife out east and would not thank her for the coming. She came anyway. You do not turn back from that kind of walking. You only, in the end, arrive.
+She comes in on a Friday. Not young, not old. Dust on her shoes, a thin shawl, and the set of a woman who has walked further than she meant to because there was no choice about it. She has been walking, in one sense, for three years: through dock offices and mission churches and the doorways of lodging houses, following a name that changed its story with every mouth that carried it. She has been told he was dead, twice, by men who seemed sure of it. Told he was mad, once. Told, by a clerk at a Company door who had no reason to lie to her, that he had taken another wife out east and would not thank her for the coming. She came anyway.
 
 She stands in the doorway, and she does not ask whether Daniel is here. She has done all her asking already, on the road; asking is for people who still have a question left. Her eyes move along the bar, and they stop — not on his face, which the three years have changed past any easy knowing, but on his hands, flat and shaking on the counter. She knew him by his hands before she let herself trust the face. Whatever was holding her together on the walk here falters, just for a second.
 
-Daniel doesn't see her at first — he's watching his ale, the way he does most hours now. Something makes him look up. He sees her. His face does something complicated: guilt and relief and a kind of frightened tenderness all trying to happen at once.
+Daniel doesn't see her at first — he's watching his ale, the way he does most hours now. Something makes him look up. He sees her. His face does something complicated: guilt and relief and a frightened tenderness all trying to happen at once.
 
 Nell, he says. Just the name.
 
@@ -577,7 +577,7 @@ You write the letter, she says. That's how. You send it and let the person who l
 
 They killed everyone, Nell. Held me under until I thought I was dying, and then again, and the only reason I'm here is they decided Batavia instead of the axe. I don't know why. I've been trying to work it out for three years.
 
-She puts her hand on his arm. He flinches — not from her, from the touch itself, a thing he's out of practice at surviving. She doesn't pull back. Holds it there, light, the way you hold a bird you're afraid of frightening off.
+She puts her hand on his arm. He flinches, not from her, from the touch itself: a thing he is out of practice at surviving. She doesn't pull back. Holds it there, light, the way you hold a bird you're afraid of frightening off.
 
 You're here, she says. Sitting in a bar, alive, and I found you. That's enough. That's the start of enough.
 
@@ -585,7 +585,7 @@ I'm not the man you married.
 
 No, she says. And I'm not the woman you married either. We can be new people together, or old people who don't fit anymore. But we work that out here. Not through three more years of silence.
 
-Maggie sets down bread, cheese, something that might be stew, and leaves without a word — she knows which moments in her bar are not hers to be part of.
+Maggie sets down bread, cheese, something that might be stew, and leaves without a word. She knows which moments in her bar are not hers.
 
 Daniel eats. Nell watches him, and for the first time since he walked through that door, his hands are still.
 
@@ -599,11 +599,11 @@ Company's moving everything to India, he tells the room in general. Spice Island
 
 What money? A dockworker, not looking up from his cup.
 
-Cotton. Carter says it like the man's slow. Indian cotton — light as air, and it takes a dye the way English cloth never learns to. The great houses have started asking after it by name: calico, they call the plain sort; chintz, the printed. Comes off the Coromandel coast, and the few men who got in early are quietly making fortunes nobody's put a proper figure to yet.
+Cotton. Carter says it like the man's slow. Indian cotton — light as air, and it takes a dye like English cloth never will. The great houses have started asking after it by name: calico, they call the plain sort; chintz, the printed. Comes off the Coromandel coast, and the few men who got in early are quietly making fortunes nobody's put a proper figure to yet.
 
 And nobody minds? somebody asks. The weavers, the wool lot?
 
-Not yet, Carter says. Not enough of it comes in yet to frighten Parliament, nor to set a Spitalfields man breaking anyone's windows over it — that'll be a quarrel for our grandsons, if the stuff keeps arriving the way it's lately started to. For now it's only enough for men with warehouses to notice, and quiet enough that the noticing is still worth money. Which is exactly the moment to be in it.
+Not yet, Carter says. There's not enough of it coming in to frighten Parliament, nor to set a Spitalfields man breaking windows over it. That's a fight for our grandsons, if it keeps coming the way it's started to. For now it's men with warehouses who've noticed, and quiet enough that noticing is still worth money. Which is exactly the moment to be in it.
 
 Behind him, two men are arguing with real heat over whether a barrel of Carter's own tar was short-measured last month, and Carter, mid-sentence about Coromandel and calico, breaks off just long enough to shout that it was not short-measured, he weighed it himself, before picking the cotton thread back up without missing a beat.
 
@@ -615,7 +615,7 @@ The Company's factories are becoming forts — walls going up in Surat, cannon o
 
 ## XI. The Walls Get Higher
 
-Years pass. The bar fills and empties and fills again — same cycle, same ale, slowly improving. Daniel and Nell come in less often now, and when they do, it's a different quiet than the one he walked in with. Companionable. The quiet of two people who've said the worst of it out loud and are still sitting next to each other.
+Years pass. The bar fills and empties and fills again; same cycle, same ale, slowly improving. Daniel and Nell come in less often now, and when they do, it's a different quiet than the one he walked in with. Companionable. The quiet of two people who've said the worst of it out loud and are still sitting next to each other.
 
 The Company keeps growing. Bigger ships, bigger warehouses, busier docks. Sir Thomas Roe secured the factory at Surat years back; Bombay came later, a wedding gift from a Portuguese dowry that nobody at the time understood the size of. The factories have started growing walls. Nobody in this bar has said it out loud yet, but a factory stores goods, and a fort controls territory, and the difference is starting to show in the letters home.
 
