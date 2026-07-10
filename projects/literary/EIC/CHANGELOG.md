@@ -4,6 +4,34 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-10] (dramatic pass — Ch 14 "1940: A Warden's Watch")
+
+### Changed
+- **§VII "Underneath" rebuilt as a live set piece** (author-directed:
+  "make the chapter about the blitz more dramatic"):
+  - The stick of bombs walks up the lane, counted beat by beat — one,
+    two, three lands two streets off, and where four should fall, on
+    the count, nothing. Silence with a held breath in it.
+  - An incendiary comes through the Prospect's own roof: the docker
+    up the trap with sand (ten years younger when he comes down), the
+    Canadian's hands finally steady once given buckets to hold, Vera
+    on the stirrup pump, Gwen holding the torch. The building the
+    whole book stands in is saved "by whoever happens to be standing
+    in it, with whatever happens to be in reach."
+  - Payoff of the beer running gag, inverted: the Canadian drinks the
+    worst pint in London straight down — "It's beer, he says. Is it,
+    though, Vera says" — and the room laughs the way rooms laugh when
+    they have just got away with it.
+- **§VIII gains the dawn vigil**: the hour between all-clear and the
+  door, the glow south of the river all night where Peter's crew was;
+  the door at twenty to seven; Peter soot to the eyebrows and alive;
+  and Gwen's one non-damage entry — "P. home, 0642. Once, exactly,
+  without comment." (pays off the fuchsia-entry device from §III).
+- **Untouched:** epigraph line verbatim, all Dr. Heron beats, the
+  laundrywoman's stillness and her reading of Heron, the docker's
+  grief, the notebook going into the Cache, the river coda.
+- Export regenerated (68,517 words); book PDF builds clean.
+
 ## [2026-07-10] (Dr. Heron — "the Ghost of Bengal")
 
 ### Added
