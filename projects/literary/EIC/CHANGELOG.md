@@ -4,6 +4,34 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-10] (humanizing + sensory pass — Ch 13 "1888")
+
+### Changed
+- **Ch 13 "1888: The Watchman's Daughter" — Medium humanizing pass plus
+  a sensory-immersion layer** (author-directed: "I want to be able to
+  'taste' sense the chapter, it should be almost immersive").
+  - Humanizing: "the way" 50 → 27 (kept the load-bearing mirrors:
+    shoulders confess, reads knots, kettle-cheerful, foreign coin);
+    em-dashes 204 → 144 (converted parenthetical pairs to commas,
+    colons, periods); "Some stories are load-bearing" epigram trimmed
+    to its first sentence.
+  - Sensory layer (~390 words, all five senses grounded in scene):
+    the basket warm and breathing soap and hot iron; the shop's
+    blue-bag and lye; frost and coal smoke in the dawn yard; the
+    mended copper smelling of a Hong Kong waterfront on hot days;
+    the steerage meal's vinegar-and-oil heat; hot eels and naphtha
+    and scorching chestnuts on the Highway; the fog *tasted* —
+    sulphur, wet ash, gasworks sweetness, grit on the lips, the
+    river through it; Cray up close (brandy, coat-wool, the clean
+    unremarkable smell of a man whose linen someone else keeps);
+    Su tasting her own blood after; the mud's cold through her
+    skirts; the chain's grease; the copper's lye steam at dawn.
+- **Hard guards untouched:** epigraph line verbatim, "fits and proves
+  nothing" motif intact, case sunk unopened, no confirmation ever of
+  Cray-as-Ripper, Su tells no one, all fight beats, fan/Canton
+  lineage, Erik Johansson/Stockholm passage.
+- Export regenerated (64,088 words); book PDF builds clean.
+
 ## [2026-07-10] (humanizing pass — calibration sample, Ch 3 "1626")
 
 ### Changed
