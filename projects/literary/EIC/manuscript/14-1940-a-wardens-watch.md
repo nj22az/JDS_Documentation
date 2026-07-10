@@ -118,7 +118,21 @@ He drinks. The Canadian drinks. Nobody says the thing everyone in the room alrea
 
 * * *
 
-## VI. Underneath
+## VI. The Ghost of Bengal
+
+The doctor has been coming in on Fridays for a year or so, on no schedule anyone has ever caught him keeping, which is itself a kind of schedule. Fifty-odd. Calcutta still in his vowels, under an English that was clearly paid for. A doctor's bag of good saddle leather, kept oiled, older than its owner. His name is Heron — Dr. Heron, of no practice anyone can name, attached to no hospital anyone has asked after, and present at every incident in the parish within an hour of the bombs, which is the only credential Stepney currently requires.
+
+The name came in October. A terrace came down on Jubilee Street with a family's youngest still somewhere inside it, and the heavy rescue men were still arguing over the safe way in when somebody who had not been there a moment before was simply inside, and stayed in through two more falls of the upper floor, and came walking out at three in the morning white as chalk from hat to heel, carrying a child that lived. Somebody said it — the Ghost of Bengal — and the parish, which knows a true name when it hears one, kept it.
+
+He is, on the testimony of every street he works, the gentlest man the war has left the parish. He goes into houses while they are still deciding whether to stand. He climbs to sickbeds at two in the morning that have nothing to do with bombs, and no one has ever produced a bill with his name on it. He has never in anyone's memory weighed a doorstep before crossing it. Vera pours him halves of brandy because he never finishes anything — called away mid-glass so often that a full measure offends her arithmetic — and he thanks her every time as though the thought were new.
+
+He talks about himself exactly once that anyone collects, on a quiet Friday, because the Canadian asks the questions the parish is too polite to. How does a Calcutta man come to doctoring? My father, Heron says. English. A surgeon — came out to Bengal an old man, past sixty, at the end of the 'eighties, with a right arm that had been broken in two places, wrist and elbow, and set badly, so that he could no longer hold instruments. So he taught. Anatomy, at the medical college. Married late. Died when I was twelve. He looks at the brandy without drinking it. He never spoke of England. Not a town, not a street, not a name in it. I thought as a boy that he was a man with no past at all. Then, with the small dry almost-smile that is the most expression anyone here has ever had off him: A man with no past makes an excellent teacher of anatomy. Nothing to distract him.
+
+Nobody in the room has anything to hang that on, and wartime is not a season for pressing a good man about his father. Gwen, at her corner table, writes none of it down. The notebook is for damage.
+
+* * *
+
+## VII. Underneath
 
 The sirens start at quarter to nine. Nobody moves at first. Then the engines get louder, closer, felt in the teeth rather than heard, and everyone understands at once this is not a passing raid.
 
@@ -128,7 +142,7 @@ Everyone hits the floor. Even the docker, who's spent weeks insisting he isn't a
 
 The bomb lands two streets off — close enough to strip a warehouse roof and every window on this side of the lane. The Prospect stands. Dust sifts from the beams, a shelf of bottles goes over, and the building holds, the way it has through three hundred years of a city trying to fall down around it. Two streets east, a terrace that predates the Company's own dissolution simply isn't there by morning. There's no accounting for which buildings the bombs choose. There never is.
 
-The all-clear sounds, thin as a whistle ending a match nobody won. The regulars get up slowly, brushing plaster from their hair. Vera comes out from behind the bar with a cut on her cheek she doesn't touch, already counting unbroken bottles. The old laundrywoman is already up and sweeping glass alongside her, wordless, and is gone before anyone can thank her, the way she has always been.
+The all-clear sounds, thin as a whistle ending a match nobody won. The regulars get up slowly, brushing plaster from their hair. Vera comes out from behind the bar with a cut on her cheek she doesn't touch, already counting unbroken bottles. The old laundrywoman is already up and sweeping glass alongside her, wordless.
 
 The Canadian crawls out white-faced, nearly falls, and the docker catches his arm and holds him steady — two men who've never met, propping each other up in the dust.
 
@@ -140,9 +154,17 @@ Gets easier.
 
 It's a lie, and they both know it's a lie, and the lie is the kindest thing either of them has to offer tonight, so it's accepted as given.
 
+They are still counting bottles when the door goes again: a fire-watcher off the warehouse two streets east, walked in between two other men, grey-faced and swearing softly at nobody, his arm hanging in a way arms are not built to — the blast took the ladder out from under him. And Dr. Heron is simply there. Nobody saw him come in. The raid is barely cold and he is powdered grey to the shoulders with somebody else's house. He puts the man on a chair, takes the ruined arm in both hands and reads it through his thumbs, and tells him, in the voice you would use for the weather, that this will be brief, and that he may shout if he likes — most do. Then something small and exact happens, and the shoulder goes home with a sound like a heavy drawer pushed shut, and the man shouts, and it is over.
+
+And then the doctor does the thing that is his and nobody else's: he stays. He sits down in the broken glass beside the chair with no regard whatever for his coat, and takes the man's good hand, and goes on holding it until the shaking stops — five minutes, ten, the war going on outside without them — and takes no fee, and is in no hurry at all.
+
+Gwen watches, because watching is her trade now. Nothing crosses the doctor's face while he works — not effort, not distaste, not the small flinch even good men give around pain — only a level attention, like a man reading a column of figures that happens, this evening, to be a person. She is uneasy at it for no reason she can name, and ashamed of the unease in the same breath, because the man is the best thing the war has left the parish, and everybody knows it, and it is true. It fits nothing, she tells herself, entering the incident in the book. There is nothing for it to fit.
+
+The old laundrywoman has stopped sweeping. She watches the doctor the whole time — not the shoulder, him — with the stillness she does everything with. When he stands, she looks at him a moment longer, the length of a held breath. Then she goes back to the glass, and finishes the sweeping, and is gone before anyone can thank her, the way she has always been. Whatever she read there, she read all of it, and put it back where she found it.
+
 * * *
 
-## VII. What the River Carries
+## VIII. What the River Carries
 
 Nobody in the room tonight knows how many more nights of this are coming. That not-knowing weighs almost as much as the bombs. The bombers follow the river the way every ship before them has followed it, because the river is still the easiest way to find this city in the dark, and they have been dropping their bombs on it for months, and the docks and the warehouses and the streets around them have burned, and the people who lived in those streets have died.
 

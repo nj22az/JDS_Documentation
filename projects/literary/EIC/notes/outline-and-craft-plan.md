@@ -759,3 +759,42 @@ purely a rendering-hierarchy fix:
   what gung fu literally means (skill earned by practice), still flat and trade-like
   in English (the Liz translation passage still works), and it buys a deliberate
   mirror: Cray's "practised quiet" vs Su's practice — his rehearsed, hers earned.
+
+## 0c. Dr. Heron — "the Ghost of Bengal" (2026-07-10, author-directed)
+
+Author brief: "allude that Cray survived somehow and one of his kids is the ghost of
+Bengal… he behaves alike Cray and we don't know if they are related but he is not a
+bad person, just he seems like Cray."
+
+Implementation — the 1888 thesis run in reverse (everything fits, proves nothing,
+and this time the nothing is mercy):
+- **1940 new §VI "The Ghost of Bengal"** (sections renumbered VI→VII, VII→VIII):
+  Dr. Heron, ~50, Calcutta-born, no practice, at every incident within the hour.
+  Nickname earned at a Jubilee Street collapse (walked out white as chalk carrying a
+  child that lived). Goodness is active and specific: enters falling houses, 2 a.m.
+  sickbeds, no bill ever produced, "has never in anyone's memory weighed a doorstep
+  before crossing it" (the Lee inversion). Never finishes a drink (inverts Cray, who
+  always finished his brandy first).
+- **The fingerprint (allusive, never stated):** his father — English surgeon, out to
+  Bengal past sixty at the end of the 'eighties, right arm broken in two places
+  (wrist AND elbow — Su's two breaks) and set badly, taught anatomy, married late,
+  "never spoke of England. Not a town, not a street, not a name in it."
+- **1940 §VII casualty beat:** replays Cray's 1888 §V shoulder-setting nearly
+  verbatim (reads it through his thumbs / voice you would use for the weather / may
+  shout, most do / heavy drawer pushed shut) then inverts at the exact point Cray
+  wiped his hands: Heron STAYS, sits in the glass holding the man's good hand, no
+  fee, no hurry. Gwen's unease + shame, and the reader-key line: "It fits nothing,
+  she tells herself. There is nothing for it to fit."
+- **The laundrywoman beat:** the unnamed old Chinese laundrywoman (Su, ~71,
+  narrator-only) reads him once, all the way through, the length of a held breath,
+  and puts it back. Certifies his goodness through the only living qualified judge
+  without a word spent.
+- **1888 §XII one-sentence survival crack:** the river returns its drowned on its
+  own terms "and of the nameless dead it does return that winter, not one is ever
+  carried to a housekeeper's door to be named."
+- **Author's Note:** one added passage naming the echo as deliberate and unresolved.
+- **HARD GUARDS:** never confirmed or denied, in either direction; no character in
+  1940 knows enough to ask; Su and Heron exchange no words; Su states nothing; the
+  Ripper guard untouched (Heron's existence implies nothing about the five).
+  "Heron" chosen as a fugitive's river-bird name — a thing that stands back up out
+  of water — never glossed in the text.

@@ -4,6 +4,33 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-10] (Dr. Heron — "the Ghost of Bengal")
+
+### Added
+- **Ch 14 (1940), new §VI "The Ghost of Bengal"** (author-directed;
+  sections renumbered VI→VII, VII→VIII): Dr. Heron, Calcutta-born,
+  ~50, the gentlest man the war has left the parish — and a deliberate,
+  never-resolved echo of Dr. Cray. The fingerprint is his father: an
+  English surgeon out to Bengal past sixty at the end of the 'eighties,
+  right arm broken in two places (wrist and elbow) and set badly, who
+  "never spoke of England." The 1888 thesis runs in reverse: everything
+  about him fits, and it proves nothing, and this time the nothing is
+  mercy.
+- **Ch 14 §VII casualty beat**: replays Cray's 1888 shoulder-setting
+  nearly verbatim, then inverts where Cray wiped his hands — Heron
+  stays, sits in the glass, holds the man's good hand, takes no fee.
+  Gwen's unease ("It fits nothing… There is nothing for it to fit");
+  the old laundrywoman reads him once, all the way through, and puts
+  it back.
+- **Ch 13 §XII, one sentence**: the river returns its drowned on its
+  own terms, and none of that winter's nameless dead is ever carried
+  to a housekeeper's door to be named — the survival crack, deniable.
+- **Author's Note**: names the echo as deliberate and unresolved.
+- **Hard guards:** never confirmed or denied; no character in 1940 can
+  even ask; Su and Heron exchange no words; the Ripper guard untouched.
+- Character map 1940 entry updated (also fixes: the Canadian is a
+  merchant sailor, not an airman); craft plan §0c; export regenerated.
+
 ## [2026-07-10] (keeper renames + "the practice")
 
 ### Changed
