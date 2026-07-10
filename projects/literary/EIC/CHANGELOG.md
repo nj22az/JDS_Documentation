@@ -4,6 +4,30 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-10] (new appendix — Character Map: The People and the Threads)
+
+### Added
+- **`appendix-1b-character-map.md`** (author-directed): a character map
+  intertwined with the timeline, placed between the Timeline appendix
+  and the Bibliography. Two halves:
+  - **The Five Threads** — the Keepers (Maggie → the trained line →
+    the four Hannahs), the Cache (notches + four objects, found and
+    left in 2019), the Work/Canton thread (lane master → Holman ~1772
+    → Hale's master's line → Wei → Su), the Johansson line (Maggie's
+    son → Erik Johansson 1892 → the Bow descendant), and the room
+    itself (Louie's chair, the lopsided table, the fuchsia, the gin
+    thread).
+  - **The Timeline, Peopled** — chronological cast, chapter by chapter
+    under the five part headings, each entry naming protagonist, cast,
+    and the threads passing through, with thread notes in italics.
+- Opens with a spoiler warning ("read it the way you would read the
+  last page of a mystery: afterwards") and closes by deferring to the
+  Author's Note (which is which) and the Timeline (when).
+- **Guards kept:** narrator-only threads are labelled as the
+  narrator's property ("no character ever states, learns, or
+  discovers them"); Cray's ambiguity restated, never resolved.
+- Export regenerated; book PDF builds clean with the new appendix.
+
 ## [2026-07-10] (humanizing + sensory pass — Ch 13 "1888")
 
 ### Changed
