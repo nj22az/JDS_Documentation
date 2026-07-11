@@ -4,6 +4,21 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-11] (author's site-side rework of ch1–ch2, synced back)
+
+### Changed
+- **Ch 1 + Ch 2 synced FROM the live site** after the author pushed an
+  editorial rework directly to main ("Update the Front-Row Seat 1603
+  opening"). New ch1 epigraph ("You're going to die for a clove,
+  Tom."), new odds (more than a hundred of ~480 dead before the Cape,
+  replacing forty-three-of-five-hundred), Maggie's §II tightened, a
+  new Hendricks–Margareta exchange, and the narrator-only Johansson
+  aside removed by the author — the Maggie–Erik connection now lives
+  only in the origin-rhyme, the 2019 Bow line, and the character-map
+  appendix. Site-only figure credit captions stripped on sync.
+- Character map updated (new odds; Johansson thread wording).
+- Craft plan §0d documents the pass; export regenerated (66,882 words).
+
 ## [2026-07-11] (the Ladies' Bridge — Ch 14 §III)
 
 ### Added

@@ -798,3 +798,25 @@ and this time the nothing is mercy):
   Ripper guard untouched (Heron's existence implies nothing about the five).
   "Heron" chosen as a fugitive's river-bird name — a thing that stands back up out
   of water — never glossed in the text.
+
+## 0d. Author's site-side editorial pass on ch1–ch2, synced back (2026-07-11)
+
+The author (working outside this pipeline) pushed an editorial rework of the reader's
+1603 chapters straight to the site ("Update the Front-Row Seat 1603 opening"), plus a
+separate asset page (`the-front-row-seat/1888-motion-graphic-novel/`). Manuscript synced
+FROM the site per the standing source-of-truth recovery procedure. Key content changes:
+- **New ch1 epigraph:** "You're going to die for a clove, Tom." — Maggie, keeper of a
+  Wapping tavern, 1603 (replaces the "Forty-three. Out of five hundred…" line; the new
+  line appears verbatim in the body, so the §0 epigraph device holds; the §0 table's
+  1603 row is superseded by this note).
+- **New odds:** "forty-three of five hundred came home" replaced by "more than a hundred
+  of ~480 dead before the Cape" throughout ch1–ch2 (incl. Hendricks's "nine in ten" cut).
+- **Maggie §II tightened**; the narrator-only Johansson aside ("What she cannot know…")
+  was REMOVED by the author. §3(b-ii) superseded on that point: the Maggie–Erik
+  connection is now stated in NO chapter — it lives only in the origin-rhyme (the same
+  unnamed village outside Stockholm, ch1 §II + ch13 §XIII), the 2019 Bow line, and the
+  character-map appendix. Guard unchanged: no character ever learns it.
+- **Hendricks–Margareta exchange added** ("That name stayed north of the water") — the
+  one man who knows her old name now uses it once.
+- **Figure credit captions** (site-only, `#/credits` links) added under ch1–ch2 figures;
+  these are stripped when syncing to manuscript, like figures themselves.
