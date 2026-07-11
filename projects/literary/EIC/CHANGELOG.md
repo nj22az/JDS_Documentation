@@ -4,6 +4,30 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-11] (live canon protected and editorial comparison begun)
+
+### Added
+- Protected the deployed Pages revision on
+  `archive/front-row-seat-live-2026-07-11` and the earlier JDS edition on
+  `archive/front-row-seat-legacy-2026-07-03`.
+- Recovered the 25-page live reader into `manuscript-live-canon/`, with a
+  reproducible extractor and a dated compiled Markdown export.
+- Added a canon-versus-legacy comparison covering structure, word counts,
+  language patterns, continuity decisions and preliminary historical flags.
+- Added editorial working copies of the two 1603 units and a detailed opening
+  line-edit note.
+
+### Changed
+- Designated the live website as canon. The original `manuscript/` directory is
+  retained as the protected earlier edition, not overwritten.
+- Demonstration-edited the 1603 opening from 6,732 to 4,601 Markdown words. The
+  edit retains the Wager, Mara's agency, Hendricks, the thimble and the Company's
+  paper motif while removing repeated explanation.
+- Replaced the unsupported 43-of-500 survivor claim with the Royal Museums
+  Greenwich formulation: more than 100 of 480 dead before the Cape.
+- Removed “Dutch courage” from 1603 dialogue, removed the later tavern name from
+  the epigraph and restored the intentionally implicit Maggie/Johansson link.
+
 ## [2026-07-03] (craft pivot — chapter structure + Maggie Ashby)
 
 ### Changed

@@ -4,7 +4,7 @@
 |-------|-------|
 | **Type** | Literary Project |
 | **Working Title** | The Front-Row Seat: Five Centuries of History from the Banks of the Thames |
-| **Status** | DRAFT |
+| **Status** | LIVE CANON PROTECTED; EDITORIAL REVISION IN PROGRESS |
 | **Started** | 2026-07-01 |
 | **Author** | N. Johansson |
 
@@ -13,9 +13,9 @@
 ## What Is This?
 
 A historical fiction anthology-novel: the East India Company, told from one fixed
-point of view — the Prospect of Whitby (formerly the Devil's Tavern) in Wapping,
-London — across five centuries, from its 1600 charter to its 2019 afterlife as a
-tourist stop across the river from Canary Wharf. Real history (the Every manhunt,
+place — the historic Wapping tavern site now called the Prospect of Whitby —
+across five centuries, from its 1600 charter to its 2019 afterlife as a tourist
+stop across the river from Canary Wharf. Real history (the Every manhunt,
 Kidd's hanging, the Bengal Famine, the Company's 1772 bailout and the Boston
 Tea Party, the Opium Wars, the Cutty Sark killing, Cawnpore) mixed with invented characters and, in one chapter, an invented
 resolution to a real unsolved crime (the 1888 Whitechapel murders).
@@ -24,31 +24,46 @@ Not a JDS-numbered engineering document — this folder is non-technical creativ
 writing tracked outside the JDS document numbering system, alongside other work
 output under `projects/`.
 
+## Canon and protected editions
+
+The deployed reader at `nj22az.github.io/the-front-row-seat/` is the canon. Its
+source revision is protected on `archive/front-row-seat-live-2026-07-11` in the
+Pages repository. The earlier JDS manuscript is protected on
+`archive/front-row-seat-legacy-2026-07-03` in this repository.
+
+The live reader was recovered from its compiled bundle into 25 Markdown files.
+`manuscript-live-canon/` is therefore a read-only editorial mirror, not a new
+source competing with the website. Proposed changes belong in
+`manuscript-editorial/` until approved.
+
 ## Structure
 
 ```
 EIC/
 ├── README.md                       ← This project card
 ├── CHANGELOG.md                    ← Change log
-├── manuscript/                     ← Draft chapters, in reading order (source of truth)
-│   ├── 00-frontmatter.md
-│   ├── 01-1603 ... 14-2019         ← 14 chapters, numbered chronologically
-│   └── appendix-timeline.md / appendix-bibliography.md
+├── manuscript-live-canon/          ← Extracted, read-only mirror of the live reader
+├── manuscript-editorial/           ← Approved-scope editorial working copies
+├── manuscript/                     ← Protected earlier JDS edition
+├── editorial/                      ← Comparison report and edit notes
 ├── exports/
-│   ├── the-front-row-seat.md       ← Compiled single-file book (regenerate after chapter edits)
-│   └── the-front-row-seat.pdf      ← Publishable 6×9 book PDF (`python3 scripts/md2book.py projects/literary/EIC/manuscript projects/literary/EIC/exports/the-front-row-seat.pdf`)
+│   ├── the-front-row-seat.md       ← Compiled earlier JDS edition
+│   └── the-front-row-seat-live-canon-2026-07-11.md
 ├── notes/
 │   └── outline-and-craft-plan.md   ← Working plan: strengths, weaknesses, next moves
+├── tools/
+│   └── extract_live_reader.py      ← Reproducible live-reader extraction
 └── references/                     ← Source material, inspiration (empty so far)
 ```
 
 ## Status
 
-14 chapters drafted (1603–2019), every chapter carrying an invented protagonist
-with an active in-scene choice, connected across the centuries by three light
-background devices (the Cache under the bar, the Ashby/Hannah keeper line, and
-recurring "scar tissue" damage to the room itself). See
-`notes/outline-and-craft-plan.md` for the standing craft plan; remaining work is
-polish-level (epigraph consistency, refrain rationing, an Author's Note, and a
-full continuity read-through), not structural. Next decisions are logged there,
-not here.
+The live canon contains 15 narrative chapters/interludes and approximately 62,390
+narrative words. It is 26.5 per cent longer than the protected JDS edition, with
+most expansion concentrated in the 1603, 1626, 1774, 1888 and 1940 material.
+
+The first editorial sample covers both 1603 units. It restores the intended
+implicit ancestry, removes unsupported history and demonstrates a 31.7 per cent
+compression without changing the deployed book. See
+`editorial/comparison-2026-07-11.md` and
+`editorial/opening-line-edit-2026-07-11.md` before extending the edit.
