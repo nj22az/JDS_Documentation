@@ -4,6 +4,31 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-11] (Book One, Part I complete — six chapters)
+
+### Added
+- **Part I "The Wager" of Book One drafted in full** (~11,700 words,
+  six chapters + part divider), one commit per chapter:
+  1. *The Rain* — Maggie's day before the boy; the canon odds scene.
+  2. *Bought and Witnessed* — the wager night from inside: Mara
+     counting doors, the debt paper's grown sum, the fight beat for
+     canon beat, the upstairs close (packed bag, untried bolt).
+  3. *Dutch Courage* — Hendricks's chapter: Pieter carried up the
+     stairs beside him, the Dragon's lads editing, the thimble, and
+     what a warning is actually for.
+  4. *The Signing* — the notch and thimble in the grey morning, then
+     Philpot Lane: the queue, Mr. Cade, the worn-smooth articles
+     ("the machine was never going to look like a machine").
+  5. *The Daylight Man* — (previously drafted calibration chapter.)
+  6. *The Sailing* — Tom's last evening ("Mind the thimble" / "Mind
+     your figures, writer"), the fleet down on the ebb, Mara's raised
+     jug, Maggie behind the counter, Part I closed as an audit.
+- All chapters inside bible budgets (dashes 5.6–9.5/1000); every
+  epigraph verbatim in its body; canon dialogue preserved exactly.
+- New Canon Ledger updated with five entries (Mara's history and
+  hiring, Mr. Cade, the farewell, Pieter's four nights).
+- Book builds standalone via md2book.
+
 ## [2026-07-11] (the novel series begins — bible, Book One, calibration chapter)
 
 ### Added
