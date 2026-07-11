@@ -3,6 +3,9 @@
 ## Fixed character facts
 
 - Su Zhang is nineteen and London-born in autumn 1888.
+- At approximately six, around 1875, Su attends a small mission school off
+  Commercial Road. The school itself is fictional; elementary attendance at that
+  age is consistent with the London School Board regime established after 1870.
 - She lives and works in her family's chandlery and laundry near the Causeway,
   within the Wapping–Shadwell–Limehouse river world.
 - Wei Zhang grew up in Hong Kong after his father left Canton during the Opium

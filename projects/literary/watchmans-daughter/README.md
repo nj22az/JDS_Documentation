@@ -52,6 +52,8 @@ a strong novella-length foundation, but a standalone novel must add lived time
 with Su, Wei, Sau-Ling, Lee, Liz, Kate and Erik rather than padding the Ripper
 mystery.
 
-The first new scene, *Seven Winters*, now fixes Lee's death in 1881 and establishes
-Su's dry humour, pride, impatience and ambition before the murder autumn. See
-`editorial/su-character-study.md` for the governing character arc.
+The first new scenes now establish Su before the murder autumn. *Three Streets*
+turns her childhood attempt to walk home from school into an affectionate but
+dangerous dockside adventure; *Seven Winters* fixes Lee's death in 1881 and shows
+her pride, humour, impatience and ambition. See `editorial/su-character-study.md`
+for the governing character arc.

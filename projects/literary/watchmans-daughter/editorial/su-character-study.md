@@ -15,6 +15,13 @@ kind of life she would choose if the autumn allowed her to choose freely.
 
 ## Personality already present in the canon
 
+The new scene *Three Streets* extends this evidence backwards. At six, Su already
+believes that a problem correctly reasoned through is a problem solved. She leaves
+school without telling anyone because telling would make her wish a request. The
+journey is affectionate, funny and nearly fatal. Her fear arrives only after the
+danger, establishing that adult composure is partly temperament and partly a habit
+formed very early.
+
 ### Exacting
 
 Su notices bad knots, altered routines, a loose clasp, ageing hands and the weight
@@ -106,6 +113,9 @@ hour in Erik's boat.
 - She is better at ending a crisis than living through the untidy period after it.
 - She assumes that if she has observed enough, she is entitled to certainty. The
   unopened case forces her to surrender that entitlement.
+- She acts privately to avoid being refused. At six this takes her out of school
+  and into the docks; at nineteen it helps leave her alone with a question nobody
+  else knows she is carrying.
 
 None of these makes her foolish. They make the alley a genuine character test
 rather than a demonstration of superior technique.

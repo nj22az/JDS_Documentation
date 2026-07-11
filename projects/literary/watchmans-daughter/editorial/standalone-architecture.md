@@ -15,9 +15,13 @@ death, and the practical geography of Chinese and maritime Wapping.
 The purpose is not origin-story exposition. It is to make the shop, yard and
 family worth returning to before danger enters them.
 
-The new scene *Seven Winters* begins this work in 1881. It gives twelve-year-old
-Su pride, impatience, dry humour, an ambition to take on the chandlery accounts,
-and a living sibling relationship before Lee becomes a debt in her memory.
+The new childhood scenes begin this work. *Three Streets* follows six-year-old Su
+leaving school because she misses her mother, then discovering that knowing the
+river is not the same as knowing the city. It establishes her confidence,
+literal-minded humour, delayed fear and dangerous habit of acting without telling
+anyone. *Seven Winters* then gives twelve-year-old Su pride, impatience, an
+ambition to take on the chandlery accounts, and a living sibling relationship
+before Lee becomes a debt in her memory.
 
 ### Part Two — The Autumn
 
