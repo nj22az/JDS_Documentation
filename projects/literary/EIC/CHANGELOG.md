@@ -4,6 +4,32 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-11] (the novel series begins — bible, Book One, calibration chapter)
+
+### Added
+- **`books/series-bible.md`** (author-directed: turn Part One into a
+  standalone book; the universe run like the Yakuza games — recurring
+  places, recurring personalities): canon-precedence rules (anthology
+  is master canon, novels expand but never contradict), the Map (nine
+  fixed Wapping locations), the Repertory (seven recurring roles every
+  book must cast anew — Keeper, Warner, Company Man, Bruiser,
+  Refuses-to-be-Property, Haunted Returner, Appetite), series-wide
+  hard guards, voice/craft budgets, a New Canon Ledger, and the
+  six-book slate (The Venture → Afterlives).
+- **`books/book-one-the-venture/outline.md`**: 75–85k words, three
+  parts (The Wager 1603 / The Years Between 1604–1625 / The Man Who
+  Came Back Wrong 1626), 20 chapters, Maggie as spine, POV plan and
+  repertory casting.
+- **`books/book-one-the-venture/manuscript/05-the-daylight-man.md`**
+  — the calibration chapter (1,960 words, 4 em-dashes, epigraph
+  verbatim in body): Rook returns sober the morning after the wager,
+  pays the night's damage in counted coins, disclaims Mara unasked,
+  and accepts Maggie's daylight terms; the mug handle passes to Mara;
+  the narrator's twenty-years flash-forward seals the Bruiser's rule
+  (force respects stated terms — not virtue, bookkeeping). New canon
+  logged in the bible.
+- Project README structure updated with the `books/` tree.
+
 ## [2026-07-11] (author's site-side rework of ch1–ch2, synced back)
 
 ### Changed

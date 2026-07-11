@@ -30,7 +30,10 @@ output under `projects/`.
 EIC/
 ├── README.md                       ← This project card
 ├── CHANGELOG.md                    ← Change log
-├── manuscript/                     ← Draft chapters, in reading order (source of truth)
+├── books/                          ← The novel series (each book stands alone)
+│   ├── series-bible.md             ← Map, repertory roles, canon rules, book slate
+│   └── book-one-the-venture/       ← Book One (1603–1626, Maggie): outline.md + manuscript/
+├── manuscript/                     ← Anthology chapters, in reading order (series master canon)
 │   ├── 00-frontmatter.md / 00a-foreword.md
 │   ├── NNz-part-*.md               ← 5 part-divider pages (The Venture … Afterlives)
 │   ├── 01-1603 ... 15-2019         ← 15 chapters, numbered chronologically
