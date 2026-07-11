@@ -84,6 +84,8 @@
 
 **1940–1945**  The Blitz. The Company's docks are bombed. The empire's engine room burns.
 
+**1945**  The new Waterloo Bridge opens — built through the war years in large part by women welders and labourers, after the men left the sites for the services. The minister who opens it thanks "the men who built Waterloo Bridge". Thames watermen, who saw who stood on the scaffolds, call it the Ladies' Bridge to this day.
+
 **1991**  Canary Wharf opens on the old docks. New glass towers rise where Company ships once loaded.
 
 **Present**  The Prospect of Whitby serves craft beer. The machine runs in spreadsheets. The river flows.

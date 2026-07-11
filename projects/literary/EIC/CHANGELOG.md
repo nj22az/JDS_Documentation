@@ -4,6 +4,29 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-11] (the Ladies' Bridge — Ch 14 §III)
+
+### Added
+- **Ch 14 §III "The Ledger of Destruction"**: the Ladies' Bridge
+  passage (author-directed). Waterloo Bridge, the one thing on the
+  Thames going up while everything else comes down, built through the
+  war by women after the men left the sites; an invented Bermondsey
+  welder drinks a half of mild some Saturdays ("Her seams get tested…
+  Nobody ever tested a word a man in this room said in his life");
+  the watermen's name for it, the Ladies' Bridge, because they pass
+  under the scaffolds twice a tide and see who is standing on them;
+  and the narrator's flash-forward to the 1945 opening speech that
+  thanks only the men. Gwen's notebook takes its second line that is
+  not damage: "Waterloo Bridge rising. Women on the scaffolds."
+- **Timeline appendix**: 1945 entry for the bridge's opening.
+- **Author's Note**: the Ladies' Bridge added to the folklore
+  paragraph ("The Bermondsey welder is invented; her bridge is not").
+- **Character map**: Bermondsey welder added to the 1940 entry.
+- Thematic fit: the official ledger closing over the women is the
+  book's core thesis (ledgers that omit people), set against Gwen's
+  counter-ledger that goes into the Cache.
+- Export regenerated (69,003 words); book PDF builds clean.
+
 ## [2026-07-10] (dramatic pass — Ch 14 "1940: A Warden's Watch")
 
 ### Changed

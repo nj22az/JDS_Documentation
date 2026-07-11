@@ -60,6 +60,12 @@ One night in October the wind comes off a burning bond up-river where a gin hous
 
 And once, between two nights of bombs, there is a line in the notebook that is not damage. Fuchsia flowering, west sill, it says — because the pot still stands where it has stood for a century and a half, and Vera carries it down to the cellar at every siren and back up at every all-clear, the one resident of the house with a guaranteed shelter place. Gwen recorded it the way she records everything: once, exactly, without comment. A ledger of destruction is still a ledger. It takes what it's given.
 
+Up-river, past the Tower and the bridges, out of this window's sight but never out of the river's, there is exactly one thing on the Thames going up while everything else comes down. Waterloo Bridge — the old one condemned and coming apart before the war ever started, the new one rising slow behind its scaffolds — lost most of its men to the services in the first year. The sites did not go quiet. They filled again, without ceremony and largely without record: women, in welding leathers and concrete-crusted boots, out on the scaffolds over the tide.
+
+One of them drinks here some Saturdays — a Bermondsey woman who crosses the water with her leathers rolled under one arm and burn-freckles up both forearms, takes a half of mild, and gives back exactly as much cheek as she is offered. Her seams get tested, she says. That's the difference. Nobody ever tested a word a man in this room said in his life. And no man in this room disputes it, partly because it is true and partly because she has forearms like a rigger. She says the watermen already have a name for the bridge — the Ladies' Bridge — and the watermen would know. They pass under the scaffolds twice a tide, and they see who is standing on them.
+
+When it opens, at the war's end, a man in a good coat will stand on it and thank the men who built Waterloo Bridge, and the official ledger will close over the women like water over a dropped stone. The watermen will go on calling it what they call it, because watermen keep their own books. And so, in her way, does Gwen. Between one night of incendiaries and one night of worse, the blue notebook takes its second line that is not damage: Waterloo Bridge rising. Women on the scaffolds. The war spends every day knocking things down. Somebody should have to write down the one thing going up.
+
 * * *
 
 ## IV. The Man from Halifax
