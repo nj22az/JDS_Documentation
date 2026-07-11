@@ -15,6 +15,10 @@ death, and the practical geography of Chinese and maritime Wapping.
 The purpose is not origin-story exposition. It is to make the shop, yard and
 family worth returning to before danger enters them.
 
+The new scene *Seven Winters* begins this work in 1881. It gives twelve-year-old
+Su pride, impatience, dry humour, an ambition to take on the chandlery accounts,
+and a living sibling relationship before Lee becomes a debt in her memory.
+
 ### Part Two — The Autumn
 
 Build Liz and Kate as recurring customers and friends before 30 September. Let
@@ -53,6 +57,24 @@ if Dr Heron's resemblance does not turn uncertainty into a hidden solution.
 | Dr Cray | Excellent ambiguity and physical presence | Earlier useful acts; less explanatory retrospective analysis |
 | Erik | Strong emotional solution | A real courtship and early marriage, independent of Maggie |
 | 1940/2019 | Evocative afterimages | Optional only; neither is required to complete Su's arc |
+
+## Personality requirements
+
+The book must give Su an existence that is not organised entirely around danger.
+Across each part, include scenes in which she:
+
+- enjoys being skilful at ordinary work;
+- loses patience or judges someone too quickly;
+- laughs, preferably when she is trying not to;
+- chooses between Wei's closed account and Sau-Ling's deliberately open one;
+- wants responsibility for the family business and resents being treated only as
+  somebody's daughter;
+- speaks differently when safe than when watched;
+- allows Erik to know her without making him solve her.
+
+Her arc is not from weakness to strength. She begins strong. Her movement is from
+self-containment towards a form of strength that can include trust, mercy and an
+unanswered question.
 
 ## Scale
 

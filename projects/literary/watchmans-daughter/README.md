@@ -4,7 +4,7 @@
 |---|---|
 | Working title | *The Watchman's Daughter* |
 | Form | Standalone historical novel / illustrated novella |
-| Status | Source isolation and architecture |
+| Status | Source isolation and character development |
 | Principal character | Su Zhang |
 | Place and time | Wapping, Limehouse and Whitechapel, chiefly 1888 |
 | Canon baseline | `nj22az/nj22az.github.io@62d14ae19f8cbb3c86c75e83ff3a376e47977e2a` |
@@ -51,3 +51,7 @@ The recommended planning range is 45,000–60,000 words. The existing material i
 a strong novella-length foundation, but a standalone novel must add lived time
 with Su, Wei, Sau-Ling, Lee, Liz, Kate and Erik rather than padding the Ripper
 mystery.
+
+The first new scene, *Seven Winters*, now fixes Lee's death in 1881 and establishes
+Su's dry humour, pride, impatience and ambition before the murder autumn. See
+`editorial/su-character-study.md` for the governing character arc.

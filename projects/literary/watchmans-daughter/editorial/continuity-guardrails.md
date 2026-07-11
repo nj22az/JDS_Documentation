@@ -23,12 +23,17 @@
 - In 1940 Su would be about seventy-one, consistent with the unnamed Chinese
   laundrywoman described as seventy-odd.
 
-## Chronology requiring reconciliation
+## Resolved Lee chronology
 
-Lee is born when Su is four and dies aged seven. The 1888 chapter calls his death
-“eight winters” past but also describes twelve-year-old Su's response; those
-details point to different years. The earlier project history names 1881. Choose
-one chronology before drafting and apply it everywhere.
+Lee dies in winter 1881, aged seven. Su is twelve. The event is therefore seven
+winters before the autumn of 1888.
+
+This resolution follows the earlier project history and preserves the explicit
+age of twelve in Su's memory. The protected `source-canon/` and verbatim seed keep
+the original “eight winters” wording as evidence of the discrepancy. The
+standalone draft uses “seven winters” and “seven years on”. A later anthology
+backport should make the same two-word correction without otherwise rewriting the
+1888 chapter.
 
 ## Historical-fiction boundaries
 
@@ -55,6 +60,8 @@ one chronology before drafting and apply it everywhere.
 - Cray's kindness and cruelty must both remain legible. If either is obviously a
   disguise, the ambiguity collapses.
 - Erik's refusal to interrogate Su is seamanship and respect, not passivity.
+- Su's composure must not erase her dry humour, pride, impatience, ambition or
+  capacity for pleasure. Stillness is something she does, not all that she is.
 
 ## Ending guardrail
 
