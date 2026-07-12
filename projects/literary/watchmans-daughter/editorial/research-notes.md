@@ -34,9 +34,19 @@ historical record is uncertain, the novel should preserve that uncertainty.
 ## Catherine Eddowes
 
 - Eddowes and John Kelly took annual hop-picking work in Kent in September 1888.
-  They returned to London on foot after poor results. This supports Kate's hope
-  that the hop fields will improve her finances, but the novel should not make the
-  trip more successful than the record allows.
+  Their destination was Hunton, near Maidstone, and they returned to London on
+  foot on 27 September after poor results. This supports Kate's hope that the hop
+  fields will improve her finances, but the novel should not make the trip more
+  successful than the record allows. The exact outward departure date is not
+  documented; Chapter Ten's Friday, 7 September departure is a plausible fictional
+  placement, not a recorded fact.
+- A contemporary report describes East London hop-pickers travelling with
+  bedding, cooking utensils and provisions; work began early, hops were gathered
+  into bins and measured at a horn signal, and some workers slept on straw floors.
+  It also records discouraging 1888 prospects and poor returns for unaffiliated
+  pickers. Chapter Ten uses these broad working conditions without assigning its
+  reported particulars to Eddowes and Kelly. Source: [*Echo*, 31 August 1888,
+  transcription](https://www.casebook.org/press_reports/echo/18880831.html).
 - She and Stride were killed on the same night, within roughly an hour. Source
   overview with record references:
   [Catherine Eddowes](https://en.wikipedia.org/wiki/Catherine_Eddowes).

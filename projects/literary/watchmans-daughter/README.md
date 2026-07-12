@@ -4,7 +4,7 @@
 |---|---|
 | Type | Standalone historical novel |
 | Status | First draft in progress |
-| Draft progress | Part One complete; Chapters 7–9 drafted: 15,219 narrative words |
+| Draft progress | Part One complete; Chapters 7–10 drafted: 17,292 narrative words |
 | Series position | Volume Five of six; independently readable |
 | Author | N. Johansson |
 | Main setting | Limehouse, Shadwell and Wapping, 1888 |

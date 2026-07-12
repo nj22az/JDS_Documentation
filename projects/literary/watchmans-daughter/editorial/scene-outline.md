@@ -81,9 +81,10 @@ In the present, Su understands that this was his frightened pride.
 
 ### 10. Kate Goes Hopping — 2,200 words
 
-Kate prepares for Kent with more hope than money. Su repairs the bodice and hears
-another incomplete version of the song. Kate promises the missing half. Their
-farewell is casual because neither believes it needs to carry final meaning.
+Kate prepares for Kent with more hope than money. She asks Su to add a concealed
+wages pocket to the already repaired bodice and sings another incomplete version
+of the song. Kate promises the missing half. Their farewell is casual because
+neither believes it needs to carry final meaning.
 
 ### 11. Words with Floors — 2,200 words
 
