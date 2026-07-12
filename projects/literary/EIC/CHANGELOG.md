@@ -4,6 +4,23 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-12] (six parts — 2019 becomes Part Six)
+
+### Changed
+- **The anthology is now six parts** (author-directed: the last
+  chapter "doesn't really have anything to do with Su or her story
+  anymore, it's a new generation of characters"):
+  - **Part Five — The Engine Room** (1940–1945): the 1940 chapter
+    alone; part page rewritten (the bombs, the roof, the Ladies'
+    Bridge, the old century's last witness).
+  - **Part Six — Afterlives** (2019): the 2019 chapter alone; new
+    part page (a new generation entirely; at the end, someone
+    finally looks).
+- Character map's Timeline-Peopled headings split accordingly.
+- Craft plan §0e records the decision; export regenerated.
+- Site: the reader's TOC had been missing the Part Five page
+  entirely — both Part Five and Part Six pages added to the bundle.
+
 ## [2026-07-11] (Book One, Part I complete — six chapters)
 
 ### Added

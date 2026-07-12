@@ -2434,11 +2434,11 @@ The water took him in without ceremony. It has never once been asked what it's h
 
 ---
 
-# Part Five — Afterlives
+# Part Five — The Engine Room
 
-*1940–2019*
+*1940–1945*
 
-The docks the Company built burn under German bombs, and what the fire spares, money finishes. At the end the tavern is the oldest witness left on the river — pouring gin and tonic, minding a flower, and keeping under its counter everything the centuries trusted it with.
+The Company is eighty years dead and the docks it built are the bullseye now. Under twenty-nine thousand bombs a warden keeps the count, the room fights for its own roof, and the one thing on the river still going up is being built by women. The old century's last witness sweeps glass, reads one face all the way through, and says nothing.
 
 ---
 
@@ -2639,6 +2639,14 @@ The door goes at twenty to seven. Soot to the eyebrows, one hand wrapped in some
 Gwen does not get up. Does not cross the room, does not make a scene of it, because that is not the bargain between them and they both keep it. She opens the new volume instead, and under the date, in the column where the damage goes, she writes one line that is no headquarters business at all: P. home, 0642. Once, exactly, without comment. A ledger of destruction is still a ledger. It takes what it's given.
 
 The river doesn't care about any of it. It was here before the Company, before London, and it goes on carrying the ash and the oil slick and the debris of ships that didn't make it, silently, the way it always has. The Thames is not a witness. It's a river. Witnesses remember. Rivers just flow.
+
+---
+
+# Part Six — Afterlives
+
+*2019*
+
+A new generation entirely: nobody in this room remembers the Company, and the machine runs on in spreadsheets across the river. The tavern is the oldest witness left — pouring gin and tonic, minding a flower, and keeping under its counter everything the centuries trusted it with. At the end, someone finally looks.
 
 ---
 
@@ -3002,9 +3010,11 @@ The room is the protagonist; the people are its weather. But five threads run th
 
 **1888 · The Watchman's Daughter** *(interlude)*. **Su Zhang**, nineteen, laundress, keeper of her father's four rules. **Wei Zhang**, chandler and master of the practice, who carried it, the fan, and the white bowl from Hong Kong. **Sau-Ling Zhang**, her mother, whose God keeps books at a loss, on purpose, forever. **Lee**, Su's brother, dead at seven of a fever the doctor did not hurry to. **Long Liz** and **Kate** — the real Elizabeth Stride and Catherine Eddowes, drawn from the record and extended with affection — customers first, then the third and fourth names on a list. **Dr. Reginald Cray**, Company surgeon retired, invented: what he was on the other nights of that autumn, no one — Su included — ever learns, and the case goes into the Thames unopened. **Erik Johansson**, four years later, up the shop steps with a sea-bag of salt-stiff shirts. **Flo** presses a fuchsia cutting on Su across the bar. *Four threads pass through this one room in one chapter: the practice, the Johansson line, the keepers, and Louie's chair, still propped in its corner.*
 
-**PART FIVE — AFTERLIVES**
+**PART FIVE — THE ENGINE ROOM**
 
 **1940 · A Warden's Watch.** **Gwen**, ARP warden of Stepney, counting twenty-nine thousand bombs on the docks, whose post is also a vigil: her son **Peter** is an AFS fireman inside the fires she counts. A scared young **Canadian** merchant sailor learns the room's oldest trade — courage borrowed across a bar. **Dr. Heron**, "the Ghost of Bengal" — Calcutta-born, the gentlest man the war has left the parish, with an old surgeon's economy, an almost-smile, and a dead English father who came out to Bengal past sixty at the end of the 'eighties, twice-broken right arm set badly, and never spoke of England. Everything about him fits the drowned man of 1888, and it proves nothing, and this time the nothing is mercy; no one in the book, the sweeping laundrywoman included, ever says the question out loud. The old laundrywoman from the Causeway, seventy-odd and never named in the chapter, steadies a corner of the room by stillness alone, reads the doctor once, all the way through, and keeps it. **Vera** keeps the taps running under the raids. A **Bermondsey welder** off the Ladies' Bridge — Waterloo Bridge, rising over the tide while everything else comes down, built by women the official record will thank as men — shows the room her tested seams. *Cache: Gwen's notebook, fourth and last object in.*
+
+**PART SIX — AFTERLIVES**
 
 **2019 · What the Suit Didn't See.** **Hannah**, the latest of Maggie's long line of keepers, who during a cellar refit finds the notches, the thimble, the true copy, the testimony, and the notebook — and leaves all of it exactly as found. **The suit**, who moves money from one column to another and keeps a slice, and sees nothing. An American tourist's husband wedges a coaster under a lopsided table, oblivious, and ends a 180-year wobble. And across the river in Bow, a great-great-granddaughter of a Causeway chandler and a Swedish sailor keeps three things she has never connected. *Every thread ends here, and only the reader — and the building — knows it.*
 

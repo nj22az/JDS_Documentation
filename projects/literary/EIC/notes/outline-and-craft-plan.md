@@ -820,3 +820,14 @@ FROM the site per the standing source-of-truth recovery procedure. Key content c
   one man who knows her old name now uses it once.
 - **Figure credit captions** (site-only, `#/credits` links) added under ch1–ch2 figures;
   these are stripped when syncing to manuscript, like figures themselves.
+
+## 0e. Six parts (2026-07-12, author-directed)
+
+The 2019 chapter is promoted out of "Afterlives"-as-shared-part into its own **Part Six —
+Afterlives**; the 1940 chapter becomes **Part Five — The Engine Room**. Author's rationale:
+the last chapter "doesn't really have anything to do with Su or her story anymore, it's a
+new generation of characters" — 1940 still brushes Su's world (the old laundrywoman, Dr.
+Heron's echo), 2019 does not. Files: `13z-part-five-the-engine-room.md` (rewritten),
+`14z-part-six-afterlives.md` (new). Character map's Timeline-Peopled headings updated.
+Site note: the reader's TOC had been missing the Part Five page entirely; both Part Five
+and Part Six pages added to the bundle in the same pass.
