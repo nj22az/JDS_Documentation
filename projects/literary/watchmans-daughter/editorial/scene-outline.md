@@ -67,9 +67,10 @@ man as a possibility.
 ### 8. What Women Carry — 2,200 words
 
 Laundry deliveries show what women now carry: pins, small knives, bottles, keys
-between fingers. Men form opinions and committees. Sau-Ling refuses to let fear
-decide who deserves clean linen. Su resents being escorted and resents needing to
-calculate the refusal.
+between fingers. Men form opinions and an informal escort rota; the organised
+Whitechapel committee comes later. Sau-Ling refuses to let fear decide who
+deserves clean linen. Su resents being escorted and resents needing to calculate
+the refusal.
 
 ### 9. Closing Time — 2,300 words
 

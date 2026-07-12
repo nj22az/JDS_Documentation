@@ -59,6 +59,16 @@ historical record is uncertain, the novel should preserve that uncertainty.
 - The name “Jack the Ripper” did not belong to public discussion on 31 August.
   Early reports proposed a gang, a butcher, a “madman” or a single unknown
   assailant. No character should use the later name in Chapters Seven or Eight.
+- Nineteenth-century women's pockets could be separate tie-on pouches beneath a
+  skirt as well as pockets sewn into working aprons and other garments. Ordinary
+  contents included keys, scissors, pins and needles, making Chapter Eight's
+  changed use of domestic objects plausible without introducing modern weapons.
+  Source overview: [history of pockets](https://en.wikipedia.org/wiki/Pocket).
+- The formal Whitechapel Vigilance Committee first met on 10 September, after
+  Annie Chapman's death. The walking company in Chapter Eight is therefore a
+  fictional, unnamed Prospect escort rota on 5 September, not the historical
+  committee. Source overview:
+  [Whitechapel Vigilance Committee](https://en.wikipedia.org/wiki/Whitechapel_Vigilance_Committee).
 - “Canonical five” is a later grouping. The broader Whitechapel murder file
   continued beyond Kelly. The novel must not state that violence against women
   stopped because Cray disappeared. It may state only that the canonical sequence
