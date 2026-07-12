@@ -10,7 +10,7 @@
 
 The Swedish crews come through two or three times a year, with the timber.
 
-Maggie serves them like anyone: ale, bread, the reckoning chalked fair. She does not tell them what she is. A few of the older skippers know anyway — the Baltic trade is a village with a very long street — and have learned that the knowledge buys nothing: she will speak the language across the counter if spoken to, one measured sentence at a time, and it comes out of her level and unhurried, like coin counted from a drawer she keeps locked between customers. The young ones sometimes try to draw her — a countrywoman keeping an English bar, there must be a story — and get the bread, the ale and the level look, in that order, and give up, and are served none the worse for trying.
+Maggie serves them like anyone: ale, bread, the reckoning chalked fair. She does not tell them what she is. A few of the older skippers know anyway, the Baltic trade being a village with a very long street, and have learned that the knowledge buys nothing: she will speak the language across the counter if spoken to, one measured sentence at a time, and it comes out of her level and unhurried, like coin counted from a drawer she keeps locked between customers. The young ones sometimes try to draw her, a countrywoman keeping an English bar, there must be a story, and get the bread, the ale and the level look, in that order, and give up, and are served none the worse for trying.
 
 Seventeen years she has kept the drawer locked. What is in it: a boy in a doorway with a sea-bag, unable to make his mouth work. Go on, then. She has never once regretted saying it, which is a different thing, she has learned, from it not costing anything. Regret is for wrong turnings. This was a right one that went on hurting, the commonest article on any river, stocked in every size.
 
@@ -26,7 +26,7 @@ You'll take ale while I read, she says, in English, to the whole room, in her or
 
 It is one page, written close, in Swedish that smells of the navy: plain words, ranks, no flourishes, a man reporting.
 
-He is alive. Boatswain now, crown service still, out of Karlskrona. He begs to inform her — the letter genuinely says this; she can hear the pen gripped too hard — he begs to inform her that he is married these nine years to a good woman, a rope-maker's daughter, and that they have a son, six years old, sturdy, named Johan for his grandfather. He is teaching the boy boats. He writes that the Baltic was hard in the late wars but the service fed them. He writes about ice, at some length, the state of the ice this winter past, the ice being very bad, and she understands the ice completely: it is the part of the letter where the words about the ice are standing in front of the words he cannot get out, the way a man stands in front of a door he is minded to guard.
+He is alive. Boatswain now, crown service still, out of Karlskrona. He begs to inform her (the letter genuinely says this; she can hear the pen gripped too hard) that he is married these nine years to a good woman, a rope-maker's daughter, and that they have a son, six years old, sturdy, named Johan for his grandfather. He is teaching the boy boats. He writes that the Baltic was hard in the late wars but the service fed them. He writes about ice, at some length, the state of the ice this winter past, the ice being very bad, and she understands the ice completely: it is the part of the letter where the words about the ice are standing in front of the words he cannot get out, the way a man stands in front of a door he is minded to guard.
 
 Then, at the bottom, above the plain signature, three sentences not about ice:
 
@@ -34,7 +34,7 @@ A man on a Lübeck ship said there was a Margareta keeping a tavern on the Londo
 
 Maggie sits with the page in both hands for a long time. The candle does its work. Through the wall, faintly, the room does its work too, Mara's voice moving through it, the fire ticking, the whole familiar machinery of the house running without her, which is a thing she built and is suddenly, fiercely glad of, because it means nobody comes looking.
 
-Seventeen years she has told herself the story with the ending already on it: the boy handed to the sea, the sea being what it is, the arithmetic being what it is; a woman who pours for sailors' mothers all her life learns not to exempt herself from the odds. She had settled it. Filed it. Cut, so to speak, the line across the notch — and here is the tide, without warning, without asking, bringing the whole account back up out of the water, alive, married, sturdy, teaching a boy boats, worried about ice.
+Seventeen years she has told herself the story with the ending already on it: the boy handed to the sea, the sea being what it is, the arithmetic being what it is; a woman who pours for sailors' mothers all her life learns not to exempt herself from the odds. She had settled it. Filed it. Cut, so to speak, the line across the notch. And here is the tide, without warning, without asking, bringing the whole account back up out of the water, alive, married, sturdy, teaching a boy boats, worried about ice.
 
 A letter is a tide. It brings what it brings, and it does not take requests. She says it out loud, alone, in the back room, in Swedish, and hears what her own voice does on the words, and lets it, once, since nobody is by.
 
