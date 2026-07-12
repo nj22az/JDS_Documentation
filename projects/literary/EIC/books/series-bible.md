@@ -79,9 +79,15 @@ Everything the novels add that could bind later books. (Append entries as chapte
 - **[Book One ch6, drafted]** Tom's farewell: "Mind the thimble" / "Mind your figures, writer"; the heel of bread from Mara — the same-weather transaction, no words. The fleet (four ships, spring 1604) passes Wapping on the ebb; Mara raises the jug a hand's width at the second ship; Hendricks bareheaded on his barge; Maggie stays behind the counter. Maggie's line: "Ships are loud going and quiet coming. It is the quiet you learn to listen for."
 - **[Book One ch3, drafted]** Pieter Hendricks died in a lodging house off the Ratcliff road raving about the Company's islands and a thing he had watched but could not put into words; Hendricks sat with him four nights and never had the whole of it (the missing piece stays missing — series ambiguity, keep). Hendricks was on the stairs the day Margareta came off the timber ship and is the only man in Wapping who ever heard her whole name said properly.
 
-## 8. The book slate
+## 8. The book slate — and the Omnibus
 
-Each book stands alone; the anthology remains the connective spine. Working slate:
+Each book stands alone; the anthology remains the connective spine. **The destination
+(author-directed, 2026-07-12) is a single omnibus volume**: the six books assembled in
+era order into one giant book — *The Front-Row Seat: The Omnibus* — with the anthology's
+appendices (character map, timeline, bibliography) closing the volume. Each book's parts
+are parts of that bigger book; the omnibus is built by concatenating the books'
+manuscript folders in slate order once more than one book exists (a build script joins
+the tooling then, not before). Working slate:
 
 | # | Working title | Era | Keeper | Spine |
 |---|---|---|---|---|

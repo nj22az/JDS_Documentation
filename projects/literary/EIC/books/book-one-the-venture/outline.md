@@ -12,7 +12,7 @@
 | Ch | Working title | Beat |
 |---|---|---|
 | 1 | The Rain | Tom arrives with the paper; Maggie's odds. Expanded from anthology ch1 §I–III, novel pacing: more room, more Wapping, more of Maggie's ordinary day before the boy walks in |
-| 2 | The Wager | Rook, Mara, the auction, the fight, the room on its feet, the debt bought and witnessed. Anthology ch1 §IV expanded — Rook and Mara each get interiority the anthology couldn't afford |
+| 2 | Bought and Witnessed | Rook, Mara, the auction, the fight, the room on its feet, the debt bought and witnessed. Anthology ch1 §IV expanded — Rook and Mara each get interiority the anthology couldn't afford. (Retitled from "The Wager" to avoid clashing with the part title.) |
 | 3 | Dutch Courage | Hendricks's warning; the Dragon's lads; the thimble; the genever at the door. Anthology ch2 expanded — Pieter's story in full |
 | 4 | The Signing | NEW. The muster table, the clerk, the shilling and the mark — the machine at its smallest and politest. Tom from outside, Maggie's morning intercut |
 | 5 | **The Daylight Man** | NEW — **calibration sample, drafted.** Rook returns sober to test "find me in daylight"; nobody wins, the terms hold, and the Bruiser learns the room's law |
