@@ -4,6 +4,30 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-12] (Book One, Part II complete — the omnibus plan)
+
+### Added
+- **Series destination set** (author-directed): the parts build into
+  the bigger book, the books build into one omnibus volume; recorded
+  in the bible (§8, "The book slate — and the Omnibus").
+- **Part II "The Years Between" drafted in full** (six chapters +
+  divider, ~8,700 words), the book's own territory:
+  7. *What the River Brought* — Pell brings Tom's death to the
+     counter; the first settling-mark joins the notches.
+  8. *Mara's Trade* — São Tomé told once, on her terms, to a runaway
+     girl; "free is nobody keeping the account."
+  9. *The Dutchman's Brother* — Pieter's chest, eleven years late;
+     the stone with no story stays storyless.
+  10. *Carter's Rope* — the Appetite cast young: first order at his
+      father's wake, grief and use side by side at full strength.
+  11. *The Son* — the letter from Karlskrona; a grandson named Johan;
+      Maggie's box upstairs, explicitly not the Cache.
+  12. *Rumour of Spice* — Amboyna as whisper, account, pamphlets;
+      Part II closes at the latch of the 1626 chapter.
+- All chapters at or under the dash budget (two trimmed to it);
+  epigraphs verbatim in body; six New Canon Ledger entries.
+- Book One now ~22,400 words total (Parts I–II of three).
+
 ## [2026-07-12] (six parts — 2019 becomes Part Six)
 
 ### Changed
