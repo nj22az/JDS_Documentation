@@ -53,6 +53,24 @@ historical record is uncertain, the novel should preserve that uncertainty.
   coverage. This can shape Su's public world without sending her into a police
   station or turning the novel into an investigation.
 
+## Medical plausibility
+
+- A wooden monaural stethoscope is appropriate for Cray's 1880 visit. The form
+  predates the scene by decades and remained in medical use through the later
+  nineteenth century. Do not describe a modern binaural instrument.
+- A doctor's night call to a poor dockside household was possible but could not
+  be assumed. Cray's refusal to leave supper is therefore a choice within the
+  social power of his profession, not a claim that no doctor would have gone.
+- Closed reduction of a dislocated shoulder by controlled traction and
+  counter-traction long predates 1888. Chapter Six deliberately describes the
+  physical principles without assigning Cray a named modern technique.
+- No exact fee is stated for Lee's visit. The family can experience the charge as
+  substantial without fixing a sum until ordinary East End medical fees have
+  been checked against a primary source.
+- Camphor and turpentine both appeared in period external liniments. Cray's exact
+  recommendation still needs a pharmacy-history and toxicology check before
+  publication; it is character detail, not health advice.
+
 ## Drafting checks still required
 
 - Verify the precise 1888 naming and alignment of every road used in Chapters 1,
@@ -63,5 +81,7 @@ historical record is uncertain, the novel should preserve that uncertainty.
   as a documented household.
 - Check Swedish-language details used by Liz with a native historical-language
   reader before publication.
+- Verify the exact liniment proportions and safe period wording with a qualified
+  historical-medical reader.
 - Commission a sensitivity and historical read for the Chinese-British household,
   migration and martial inheritance before final copy-edit.

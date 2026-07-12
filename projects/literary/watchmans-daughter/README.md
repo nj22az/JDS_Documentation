@@ -4,6 +4,7 @@
 |---|---|
 | Type | Standalone historical novel |
 | Status | First draft in progress |
+| Draft progress | Part One complete: Chapters 1–6, 9,196 narrative words |
 | Author | N. Johansson |
 | Main setting | Limehouse, Shadwell and Wapping, 1888 |
 | Target length | 55,000–65,000 words |
@@ -28,6 +29,7 @@ watchmans-daughter/
 ├── README.md
 ├── editorial/
 │   ├── canon-and-guardrails.md
+│   ├── research-notes.md
 │   └── scene-outline.md
 └── manuscript/
     ├── 00-frontmatter.md
