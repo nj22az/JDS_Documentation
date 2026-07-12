@@ -4,6 +4,35 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-12] (Book One complete in first draft — Part III)
+
+### Added
+- **Part III "The Man Who Came Back Wrong" drafted in full** (eight
+  chapters + divider, ~9,900 words), the 1626 canon at novel depth:
+  13. *The Ship from Amboyna* — Daniel is a notch from 1618; the coin
+      accepted gravely at the posted price.
+  14. *The Water* — the genever poured; the old Dutch skipper is
+      Hendricks, and Maggie lets the room's verdict stand; Carter
+      hears the turn in his own mouth for the first time.
+  15. *The Room* — Amboyna canon-exact; the count that never comes
+      back past ten; Mara reorders her mornings unasked.
+  16. *The Deposition* — drowned twice; a man must stop trusting the
+      official copy before it occurs to him to make a true one.
+  17. *The Woman Who Came Looking* — Nell reordered before the offer
+      per canon; three years of walking, audited and found fair.
+  18. *The Offer* — Pryce priced from the door by Mara; force
+      respects stated terms — what does paper respect?
+  19. *The True Copy* — the gap shown after twenty-three years; the
+      small metal thing the reader knows by name; "In the morning she
+      will speak to Mara about a girl."
+  20. *The Walls Get Higher* — cotton, Rook's bed, the barge brandy
+      with the ice standing guard, Joan and the trade's dialect, and
+      the two libraries against "Just a wall."
+- **Book One: The Venture — complete first draft, 20 chapters,
+  ~32,400 words** (lean draft; expansion passes to follow). Builds
+  standalone via md2book. New Canon Ledger updated (Joan closes the
+  keeper-line requirement).
+
 ## [2026-07-12] (Book One, Part II complete — the omnibus plan)
 
 ### Added
