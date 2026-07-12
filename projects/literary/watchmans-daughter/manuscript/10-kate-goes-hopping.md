@@ -2,6 +2,8 @@
 
 *Friday, 7 September 1888*
 
+![Kate testing the hidden penny pocket as John, Wei and Su prepare the bundle and forgotten loaf for Kent.](../art/plates/10-kate-goes-hopping.jpg)
+
 Kate leaves London with more advice than luggage and more luggage than money.
 
 The advice has accumulated since Aldgate. Walk before the heat. Keep the blanket

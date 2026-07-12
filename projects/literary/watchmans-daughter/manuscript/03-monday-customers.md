@@ -2,6 +2,8 @@
 
 *Monday, 27 August 1888*
 
+![Long Liz, Su and Kate laughing around the torn bodice at the crowded laundry counter.](../art/plates/03-monday-customers.jpg)
+
 Long Liz arrives before the shirts are dry and Kate arrives before Liz can leave.
 
 This is not unusual. Monday customers collect at the laundry as river rubbish

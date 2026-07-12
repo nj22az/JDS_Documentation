@@ -2,6 +2,8 @@
 
 *Thursday, 30 August 1888*
 
+![Dr Cray resetting Ned Pike's shoulder at the Prospect while Su watches his hands.](../art/plates/06-a-doctors-hands.jpg)
+
 Dr Cray's hands are the first part of him the room trusts.
 
 They rest on either side of his brandy at the Prospect, long-fingered and pale,

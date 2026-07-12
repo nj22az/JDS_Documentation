@@ -1,5 +1,7 @@
 # Chapter Five: Lee's Winter
 
+![Eleven-year-old Su catching Lee hiding a sweet while Wei watches their winter practice.](../art/plates/05-lees-winter.jpg)
+
 Lee's peg remains behind the shop door.
 
 It is lower than the others because Wei fixed it when his son was five and said

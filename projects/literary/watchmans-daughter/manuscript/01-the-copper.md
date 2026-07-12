@@ -2,6 +2,8 @@
 
 *Limehouse, Monday, 20 August 1888*
 
+![Su, Sau-Ling and Wei containing the leaking wash-copper before dawn.](../art/plates/01-the-copper.jpg)
+
 The wash-copper begins leaking at twenty minutes past five, before the fire has
 properly caught.
 

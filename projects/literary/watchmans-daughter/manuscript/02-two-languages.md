@@ -1,5 +1,7 @@
 # Chapter Two: Two Languages
 
+![Wei correcting Su's raised arm with the folded fan in the blue light before the laundry opens.](../art/plates/02-two-languages.jpg)
+
 The yard belongs to the laundry after six. Before six it belongs to Wei.
 
 He is there when Su comes down on Tuesday, a darker shape inside the blue light,

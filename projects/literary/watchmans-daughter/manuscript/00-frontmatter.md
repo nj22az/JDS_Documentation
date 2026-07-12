@@ -4,6 +4,8 @@
 
 **N. Johansson**
 
+![Su Zhang standing at the threshold of the family laundry between warm lamplight and the cold Limehouse morning.](../art/plates/00-cover.jpg)
+
 > Never first. Never for show. Never for payment. Never in anger.
 >
 > — the rules Wei Zhang taught his daughter

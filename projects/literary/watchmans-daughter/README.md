@@ -5,6 +5,7 @@
 | Type | Standalone historical novel |
 | Status | First draft in progress |
 | Draft progress | Part One complete; Chapters 7–10 drafted: 17,292 narrative words |
+| Illustration progress | Text-free cover and six chapter plates complete |
 | Series position | Volume Five of six; independently readable |
 | Author | N. Johansson |
 | Main setting | Limehouse, Shadwell and Wapping, 1888 |
@@ -33,6 +34,10 @@ it. His physician's case is never opened.
 ```text
 watchmans-daughter/
 ├── README.md
+├── art/
+│   ├── README.md
+│   ├── credits.md
+│   └── plates/
 ├── editorial/
 │   ├── canon-and-guardrails.md
 │   ├── research-notes.md
