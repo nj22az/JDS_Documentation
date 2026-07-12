@@ -1,6 +1,6 @@
 # The Watchman's Daughter
 
-## A Novel
+## A Standalone Novel
 
 **N. Johansson**
 

@@ -45,6 +45,20 @@ historical record is uncertain, the novel should preserve that uncertainty.
 
 - Mary Ann Nichols was found on 31 August; Annie Chapman on 8 September; Stride
   and Eddowes on 30 September; Mary Jane Kelly on 9 November.
+- Nichols was discovered in Buck's Row at approximately 3:40–3:45 a.m. on Friday,
+  31 August. The same day's *Echo* described an unidentified woman and supplied
+  lurid, sometimes inaccurate detail before a name was available. This supports
+  Chapter Seven's movement from spoken rumour to an unnamed afternoon report.
+  Source: [*Echo*, 31 August 1888, transcription](https://www.casebook.org/press_reports/echo/18880831.html).
+- By 1 September reports named Mary Ann “Polly” Nichols, connected her clothing
+  to Lambeth Workhouse and reported the fourpenny lodging-house charge, a comb
+  and a piece of looking glass. Early reports disagreed or erred on her age and
+  other particulars. Chapter Seven preserves that unstable public knowledge
+  rather than giving Su facts not yet available to her. Source:
+  [*Daily News*, 1 September 1888, transcription](https://www.casebook.org/press_reports/daily_news/18880901.html?printer=true).
+- The name “Jack the Ripper” did not belong to public discussion on 31 August.
+  Early reports proposed a gang, a butcher, a “madman” or a single unknown
+  assailant. No character should use the later name in Chapters Seven or Eight.
 - “Canonical five” is a later grouping. The broader Whitechapel murder file
   continued beyond Kelly. The novel must not state that violence against women
   stopped because Cray disappeared. It may state only that the canonical sequence

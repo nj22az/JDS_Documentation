@@ -12,6 +12,12 @@ understands that Wei is ageing and that the moral burden of the practice will
 become hers. Sau-Ling supplies the counterweight: some accounts cannot be closed;
 mercy means carrying them at a loss.
 
+This movement must close inside Su's own book. The reader does not need the
+anthology or another volume to understand the Zhang family, Cray, the Prospect,
+the rules or the ending. Cray's uncertain connection to the Whitechapel murders
+remains unanswered because proof is not Su's moral task, not because the novel is
+waiting for a sequel to explain him.
+
 ## Binding character canon
 
 ### Su Zhang

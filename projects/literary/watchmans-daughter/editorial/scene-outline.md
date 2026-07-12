@@ -4,6 +4,12 @@ Target: approximately 60,000 words. The chapter allocations are guides, not
 quotas. Parts One to Three make Su fully known before the alley occupies the final
 quarter of the novel.
 
+This is Volume Five of a planned six-book cycle, but it must read as a complete
+novel in isolation. Its four parts are internal movements, not instalments. Every
+person, rule, object and shared-series motif needed at the climax must first earn
+meaning inside this book. The alley resolves the physical conflict; the final
+chapters and 1892 epilogue resolve Su's moral and emotional movement.
+
 ## Part One — The Yard
 
 ### 1. The Copper — 2,400 words
@@ -45,9 +51,9 @@ ordinary object of his still used in the shop.
 ### 6. A Doctor's Hands — 2,200 words
 
 At the Prospect, Cray resets a docker's shoulder with extraordinary skill. Su,
-still young in the remembered scene, sees the steadiness without yet knowing how
-to name its absence of fellow-feeling. In 1888 he asks after Sau-Ling's rheumatism
-and recommends a liniment that works. Both facts remain true.
+watching in 1888, refuses to let the steadiness cancel what the same hands withheld
+from Lee. Cray asks after Sau-Ling's rheumatism and recommends a liniment that
+works. Both facts remain true.
 
 ## Part Two — The Autumn
 
