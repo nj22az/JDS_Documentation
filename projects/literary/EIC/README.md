@@ -79,3 +79,8 @@ implicit ancestry, removes unsupported history and demonstrates a 31.7 per cent
 compression without changing the deployed book. See
 `editorial/comparison-2026-07-11.md` and
 `editorial/opening-line-edit-2026-07-11.md` before extending the edit.
+
+The current final-book development sample is
+`manuscript-editorial/14-2019-what-jerry-bought.md`. It expands Jerry Vale from a
+passing hedge-fund tourist into the cycle's active modern antagonist. His
+governing brief is `editorial/jerry-vale-character-brief.md`.

@@ -143,3 +143,10 @@ same institution.
 
 The Prospect functions as home, archive and final point of comparison. The book
 may leave it; the omnibus must return to it.
+
+Jerry Vale is the final book's active modern antagonist. His fictional fund buys
+distressed debt attached to the Prospect and offers to preserve the building by
+separating its property, operation and historical rights. He understands Company
+history and admires its structural survival rather than its violence. The final
+conflict is therefore not history against ignorance, but public memory against a
+man who wants to own and curate the warning.

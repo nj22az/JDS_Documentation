@@ -4,6 +4,19 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-13] (Jerry Vale editorial chapter)
+
+### Added
+- Drafted the 3,312-word editorial expansion “2019: What Jerry Bought.”
+- Added Jerry Vale's character brief, fictional fund structure, corruption
+  mechanism, voice rules and relationship to Tom.
+
+### Changed
+- Recast the final suit from an ignorant Company admirer into a knowledgeable,
+  active modern antagonist seeking the Prospect's property and heritage rights.
+- Gave Hannah an irreversible response: she documents and divides the Cache so
+  Jerry can acquire the property transaction but not the whole historical record.
+
 ## [2026-07-13] (omnibus spine and post-dissolution rule)
 
 ### Changed
