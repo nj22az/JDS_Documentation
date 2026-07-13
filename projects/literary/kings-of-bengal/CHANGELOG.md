@@ -1,5 +1,18 @@
 # Change Log
 
+## 2026-07-13 — The Prospect restored as stage
+
+- Rebuilt all twenty-two chapters around the Prospect of Whitby as the fixed
+  dramatic stage.
+- Reclassified the quay, foreshore, warehouses and yards as the stage's immediate
+  wings; all decisive turns now return to the tavern.
+- Replaced independent Bengal scenes with testimony, sustained Sufiya letters,
+  cargo evidence and owned memory.
+- Added a stage map for the third stool, bar, fire, river window, door, back room
+  and hidden Cache.
+- Reframed Chapter One to open inside the Prospect with the failed pump leather,
+  Rahim, Elias and Coates already sharing the room.
+
 ## 2026-07-13 — Cornish engineering history
 
 - Rebuilt the engineering character as Elias Tregowan, an English shipwright and

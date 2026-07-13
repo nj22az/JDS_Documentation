@@ -4,6 +4,43 @@
 
 ### Wapping, 1757
 
+The first piece of Bengal to enter the Prospect that evening was not silk, nor
+silver, nor a soldier's story. It was a circle of black leather cut badly by a
+man who had needed it to work.
+
+Elias Tregowan placed it on the bar.
+
+Nell Finch looked at the wet mark spreading beneath it and passed him the cloth
+she ordinarily reserved for customers who mistook furniture for a sleeve.
+
+“Company property?” she asked.
+
+“Company rubbish.”
+
+“Those are often the same thing at different hours.”
+
+Rahim Ali stood beside Elias in a jacket made for another climate. He had carried
+the shallow box from the quay and did not surrender it when Elias removed the
+leather. Around them the Prospect continued its evening work: William Finch
+arguing over a delivery, a dog asleep where three boots had already found it,
+and Sergeant Coates on the third stool with both hands around an untouched
+tankard.
+
+“Why keep it?” Nell asked.
+
+Elias turned the leather so its shaved edge faced the room. “Because the new one
+passes.”
+
+Nell waited.
+
+“And this one worked.”
+
+“That sounds inconvenient.”
+
+It had become inconvenient three hours earlier.
+
+* * *
+
 The pump worked perfectly while the ship was tied to the quay.
 
 This was the first fact, and the least useful.
@@ -324,18 +361,22 @@ Samuel put the pencil away.
 
 * * *
 
-The Prospect of Whitby stood close enough to the river to appear, at high water,
-like another vessel that had decided not to sail.
+By the time Samuel reached the Prospect, the failed leather lay on Nell's cloth
+at the end of the bar. Elias and Rahim had taken a table near the fire. Rahim
+kept the shallow box beneath his chair and watched the door as if a mate might
+still order him aboard.
+
+The Prospect stood close enough to the river to appear, at high water, like
+another vessel that had decided not to sail.
 
 Samuel had passed it many times and entered twice. His mother did not object to
 ale but objected to men who allowed ale to become biography. The Prospect had a
 long memory for such men. Its beams were older than anyone who drank beneath
 them. Its floor leaned toward the Thames as if listening.
 
-The landlord, William Finch, was broad enough to make the space behind the bar
-look temporary. His sister stood beside him with a chalk stub and a slate.
-Eleanor Finch was known as Nell to everyone except men attempting charm. To
-those men she was generally Miss Finch until they left.
+William Finch was broad enough to make the space behind the bar look temporary.
+Nell stood beside him with a chalk stub and a slate. She was Eleanor only to men
+attempting charm, and generally Miss Finch to those men until they left.
 
 She looked first at Samuel's shoes, then at the satchel.
 
@@ -527,9 +568,9 @@ not mistake it for the price.”
 
 Samuel waited.
 
-Outside, somewhere beyond the glass, a repaired pump would be quiet until men
-needed it in the dark. A bale would enter a warehouse at two different weights.
-A man who had been near Plassey would leave the quay because nobody had asked
-for his account.
+Beyond the glass, the repaired pump would be quiet until men needed it in the
+dark. A bale would enter a warehouse at two different weights. At the table near
+the fire, a man who had been near Plassey held his hands toward English heat and
+waited inside the category for which Samuel had no question.
 
 Samuel turned the page.

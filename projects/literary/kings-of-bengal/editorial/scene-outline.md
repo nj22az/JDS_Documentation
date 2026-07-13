@@ -1,198 +1,257 @@
 # Scene Outline
 
-## Novel movement
+## Fixed-stage principle
 
-The book covers thirty-three years in five parts. Time gaps are deliberate. Each
-return shows what the characters chose when the reader was not watching.
+The Prospect of Whitby is the novel's dramatic stage. The great events occur
+elsewhere; their witnesses, evidence and consequences arrive through its door.
+
+- Every chapter begins, ends or makes its decisive turn at the Prospect.
+- The quay, foreshore, warehouse and nearby yards are the stage's wings. A short
+  excursion may show work, but the chapter returns before the decision is made.
+- Bengal, Boston and the Pacific enter through people, letters, cargo, damaged
+  parts, newspapers, accounts and embodied memory.
+- A remembered scene is owned by a present speaker. It may reveal what that
+  person saw, never an omniscient version of the event.
+- Sufiya's letters are allowed sustained first-person space. They are not reduced
+  to evidence that English characters paraphrase.
+
+The book covers thirty-three years in five returns to the same room. Changes to
+the bar, household, river view and regular clientele show what happened during
+the gaps.
 
 ## Part One — The Bought Field (1757)
 
 ### Chapter 1 — The Notebook Man
 
-Samuel Naylor checks cargo on a newly arrived Indiaman while Elias Tregowan and Rahim
-argue over a repaired chain pump whose dock measurement conceals its behaviour at
-sea. One bale bears two correct but incompatible weights. MP Nathaniel Hollis
-sends Samuel to the Prospect to record Sergeant Coates. Nell Finch punctures
-Samuel's belief that a clean page is neutral. Coates begins telling him what
-Plassey felt like.
+The first object on the bar is a misshapen, oil-black pump leather. Elias
+Tregowan and Rahim Ali bring it from an arriving Indiaman because the official
+dock test passed while the pump had failed under load at sea. Samuel Naylor
+arrives with a receiving ticket bearing two correct but incompatible weights.
+Then Sergeant Coates takes the third stool.
 
-**Turn:** Samuel hears that the battle was purchased and continues writing after
-he understands the notes may cost Coates his pension.
+Brief work memories establish the pump and warehouse disputes, but the room is
+where the three forms of incomplete truth meet. Nell punctures Samuel's belief
+that a clean page is neutral. Coates begins his account of Plassey.
 
-### Chapter 2 — River Work
+**Turn:** Samuel continues writing after learning that the testimony may cost
+Coates his pension.
 
-Near Hugli, Rahim and Sufiya move Company stores while local authority changes
-hands. Their family boats are useful enough to requisition and too small to
-protect. Sufiya discovers that a contract has been rewritten after performance.
+### Chapter 2 — Two Views of Rain
 
-**Turn:** She keeps a copy rather than accepting the corrected total.
+Coates remembers the mango grove. Rahim, after refusing several badly framed
+questions, describes what he saw from the river: supply movement, inactive men
+and orders whose purpose he did not yet know. Their memories overlap without
+combining into a falsely complete battlefield.
 
-### Chapter 3 — A Transaction in the Rain
+Rahim produces a copied cargo instruction made by his sister Sufiya. Its mark
+does not agree with the Company's version of the same movement.
 
-Coates's mango-grove account is intercut with Rahim watching Mir Jafar's inactive
-troops from a supply boat. Neither sees the whole bargain. Both recognise that
-the field is wrong.
+**Turn:** Samuel gives Sufiya's copy its own page rather than treating it as an
+appendix to Coates.
 
-**Turn:** Coates calls himself a participant, not merely a deceived soldier.
+### Chapter 3 — What Mr Hollis Asked
 
-### Chapter 4 — Corrected for Clarity
+Samuel returns from delivering the notebook. Hollis praised the accuracy but
+retained only statements useful to a parliamentary question about presents.
+Coates's fear, Rahim's account and William Finch's history of the weavers have
+all disappeared.
 
-Hollis receives Samuel's notebook, praises its accuracy and removes everything
-that cannot be used safely. Samuel is offered a secure warehouse position through
-Aldridge. His mother needs the money.
+Nell makes Samuel reconstruct aloud what was removed while the witnesses are
+still present to correct him.
 
-**Turn:** Samuel accepts and secretly reconstructs Coates's missing words.
+**Turn:** the Prospect creates the fuller record Parliament declined to keep.
+
+### Chapter 4 — After Closing
+
+Aldridge offers Samuel secure warehouse work. Samuel's mother needs the money;
+Coates advises him to take it; Nell asks what the job will require him not to
+notice. After closing, Samuel hides the reconstructed pages in the building.
+
+**Turn:** he accepts the post and tells himself preservation is not yet
+complicity.
 
 ## Part Two — The Right to Collect (1765–1769)
 
-### Chapter 5 — Diwani
+### Chapter 5 — Revenue Night
 
-The Company gains revenue authority. Samuel learns to separate goods, tax,
-freight and private trade into columns that never meet. Mulvey leaves Wapping for
-a Bengal clerkship. Samuel envies him.
+Company men celebrate the new revenue authority as a commercial triumph. Samuel,
+now an assured clerk and Prospect regular, understands their vocabulary well
+enough to make it sound reasonable. Rahim's delayed packet contains Sufiya's
+first long letter: boat hire, new collectors and a contract altered after the
+work was done.
+
+**Turn:** Nell asks Samuel to read the Company's language and Sufiya's language
+side by side. The same money acquires two histories.
 
 ### Chapter 6 — Nell's Losses
 
-Nell's private slate records meals, shirts and beds never likely to be paid. She
-and Samuel marry after an argument about whether an account kept without intent
-to collect is still an account.
+The Prospect's slate records meals, shirts, beds and credit that will not be
+recovered. Samuel calls it bad accounting. Nell replies that the losses are
+chosen and therefore more honestly recorded than many profits.
+
+**Turn:** their marriage follows an argument rather than a rescue. The tavern
+becomes Samuel's household without becoming his property.
 
 ### Chapter 7 — Two Boats
 
-Sufiya wins legal use of the family boats but not undisputed ownership. Rahim
-signs outward because sea wages can settle the claim. Company contractors begin
-preferring cash crops and secured clients over local provisioning.
+Rahim returns with Sufiya's account of defending legal use of two family boats.
+The letter occupies the centre of the chapter, interrupted only where damaged
+paper, translation or Rahim's reluctance creates a genuine gap.
 
-Elias and Rahim rebuild a pump with a valve shaped by what the crew could repair
-at sea rather than what the yard drawing assumes. It is their first successful
-piece of shared work.
+At a table near the fire, Rahim and Elias design a pump repair that can be
+renewed by a crew at sea rather than only by a fully supplied London yard.
+
+**Turn:** Samuel realises Sufiya's retained copy and Elias's retained failed
+parts serve the same purpose: both prevent authority from renaming the cause.
 
 ### Chapter 8 — The Hooked N
 
-Samuel invents his personal verification mark. Aldridge adopts it across a set of
-warehouse returns without asking. Samuel is flattered before he understands that
-his reputation now certifies decisions he did not make.
+A delivery at the Prospect bears Samuel's hooked verification mark on paperwork
+he did not personally examine. Aldridge has adopted it across warehouse returns.
+Samuel is initially flattered that his accuracy has become valuable.
 
-**Midpoint:** the mark intended to prove personal truth becomes institutional
+**Midpoint:** the mark intended to prove personal truth has become institutional
 property.
 
 ## Part Three — Hunger (1770)
 
-### Chapter 9 — No Rain Worth Naming
+### Chapter 9 — No Letter
 
-Sufiya watches the price of grain outrun wages and then jewellery. She refuses a
-lucrative contract to move stored rice away from districts already emptying.
+News of failed rain and rising grain prices reaches the Prospect through ships,
+price sheets and frightened fragments. No new letter comes from Sufiya. Her last
+letter is reread, and its ordinary decisions acquire meanings nobody could see
+when it arrived.
 
-### Chapter 10 — What Mulvey Saw
+**Turn:** Rahim refuses to let absence become permission for the room to invent
+what happened to her.
 
-Mulvey returns to Wapping physically intact and unable to make ordinary choices.
-Because Samuel knows the boy he was, every omission in his account is visible.
+### Chapter 10 — Mulvey's Bowl
+
+Patrick Mulvey returns physically intact and cannot choose between two meals.
+Nell places one bowl before him and removes the decision. Samuel knows the boy
+Mulvey was and hears every omission in the clerk's account.
+
+**Turn:** Mulvey names a death he entered under no category because the books had
+no place for it.
 
 ### Chapter 11 — The Man in Borrowed Wool
 
-Rahim reaches London underpaid and without an immediate return berth. Nell gives
-him dry clothing but refuses to turn the act into sentimental rescue. He
-recognises Samuel's hooked N on cargo connected to Sufiya's disputed contract.
+Rahim arrives underpaid, cold and without a return berth. Nell gives him dry
+clothing but refuses to turn ordinary shelter into sentimental rescue. Rahim
+recognises Samuel's hooked N on a cargo paper connected to Sufiya's disputed
+grain work.
 
-Elias finds that the same ship's chronic leakage was entered as storm damage even
-though an officer had deferred the repair he recommended before sailing.
+Elias brings a scored fastening from the same ship. Its chronic leakage was
+entered as storm damage after an officer deferred his recommended repair.
+
+**Turn:** paper and metal name the same institutional habit.
 
 ### Chapter 12 — Aldridge's Table
 
-Samuel confronts Aldridge with Mulvey's testimony and Rahim's documents. Aldridge
-demonstrates that every recorded transaction followed an authorised category.
+Samuel summons Aldridge to the Prospect and lays out Mulvey's testimony, Rahim's
+papers, Sufiya's letters and Elias's failed part. Aldridge calmly demonstrates
+that every recorded transaction followed an authorised category.
 
 **Turn:** Samuel understands that the books can be accurate and still conceal the
-event. He copies the relevant pages.
+event. Nell closes the public bar while the copying begins.
 
 ## Part Four — Too Important to Fail (1772–1774)
 
-### Chapter 13 — Stoppage
+### Chapter 13 — Cash Only
 
-Credit contracts across London. Samuel's wages stop; the Prospect's suppliers
-demand cash; Rahim cannot recover pay. Aldridge privately helps Samuel while
-publicly defending rescue of the institution that caused the crisis.
+The Company crisis appears as a supplier refusing the Prospect further credit,
+stopped wages and sailors unable to recover pay. Aldridge privately helps Samuel
+while publicly defending rescue of the institution.
+
+**Turn:** Nell accepts Aldridge's money but records its origin on the slate.
 
 ### Chapter 14 — Bess Reads a Chest
 
-Fourteen-year-old Bess recognises her father's hooked N on tea stock involved in
-the government's solution. She follows marks across warrant, chest and newspaper
-until Boston ceases to be an abstract place.
+Fourteen-year-old Bess recognises her father's hooked N on a tea chest temporarily
+held near the bar during a warehouse dispute. She follows the mark across chest,
+warrant and newspaper until Boston ceases to be an abstract place.
+
+**Turn:** she asks Samuel a question he can answer only by showing her the papers
+he hid before she was born.
 
 ### Chapter 15 — The Boston Man
 
-The existing tavern confrontation is rebuilt around Bess listening from work,
-Samuel trying to control what she hears and Rahim asking who is named in the
-argument and who remains cargo.
+The existing confrontation unfolds as a working-night argument. Bess listens
+while serving; Samuel tries to control what she hears; Rahim asks who is named in
+the dispute and who remains cargo.
+
+**Turn:** the room discovers that a single chest can be British property,
+American grievance, Company rescue and evidence of Bengal extraction without
+changing its contents.
 
 ### Chapter 16 — Sound Business
 
-Samuel is ordered to sign a reconciled return whose totals are correct only after
-losses are moved into another category. He refuses the signature but allows a
-subordinate's mark to stand.
+Samuel arrives after refusing to sign a reconciled return, though he allowed a
+subordinate's mark to stand. Elias arrives with a certification he did sign: a
+temporary cargo repair passed the ordered dock test even though load and motion
+were excluded.
 
-Elias is asked to certify a cargo mechanism as fit after a temporary repair. The
-mechanism works during the dock test. He signs, knowing the test excludes the load
-and motion that caused the fault. The parallel with Samuel is unmistakable to
-both men and admitted by neither.
+Neither man admits the parallel until Rahim places the 1757 pump leather between
+their papers.
 
-**Low point:** he protects his conscience while leaving the machine functioning.
-
-During this movement Elias is periodically absent at Deptford. A short scene or
-recollection establishes that he met the young William Bligh in 1776 while
-working on *Resolution*. Their connection begins in exact measurements and
-mutual impatience, not friendship or shared Cornish nostalgia.
+**Low point:** each protected the appearance of personal conscience while
+allowing the institution's work to continue.
 
 ### Chapter 17 — The First Cache
 
-Nell and Rahim force Samuel to distinguish confession from protection. The copied
-accounts, Coates's testimony and Sufiya's letters are wrapped separately so no
-single discovery exposes everyone. Bess sees where one packet is hidden.
+Nell and Rahim force Samuel to distinguish confession from protection. Coates's
+testimony, copied accounts and Sufiya's letters are wrapped separately so no
+single discovery exposes everyone. Bess watches the building become an archive.
+
+**Turn:** the Prospect ceases to be only where history is heard; it becomes where
+the rejected account is physically kept.
 
 ## Part Five — What Returns (1790)
 
 ### Chapter 18 — The Other List
 
-Bess, now thirty, helps Alec Munro search for his brother among incomplete
-*Bounty* reports. Samuel's eyesight is failing; Nell still keeps the Prospect's
-chosen losses. Rahim returns as an experienced seacunny seeking a homeward berth.
-Elias, his hands stiff, makes the old waterman's open-boat calculation with Bess
-doing the written arithmetic. He has worked with Bligh twice: on *Resolution* in
-1776 and during *Bounty*'s conversion at Deptford in 1787. He can testify to
-Bligh's skill, memory and abrasive exactness, but refuses to pretend this tells
-him why the mutiny happened.
+Bess, now thirty, helps Alec Munro search incomplete *Bounty* reports for his
+brother. Rahim returns as an experienced seacunny seeking a homeward berth.
+Elias and Bess calculate the overloaded launch on the bar.
+
+Elias knew Bligh through *Resolution* in 1776 and *Bounty*'s Deptford conversion
+in 1787. His remembered work complicates both hero and monster versions without
+pretending to explain the mutiny.
 
 ### Chapter 19 — Seven Years of Theatre
 
-The Hastings impeachment and Bligh story compete in the room. One is graspable;
-the other has exhausted its audience. Bess recognises the same failure that
-shaped her father's hidden papers.
+The Hastings impeachment and Bligh story compete for the room's attention. One
+is an intimate survival narrative; the other has exhausted its audience through
+years of procedure. Bess recognises why truthful history can fail to remain
+humanly graspable.
 
 ### Chapter 20 — Sufiya's Account
 
-Rahim carries the final surviving letter from Sufiya. She has rebuilt one boat,
-lost the other and refuses Samuel's attempt to make her history conclude as his
-redemption.
+Rahim opens the final surviving letter. Sufiya has rebuilt one boat, lost the
+other and refuses Samuel's attempt to make her life conclude as his redemption.
+The room listens without interrupting her account to explain Bengal to itself.
 
 ### Chapter 21 — Breadfruit
 
-Alec learns what the voyage was for. The plantation ledger links the *Bounty* to
-the Company's older arithmetic without pretending they are the same institution.
-Elias describes the plant racks, water supply and drainage he helped fit into the
-former great cabin. His technically successful work becomes personal evidence:
-he helped make living plants the ship's most protected passengers without asking
-who the plants were ultimately intended to feed—or why.
+Elias describes the racks, water and drainage he helped fit into *Bounty*'s
+former great cabin. His work succeeded technically. He never asked why the
+plants were being carried or whom they were intended to feed.
+
+The plantation ledger connects the breadfruit voyage to coerced labour without
+pretending the Navy and Company are one institution.
+
+**Turn:** Elias adds his own drawing to the Cache—not as confession sufficient
+to repair the past, but as evidence of a question he failed to ask.
 
 ### Chapter 22 — River Light
 
-The fuchsia cutting reaches the Prospect through Peg Doyle. Bess writes the note
-that accompanies the Cache: not an accusation, but directions for reading the
-categories against one another.
+Peg Doyle brings the fuchsia cutting. Bess writes the Cache's reading
+instructions at the bar: compare categories, marks, silences and physical
+evidence; do not trust a single complete-looking account.
 
-**Resolution:** Samuel cannot make the record safe or immediately useful. Bess
-can keep it intact and name why it matters. Rahim chooses the ship that takes him
-home. Elias gives his apprentice the box of failed parts instead of taking it
-home as proof of his own usefulness. The flower remains on the sill.
+Samuel cannot make the record safe or immediately useful. Rahim chooses the ship
+that takes him home. Elias gives his apprentice the box of failed parts. The
+flower remains on the Prospect's sill above the river.
 
 ## Target allocation
 

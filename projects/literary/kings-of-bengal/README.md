@@ -49,6 +49,7 @@ kings-of-bengal/
 │   ├── canon-and-guardrails.md
 │   ├── character-bible.md
 │   ├── engineering-experience-prompts.md
+│   ├── prospect-stage-map.md
 │   ├── research-notes.md
 │   └── scene-outline.md
 └── manuscript/
@@ -76,3 +77,10 @@ The answer is not that one honest ledger defeats the Company. Samuel fails,
 compromises, records, conceals and tries again. The ending belongs to Bess, who
 decides that an account can be kept for a future reader even when it cannot yet
 be used safely.
+
+## Staging rule
+
+The Prospect of Whitby is the fixed dramatic stage. Bengal, Boston and the
+Pacific enter through returning people, letters, cargo, machinery, newspapers,
+accounts and memory. The quay and surrounding Wapping riverfront act as the
+stage's wings; every major decision returns to the tavern.

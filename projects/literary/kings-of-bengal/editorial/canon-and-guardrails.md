@@ -40,6 +40,12 @@ author approves them.
    novel resolves without knowledge of its later discovery.
 10. **The fuchsia remains the counter-image.** It crosses an ocean through care
     rather than conquest and ends the book with living inheritance.
+11. **The Prospect is the stage.** Every decisive turn occurs in the tavern, its
+    household, its fabric or its immediate river edge. Distant history arrives
+    through people and evidence rather than omniscient historical tourism.
+12. **Memory has an owner.** A scene outside Wapping must be remembered, written
+    or materially carried by someone present. The novel never cuts away merely
+    to display researched history.
 
 ## Historical boundaries requiring verification before final prose
 
