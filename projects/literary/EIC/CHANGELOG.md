@@ -4,6 +4,24 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-13] (Tom and Maggie lifetime arc)
+
+### Added
+- Defined Tom and Maggie as the cycle's first sustained relationship, expressed
+  as an unlabelled mother-and-son bond across six dated returns to the Prospect.
+- Drafted new 1606, 1610, 1614, 1626 and 1657 scenes carrying Tom from a young
+  returning seaman to an old man who passes Maggie's care to the next sailor.
+- Added a governing Volume One relationship spine and guardrails.
+
+### Changed
+- Extended *The Venture*'s working period from 1603–1626 to 1603–1657.
+- Replaced “Tom never returns” as the novel trajectory: he repeatedly returns,
+  but the thimble remains in the Cache because Maggie distinguishes being ashore
+  from truly being back.
+- Made Maggie's disappointment part of Tom's moral education when Company
+  competence teaches him to reproduce his father's debt logic against another
+  seaman.
+
 ## [2026-07-13] (Tom's seaman and debt lineage)
 
 ### Changed

@@ -15,7 +15,7 @@ be overwritten while the novels are drafted.
 
 | Volume | Working title | Seed period | Governing material |
 |---|---|---|---|
-| One | *The Venture* | 1603–1626 | Maggie Ashby, Tom, the first voyages and Daniel's return |
+| One | *The Venture* | 1603–1657 | Maggie, Tom's life between voyages, Daniel's return and the first keeper succession |
 | Two | *The Gallows Years* | 1696–1701 | Esther Finch, Every's wake, Kidd and Fenner's testimony |
 | Three | *Kings of Bengal* | 1757–1790 | Plassey, famine, the Company bailout, Boston and the Bounty |
 | Four | *The Poppy* | 1839–1880 | Mei, the opium trade, the Company's formal death and the *Cutty Sark* |
@@ -25,6 +25,18 @@ be overwritten while the novels are drafted.
 Only *The Watchman's Daughter* is a fixed novel title at this stage. The other
 titles and exact boundaries remain working labels until each volume receives its
 own full outline.
+
+### Volume One relationship decision
+
+Tom does not disappear after signing. Volume One follows six returns to the
+Prospect from his youth to old age, making Tom and Maggie the cycle's first
+sustained relationship. Their bond is mother-and-son in action but never in
+label: food, repair, scolding, pride withheld from speech, real disappointment
+and the thimble kept “till I'm back.” Maggie's last living scene with Tom occurs
+in 1626. A 1657 coda returns the old Tom to the keeper line after Maggie's death
+and leaves the thimble in the Cache. See
+`editorial/volume-one-tom-maggie-relationship-spine.md` and
+`manuscript-editorial/01-1603-1657-till-youre-back.md`.
 
 ## Binding spine and drift rule
 
