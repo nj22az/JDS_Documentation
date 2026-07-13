@@ -4,6 +4,28 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-12] (Book One character pass — Tom, Rook, Maggie)
+
+### Changed
+- **Character deepening pass across eight chapters** (author-directed:
+  backstory and personality for Tom, Silas and Maggie; Silas likeable
+  in his own way though a villain):
+  - **Tom** (ch1, 3, 4, 7): the granary house whose only language is
+    terrible jokes; the word-a-day game from a dead seamstress mother;
+    the penny book of words that becomes the whole mess's book and
+    goes home to Essex with the purser's letter.
+  - **Silas Rook** (ch2, 12, 20): the tin country — the mine that
+    kept his father, the tally-debt his mother paid nine years; why a
+    debt is holy and the auction was contempt for dodgers; the
+    narrator's correction ("wrong the way iron is wrong when it is
+    asked to float"); and the chapel tenor — one carol a year, and
+    after his death the carol goes unsung, "and that was his stone."
+  - **Maggie** (ch1, 11): her three-language scale (English, silence,
+    and twice-a-decade Swedish); the Bartholomew-tide ribbon, one a
+    year, never worn, in the box upstairs.
+- All touched chapters remain inside the dash budget (6.1–10.2/1000).
+- New Canon Ledger updated with the three character entries.
+
 ## [2026-07-12] (Book One complete in first draft — Part III)
 
 ### Added

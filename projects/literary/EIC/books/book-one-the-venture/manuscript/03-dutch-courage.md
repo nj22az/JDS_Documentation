@@ -42,6 +42,8 @@ Was it worth it? Tom asks. The voyage. Was it worth it?
 
 The sailor considers a question he has not let himself ask. The pepper was good. Very good. The rest of it — ask me again in ten years. If I'm still here.
 
+Somewhere in that hour, the penny book comes out. It begins with Tom asking the two-fingered man, apologetically, what the right word is for the yard when it is set crooked on purpose, and the two-fingered man tells him, and spells it, wrongly, with total confidence, and the man beside him disputes the spelling of a word neither can write, and within a quarter of an hour half the Dragon's mess is queued up the bar to put words into a granary boy's book: the name of the rope that is not called a rope, the word for the last dry biscuit in the cask, the Java word for the wind that comes at evening, each man watching his word go down in fair black letters with the satisfaction of a landowner watching a fence go up. The crying man waits until the others have done. Then he gives his quietly, leaning close: the word for the colour the sea goes before a squall, when it has not yet told you what it means to do. He does not spell it. He watches Tom write it, and nods once, and goes back to his ale, and is not seen to cry again that evening.
+
 Maggie brings bread and cheese to the Dragon's men. They fall on it like wolves. She watches them eat, counting the cost of pepper in men.
 
 They were lucky, she tells Tom quietly, refilling his ale. Lancaster knew what he was doing. Most captains don't.
