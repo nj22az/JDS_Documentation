@@ -62,6 +62,12 @@ The live canon contains 15 narrative chapters/interludes and approximately 62,39
 narrative words. It is 26.5 per cent longer than the protected JDS edition, with
 most expansion concentrated in the 1603, 1626, 1774, 1888 and 1940 material.
 
+The long-form direction is now six independently readable historical novels,
+collected eventually as *The Front-Row Seat* omnibus. The anthology remains the
+protected compressed canon while those books are developed. See
+`editorial/six-volume-omnibus-plan.md` for the working volume boundaries and
+reader contract.
+
 The first editorial sample covers both 1603 units. It restores the intended
 implicit ancestry, removes unsupported history and demonstrates a 31.7 per cent
 compression without changing the deployed book. See
