@@ -29,9 +29,23 @@ The one with the missing fingers notices Tom. The paper. The hunger in his face.
 
 You're signing on. Not a question.
 
-Tomorrow. Second fleet. Writer.
+Tomorrow. Second fleet. Before the mast.
 
-Good. We need men who can count. He holds up the ruined hand. Exhibit A. Knife fight in Bantam. Over a woman, if you can believe it — a woman and a sack of pepper. Don't get into knife fights out there, lad. The climate doesn't agree with bandages.
+Able?
+
+Able enough. Coasters since I was fourteen. My father was a boatswain.
+
+The sailor reaches across without warning and throws him the heel of a bread loaf. Tom catches it one-handed despite the closing eye.
+
+Can you splice?
+
+Eye, short and long.
+
+Can you take the wheel?
+
+If the master tells me where he wants the ship.
+
+Then you are a seaman, whatever figure the clerk writes beside you. He holds up the ruined hand. Knife fight in Bantam. Over a woman, if you can believe it — a woman and a sack of pepper. Don't get into knife fights out there, lad. The climate doesn't agree with bandages.
 
 Was it worth it? Tom asks. The voyage. Was it worth it?
 
@@ -81,7 +95,7 @@ The Dutch. Last year, while your first fleet was still at sea, the Dutch charter
 
 A little.
 
-Not enough, then. More capital than you. Better ships. Better guns. And they are not gentlemen arguing about pepper prices in a London room — they're soldiers, taking the islands by force, right now, while you sit here with your twenty pounds a year and your good ale.
+Not enough, then. More capital than you. Better ships. Better guns. And they are not gentlemen arguing about pepper prices in a London room — they're soldiers, taking the islands by force, right now, while you sit here with your eighteen shillings a month, half of it promised away, and your good ale.
 
 Lancaster was there, Tom says. He made deals.
 
@@ -119,11 +133,11 @@ Hendricks has gone silent at his end of the bar, watching Tom the way a man watc
 
 Maggie comes over one last time, refills his ale.
 
-The charter was signed on New Year's Eve, she says. Three years back. Old Queen Bess — sixty-seven she was then, and dead since the spring, and the Company she signed into being is still here, hiring. Notice that, Tom. The queen is gone. The paper isn't. Now here you are signing your own. She signs a paper. You sign a paper. Somewhere between the two papers, a great many men die. That's how it works, Tom. The people at the top sign. The people at the bottom die. The pepper comes back. The money comes back. The men don't.
+The charter was signed on New Year's Eve, she says. Three years back. Old Queen Bess — sixty-seven she was then, and dead since the spring, and the Company she signed into being is still here, hiring. Notice that, Tom. The queen is gone. The paper isn't. Harcourt traded under the Levant seal when your father could still climb. Now he puts his money under the East India seal and your father's debt walks across with him. The companies do not even have to be the same. The man is the same. The ink is the same. Now here you are signing your own. She signs a paper. Harcourt signs a paper. You sign a paper. Somewhere between the three papers, a great many men work and die. That's how it works, Tom. The people at the top sign. The people at the bottom pay. The pepper comes back. The money comes back. The men don't.
 
 He opens his mouth. Nothing comes out.
 
-What he cannot say — because at twenty-two, in front of this woman, it would sound like a child's answer, and because it is one — is that it was never the pepper. That same brown millpond in Essex, behind the granary where the mill-boys taught him the shape of a fight, had been for ten summers before any of that a stretch of water a strong man could throw a stone across, and the whole of the ocean. It had serpents in it, off the edges of the maps. There was a pirate cave under the willow roots, and a place on the far bank where — an older cousin swore to it — wreckers had once lit false fires to bring boats onto the stones, the boats being a rowing skiff and the stones being stones. He has wanted, for as long as he has been able to want anything, to come back through a door like this one with salt on his coat and stories no one else in the room could tell. There is no putting that in front of Maggie, next to forty-three men out of five hundred. It is not an answer to anything she has said. It is only the truth.
+What he cannot say — because at twenty-two, in front of this woman, it would sound like a child's answer, and because it is one — is that the debt is not the whole of it. He could run from Harcourt. Men run from smaller sums every day. His father would lose the rented rooms, and perhaps his liberty, and Tom knows he will not do that; but buried inside the duty is an older and more shameful willingness. That same brown millpond in Essex, behind the granary where the mill-boys taught him the shape of a fight, had been for ten summers a stretch of water a strong man could throw a stone across, and the whole of the ocean. Later his father took him on coasters and taught his hands the names of things: sheet, brace, halyard, splice; how a deck moves under a sleeping body; how land dwindles without asking permission. Tom has wanted, for as long as he has been able to want anything, to come back through a door like this one with salt on his coat and stories no one else in the room could tell. Harcourt's paper has found the place where duty and desire are knotted together and pulled tight. There is no putting that in front of Maggie, next to forty-three men out of five hundred. It is not an answer to anything she has said. It is only the truth.
 
 Then, instead of anything he might have said, he does something instead. Reaches into his coat and comes out with the one thing in it worth more than the coat — a plain brass thimble, his mother's, the only piece of her he kept when there was nothing else worth the keeping. He sets it on the bar between them, not quite meeting her eye.
 
@@ -147,7 +161,7 @@ At the door he pauses, hand on the latch, and doesn't look back. The cold takes 
 
 The door closes. Maggie stands still behind the counter. Hendricks finishes his pint and leaves without a word. The Dragon's men are asleep, or close to it, and the fire is down to embers.
 
-He will sign the paper in the morning. He will get on the ship. This is how it works tonight, in this bar, on this river: a boy hears the odds, drinks his ale, and goes anyway. The river does not keep track.
+He will sign the paper in the morning. He will get on the ship. Half his wages will begin travelling home before the ship has cleared the Downs, each month of his life entered against cable and anchor lost before the Company existed. This is how it works tonight, in this bar, on this river: a seaman hears the odds, drinks his ale, and goes anyway. The river does not keep track.
 
 ## IV. What Comes After
 

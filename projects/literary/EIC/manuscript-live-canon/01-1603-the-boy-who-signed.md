@@ -35,7 +35,7 @@ What she cannot know — what she'd name the cruelest sort of foolishness to let
 
 Tonight she is busy. Word has gone round that a ship is in, and where a ship comes in, men follow, and where men follow they want a drink. She moves behind the bar the way a woman moves who has done this ten thousand times — pouring, wiping, taking coin, watching the whole room without seeming to look at any part of it.
 
-He comes in around dusk, shaking rain off a cloak that has seen better years. Young. Twenty, maybe twenty-two — the age her own boy is this winter, or near enough, on whatever cold deck the Swedish crown keeps him. Ink on his fingers. He sits down and orders ale, and she pours it without asking what he wants, which means he has been in before.
+He comes in around dusk, shaking rain off a cloak that has seen better years. Young. Twenty, maybe twenty-two — the age her own boy is this winter, or near enough, on whatever cold deck the Swedish crown keeps him. Tar worked into the cracks beside his nails, a pale seam across one palm where a wet line once ran faster than his grip. Not a deep-water man, not yet, but no stranger to a deck. He sits down and orders ale, and she pours it without asking what he wants, which means he has been in before.
 
 He has a paper in his pocket. He takes it out and smooths it flat on the bar and reads it the way a man reads a letter from someone he loves, or a sentence handed down by a judge.
 
@@ -47,7 +47,7 @@ You are going to sign it, then.
 
 ## III. The Boy with the Paper
 
-Tom folds the paper and tucks it away. Tomorrow. Governor Smythe himself will be there. A governor and twenty-four committees. Joint stock — means the risk is shared. So is the reward, if there is any.
+Tom folds the paper and tucks it away. Tomorrow. Governor Smythe himself will be there. A governor and twenty-four committees. The berth is before the mast, common seaman, second voyage. Joint stock — means the risk is shared. So is the reward, if there is any.
 
 If there is any, she says. Not a question.
 
@@ -71,25 +71,45 @@ Twenty-two.
 
 Been to sea before?
 
-No.
+Coasters. Newcastle twice. Calais, once. I can hand, reef and steer.
 
-Right. She straightens up. So you're going to sign a paper that sends you round the Cape in a wooden box full of scurvy, to a place where the Portuguese and the weather and the food will all take turns trying to kill you, and you've never so much as been to sea.
+Your father taught you.
+
+Tom looks at the paper instead of her. He did.
+
+Right. She straightens up. So you know enough water to be useful and not enough ocean to know what is waiting. You are going to sign a paper that sends you round the Cape in a wooden box full of scurvy, to a place where the Portuguese and the weather and the food will all take turns trying to kill you.
 
 Tom says nothing. The fire cracks, sends sparks up the flue.
 
 What are they paying you?
 
-Twenty pounds a year. A writer's wage. Keeping the accounts.
+Eighteen shillings a month.
 
-Twenty pounds to keep books on a ship where nine in ten don't come home. Your mother know?
+You will see nine.
+
+Tom's head comes up.
+
+I know paper, she says. Nine to you. Nine to Master Harcourt until your father's account is clean. Food and clothes charged besides, I'll wager, so the number can learn to walk away while you sleep.
+
+It is eleven pounds, six shillings and fourpence.
+
+She gives him a long look. A debt exact to the penny is a debt someone means to keep alive. Your mother know?
 
 My mother is dead.
 
 Your father?
 
-Found me the position himself. Thinks it's a good opportunity.
+Was boatswain for Harcourt's Levant ships. Smyrna, Scanderoon, sometimes Venice. Twenty-three years. The last passage took his knee. Harcourt says stores were missing when they paid the ship off — cable, two coils of running rigging, a kedge anchor. Things lost in the storm that broke him. Things in his charge.
 
-Your father thinks it's a good opportunity for his son to write numbers in a book while men die around him. She wipes the bar in front of him. Not the pepper. What else is on the manifest?
+And now Harcourt has put money into the East India voyage.
+
+Tom nods.
+
+Same man, Maggie says. New seal.
+
+He found me the berth. If I take my father's place, half-pay goes against the account.
+
+Found you the chain and called it work. She wipes the bar in front of him. Not the pepper, then. What else is on the manifest?
 
 Silk. Indigo. Cotton. Cloves from the Moluccas. Nutmeg from the Banda Islands. Worth a hundred times what they cost in London.
 
@@ -121,7 +141,7 @@ Tom stands and crosses to the table. Not fast. He is aware of his own legs the w
 
 She has heard enough, he says. It comes out smaller than he wants it to.
 
-Rook looks at him the way you'd look at a stool that had spoken. Then he smiles, because this is better sport than the auction. Then buy her, he says. Settle the debt like an honest man, writer.
+Rook looks at him the way you'd look at a stool that had spoken. Then he smiles, because this is better sport than the auction. Then buy her, he says. Settle the debt like an honest man, sailor.
 
 Tom empties his pockets onto the table. All of it — the coins that were to see him fed until the ship sails, everything he owns in the world that is not a paper or a keepsake — and it is not much, and it is everything, and every man in the room can count it from where he sits.
 

@@ -4,6 +4,22 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-13] (Tom's seaman and debt lineage)
+
+### Changed
+- Recast Tom from an inexperienced ship's writer as a competent coastwise
+  seaman signing before the mast for the 1604 second voyage.
+- Made Tom's father a disabled former boatswain in Levant Company service and
+  assigned half Tom's wages to the disputed account of lost ship's stores.
+- Carried the obligation through the fictional merchant Master Harcourt, whose
+  capital moves into the East India Company without implying that the Levant
+  Company itself merged into it.
+- Reworked Tom's encounter with Mara so he recognises her paper bondage while
+  carrying a less extreme form of inherited paper coercion himself.
+- Avoided the formal “able seaman” and “ordinary seaman” ratings in the 1603
+  dialogue because that pay distinction belongs to a later seventeenth-century
+  system; Tom's practical competence is demonstrated instead.
+
 ## [2026-07-13] (Jerry Vale editorial chapter)
 
 ### Added
