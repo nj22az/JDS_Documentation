@@ -4,6 +4,12 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [3.11.1] — 2026-07-13
+
+### Changed — Book reader reference implementation completed
+- **JDS-PRO-012 Rev E** promotes the Front-Row Seat web reference from a Chapter One prototype to the complete six-book narrative reader.
+- The shared implementation now receives collection, book, chapter and period metadata from each route; no story title is embedded in the pagination logic.
+
 ## [3.11] — 2026-07-13
 
 ### Added — Reusable long-form book reader pattern

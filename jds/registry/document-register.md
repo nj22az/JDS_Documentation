@@ -29,7 +29,7 @@ This is the master list of all documents in the JDS system. Every document must 
 | [JDS-PRO-009](../procedures/JDS-PRO-009_competence-management.md) | Competence Management Procedure | A | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-PRO-010](../procedures/JDS-PRO-010_ongoing-maintenance.md) | Ongoing Maintenance Program Procedure | B | 2026-03-25 | APPROVED | N. Johansson |
 | [JDS-PRO-011](../../projects/JDS-PRJ-MEC-001/01-framework/JDS-PRO-011_inspection-planning.md) | Inspection Planning Procedure | B | 2026-06-25 | CURRENT | N. Johansson |
-| [JDS-PRO-012](../procedures/JDS-PRO-012_interface-design.md) | Interface Design Standard (Software UI & HMI) | D | 2026-07-13 | APPROVED | N. Johansson |
+| [JDS-PRO-012](../procedures/JDS-PRO-012_interface-design.md) | Interface Design Standard (Software UI & HMI) | E | 2026-07-13 | APPROVED | N. Johansson |
 
 ## Templates (TMP)
 

@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Document No.** | JDS-PRO-012 |
-| **Revision** | D |
+| **Revision** | E |
 | **Date** | 2026-07-13 |
 | **Status** | APPROVED |
 | **Author** | Nils Johansson |
@@ -270,7 +270,7 @@ Running furniture is orientation, not decoration. It uses the UI face, small typ
 
 ### 13.6 Reuse Contract
 
-Implementations expose named content fields—`collectionTitle`, `bookLabel`, `bookTitle`, `chapterLabel`, `chapterTitle`, and `period`—and named layout tokens for the breakpoint, spread width, page padding, rule colour, and page surface. Project-specific titles and measurements must not be hard-coded into pagination logic. The Front-Row Seat Chapter One reader is the web reference implementation; `scripts/md2book.py` is the print reference implementation.
+Implementations expose named content fields—`collectionTitle`, `bookLabel`, `bookTitle`, `chapterLabel`, `chapterTitle`, and `period`—and named layout tokens for the breakpoint, spread width, page padding, rule colour, and page surface. Project-specific titles and measurements must not be hard-coded into pagination logic. The complete Front-Row Seat reader is the web reference implementation across all six books; `scripts/md2book.py` is the print reference implementation.
 
 ## 14. Self-Check Before Release
 
@@ -305,3 +305,4 @@ Software UIs conform to this standard at code review (alongside the PRO-004 code
 | B | 2026-06-26 | Nils Johansson | Added §12 Apple HIG Alignment — maps Clarity/Deference/Depth to JDS and adopts HIG conventions for software UI (system typography & Dynamic Type, adaptive semantic colour with light/dark appearance, 44pt targets, SF Symbols-style iconography, materials/motion). §12.3 establishes HMI safety primacy: HIG aesthetics never override the §9 safety rules on a control surface. Self-check and Conformance updated. |
 | C | 2026-06-26 | Nils Johansson | Added §12.4 Iconography — SF Symbols: when, why, and which. Defines the rules for icon use (recognition channel, always with a label, one set, conventional meaning), a canonical action/object → SF Symbol mapping table and a status-symbol table, the web/other-platform equivalent rule, and the HMI exception. Self-check item added. |
 | D | 2026-07-13 | Nils Johansson | Added §13 Long-Form Book Reader Pattern. Defines the reusable collection → book → chapter → section → body → figure hierarchy; responsive continuous and facing-page modes; conventional running heads, footer metadata and outside folios; page-composition and illustration-anchoring rules; accessibility requirements; and a reuse contract shared by web readers and `md2book.py`. |
+| E | 2026-07-13 | Nils Johansson | Promoted the web reference implementation from the Chapter One prototype to every narrative chapter across all six Front-Row Seat books. |
