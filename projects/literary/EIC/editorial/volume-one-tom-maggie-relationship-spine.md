@@ -55,8 +55,9 @@ preserves care.
 
 ## Draft location
 
-New return-visit scenes are drafted in
-`manuscript-editorial/01-1603-1657-till-youre-back.md`. The existing 1603 opening
-and 1626 Daniel material remain source scenes to be woven into the full Volume
-One manuscript. The deployed anthology stays compressed until the novel pass is
-structurally complete.
+The complete 15,000-word first assembly is
+`manuscript-editorial/volume-one-the-venture-integrated.md`. It weaves the
+protected 1603 opening, all five return scenes and Daniel's 1626 material into a
+single six-part manuscript. The earlier
+`manuscript-editorial/01-1603-1657-till-youre-back.md` remains the relationship-
+scene source for comparison.

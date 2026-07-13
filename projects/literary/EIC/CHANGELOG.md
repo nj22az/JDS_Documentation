@@ -12,6 +12,8 @@ All notable changes to this project are recorded here.
 - Drafted new 1606, 1610, 1614, 1626 and 1657 scenes carrying Tom from a young
   returning seaman to an old man who passes Maggie's care to the next sailor.
 - Added a governing Volume One relationship spine and guardrails.
+- Assembled the protected 1603 chapters, the return scenes and Daniel's complete
+  1626 material into a continuous 15,000-word Volume One manuscript.
 
 ### Changed
 - Extended *The Venture*'s working period from 1603–1626 to 1603–1657.

@@ -17,7 +17,7 @@ A ship comes up the river on a grey afternoon, riding low, sails slack, in no hu
 
 Nobody on the dock has the whole of it yet. Just the name.
 
-By the time it reaches the tavern by the stairs, the place has changed without anyone quite watching it happen. Longer bar. Flagstones where the rushes used to be. A new sign nobody remembers the old one well enough to miss. The boy who signed his contract here years back, for twenty pounds and a share of the pepper, sailed south and never came back to see any of it. The bar didn't keep count of him. It only kept standing.
+By the time it reaches the tavern by the stairs, the place has changed without anyone quite watching it happen. Longer bar. Flagstones where the rushes used to be. A new sign nobody remembers the old one well enough to miss. The seaman who signed here at twenty-two has returned often enough to become part of the room's measure of time. Tom is forty-five now, his red beard going grey, repairing a serving mallet at the river window while Maggie complains that he has chosen the wrong wood. The bar has kept count of him after all, though it would deny doing anything so sentimental.
 
 The ships on the river have multiplied. The Company has factories now — Surat, Masulipatam, Agra — small English footholds on coastlines and river towns that never asked for them, each one a bet that the local ruler stays friendly and the weather stays kind.
 
@@ -41,7 +41,9 @@ His name is Daniel Vale. Factor for the Company, stationed on one of the Spice I
 
 What he found was the Dutch.
 
-Maggie comes over, slower on her feet than she was a generation back, when a boy named Tom sat at this same bar with a paper in his pocket. No man in the room has found it useful to notice, or would say so if he had. She sets a tankard down without asking. You don't ask a shaking man what he wants. You put ale in front of him.
+Maggie comes over, slower on her feet than she was when Tom first sat at this bar with a paper in his pocket. Tom has learned not to insult her by offering help before it is needed. She sets a tankard down without asking. You don't ask a shaking man what he wants. You put ale in front of him.
+
+At the river window, Tom puts down the split mallet. He knows the stillness in Daniel's body — not its cause, not yet, but the labour of holding still because any movement may open what has been nailed shut inside. He takes the stool beside Daniel without asking a question.
 
 Drink, she says. Not a suggestion.
 
@@ -51,7 +53,7 @@ He drinks. One pull, then another. The tremor slows. Doesn't stop. Slows is the 
 
 ## III. The Water
 
-It takes Daniel three days to talk. Three days of sitting, drinking ale he can't taste, flinching at the door. Maggie puts food in front of him. He pushes it round the plate. The other patrons give him room. The river does its business outside the window; the ale stays good; Daniel sits.
+It takes Daniel three days to talk. Three days of sitting, drinking ale he can't taste, flinching at the door. Maggie puts food in front of him. He pushes it round the plate. The other patrons give him room. Tom sits beside him when he can, repairing small things that do not need immediate repair and leaving the silence unfilled. Sometimes Carter takes the place. The river does its business outside the window; the ale stays good; Daniel sits.
 
 On the fourth day Carter comes in. Ships' chandler: rope, tar, canvas, whatever a vessel needs before it sails. Big man, big voice, and he has known Daniel long enough to know he isn't just another broken sailor. He pulls up a stool, orders two ales, slides one across.
 
@@ -151,6 +153,24 @@ The Company hears it too. Word like that always finds its way back to Leadenhall
 
 He comes in on a Tuesday, a man Daniel's never seen before. Precise coat, precise voice, a politeness trained rather than felt. Introduces himself as Pryce, on the Company's business, and sits without being asked, the way men do when they've decided in advance that the seat is theirs.
 
+Pryce has seen Tom's name in the Company's books. Before speaking to Daniel he offers Tom the berth he has worked toward for twenty-two years: boatswain entire on the next sailing, better pay, a partition of his own and authority no clerk can pretend is borrowed. The offer arrives at the precise moment accepting it would make Tom's presence beside Daniel look purchased.
+
+Tom reads the paper once.
+
+Will Mr Vale be required to amend his account?
+
+Clarify, Pryce says. There are political sensitivities.
+
+Tom folds the offer along its existing crease and tears it once, then again. Small enough for the fire.
+
+Then find another boatswain.
+
+Pryce studies him. You have mistaken your influence.
+
+Often, Tom says.
+
+Maggie polishes a cup at the other end of the bar and does not look up.
+
 The Company is grateful for your service, Pryce says. Batavia. Two years a prisoner, and you came home able to hold a pen and keep a ledger, which is more than some men manage after less. Surat's been good to you, I hope.
 
 Daniel says nothing. He has learned, this past year, that saying nothing is the safest answer to most sentences that start with the Company is grateful.
@@ -175,6 +195,20 @@ You'll have the same posting tomorrow that you had yesterday, he says. Nothing c
 
 He leaves. Daniel sits a while with the offer where Pryce left it, turning it over slowly, and then sets it down for good.
 
+Maggie puts the good pewter in front of Tom, older now and dented at the rim.
+
+The others were dirty? he asks.
+
+Filthy.
+
+Every other cup behind her is clean.
+
+You are still an idiot, she says.
+
+I had an excellent teacher.
+
+That almost earns him a smile.
+
 * * *
 
 ## VIII. The True Copy
@@ -190,6 +224,26 @@ Then he does not know what to do with it. He has just refused good money to keep
 Maggie takes the rag off her shoulder and wipes a length of counter that does not need it, and without looking at him tips her head at the underside of the bar, where the wood has a gap a hand can just fit into. He ducks and reaches and finds it already tenanted — a crowd of small notches worn soft at the edges, and pushed back where a draught has kept it dry, something small and metal his fingers touch and, understanding it is not his to know, leave alone. She offers no account of any of it. When he looks up, her shoulders say only that what a house keeps is the house's own business, and has been longer than he has been alive.
 
 He wedges the paper back against the old wood. It will not raise Towerson off that beach; it is not justice, nor anything with a name so large. But it is the true copy, lodged where no Company pen can reach in and stand it on its head, and that is more than the box in Leadenhall Street will ever hold. He straightens, and something in him that has been on its feet since the coral room sits down at last, a little.
+
+After Daniel's true copy is hidden, Tom walks Maggie upstairs. Her left knee no longer trusts the turn, and he stands one step below without comment, a hand available where she can pretend not to need it.
+
+The thimble, Tom says.
+
+What about it?
+
+I am not sailing again.
+
+That true?
+
+I don't know.
+
+Then ask me when it is.
+
+Tom puts his forehead against her work-swollen hand for one moment. Maggie lets him. Then she cuffs him lightly above the ear.
+
+Go home.
+
+It is the last time he sees her.
 
 * * *
 

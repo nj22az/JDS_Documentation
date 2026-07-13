@@ -36,7 +36,7 @@ and the thimble kept “till I'm back.” Maggie's last living scene with Tom oc
 in 1626. A 1657 coda returns the old Tom to the keeper line after Maggie's death
 and leaves the thimble in the Cache. See
 `editorial/volume-one-tom-maggie-relationship-spine.md` and
-`manuscript-editorial/01-1603-1657-till-youre-back.md`.
+`manuscript-editorial/volume-one-the-venture-integrated.md`.
 
 ## Binding spine and drift rule
 
