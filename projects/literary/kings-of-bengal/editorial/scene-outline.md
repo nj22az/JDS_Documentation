@@ -9,7 +9,7 @@ return shows what the characters chose when the reader was not watching.
 
 ### Chapter 1 — The Notebook Man
 
-Samuel Naylor checks cargo on a newly arrived Indiaman while Jonas Holm and Rahim
+Samuel Naylor checks cargo on a newly arrived Indiaman while Elias Tregowan and Rahim
 argue over a repaired chain pump whose dock measurement conceals its behaviour at
 sea. One bale bears two correct but incompatible weights. MP Nathaniel Hollis
 sends Samuel to the Prospect to record Sergeant Coates. Nell Finch punctures
@@ -63,7 +63,7 @@ Sufiya wins legal use of the family boats but not undisputed ownership. Rahim
 signs outward because sea wages can settle the claim. Company contractors begin
 preferring cash crops and secured clients over local provisioning.
 
-Jonas and Rahim rebuild a pump with a valve shaped by what the crew could repair
+Elias and Rahim rebuild a pump with a valve shaped by what the crew could repair
 at sea rather than what the yard drawing assumes. It is their first successful
 piece of shared work.
 
@@ -94,7 +94,7 @@ Rahim reaches London underpaid and without an immediate return berth. Nell gives
 him dry clothing but refuses to turn the act into sentimental rescue. He
 recognises Samuel's hooked N on cargo connected to Sufiya's disputed contract.
 
-Jonas finds that the same ship's chronic leakage was entered as storm damage even
+Elias finds that the same ship's chronic leakage was entered as storm damage even
 though an officer had deferred the repair he recommended before sailing.
 
 ### Chapter 12 — Aldridge's Table
@@ -131,12 +131,17 @@ Samuel is ordered to sign a reconciled return whose totals are correct only afte
 losses are moved into another category. He refuses the signature but allows a
 subordinate's mark to stand.
 
-Jonas is asked to certify a cargo mechanism as fit after a temporary repair. The
+Elias is asked to certify a cargo mechanism as fit after a temporary repair. The
 mechanism works during the dock test. He signs, knowing the test excludes the load
 and motion that caused the fault. The parallel with Samuel is unmistakable to
 both men and admitted by neither.
 
 **Low point:** he protects his conscience while leaving the machine functioning.
+
+During this movement Elias is periodically absent at Deptford. A short scene or
+recollection establishes that he met the young William Bligh in 1776 while
+working on *Resolution*. Their connection begins in exact measurements and
+mutual impatience, not friendship or shared Cornish nostalgia.
 
 ### Chapter 17 — The First Cache
 
@@ -151,8 +156,11 @@ single discovery exposes everyone. Bess sees where one packet is hidden.
 Bess, now thirty, helps Alec Munro search for his brother among incomplete
 *Bounty* reports. Samuel's eyesight is failing; Nell still keeps the Prospect's
 chosen losses. Rahim returns as an experienced seacunny seeking a homeward berth.
-Jonas, his hands stiff, makes the old waterman's open-boat calculation with Bess
-doing the written arithmetic.
+Elias, his hands stiff, makes the old waterman's open-boat calculation with Bess
+doing the written arithmetic. He has worked with Bligh twice: on *Resolution* in
+1776 and during *Bounty*'s conversion at Deptford in 1787. He can testify to
+Bligh's skill, memory and abrasive exactness, but refuses to pretend this tells
+him why the mutiny happened.
 
 ### Chapter 19 — Seven Years of Theatre
 
@@ -170,6 +178,10 @@ redemption.
 
 Alec learns what the voyage was for. The plantation ledger links the *Bounty* to
 the Company's older arithmetic without pretending they are the same institution.
+Elias describes the plant racks, water supply and drainage he helped fit into the
+former great cabin. His technically successful work becomes personal evidence:
+he helped make living plants the ship's most protected passengers without asking
+who the plants were ultimately intended to feed—or why.
 
 ### Chapter 22 — River Light
 
@@ -179,7 +191,7 @@ categories against one another.
 
 **Resolution:** Samuel cannot make the record safe or immediately useful. Bess
 can keep it intact and name why it matters. Rahim chooses the ship that takes him
-home. Jonas gives his apprentice the box of failed parts instead of taking it
+home. Elias gives his apprentice the box of failed parts instead of taking it
 home as proof of his own usefulness. The flower remains on the sill.
 
 ## Target allocation

@@ -62,8 +62,11 @@ author approves them.
 - Aldridge is not secretly responsible for every event. He represents ordinary,
   rewarded administrative choices rather than a single master conspiracy.
 - Real Bengali suffering is never invented merely to motivate Samuel.
-- Jonas Holm is not Jake Holman moved into another century. He has an original
+- Elias Tregowan is not Jake Holman moved into another century. He has an original
   biography, relationships, voice and outcome; the shared appeal is engineering
   competence in conflict with hierarchy.
+- Elias's acquaintance with William Bligh is professional and limited. It may
+  complicate the public caricature of Bligh but cannot make Elias an invented
+  confidant, secret cause of the voyage or final judge of the mutiny.
 - Engineering is never decorative jargon. Every technical detail must change a
   decision, expose a concealed cause or reveal character.

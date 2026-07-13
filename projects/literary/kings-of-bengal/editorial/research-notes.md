@@ -59,17 +59,44 @@ specific cargo marks used in the draft match period practice.
 
 ## Eighteenth-century engineering anchor
 
-Jonas's work must remain appropriate to wooden sailing ships. He is not a marine
+Elias's work must remain appropriate to wooden sailing ships. He is not a marine
 engineer in the later steam sense. His systems are mechanical and hydraulic:
 chain and common pumps, valves and leathers, blocks, tackles, capstans,
 windlasses, steering gear, hull fastenings, caulking, water casks, gun tackles
 and workshop jigs.
 
 Before drafting each repair, verify the particular mechanism against a period
-shipbuilding or seamanship source. Modern diagnostic logic may inform Jonas's
+shipbuilding or seamanship source. Modern diagnostic logic may inform Elias's
 thinking, but modern terms such as root-cause analysis, calibration certificate,
 preventive maintenance and operator error must be translated into period action
 and speech.
+
+### William Bligh connection
+
+The dates permit a professional relationship without altering Bligh's documented
+career:
+
+- Bligh was born in 1754, the son of a Plymouth customs officer, and became
+  sailing master of *Resolution* in 1776 at twenty-two.
+- *Resolution* and *Discovery* were fitted at Deptford for Cook's third voyage in
+  1776.
+- *Bounty* was fitted at Deptford in 1787 to carry breadfruit plants; the surviving
+  Admiralty plan shows the racks and frames installed in the great cabin.
+
+Fictional-use decision: Elias meets Bligh while doing contracted pump and
+water-handling work on *Resolution*, then works with him again during *Bounty*'s
+conversion. Elias may observe Bligh's technical competence, memory, impatience
+and working manner. He cannot know conversations or causes aboard *Bounty* after
+it sailed and must not settle the historical debate about the mutiny.
+
+Sources:
+
+- Royal Museums Greenwich, “William Bligh”:
+  <https://www.rmg.co.uk/stories/maritime-history/william-bligh>
+- Captain Cook Society, “April–June 1776”:
+  <https://www.captaincooksociety.com/cooks-voyages/third-pacific-voyage/april-june-1776>
+- Royal Museums Greenwich, Admiralty plan of *Bounty* as fitted at Deptford:
+  <https://www.rmg.co.uk/collections/objects/rmgc-object-86456>
 
 ## Bengal anchor
 

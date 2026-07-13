@@ -99,19 +99,30 @@
 - Never confesses, sneers at suffering or reveals a secret plan. His danger is
   that his reasoning is calm, useful and rewarded.
 
-### Jonas Holm
+### Elias Tregowan
 
-- Born Karlskrona, Sweden, 1730; son of a dockyard block-maker and a mother who
-  keeps the family's piecework accounts.
-- Trains as a shipwright and millwright, then signs on foreign ships because the
-  work is larger than the place available to him at home.
-- Reaches Wapping before 1757 and works between river yards and Company vessels
+- Born at Saltash, Cornwall, in 1735; son of a shipwright working the Hamoaze and
+  a mother who keeps household and piecework accounts for two related families.
+- Apprentices in ship and mill work around Plymouth Sound. He goes to the Thames
+  because Deptford and the private river yards offer mechanisms and vessels on a
+  scale unavailable to an unknown journeyman at home.
+- Reaches Wapping before 1757 and works between Deptford, river yards and Company vessels
   on chain pumps, elm pump barrels, leather valves, capstans, steering gear,
   blocks, windlasses and emergency hull repairs.
-- Called **John** by men who cannot be troubled with Jonas. Nell and Rahim use his
-  proper name. Samuel begins with John and changes only after being corrected.
-- Speaks serviceable English with a Swedish rhythm but no written-out comic
-  accent. His technical vocabulary is exact; his social vocabulary is economical.
+- Cornish without being written in phonetic dialect. Distance from Cornwall is
+  part of his biography, not a running joke or mystical inheritance.
+- Meets William Bligh professionally at Deptford in 1776 while *Resolution* is
+  fitted for Cook's third voyage. Elias works on pumps and water-handling details;
+  the twenty-two-year-old sailing master asks exact questions, remembers every
+  answer and has no patience for an assurance that cannot be measured.
+- Works on the 1787 conversion of *Bounty*, particularly the water and drainage
+  arrangements around the breadfruit plant cabin. Bligh remembers him. They are
+  neither close friends nor enemies: each respects the other's competence, and
+  each finds the other's certainty exhausting.
+- This connection makes Elias a witness to the vessel and to Bligh before the
+  mutiny, not an authority on what happened in the Pacific. In 1790 he refuses
+  both the tavern's monster and hero versions: he knows the man, but was not on
+  the voyage.
 - Believes machinery is preferable to institutions because a failed component
   leaves physical evidence. The novel spends thirty-three years disproving the
   comforting half of that belief: evidence matters only if someone is willing to
@@ -121,10 +132,10 @@
 - Does not love machines more than people. He trusts machines because they do not
   require him to guess which politeness conceals the danger.
 - Friendship with Rahim begins in professional disagreement. Rahim knows how a
-  pump behaves at sea after three weeks of bad water; Jonas knows how it should
+  pump behaves at sea after three weeks of bad water; Elias knows how it should
   measure at the dock. Both are right, and the repair works only when each stops
   treating the other's knowledge as anecdote.
-- Nell appreciates that he repairs before explaining. Samuel resents that Jonas
+- Nell appreciates that he repairs before explaining. Samuel resents that Elias
   can identify a physical cause while an account can distribute responsibility
   until it disappears.
 - Central fault: competence becomes refuge. If he can restore the mechanism, he
@@ -132,10 +143,11 @@
 - Arc: solitary repairer → respected yard specialist → compromised certifier of
   deferred work → witness who names preventable failure → teacher who accepts
   that knowledge must be passed on, not guarded as personal leverage.
-- By 1790, his hands are stiff and two fingertips lack feeling. Bess records his
-  diagnostic method while a younger apprentice performs the physical work.
+- By 1790, at fifty-five, his hands are stiff and two fingertips lack feeling.
+  Bess records his diagnostic method while a younger apprentice performs the
+  physical work.
 
-#### Jonas's diagnostic method
+#### Elias's diagnostic method
 
 1. Ask what changed immediately before the fault.
 2. Listen to the operator before touching the mechanism.

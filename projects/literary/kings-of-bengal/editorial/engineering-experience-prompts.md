@@ -1,4 +1,4 @@
-# Engineering Experience Prompts for Jonas Holm
+# Engineering Experience Prompts for Elias Tregowan
 
 This worksheet is where the author's real merchant-marine and field-service
 experience enters the novel. Record the modern event plainly first. Historical
@@ -15,8 +15,8 @@ the memory while describing it.
 - Did you sign, refuse, qualify the release or find another solution?
 - What happened later?
 
-**Possible Jonas translation:** a chain pump passes a still-water dock test after
-its leathers and chain are renewed, but Jonas knows hull motion and loaded trim
+**Possible Elias translation:** a chain pump passes a still-water dock test after
+its leathers and chain are renewed, but Elias knows hull motion and loaded trim
 will bring the chain against a distorted lower trunk.
 
 ## 2. The operator was right
@@ -26,8 +26,8 @@ will bring the chain against a distorted lower trunk.
 - Which measurement initially contradicted them?
 - How did the real operating condition differ from the test condition?
 
-**Possible Jonas translation:** Rahim describes a chain pump knocking and binding
-only when the vessel rolls to larboard with the after hold loaded. Jonas's dock
+**Possible Elias translation:** Rahim describes a chain pump knocking and binding
+only when the vessel rolls to larboard with the after hold loaded. Elias's dock
 measurement is correct but incomplete.
 
 ## 3. The missing proper part
@@ -37,7 +37,7 @@ measurement is correct but incomplete.
 - What made the improvised repair safe enough—or unsafe?
 - How did you communicate its limitations?
 
-**Possible Jonas translation:** the crew cuts an off-centre pump leather and
+**Possible Elias translation:** the crew cuts an off-centre pump leather and
 shapes a pin by hand during passage; the shore yard mistakes the different
 geometry for incompetence.
 
@@ -49,7 +49,7 @@ geometry for incompetence.
 - What physical evidence contradicted it?
 - Did the written report preserve the real cause?
 
-**Possible Jonas translation:** a scored pin and elongated hole show months of
+**Possible Elias translation:** a scored pin and elongated hole show months of
 movement after a deferred fastening repair, but the cargo loss is entered as
 storm damage.
 
@@ -60,8 +60,8 @@ storm damage.
 - How did you disagree without losing access to the work?
 - Did another worker understand the problem but remain silent?
 
-**Possible Jonas translation:** a Company officer insists on replacing the pump
-barrel because it is visible and expensive; Rahim and Jonas know the failure is
+**Possible Elias translation:** a Company officer insists on replacing the pump
+barrel because it is visible and expensive; Rahim and Elias know the failure is
 in the suction path below the loaded waterline.
 
 ## 6. The repair that changed your opinion of someone
@@ -70,7 +70,7 @@ in the suction path below the loaded waterline.
 - What assumption had you made about them?
 - What did you begin doing differently afterward?
 
-**Possible Jonas translation:** Rahim's sea-made valve looks crude to Jonas until
+**Possible Elias translation:** Rahim's sea-made valve looks crude to Elias until
 he understands that it can be renewed aboard ship without the yard's lathe or
 seasoned stock.
 
@@ -80,7 +80,7 @@ seasoned stock.
 - Was the machine serving a purpose you no longer wished to support?
 - What responsibility remained after the technical work was correct?
 
-**Possible Jonas translation:** Jonas restores the cargo gear perfectly and then
+**Possible Elias translation:** Elias restores the cargo gear perfectly and then
 sees what cargo it is designed to move, whose contract it serves and whose loss
 has been classified elsewhere.
 
@@ -91,8 +91,8 @@ has been classified elsewhere.
    existed in the scene's year.
 3. Replace corporate vocabulary with period incentives: sailing orders, freight,
    demurrage, wages, insurance, patronage and reputation.
-4. Give practical knowledge to operators and crew, not only to Jonas.
+4. Give practical knowledge to operators and crew, not only to Elias.
 5. Let a repair succeed technically even when the surrounding decision remains
    morally wrong.
-6. Never make Jonas infallible. At least one important failure must begin with
+6. Never make Elias infallible. At least one important failure must begin with
    his own confident but incomplete diagnosis.

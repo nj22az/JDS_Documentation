@@ -23,8 +23,8 @@ Samuel Naylor begins as the unnamed nineteen-year-old sent to record Coates's
 account of Plassey. He ends as a man who has spent his life discovering that a
 correct number can still be a lie. Rahim Ali and Sufiya Ali ensure Bengal is not
 known only through English confession. Nell Finch and Bess Naylor make the
-Prospect a working household rather than a neutral lecture room. Jonas Holm, a
-Swedish shipwright and pump-maker, gives the novel an engineering intelligence:
+Prospect a working household rather than a neutral lecture room. Elias Tregowan,
+a Cornish shipwright and pump-maker, gives the novel an engineering intelligence:
 he reads neglected machinery the way Samuel reads accounts and gradually learns
 that institutions can conceal causes more easily than machines can.
 
@@ -53,14 +53,19 @@ kings-of-bengal/
 │   └── scene-outline.md
 └── manuscript/
     ├── 00-frontmatter.md
-    └── 01-the-notebook-man.md
+    ├── 01-the-notebook-man.md
+    └── fragments/
+        └── 18-bligh-memory.md
 ```
 
 ## Current manuscript
 
 - [Chapter One — The Notebook Man](manuscript/01-the-notebook-man.md) — 3,290
-  words; introduces Samuel, Jonas, Rahim, Aldridge, Nell and Coates through one
+  words; introduces Samuel, Elias, Rahim, Aldridge, Nell and Coates through one
   chain-pump failure and the first Plassey testimony.
+- [Chapter Eighteen fragment — The Man Tregowan Knew](manuscript/fragments/18-bligh-memory.md)
+  — establishes Elias's limited professional history with William Bligh aboard
+  *Resolution* and *Bounty*.
 
 ## Governing question
 
