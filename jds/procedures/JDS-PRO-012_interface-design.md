@@ -3,8 +3,8 @@
 | | |
 |---|---|
 | **Document No.** | JDS-PRO-012 |
-| **Revision** | C |
-| **Date** | 2026-06-26 |
+| **Revision** | D |
+| **Date** | 2026-07-13 |
 | **Status** | APPROVED |
 | **Author** | Nils Johansson |
 
@@ -209,7 +209,70 @@ Apple's **SF Symbols** are the icon vocabulary for JDS software UI. An icon is a
 
 **HMI exception.** On HMI and control surfaces, iconography follows §9 — standardised, unambiguous, function-first symbols (industry / ISA conventions), never decorative consumer glyphs. SF Symbols are for software UI, not the control surface.
 
-## 13. Self-Check Before Release
+## 13. Long-Form Book Reader Pattern
+
+This pattern governs literary, editorial, archival, and other sustained-reading interfaces. It connects the book typography of `md2book.py` with responsive web readers without making the screen imitate paper mechanically. The content remains primary; page furniture exists only to preserve place and hierarchy.
+
+### 13.1 Information Hierarchy
+
+Every reader must express the following levels in this order. A level may be omitted when the work does not use it, but levels must not be swapped or visually flattened.
+
+| Level | Role | Typical expression |
+|-------|------|--------------------|
+| **Collection** | Names the complete work or omnibus | Contents title; left-page running head |
+| **Book** | Identifies the self-contained volume | Book numeral, volume title, date range |
+| **Chapter** | Names the current reading unit | Chapter number, title, year; right-page running head |
+| **Section** | Marks an internal movement or scene | Quiet subheading or scene ornament |
+| **Body** | Carries the narrative | Serif reading face, controlled measure and leading |
+| **Figure** | Supports a specific narrative moment | Image placed after its text anchor with a concise caption |
+
+Controls, navigation, and settings use the system sans-serif. Narrative body text may use a serif face. Metadata is quieter than content through size, weight, spacing, and tone—not colour alone.
+
+### 13.2 Responsive Reading Modes
+
+The reader has two modes driven by available width, not device identity:
+
+- **Continuous mode:** one column in DOM order for narrow screens, enlarged text, zoom, and assistive technology. No blank pages, running heads, folios, or artificial page breaks are exposed.
+- **Facing-page mode:** two equal page compartments on wide screens, joined by a centred spine. Both pages share height within a spread, outer margins are equal, and the reading order remains left then right.
+
+The layout must return to continuous mode before either page becomes narrower than a comfortable reading measure. A project may tune the breakpoint, but it must be a named design token rather than a scattered literal value.
+
+### 13.3 Running Heads, Footers, and Folios
+
+Use conventional book furniture consistently:
+
+| Position | Content | Alignment |
+|----------|---------|-----------|
+| **Verso (left) header** | Collection or omnibus title | Outer edge |
+| **Recto (right) header** | Chapter number and chapter title | Outer edge |
+| **Footer centre** | Book number, book title or subtitle, and period/year | Centre |
+| **Footer outer corner** | Folio (page number) | Outside edge |
+
+Running furniture is orientation, not decoration. It uses the UI face, small type, restrained letter spacing, and a fine rule. Suppress it on blank pages and, where the chapter title is already dominant, on formal chapter-opening pages. Do not repeat it in continuous mode.
+
+### 13.4 Page Composition
+
+- Keep the two page columns equal; do not alternate arbitrary text/image card arrangements between spreads.
+- Balance page density while preserving paragraph and scene order. Never split a heading from the first block it introduces.
+- Treat figures as substantial blocks during pagination so an image cannot silently overflow its page.
+- Place each illustration immediately after the narrative beat it depicts. A plate gallery at the end is supplementary, not a substitute for contextual placement.
+- Use captions to add interpretive context, not to repeat the alt text.
+- Keep the centred spine, outer margins, rules, shadows, and page numbers uniform across the book.
+
+### 13.5 Accessibility and Interaction
+
+- The DOM remains in logical reading order even when CSS presents paired pages.
+- Page wrappers and decorative furniture must not interrupt screen-reader prose. Running heads and repeated footers are hidden from assistive technology.
+- Real heading elements define structure; visual styling never substitutes for semantic levels.
+- Page turning must not be the only way to advance. Scrolling, keyboard navigation, and direct chapter navigation remain available.
+- Page-turn motion is optional, never required, and honours Reduce Motion (§8).
+- User text-size settings may increase page height or trigger continuous mode; text must never be clipped to preserve a paper-like rectangle.
+
+### 13.6 Reuse Contract
+
+Implementations expose named content fields—`collectionTitle`, `bookLabel`, `bookTitle`, `chapterLabel`, `chapterTitle`, and `period`—and named layout tokens for the breakpoint, spread width, page padding, rule colour, and page surface. Project-specific titles and measurements must not be hard-coded into pagination logic. The Front-Row Seat Chapter One reader is the web reference implementation; `scripts/md2book.py` is the print reference implementation.
+
+## 14. Self-Check Before Release
 
 - [ ] Glance level works — state/status visible without interaction
 - [ ] Primary action is obvious and consistently placed
@@ -220,11 +283,15 @@ Apple's **SF Symbols** are the icon vocabulary for JDS software UI. An icon is a
 - [ ] Fully keyboard-operable with a visible focus indicator
 - [ ] (Software UI) System font; text scales with Dynamic Type; light & dark appearance supported (§12)
 - [ ] (Software UI) Icons are from one set, paired with a label, and used per the §12.4 mapping — never decorative or alone
+- [ ] (Book reader) Collection → book → chapter → section → body → figure hierarchy is visible and semantic (§13.1)
+- [ ] (Book reader) Wide screens use equal facing pages; narrow screens preserve one continuous DOM reading order (§13.2)
+- [ ] (Book reader) Running heads, footer metadata, and outside folios follow §13.3 and disappear in continuous mode
+- [ ] (Book reader) Illustrations are anchored to their narrative beat and counted in page composition (§13.4)
 - [ ] (HMI) Normal = grey-scale; colour reserved for the abnormal
 - [ ] (HMI) Alarms ranked, actionable, multi-channel; safety actions guarded
 - [ ] (HMI) No HIG decoration — no translucency, vibrancy, or motion on the safety surface (§12.3)
 
-## 14. Conformance
+## 15. Conformance
 
 Software UIs conform to this standard at code review (alongside the PRO-004 code audit). **JDS-PRJ-SFW-002 (Document Studio)** is the reference implementation: its web UI follows §6–§8, §10–§12. HMI specifications produced for clients cite §9 as the governing standard.
 
@@ -237,3 +304,4 @@ Software UIs conform to this standard at code review (alongside the PRO-004 code
 | A | 2026-06-26 | Nils Johansson | Initial release — the third design pillar (interface). Three-level interaction model, interaction & feedback laws, screen typography/layout, colour & status semantics, accessibility, a full HMI section (situational awareness, alarm discipline, safety-critical actions, physical environment), component conventions, and the Doc mascot boundary for safety-critical surfaces. |
 | B | 2026-06-26 | Nils Johansson | Added §12 Apple HIG Alignment — maps Clarity/Deference/Depth to JDS and adopts HIG conventions for software UI (system typography & Dynamic Type, adaptive semantic colour with light/dark appearance, 44pt targets, SF Symbols-style iconography, materials/motion). §12.3 establishes HMI safety primacy: HIG aesthetics never override the §9 safety rules on a control surface. Self-check and Conformance updated. |
 | C | 2026-06-26 | Nils Johansson | Added §12.4 Iconography — SF Symbols: when, why, and which. Defines the rules for icon use (recognition channel, always with a label, one set, conventional meaning), a canonical action/object → SF Symbol mapping table and a status-symbol table, the web/other-platform equivalent rule, and the HMI exception. Self-check item added. |
+| D | 2026-07-13 | Nils Johansson | Added §13 Long-Form Book Reader Pattern. Defines the reusable collection → book → chapter → section → body → figure hierarchy; responsive continuous and facing-page modes; conventional running heads, footer metadata and outside folios; page-composition and illustration-anchoring rules; accessibility requirements; and a reuse contract shared by web readers and `md2book.py`. |

@@ -4,6 +4,15 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [3.11] — 2026-07-13
+
+### Added — Reusable long-form book reader pattern
+- **JDS-PRO-012 Rev D §13** defines one information hierarchy for literary and editorial readers: collection → book → chapter → section → body → figure.
+- Defines responsive **continuous** and **facing-page** modes. Wide screens use equal paired pages and a centred spine; narrow screens retain one semantic DOM reading order without artificial page furniture.
+- Standardises conventional running furniture: collection title on the verso header, chapter label/title on the recto header, book title/period in the footer, and folios on outside corners.
+- Adds page-composition, narrative illustration anchoring, accessibility, and reuse-contract rules. The Front-Row Seat Chapter One reader is the web reference; `scripts/md2book.py` remains the print reference.
+- Added four book-reader checks to the PRO-012 release self-check and surfaced §13 in the repository working instructions.
+
 ## [3.10.2] — 2026-07-03
 
 ### Fixed — version-check regex silently matched stale versions (CA-2026-011)

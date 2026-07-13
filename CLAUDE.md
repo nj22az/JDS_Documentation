@@ -64,6 +64,8 @@ All software code under JDS must follow these 7 rules from the first line:
 
 **Interfaces (UI & HMI):** any interactive interface — a software UI or an HMI/operator panel — must follow **JDS-PRO-012 (Interface Design Standard)**, the third design pillar alongside PRO-004 (code) and PRO-007 (documents). Key rules: three-level interaction (glance/scan/operate), prevent invalid actions, confirm the irreversible, colour is never the only encoding, WCAG AA + keyboard + visible focus. **Software UIs align with Apple HIG (§12):** system typography & Dynamic Type, adaptive light/dark appearance, 44pt hit targets, materials/motion used sparingly — over the JDS palette and JDS English. For HMI specifically (§9): normal state is grey-scale with colour reserved for the abnormal, alarms are ranked/actionable/multi-channel, safety-critical actions are guarded and fail-safe, the Doc mascot is **prohibited** on safety-critical surfaces, and **HIG aesthetics never override HMI safety** (§12.3 — no translucency/vibrancy/motion between operator and alarm).
 
+**Long-form readers:** literary and editorial web readers follow **JDS-PRO-012 §13**. Preserve the collection → book → chapter → section → body → figure hierarchy; use equal facing pages with conventional running furniture only when width permits; keep a single continuous, semantic DOM order on narrow screens and for assistive technology; anchor illustrations to the narrative beat they depict.
+
 ### Mandatory: Before Every Commit
 1. **Validate** — Run `python3 scripts/jds-validate.py --quick` before committing
 2. **Code audit** — Quick check: no unused imports, no hardcoded values, no dead code (JDS-PRO-004 §3.1)
