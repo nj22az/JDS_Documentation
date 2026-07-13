@@ -46,6 +46,9 @@ author approves them.
 12. **Memory has an owner.** A scene outside Wapping must be remembered, written
     or materially carried by someone present. The novel never cuts away merely
     to display researched history.
+13. **This is a pre-dissolution Company volume.** The Prospect and the East India
+    Company are both primary in every chapter. The wider geographic freedom
+    reserved for Su's later book does not apply here.
 
 ## Historical boundaries requiring verification before final prose
 

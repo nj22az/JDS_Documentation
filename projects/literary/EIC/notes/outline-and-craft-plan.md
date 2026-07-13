@@ -11,13 +11,21 @@ credit crisis / Boston tea chapter (1774). This doc
 is the standing plan for turning the draft into a page-turner rather than an illustrated
 history. Update it as decisions get made — it's a working doc, not a monument.
 
+**Long-form boundary locked 2026-07-13:** the fixed-location and Company-first
+rules govern omnibus Volumes One–Four. *The Watchman's Daughter* deliberately
+drifts with Su through her wider East End, and Volume Six may retain that
+freedom. After the 1858 dissolution, the Company appears only through legacy,
+never as an active institution.
+
 ---
 
 ## 1. What's already working — keep doing this
 
 - **The fixed-location conceit.** One bar, one river, five centuries. This is the spine an
-  anthology usually lacks and it's the book's single biggest asset. Don't dilute it by hopping
-  to other locations.
+  anthology usually lacks and it's the book's single biggest asset. In the
+  long-form cycle, do not dilute it in Volumes One–Four. Su's Volume Five is the
+  intentional break, and Volume Six inherits that permission while retaining
+  the Prospect as home and final point of return.
 - **The thesis, repeated with variation, not repetition.** Every chapter is the same argument —
   institutions launder atrocity into arithmetic — approached from a different angle (a hanging,
   a bribe, a famine, a drug empire, a massacre-and-reprisal, a dissolution, a case study). Keep
@@ -54,6 +62,10 @@ work as background texture the building itself accumulates — not a family saga
 the history for the reader's attention. A reader who never notices any of the connective tissue
 below should still get the complete book. A reader who does notice gets a second layer underneath
 the first. Three layers, load-bearing in this order:
+
+This principle governs Volumes One–Four. In Volume Five, Su is not a tool for
+Company history: her life governs the book, and the Company's presence is one
+legacy shaping the danger around her.
 
 **(a) The Cache — the primary mechanism.** A hidden accumulation under the bar counter, seeded by
 Ashby's notches in 1603 (already in the text — one cut for every young man who signs and

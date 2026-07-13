@@ -68,6 +68,12 @@ protected compressed canon while those books are developed. See
 `editorial/six-volume-omnibus-plan.md` for the working volume boundaries and
 reader contract.
 
+Volumes One–Four are Prospect-of-Whitby and East-India-Company first. Su's Volume
+Five is the deliberate permission to drift into her wider East End, and Volume
+Six may retain that freedom while returning to the Prospect as the cycle's home.
+After the Company's 1858 dissolution it appears only through legacy—people,
+institutions, docks, records and habits—not as an active organisation.
+
 The first editorial sample covers both 1603 units. It restores the intended
 implicit ancestry, removes unsupported history and demonstrates a 31.7 per cent
 compression without changing the deployed book. See

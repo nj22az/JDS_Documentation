@@ -4,6 +4,19 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-13] (omnibus spine and post-dissolution rule)
+
+### Changed
+- Locked Volumes One–Four to the Prospect of Whitby and East India Company as
+  their primary dramatic and historical subjects.
+- Reserved geographic drift for Su's Volume Five and the following Volume Six.
+- Defined 1858 as a hard narrative boundary: afterward the Company exists only
+  through people, institutions, material London, records and inherited habits.
+- Positioned Dr Cray as a human legacy of Company service, never the Company made
+  flesh or proof of the unresolved Whitechapel crimes.
+- Corrected *Kings of Bengal* from a stale five-book “Book Two” label to Volume
+  Three in the six-book structure.
+
 ## [2026-07-11] (live canon protected and editorial comparison begun)
 
 ### Added

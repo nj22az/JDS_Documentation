@@ -5,7 +5,7 @@
 | Type | Standalone historical novel |
 | Status | Development draft |
 | Series | *The Front-Row Seat* universe |
-| Working position | Book Two in the proposed five-book structure |
+| Working position | Volume Three in the six-book omnibus structure |
 | Seed period | 1757–1790 |
 | Main settings | Wapping, the Thames, Hugli and Bengal |
 | Target length | 65,000–75,000 words |
