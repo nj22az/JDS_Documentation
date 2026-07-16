@@ -4,6 +4,19 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-16] (Reading-order taglines + Part One courtroom lead)
+
+### Changed
+- **Part One page** (`manuscript/00b-part-one-the-venture.md` + reader): now
+  opens with the trial — "twelve souls in one room, a woman's debt on the
+  table, and a keeper who lets the room set the price."
+- **Site reader**: every chapter row on the Reading order page carries a
+  one-line tagline (omnibus.js/omnibus.css); Chapter One's evokes the
+  courtroom ("Twelve souls, one debt, one coin — the night the room first
+  sat as a court").
+
+---
+
 ## [2026-07-16] (Seaman-Tom recast synced + Jerry Vale 2019 + Book One ripple)
 
 ### Changed
