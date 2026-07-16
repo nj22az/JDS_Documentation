@@ -22,6 +22,8 @@ Rook takes the far table like a man mooring, and tells the room what she is.
 
 Not his wife, he says, cheerful. Not his hire. A debt. Passage from São Tomé, staked at cards, lost, sold on twice — he tells it well, he has told it before, there is a polish on the telling — and now the paper is his, and therefore the girl, and whether any law agrees is not a question he invites. Nobody volunteers to raise it. The paper itself lives inside his coat; she has seen it twice: a grubby fold of another man's handwriting, her name spelled wrong, a sum at the bottom that has grown at every change of hands the way debts do when the debtor is not in the room. She could read before she could swim. Nobody who has held the paper has ever asked her whether she could read it.
 
+Then he asks the room to be his register. A debt sold before witnesses, he tells them, holds in any court that matters this side of the bridge, and he means to sell the paper south when the spring ships go, at a price with the room's word under it. Drink up, he says. Witnessing is thirsty work. Mara hears the shape of it precisely, having been present at every sale of herself and consulted at none: silence is signature. She has watched three rooms now sign her over by saying nothing, their eyes in their ale, their names going onto her paper as surely as if they had queued at a clerk's table. This room drinks, and looks away, and begins, without knowing it, to sign.
+
 He sets her to carrying his ale round the room. That is the evening's sport: Mara pouring for men who will not meet her eye while Rook talks odds over her head — what she might fetch in Lisbon, what in a bad year in Wapping, whether to open the bidding now or after supper. He is joking. He is not joking. The room laughs where it must and looks into its ale.
 
 What the room sees is a mountain amusing itself. What is actually occurring, behind the wet-rope beard, is bookkeeping.
@@ -74,17 +76,59 @@ Then Maggie sets down the tankard she is holding, without hurry and without nois
 
 Any man who still calls himself a sailor had best decide what sort of river he drinks beside.
 
-For the space of a breath, nothing. Then the old docker by the fire gets off his stool. The man with the graveyard cough follows, and his standing costs him more than anyone's, and everyone hears what it costs. The two who were arguing about tar stand together, agreeing for the first time all evening. Then more. Not for Tom — half of them do not know his name. For the sentence, and for the woman who said it, and for the room, which is the only thing on this stretch of river that has ever belonged to all of them at once.
+For the space of a breath, nothing. Then the old docker by the fire gets off his stool. The man with the graveyard cough follows, and his standing costs him more than anyone's, and everyone hears what it costs. The two who were arguing about tar stand together, agreeing for the first time all evening. The snow bettor leaves his post by the door. Ned the lighterman is up before he has decided to be. Carter rises slowly, the heaviest man in the room in everything but flesh, the man with the most paper to lose, and is counted double for it by everyone watching. Last, unhurried, the quiet sailor comes off his stool at the counter's end like a man who has stood watches and knows the difference between hurry and readiness. Not for Tom — half of them do not know his name. For the sentence, and for the woman who said it, and for the room, which is the only thing on this stretch of river that has ever belonged to all of them at once.
 
 Rook understands force. Half-blind, wrist singing, he looks over Tom's head at the room on its feet, the woman who keeps it and Mara with the broken mug still in her fist. He counts quickly. He has counted rooms his whole life; it is the fastest thing he does; it is why he is alive to be this size. His grip opens. Tom slides down the bar, whooping air.
 
 * * *
 
+The room is on its feet, and for a long moment nobody in it knows what standing was for. Standing was the whole of the plan.
+
+Rook does not sit. He reaches into his coat with his good hand and brings out the fold of paper and holds it up in the firelight, and it quiets the room better than his fists did, because every man in it knows what paper is. He asked for witnesses, he tells them — the voice coming a little sideways out of the ruin of his mouth, but carrying — and by God he has them. Standing is free; they may stand all night. The paper was staked fair, won fair, sold on square and witnessed at every hand it passed, and which of them unmakes a paper? He picks out the snow bettor with it. A man who keeps a book on the weather: what is any book in this parish worth, the morning after a room full of friends votes one away for the smell of the man holding it?
+
+It is, though nobody in the room would give it the name, a fair question, and it is the true reason the boots did not move while a boy was throttled against the bar. Every man standing owes somebody. Every man standing is owed. Chalk, slate, tally, wage-book: the parish floats on paper, and a room that tears up one man's paper has put a knife to its own.
+
+The snow bettor answers first, which surprises everyone, including him. A book is worth what its witnesses will swear to, he says. He has booked every wager laid in this house for twenty years; he will book any stake a man can set on a table, and he has booked some queer ones; he never yet booked a soul. He nods at the paper. Who witnessed your game, then? Names. I'll wait.
+
+A cardroom in Rotherhithe, Rook says. Men I'd know again.
+
+Names, the snow bettor says again, kindly, terribly, and lets the silence do his arithmetic for him. A wager without witnesses is not won, friend. It is only told.
+
+And Mara, at the counter with the broken mug still in her fist, watching the mountain the way she has watched every owner, sees a thing she has not seen in four months: the blow lands. Not the jug, not the stool, not the mug across the wrist — this. A man has questioned the paper's pedigree, and something behind the wet-rope beard has flinched.
+
+Carter speaks next, and not with the room's heat; he speaks the way a man reads a bill of lading. Rook is half right, he says, and they will all hear it. His yard runs on paper; the hemp is bought on paper, the tar is owed on paper, and every man present drinks on a slate, which is paper too. Tear this one up because the smell of it offends them, and there is not a slate in Wapping worth its chalk by morning. He lets that sit. So nobody tears anything, he says. If it is a true paper, it can be bought like one. That is my whole word on it.
+
+The quiet sailor gets down from his stool then, and the room discovers what it has been drinking beside all evening. Blackwall this morning, he says. Off the Dragon. First fleet. Pell, he adds, as though the name were an afterthought. They buried a hundred and five men before the Cape, and the purser entered every one: name, rating, date over the side. Muster in one column, cargo in the other, and in two years of dying no man was ever moved between them — the last decency a ship keeps when she has lost the rest. He does not look at Mara while he says it, which she recognises, from the inside, as courtesy. Start writing people into the cargo column ashore, he says, and don't be surprised at what comes home in the holds.
+
+Ned the lighterman clears his throat, goes red, and holds his ground while the room turns to him with the mild interest it gives a boy speaking among men. He carries anything that pays, he says. Casks, coals, gentlemen. A fare set down owes him the fare, and he owes the fare dry landing, and there is no paper in it, and no paper beats it either. That is water-law. She came here over water. He looks at Mara, then at his boots. Then she is owed a landing. That's all.
+
+From the stool nearest the fire, the graveyard cough has its say — first the cough itself, long and patient, the room waiting through it as it has learned to, and then the man. He will be in Wapping churchyard by Whitsun; no man here doesn't know it, and he has caught every one of them being kind about it, which he has minded more than the dying. So his oath is worth the most in the room tonight: a man with nothing to lose is the only witness money cannot buy. He looks at the paper with his watering eyes. He has watched her pour all evening. Steadiest hands in the house. Whatever that paper says she is, I am dying, he says, and I say it lies.
+
+The two tar men look at each other. Sold on twice, says the first, and grown at every selling; he has known barrels do that between wharf and warehouse, and there is a word for goods that gain weight every time they change hands and never once get opened. Short measure, says the second. Short measure, the first agrees, and they stop, alarmed at themselves.
+
+Mara has stood through all of it doing an arithmetic she does not entirely believe, because rooms do not do this; rooms drink and look away; she has the scars of three rooms' silence. Now she sets her voice out level, for the first time since the door let her in, in English better than half the room's, pitched no louder than pouring, and to Rook alone.
+
+Ask the paper what I am, she says. It knows my price to the shilling. It has my name spelled wrong through three ownings. A paper that cannot spell a woman has no business selling one.
+
+And then the old docker, who got up first, whose getting up was half the reason the rest of them dared, and who has said nothing since. He does not raise his voice. He has never needed to; the parish files his sentences with the tide tables. Whatever is bought or sold in this room, he says, the room sets the price. That is custom on this stair since before the Armada, and no cardroom in Rotherhithe outranks it. He turns to the counter. Keeper. Name it.
+
 Maggie comes round the counter then, unhurried. She stoops, picks one of Tom's coins out of the rushes, and sets it on the table where the pile had been.
 
-The debt's mine now, she says. Bought and witnessed. The girl sleeps upstairs tonight. Any man who cares to argue it can find me in daylight, sober, and see how far he gets.
+Carter's terms, she says. Nobody tears your paper, Silas. I am buying it. One coin.
 
-She keeps her eyes on Rook while she says it, and what passes between them in that look is a full negotiation with all the shouting left out. He could dispute the price. One coin against a paper with a grown sum on it: no court of any kind would call it a sale. But the court in session is the only one that sits in Wapping after dark — a room on its feet — and its verdict is in, and Rook, whatever else he is, has never once in his life mistaken what a room was worth. She watches him weigh it. She has weighed men over this counter for fifteen years, drunk and sober, breaking and broken, and she knows to the grain when the scale settles.
+Rook laughs, blood in it, a real laugh. The sum on this paper —
+
+— is what a thing fetches, Maggie says, and a thing fetches what the market bears. Count the room. Twelve souls tonight, counting me: ten witnesses, a buyer and a seller. No court on this river ever sat fuller. The bid stands at one coin, and I hear no other bidders.
+
+Nobody bids. The fire spits. Somewhere at the back a stool creaks under a man sitting very still.
+
+What happens next, the room will tell for years as surrender, and the room will be wrong. Inside the mountain, a ledger is balancing. He asked for a court; the court sat. He demanded witnesses; he has ten. The stake was questioned, and no names came. And the sum on the paper — this is the entry he does not read aloud even to himself — grew at tables he never saw, by hands he could not swear to, and a man who lives by the tally lives by the whole of it, the entries against him included. His mother paid nine years on a dead man's paper because the count-house said the count was square, and the count-house never once showed its witnesses. He looks at the fold of paper in his good hand and finds he is holding the count-house's side of it, and that finding is the only wound he has taken tonight that will still be there in the morning.
+
+Witnessed, he says at last — to the paper, not to the room — and lays it on the table, and takes up the coin.
+
+The debt's mine now, Maggie says. Bought and witnessed. The girl sleeps upstairs tonight. Any man who cares to argue it can find me in daylight, sober, and see how far he gets.
+
+She keeps her eyes on him while she says it. She has weighed men over this counter for fifteen years, drunk and sober, breaking and broken, and she knows to the grain when the scale settles.
 
 Rook goes. There is nothing left in the room for him to do, and — the only credit the evening owes him — he knows it. The door lets in the cold and takes him out. The room sits by ones and twos, not looking at one another. Somebody laughs, once, too high, and is not joined.
 
@@ -92,7 +136,7 @@ Maggie stands a moment at the table with the one coin on it, and the thing she f
 
 Mara sets what remains of the mug on the counter, the handle still in her fist, and frees her fingers one at a time. She does not thank Tom. Her own mouth is cut; it was never only the wrist. She asks Maggie, not Tom, for the back stairs. Going past, she gives Tom one look: not love, not gratitude, but recognition — one person who was not going to be owned tonight acknowledging another who was not going to allow it, both of them bleeding for it, neither of them sorry. Then she is upstairs and gone.
 
-Tom is at the bar, shaking too hard to lift his tankard, one eye swelling shut and a tooth loose against his tongue. The old docker gathers every coin and stacks them by his elbow before returning to the fire. Maggie puts down a cloth. Not gentle. Not proud.
+Tom is at the bar, shaking too hard to lift his tankard, one eye swelling shut and a tooth loose against his tongue. The old docker gathers his coins out of the rushes and stacks them by his elbow, short the one that bought the debt, before returning to the fire. Maggie puts down a cloth. Not gentle. Not proud.
 
 Hold that to your mouth, she says.
 

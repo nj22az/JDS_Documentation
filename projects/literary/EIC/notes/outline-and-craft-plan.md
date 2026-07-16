@@ -831,3 +831,33 @@ Heron's echo), 2019 does not. Files: `13z-part-five-the-engine-room.md` (rewritt
 `14z-part-six-afterlives.md` (new). Character map's Timeline-Peopled headings updated.
 Site note: the reader's TOC had been missing the Part Five page entirely; both Part Five
 and Part Six pages added to the bundle in the same pass.
+
+## 0f. Chapter One as a twelve-voice court (2026-07-16, author-directed)
+
+Author's brief: rebuild chapter one so the room can carry a **12 Angry Men drama** —
+exactly twelve characters, grounded in history, the conflict dealt with **through
+dialogue**; new characters connected forward where possible. Decisions taken with the
+author: short fight kept (the wrist-break is load-bearing canon), verdict argued;
+new cast = Carter the elder, Pell, Ned the lighterman; the trial is Mara's debt,
+witnessed; pass lands everywhere (anthology, site, Book One ch1–3, bible, map).
+
+Craft architecture:
+- The historical hinge is **witnessing**: Rook formally asks the room to register the
+  sale of a debt (waterfront custom — a debt sold before witnesses "holds in any court
+  that matters this side of the bridge"). Witnessing makes every drinker a juror;
+  silence is signature. The witnesses he demanded become the court that prices him out.
+- The fight stays and **fails**: both sides spend their force (Rook still winning
+  half-blind with a broken wrist), so the room must finish the evening with words.
+- Each of the twelve speaks from their own trade: wager-law (provenance/"only told"),
+  chandlery (a true paper may be bought, never torn), ship's books (muster vs. cargo
+  columns), water-law (a fare is owed dry landing), a dying man's oath, short measure,
+  the room's custom ("the room sets the price"), and Mara's own verdict on the paper
+  that spells her wrong. Maggie's canon sentences are preserved verbatim as the gavel
+  ("Any man who still calls himself a sailor…") and the judgment ("Bought and witnessed").
+- Rook loses **by his own religion**, not by muscle: he asked for a court, the court
+  sat, and he finds himself holding the count-house's side of a grown paper — the thing
+  that ruined his mother. "Witnessed," to the paper, is his whole surrender.
+- Trailing epigram spent deliberately (rationed): "Twelve, and one of them willing to
+  say a sentence out loud, is a court."
+- Pell timeline repaired: he now precedes his shipmates up from Blackwall, making his
+  1606 memory of the wager literally true (was a latent contradiction).

@@ -10,7 +10,7 @@
 
 ## I. The Dragon's Lads
 
-The door opens an hour later and the wind brings in noise and cold and the smell of the river at night. Five or six men clump in from the waterfront, loud, salt-stiff, converting their wages into ale as fast as Maggie can pour it. One of them is missing two fingers on his left hand and doesn't seem to have noticed, which tells you something about what he has noticed instead.
+The door opens an hour later and the wind brings in noise and cold and the smell of the river at night. Five or six men clump in from the waterfront, loud, salt-stiff, converting their wages into ale as fast as Maggie can pour it — and Pell stands up from the counter's end to meet them, and is thumped and sworn at with the affection of men who have buried too many of their own to say the true thing. The rest of the Dragon's pay-off, come up from Blackwall at last, finding their quiet shipmate already moored, with the evening's story waiting for them.
 
 The Dragon's lads, one of them announces to the room. Just in. Lancaster let us go.
 
@@ -20,9 +20,11 @@ They are not lying about what they saw. But they are editing. Pepper, gold, mark
 
 Two of them are already arguing — loudly, and with real conviction — about whether the cloves from Ternate beat the cloves from Tidore, a question neither is remotely qualified to settle.
 
-The one with the missing fingers notices Tom. The paper. The hunger in his face. He's seen that look before — probably worn it himself.
+Pell finds Tom down the bar. The paper. The hunger still in the bruised face, undented by the evening. He's seen that look before — probably worn it himself.
 
 You're signing on. Not a question.
+
+Pell already knows the answer; he stood a room's length away an hour ago and heard the odds priced and a debt bought for a coin. But there are questions a sailor puts to a man so the man can hear himself answer them.
 
 Tomorrow. Second fleet. Writer.
 

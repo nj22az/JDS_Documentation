@@ -4,6 +4,33 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-16] (Chapter One — the twelve-voice court)
+
+### Changed
+- **Anthology ch1 rebuilt as a twelve-character dialogue drama** (author-directed:
+  a 12 Angry Men room, conflict dealt with through dialogue, new characters
+  connected forward):
+  - `manuscript/01-1603-the-boy-who-signed.md` — new §V "The Witnesses": Rook
+    demands the room witness the sale of Mara's debt; the fight (kept, canon)
+    settles nothing; the room answers voice by voice; Maggie buys the paper for
+    one of Tom's coins before "ten witnesses, a buyer and a seller"; Rook
+    honours the form ("Witnessed"). Room census fixed at exactly twelve.
+  - New characters: **Carter the elder** (rope-and-tar chandler, father of the
+    1618/1626 Carter), **Ned the lighterman** (future father of Joan, the next
+    keeper's line), **Pell** (moved up — arrives ahead of his Dragon shipmates,
+    fixing the latent 1606 contradiction).
+  - `manuscript/02-1603-dutch-courage.md` — Dragon's lads now find Pell already
+    moored; Pell's questions to Tom acknowledged as ritual, not ignorance.
+  - `manuscript/appendix-1b-character-map.md` — 1603 entry rewritten for the
+    twelve; 1626 Carter tied to his father.
+- **Book One aligned** (`books/book-one-the-venture/manuscript/`): ch1 evening
+  census seeds Carter/Ned/Pell; ch2 carries the full deliberation with Mara's
+  and Rook's interiority (the count-house wound); ch3 Pell-arrival ripple.
+- **Series bible** — four New Canon Ledger entries (the twelve, Carter the
+  elder, Ned, Pell timeline). Craft plan §0f records the architecture.
+
+---
+
 ## [2026-07-12] (Book One character pass — Tom, Rook, Maggie)
 
 ### Changed

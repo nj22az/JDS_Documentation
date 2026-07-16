@@ -57,7 +57,7 @@ A queen signs a paper on the last day of a dying century, and a company is born 
 
 The rain has not let up in three days. It comes in cold off the North Sea, turns the mud of Wapping Wall to something a man could lose a boot in, and beats against the tavern shutters loud enough to talk over.
 
-Inside, the fire is built high. The ale is dark and it is good. A dozen men sit close to the heat, dockworkers mostly, hands like old leather. One coughs, wet and deep, the kind of cough a man does not recover from. Two argue about the price of tar. A third swears it will snow before morning and has already put money on it.
+Inside, the fire is built high. The ale is dark and it is good. The room holds its regulars the way the river holds its craft, each at a known mooring. The old docker has the stool nearest the fire, thirty years of Wapping cargo in his shoulders and a way of saying little that the parish has learned to treat as law. Beside him sits the man with the graveyard cough, who pays in exact coin and coughs wet and deep, the kind of cough a man does not recover from; he knows it, the room knows it, and by unspoken treaty nobody's face says so. Two men argue the price of tar, which is their winter's office. The tar is Carter's — the rope-and-tar chandler off Wapping Wall, a fair-dealing man with a yard, a young son at home, and a settled belief that the world holds together with cordage and clean paper — and Carter drinks one table off and lets them argue, the argument being free advertisement. A wharf clerk swears it will snow before morning, has money on it, and checks the door each time it opens with a bettor's honest anguish. By the door, over a half-pint made to last, sits Ned, a young lighterman of the stairs, a year out of his apprenticeship and still paying rent on his stool with politeness. And at the counter's end there is a sailor nobody has placed yet: salt-stiff, quiet, two fingers gone off his left hand, drinking slowly, in no hurry at all to be worked out.
 
 Three years before, on the last day of a dying century, an old woman put her seal to a piece of paper — the Queen, Elizabeth, giving two hundred and eighteen merchants leave to trade east of the Cape. The old woman is dead now — gone in the spring, mourned, buried, succeeded by a Scotsman. The paper is doing fine. Papers usually do.
 
@@ -115,7 +115,7 @@ No.
 
 Right. She straightens up. So you're going to sign a paper that sends you round the Cape in a wooden box full of scurvy, to a place where the Portuguese and the weather and the food will all take turns trying to kill you, and you've never so much as been to sea.
 
-Tom says nothing. The fire cracks, sends sparks up the flue.
+Tom says nothing. The fire cracks, sends sparks up the flue. At the counter's end the quiet sailor turns his cup a quarter-turn and says nothing either, in a way that says a great deal to anyone watching his hands.
 
 What are they paying you?
 
@@ -148,6 +148,8 @@ It stops being ordinary when the door lets in a man who takes up more of it than
 He has a woman with him. He has her by the wrist.
 
 She is young and — Tom notices this first, and is ashamed before the thought has finished — beautiful, with the reach of the Portuguese sea in her face. Mara, Rook calls her, when he calls her anything. She is not his wife and not his hire, he tells the room, cheerful about it. She is a debt. He says her passage from São Tomé was staked at cards, lost and sold on twice. Now he owns the paper, and therefore her. Whether any law agrees with him is not a question anyone in the room volunteers to test.
+
+And he wants more from the evening than sport. He wants the room. A debt sold before witnesses, he tells them, holds in any court that matters this side of the bridge, and he means to sell the paper south when the spring ships go, at a price with the room's word under it. A parish of honest men will do for a register, he says. Drink up. Witnessing is thirsty work.
 
 He sets her to carrying his ale round the room. That is the evening's sport: Mara pouring for men who will not meet her eye while Rook talks odds over her head — what she might fetch in Lisbon, what in a bad year in Wapping, whether to open the bidding now or after supper. He is joking. He is not joking. The room laughs where it must and looks into its ale.
 
@@ -185,19 +187,79 @@ Then Maggie sets down the tankard she is holding, without hurry and without nois
 
 Any man who still calls himself a sailor had best decide what sort of river he drinks beside.
 
-For the space of a breath, nothing. Then the old docker by the fire gets off his stool. The man with the graveyard cough follows. The two who were arguing about tar stand together, agreeing for the first time all evening. Then more. Not for Tom — half of them do not know his name.
+For the space of a breath, nothing. Then the old docker by the fire gets off his stool. The man with the graveyard cough follows, and his standing costs him more than anyone's, and everyone hears what it costs. The two who were arguing about tar stand together, agreeing for the first time all evening. The snow bettor leaves his post by the door. Ned the lighterman is up before he has decided to be. Carter rises slowly, the heaviest man in the room in everything but flesh, a man with the most paper to lose, and is counted double by everyone watching. Last, unhurried, the quiet sailor comes off his stool at the counter's end, like a man who has stood watches and knows the difference between hurry and readiness. Not for Tom — half of them do not know his name. For the sentence, and for the woman who said it.
 
 Rook understands force. Half-blind, wrist singing, he looks over Tom's head at the room on its feet, the woman who keeps it and Mara with the broken mug still in her fist. He counts quickly. His grip opens. Tom slides down the bar, whooping air.
 
+* * *
+
+## V. The Witnesses
+
+The room is on its feet, and for a long moment nobody in it knows what standing was for. Standing was the whole of the plan. A room's worth of courage has been spent on getting upright, and the mountain is still there, breathing hard, cradling his wrist against his chest.
+
+Rook does not sit. He reaches into his coat with his good hand, brings out the fold of paper, and holds it up in the firelight, and it quiets the room better than his fists did.
+
+You wanted this evening, he says. I asked for witnesses and by God I have them. Stand all night; standing is free. This was staked fair, won fair, sold on square, twice, witnessed at every hand it passed. He turns, taking in the standing room one face at a time, the way he counted it before. Which of you unmakes a paper? You. The paper picks out the snow bettor. You keep a book on the weather. What is any book in this parish worth, the morning after a room full of friends votes one away because they did not like the man holding it?
+
+And there it is, set on the boards where everyone can see it: the true weight of the evening. Because he is right, and the room knows he is right, and that is why the room did not move for so long. Every man standing owes somebody. Every man standing is owed. The whole parish runs on chalk and slate and paper — the brewer's paper, the landlord's paper, the wage book, the tally — and a room that tears up one man's paper because it is ugly has put a knife to its own.
+
+The snow bettor answers first, which surprises everyone, including him.
+
+A book is worth what its witnesses will swear to, he says. I have booked every wager laid in this house for twenty years. I will book any stake a man can set on a table, and I have booked some queer ones. I never yet booked a soul. He nods at the paper. Who witnessed your game, then? Names. I'll wait.
+
+A cardroom in Rotherhithe, Rook says. Men I'd know again.
+
+Names, the snow bettor says again, kindly, terribly, and lets the silence do his arithmetic for him. A wager without witnesses is not won, friend. It is only told.
+
+Then Carter speaks, and he does not speak with the room's heat. He speaks the way a man reads a bill of lading.
+
+He is half right and you will all hear it, Carter says. My yard runs on paper. The hemp is bought on paper, the tar is owed on paper, and every man of you drinks on a slate, which is paper too. Tear his up because the smell of it offends you, and there is not a slate in Wapping worth its chalk by morning. He lets that sit. Then: So nobody tears anything. If it is a true paper, it can be bought like one. That is my whole word on it.
+
+The quiet sailor gets down from his stool then, and the room discovers what it has been drinking beside all evening.
+
+I came up from Blackwall this morning, he says. Off the Dragon. First fleet. He says it without decoration, and the quiet that follows is a new kind for the evening. Pell, he adds, as though the name were an afterthought. We buried a hundred and five men before the Cape, and the purser entered every one: name, rating, date over the side. Muster in one column, cargo in the other, and in two years of dying no man was ever moved between them. That is the last decency a ship keeps when she has lost the rest. He does not look at Mara, which is its own courtesy. Start writing people into the cargo column ashore, and do not be surprised at what comes home in the holds.
+
+Ned the lighterman clears his throat, goes red, and holds his ground while the room turns to him with the mild interest it gives a boy speaking among men.
+
+I carry anything that pays, he says. Casks, coals, gentlemen. A fare set down owes me the fare, and I owe him dry landing, and there is no paper in it, and no paper beats it either. That is water-law. She came here over water. He looks at Mara, then at his boots. Then she is owed a landing. That's all.
+
+From the stool nearest the fire, the graveyard cough has its say — first the cough itself, long and patient, the room waiting through it as it has learned to, and then the man.
+
+I'll be in Wapping churchyard by Whitsun, he says, conversational. No man here doesn't know it, and I have caught every one of you being kind about it, which I have minded more than the dying. So my oath is worth the most in the room tonight: a man with nothing to lose is the only witness money cannot buy. He looks at the paper with his watering eyes. I have watched her pour all evening. Steadiest hands in the house. Whatever that paper says she is, I am dying, and I say it lies.
+
+The two tar men look at each other. Sold on twice, says the first, and grown at every selling. I have known barrels do that between wharf and warehouse. There is a word for goods that gain weight every time they change hands and never once get opened. Short measure, says the second. Short measure, the first agrees, and they stop, alarmed at themselves.
+
+Mara has stood through all of it with the broken mug still in her fist. Now she speaks for the first time since the door let her in, in English better than half the room's, pitched no louder than pouring, and to Rook alone.
+
+Ask the paper what I am, she says. It knows my price to the shilling. It has my name spelled wrong through three ownings. A paper that cannot spell a woman has no business selling one.
+
+And then the old docker, who got up first, whose getting up was half the reason the rest of them dared, and who has said nothing since. He does not raise his voice. He has never needed to; the parish files his sentences with the tide tables.
+
+Whatever is bought or sold in this room, he says, the room sets the price. That is custom on this stair since before the Armada, and no cardroom in Rotherhithe outranks it. He turns to the counter. Keeper. Name it.
+
 Maggie comes round the counter then, unhurried. She stoops, picks one of Tom's coins out of the rushes, and sets it on the table where the pile had been.
 
-The debt's mine now, she says. Bought and witnessed. The girl sleeps upstairs tonight. Any man who cares to argue it can find me in daylight, sober, and see how far he gets.
+Carter's terms, she says. Nobody tears your paper, Silas. I am buying it. One coin.
+
+Rook laughs, blood in it, a real laugh. The sum on this paper —
+
+— is what a thing fetches, Maggie says, and a thing fetches what the market bears. Count the room. Twelve souls tonight, counting me: ten witnesses, a buyer and a seller. No court on this river ever sat fuller. The bid stands at one coin, and I hear no other bidders.
+
+Nobody bids. The fire spits. Somewhere at the back a stool creaks under a man sitting very still.
+
+Rook looks at the paper in his good hand for a long moment, and the room learns the last thing it will ever fully understand about him, the one fact worth keeping from the wreck of the evening: he honours the form. It is what he has instead of a religion. Staked fair, won fair, priced fair before witnesses — he asked the room to be his court, and a man who asks for a court owes it his verdict.
+
+Witnessed, he says at last — to the paper, not to the room — and lays it on the table, and takes up the coin.
+
+The debt's mine now, Maggie says. Bought and witnessed. The girl sleeps upstairs tonight. Any man who cares to argue it can find me in daylight, sober, and see how far he gets.
 
 Rook goes. There is nothing left in the room for him to do, and — the only credit the evening owes him — he knows it. The door lets in the cold and takes him out. The room sits by ones and twos, not looking at one another.
 
 Mara sets what remains of the mug on the counter, the handle still in her fist, and frees her fingers one at a time. She does not thank Tom. Her own mouth is cut; it was never only the wrist. She asks Maggie, not Tom, for the back stairs. Going past, she gives Tom one look: not love, not gratitude, but recognition. Then she is upstairs and gone. She will be gone again before light. In Wapping, safety may be lent for a night, never two.
 
-Tom is at the bar, shaking too hard to lift his tankard, one eye swelling shut and a tooth loose against his tongue. The old docker gathers every coin and stacks them by his elbow before returning to the fire. Maggie puts down a cloth. Not gentle. Not proud.
+Later, the parish will argue for years about who stood first and who said what and in what order; the snow bettor's book records only the snow, which did not come. But the count never varies in any telling. Twelve. A room is twelve people. Fewer is a quarrel, more is a crowd. Twelve, and one of them willing to say a sentence out loud, is a court.
+
+Tom is at the bar, shaking too hard to lift his tankard, one eye swelling shut and a tooth loose against his tongue. The old docker gathers his coins out of the rushes and stacks them by his elbow, short the one that bought the debt, before returning to the fire. Maggie puts down a cloth. Not gentle. Not proud.
 
 Hold that to your mouth, she says.
 
@@ -217,7 +279,7 @@ He holds it. Maggie looks past him to the Company's paper on the bar, tomorrow's
 
 ## I. The Dragon's Lads
 
-The door opens an hour later and the wind brings in noise and cold and the smell of the river at night. Five or six men clump in from the waterfront, loud, salt-stiff, converting their wages into ale as fast as Maggie can pour it. One of them is missing two fingers on his left hand and doesn't seem to have noticed, which tells you something about what he has noticed instead.
+The door opens an hour later and the wind brings in noise and cold and the smell of the river at night. Five or six men clump in from the waterfront, loud, salt-stiff, converting their wages into ale as fast as Maggie can pour it — and Pell stands up from the counter's end to meet them, and is thumped and sworn at with the affection of men who have buried too many of their own to say the true thing. The rest of the Dragon's pay-off, come up from Blackwall at last, finding their quiet shipmate already moored, with the evening's story waiting for them.
 
 The Dragon's lads, one of them announces to the room. Just in. Lancaster let us go.
 
@@ -227,9 +289,11 @@ They are not lying about what they saw. But they are editing. Pepper, gold, mark
 
 Two of them are already arguing — loudly, and with real conviction — about whether the cloves from Ternate beat the cloves from Tidore, a question neither is remotely qualified to settle.
 
-The one with the missing fingers notices Tom. The paper. The hunger in his face. He's seen that look before — probably worn it himself.
+Pell finds Tom down the bar. The paper. The hunger still in the bruised face, undented by the evening. He's seen that look before — probably worn it himself.
 
 You're signing on. Not a question.
+
+Pell already knows the answer; he stood a room's length away an hour ago and heard the odds priced and a debt bought for a coin. But there are questions a sailor puts to a man so the man can hear himself answer them.
 
 Tomorrow. Second fleet. Writer.
 
@@ -2978,11 +3042,11 @@ The room is the protagonist; the people are its weather. But five threads run th
 
 **PART ONE — THE VENTURE**
 
-**1603 · The Boy Who Signed.** **Tom**, a boy with twenty pounds' bounty and a paper in his pocket, deciding at the bar whether to sign. **Maggie**, keeper — Margareta of the Stockholm coast, twice widowed, who gives him the odds straight: more than a hundred of the first fleet's four hundred and eighty dead before the Cape. **Rook**, a gambler who puts a woman's debt on the table like a stake, and **Mara**, who refuses to be property with thrown ale, a kicked stool, and a mug across a wrist — fighting for herself, not for Tom. Maggie's one sentence raises the room. *Threads: the Keepers begin; the Cache begins as notches; the Johansson line waits, unstated, in the son on a Swedish deck.*
+**1603 · The Boy Who Signed.** Twelve souls in the room the night the debt changes hands, and the count never varies in any telling. **Tom**, a boy with twenty pounds' bounty and a paper in his pocket. **Maggie**, keeper — Margareta of the Stockholm coast, twice widowed, who gives him the odds straight: more than a hundred of the first fleet's four hundred and eighty dead before the Cape. **Rook**, who demands the room witness the sale of a woman's debt and is priced out by his own court, and **Mara**, who refuses to be property with thrown ale, a kicked stool, a mug across a wrist — and one sentence about a paper that spells her name wrong. Around them, the eight the parish knows by office and by name: the **old docker**, whose sentences are filed with the tide tables; the man with the **graveyard cough**, whose dying makes him the one witness money cannot buy; the **two tar men**, who agree for the first time all winter; the **snow bettor**, who has booked every wager in the house and never once a soul; **Carter** the rope-and-tar chandler, first of the Wapping trade families, who rules that a true paper may be bought but never torn; **Ned** the young lighterman, who answers with water-law; and **Pell** of the Red Dragon, home from the first fleet, who has seen what happens when people are written into the cargo column. Maggie's one sentence raises the room; the room's twelve voices, not its fists, settle the debt at one coin, bought and witnessed. *Threads: the Keepers begin; the Cache begins as notches; the room sits as a court for the first time; the Johansson line waits, unstated, in the son on a Swedish deck.*
 
 **1603 · Dutch Courage.** **Hendricks**, the Dutch waterman who has seen the VOC's arithmetic up close and gives Tom the truer warning — that you can win a fight but not a Company — and who alone remembers Maggie arriving. Tom signs anyway, and leaves his mother's thimble with Maggie "till I'm back." He never is. *Cache: the thimble, first object in.*
 
-**1626 · The Man Who Came Back Wrong.** **Daniel Vale**, factor, the one man shipped to Batavia while ten Englishmen were beheaded at Amboyna, home with the water still behind his eyes. **Nell**, his wife, who walked three years to find him and lets him be new. **Carter**, the ships' chandler whose grief and appetite share a table — the first of the Wapping trade families. **Pryce**, the Company's polite man with the polite offer. Maggie, older, still keeper, shows Daniel the gap under the counter. *Cache: Daniel's true copy, second object in. The gin thread opens with genever poured on the flagstones.*
+**1626 · The Man Who Came Back Wrong.** **Daniel Vale**, factor, the one man shipped to Batavia while ten Englishmen were beheaded at Amboyna, home with the water still behind his eyes. **Nell**, his wife, who walked three years to find him and lets him be new. **Carter**, the ships' chandler whose grief and appetite share a table — son of the tar chandler who stood among the twelve in 1603, the trade family's second generation at the same tables. **Pryce**, the Company's polite man with the polite offer. Maggie, older, still keeper, shows Daniel the gap under the counter. *Cache: Daniel's true copy, second object in. The gin thread opens with genever poured on the flagstones.*
 
 **PART TWO — THE GALLOWS YEARS**
 

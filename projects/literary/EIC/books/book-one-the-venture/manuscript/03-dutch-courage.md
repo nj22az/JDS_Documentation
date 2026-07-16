@@ -22,7 +22,7 @@ He goes in.
 
 The room is full and lively and bruised. He reads the bruise before his coat is off — furniture missing from the far corner, rushes scrubbed in a half-circle, a boy at the bar with one eye closing and a folded paper in front of him, the keeper watching the whole room the way she watches it on the bad nights, from behind stillness. Something happened here this evening. Something big, by the gap it left. He orders nothing, because he never has to.
 
-An hour before him, the door had opened on noise of a different kind: five or six men clumping in from the waterfront, loud, salt-stiff, converting their wages into ale as fast as Maggie could pour it. One of them missing two fingers on his left hand and not seeming to have noticed, which tells you something about what he has noticed instead.
+An hour before him, the door had opened on noise of a different kind: five or six men clumping in from the waterfront, loud, salt-stiff, converting their wages into ale as fast as Maggie could pour it. Pell stood up from the counter's end to meet them, and was thumped and sworn at with the affection of men who have buried too many of their own to say the true thing: his watch, the rest of the Dragon's pay-off, come up from Blackwall at last to find their quiet shipmate already moored, with the evening's story waiting for them.
 
 The Dragon's lads, one of them announced to the room. Just in. Lancaster let us go.
 
@@ -30,7 +30,7 @@ The room went quieter — not silent, quieter. These are men of the Red Dragon. 
 
 They are not lying about what they saw. But they are editing. Pepper, gold, markets, colours — not the scurvy, the flux or the men put into the ground before India. You tell the story that makes the voyage sound worth it, because if it wasn't, what were you doing out there? Two of them are already arguing — loudly, and with real conviction — about whether the cloves from Ternate beat the cloves from Tidore, a question neither is remotely qualified to settle and neither will surrender this side of morning. A third sings the front half of something and hums where the words should be. A fourth drinks in silence and cries while he does it, without fuss, without shame, the tears simply going about their business while the ale goes about its, and his mates leave him to it with a care so complete it looks like ignoring. There is a manners to surviving. They have all learned it in the same school.
 
-The one with the missing fingers notices Tom. The paper. The hunger in his face, visible even out of one working eye. He has seen that look before — probably worn it himself.
+Pell finds Tom down the bar. The paper. The hunger in his face, visible even out of one working eye. He has seen that look before — probably worn it himself. He knows the answer already; he stood a room's length away an hour ago and heard the odds priced and a debt bought for a coin. But there are questions a sailor puts to a man so the man can hear himself answer them.
 
 You're signing on. Not a question.
 
