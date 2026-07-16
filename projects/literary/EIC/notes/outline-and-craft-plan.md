@@ -861,3 +861,23 @@ Craft architecture:
   say a sentence out loud, is a court."
 - Pell timeline repaired: he now precedes his shipmates up from Blackwall, making his
   1606 memory of the wager literally true (was a latent contradiction).
+
+## 0g. Seaman-Tom recast + "What Jerry Bought," synced (2026-07-16)
+
+Author's site-side commits (2026-07-13) landed mid-task and were merged before the
+twelve-voice work shipped:
+
+- **Tom recast as a seaman bound by inherited debt.** Before the mast, second voyage,
+  eighteen shillings a month, half assigned to Master Harcourt against his father's
+  account (£11 6s 4d — a broken boatswain charged for storm-lost stores). "Same man.
+  New seal." The writer identity is gone; the word-book survives (a literate seaman is
+  rarer and better). Ripple applied to anthology ch1–ch2 + the 1626 line, and Book One
+  ch1–4, 6–7 (father paragraph rebuilt in ch4; Cade's register now reads the assignment;
+  "Mind your words, sailor"; Pell's account rebuilt around the mess's book: "the muster,
+  where the clerk wrote him, and the mess's book, where he wrote everyone else").
+  The recast strengthens the twelve-voice court: the room deliberates a debt-paper while
+  the boy at the bar is himself half-owned by one he never signed.
+- **2019 rewritten by the author as "What Jerry Bought"** (Jerry Vale / Albion Reach) —
+  synced to manuscript verbatim, file renamed, Part Six blurb updated. New Cache object
+  (the keeper's signing-sheet, "Tom… signed Thursday") and Hannah's division of custody
+  logged; hard guard 4 updated to match.

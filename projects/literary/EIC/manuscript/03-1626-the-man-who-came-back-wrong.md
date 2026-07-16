@@ -16,7 +16,7 @@ A ship comes up the river on a grey afternoon, riding low, sails slack, in no hu
 
 Nobody on the dock has the whole of it yet. Just the name.
 
-By the time it reaches the tavern by the stairs, the place has changed without anyone quite watching it happen. Longer bar. Flagstones where the rushes used to be. A new sign nobody remembers the old one well enough to miss. The boy who signed his contract here years back, for twenty pounds and a share of the pepper, sailed south and never came back to see any of it. The bar didn't keep count of him. It only kept standing.
+By the time it reaches the tavern by the stairs, the place has changed without anyone quite watching it happen. Longer bar. Flagstones where the rushes used to be. A new sign nobody remembers the old one well enough to miss. The seaman who signed his contract here years back, with half his wages promised against his father's debt, sailed south and never came back to see any of it. The bar didn't keep count of him. It only kept standing.
 
 The ships on the river have multiplied. The Company has factories now — Surat, Masulipatam, Agra — small English footholds on coastlines and river towns that never asked for them, each one a bet that the local ruler stays friendly and the weather stays kind.
 

@@ -4,6 +4,29 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-16] (Seaman-Tom recast synced + Jerry Vale 2019 + Book One ripple)
+
+### Changed
+- **Synced the author's site-side recast** (2026-07-13 commits, merged before
+  the twelve-voice work shipped):
+  - **Tom is a seaman**, before the mast, half his wage assigned to Master
+    Harcourt against his father's account — anthology ch1/ch2 dialogue and
+    the 1626 line updated in manuscript and reader.
+  - **2019 chapter is now "What Jerry Bought"** (Gerald "Jerry" Vale, Albion
+    Reach Capital; Abdi Warsame; Hannah divides the Cache) — manuscript file
+    renamed `15-2019-what-jerry-bought.md`; Part Six blurb updated.
+- **Book One seaman ripple** (ch1–4, 6–7): Harcourt-debt dialogue; father
+  rebuilt as Harcourt's broken Levant boatswain (jokes, seamstress mother and
+  word-book kept); Cade's register reads the wage assignment; farewell now
+  "Mind your words, sailor"; Pell's 1606 account rebuilt around the mess's
+  book; Harcourt's account "stays open" after Tom's death.
+- **Bible**: Tom character-pass entry rewritten; four sync entries in the New
+  Canon Ledger; hard guard 4 updated (Cache = five objects, divided in 2019).
+- **Character map**: Cache thread updated (signing-sheet, division of custody);
+  2019 entry now Jerry Vale.
+
+---
+
 ## [2026-07-16] (Chapter One — the twelve-voice court)
 
 ### Changed

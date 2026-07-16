@@ -36,7 +36,7 @@ At the end of it, cloak on, at the door, he turns around once. Not for a speech.
 
 Mind the thimble, he says.
 
-Mind your figures, writer, Maggie says, and does not look up from the counter she is wiping, and the door lets in the cold and takes him out into it, and that is the last this room ever holds of Tom entire: the latch settling, the fiddle finding its tune for six bars together, the smell of stew and tallow and wet wool, a heel of bread gone from a plate.
+Mind your words, sailor, Maggie says, and does not look up from the counter she is wiping, and the door lets in the cold and takes him out into it, and that is the last this room ever holds of Tom entire: the latch settling, the fiddle finding its tune for six bars together, the smell of stew and tallow and wet wool, a heel of bread gone from a plate.
 
 * * *
 
@@ -46,7 +46,7 @@ The stairs are packed. The wall is lined. Boys sit on mooring posts; a pieman wo
 
 The crowd finds its voices. Men bellow names at the passing hulls, and here and there a small figure at a rail bellows back, and which figure belongs to which name is anyone's guess and nobody's concern; the shout is the thing. The pieman sells out. Somewhere along the wall a woman is crying with a baby on her hip, and the woman next to her, a stranger, has put an arm around her without either of them turning their faces from the river.
 
-Mara stands at the top of the stairs, apron still on, jug still in her hand, having walked out mid-pour with the whole room and thought nothing of it. She watches the second ship, because the writers muster on the second ship; she has taken the trouble to know that and would not confess it under oath. At this distance the men at the rails are the size of pen-strokes. One of them may be looking at the stairs. It is not knowable. She lifts the jug a hand's width anyway — a gesture between a wave and a toast, deniable as everything she does is deniable — and holds it until the ship is past, and then goes back in to finish the pour, because the room did not stop owing itself ale just because the world got briefly beautiful.
+Mara stands at the top of the stairs, apron still on, jug still in her hand, having walked out mid-pour with the whole room and thought nothing of it. She watches the second ship, because Tom's watch is mustered on the second ship; she has taken the trouble to know that and would not confess it under oath. At this distance the men at the rails are the size of pen-strokes. One of them may be looking at the stairs. It is not knowable. She lifts the jug a hand's width anyway — a gesture between a wave and a toast, deniable as everything she does is deniable — and holds it until the ship is past, and then goes back in to finish the pour, because the room did not stop owing itself ale just because the world got briefly beautiful.
 
 Hendricks watches from his barge, standing, hat off, the tide chuckling under the flat bottom. He is not sentimental about fleets; he has cursed this one's boats out of his fairway all winter. The hat is not for the ships. It is for the roll of names on board that nobody has read out yet, the one the clerks will total properly in two or three years, the arithmetic he gave the boy across a counter in November. He puts the hat back on before anyone can see, and pieces of his morning resume around him. Pieter does not stand beside him today. Some days are too plain for the dead; they come on the quiet ones.
 

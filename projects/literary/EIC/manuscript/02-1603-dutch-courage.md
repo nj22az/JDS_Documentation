@@ -26,9 +26,23 @@ You're signing on. Not a question.
 
 Pell already knows the answer; he stood a room's length away an hour ago and heard the odds priced and a debt bought for a coin. But there are questions a sailor puts to a man so the man can hear himself answer them.
 
-Tomorrow. Second fleet. Writer.
+Tomorrow. Second fleet. Before the mast.
 
-Good. We need men who can count. He holds up the ruined hand. Exhibit A. Knife fight in Bantam. Over a woman, if you can believe it — a woman and a sack of pepper. Don't get into knife fights out there, lad. The climate doesn't agree with bandages.
+Able?
+
+Able enough. Coasters since I was fourteen. My father was a boatswain.
+
+The sailor throws him the heel of a bread loaf. Tom catches it one-handed despite the closing eye.
+
+Can you splice?
+
+Eye, short and long.
+
+Can you take the wheel?
+
+If the master tells me where he wants the ship.
+
+Then you are a seaman, whatever figure the clerk writes beside you. He holds up the ruined hand. Knife fight in Bantam. Over a woman, if you can believe it — a woman and a sack of pepper. Don't get into knife fights out there, lad. The climate doesn't agree with bandages.
 
 Was it worth it? Tom asks. The voyage. Was it worth it?
 
@@ -86,7 +100,7 @@ The Dutch. Last year, while your first fleet was still at sea, they chartered th
 
 A little.
 
-Not enough, then. More capital than you. Better ships. Better guns. And they are not gentlemen arguing over pepper in a London room. They mean to take the trade while you sit here with your twenty pounds a year and your good ale.
+Not enough, then. More capital than you. Better ships. Better guns. And they are not gentlemen arguing over pepper in a London room. They mean to take the trade while you sit here with your eighteen shillings a month, half of it promised away, and your good ale.
 
 Lancaster was there, Tom says. He made deals.
 
@@ -124,11 +138,11 @@ Hendricks has gone silent at his end of the bar. The boy will go. The boy will s
 
 Maggie comes over one last time, refills his ale.
 
-The charter was signed on New Year's Eve, she says. Three years back. Old Queen Bess is dead, and the Company she signed into being is still here, hiring. The queen is gone. The paper is not. She signs one. You sign another. Somewhere between the two, men die. The pepper comes back. The money comes back. The men do not.
+The charter was signed on New Year's Eve, she says. Three years back. Old Queen Bess is dead, and the Company she signed into being is still here, hiring. The queen is gone. The paper is not. Harcourt traded under the Levant seal when your father could still climb. Now he puts his money under the East India seal and your father's debt walks across with him. The companies do not even have to be the same. The man is the same. The ink is the same. She signs one. Harcourt signs one. You sign another. Somewhere between them, men work and die. The people at the top sign. The people at the bottom pay. The pepper comes back. The money comes back. The men do not.
 
 He opens his mouth. Nothing comes out.
 
-What he cannot say is that it was never the pepper. The brown millpond behind the Essex granary was, for ten summers, both a stretch of water a strong man could throw a stone across and the whole ocean. It had serpents beyond the map, a pirate cave under the willow roots and wreckers' fires on the far bank. He has always wanted to come through a door like this with salt on his coat and stories nobody else could tell. It is a child's answer to more than a hundred dead before the Cape. It is also the truth.
+What he cannot say is that the debt is not the whole of it. He could run from Harcourt. His father would lose the rented rooms, perhaps his liberty, and Tom knows he will not do that; but buried inside the duty is an older willingness. The brown millpond behind the Essex granary was, for ten summers, both a stretch of water a strong man could throw a stone across and the whole ocean. Later his father took him on coasters and taught his hands the names of things: sheet, brace, halyard, splice; how a deck moves under a sleeping body; how land dwindles without asking permission. Tom has always wanted to come through a door like this with salt on his coat and stories nobody else could tell. Harcourt's paper has found the place where duty and desire are knotted together and pulled tight. It is a child's answer to more than a hundred dead before the Cape. It is also the truth.
 
 Then, instead of anything he might have said, he does something instead. Reaches into his coat and comes out with the one thing in it worth more than the coat — a plain brass thimble, his mother's, the only piece of her he kept when there was nothing else worth the keeping. He sets it on the bar between them, not quite meeting her eye.
 
@@ -152,7 +166,7 @@ At the door he pauses, hand on the latch, and does not look back. The cold takes
 
 The door closes. Maggie stands still behind the counter. Hendricks finishes his pint and leaves. The Dragon's men are asleep, or close to it. The fire is down to embers.
 
-Tom will sign in the morning and get on the ship. He has heard the cost and goes anyway.
+Tom will sign in the morning and get on the ship. Half his wages will begin travelling home before the ship has cleared the Downs, each month of his life entered against cable and anchor lost before the Company existed. He has heard the cost and goes anyway.
 
 ## IV. What Comes After
 

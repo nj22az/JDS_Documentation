@@ -4,4 +4,4 @@
 
 *2019*
 
-A new generation entirely: nobody in this room remembers the Company, and the machine runs on in spreadsheets across the river. The tavern is the oldest witness left — pouring gin and tonic, minding a flower, and keeping under its counter everything the centuries trusted it with. At the end, someone finally looks.
+The Company is gone, but its method has crossed the river into glass towers, distressed debt and divided ownership. Jerry Vale comes to preserve the Prospect by turning its building, labour and memory into separate assets. Hannah must decide whether survival is still survival when someone else owns the meaning of it.

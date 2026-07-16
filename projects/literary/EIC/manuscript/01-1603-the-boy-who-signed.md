@@ -30,7 +30,7 @@ To the river she is Maggie — an English scrap of Margareta, the only piece of 
 
 Tonight she is busy. Word has gone round that a ship is in, and where a ship comes in, men follow, and where men follow they want a drink. She moves behind the bar the way a woman moves who has done this ten thousand times — pouring, wiping, taking coin, watching the whole room without seeming to look at any part of it.
 
-He comes in around dusk, shaking rain off a cloak that has seen better years. Young. Twenty, perhaps twenty-two — near enough the age of her own boy, on whatever cold deck the Swedish Crown keeps him. Ink on his fingers. He orders ale, and she pours it without asking, which means he has been in before.
+He comes in around dusk, shaking rain off a cloak that has seen better years. Young. Twenty, perhaps twenty-two — near enough the age of her own boy, on whatever cold deck the Swedish Crown keeps him. Tar beside his nails, a pale seam across one palm where a wet line once ran faster than his grip. Not a deep-water man, not yet, but no stranger to a deck. He orders ale, and she pours it without asking, which means he has been in before.
 
 He has a paper in his pocket. He takes it out and smooths it flat on the bar and reads it the way a man reads a letter from someone he loves, or a sentence handed down by a judge.
 
@@ -42,7 +42,7 @@ You are going to sign it, then.
 
 ## III. The Boy with the Paper
 
-Tom folds the paper and tucks it away. Tomorrow. Governor Smythe himself will be there. A governor and twenty-four committees. Joint stock — means the risk is shared. So is the reward, if there is any.
+Tom folds the paper and tucks it away. Tomorrow. Governor Smythe himself will be there. A governor and twenty-four committees. The berth is before the mast, common seaman, second voyage. Joint stock — means the risk is shared. So is the reward, if there is any.
 
 If there is any, she says. Not a question.
 
@@ -66,25 +66,45 @@ Twenty-two.
 
 Been to sea before?
 
-No.
+Coasters. Newcastle twice. Calais, once. I can hand, reef and steer.
 
-Right. She straightens up. So you're going to sign a paper that sends you round the Cape in a wooden box full of scurvy, to a place where the Portuguese and the weather and the food will all take turns trying to kill you, and you've never so much as been to sea.
+Your father taught you.
+
+Tom looks at the paper instead of her. He did.
+
+Right. She straightens up. So you know enough water to be useful and not enough ocean to know what is waiting. You are going to sign a paper that sends you round the Cape in a wooden box full of scurvy, to a place where the Portuguese and the weather and the food will all take turns trying to kill you.
 
 Tom says nothing. The fire cracks, sends sparks up the flue. At the counter's end the quiet sailor turns his cup a quarter-turn and says nothing either, in a way that says a great deal to anyone watching his hands.
 
 What are they paying you?
 
-Twenty pounds a year. A writer's wage. Keeping the accounts.
+Eighteen shillings a month.
 
-Twenty pounds to keep books on a voyage where men start dying before the Cape. Your mother know?
+You will see nine.
+
+Tom's head comes up.
+
+I know paper, she says. Nine to you. Nine to Master Harcourt until your father's account is clean. Food and clothes charged besides, I'll wager, so the number can learn to walk away while you sleep.
+
+It is eleven pounds, six shillings and fourpence.
+
+She gives him a long look. A debt exact to the penny is a debt someone means to keep alive. Your mother know?
 
 My mother is dead.
 
 Your father?
 
-Found me the position himself. Thinks it's a good opportunity.
+Was boatswain for Harcourt's Levant ships. Smyrna, Scanderoon, sometimes Venice. Twenty-three years. The last passage took his knee. Harcourt says stores were missing when they paid the ship off — cable, two coils of running rigging, a kedge anchor. Things lost in the storm that broke him. Things in his charge.
 
-Your father thinks it's a good opportunity for his son to write numbers in a book while men die around him. She wipes the bar in front of him. Not the pepper. What else is on the manifest?
+And now Harcourt has put money into the East India voyage.
+
+Tom nods.
+
+Same man, Maggie says. New seal.
+
+He found me the berth. If I take my father's place, half-pay goes against the account.
+
+Found you the chain and called it work. She wipes the bar in front of him. Not the pepper, then. What else is on the manifest?
 
 Silk. Indigo. Cotton. Cloves from the Moluccas. Nutmeg from the Banda Islands. Worth a hundred times what they cost in London.
 
@@ -114,7 +134,7 @@ Tom stands and crosses to the table. Not fast. The room is quiet enough for him 
 
 She has heard enough, he says. It comes out smaller than he wants it to.
 
-Rook looks at him the way you'd look at a stool that had spoken. Then he smiles, because this is better sport than the auction. Then buy her, he says. Settle the debt like an honest man, writer.
+Rook looks at him the way you'd look at a stool that had spoken. Then he smiles, because this is better sport than the auction. Then buy her, he says. Settle the debt like an honest man, sailor.
 
 Tom empties his pockets onto the table: the coins meant to feed him until the ship sails, everything he owns that is not a paper or a keepsake. It is not much. It is everything. Every man in the room can count it from where he sits.
 
@@ -156,7 +176,7 @@ Rook does not sit. He reaches into his coat with his good hand, brings out the f
 
 You wanted this evening, he says. I asked for witnesses and by God I have them. Stand all night; standing is free. This was staked fair, won fair, sold on square, twice, witnessed at every hand it passed. He turns, taking in the standing room one face at a time, the way he counted it before. Which of you unmakes a paper? You. The paper picks out the snow bettor. You keep a book on the weather. What is any book in this parish worth, the morning after a room full of friends votes one away because they did not like the man holding it?
 
-And there it is, set on the boards where everyone can see it: the true weight of the evening. Because he is right, and the room knows he is right, and that is why the room did not move for so long. Every man standing owes somebody. Every man standing is owed. The whole parish runs on chalk and slate and paper — the brewer's paper, the landlord's paper, the wage book, the tally — and a room that tears up one man's paper because it is ugly has put a knife to its own.
+And there it is, set on the boards where everyone can see it: the true weight of the evening. Because he is right, and the room knows he is right, and that is why the room did not move for so long. Every man standing owes somebody. Every man standing is owed. The whole parish runs on chalk and slate and paper — the brewer's paper, the landlord's paper, the wage book, the tally — and a room that tears up one man's paper because it is ugly has put a knife to its own. And the boy relearning to breathe against the bar knows it better than any of them: half of every wage he will earn for years is already spoken for, by a paper he never signed.
 
 The snow bettor answers first, which surprises everyone, including him.
 

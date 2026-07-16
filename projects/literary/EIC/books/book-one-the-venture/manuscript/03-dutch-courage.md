@@ -34,15 +34,29 @@ Pell finds Tom down the bar. The paper. The hunger in his face, visible even out
 
 You're signing on. Not a question.
 
-Tomorrow. Second fleet. Writer.
+Tomorrow. Second fleet. Before the mast.
 
-Good. We need men who can count. He holds up the ruined hand. Exhibit A. Knife fight in Bantam. Over a woman, if you can believe it — a woman and a sack of pepper. Don't get into knife fights out there, lad. The climate doesn't agree with bandages.
+Able?
+
+Able enough. Coasters since I was fourteen. My father was a boatswain.
+
+The sailor throws him the heel of a bread loaf. Tom catches it one-handed despite the closing eye.
+
+Can you splice?
+
+Eye, short and long.
+
+Can you take the wheel?
+
+If the master tells me where he wants the ship.
+
+Then you are a seaman, whatever figure the clerk writes beside you. He holds up the ruined hand. Knife fight in Bantam. Over a woman, if you can believe it — a woman and a sack of pepper. Don't get into knife fights out there, lad. The climate doesn't agree with bandages.
 
 Was it worth it? Tom asks. The voyage. Was it worth it?
 
 The sailor considers a question he has not let himself ask. The pepper was good. Very good. The rest of it — ask me again in ten years. If I'm still here.
 
-Somewhere in that hour, the penny book comes out. It begins with Tom asking the two-fingered man, apologetically, what the right word is for the yard when it is set crooked on purpose, and the two-fingered man tells him, and spells it, wrongly, with total confidence, and the man beside him disputes the spelling of a word neither can write, and within a quarter of an hour half the Dragon's mess is queued up the bar to put words into a granary boy's book: the name of the rope that is not called a rope, the word for the last dry biscuit in the cask, the Java word for the wind that comes at evening, each man watching his word go down in fair black letters with the satisfaction of a landowner watching a fence go up. The crying man waits until the others have done. Then he gives his quietly, leaning close: the word for the colour the sea goes before a squall, when it has not yet told you what it means to do. He does not spell it. He watches Tom write it, and nods once, and goes back to his ale, and is not seen to cry again that evening.
+Somewhere in that hour, the penny book comes out. It begins with Tom asking the two-fingered man, apologetically, what the right word is for the yard when it is set crooked on purpose, and the two-fingered man tells him, and spells it, wrongly, with total confidence, and the man beside him disputes the spelling of a word neither can write, and within a quarter of an hour half the Dragon's mess is queued up the bar to put words into a boatswain's boy's book: the name of the rope that is not called a rope, the word for the last dry biscuit in the cask, the Java word for the wind that comes at evening, each man watching his word go down in fair black letters with the satisfaction of a landowner watching a fence go up. The crying man waits until the others have done. Then he gives his quietly, leaning close: the word for the colour the sea goes before a squall, when it has not yet told you what it means to do. He does not spell it. He watches Tom write it, and nods once, and goes back to his ale, and is not seen to cry again that evening.
 
 Maggie brings bread and cheese to the Dragon's men. They fall on it like wolves. She watches them eat, counting the cost of pepper in men.
 
@@ -86,7 +100,7 @@ The Dutch. Last year, while your first fleet was still at sea, they chartered th
 
 A little.
 
-Not enough, then. More capital than you. Better ships. Better guns. And they are not gentlemen arguing over pepper in a London room. They mean to take the trade while you sit here with your twenty pounds a year and your good ale.
+Not enough, then. More capital than you. Better ships. Better guns. And they are not gentlemen arguing over pepper in a London room. They mean to take the trade while you sit here with your eighteen shillings a month, half of it promised away, and your good ale.
 
 Lancaster was there, Tom says. He made deals.
 
@@ -126,7 +140,7 @@ The charter was signed on New Year's Eve, she says. Three years back. Old Queen 
 
 He opens his mouth. Nothing comes out.
 
-What he cannot say is that it was never the pepper. The brown millpond behind the Essex granary was, for ten summers, both a stretch of water a strong man could throw a stone across and the whole ocean. It had serpents beyond the map, a pirate cave under the willow roots and wreckers' fires on the far bank. He has always wanted to come through a door like this with salt on his coat and stories nobody else could tell. It is a child's answer to more than a hundred dead before the Cape. It is also the truth.
+What he cannot say is that the debt is not the whole of it. He could run from Harcourt. His father would lose the rented rooms, perhaps his liberty, and Tom knows he will not do that; but buried inside the duty is an older willingness. The brown millpond behind the Essex granary was, for ten summers, both a stretch of water a strong man could throw a stone across and the whole ocean. It had serpents beyond the map, a pirate cave under the willow roots and wreckers' fires on the far bank. Later his father took him on coasters and taught his hands the names of things: sheet, brace, halyard, splice; how a deck moves under a sleeping body; how land dwindles without asking permission. Tom has always wanted to come through a door like this with salt on his coat and stories nobody else could tell. Harcourt's paper has found the place where duty and desire are knotted together and pulled tight. It is a child's answer to more than a hundred dead before the Cape. It is also the truth.
 
 Then, instead of anything he might have said, he does something instead. Reaches into his coat and comes out with the one thing in it worth more than the coat — a plain brass thimble, his mother's, the only piece of her he kept when there was nothing else worth the keeping. He sets it on the bar between them, not quite meeting her eye.
 
@@ -152,4 +166,4 @@ The door closes. Maggie stands still behind the counter. The Dragon's men are as
 
 Hendricks finishes his pint, and takes, out of order, against a rationing he would deny exists, one more pull from the stone bottle, and leaves without a word. Outside, the rain has finally stopped. The ships stand black on the black water, waiting for boys. He walks down the stairs to his barge with his brother beside him, and the tide, which has heard every warning ever given on this river and carried every boy who ignored one, comes in quietly over the mud, on schedule, taking no position.
 
-Tom will sign in the morning and get on the ship. He has heard the cost and goes anyway.
+Tom will sign in the morning and get on the ship. Half his wages will begin travelling home before the ship has cleared the Downs, each month of his life entered against cable and anchor lost before the Company existed. He has heard the cost and goes anyway.

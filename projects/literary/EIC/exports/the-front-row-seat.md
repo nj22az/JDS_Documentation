@@ -75,7 +75,7 @@ To the river she is Maggie — an English scrap of Margareta, the only piece of 
 
 Tonight she is busy. Word has gone round that a ship is in, and where a ship comes in, men follow, and where men follow they want a drink. She moves behind the bar the way a woman moves who has done this ten thousand times — pouring, wiping, taking coin, watching the whole room without seeming to look at any part of it.
 
-He comes in around dusk, shaking rain off a cloak that has seen better years. Young. Twenty, perhaps twenty-two — near enough the age of her own boy, on whatever cold deck the Swedish Crown keeps him. Ink on his fingers. He orders ale, and she pours it without asking, which means he has been in before.
+He comes in around dusk, shaking rain off a cloak that has seen better years. Young. Twenty, perhaps twenty-two — near enough the age of her own boy, on whatever cold deck the Swedish Crown keeps him. Tar beside his nails, a pale seam across one palm where a wet line once ran faster than his grip. Not a deep-water man, not yet, but no stranger to a deck. He orders ale, and she pours it without asking, which means he has been in before.
 
 He has a paper in his pocket. He takes it out and smooths it flat on the bar and reads it the way a man reads a letter from someone he loves, or a sentence handed down by a judge.
 
@@ -87,7 +87,7 @@ You are going to sign it, then.
 
 ## III. The Boy with the Paper
 
-Tom folds the paper and tucks it away. Tomorrow. Governor Smythe himself will be there. A governor and twenty-four committees. Joint stock — means the risk is shared. So is the reward, if there is any.
+Tom folds the paper and tucks it away. Tomorrow. Governor Smythe himself will be there. A governor and twenty-four committees. The berth is before the mast, common seaman, second voyage. Joint stock — means the risk is shared. So is the reward, if there is any.
 
 If there is any, she says. Not a question.
 
@@ -111,25 +111,45 @@ Twenty-two.
 
 Been to sea before?
 
-No.
+Coasters. Newcastle twice. Calais, once. I can hand, reef and steer.
 
-Right. She straightens up. So you're going to sign a paper that sends you round the Cape in a wooden box full of scurvy, to a place where the Portuguese and the weather and the food will all take turns trying to kill you, and you've never so much as been to sea.
+Your father taught you.
+
+Tom looks at the paper instead of her. He did.
+
+Right. She straightens up. So you know enough water to be useful and not enough ocean to know what is waiting. You are going to sign a paper that sends you round the Cape in a wooden box full of scurvy, to a place where the Portuguese and the weather and the food will all take turns trying to kill you.
 
 Tom says nothing. The fire cracks, sends sparks up the flue. At the counter's end the quiet sailor turns his cup a quarter-turn and says nothing either, in a way that says a great deal to anyone watching his hands.
 
 What are they paying you?
 
-Twenty pounds a year. A writer's wage. Keeping the accounts.
+Eighteen shillings a month.
 
-Twenty pounds to keep books on a voyage where men start dying before the Cape. Your mother know?
+You will see nine.
+
+Tom's head comes up.
+
+I know paper, she says. Nine to you. Nine to Master Harcourt until your father's account is clean. Food and clothes charged besides, I'll wager, so the number can learn to walk away while you sleep.
+
+It is eleven pounds, six shillings and fourpence.
+
+She gives him a long look. A debt exact to the penny is a debt someone means to keep alive. Your mother know?
 
 My mother is dead.
 
 Your father?
 
-Found me the position himself. Thinks it's a good opportunity.
+Was boatswain for Harcourt's Levant ships. Smyrna, Scanderoon, sometimes Venice. Twenty-three years. The last passage took his knee. Harcourt says stores were missing when they paid the ship off — cable, two coils of running rigging, a kedge anchor. Things lost in the storm that broke him. Things in his charge.
 
-Your father thinks it's a good opportunity for his son to write numbers in a book while men die around him. She wipes the bar in front of him. Not the pepper. What else is on the manifest?
+And now Harcourt has put money into the East India voyage.
+
+Tom nods.
+
+Same man, Maggie says. New seal.
+
+He found me the berth. If I take my father's place, half-pay goes against the account.
+
+Found you the chain and called it work. She wipes the bar in front of him. Not the pepper, then. What else is on the manifest?
 
 Silk. Indigo. Cotton. Cloves from the Moluccas. Nutmeg from the Banda Islands. Worth a hundred times what they cost in London.
 
@@ -159,7 +179,7 @@ Tom stands and crosses to the table. Not fast. The room is quiet enough for him 
 
 She has heard enough, he says. It comes out smaller than he wants it to.
 
-Rook looks at him the way you'd look at a stool that had spoken. Then he smiles, because this is better sport than the auction. Then buy her, he says. Settle the debt like an honest man, writer.
+Rook looks at him the way you'd look at a stool that had spoken. Then he smiles, because this is better sport than the auction. Then buy her, he says. Settle the debt like an honest man, sailor.
 
 Tom empties his pockets onto the table: the coins meant to feed him until the ship sails, everything he owns that is not a paper or a keepsake. It is not much. It is everything. Every man in the room can count it from where he sits.
 
@@ -201,7 +221,7 @@ Rook does not sit. He reaches into his coat with his good hand, brings out the f
 
 You wanted this evening, he says. I asked for witnesses and by God I have them. Stand all night; standing is free. This was staked fair, won fair, sold on square, twice, witnessed at every hand it passed. He turns, taking in the standing room one face at a time, the way he counted it before. Which of you unmakes a paper? You. The paper picks out the snow bettor. You keep a book on the weather. What is any book in this parish worth, the morning after a room full of friends votes one away because they did not like the man holding it?
 
-And there it is, set on the boards where everyone can see it: the true weight of the evening. Because he is right, and the room knows he is right, and that is why the room did not move for so long. Every man standing owes somebody. Every man standing is owed. The whole parish runs on chalk and slate and paper — the brewer's paper, the landlord's paper, the wage book, the tally — and a room that tears up one man's paper because it is ugly has put a knife to its own.
+And there it is, set on the boards where everyone can see it: the true weight of the evening. Because he is right, and the room knows he is right, and that is why the room did not move for so long. Every man standing owes somebody. Every man standing is owed. The whole parish runs on chalk and slate and paper — the brewer's paper, the landlord's paper, the wage book, the tally — and a room that tears up one man's paper because it is ugly has put a knife to its own. And the boy relearning to breathe against the bar knows it better than any of them: half of every wage he will earn for years is already spoken for, by a paper he never signed.
 
 The snow bettor answers first, which surprises everyone, including him.
 
@@ -295,9 +315,23 @@ You're signing on. Not a question.
 
 Pell already knows the answer; he stood a room's length away an hour ago and heard the odds priced and a debt bought for a coin. But there are questions a sailor puts to a man so the man can hear himself answer them.
 
-Tomorrow. Second fleet. Writer.
+Tomorrow. Second fleet. Before the mast.
 
-Good. We need men who can count. He holds up the ruined hand. Exhibit A. Knife fight in Bantam. Over a woman, if you can believe it — a woman and a sack of pepper. Don't get into knife fights out there, lad. The climate doesn't agree with bandages.
+Able?
+
+Able enough. Coasters since I was fourteen. My father was a boatswain.
+
+The sailor throws him the heel of a bread loaf. Tom catches it one-handed despite the closing eye.
+
+Can you splice?
+
+Eye, short and long.
+
+Can you take the wheel?
+
+If the master tells me where he wants the ship.
+
+Then you are a seaman, whatever figure the clerk writes beside you. He holds up the ruined hand. Knife fight in Bantam. Over a woman, if you can believe it — a woman and a sack of pepper. Don't get into knife fights out there, lad. The climate doesn't agree with bandages.
 
 Was it worth it? Tom asks. The voyage. Was it worth it?
 
@@ -355,7 +389,7 @@ The Dutch. Last year, while your first fleet was still at sea, they chartered th
 
 A little.
 
-Not enough, then. More capital than you. Better ships. Better guns. And they are not gentlemen arguing over pepper in a London room. They mean to take the trade while you sit here with your twenty pounds a year and your good ale.
+Not enough, then. More capital than you. Better ships. Better guns. And they are not gentlemen arguing over pepper in a London room. They mean to take the trade while you sit here with your eighteen shillings a month, half of it promised away, and your good ale.
 
 Lancaster was there, Tom says. He made deals.
 
@@ -393,11 +427,11 @@ Hendricks has gone silent at his end of the bar. The boy will go. The boy will s
 
 Maggie comes over one last time, refills his ale.
 
-The charter was signed on New Year's Eve, she says. Three years back. Old Queen Bess is dead, and the Company she signed into being is still here, hiring. The queen is gone. The paper is not. She signs one. You sign another. Somewhere between the two, men die. The pepper comes back. The money comes back. The men do not.
+The charter was signed on New Year's Eve, she says. Three years back. Old Queen Bess is dead, and the Company she signed into being is still here, hiring. The queen is gone. The paper is not. Harcourt traded under the Levant seal when your father could still climb. Now he puts his money under the East India seal and your father's debt walks across with him. The companies do not even have to be the same. The man is the same. The ink is the same. She signs one. Harcourt signs one. You sign another. Somewhere between them, men work and die. The people at the top sign. The people at the bottom pay. The pepper comes back. The money comes back. The men do not.
 
 He opens his mouth. Nothing comes out.
 
-What he cannot say is that it was never the pepper. The brown millpond behind the Essex granary was, for ten summers, both a stretch of water a strong man could throw a stone across and the whole ocean. It had serpents beyond the map, a pirate cave under the willow roots and wreckers' fires on the far bank. He has always wanted to come through a door like this with salt on his coat and stories nobody else could tell. It is a child's answer to more than a hundred dead before the Cape. It is also the truth.
+What he cannot say is that the debt is not the whole of it. He could run from Harcourt. His father would lose the rented rooms, perhaps his liberty, and Tom knows he will not do that; but buried inside the duty is an older willingness. The brown millpond behind the Essex granary was, for ten summers, both a stretch of water a strong man could throw a stone across and the whole ocean. Later his father took him on coasters and taught his hands the names of things: sheet, brace, halyard, splice; how a deck moves under a sleeping body; how land dwindles without asking permission. Tom has always wanted to come through a door like this with salt on his coat and stories nobody else could tell. Harcourt's paper has found the place where duty and desire are knotted together and pulled tight. It is a child's answer to more than a hundred dead before the Cape. It is also the truth.
 
 Then, instead of anything he might have said, he does something instead. Reaches into his coat and comes out with the one thing in it worth more than the coat — a plain brass thimble, his mother's, the only piece of her he kept when there was nothing else worth the keeping. He sets it on the bar between them, not quite meeting her eye.
 
@@ -421,7 +455,7 @@ At the door he pauses, hand on the latch, and does not look back. The cold takes
 
 The door closes. Maggie stands still behind the counter. Hendricks finishes his pint and leaves. The Dragon's men are asleep, or close to it. The fire is down to embers.
 
-Tom will sign in the morning and get on the ship. He has heard the cost and goes anyway.
+Tom will sign in the morning and get on the ship. Half his wages will begin travelling home before the ship has cleared the Downs, each month of his life entered against cable and anchor lost before the Company existed. He has heard the cost and goes anyway.
 
 ## IV. What Comes After
 
@@ -455,7 +489,7 @@ A ship comes up the river on a grey afternoon, riding low, sails slack, in no hu
 
 Nobody on the dock has the whole of it yet. Just the name.
 
-By the time it reaches the tavern by the stairs, the place has changed without anyone quite watching it happen. Longer bar. Flagstones where the rushes used to be. A new sign nobody remembers the old one well enough to miss. The boy who signed his contract here years back, for twenty pounds and a share of the pepper, sailed south and never came back to see any of it. The bar didn't keep count of him. It only kept standing.
+By the time it reaches the tavern by the stairs, the place has changed without anyone quite watching it happen. Longer bar. Flagstones where the rushes used to be. A new sign nobody remembers the old one well enough to miss. The seaman who signed his contract here years back, with half his wages promised against his father's debt, sailed south and never came back to see any of it. The bar didn't keep count of him. It only kept standing.
 
 The ships on the river have multiplied. The Company has factories now — Surat, Masulipatam, Agra — small English footholds on coastlines and river towns that never asked for them, each one a bet that the local ruler stays friendly and the weather stays kind.
 
@@ -2710,195 +2744,453 @@ The river doesn't care about any of it. It was here before the Company, before L
 
 *2019*
 
-A new generation entirely: nobody in this room remembers the Company, and the machine runs on in spreadsheets across the river. The tavern is the oldest witness left — pouring gin and tonic, minding a flower, and keeping under its counter everything the centuries trusted it with. At the end, someone finally looks.
+The Company is gone, but its method has crossed the river into glass towers, distressed debt and divided ownership. Jerry Vale comes to preserve the Prospect by turning its building, labour and memory into separate assets. Hannah must decide whether survival is still survival when someone else owns the meaning of it.
 
 ---
 
 > **2019**
 >
-> *"The most imperial object in this building — and I'm counting the beams."*
+> *"You bought the debt. You keep talking as though you bought the past."*
 >
-> — Hannah, keeper of the Prospect of Whitby, on a gin and tonic, 2019
+> — Hannah, keeper of the Prospect of Whitby, 2019
 
 ---
 
-# 2019: What the Suit Didn't See
+# 2019: What Jerry Bought
 
 ## I. Authentic
 
-Eight taps behind the bar now, and not one of them pours anything that existed when this room was new. The beams are original. The flagstones are original. The floor still slopes toward a river that used to carry tea and opium and now carries, mostly, sightseeing boats. Everything about the Prospect of Whitby that can be photographed has survived. Almost everything that cannot has not.
+Eight taps stand behind the bar now, and not one pours anything that existed when the room was new.
 
-The pub's been called the Prospect of Whitby a long time now. Before that, the Devil's Tavern — a better name, but the people who run these things prefer something tourists can say without giggling. There's a sign outside with a ship painted on it, lit up along with everything else on this stretch of river these days, and under the sign, hanging baskets of fuchsia — crimson, purple, absurdly alive — which the tourists photograph as set-dressing and which are the one thing on the frontage the heritage menu doesn't claim and couldn't: two centuries of cuttings of cuttings, the oldest living thing on the premises. The world is too bright here now, most nights.
+The beams are original. The flagstones are original. The floor still inclines toward a river that once brought tea, pepper and opium into London and now carries sightseeing boats with recorded commentaries in four languages. Everything about the Prospect of Whitby that can be photographed has survived. Almost everything that cannot has had to find another way.
 
-Round the river side, out over the foreshore, hangs a gallows — a replica, a noose swinging photogenic above the low-tide mud — and the tourists photograph each other grinning under it, which is fair enough, since nobody grinning has any way of knowing that the mud below is the same mud, and that it has held the real thing's custom: Every's six in one November, Kidd twice in one afternoon, and the crowds who came down with their pies to watch.
+The tourists call it authentic. They photograph the ship sign, the hanging baskets of fuchsia, the replica gallows over the foreshore and one another grinning beneath the noose. They photograph the view across the river, where Canary Wharf stands on the old docklands and doubles itself in black glass. They do not photograph the staff rota, the cellar damp, the lease or the notice Hannah received by recorded delivery that morning.
 
-What's changed is everything but the bones. One tap used to serve this room; ale dark and warm, tasting of the river. Now there are eight, pouring things called Hop Fathom and Mudlark IPA, and the ale is still good — different, but good. There's a laminated menu with tasting notes. A section called 'Heritage,' three paragraphs, two of them wrong. A gift shop selling mugs and keyrings. A TripAdvisor sticker on the door.
+The notice uses six pages to say the debt has changed hands.
 
-The tourists come by boat and by tube, because they've read this is the oldest pub on the Thames, that Dickens drank here, that pirates drank here — true, mostly — and because they've read that it's authentic. That's the word they're here for. A photograph proving they stood somewhere real, somewhere with depth, not another gastropub with the same reclaimed-wood tables as the last four.
+The pub company owes money to a bank. The bank has sold that debt, with a parcel of forty-one other loans, to Albion Reach Capital. Albion Reach has placed the Prospect's portion inside a company called Wapping Heritage Holdings Number Two, which owns nothing else and has no employees. The company is registered at an address where three hundred and twelve other companies receive their post.
 
-It is real. But the tourists see the version in their guidebooks — the quaint exterior, the river view — not the Company ships that used to pass this window, not the men loaded onto them along with the pepper and the opium, not the money and the bodies the river has carried. They see what they came to see. No particular cruelty in that. Just the ordinary habit of mistaking the surface of a thing for the thing.
+None of this changes who pulls the pints tonight. That is one of the useful features of modern finance: the cause can move several times without requiring the consequence to move at all.
 
-Across the river, towers stand where none stood before — dozens of them, glass and steel, doubling the sky back at itself until the skyline looks copied and pasted into infinity. Canary Wharf sits on the old West India Docks, built 1802, once the largest enclosed docks on earth. Sugar, rum, cotton, timber, and the men who unloaded it all. Now it's banks and hedge funds doing, in better shoes, what the Company did — moving money, extracting value from labour none of them will ever see.
+Across the river, the towers begin switching on floor by floor.
 
-* * *
+At half past six Gerald Vale enters the Prospect carrying no umbrella and no visible trace of the rain.
 
-## II. The Student of the Company
+"Jerry," he says, offering Hannah his hand. "Albion Reach."
 
-The suits arrive on a schedule you could set a clock by — five o'clock the early ones, wound tight off the trading floor; six the main wave, still in packs; half six the stragglers, one more call finished before New York closes.
+He is in his early forties, perhaps. Navy suit, open collar, shoes constructed for floors that have never sloped. He has the easy health of a man whose appointments wait for him and the easy manners of someone who has learned that anger is most useful when delegated.
 
-This one's a straggler, alone, which is unusual — navy suit, no tie, shoes that cost more than most people's rent. Orders a Mudlark IPA, drinks half in one go, and exhales like the day is finally leaving his shoulders.
+Hannah does not take the hand. She places the recorded letter between them.
 
-He's reading something on his phone. Looks up at the towers across the river. Back at the phone. Making a connection.
+"You bought our debt."
 
-News has entered this room by proclamation nailed to a post, by a sailor reading a newspaper aloud and badly, by a boy from the Times with a notebook, by wireless, by siren. Tonight it arrives silently, straight into one man's palm, and shares itself with nobody.
+Jerry glances at the envelope as though pleased it arrived. "Part of it."
 
-This place, he says to Hannah. The East India Company lot used to drink here, right?
+"There are parts?"
 
-Some of them, probably, she says. It was a sailors' pub. Anyone with a boat came through.
+"There are always parts."
 
-Incredible, he says. He means: I just read about this and want to talk about it.
+He orders a Mudlark IPA and chooses the third stool.
 
-Hedge fund manager, almost certainly — the laptop bag has a logo from a firm that clearly commissioned its branding before it had much else to brand. He trades. Doesn't make anything, grow anything, build anything. Moves money from one column to another and keeps a slice, and the slice bought the suit and the phone and this pint.
+Hannah asks him to choose another.
 
-What he's found on his phone is the East India Company as a business case study. Joint-stock model. Capital pooling. Shareholder returns. He's excited the way finance people get excited by a case study — academically, no horror attached. He's come here because it's authentic, because he wants to sit where the original sat and feel some line running between what he does and what they did. He doesn't see the irony — that his glass tower stands on the docks where the stolen goods came off the ships. He sees a business model made real over a good pint.
-
-* * *
-
-## III. The Experience
-
-She comes in with her husband — matching rain jackets, which is either a coincidence or a choice, and neither option is good. American, loud in the friendly way, not the rude way. She has an actual paper guidebook open to a photo of this pub and a rating: four out of five stars. Hard to say what the missing star's for.
-
-This is the one, she tells him. Oldest pub on the Thames. Fifteen twenty.
-
-That's old, he says, with the reverence of a man from a country that calls 1975 historic.
-
-She photographs the bar, the fireplace, the river, him, then both of them, then reviews and deletes two and takes one more. Behind them, a man at the bar is trying to convince his mate that the football score he's just been texted cannot possibly be right, and won't be talked down from it.
-
-Her husband rests his pint on the small table by the window and it rocks, just slightly, enough that the beer threatens the rim. He glances underneath, finds nothing obviously wrong, shrugs, and folds his coaster in half, wedging it under the short leg the way people have apparently been doing at this exact table for the better part of two centuries. Fixed, he says, pleased with himself, and doesn't think about it again for the rest of the evening, which is exactly how a two-hundred-year-old repair is supposed to go unnoticed.
-
-Five hundred years of people drinking here, she says, sitting now with her Pimm's. Can you imagine?
-
-That's a lot of beer, he says. She laughs.
-
-There's no cruelty in it. They're tourists, consuming the past the way you consume a meal — in portions, with a rating attached. She walks to the window and photographs the towers across the river too.
-
-What are those buildings?
-
-Bank buildings, I think.
-
-They're beautiful.
-
-They are. That's the trouble. The machine has always been beautiful — the Company's ships were beautiful, its headquarters on Leadenhall Street was beautiful. Empires are beautiful from a distance. From underneath, less so. But from across the river on a clear evening, glass catching the light, nobody needs to know the rest of it to enjoy the view. The pub's heritage section doesn't mention the Company. The Company isn't part of the brand.
+He does, pleasantly, without asking why.
 
 * * *
 
-## IV. Tea
+## II. The Student
 
-He comes in at eight — not a tourist, not a suit. High-visibility jacket, steel-toed boots scuffed from miles of concrete. Somali, audible in the phone call he takes by the door, a sound this river has heard before, back when the word for it was Lascar and the Company brought men like him over by the thousand, paid them less than English crew, and left them here once the unloading was done. Some things change their name and keep their shape.
+Jerry knows the East India Company.
 
-He orders tea, not a pint. Hannah pours it without comment. He holds the chipped mug in both hands for the warmth of it, not for the tea.
+This is the first thing about him that the room gets wrong.
 
-His phone rings. He answers low, turns half away from the room, says something short, hangs up. His body's in Wapping. The rest of him is somewhere else — Mogadishu, Hargeisa, wherever home actually is. Home is never here for men who load containers. Here is just where the work is.
+The suit, the phone and the tower across the water encourage a familiar kind of contempt. Hannah assumes he has read half an article about the first multinational and come to admire the dividends without finding Bengal. She has served that man before. He comes in packs at six, says *joint stock* as if he discovered it and leaves the word *famine* folded beneath his coaster.
 
-The room has always held more languages than it admits — Cantonese rules recited at dawn, Swedish grief with its floors and walls, a wife's four words of English, a Lascar's three — words that crossed the world and kept their furniture. Somali is just tonight's.
+Jerry has read the books.
 
-Ten feet away the hedge fund manager is still reading about the Company on his phone. Same pub, same evening, same river. One moves money, the other moves boxes, and the chain between them is long enough that neither will notice it tonight.
+"Two hundred and eighteen original subscribers," he says. "Sixty-eight thousand pounds. Separate voyages at first, then permanent joint stock. The innovation wasn't trade. Trade was old. The innovation was continuity."
 
-He finishes his tea, pulls his jacket tight, and looks once at the river before he goes back out into the cold.
+Hannah stands opposite him with both hands on the bar.
 
-Hannah never rings the tea through. There is no slate behind this bar anymore — the card machine did for it years back — but every keeper of this room has kept one in her head, because a bar that cannot owe and be owed is only a shop. A week of grace chalked for a dockworker in the crash of '72; a rigger's wife's old slate settled with a flowerpot; tonic water written under candles and pipe-clay; a mended bodice paid for and never collected. The tea goes on the same ledger, the one nobody audits: the house's counter-book, four centuries old, in which every entry is eventually forgiven, which is exactly what makes it the opposite of every other ledger in this story.
+"The innovation was an army."
 
-* * *
+"Later."
 
-## V. Thirty Percent
+"And Bengal."
 
-The hedge fund manager has found an audience — the American husband, trapped at the bar for a second pint and too polite to leave.
+"Later."
 
-Thirty, thirty-five percent annual returns, the hedge fund manager says. For decades. Nobody's hedge fund does that today. And the joint-stock model — they invented it. A hundred investors pool a few hundred pounds each, suddenly you've got a fleet and a private army. Every IPO on the Exchange traces back to a room in 1599 asking what if we pooled our money and went to India.
+"And opium."
 
-That's pretty cool, the husband says. He means it. He's on holiday, allowed to find things cool.
+"Also later."
 
-Cool isn't the word. Foundational. First multinational. First board of directors. First corporate lobbying operation too — they had men in Parliament before most people knew what Parliament was.
+He is not embarrassed by the list. He arranges it.
 
-He's right about the facts. What he doesn't mention: the opium, the largest drug-smuggling operation in history, built to cover Britain's tea habit. Bengal, and ten million dead in the famine his own Company's tax policy helped cause. He doesn't mention it because he doesn't know it, or because he's filed it under *historical context*, which is where inconvenient facts go to stop being asked about.
+"I'm not defending them," he says. "I'm saying everyone concentrates on the cargo. Pepper, tea, cotton, opium. The cargo changed. The structure survived. That is the interesting part."
 
-This room has heard this same explanation change its clothes for four hundred years. Exploration, then trade, then civilisation, then governance, then history. Tonight, a case study. The explanation keeps changing. The thing being explained does not.
+"To you."
 
-He's pleased with himself — feels he's honoured the place by knowing its business model. He hasn't. He's consumed its mythology the same way the tourist consumed its postcard. The history here isn't a business lesson. It's a warning. Warnings don't return thirty percent.
+"To anyone who has a pension."
 
-* * *
+There it is: not ignorance but scale, applied like a clean cloth over a wound. Everyone participates. Everyone benefits. Responsibility distributed until no single hand appears to be holding it.
 
-## VI. The Officer's Drink
+Jerry turns his glass once on the wood. "The Company learned something very early. If an enterprise becomes important enough to the state, its private risk stops being private."
 
-Two juniors from the five o'clock wave, ties in pockets, second round. One orders a gin and tonic — a double, the good tonic — because it is 2019 and gin has a menu in this pub now, forty bottles long, the parish poison of 1750 reborn at twelve pounds a serve.
+"It went bankrupt."
 
-His colleague makes the face, and says the thing. It doesn't need printing. It is the tired little insinuation that has attached itself to certain glasses since some forgotten mess dinner — a joke whose entire ambition is to make another man account for his drink, and whose entire wit is the eyebrow it arrives with.
+"It was rescued."
 
-The man with the gin doesn't look up from his phone. He lets the remark stand alone in the middle of the room until even its owner can hear it — which takes about three seconds, and visibly feels longer.
+"People starved."
 
-Hannah sets the glass down with the only garnish this house keeps: Officer's drink, that. Quinine against the malaria, bitter as a lawsuit; the gin and the lime are to get it down. Every man who ran the Empire east of Suez drank them on doctor's orders. Most imperial object in this building — and I'm counting the beams.
+"Both statements can be true."
 
-Cheers, says the man with the gin, mildly, to the room in general, and drinks. It is the last worn coin of four centuries of toasts this bar has taken — for King William, to nothing, to absent friends — melted down by use into one word that swears allegiance to nothing but the next mouthful.
-
-The room has watched drinks change their clothes for four hundred years, the way it watched explanations do. Dutch physic becomes English courage; mother's ruin becomes a gentleman's measure; the fever ration of the hardest men the Empire ever exported comes home, loses its malaria, and is asked to answer for its manliness by a man whose bravest daily act is hitting reply-all. It was an insult when it arrived in 1603, too. The drink has outlived everyone who ever needed it to say something about the man holding it, and it isn't finished.
+He says this without triumph. It is the answer of a man who believes contradiction is not a moral problem but a diversified position.
 
 * * *
 
-## VII. The Same River
+## III. The Rescue
 
-The Somali man comes back in from his call, cold riding in with him. Same stool, same mug, another tea. Three feet from the hedge fund manager now, Hannah pouring for both of them at once.
+Jerry opens no laptop. He has memorised the offer.
 
-The hedge fund manager glances over — the kind of glance that registers a person and dismisses them in the same half-second. Sees a hi-vis jacket. Doesn't see a name, a family, a country made both closer and further away by the same supply chain that built his tower. Sees labour. A component. The way a driver sees the road but never the tarmac underneath it.
+Albion Reach will provide capital for urgent repairs. The cellar cooling, roof, electrics and river wall will be brought into a single conservation programme. The public rooms will remain a pub. The name will remain. The fuchsia will remain. Nobody, he says, wants to touch the fuchsia.
 
-The Somali man doesn't glance back. Doesn't need to. He knows exactly what a Canary Wharf suit looks like — sees a dozen a day, riding past in taxis, shoes worth a month of his rent, sharing his exact stretch of river in a completely different economy. He loads the containers that carry the goods that men like this one eventually price and trade. The chain runs straight through this room tonight, the way it always has, and neither of them says so, because saying so costs more than either has to spend on a Tuesday.
+Wapping Heritage Holdings Number Two will take the freehold as security. The pub company will lease the building back. Albion Reach will license the name, historical material and visual identity to a separate brand company. The upper rooms will become a private dining and members' space. The unused store will become a heritage room available to schools on selected mornings and corporate groups at other times.
 
-On his way out, there's half a second — the hedge fund manager looks up, their eyes almost meet, the Somali man gives the small nod one stranger gives another: *I see you, that's enough.* The hedge fund manager nods back, automatic, not quite seeing him at all. Then the door shuts and he's gone, back to whatever bus takes him to wherever he actually lives, which isn't here, which is never here.
+"So you buy the building with money we pay you in rent."
 
-At low tide, on the foreshore below the gallows, the mudlarks work the mud with trowels and licences — hobbyists now, where the trade used to be hunger. One of them comes up the stairs at dusk with the day's take in a tobacco tin and shows Hannah, for the price of a pint, the best of it: clay pipes, a musket flint, a garter buckle. And one coin. Gold, thin as a fingernail, stamped with writing that runs the wrong way and no king's head she knows. Foreign, the mudlark says. Old. Sailor dropped it, probably. Hannah turns it over twice and hands it back, and the river, which has held the question since before this house had glass in its windows, says nothing whatsoever about the others.
+"The fund supplies the capital."
 
-Somewhere across the river, in a terraced house in Bow, a great-great-granddaughter of a Causeway chandler and a Swedish sailor off the timber ships keeps three things she has never connected: a fuchsia in the yard that predates every fence around it; the steadiest hands in her school's first-aid course; and, at the back of a wardrobe, a parcel wrapped in paper gone the colour of weak tea — her grandmother's grandmother's, never to be thrown away, never to be opened. She could not tell you why. She keeps it anyway. Some families keep things the way some buildings do. In this part of London it runs in the blood and the brickwork both.
+"And the council supplies the conservation grant."
 
-The river doesn't care who's drinking and who's carrying tonight. It carries the tea, the gin, the containers, the money, all of it, without preference. That's what rivers do.
+"If approved."
+
+"Will it be?"
+
+Jerry gives the smallest pause of the evening.
+
+"We have had constructive conversations."
+
+The programme has not been announced. Hannah knows this because the local paper rang yesterday asking whether she had heard a rumour.
+
+"Who with?"
+
+"Stakeholders."
+
+"People with names?"
+
+"Usually."
+
+He smiles, not because the answer is funny but because he expects Hannah to recognise the boundary and admire how gently he has marked it.
+
+Albion Reach has already acquired two neighbouring leases through different companies. One will become serviced flats. The other will remain, according to the planning language Jerry quotes, culturally permeable.
+
+"What's culturally permeable?" Hannah asks.
+
+"It means the public can enter."
+
+"A shop."
+
+"Probably."
+
+The Prospect will not close. Jerry repeats this three times. A building can stay open while every reason its old customers entered is priced out of it. He calls that continuity too.
+
+Hannah reads the rent figure again. It is manageable in year one. In year four it is not. In year seven no public house that sells ordinary beer to ordinary people could pay it.
+
+"Those are projections," Jerry says.
+
+"They are numbers."
+
+"Exactly."
 
 * * *
 
-## VIII. What Hannah Found
+## IV. Abdi
 
-The refit happens in January, when the tourist season's thinnest and the brewery finally agrees to the new cellar cooling system it's been promising since the autumn. Three days, the contractors say. It takes five, because nothing about a building this age goes to schedule, and on the third day, pulling the old bar counter away from the wall to run a cable behind it, one of them finds a gap in the timber that isn't structural — too regular, too deliberately worked, low enough that you'd have to duck and reach to find it at all.
+Abdi Warsame arrives with the glasswasher part at seven twenty.
 
-Hannah — the latest of the line of keepers that has run this bar aunt to niece to daughter since before anyone could say, all the way back, if you follow it far enough, to a Swedish widow nobody remembers, though she's never made a thing of it, the way none of the keepers ever have — is the one who actually puts her hand into it. Her gran mentioned something once, years back, half a joke over Christmas dinner: don't ever let them rip that old counter out without checking underneath it first, whatever you do. Family superstition, Hannah always assumed. The kind every family has about some floorboard or houseplant that nobody remembers the reason for and nobody wants to be the one who's wrong about ignoring.
+He should have arrived at four. The supplier changed courier contracts in the spring, then changed them again in August. The drivers now collect from a depot outside Enfield, cross London in hired vans and are paid per successful stop. Traffic belongs to them. Parking fines belong to them. A customer not present at the delivery address belongs to them. The route belongs to an application that has never carried a box upstairs.
 
-She isn't wrong.
+Abdi comes through the door wet, apologising, with the part under his jacket. Hannah knows his name because he has delivered here six times. Jerry sees a high- visibility coat and stops seeing.
 
-Her hand finds a scored patchwork of notches first — dozens of them, worn soft at the edges, cut by more than one hand over more years than she has any way of counting. Then, wedged further back where a draught's kept it dry longer than seems possible: a small brass thimble, tarnished black. A sheet older even than that, foxed to the colour of weak tea and gone soft as cloth, unfolding under her fingers with the reluctance of a thing that means to come apart in them — only a few words giving themselves up, pressed hard enough once to have half-cut the grain: a place that might read Amboyna, a name that might read Towerson, and a number. A twist of paper, brittle at the folds, ink faded to the colour of the wood around it, a handful of words about a ship called the Quedagh Merchant and a name — Nathaniel Cross — still legible if she tilts it to the light. And behind that, less old, its blue cover gone the grey of everything left in the dark too long: a notebook, pencil still in the spine, dates in a neat clerk's hand running from September to a page that simply stops, mid-list, mid-war, mid-sentence almost, as though someone meant to come back to it and didn't, or did, and just never needed to add another line.
+"Tea?" Hannah asks.
 
-Hannah sits on the floor behind her own bar for a long time, holding four hundred years in one hand and no idea, yet, what any of it means.
+"If I stop, I lose the next one."
 
-That's, um. She doesn't finish the sentence either.
+"Then hold it while you sign."
 
-She reads the notebook there on the floor, cover to cover, by phone-light. Dates, tonnages, streets that stopped existing between one entry and the next. And in the middle of the worst month, once, a line that isn't damage: Fuchsia flowering, west sill. Hannah looks up, through the doorway, to where six baskets of the same plant are flowering over the front door this minute — split and re-potted by every keeper since, herself included, because you do it the way it's always been done. Whoever kept this book stopped once, mid-catastrophe, to write down that a flower was managing. Hannah decides, on the floor, in the dust, that it is the most useful thing anyone has ever told her about the war.
+She pours before he can refuse again.
 
-She doesn't call the brewery. Doesn't call a museum, not yet — not until she's had longer than an afternoon to decide what a discovery like this is actually for. She photographs it, properly, the way none of this book's tourists have ever photographed anything, and puts the four objects back exactly where she found them, and asks the contractor, with more force in her voice than the job requires, to leave that section of the wall precisely as it is.
+The new part does not match the old one. Abdi notices first. The flange has four holes where the machine requires three, and the spacing is wrong.
+
+"They changed the stock code," he says. "Warehouse said same fit."
+
+Hannah places both pieces on the bar. Jerry looks at them despite himself.
+
+"Can it be adapted?" he asks.
+
+"Anything can," Abdi says. "Question is whether it should."
+
+Elias Tregowan would have approved of the answer, though nobody in the room knows his name.
+
+Abdi photographs the pieces together, records the wrong number and calls the depot. He speaks Somali first to someone at home, English to the controller and the private language of workers to Hannah: two fingers raised where the phone cannot see them.
+
+Jerry watches the process. "Your firm is in the Northreach group?"
+
+Abdi nods.
+
+Albion Reach owns a position in Northreach. Not the company, Jerry explains. A position. Debt, options, an agreement contingent on performance. Three months earlier Jerry approved a memorandum describing the courier division as labour- heavy and operationally undisciplined. Its recommendations removed paid waiting time and transferred vehicle costs to drivers. The savings improved the quarter.
+
+He does not mention the memorandum. He asks whether the new routes are efficient.
+
+Abdi looks at him. "For who?"
+
+Jerry laughs. He likes a direct answer when it cannot alter a decision.
+
+On the way out, Abdi's tea finished and the wrong part under his jacket again, Jerry gives him twenty pounds.
+
+"For the wasted trip."
+
+Abdi hesitates, then takes it. Twenty pounds is twenty pounds. Refusing a man's attempt to feel decent does not make the route shorter.
+
+Jerry returns to the bar pleased with nothing he would call pleasure. He has been fair to a worker.
+
+The memorandum remains in force.
+
+Hannah does not ring the tea through.
 
 * * *
 
-## IX. What Doesn't Show in the Photograph
+## V. The Gap in the Timber
 
-The bar empties the way it always does — tourists first, back to their hotels; suits next, back to their towers; the stragglers last, the ones for whom this is a place and not an experience. Hannah wipes down, turns off half the taps, stacks the coasters.
+The Cache was found in January.
 
-The room holds what it always holds: everything that's happened in it, unevenly remembered. A contract folded and unfolded on this bar four centuries back. A man's shaking hands. A number somebody couldn't stop repeating. A triangle drawn in spilled ale. A woman watching for a husband who never came. A confession about a well. A shareholder's ten and a half percent. A notebook filling up with bombs. Four of those things are sitting in a gap in the timber a few feet from where the hedge fund manager had his pint tonight, found and photographed and put back, and even now they explain almost nothing — a thimble, two scraps of paper, a notebook that stops mid-sentence, four objects standing in for everyone in this book who left nothing behind at all. None of it is on the walls. None of it is in the heritage section. The beams don't announce what they've seen. A building doesn't testify — it only stands, and leaves the noticing to whoever happens to be standing in it.
+A contractor pulled the old counter forward to run a cable and discovered a worked hollow where no hollow should have been. Hannah reached inside because her grandmother had once told her, half joking and half not, that no one was ever to remove that part of the bar without checking behind it.
 
-And under all of it, older than any cargo, the room's longest-serving trade: the women who waited. For boys who signed. For a factor three years silent. For a husband off a Company ship. For a rigger in the Brazils with a plant between his knees. For a fireman son in a burning dock. The marks Maggie cut under the counter were the first entries in that ledger, and it is the only one this book has never once needed to explain, because every century has known how to read it on sight.
+Her hand found notches cut into the timber by more than one blade. A blackened brass thimble. Paper gone soft as cloth. A name that might be Nathaniel Cross. A blue notebook containing dates, streets, tonnages and one line written during the worst month of the Blitz: *Fuchsia flowering, west sill.*
 
-Most nights, not much gets noticed. The tourist's photographs hold a room, tastefully lit, four stars out of five, and none of the four hundred years the guidebook promised her. The hedge fund manager doesn't photograph anything — the case study's already filed away as inspiration, everyone it was built on stripped out of the file. The room doesn't especially remember him either. He's one of thousands who've warmed their hands here on a drink they didn't order for the taste.
+There was also a folded sheet she had not understood until she took photographs and enlarged them. A list of names beside marks. The first was simply Tom. After it, in another hand: *signed Thursday*.
 
-That's the ordinary condition of the place. It holds more than anyone passing through will ever ask to see. None of it is contradicted by the eight taps and the gift shop. It simply isn't required by them — the way a ledger can sit accurate and true in a drawer for two hundred years, no longer opened, no longer asked.
+Hannah returned everything to the hollow. She told nobody except the contractor, whom she made promise that the section would remain untouched.
 
-Outside, the tide is going out. It'll be back in six hours and gone again six after that, on a schedule older than the Company, older than the docks, older than the towers across the water. It has never once been wrong about what it is: water, moving toward the sea, indifferent to what it's asked to remember.
+The contractor told his supervisor. The supervisor included "possible archival material" in the condition report. The report entered the lender's data room. When Albion Reach bought the debt, Jerry bought the report.
 
-Hannah's own drink, when the last lock is turned, is a gin and tonic — a habit she has never once examined — taken standing at the dark window, where the streetlight catches the fuchsia over the door. Quinine, juniper, lime: the empire reduced at last to something a woman can hold in one hand, drunk in ten quiet minutes beneath a flower that crossed the same ocean for love. She rinses the glass and sets it to drain.
+"We'd like to catalogue what was found," he says.
 
-The last light goes off over the bar. The building settles, one small private creak in old timber — the sound of something old absorbing, without comment, one more evening it won't be asked about tomorrow.
+It is the first moment Hannah is frightened of him.
+
+Not when he discusses the lease. Not when he reveals the conversations that occurred before the public programme existed. Those belong to the ordinary weather of ownership. This is different. He has reached into a private place inside the building without leaving his tower.
+
+"Nothing was found."
+
+"The photographs in the report suggest otherwise."
+
+"You have photographs?"
+
+"One. Poor quality."
+
+The contractor had photographed the hollow before Hannah arrived. Empty, but for one corner of blue cloth and the scored wood.
+
+Jerry's proposal includes conservation, digitisation and exclusive exhibition rights. The objects would remain physically associated with the site whenever practicable. Their images, transcripts, adaptations and commercial use would belong to the brand company in perpetuity.
+
+"You want to copyright dead people's handwriting."
+
+"We want to prevent misuse."
+
+"By anyone but you."
+
+"By unauthorised parties."
+
+He offers Hannah a role. Historical custodian. Two days each month, additional salary, her name on the exhibition panel. She would select the stories with visitor appeal and work with consultants to make the material accessible.
+
+"Accessible to whom?"
+
+"Everyone."
+
+"At what price?"
+
+"That hasn't been modelled."
+
+It has. Everything else has.
+
+* * *
+
+## VI. Thirty Percent
+
+Jerry does not deny the famine.
+
+This is what makes him more difficult than the man Hannah first mistook him for.
+
+"Ten million is the upper estimate," he says.
+
+"Is that meant to improve it?"
+
+"No. Precision matters."
+
+"To the dead?"
+
+"To history."
+
+He knows about Plassey, the revenue settlement, the bailout, the Tea Act and the opium auctions. He knows Parliament rescued the Company while disciplining it, and that the rescue extended the system rather than ending it. He knows the language of monopoly, delegated sovereignty and regulatory capture. He knows exactly why the Company does not belong on an inspirational slide.
+
+He uses it anyway.
+
+"You think I admire the violence," he says. "I don't. I admire the institution's ability to survive its own errors."
+
+"They weren't errors to the people making money."
+
+"Some were. Some weren't. Motive is less useful than structure."
+
+"Useful again."
+
+"Would you rather understand it or condemn it?"
+
+"Those aren't opposites."
+
+Jerry drinks. For the first time that evening, she has irritated him.
+
+"The world is allocation," he says. "Capital, labour, risk, attention. If we don't allocate them, someone else does, usually worse."
+
+"The Company conquered countries."
+
+"We allocate capital."
+
+He hears the sentence and likes it. Hannah watches him file it for later.
+
+Behind him the American tourists at the river window photograph the towers. They are beautiful. That has always helped.
+
+* * *
+
+## VII. Heritage
+
+Jerry stays after the tourists leave.
+
+He produces a second document. This one is for Hannah alone: confidentiality, cooperation and assignment of any claim she might possess through family custody or discovery. The payment is enough to clear her mortgage.
+
+"How do you know about my family?"
+
+"You told the local paper your aunt kept the pub before you."
+
+"That isn't my question."
+
+Albion Reach commissioned genealogy. Public records, Jerry says. Nothing improper. Maggie's line cannot be proved through every generation, but there is enough continuity for marketing and enough uncertainty for legal caution.
+
+The proposed exhibition title is already on the page:
+
+**THE WOMEN WHO KEPT THE RIVER.**
+
+Under it, in smaller type:
+
+**An Albion Reach Heritage Partnership.**
+
+Hannah laughs. She cannot help it.
+
+"You found women waiting four hundred years and put your name beneath them."
+
+"Our funding makes the exhibition possible."
+
+"Their lives made it possible."
+
+"Their lives are not available to pay for conservation."
+
+This is Jerry at his purest: no raised voice, no lie he cannot defend, no cruelty that requires him to enjoy it. The past is underused capital. The building is an asset with narrative yield. Hannah's inheritance is an unperfected claim. The public grant is leverage. Abdi is labour cost. The Prospect's survival and its extraction are not contradictory because the structure has learned to feed on the thing it preserves.
+
+"What happens if I don't sign?" Hannah asks.
+
+"Nothing tonight."
+
+"And later?"
+
+"The transaction proceeds. The new operator appoints its own staff. Historical material discovered within the secured property is dealt with according to ownership and applicable law."
+
+"You mean I lose my job and you open the wall."
+
+"I mean we would prefer continuity."
+
+The Company used that word too.
+
+* * *
+
+## VIII. The Counter-Book
+
+Hannah closes early.
+
+Jerry accepts this as a negotiating tactic. He leaves his card beneath the unsigned agreement and tells her he will return at ten the following morning with the conservation surveyor.
+
+"Don't move anything," he says.
+
+It is the only order he gives her directly.
+
+When the last customer has gone, Hannah locks the doors and turns off every light except the one above the bar. She stands where Maggie stood, though she does not know exactly where that was. Buildings shift their centres as people alter them. The floor remembers only weight.
+
+She removes the panel.
+
+The Cache is not a treasure. It is too partial for that. A thimble proves a finger. A note proves that someone wrote it. The Blitz notebook contains streets that disappeared and names that stop without explanation. Tom's mark says he signed, not what became of him. Four centuries have preserved less than Jerry's fund stores about one potential acquisition before breakfast.
+
+That is why the fragments matter.
+
+Jerry wants a complete story because complete stories can be packaged. Hannah has only interruptions. Men missing. Women waiting. Numbers entered correctly under names that made them harmless. A flower managing in a burning city.
+
+She photographs every surface with a ruler beside it. She records the order in which the objects lay. She writes where each was found and what she does not know. At two in the morning she sends encrypted copies to three places: a borough archivist, a maritime historian and her cousin in Bow, whose grandmother kept a parcel nobody opened.
+
+The originals she divides.
+
+The Blitz notebook goes into a biscuit tin, because it is the only waterproof box she owns at two in the morning. Before dawn she leaves it with her cousin in Bow, together with written instructions to deliver it to the borough archive once the archivist confirms receipt. Nathaniel's paper remains in separate family custody. The thimble stays in the wall. Tom's sheet stays too, inside a new fold of acid-free paper bought months ago for a purpose Hannah had not then understood.
+
+No single owner receives the whole account.
+
+Before dawn she replaces the panel.
+
+The hollow is not empty. It is simply no longer an acquisition.
+
+* * *
+
+## IX. Jerry Returns
+
+At ten, Jerry arrives with a surveyor, a solicitor and coffee for Hannah.
+
+He remembers how she takes it.
+
+The blue notebook is gone. He notices. The solicitor notices him noticing.
+
+"You moved secured material," Jerry says.
+
+"I put a civil-defence record in independent custody and sent a copy to the public archive."
+
+"After being instructed not to."
+
+"You instructed me not to move anything. You don't own me."
+
+"No," Jerry says. "We employ the operator that employs you."
+
+The distinction is important to him.
+
+The survey proceeds. The thimble is catalogued. The old paper is described as illegible pending conservation. The notches are measured and photographed. Jerry does not threaten Hannah again. Threats create witnesses, and he has already learned what kind of witness she intends to be.
+
+He makes one call outside by the gallows. By noon the pub company's director has left Hannah two messages. By three the conservation programme has requested a meeting. By Friday the local paper receives an announcement that Albion Reach will save one of London's most historic public houses through an innovative partnership protecting jobs, heritage and public access.
+
+The announcement is true as far as it goes.
+
+The Prospect remains open.
+
+The rent rises the following year. Two experienced staff are replaced by fewer people on shorter contracts. The upper room closes for refurbishment and reopens with a booking minimum. The heritage wall tells visitors about pirates, Dickens, gin and the first multinational company. Bengal receives forty-seven words. The famine receives twelve. Jerry's name appears nowhere except the fund's annual report, where the investment is described as an exemplary combination of social value and uncorrelated return.
+
+Hannah remains behind the bar longer than Jerry expected.
+
+She keeps no official slate. The card machine has done for slates. But Abdi's tea goes unrung, as do three meals, a taxi home and the replacement of a cleaner's coat after someone is sick over it. The house maintains a second book that no fund has found because it has never been written down.
+
+Jerry comes back once after the opening of the heritage room.
+
+He brings investors. He tells them the Company began with a subscription and became too important to fail. He shows them the old bar, the replica gallows and the scored timber. He calls the notches an early labour record. He does not call them waiting.
+
+At the river window he raises a glass toward Canary Wharf.
+
+"Continuity," he says.
+
+The investors drink.
+
+Behind the bar, Hannah unfolds the copy of Tom's sheet. One young man's name, one mark, one Thursday four centuries gone. At the beginning of the story, Tom signed because he could not see the machine waiting beyond the paper. At its end, Jerry has read the whole history and chosen the machine because he can.
+
+Outside, the fuchsia moves in the river wind. Albion Reach owns the right to photograph it. The plant has not been informed.
 
 ---
 
@@ -3028,7 +3320,7 @@ The room is the protagonist; the people are its weather. But five threads run th
 
 **The Keepers.** The bar's own lineage — a trade, not a bloodline, passed aunt to niece to daughter like a good knife. Maggie (born Margareta, from a small fishing village on the coast outside Stockholm) runs the house in 1603 and is still running it when Daniel comes home wrong in 1626. The young keeper of 1701 never met her, but the woman who trained her was trained by Maggie herself. After that the line runs Bess (1770), Martha (1839 and 1858 — nineteen years older behind the same counter), Flo (1880 and 1888), Vera (through the bombs of 1940), and Hannah, who keeps the bar today and finds what all of them kept.
 
-**The Cache.** Maggie starts it in 1603: a gap under the bar counter where she cuts one notch for every young man who signs and ships out. Four objects join the notches across three centuries, each left by someone at the moment of their hardest choice, and no one who leaves one ever knows about any of the others. Tom's mother's thimble (1603). Daniel's true account of Amboyna (1626) — the sentence the Company's deposition refused to hold. Nathaniel's testimony about Kidd's buried French passes (1701). Gwen's wartime notebook (1940). Only the building holds all of it, until Hannah finds the hoard during a cellar refit in 2019 — counts it, understands none of it, and leaves it exactly where it lies.
+**The Cache.** Maggie starts it in 1603: a gap under the bar counter where she cuts one notch for every young man who signs and ships out. Five objects join the notches across three centuries, each left by someone at the moment of their hardest choice, and no one who leaves one ever knows about any of the others. Tom's mother's thimble (1603). The keeper's folded sheet of names beside marks — *Tom* first, and after it, in another hand, *signed Thursday*. Daniel's true account of Amboyna (1626) — the sentence the Company's deposition refused to hold. Nathaniel's testimony about Kidd's buried French passes (1701). Gwen's wartime notebook (1940). Only the building holds all of it, until Hannah finds the hoard during a cellar refit in 2019 — and, when a fund arrives to buy the meaning of it, divides the custody so that no single owner ever receives the whole account: the notebook to the public archive by way of Bow, Nathaniel's paper to family keeping, the thimble and the sheet staying in the wall.
 
 **The Practice — the Canton thread.** A martial art, a bonesetter's trade, and a folded wooden fan, carried from a Canton factory lane to a Wapping laundry yard by the war the Company started over opium. The lane's master splinted the very wrists his art broke — dockhands, brawlers, and, around 1772, one foreign sailor named James Holman, who never knew what lane he had been lucky in. Hale's old master (1839) was taught as his teacher's teacher before him, in the line that lane had always made. Wei Zhang carries the practice, the fan, and the white bowl to London; his daughter Su carries all three into a November alley in 1888. No character ever traces the lineage. It lives in the repeated image: the gentlest hands in the lane belonging to the most dangerous man in it.
 
@@ -3042,7 +3334,7 @@ The room is the protagonist; the people are its weather. But five threads run th
 
 **PART ONE — THE VENTURE**
 
-**1603 · The Boy Who Signed.** Twelve souls in the room the night the debt changes hands, and the count never varies in any telling. **Tom**, a boy with twenty pounds' bounty and a paper in his pocket. **Maggie**, keeper — Margareta of the Stockholm coast, twice widowed, who gives him the odds straight: more than a hundred of the first fleet's four hundred and eighty dead before the Cape. **Rook**, who demands the room witness the sale of a woman's debt and is priced out by his own court, and **Mara**, who refuses to be property with thrown ale, a kicked stool, a mug across a wrist — and one sentence about a paper that spells her name wrong. Around them, the eight the parish knows by office and by name: the **old docker**, whose sentences are filed with the tide tables; the man with the **graveyard cough**, whose dying makes him the one witness money cannot buy; the **two tar men**, who agree for the first time all winter; the **snow bettor**, who has booked every wager in the house and never once a soul; **Carter** the rope-and-tar chandler, first of the Wapping trade families, who rules that a true paper may be bought but never torn; **Ned** the young lighterman, who answers with water-law; and **Pell** of the Red Dragon, home from the first fleet, who has seen what happens when people are written into the cargo column. Maggie's one sentence raises the room; the room's twelve voices, not its fists, settle the debt at one coin, bought and witnessed. *Threads: the Keepers begin; the Cache begins as notches; the room sits as a court for the first time; the Johansson line waits, unstated, in the son on a Swedish deck.*
+**1603 · The Boy Who Signed.** Twelve souls in the room the night the debt changes hands, and the count never varies in any telling. **Tom**, a coastwise seaman taught by his boatswain father, signing before the mast for the second voyage with half his wages assigned to an inherited Levant-trade debt. **Master Harcourt**, the unseen creditor, has merely moved his capital beneath the East India Company's new seal. **Maggie**, keeper — Margareta of the Stockholm coast, twice widowed, who gives him the odds straight: more than a hundred of the first fleet's four hundred and eighty dead before the Cape. **Rook**, who demands the room witness the sale of a woman's debt and is priced out by his own court, and **Mara**, who refuses to be property with thrown ale, a kicked stool, a mug across a wrist — and one sentence about a paper that spells her name wrong. Around them, the eight the parish knows by office and by name: the **old docker**, whose sentences are filed with the tide tables; the man with the **graveyard cough**, whose dying makes him the one witness money cannot buy; the **two tar men**, who agree for the first time all winter; the **snow bettor**, who has booked every wager in the house and never once a soul; **Carter** the rope-and-tar chandler, first of the Wapping trade families, who rules that a true paper may be bought but never torn; **Ned** the young lighterman, who answers with water-law; and **Pell** of the Red Dragon, home from the first fleet, who has seen what happens when people are written into the cargo column. Maggie's one sentence raises the room; the room's twelve voices, not its fists, settle the debt at one coin, bought and witnessed. *Threads: the Keepers begin; the Cache begins as notches; the room sits as a court for the first time; the Johansson line waits, unstated, in the son on a Swedish deck.*
 
 **1603 · Dutch Courage.** **Hendricks**, the Dutch waterman who has seen the VOC's arithmetic up close and gives Tom the truer warning — that you can win a fight but not a Company — and who alone remembers Maggie arriving. Tom signs anyway, and leaves his mother's thimble with Maggie "till I'm back." He never is. *Cache: the thimble, first object in.*
 
@@ -3080,7 +3372,7 @@ The room is the protagonist; the people are its weather. But five threads run th
 
 **PART SIX — AFTERLIVES**
 
-**2019 · What the Suit Didn't See.** **Hannah**, the latest of Maggie's long line of keepers, who during a cellar refit finds the notches, the thimble, the true copy, the testimony, and the notebook — and leaves all of it exactly as found. **The suit**, who moves money from one column to another and keeps a slice, and sees nothing. An American tourist's husband wedges a coaster under a lopsided table, oblivious, and ends a 180-year wobble. And across the river in Bow, a great-great-granddaughter of a Causeway chandler and a Swedish sailor keeps three things she has never connected. *Every thread ends here, and only the reader — and the building — knows it.*
+**2019 · What Jerry Bought.** **Hannah**, the latest keeper, discovers that preserving a building can become another method of extracting it. **Gerald "Jerry" Vale**, hedge-fund manager at the fictional Albion Reach Capital, knows the Company's crimes and admires the structure that survived them. **Abdi Warsame**, a courier harmed by a policy Jerry approved and helped personally by the same man, exposes the distance between private kindness and institutional responsibility. Hannah divides the Cache so Jerry may acquire the property transaction, but never exclusive ownership of its memory. *Tom begins the cycle unable to see the machine beyond the paper; Jerry ends it choosing the machine because he can.*
 
 * * *
 

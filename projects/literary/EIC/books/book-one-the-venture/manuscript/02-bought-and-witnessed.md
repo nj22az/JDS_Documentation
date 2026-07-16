@@ -36,7 +36,7 @@ He is wrong, of course. A paper with a person attached is not weather, and half 
 
 She pours and does not spill any. Spilling is what he wants; a beast that stumbles invites the stick, and the stick, here, in public, would establish things it profits him to have established. So the jug stays level and her face stays nothing and she walks the room's tables in an order she chooses herself, which no one notices, which is the point: the last small country a person owns is the order in which she does what she cannot refuse to do.
 
-At the corner table a young man sits with ink on his fingers and one hand flat on a folded paper, and when she fills his cup her sleeve draws back off her wrist, and she sees him see the bruising — old under new, stacked, a ledger of a thing that has been happening a long while — and she moves on before his face can finish deciding what it thinks. She has no use for what his face decides. Faces decide things all day. It is hands and rooms that do or don't.
+At the corner table a young man sits with tar beside his nails and one hand flat on a folded paper, and when she fills his cup her sleeve draws back off her wrist, and she sees him see the bruising — old under new, stacked, a ledger of a thing that has been happening a long while — and she moves on before his face can finish deciding what it thinks. She has no use for what his face decides. Faces decide things all day. It is hands and rooms that do or don't.
 
 She is refilling at the counter when she hears the stool go back.
 
@@ -46,7 +46,7 @@ Tom stands and crosses to the table. Not fast. The room is quiet enough for him 
 
 She has heard enough, he says. It comes out smaller than he wants it to.
 
-Rook looks at him the way you'd look at a stool that had spoken. Then he smiles, because this is better sport than the auction. Then buy her, he says. Settle the debt like an honest man, writer.
+Rook looks at him the way you'd look at a stool that had spoken. Then he smiles, because this is better sport than the auction. Then buy her, he says. Settle the debt like an honest man, sailor.
 
 Tom empties his pockets onto the table: the coins meant to feed him until the ship sails, everything he owns that is not a paper or a keepsake. It is not much. It is everything. Every man in the room can count it from where he sits.
 

@@ -40,7 +40,7 @@ And once a year, at the Bartholomew-tide fair, she buys a ribbon. Good silk, a h
 
 The ship comes up on the evening tide, as promised, and the evening fills the room, as promised: dockworkers off the wet quays with their hands like old leather, a pair of them already deep in the winter's standing argument about the price of tar; the man with the graveyard cough who takes the stool nearest the fire and pays in exact coin; the one who has sworn all week it will snow before morning and has money on it, and checks the door each time it opens with a bettor's honest anguish. The tar under argument is Carter's — the rope-and-tar chandler off Wapping Wall, a fair-dealing man with a yard, a young son at home, and a settled belief that the world holds together with cordage and clean paper — and Carter himself drinks one table off and lets the argument run, the argument being free advertisement. By the door, over a half-pint made to last, sits Ned, a young lighterman of the stairs, a year out of his apprenticeship and still paying rent on his stool with politeness. And at the counter's end there is a sailor nobody has placed yet: salt-stiff, quiet, two fingers gone off his left hand, come up alone from Blackwall on the afternoon tide, drinking slowly, in no hurry at all to be worked out. Maggie has priced him already, because pricing is the trade — deep-water, paid off, carrying something heavier than his pay — and has decided, in the same appraisal, to let him carry it in peace. Steam comes up off wool coats in the fire's reach until the whole room wears a low haze, and the candles burn holes in it, and the noise settles into the good workable roar of a house doing what it was built for.
 
-He comes in around dusk, shaking rain off a cloak that has seen better years. Young. Twenty, perhaps twenty-two — near enough the age of her own boy, on whatever cold deck the Swedish Crown keeps him, and she notes that likeness the moment he crosses the sill and puts it where she puts all such arithmetic, face down, out of the working light. Ink on his fingers. A clerk's shoulders, but mill-work somewhere back down the years; the wrists say so. He orders ale, and she pours it without asking, which means he has been in before: three times this fortnight, always alone, always an hour of slow drinking with his eyes on the middle distance, always the pocket of his coat touched twice before leaving, the way a man touches a thing he is afraid to lose and more afraid to open.
+He comes in around dusk, shaking rain off a cloak that has seen better years. Young. Twenty, perhaps twenty-two — near enough the age of her own boy, on whatever cold deck the Swedish Crown keeps him, and she notes that likeness the moment he crosses the sill and puts it where she puts all such arithmetic, face down, out of the working light. Tar beside his nails, a pale seam across one palm where a wet line once ran faster than his grip. Not a deep-water man, not yet, but no stranger to a deck; coaster wrists, she prices them, and prices them young. He orders ale, and she pours it without asking, which means he has been in before: three times this fortnight, always alone, always an hour of slow drinking with his eyes on the middle distance, always the pocket of his coat touched twice before leaving, the way a man touches a thing he is afraid to lose and more afraid to open.
 
 She has his measure in other particulars too, because taking measures is the trade. He carries a second, cheaper treasure: a penny memorandum-book, wet at the corners, into which he writes words. He collects them off watermen and porters the way other boys collect scars — stops a man mid-fare to ask what the post is rightly called, and the hitch, and the difference between a wherry and a skiff, and thanks him, and writes it down on the spot, tongue between his teeth, whistling one thin note through the gap in his front teeth while he does it. The bar debated him for a week and settled, provisionally and kindly, on poet. He also tells jokes. They are terrible — long, honest, carpentered things with the ending visible from the start — and he tells them the way he does everything, leaning in, delighted, certain, and the room groans like a hull and lets him buy the next round, and he is somehow better liked for the badness of them than a wit would be for wit.
 
@@ -50,7 +50,7 @@ Maggie finishes the pour she is on, sets the jug down, and comes over. She stand
 
 You are going to sign it, then.
 
-Tom folds the paper and tucks it away. Tomorrow. Governor Smythe himself will be there. A governor and twenty-four committees. Joint stock — means the risk is shared. So is the reward, if there is any.
+Tom folds the paper and tucks it away. Tomorrow. Governor Smythe himself will be there. A governor and twenty-four committees. The berth is before the mast, common seaman, second voyage. Joint stock — means the risk is shared. So is the reward, if there is any.
 
 If there is any, she says. Not a question.
 
@@ -74,25 +74,45 @@ Twenty-two.
 
 Been to sea before?
 
-No.
+Coasters. Newcastle twice. Calais, once. I can hand, reef and steer.
 
-Right. She straightens up. So you're going to sign a paper that sends you round the Cape in a wooden box full of scurvy, to a place where the Portuguese and the weather and the food will all take turns trying to kill you, and you've never so much as been to sea.
+Your father taught you.
+
+Tom looks at the paper instead of her. He did.
+
+Right. She straightens up. So you know enough water to be useful and not enough ocean to know what is waiting. You are going to sign a paper that sends you round the Cape in a wooden box full of scurvy, to a place where the Portuguese and the weather and the food will all take turns trying to kill you.
 
 Tom says nothing. The fire cracks, sends sparks up the flue. Down the bar the tar argument has reached its nightly summit, where both men agree the price is a scandal and disagree only about whom to hang for it.
 
 What are they paying you?
 
-Twenty pounds a year. A writer's wage. Keeping the accounts.
+Eighteen shillings a month.
 
-Twenty pounds to keep books on a voyage where men start dying before the Cape. Your mother know?
+You will see nine.
+
+Tom's head comes up.
+
+I know paper, she says. Nine to you. Nine to Master Harcourt until your father's account is clean. Food and clothes charged besides, I'll wager, so the number can learn to walk away while you sleep.
+
+It is eleven pounds, six shillings and fourpence.
+
+She gives him a long look. A debt exact to the penny is a debt someone means to keep alive. Your mother know?
 
 My mother is dead.
 
 Your father?
 
-Found me the position himself. Thinks it's a good opportunity.
+Was boatswain for Harcourt's Levant ships. Smyrna, Scanderoon, sometimes Venice. Twenty-three years. The last passage took his knee. Harcourt says stores were missing when they paid the ship off — cable, two coils of running rigging, a kedge anchor. Things lost in the storm that broke him. Things in his charge.
 
-Your father thinks it's a good opportunity for his son to write numbers in a book while men die around him. She wipes the bar in front of him. Not the pepper. What else is on the manifest?
+And now Harcourt has put money into the East India voyage.
+
+Tom nods.
+
+Same man, Maggie says. New seal.
+
+He found me the berth. If I take my father's place, half-pay goes against the account.
+
+Found you the chain and called it work. She wipes the bar in front of him. Not the pepper, then. What else is on the manifest?
 
 Silk. Indigo. Cotton. Cloves from the Moluccas. Nutmeg from the Banda Islands. Worth a hundred times what they cost in London.
 
