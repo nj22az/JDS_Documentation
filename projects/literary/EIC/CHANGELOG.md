@@ -13,6 +13,12 @@ All notable changes to this project are recorded here.
 - Added 1612, 1629–1630 and 1635 chapters so Tom and Maggie's relationship now
   develops across a deliberate five-return arc ending after Maggie's death.
 - Added a Book One character bible and a reproducible Volume One assembly tool.
+- Expanded the integrated Volume One manuscript from 16,309 to 29,585 words
+  through new dramatic scenes rather than summary or atmospheric padding.
+- Added Bell's meeting with Tom before the murder, Anne Bell's refusal to
+  sanctify her husband, the coroner's clean but incomplete finding, Jack's
+  hiring-room questions and adult account, the VOC factor's written dismissal
+  of Mara's warning, Rook's tribunal and Joan's inheritance of the Pelican.
 
 ### Changed
 - Rebuilt *The Venture* as a 1603–1635 self-contained book. The earlier
@@ -30,6 +36,8 @@ All notable changes to this project are recorded here.
 - Reserved Tom's surname for Maggie's posthumous standing order in 1635, so the
   first time the narrative calls him Fletcher is also the first time he learns
   that she kept expecting him.
+- Made the counter-ledger a three-document argument: Bell's late confession,
+  Daniel Vale's true Amboyna account and Mara's ignored warning against Rook.
 
 ## [2026-07-13] (Tom and Maggie lifetime arc)
 

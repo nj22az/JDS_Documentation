@@ -26,18 +26,22 @@ Matthew Bell's murder gives the relationship its first unresolved account. Tom
 saves Mara, but the room lets Silas Rook escape while Bell dies. Maggie and Tom
 spend the book refusing the comforting fiction that a correct verdict was the
 same thing as justice. Bell's folded account begins the counter-ledger beneath
-the bar; Daniel Vale's true copy joins it in 1626.
+the bar; Daniel Vale's true copy joins it in 1626, and Mara's ignored warning
+against Rook arrives in 1630. The three papers disagree with official history
+in three different ways: a complicit clerk confesses, a survivor corrects his
+deposition, and a woman proves that a Company understood the danger before it
+called the danger useful.
 
 ## Six-chapter architecture
 
 | Chapter | Year | Tom | Maggie | Irreversible movement |
 |---|---:|---|---|---|
-| I — The Boy Who Signed | 1603 | Twenty-two, coastwise seaman, inherited debt, brave before he understands responsibility | Strong, guarded, sees her absent son in him without making Tom a replacement | Tom stops Mara's lynching; the room identifies Bell's murderer but lets him leave; Bell's account exposes Tom's debt |
-| II — Dutch Courage | 1603 | Signs despite knowing Harcourt's machinery and leaves his mother's thimble | Prices the voyage honestly and keeps both Bell's account and Tom's wager | The Company replaces Bell before noon; Tom's paper begins taking half his wage |
-| III — The Return | 1612 | Comes home a boatswain and brings sixteen-year-old Jack to sign, calling recruitment protection | Has cut a notch for every local boy the sea did not return | Maggie hears the old room's excuse in Tom's “with or without me” and throws him out |
-| IV — The Man Who Came Back Wrong | 1626 | Carries Daniel Vale into the bar and stands against the Company's attempt to purchase silence | Feeds Tom before forgiving him; gives Daniel access to the hidden gap | Daniel's true copy is placed beside Bell's account; Maggie slides Tom a pint and the fourteen-year rupture ends without absolution speeches |
-| V — The South Land | 1629–1630 | Hears what became of Rook and tries to make the room responsible for all his later murders | Refuses false nobility: Rook's murders are his; letting him leave belongs to the room | Maggie distinguishes Mara's sentence from justice: justice would have been Bell walking home |
-| VI — Last Orders | 1635 | Returns in his fifties, debt-free and permanently altered by the Company | Dead, present through Joan, the pie, her standing order and the house she kept | Tom eats before he is told, touches the thimble once, leaves it in the Cache and says goodnight |
+| I — The Boy Who Signed | 1603 | Twenty-two, coastwise seaman, inherited debt; meets Bell over the corrupt assignment hours before the murder | Strong, guarded, sees her absent son in him without making Tom a replacement | Tom stops Mara's lynching; the room identifies Bell's murderer but lets him leave; Bell dies on the table and his account exposes Tom's debt |
+| II — Dutch Courage | 1603 | Signs despite knowing Harcourt's machinery and leaves his mother's thimble | Keeps Bell's confession, hears Anne refuse the easy brave-dead-husband story and forces the inquest to record where Bell died | The official finding names Rook but edits out Mara, Harcourt and Bell's complicity; Arthur occupies Bell's chair before noon |
+| III — The Return | 1612 | Comes home a boatswain and brings sixteen-year-old Jack to sign, calling recruitment protection; then spends his own wage to alter the terms | Has cut a notch for every local boy the sea did not return; feeds Jack and gives him the questions the contract avoids | Maggie hears the old room's excuse in Tom's “with or without me” and throws him out; the hiring room proves paper can move, but only under pressure |
+| IV — The Man Who Came Back Wrong | 1626 | Carries Daniel Vale into the bar and stands against the Company's attempt to purchase silence | Feeds Tom before forgiving him; gives Daniel access to the hidden gap | Daniel's true copy is placed beside Bell's account; adult Jack supplies the mixed account of what Tom did; Maggie slides Tom a pint and ends the fourteen-year rupture without absolution speeches |
+| V — The South Land | 1629–1630 | Hears what became of Rook and tries to make the room responsible for all his later murders | Refuses false nobility: Rook's murders are his; letting him leave belongs to the room | Maggie distinguishes Mara's sentence from justice: justice would have been Bell walking home; Mara's warning becomes the third counter-ledger paper |
+| VI — Last Orders | 1635 | Returns in his fifties, debt-free and permanently altered by the Company; reads one more boy's contract without choosing for him | Dead, present through Joan, the pie, her standing order and the house she kept | Tom eats before he is told, finds all three accounts, touches the thimble once, leaves it in the Cache and says goodnight |
 
 ## Name rule
 

@@ -26,6 +26,46 @@ Three years before, on the last day of a dying century, an old woman put her sea
 
 At the far end of the bar sits Tom. He is young, perhaps twenty-two, with tar beside his nails and a pale seam of a scar across one palm. He nurses a dark ale in complete silence, dreading the paper tucked inside his coat — a contract with the East India Company he is meant to sign in the morning.
 
+He collected it that afternoon from Master Harcourt's counting room above the rope warehouse. The room smelled of pepper, wet wool and the small coal fire Harcourt allowed his clerks only when the ink began to freeze. Three copying men sat beneath the windows with their shoulders bent at the same angle, making three versions of the same cargo into three different truths: what had entered the warehouse, what the customer would be charged and what Harcourt meant to declare.
+
+The smallest of them handed Tom his contract.
+
+He was perhaps forty, narrow in the chest, decent coat gone shiny at both elbows. Ink lived permanently in the first finger of his right hand, worked so deep into the skin it looked like a bruise. He did not introduce himself. Copying men rarely did. A man collecting a contract did not need the clerk's name any more than a bale needed the name of the man who marked it.
+
+Can you read? the clerk asked.
+
+Enough.
+
+Read that line.
+
+Tom found it. Half wages to the account of his father, lately boatswain in Harcourt's Levant service, until eleven pounds, six shillings and fourpence had been discharged. He knew the figure. Harcourt's steward had spoken it in the rented room while Tom's father sat with the ruined knee stretched toward a grate nobody could afford to light.
+
+And this? The clerk's stained finger moved lower.
+
+Penalties for interruption of service, Tom read. Cost of replacement to be added to the same account.
+
+Do you know what replacement costs?
+
+No.
+
+Neither do I, said the clerk. That is why the space is empty.
+
+From behind the inner door came the soft pull of a bell. All three copying men looked up at once. The other two put their heads down again. The small man did not. For half a second he looked toward a young foreign woman waiting beside the shelves with a bundle of household accounts held to her breast. She wore a merchant's cast-off wool dress altered badly at the shoulders. When Harcourt's bell sounded a second time, she flinched before she moved.
+
+The clerk blotted Tom's contract. He had already copied the debt into it. Whatever objection had reached his mouth had arrived after the ink.
+
+If somebody told you an account was made so it could never close, he said quietly, would you still sign?
+
+Would it stop them taking the rooms from my father?
+
+No.
+
+Then I would still sign.
+
+The clerk accepted that answer with the tiredness of a man who had helped arrange it. He folded the paper and gave it back.
+
+Tom had carried the stranger's handwriting all evening without knowing the stranger's name.
+
 ***
 
 ## II. The Door
@@ -42,7 +82,7 @@ Which clerk? Tom asks.
 
 Matthew Bell.
 
-The name reaches Tom before the meaning does. Bell is one of Master Harcourt's copying men, the small neat hand on the contract inside Tom's coat. Tom has never met him. He has carried Bell's handwriting for a week.
+The face in the coal-cold counting room comes back with the name: the narrow shoulders, the ink-blackened finger, the question asked too late. Bell is one of Master Harcourt's copying men, the small neat hand on the contract inside Tom's coat. Tom met him once and did not think a clerk's name worth asking. He has carried Bell's handwriting since afternoon.
 
 Mara — the only part of her name the room will know until Bell's paper is unfolded — shakes her head frantically. She pulls against his iron grip, stammering desperately in a panicked mix of Cantonese and Portuguese. To the men of the Pelican, her pleas are only foreign noise. She cannot speak English, and so she cannot tell them that the blood on her dress belongs to the man Silas has just gutted.
 
@@ -184,7 +224,33 @@ Maggie walks over and slides the iron bolt firmly back into place.
 
 Tom and Ned find Matthew Bell beneath the roof of Silas's breaking shed, curled among lengths of stripped pine with one hand pressed uselessly to his ribs. There is no mud on him. Only sawdust, blood and the fine black ink ground permanently into the first finger of his right hand.
 
-They carry him into the Pelican on a door lifted from its hinges. By the time they lay him across the centre table, he is dead.
+The plankway to the shed is narrow and slick, laid above the mud on old timbers that complain under their boots. Wind drives rain beneath the eaves but the centre boards are dry. Pale dust lies there in scuffs and heel-marks, a record of the struggle clearer than any witness the parish will call: Bell's shorter steps coming in from the warehouse side, Rook's broad boots turning across them, a long drag toward the wall, and then two sets leaving — the large prints deep, the smaller ones broken and bare at one heel where Mara lost a shoe.
+
+Ned sees it before Tom does. He was waiting here, he says.
+
+Whether he means Bell or Silas is not clear. Both answers are true.
+
+Bell is still breathing. Each breath catches somewhere below the ribs and comes out smaller than the last. Tom kneels in the pine dust and recognizes the copying man from the afternoon only when Bell opens his eyes. Recognition moves the other way too. Bell sees Tom, then the folded Company contract showing inside his coat, and the shame that crosses his face is so immediate Tom nearly looks away.
+
+Where is the page? Tom asks. The woman had it? Is that why he did this?
+
+Bell's stained hand leaves his side. For one hopeful second Tom thinks he means to point. Instead Bell catches the front of Tom's coat and holds it with astonishing strength.
+
+Anne, he says, or tries to. The name is mostly breath.
+
+Who is Anne?
+
+Bell's eyes move toward the door, toward Shadwell beyond it, toward a house Tom cannot see. Then down to the contract in Tom's coat. His fingers make one weak movement against the wool, like a clerk striking out a line.
+
+No, Bell whispers.
+
+It might be an answer about the page. It might be an answer to the contract. It might be the last word of a man who spent years writing yes where another man required it. Tom will give it all three meanings afterwards, depending on which one he needs.
+
+Ned has already lifted a loose door from the shed wall and laid it beside Bell. Together they roll him onto it. Bell makes no sound. That frightens Tom more than a scream would have.
+
+The return along the plankway takes less than a minute and all the strength in both of them. At the Pelican door Tom calls for the bolt. Men who stood perfectly still while Silas left now move at once. Carter takes the front of the door. Elias clears the table with one sweep of his arm. Maggie puts folded sacking beneath Bell's head and presses both hands to the wound although everyone in the room understands, from the first touch, that nothing held against it will keep him.
+
+By the time they lay him across the centre table, he is dead.
 
 For a long time the only sound in the Pelican is the hiss of wet wood in the hearth. The men lower their makeshift weapons one by one. The adrenaline drains away, and in its place comes a cold, suffocating shame. They are twelve people who nearly let a murderer turn them into his rope. They are also twelve people who had him against a bolted door and let him leave.
 

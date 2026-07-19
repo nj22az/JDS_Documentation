@@ -135,8 +135,11 @@ def extract_pages(bundle: Path) -> list[dict[str, str]]:
                 "body": body,
             }
         )
-    if len(pages) != 25:
-        raise RuntimeError(f"Expected 25 reader pages; extracted {len(pages)}")
+    page_ids = [page["id"] for page in pages]
+    if len(pages) < 25:
+        raise RuntimeError(f"Expected at least 25 reader pages; extracted {len(pages)}")
+    if len(page_ids) != len(set(page_ids)):
+        raise RuntimeError("Reader bundle contains duplicate page identifiers")
     return pages
 
 

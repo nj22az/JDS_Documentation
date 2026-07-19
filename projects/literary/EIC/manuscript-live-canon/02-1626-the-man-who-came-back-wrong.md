@@ -60,6 +60,56 @@ She pours nothing for Tom. He does not ask. Some accounts stay open even while o
 
 But on the second evening a meat pie arrives in front of him without a word — mutton and mace, the way a boy at this bar liked it once, and the way nobody has asked for it in fourteen years. Tom looks at it for a long moment before he picks up the fork. No ale comes with it, and he does not ask for any. The pie is not forgiveness. It is older than forgiveness, and stubborner: the thing that went on being true the whole time the other thing was true too.
 
+On the third evening, while Daniel sleeps sitting upright by the fire, Maggie asks the question she has kept back.
+
+Jack?
+
+Tom knows which Jack. There are names a room has only one of.
+
+Alive. Rigger at Deptford. Wife, little girl, another coming. He was one voyage with me and would not take a second.
+
+Did you keep him alive?
+
+Some days. Other days he kept me alive.
+
+And the account?
+
+Cleared.
+
+From his half wages?
+
+Tom looks toward Daniel, though Daniel is not hearing anything in this room.
+
+Not all of them.
+
+Maggie waits.
+
+The morning after you put me out, Jack brought a list of questions to the hiring hall. Written in another man's hand. Asked every one while the clerk tried to talk over him. Surgeon, kit, spoiled stores, replacement fees. Took half the morning and made the men behind him start asking too.
+
+Maggie picks up the rag.
+
+Where did he get such troublesome questions?
+
+Never said.
+
+And the wages?
+
+I put two shillings of mine against Carter's account for every month he served. Called it instruction money in the book so Harcourt would pass it.
+
+Why did you not tell me?
+
+You told me not to come back until I remembered. You did not say to send reports.
+
+Maggie wipes the same place twice. You remembered before today, then.
+
+Some of it.
+
+And stayed away fourteen years.
+
+That too.
+
+She carries the empty pie plate behind the bar. No ale comes back with her. The account between them has not closed. It has, however, received an entry neither of them knew how to make in 1612.
+
 He drinks. One pull, then another. The tremor slows. Doesn't stop. Slows is the best this bar can do for him this afternoon.
 
 ***
@@ -168,6 +218,10 @@ The Company hears it too. Word like that always finds its way back to Leadenhall
 
 He comes in on a Tuesday, a man Daniel's never seen before. Precise coat, precise voice, a politeness trained rather than felt. Introduces himself as Pryce, on the Company's business, and sits without being asked, the way men do when they've decided in advance that the seat is theirs.
 
+He brings a leather case and places it on the table so carefully that even the buckles seem discreet. Inside is a prepared undertaking, a posting order for Surat at twice Daniel's former salary and a smaller page listing the Vale family's debts as far as the Company has been able to discover them. The list is both incomplete and terrifying. A machine need not know everything about a man to let him know it has looked.
+
+Tom recognizes the hand before he reads a word. The figures are Arthur's: the same narrow sevens, the same open loop in a six, the same exact spacing that once proved a gale had made Silas Rook's story impossible. Arthur has not entered the Pelican in twenty years. His hand has come in without him.
+
 Tom comes off the wall and stands at Daniel's shoulder, arms folded, and stays there for the whole of it. He knows the Company's polite men; he has delivered boys to them. Pryce reads the shoulders, the scar, the fourteen years of Company weather on the man, and elects, precisely, not to notice him.
 
 The Company is grateful for your service, Pryce says. Batavia. Two years a prisoner, and you came home able to hold a pen and keep a ledger, which is more than some men manage after less. Surat's been good to you, I hope.
@@ -187,6 +241,32 @@ I want you to consider your own future, Pryce says. Nothing more sinister than t
 Ten Englishmen went into a room, Daniel says. Ten Japanese. I watched them take the first one out, and I heard the rest of it through a wall for two days before they came for me. You are offering me money to stop saying that sentence out loud.
 
 I am offering you a better life than the one you've currently arranged for yourself, Pryce says, unbothered. Most men would take it without needing it explained twice.
+
+Pay the dead men's families, Daniel says.
+
+Pryce's expression does not change. The Company is considering all proper claims.
+
+Not claims. Pay them what you have written here for me. Ten shares. Ten English families, and the Japanese men's families if you can find them.
+
+That would imply liability for a Dutch proceeding over which the Company exercised no control.
+
+It would imply you know they died.
+
+The fact is not disputed.
+
+Then why does the money become dangerous only when it goes to the dead?
+
+Pryce closes the leather case halfway, not enough to withdraw the offer, enough to protect the papers from ale. You mistake what money is for, Mr. Vale. It cannot alter what happened. It can only arrange what happens next.
+
+Tom looks at Arthur's figures. That is what Bell thought a ledger did too, he says.
+
+Pryce turns to him for the first time. I don't believe I know the name.
+
+Your clerk does.
+
+Arthur knows many names. It is what makes him useful.
+
+Maggie's rag stops again. The old room is present all at once: Arthur calculating wind at the corner table, Bell dead across the centre, Harcourt's page beneath the bar. Pryce has not threatened anybody. He has only shown them what twenty-three years can do to a good hand.
 
 Daniel picks up his ale. Drinks half of it before he answers, giving himself the time Nell taught him to take, instead of saying the first thing that arrives.
 
@@ -266,7 +346,97 @@ Daniel eats. Nell watches him, and for the first time since he walked through th
 
 ***
 
-## X. Cotton
+## X. Jack's Account
+
+Jack comes through the door in late autumn with a coil of new hemp over one shoulder and the rain in his hair.
+
+He is thirty now. Broad in the chest, careful in the knees, two fingers on his right hand fixed crooked from a capstan accident the surgeon charged him sixpence to examine. He has Carter's delivery mark tied to the rope but no Carter livery on his back. The rigger's shop at Deptford is his own, small enough that he carries its orders himself and prosperous enough that he does not apologize for the wet he brings in.
+
+Maggie recognizes him before Tom does.
+
+You learned the knots, she says.
+
+Jack sets the coil down. Some.
+
+Tom turns from the fire. For one naked second both men are back on a Company's deck: boatswain and boy, command waiting to discover whether it is still command. Then Jack grins.
+
+You look terrible, he says.
+
+You always were poor at judging a superior.
+
+Not mine now.
+
+No.
+
+They clasp forearms. There is affection in it. There is history in the careful distance each keeps from the other's ribs.
+
+Jack has come for Carter's receipt. Maggie makes him sit first. She puts down bread and ale and looks at the hand.
+
+The Company surgeon did that?
+
+The capstan did it. Surgeon only made sure I paid for the privilege.
+
+Tom says you came home after one voyage.
+
+One was enough to know what two would be. Jack drinks. We made Bantam. Green water, like he promised. Fever took nineteen. A squall took the foretopmast off Madagascar and would have taken me if Tom hadn't put me on the lee brace ten seconds before it went.
+
+Tom looks into the fire. You learned to watch the sail.
+
+Because you hit me whenever I watched the sea.
+
+Once.
+
+Once with your hand. Every day with your voice.
+
+Maggie lets that stand beside the other truth.
+
+And the debt?
+
+Jack turns his cup. Paid before we reached home. I found out at the pay table Tom had put his own money against it all voyage. Carter's man said the account had closed two months before the Cape and they kept taking my half anyway, so I stood there until somebody found where the extra had gone.
+
+Where had it gone? Maggie asks.
+
+Same place money always goes when the book is wrong in its own favour. Nowhere with a name. They paid it after Tom brought the paymaster out by the collar.
+
+I asked him politely, Tom says.
+
+You asked him against a wall.
+
+Maggie looks at Tom. A tavern can fight a bully.
+
+Sometimes a pay office can too.
+
+Jack takes another piece of bread. He has a daughter called Anne, after his mother rather than Bell's widow, though the room receives the name into both accounts. He has never taken Company work at his shop. Dutch ships, fishing craft, Thames barges, even a King's pinnace once. Not the Company.
+
+They pay best, Tom says.
+
+That is how I know not to.
+
+Would you have signed without him? Maggie asks.
+
+Jack considers. The sixteen-year-old answer would have come at once. This one takes time.
+
+Yes. Carter's steward had the rooms. I wanted the sea. I would have put my mark wherever they pointed.
+
+Then Tom was right.
+
+About another boatswain being worse? Yes. About that making the debt a kindness? No. Both can be true. You taught us that, apparently. It made the voyage very long.
+
+Tom smiles despite himself.
+
+At the door Jack lifts the coil again.
+
+My girl can read, he says to Maggie. Properly. Her mother insisted. If anybody puts a paper in front of her, she'll know which empty space to fear.
+
+He goes out into the rain.
+
+Maggie brings Tom an ale and sets it beside him.
+
+The pint is not forgiveness. By now both of them know better than to ask one object to carry so much. It is an ale, properly poured, given by the keeper to a man who did wrong, heard why, changed what he could and did not come home to perform the changing for applause.
+
+Tom drinks.
+
+## XI. Cotton
 
 Carter's back most evenings, treating the bar like an annex of his shop. Tonight he's got news, and Carter with news is Carter at full volume.
 
@@ -288,7 +458,7 @@ The Company's factories are becoming forts — walls going up in Surat, cannon o
 
 ***
 
-## XI. The Wager Kept
+## XII. The Wager Kept
 
 On a quiet evening at the turn of the year, when the bar is down to its last patrons and the fire to its last hour, Maggie reaches under the counter.
 
@@ -304,11 +474,11 @@ Nobody in the room notices anything. That is how the room knows it matters.
 
 ***
 
-## XII. The Walls Get Higher
+## XIII. The Walls Get Higher
 
 Years pass. The bar fills and empties and fills again; same cycle, same ale, slowly improving. Daniel and Nell come in less often now, and when they do, it's a different quiet than the one he walked in with. Companionable. The quiet of two people who've said the worst of it out loud and are still sitting next to each other.
 
-The Company keeps growing. Bigger ships, bigger warehouses, busier docks. Sir Thomas Roe secured the factory at Surat years back; Bombay came later, a wedding gift from a Portuguese dowry that nobody at the time understood the size of. The factories have started growing walls. Nobody in this bar has said it out loud yet, but a factory stores goods, and a fort controls territory, and the difference is starting to show in the letters home.
+The Company keeps growing. Bigger ships, bigger warehouses, busier docks. Sir Thomas Roe's embassy secured wider trading privileges years back, and the Company's people now write from Surat as if permanence were a natural consequence of arrival. The factories have started requiring guards, storehouses and guns. Nobody in this bar has said it out loud yet, but a factory stores goods, and a fort controls territory, and the difference is starting to show in the letters home.
 
 Just a wall, the letters say. Bricks and mortar. Nothing to worry about.
 
