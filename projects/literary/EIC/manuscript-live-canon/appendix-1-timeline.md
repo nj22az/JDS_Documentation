@@ -1,15 +1,23 @@
-<!-- live-canon-source: nj22az/nj22az.github.io@62d14ae19f8cbb3c86c75e83ff3a376e47977e2a -->
-<!-- imported for editorial comparison; deployed reader remains unchanged -->
+<!-- live-canon-synchronised: 2026-07-19 -->
 
 # Timeline: The East India Company at Wapping
 
 **1600** The East India Company is chartered by Queen Elizabeth I. 218 subscribers invest £68,000.
 
-**1601** The first fleet sails — four ships, 500 men. Only 43 return.
+**1601–1603** The first fleet sails with four ships and roughly 480 men. More
+than a hundred are dead before the fleet reaches the Cape; the survivors return
+with pepper and the experience from which the Company learns how to repeat the
+voyage.
 
 **1612** The Company establishes its first factory at Surat, on India's west coast.
 
 **1623** The Amboyna Massacre. Dutch VOC officials torture and execute ten English Company merchants on fabricated charges. The Company abandons the Spice Islands and turns to India.
+
+**1629** The VOC flagship *Batavia* wrecks on Morning Reef off the west coast of
+Australia. In Pelsaert's absence, Jeronimus Cornelisz and his followers murder
+about 125 survivors. Seven men are executed on the islands; Wouter Loos and Jan
+Pelgrom are put ashore on the mainland; other accused men are taken back to
+Batavia for trial.
 
 **1639** A factory is established at Madras. It will become Fort St George.
 

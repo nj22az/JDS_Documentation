@@ -4,6 +4,33 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-19] (Matthew Bell and the unresolved account)
+
+### Added
+- Named Silas Rook's 1603 victim **Matthew Bell**, Harcourt's compromised
+  copyist, and made Bell's attempted repair the origin of the hidden
+  counter-ledger beneath the Pelican's bar.
+- Added 1612, 1629–1630 and 1635 chapters so Tom and Maggie's relationship now
+  develops across a deliberate five-return arc ending after Maggie's death.
+- Added a Book One character bible and a reproducible Volume One assembly tool.
+
+### Changed
+- Rebuilt *The Venture* as a 1603–1635 self-contained book. The earlier
+  1603–1657 return experiment remains archived for comparison, but is no longer
+  live canon.
+- Reframed the 1603 room scene: the Pelican saves Mara and correctly identifies
+  Bell's killer, but loses Rook while tending Bell. A correct verdict is not
+  presented as justice.
+- Made Mara warn the VOC about Rook before the *Batavia* sails; the Company
+  converts every danger in her warning into a qualification and employs him
+  anyway.
+- Preserved the documented aftermath of the *Batavia* wreck: seven island
+  executions, Wouter Loos and Jan Pelgrom put ashore, and other offenders
+  returned to Batavia. Rook is fictionalised among the returned offenders.
+- Reserved Tom's surname for Maggie's posthumous standing order in 1635, so the
+  first time the narrative calls him Fletcher is also the first time he learns
+  that she kept expecting him.
+
 ## [2026-07-13] (Tom and Maggie lifetime arc)
 
 ### Added

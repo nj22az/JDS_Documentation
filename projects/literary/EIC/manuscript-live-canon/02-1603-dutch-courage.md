@@ -1,7 +1,12 @@
-<!-- live-canon-source: nj22az/nj22az.github.io@62d14ae19f8cbb3c86c75e83ff3a376e47977e2a -->
-<!-- imported for editorial comparison; deployed reader remains unchanged -->
+---
+id: 02-1603-dutch-courage
+kicker: Chapter Two
+year: "1603"
+title: Dutch Courage
+hero: "{id:\"hendricks\",file:\"assets/img/hendricks.png\",alt:\"Painted portrait of a weathered, balding older man in a dark coat w…"
+---
 
-# 1603: Dutch Courage
+# Dutch Courage (1603)
 
 > **1603**
 >
@@ -9,168 +14,132 @@
 >
 > — Hendricks, waterman, Wapping, 1603
 
+***
+
 ## I. The Dragon's Lads
+
+The pounding comes an hour into the quiet — heavy, rhythmic, a fist used to being answered.
+
+The room tenses, every face toward the entrance. Maggie picks up the mallet, walks to the door, and calls out over the wind. Who's knocking at this hour?
+
+The Dragon's lads! a hoarse, salt-stiff voice shouts back through the wood. Just up from Blackwall! Open the door, Maggie, we're freezing to the bone!
+
+Maggie lowers the mallet, slides the iron bolt, and pulls the heavy door open.
 
 ![Painted portrait of a broad, curly-haired sailor in a black oilskin coat with a stone bottle and tankard in a candlelit tavern.](assets/img/dragons-lad.png)
 
-*One of the returned men of the first fleet, converting his wages into ale — forty-three of five hundred came home. [Credit](#/credits)*
+*One of the returned men of the first fleet, converting his wages into ale. More than a hundred of the 480 who sailed were dead before the fleet rounded the Cape. [Credit](#/credits)*
 
-The door opens an hour later and the wind brings in noise and cold and the smell of the river at night. Five or six men clump in from the waterfront, loud, salt-stiff, converting their wages into ale as fast as Maggie can pour it. One of them is missing two fingers on his left hand and doesn't seem to have noticed, which tells you something about what he has noticed instead.
+The wind brings in a blast of cold and the sharp smell of the river at night, and five men clump in from the waterfront, loud, salt-stiff, eager to convert their wages into ale. The Dragon's lads, one of them announces to the exhausted room, shaking the rain from his coat. Just in. Lancaster let us go.
 
-The Dragon's lads, one of them announces to the room. Just in. Lancaster let us go.
+The twelve who have spent their evening deciding not to hang an innocent woman breathe out, slowly, by ones and twos. The newcomers notice none of it — not the tension, not the dark rectangle on the centre table where Matthew Bell lay before Ned and the parish men carried him home to Shadwell, not the blood not yet scrubbed from the boards by the door. They take the tables nearest the hearth and plunge straight into a loud, spirited argument about whether the cloves from Ternate beat the cloves from Tidore, boasting of the fortunes made and the spices sitting in the Company warehouses. They are not lying about what they saw. But they are editing — pepper and gold, not the men put into the ground before India.
 
-The room goes quieter — not silent, quieter. This is the crew of the Red Dragon. The first fleet. The men who went out and came back. Or some of them. Out of five hundred. Forty-three. Nobody says the number. Nobody needs to.
+Pell steps away from the celebrating men and walks down the bar to where Tom stands, still shaking slightly, the eye Silas Rook's backhand found gone the colour of a thundercloud. Inside Tom's coat, the Company's contract waits for the morning.
 
-They are not lying about what they saw. But they are editing. Pepper, gold, markets, colours — not the four hundred and fifty-seven men who did not walk back into a bar tonight, not the Susan breaking up off Madagascar, not the surgeon who hanged himself off the mainmast. You tell the story that makes the voyage sound worth it, because if it wasn't worth it, what were you doing out there?
+You're signing on, Pell says. It is not a question.
 
-Two of them are already arguing — loudly, and with real conviction — about whether the cloves from Ternate beat the cloves from Tidore, a question neither is remotely qualified to settle.
+Tomorrow, Tom says, his voice raw. Second fleet. Before the mast. Able enough. My father was a boatswain.
 
-The one with the missing fingers notices Tom. The paper. The hunger in his face. He's seen that look before — probably worn it himself.
+Pell nods slowly. He holds up the left hand, the one missing two fingers. Knife fight in Bantam. Over a woman, if you can believe it — a woman and a sack of pepper. Don't get into knife fights out there, lad. The climate doesn't agree with bandages.
 
-You're signing on. Not a question.
+Tom looks at the maimed hand, then at the loud, celebrating sailors by the fire. Was it worth it? The voyage.
 
-Tomorrow. Second fleet. Before the mast.
+Pell considers the question. Four hundred and eighty men sailed with us, he says, his voice dropping flat, like a man reading a manifest. More than a hundred were dead of scurvy, flux and fever before we had even reached India. He shakes his head. The Company cares about pepper. And money. And money does not bring back the dead.
 
-Able?
-
-Able enough. Coasters since I was fourteen. My father was a boatswain.
-
-The sailor reaches across without warning and throws him the heel of a bread loaf. Tom catches it one-handed despite the closing eye.
-
-Can you splice?
-
-Eye, short and long.
-
-Can you take the wheel?
-
-If the master tells me where he wants the ship.
-
-Then you are a seaman, whatever figure the clerk writes beside you. He holds up the ruined hand. Knife fight in Bantam. Over a woman, if you can believe it — a woman and a sack of pepper. Don't get into knife fights out there, lad. The climate doesn't agree with bandages.
-
-Was it worth it? Tom asks. The voyage. Was it worth it?
-
-The sailor considers this properly, the way a man considers a question he hasn't let himself ask. The pepper was good. Very good. The rest of it — ask me again in ten years. If I'm still here.
-
-Maggie brings bread and cheese to the Dragon's men. They fall on it like wolves. She watches them eat with the look of someone counting — the ones who came back, the ones who didn't, the cost of pepper measured out in men.
-
-They were lucky, she tells Tom quietly, refilling his ale. Lancaster knew what he was doing. Most captains don't.
-
-But the Company's sending the next lot anyway.
-
-Of course they are. That's what companies do. Some come back, some don't, and the Company doesn't much care which — the Company cares about pepper. And money.
-
-And money, she agrees. Money that isn't going to bring back four hundred and fifty-seven men at the bottom of the Indian Ocean.
-
-* * *
+***
 
 ## II. The Dutchman
 
-He comes in later, when the Dragon's men have moved from cloves to a louder argument about something else entirely. The door brings in a wall of cold, the candles gutter, and behind it comes a man who looks carved out of the river itself — broad, short, hands like two enormous mittens of callused flesh, the particular squint of someone who has spent more years looking at horizons than at other people.
+He tells you the truth, boy, says a voice from the shadows at the end of the bar.
 
-Hendricks. The Dutchman. Everyone in Wapping knows him. He's worked this river since before the Company existed, hauling cargo on a flat-bottomed barge, and he knows the Thames the way a priest knows his church — every channel, every sandbar, every tide.
+Nobody saw him come in behind the Dragon's men; Hendricks arrives the way the tide does, without asking anyone. A broad, short man with callused hands and the permanent squint of someone who has spent more years looking at horizons than at people. The Dutchman. Everyone in Wapping knows him: he has worked the Thames on a flat-bottomed timber barge since before the Company existed, and knows every channel, sandbar and tide. While the English drink ale, a squat stone bottle lives inside his coat — genever, juniper spirit from home — and at the end of each pint he takes one measured pull. The English at the bar call it Dutch physic and want nothing to do with it.
 
-He drinks the house ale like everyone else, but there is a squat stone bottle that lives inside his coat — genever, juniper spirit from home — and he takes one measured pull from it at the end of each pint, a private punctuation. The English at the bar call it Dutch physic and want nothing to do with it: a medicine-smelling foreign habit, like the man himself. Give it ninety years and their grandchildren will be drowning in the stuff and calling it English. Nobody in this room knows that yet either.
+He is not popular here. He says things people don't want to hear, at the worst possible moment, and he is usually right.
 
-He's not popular here. He says things people don't want to hear, at the worst possible moment, and he's usually right.
+Maggie brings him a fresh pint without being asked and without warmth, which from her is a welcome.
 
-Maggie brings him his pint without being asked and without warmth, which from her is a kind of welcome. You talk too much, Dutchman, she says. Only when the boys are listening too little, Margareta, he answers, and she does not break stride — but something in her jaw takes note of the name the rest of the room has never once heard her called. That name stayed north of the water, she says. Then it has travelled badly, he says, and drinks. They have been doing some version of this for years. She trusts him rather more than she would ever say, which is not far, but is further than she trusts most.
+You talk too much, Dutchman.
 
-Tom notices him — Tom notices everyone tonight, the way anxious young men do, and the way a boy does when one eye is closing and he wants the room to think he isn't counting the door — and carries his ale down the bar.
+Only when the boys listen too little, Margareta.
 
-You were on the river before the Company. That right?
+Something in her jaw answers to the name nobody else here has heard. That name stayed north of the water, she says.
 
-Before your Company was so much as a thought in a merchant's head — God rest your late Queen, she signed it into being with one foot in the grave. Hendricks turns his pint slowly on the wood. I was hauling timber on this river when the Portuguese owned everything east of the Cape and the English weren't allowed within a mile of it.
+Then it travelled badly, he says, and drinks. They have been doing some version of this for years.
 
-And now, Tom says.
+Tom presses the rag to his cut mouth and looks at the Dutchman. You were on the river before the Company. That right?
 
-Now your Company wants to break that. Good luck.
+Before your Company was a thought in a merchant's head. Hendricks turns his pint on the wood. I was hauling timber when the Portuguese owned everything east of the Cape and the English were not allowed within a mile of it.
 
-They already have. First fleet came back with pepper. The charter gives us fifteen years, monopoly, nobody else trading east of the Cape.
+And now our Company wants to break that, Tom says. First fleet came back with pepper. The charter gives us fifteen years. Nobody else trading east of the Cape.
 
 Hendricks makes a sound that might be a laugh. On paper. And what happens when you get to the Spice Islands and find the Dutch already sitting on them?
 
 The Dutch?
 
-The Dutch. Last year, while your first fleet was still at sea, the Dutch chartered their own. The VOC. Heard of it?
+The Dutch. Last year, while your first fleet was still at sea, they chartered their own company. The VOC. He leans forward, the juniper sharp on his breath. More capital than you. Better ships. Better guns. And they are not gentlemen arguing over pepper in a London room. They mean to take the trade while you sit here with your eighteen shillings a month, half of it promised away, and your good ale.
 
-A little.
+Lancaster was there, Tom says, defensive now. He made deals.
 
-Not enough, then. More capital than you. Better ships. Better guns. And they are not gentlemen arguing about pepper prices in a London room — they're soldiers, taking the islands by force, right now, while you sit here with your eighteen shillings a month, half of it promised away, and your good ale.
-
-Lancaster was there, Tom says. He made deals.
-
-Lancaster made deals with men the Dutch have since killed or driven out. He picks his pint back up, and his voice drops — not secrecy, just weariness, the kind that comes from watching the same story play out too many times. I've heard what they do to competitors. From Dutchmen. My own countrymen, who went out rich in their heads and came back with nothing. Or didn't come back. I had a brother go out with them — Pieter, younger than me, full up to the eyes with the islands. He came home rich in nothing but the fever, and spent the last of himself in a lodging house off the Ratcliff road, raving about punishment, about the Company's islands, about a thing he'd watched that he could never get the shape of into words. I never had the whole of it out of him before he went. Enough of it, though. Do not mistake my accent for their flag, boy. A man may know his own countrymen, and know them for wolves.
+Lancaster made deals. The Dutch made others. Hendricks picks up his pint. My brother Pieter sailed east with one of their fleets, rich in his head. He came home with a fever and died in a lodging house off the Ratcliff road, raving about the Company's islands and a thing he had watched but could not put into words. I never had the whole of it out of him. Enough, though. Do not mistake my accent for their flag, boy. A man may know his countrymen and know them for wolves.
 
 What do they do?
 
-Burn the posts. Sink the ships. Arrest the rivals on false charges and execute them — publicly, so everyone understands who owns the trade. They have a word for it. Bestraffing. Punishment.
+When two charters claim the same island? Burn the post. Take the ship. Call the rival a criminal and the taking punishment. Paper is clean. Men do the dirty part.
 
 The bar has gone properly quiet. Even the Dragon's men are listening now, pretending not to.
 
-Nine in ten, Hendricks says. That's the number I hear for your Company's men. Won't come back. And if you try to trade where the Dutch already are, they'll take the rest.
+Hendricks looks at the blackened eye and the split lip. A big man in a tavern is honest danger, boy. You can see him come. Tonight this room read one by his boots, named what he was and still watched him leave. He takes one measured pull from the stone bottle and corks it with his thumb. The thing you sign in the morning has no jaw to swell and no boots to read. No room has ever stood up to a paper. That is the whole difference between a fight and a Company. One of the two you can win.
 
-Tom stares at his ale. The brightness has gone out of his face, and what's replaced it isn't fear exactly. It's the look of a man counting backwards from nine in ten.
-
-Hendricks looks at him then — really looks, at the eye going black and the lip still weeping where Rook opened it, the whole bruised account of the story the room has already told him twice. Whatever he thinks of it, he does not let it warm his face. A big man in a tavern is honest danger, boy, he says. You can see him come. And a tavern fights back — the girl had the ale, and the room stood up, and the woman behind that bar had the only sentence the evening needed. He takes his one measured pull from the stone bottle, corks it with his thumb. The thing you sign for in the morning does not stand so near. It has no eyes to be blinded and no wrist to be broken, and no room has ever once stood up to a paper. That is the whole difference between a fight and a Company. One of the two you can win.
-
-* * *
+***
 
 ## III. The Night Before
 
-The evening wears on. The Dragon's men get loud again, the way men do when they've drunk long enough for the fear to surface but not long enough to win. Singing, badly. One of them crying quietly into his ale — the way men cry in bars: not at all, and completely. Somewhere behind them, the snow bet from earlier is being loudly re-litigated — no snow yet, and the man who staked his supper on it is being reminded of this at length and without mercy.
+Outside, the storm finally breaks, leaving a cold grey drizzle behind it. The ships at anchor are dark shapes on darker water, masts swaying, rigging making small sounds like men who cannot sleep.
 
-Maggie brings Tom bread and cheese he didn't ask for.
+Maggie comes over one last time and refills his ale.
 
-Eat. You won't eat like this for months. My second husband was at sea — told me. Salt beef till it walks off the plate.
-
-Your second husband.
-
-Died. Six years back now, off Africa. Never found the body. She says it plainly, the way you say a thing that's stopped being painful and simply become fact. That's sailors for you. You learn to pour the drinks and not wait by the window. Funny thing about the water. I spent a whole first marriage braced for it to take a fisherman off me, and a sickness got him instead, in his own bed. Then I marry a riverman — safe as houses, never out of sight of London — and the sea reaches all the way up to Africa for him. It has a humour to it. Just not a kind one.
-
-Tom eats. Outside, the ships at anchor are dark shapes on darker water, masts swaying, rigging making small sounds like men who cannot sleep.
-
-Hendricks has gone silent at his end of the bar, watching Tom the way a man watches a ship he already knows is going to sink. Not pleasure. Not pity. Just recognition. The boy will go. The boy will sign. The odds are nine in ten against him, and the boy is twenty-two, and the Dutch are still only a story.
-
-Maggie comes over one last time, refills his ale.
-
-The charter was signed on New Year's Eve, she says. Three years back. Old Queen Bess — sixty-seven she was then, and dead since the spring, and the Company she signed into being is still here, hiring. Notice that, Tom. The queen is gone. The paper isn't. Harcourt traded under the Levant seal when your father could still climb. Now he puts his money under the East India seal and your father's debt walks across with him. The companies do not even have to be the same. The man is the same. The ink is the same. Now here you are signing your own. She signs a paper. Harcourt signs a paper. You sign a paper. Somewhere between the three papers, a great many men work and die. That's how it works, Tom. The people at the top sign. The people at the bottom pay. The pepper comes back. The money comes back. The men don't.
+The charter was signed on New Year's Eve, she says. Three years back. Old Queen Bess is dead, and the Company she signed into being is still here, hiring. The queen is gone. The paper is not. Harcourt traded under the Levant seal when your father could still climb; now he puts his money under the East India seal, and your father's debt walks across with him. The companies do not even have to be the same. The man is the same. The ink is the same. She signs one. Harcourt signs one. You sign another. Somewhere between them, men work and die. The people at the top sign. The people at the bottom pay. The pepper comes back. The money comes back. The men do not.
 
 He opens his mouth. Nothing comes out.
 
-What he cannot say — because at twenty-two, in front of this woman, it would sound like a child's answer, and because it is one — is that the debt is not the whole of it. He could run from Harcourt. Men run from smaller sums every day. His father would lose the rented rooms, and perhaps his liberty, and Tom knows he will not do that; but buried inside the duty is an older and more shameful willingness. That same brown millpond in Essex, behind the granary where the mill-boys taught him the shape of a fight, had been for ten summers a stretch of water a strong man could throw a stone across, and the whole of the ocean. Later his father took him on coasters and taught his hands the names of things: sheet, brace, halyard, splice; how a deck moves under a sleeping body; how land dwindles without asking permission. Tom has wanted, for as long as he has been able to want anything, to come back through a door like this one with salt on his coat and stories no one else in the room could tell. Harcourt's paper has found the place where duty and desire are knotted together and pulled tight. There is no putting that in front of Maggie, next to forty-three men out of five hundred. It is not an answer to anything she has said. It is only the truth.
+What he cannot say is that the debt is not the whole of it. Bell's account has made Harcourt more dangerous, not less. A man who sends Silas Rook after a copyist will not forgive a debtor's son for discovering principle overnight. Tom could run from the paper — but his father would lose the rented rooms, perhaps his liberty — and buried inside the duty is an older willingness. Tom has always wanted to come through a door like this with salt on his coat and stories nobody else could tell. Harcourt's paper has found the place where fear, duty and desire are knotted together and pulled tight. It is a child's answer to a hundred dead men before the Cape. It is also the truth.
 
-Then, instead of anything he might have said, he does something instead. Reaches into his coat and comes out with the one thing in it worth more than the coat — a plain brass thimble, his mother's, the only piece of her he kept when there was nothing else worth the keeping. He sets it on the bar between them, not quite meeting her eye.
+There is nothing left in his pockets to leave her. He reaches into his coat and comes out with the one thing in it worth more than the coat itself — a plain brass thimble, his mother's. He sets it on the bar between them, not quite meeting Maggie's eye.
 
 Keep this, he says. Till I'm back.
 
-Maggie looks at the thimble, then at him, and doesn't reach for it straight away — she has held out her hand for enough of these to know what it costs a man to leave one. When she does pick it up, she doesn't make a show of it. Closes her fist around it the way she'd close a fist around a coin she meant to keep separate from the till.
+Maggie looks at the thimble. She has held out her hand for enough keepsakes to know what it costs a man to leave one. She closes her fist around it as she would a coin meant to be kept apart from the till.
 
-Till you're back, she says. Not agreeing. Not disagreeing. Just repeating it, the way you repeat a wager back to the man who's made it, so there's no confusion later about what was said.
+Till you are back, she says, repeating the wager without accepting the odds.
 
-He finishes his ale, stands, puts on his cloak.
+He finishes his ale, stands, and pulls his cloak tight around his shoulders.
 
-Hendricks stops him at the end of the bar — wordless, the stone bottle held out, uncorked. Tom hesitates, then drinks, and his eyes water on the instant, juniper and fire and something like pine resin lit, and the Dragon's lads laugh, not unkindly, at the face he makes.
+Hendricks stops him at the end of the bar and holds out the uncorked stone bottle. Tom drinks. His eyes water — juniper, fire, pine resin — and the Dragon's lads laugh, not unkindly, at his face.
 
-For the morning, Hendricks says, taking the bottle back. In the Low Countries the English soldiers beg this off us before an assault. They have a name for it — Dutch courage. They mean it as an insult. He works the cork home with his thumb. They still beg.
+For the morning, Hendricks says, taking the bottle back. Courage enough to reach the clerk. After that you will need your own.
 
 Go and sign your paper, boy.
 
-Goodnight, Maggie, he says on his way past the bar — the only man left in the room who remembers her stepping off a timber boat much like the one that will take Tom, a widow off the northern water starting the back half of a life in a city that couldn't say her name. She doesn't look up from wiping the counter, but something in her shoulders answers him — the worn ease of two people who crossed the same cold water a long time ago — that she shows no one else in this room.
+Goodnight, Maggie, Tom says on his way past the bar. She does not look up from wiping the counter.
 
-At the door he pauses, hand on the latch, and doesn't look back. The cold takes him. The dark and the mud and the river swallow him — the same as they've always been, indifferent to whether he comes back or not.
+At the door he pauses, hand on the iron latch, and does not look back. The cold takes him. The dark and the mud swallow him.
 
-The door closes. Maggie stands still behind the counter. Hendricks finishes his pint and leaves without a word. The Dragon's men are asleep, or close to it, and the fire is down to embers.
+The door closes. Maggie stands still behind the counter. Hendricks finishes his pint and goes out into the first grey of the morning. The Dragon's men are asleep at the tables. The fire is down to embers.
 
-He will sign the paper in the morning. He will get on the ship. Half his wages will begin travelling home before the ship has cleared the Downs, each month of his life entered against cable and anchor lost before the Company existed. This is how it works tonight, in this bar, on this river: a seaman hears the odds, drinks his ale, and goes anyway. The river does not keep track.
+In the quiet tavern, Maggie takes a sharp knife from her apron and bends down. Bell's folded account already rests in the narrow fault beneath the heavy oak bar. Arthur has written the dead man's full name across the outside before leaving for Shadwell, where somebody must tell Anne Bell that four facts in a ledger have become the rest of her life.
+
+Beside the paper Maggie cuts a deep notch into the wood — a fresh, pale mark joining a crowd of others in the dark, one for every young man who has sat at her bar with a paper in his pocket and walked out to give his life to the sea. She stopped counting them long ago. She keeps cutting them.
+
+It gives her hands something to do besides wait.
 
 ## IV. What Comes After
 
-Morning comes grey and wet. The river is loud enough to hear over the empty bar. Somewhere behind the tavern a cockerel crows — a farmer's bird, or an optimist's; in Wapping the distinction isn't always clear.
+Morning comes grey and wet. Somewhere behind the tavern a cockerel crows — a farmer's bird, or an optimist's; in Wapping the distinction is not always clear.
 
-The stool by the window sits empty, its crack settled into shape. On the table, a ring left by a tankard is already fading into the wood — one mark among hundreds still to come.
+The stool by the window is empty. A tankard ring fades into the table. Tom signs his name this morning in a hall in the City, under the eyes of Governor Smythe's clerks, and half of every month he serves begins travelling to Master Harcourt's ledger before the ship has cleared the Downs. He has heard the cost priced to the shilling, and he goes anyway.
 
-Maggie is alone. She takes a knife from her apron and scores a small mark into the underside of the counter, low, where you'd have to duck to see it. There's already a crowd of them down there — one for every young man who sat on that stool with a paper in his pocket and walked out toward a ship. She stopped counting them long ago. She keeps cutting them anyway. It isn't superstition. It isn't a prayer. It's the one thing she's found to do with her hands that isn't standing at the window.
+Tom's thimble goes into the gap behind the old wood, beside Matthew Bell's account, where a notch cannot be mistaken for a promise and a dead man's name cannot be reduced again to *Company clerk*. Few of the keepsakes there have been collected.
 
-Tom's thimble goes into the same gap, wedged back against the old wood where a notch can't be mistaken for a promise. She doesn't expect to see it collected. She has never once been wrong about that, and doesn't expect this morning to be the first time.
+In the City, Bell's chair does not remain empty. Another copying man sits in it before noon. Tom's contract was prepared days ago in Bell's small neat hand; the new clerk witnesses the signature and enters the wage assignment without asking why the old clerk has failed to attend. Paper does not observe a death unless someone pays to have the entry made.
 
-The charter is a piece of paper in a locked room in the City. The Company is two hundred and eighteen names and a warehouse of pepper the market has not yet agreed what to pay for. Whether the next fleet comes back at all, nobody in this bar could say. The ships go out. The boys sign. That's all that's known tonight, and it's all that needs to be.
+The charter is a piece of paper in a locked room in the City. The Company is two hundred and eighteen names and a warehouse of pepper the market has not yet agreed what to pay for. Whether the next fleet comes back, nobody in the bar can say. Matthew Bell is dead. His desk is occupied. The ships go out. The boys sign.

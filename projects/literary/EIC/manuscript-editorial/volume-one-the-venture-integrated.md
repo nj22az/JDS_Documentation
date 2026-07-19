@@ -1,733 +1,501 @@
-<!-- integrated-volume-one-development-manuscript -->
-<!-- assembled from protected live canon plus the Tom-and-Maggie lifetime expansion -->
+<!-- generated-volume-one-development-manuscript -->
+<!-- source: manuscript-live-canon; run tools/assemble_volume_one.mjs -->
 
 # The Venture
 
-## Till You're Back
+*1603–1635*
 
-> *“Being ashore is not the same as being back.”*
+## The Boy Who Signed (1603)
+
+> **1603**
 >
-> — Maggie, keeper of the Prospect, 1606
+> *“You’re going to die for a clove, Tom.”*
+>
+> — Maggie, keeper of a Wapping tavern, 1603
 
-## Part I · 1603 · The Boy Who Signed
+***
 
 ### I. The Rain
 
-The rain has not let up in three days. It comes in cold off the North Sea, turns the mud of Wapping Wall to something a man could lose a boot in, and beats against the tavern shutters loud enough to talk over.
+The rain has not let up in three days. It comes in cold off the North Sea, turns the mud of Wapping Wall to something a man could lose a boot in, and beats against the tavern shutters with the force of thrown gravel.
 
-Inside, the fire is built high. The ale is dark and it is good. A dozen men sit close to the heat, dockworkers mostly, hands like old leather. One coughs, wet and deep, the kind of cough a man does not recover from. Two argue about the price of tar. A third swears it will snow before morning and has already put money on it.
+Inside the Pelican, the fire is built high, and the room holds its regulars the way the river holds its craft, each at a known mooring. The house will wear other names before the river is done with it — the Devil's Tavern, the Prospect of Whitby — but in this first year of the Company it is the Pelican, and its shutters hold. The old docker claims the stool nearest the hearth, thirty years of Wapping cargo in his shoulders. Beside him, a man with a graveyard cough wheezes wet and deep into a rag — the kind of cough a man does not recover from; he knows it, the room knows it, and by unspoken treaty nobody's face says so. Arthur, the wharf clerk, checks the latch and swears it will snow before morning. He has money on it. By the door, over a half-pint made to last, sits Ned, a young lighterman of the stairs, a year out of his apprenticeship and still paying rent on his stool with politeness.
 
 Three years before, on the last day of a dying century, an old woman put her seal to a piece of paper — the Queen, Elizabeth, giving two hundred and eighteen merchants leave to trade east of the Cape. The old woman is dead now — gone in the spring, mourned, buried, succeeded by a Scotsman. The paper is doing fine. Papers usually do.
 
-* * *
+At the far end of the bar sits Tom. He is young, perhaps twenty-two, with tar beside his nails and a pale seam of a scar across one palm. He nurses a dark ale in complete silence, dreading the paper tucked inside his coat — a contract with the East India Company he is meant to sign in the morning.
 
-### II. Maggie
+***
 
-She runs the place. Owns it, more likely, though nobody asks and she never says. Past forty, hands red from lifting and scrubbing, tough the way the stone in the old churches downriver is tough — and eyes the blue-grey of a cold tide, that missed nothing and let a room know they missed nothing. Not a face men called pretty. A face men were careful around. The dangerous thing about her was never her hands: it was that she had already taken your measure, before you'd got your cloak off, and generally found the figure small. She has buried two husbands and talks about it the way other women talk about the weather. Men die. You pour the ale and sweep the floor and get on with it. She will take the last farthing off a man who can pay for his drink and press bread on one who can't, and think no more of him for needing it, and dare either of them to remark on the difference.
+### II. The Door
 
-Her own crossing is only some years behind her now — she came to this country later than most, and older, a grown woman with a life already spent behind her — and she has worn the story smooth in the telling since, the way a story gets told until it stops hurting and starts being useful instead. Margareta, she was, out of a small fishing village on the coast outside Stockholm, one of nine, a father who mended nets and a mother who salted herring until her hands were more brine than skin — a girl raised half in a boat, who could read a running current and a badly-set rigging before she could read a word of English, and handle a small craft in foul water the way other girls handled a broom.
+Then comes a violent crack of splintering wood. The heavy oak door is kicked open, and the storm screams into the room, putting out half the candles in a single breath.
 
-She married young and for love, which she'll tell you was the one purely foolish thing she ever did and would do again tomorrow: a fisherman named Johan, and the two of them worked the cold northern water together and got a son between them. The sea everyone had warned her about never laid a finger on Johan. A slow rot took him instead, from the inside out, across two bad years; and when the frozen ground finally closed over him the boy was old enough to want a deck of his own, and took the King's coin in the Swedish navy — and that was the house stood empty, husband under the earth and son handed over to the very water she'd spent her whole life braced to lose him to.
+Silas Rook fills the frame, taking up more of the doorway than the wood was built for. A Cornish ship-breaker with a beard like wet rope, he is dragging a young woman by the wrist. She is Asian, come over on the Portuguese ships from colonies the room knows only as names, and her clothes are soaked through with freezing rain. She is trembling violently, her eyes darting around a room of hardened dockworkers. Her hands and the front of her dress are slick with fresh, shining blood.
 
-She did not stay to keep a house full of ghosts. She took a timber ship south and traded the clean biting ice of home for the coal-smoke and rotting piles of the Thames, on a plain certainty that a harbour city on a great river had to want for something a strong back and a level head could supply. It wanted, as it turned out, for barmaids. And it gave her, in time, a second husband to bury — an English waterman who took a deep-water berth the winter the river work dried up and did not come back from it, the sea keeping him off the coast of Africa the way it had never once troubled to keep Johan. He was the second, and the last; Johan was the first.
+Silas kicks the door shut behind him and throws the iron bolt. He steps to the nearest table and slams a heavy, blood-soaked ship-breaker's blade onto the boards.
 
-To the river she has only ever been Maggie — a worn-down English scrap of Margareta, the one piece of the old name light enough to carry across the water — because the Margareta who answered to the whole of it in Swedish belonged to a life that was over, and a name is a small thing to hold onto in a country that mangles every other word out of you. Margareta stayed on the northern water. Maggie is who runs the bar.
+Caught her red-handed, he booms over the muffled wind, and points a thick, calloused finger at the girl. Slashed a Company clerk down in the mudflats. Found her standing over the body.
 
-What she cannot know — what she'd name the cruelest sort of foolishness to let herself think — is that the boy she grieves out of her life tonight, freezing on his Swedish deck, is not the end of Johan's line but the middle of it. His father's name will come back to this same reach of the river, worn soft by the crossing, Johansson turned English at last, carried home generations down the years by a man who will step off a timber boat with a sea-bag of salt-stiff shirts and no notion at all that he is coming home. The river keeps longer accounts than the people who work it. Tonight it is only a woman behind a bar with a Swedish name folded away in a drawer, and a boy on a far deck she has taught herself, most nights, not to wait for.
+Which clerk? Tom asks.
 
-Tonight she is busy. Word has gone round that a ship is in, and where a ship comes in, men follow, and where men follow they want a drink. She moves behind the bar the way a woman moves who has done this ten thousand times — pouring, wiping, taking coin, watching the whole room without seeming to look at any part of it.
+Matthew Bell.
 
-He comes in around dusk, shaking rain off a cloak that has seen better years. Young. Twenty, maybe twenty-two — the age her own boy is this winter, or near enough, on whatever cold deck the Swedish crown keeps him. Tar worked into the cracks beside his nails, a pale seam across one palm where a wet line once ran faster than his grip. Not a deep-water man, not yet, but no stranger to a deck. He sits down and orders ale, and she pours it without asking what he wants, which means he has been in before.
+The name reaches Tom before the meaning does. Bell is one of Master Harcourt's copying men, the small neat hand on the contract inside Tom's coat. Tom has never met him. He has carried Bell's handwriting for a week.
 
-He has a paper in his pocket. He takes it out and smooths it flat on the bar and reads it the way a man reads a letter from someone he loves, or a sentence handed down by a judge.
+Mara — the only part of her name the room will know until Bell's paper is unfolded — shakes her head frantically. She pulls against his iron grip, stammering desperately in a panicked mix of Cantonese and Portuguese. To the men of the Pelican, her pleas are only foreign noise. She cannot speak English, and so she cannot tell them that the blood on her dress belongs to the man Silas has just gutted.
 
-Maggie comes over. Stands in front of him with the rag over her shoulder and her arms folded, and looks at him the way a mother looks at a boy who has just told her he means to run off and join a circus.
+She's fighting wild, Silas says, appealing to the room's sudden fear. He kicks a coil of heavy dock rope across the flagstones. The watch won't come down here in this storm. I need three good men to help me drag her to the gallows-post before the magistrate arrives. The rest of you, keep your mouths shut and bear witness that river justice was done.
 
-You are going to sign it, then.
+For a moment, the room is paralysed. But a murder on the docks brings the law, and the law brings trouble, and it is far easier to blame an outsider than to harbour a killer. Josiah, a bitter waterman, mutters his assent. The two tar men nod and push their chairs back to help hoist the rope. The mob has made its choice.
 
-* * *
+Then the scrape of a wooden stool breaks the tension.
 
-### III. The Boy with the Paper
+Tom steps away from the bar. He places himself squarely between Silas Rook and the bolted door. No, he says, quiet but steady. I'm not letting you drag a girl out into the dark to break her neck just because you say so. We talk about it first.
 
-Tom folds the paper and tucks it away. Tomorrow. Governor Smythe himself will be there. A governor and twenty-four committees. The berth is before the mast, common seaman, second voyage. Joint stock — means the risk is shared. So is the reward, if there is any.
+Silas lets out a low, scraping laugh. Step aside, boy, or I'll break your jaw before I break her neck.
 
-If there is any, she says. Not a question.
+Tom does not step aside. The backhand comes faster than anything that size should move; it takes him across the eye and mouth and puts him back against the door hard enough to rattle the bolt. He tastes blood, blinks the room level again, and stays exactly where he is.
 
-The first fleet went out two years ago. Four ships. Came back with pepper. Real pepper, from Java. Worth more than its weight in silver.
+![Painted tavern scene: a huge bald bruiser faces a younger man with fists clenched, a frightened woman at the bar, an older woman behind it, a crowd of onlookers in lamplight.](assets/img/the-wager.png)
 
-She snorts. She has heard every version of this from every young man who has sat at this bar with a piece of paper and a fire in his belly. How many men left on that fleet?
+*Silas Rook squares off against Tom between the mob and the bolted door — Mara at the bar, Maggie behind it, the room deciding. [Credit](#/credits)*
 
-Around five hundred, I think.
+The boy stays where he is. Maggie's voice cuts through the shadows, flat and entirely without fear. The keeper steps out from behind the counter, eyes the blue-grey of a cold tide, and rests her hand on the heavy wooden mallet she keeps beneath the bar — the bung mallet she drives the cask spigots home with ten times a day. It is not a weapon. It is a tool, in the hand of a woman who knows to an ounce what it can crack, and the room has watched her use it for both.
 
-And how many came back?
+The door stays bolted, she says, until he has his say.
 
-He drinks. Foam on his lip. I don't know the exact number.
+Silas's jaw twitches. The men holding the dock rope hesitate. They look at the boy against the door — bleeding, half a head shorter than the man in front of him, staying exactly where he is — and something in the arithmetic of the evening shifts. Every man holding that rope owes somebody. Every man holding it has stood where the boy stands, in front of something bigger that had already decided. They see one of their own.
 
-Forty-three. Out of five hundred. The rest died of fever, or drowning, or fighting, or just vanished. That is what the East Indies does to Englishmen. She says it without heat — the terms of a transaction. These are the odds. Take note of them.
+Fine, Silas spits. But the facts don't change. I was walking the Wall. I heard Bell scream. I looked through the rain, saw her running from the body, and chased her down in seconds.
 
-The shareholders made seventy pounds for every ten they put in.
+***
 
-The pepper is lovely, I'm sure. She leans in close enough that the grey in her hair catches the candlelight. How old are you?
+### III. The Wind and the Mud
 
-Twenty-two.
+Tom looks past Silas to the corner table. Arthur. You keep a book on the weather. Tell me about the wind.
 
-Been to sea before?
+Arthur adjusts his collar. It's a North Sea gale. Blowing dead off the water.
 
-Coasters. Newcastle twice. Calais, once. I can hand, reef and steer.
+Could you hear a man scream on the mudflats from the Wall?
 
-Your father taught you.
+You couldn't hear a ship's cannon from the mudflats tonight, Arthur says simply. The wind pushes the sound straight out to sea.
 
-Tom looks at the paper instead of her. He did.
+A low murmur ripples through the tavern.
 
-Right. She straightens up. So you know enough water to be useful and not enough ocean to know what is waiting. You are going to sign a paper that sends you round the Cape in a wooden box full of scurvy, to a place where the Portuguese and the weather and the food will all take turns trying to kill you.
+He was close, then! Silas snaps, his massive shoulders tensing. I saw her run and I caught her!
 
-Tom says nothing. The fire cracks, sends sparks up the flue.
+In three days of Wapping mud? Tom asks. Mud deep enough to swallow a boot? Arthur — how long to cross that distance?
 
-What are they paying you?
+Two minutes. Maybe three, Arthur replies. Nobody sprints in that mud.
 
-Eighteen shillings a month.
+Tom locks eyes with Silas. Three minutes to fight through the mud. Yet you heard a scream over a gale, saw her in the pitch black, and caught a panicked girl in seconds.
 
-You will see nine.
+With a heavy, wet thud, one of the tar men lets the hanging rope drop to the floorboards.
 
-Tom's head comes up.
+***
 
-I know paper, she says. Nine to you. Nine to Master Harcourt until your father's account is clean. Food and clothes charged besides, I'll wager, so the number can learn to walk away while you sleep.
+### IV. The Grip
 
-It is eleven pounds, six shillings and fourpence.
+Silas flushes dark red. He is losing the room and knows it. You're twisting it, boy! She had the knife!
 
-She gives him a long look. A debt exact to the penny is a debt someone means to keep alive. Your mother know?
+Tom points at the heavy ship-breaker's blade on the table. Then show us how. How does a small, terrified girl drive a tool that heavy deep enough to break a man's ribs?
 
-My mother is dead.
+Eager to own the room again, Silas steps forward. I'll show you. He takes up the bloody blade, crouches, and reenacts the blow — a heavy, overhand thrust, down and in, stopping the point inches from Tom's chest.
 
-Your father?
+The room jumps, shocked by the brutal efficiency of it.
 
-Was boatswain for Harcourt's Levant ships. Smyrna, Scanderoon, sometimes Venice. Twenty-three years. The last passage took his knee. Harcourt says stores were missing when they paid the ship off — cable, two coils of running rigging, a kedge anchor. Things lost in the storm that broke him. Things in his charge.
+From the end of the bar, Pell slowly stands. The quiet sailor came up from Blackwall this morning, off the Dragon — the Company's first fleet — and two fingers are gone from his left hand.
 
-And now Harcourt has put money into the East India voyage.
+A terrified girl fighting for her life slashes wild, Pell says, cold and level. He looks at Silas's grip on the weapon. And any man who has ever held a blade in a real fight holds it underhand. He holds up the maimed hand, which is his certificate.
 
-Tom nods.
+Pell looks around the tavern, letting the truth do its own work. That thrust was too practised. He didn't show us how she did it.
 
-Same man, Maggie says. New seal.
+The realization washes over the silence of the Pelican, and the men nearest the centre of the room step slowly out of it. Silas's own muscle memory has betrayed him. He was not demonstrating Mara's crime. He has just shown the room exactly how he committed the murder.
 
-He found me the berth. If I take my father's place, half-pay goes against the account.
+***
 
-Found you the chain and called it work. She wipes the bar in front of him. Not the pepper, then. What else is on the manifest?
+### V. The Basket and the Boots
 
-Silk. Indigo. Cotton. Cloves from the Moluccas. Nutmeg from the Banda Islands. Worth a hundred times what they cost in London.
+The silence in the Pelican is heavier than the storm outside.
 
-Cloves. She almost laughs. You're going to die for a clove, Tom.
+Tom does not wait for the ship-breaker to react. He takes Mara by the arm and draws her behind the heavy oak bar. Maggie steps in front of the terrified girl and rests the mallet on the counter, and the bar becomes a wall. Mara is out of Silas's reach.
 
-Something flickers under his brightness — a man who knows he's about to do something foolish, working hard to pretend he doesn't know it. He drinks half his tankard in one pull, and when he sets it down there's a new determination in his face, the kind a man gets when he's stopped thinking and started doing.
+What does it matter how he holds a knife? Josiah's voice shatters the quiet. The waterman is up from the fire, flushed with cheap ale and sudden rage, pointing a trembling finger toward the bar. You're protecting a foreign dock-rat over an Englishman! These people come off those Portuguese ships, they breed like animals, and a life means nothing to them. We string her up, we send a message!
 
-* * *
+But the men of the Pelican are river-workers and deep-water sailors, and they have no patience left for a man whipping up a rope with cheap hate while a murderer stands in their midst.
 
-### IV. The Wager
+Pell crosses the room in three strides. He takes Josiah by the collar and puts him against the stone wall. You think the sea cares where a man is born, Josiah? he says, pressing the maimed hand flat against the waterman's chest. In a storm the ocean drowns an Englishman and a Portuguese exactly the same, and the Company treats us all as the same cheap meat. I watched a hundred English boys die of scurvy on the Dragon, and the clerks entered every one of them in the ledger like cargo.
 
-![Painted tavern scene: a huge bald bruiser faces a younger man with fists clenched, a bound woman seated at the bar, an older woman behind it, a crowd of onlookers in lamplight.](assets/img/the-wager.png)
+Carter, the rope-and-tar chandler, steps up beside him, his voice like slow thunder. You speak of the law, Josiah, and you know nothing of it. This is a river house. It keeps the sea's law, and you are breaking the peace of it.
 
-*Silas Rook squares off against Tom in the crowded tavern — Mara bound at the bar, Maggie behind it, the room watching. The confrontation at the heart of §IV. [Credit](#/credits)*
+From his stool by the fire, the old docker — Elias, to the parish — fixes Josiah with a cold, unforgiving stare. Under the old Admiralty codes we know exactly what to do with a man who bears false witness to murder, he says, and his voice carries the absolute authority of the docks. We sling him in a covered basket below the bowsprit, with a loaf of bread, a mug of ale and a sharp knife, and leave him his two choices: starve in the basket, or cut himself adrift and drown.
 
-The evening might have stayed an ordinary one. Most of them do.
+Elias leans forward. Keep opening your mouth to hang an innocent girl, Josiah, and we will not need a magistrate. We will walk you to the dock and rig the basket ourselves.
 
-It stops being ordinary when the door lets in a man who takes up more of it than the frame was built for. Silas Rook — Rock, to the men who have tried to move him and learned better — a Cornish tin-hauler turned ship-breaker turned whatever pays by the day, thick through the neck and chest the way men get who break things for a living, a beard on him like wet rope. The word runs ahead of him the way it does: that he put a lighterman's jaw out at Deptford and laughed while the teeth came; that he killed a Lascar at Gravesend and the matter cost him six shillings to make disappear. The room does the small cold arithmetic a room does, and makes space.
+Josiah goes pale. Stripped of his mob and terrified of the old sea justice, he shrinks down against the wall, silenced.
 
-He has a woman with him. He has her by the wrist.
+Ned, the young lighterman by the door, clears his throat, goes red, and holds his ground while the room turns to him. I carry anything that pays, he says. Casks, coals, gentlemen. A fare set down owes me the fare, and I owe him dry landing, and there is no paper in it, and no paper beats it either. That is water-law. She came here over water. He looks at Mara behind the bar, then at his boots. Then she is owed a landing. That's all.
 
-She is young, and — Tom notices it first, and is ashamed of it before the thought has finished — she is beautiful, with the whole reach of the Portuguese sea in her face — Macau, Lisbon, the sugar islands, no one of them able to claim the whole of her. Mara, Rook calls her, when he calls her anything. She is not his wife and not his hire, he tells the room, cheerful about it. She is a debt. Her passage out of São Tomé was staked at cards by the man who owed it, and lost, and the paper has changed hands twice since, and now the paper is Rook's — and a debt is a debt, and until it is paid she is his to work as the debt allows. He has decided the debt allows a great deal.
+Silas realizes the room has slipped from his grasp entirely. His chest heaves. I caught her, he growls, desperation cracking the gravel of his voice. I heard the scream, I chased her through the mudflats, and I dragged her in here.
 
-He sets her to carrying his ale round the room. That is the evening's sport: the girl pouring for men who will not meet her eye, while Rook talks odds over her head the way a man sells a horse that can hear him — what she'd fetch in Lisbon, what in a bad year in Wapping, whether the bidding should open now or keep for after supper. He is joking. He is not joking. The room laughs where it has to, does the small cold arithmetic a room does — a man who put a lighterman's jaw out for sport will do worse for a principle — and looks into its ale.
+From the shadows nearest the hearth comes the long, wet, graveyard cough — first the cough itself, patient, the room waiting through it as it has learned to, and then the man. Barnaby presses the bloody rag to his mouth and points slowly at the floor.
 
-She pours and does not spill any. She has stopped counting on the room; that much shows in how she carries the jug. She is counting the doors instead. And when she fills Tom's cup her sleeve draws back off her wrist, and Tom sees the bruising stacked under the torn lace, old under new, the ledger of a thing that has been happening a long while.
+It has been raining for three days, Silas, he wheezes. The mud on the Wall is deep enough to swallow a man's leg.
 
-Tom stands and crosses to the table. Not fast. He is aware of his own legs the way a man is when a room has gone quiet enough to hear them.
+The room follows the trembling finger.
 
-She has heard enough, he says. It comes out smaller than he wants it to.
+Look at your boots, Barnaby says. Wet across the tops, because every man's wet tonight. But turn one.
 
-Rook looks at him the way you'd look at a stool that had spoken. Then he smiles, because this is better sport than the auction. Then buy her, he says. Settle the debt like an honest man, sailor.
+Silas does not move.
 
-Tom empties his pockets onto the table. All of it — the coins that were to see him fed until the ship sails, everything he owns in the world that is not a paper or a keepsake — and it is not much, and it is everything, and every man in the room can count it from where he sits.
+Carter moves for him. He drives the end of the belaying pin beneath Silas's heel and rolls the boot sideways before the larger man can stamp it down. The sole is clean of black river mud. Pale pine dust is packed into the welt.
 
-Rook looks at the little pile for a long moment. Then he sweeps it off the table with the flat of his hand, unhurried, the way you'd brush away crumbs, and the coins go ringing and rolling among the stools and the rushes and the boots that do not move.
+Breaking-yard sawdust, Carter says. Your shed is roofed, and the plankway runs from its door to this one. You never went near the mudflats.
 
-Not enough, he says.
+The last piece drops into place, and it is terrible. The wind. The weight of the blade. The pale dust in the welt. Silas never chased anyone across the mud. Bell was killed under cover in the ship-breaking shed, close enough for Silas to bring the only witness along the plankway and straight through the Pelican's door — meaning to use the house as his gallows and its patrons as his executioners.
 
-Don't, Tom. Maggie's voice from the bar, low and level. She has seen exactly where this goes.
+He sees the arithmetic land on their faces. The sneer melts into something cornered.
 
-It has already gone there. Rook hits him first, and the room hears it land. Tom goes back over a table and the blood is there at once, hot down his chin. Stay down, Maggie says, and means it. Tom gets up. He grew up beside a millpond in Essex where the mill-boys and the carters' sons settled things behind the granary with fists and mud and whatever a knee could do, and he had been beaten there often enough to have learned the one thing worth the learning: the shape of a big man's certainty — the first rush, the wide swing, the half-second when weight mistakes itself for the whole of the argument. He slips late and ugly and lands a clean thing on the jaw, a blow the room draws breath at, a blow that ought to end it. Rook spits red into the rushes, works his mouth once as though testing a hinge, and comes on smiling with half of it. And there it is, the thing that empties the laughter out of the room: pain will not stop this man.
+I should have finished you in the shed with Bell! Silas roars, and takes up the blade, and lunges at Tom.
 
-What happens next is not rescue, and afterwards no two men will agree who moved first — but it is Mara who is nearest. She has stood through the odds and the auction with a jug in her hands, and now she throws the whole of it into Rook's eyes — not at the man fighting over her; at the man selling her. She is not saving Tom. She is declining, with everything in reach, to be property. The stool she kicks into the side of Rook's knee is declining it again. And when his big right hand goes flat to the bar to steady himself, blinking the ale away, she brings the empty mug down on his wrist with both hands, hard enough that the room hears something crack and cannot tell if it was the mug or the wrist.
+But Tom does not stand alone.
 
-It is still not enough. That is the true measure of Silas Rook, and the room takes it soberly: half-blind, one hand ruined, and he is still winning. He takes Tom by the throat and drives him back into the bar, lifting him half off his feet, and for a long moment the world shrinks to no air and the reek of the other man.
+Before Silas can cross the flagstones, Carter is in his path with an iron belaying pin. Elias has a chair up by its legs. Pell's own knife is out, the three-fingered hand wrapped tight around the hilt. Under the old sea laws of the Lionheart, a man who drew his knife to strike another lost the hand that held it; but it is not the law that stops Silas Rook. It is a wall of river-men who have finished deciding.
 
-The room does not move. It has its reasons. They are the usual ones.
+Silas stops. He looks at the men, then at Maggie behind the bar with the mallet loose in her hand, ready to crack his skull if he takes one step toward Mara. He is one man, and the room is twelve.
 
-Then Maggie sets down the tankard she is holding, without hurry and without noise, and says one sentence into the quiet, in the voice of a woman who has buried two husbands and does not repeat herself.
+The blade drops and rings on the floorboards. Breathing hard, Silas backs to the door. Nobody follows. The room has found the truth, but finding and acting are different labours, and for one fatal second every man waits for another man to begin.
 
-Any man who still calls himself a sailor had best decide what sort of river he drinks beside.
+Mara makes a sound behind the bar — not fear this time. Urgency. She points toward the rear wall, toward the breaking shed, and says one word with all the English she has.
 
-For the space of a breath, nothing. Then the old docker by the fire — hands like old leather, a man who has not stood quickly for anything in ten years — gets off his stool. Then the one with the cough a man does not recover from, who of everyone in the room has the least left to lose and knows it best. Then the two who were arguing about tar, together, agreeing for the first time all evening. Then more. Not for Tom — half of them do not know his name. Because a room can watch a thing for only so long before what it is watching becomes what it is, and every man now on his feet has drunk beside this river his whole life and would like to go on calling it his.
+Bell.
 
-Rook understands force. He has understood it his whole life; it is the one language he has never needed translated. Half-blind, wrist singing, he looks over Tom's head at what has changed — that he is no longer fighting one young fool, that he is standing against a room on its feet and the woman who keeps it and the girl with the broken mug still in her fist — and he does the arithmetic, and being fluent, he does it fast. The grip opens. Tom slides down the bar to his own feet, whooping air.
+Tom looks from her to Silas. One man is escaping; another may still be alive. There are twelve people enough to do both things. They do not. Tom and Ned move toward the back passage. The others close around Mara. Silas throws the bolt, and is gone into the freezing, howling blackness — out into the storm no honest man would cross the Wall in, which is now the only country that will have him.
 
-Maggie comes round the counter then, unhurried. She stoops, picks one of Tom's coins out of the rushes, and sets it on the table where the pile had been.
+The door slams shut in the wind.
 
-The debt's mine now, she says. Bought and witnessed. The girl sleeps upstairs tonight. Any man who cares to argue it can find me in daylight, sober, and see how far he gets.
+***
 
-Rook goes. There is nothing left in the room for him to do, and — the only credit the evening owes him — he knows it. The door lets in the cold and takes him out into it, and the room sits back down by ones and twos, not looking at each other, the way men do after church.
+### VI. The Quiet
 
-Mara sets what is left of the mug on the counter, the handle still in her fist, and unclenches her fingers from it one at a time. She does not thank Tom. She does not give him anything he could warm his hands on afterward. She spits her own blood onto the flags — her mouth is cut too; it was never only the wrist — and asks Maggie, not Tom, where the back stairs are. Maggie tells her. Going past, she gives Tom one look, and it is not love and it is not gratitude; it is recognition, one animal marking another that also refused, tonight, to stay in its place. Then she is up the stairs and gone. She'll be gone again before light — safety in Wapping is a thing you are lent for a night and never two, and no one left in the room knows that better than she does.
+Maggie walks over and slides the iron bolt firmly back into place.
 
-Tom is at the bar, shaking too hard to lift the tankard, one eye swelling shut, a tooth loose against his tongue, the split in his lip letting blood faster than he can swallow it. The old docker gathers his coins up off the floor, all of them, and stacks them by his elbow without a word, and goes back to the fire. Maggie sets a cloth down in front of him. Not gentle. Not proud.
+Tom and Ned find Matthew Bell beneath the roof of Silas's breaking shed, curled among lengths of stripped pine with one hand pressed uselessly to his ribs. There is no mud on him. Only sawdust, blood and the fine black ink ground permanently into the first finger of his right hand.
 
-Hold that to your mouth, she says.
+They carry him into the Pelican on a door lifted from its hinges. By the time they lay him across the centre table, he is dead.
 
-He holds it. And she looks, for a moment, not at him but at the paper lying where he left it on the bar — the Company's paper, tomorrow's signature still folded up inside it. Tom had thought the paper in his pocket was a door out. He has just had it beaten into him, in the space of one bad minute, what men do with a door when there is a person on the far side of it and the lock is in their hand.
+For a long time the only sound in the Pelican is the hiss of wet wood in the hearth. The men lower their makeshift weapons one by one. The adrenaline drains away, and in its place comes a cold, suffocating shame. They are twelve people who nearly let a murderer turn them into his rope. They are also twelve people who had him against a bolted door and let him leave.
 
-* * *
+Arthur comes close enough to see the dead man's face and takes off his cap.
+
+Matthew Bell, he says. Copyist to Harcourt. Wife named Anne in Shadwell, two girls. He says the facts in the flat voice of a clerk, and then seems to hear what he has done: reduced a life to four entries.
+
+A dead man has a name, Maggie says. Say it again as a name.
+
+Matthew Bell, Arthur says.
+
+Later, the parish will argue for years about who stood first and who said what and in what order. The house will prefer the cleaner story: twelve souls became a court and reasoned their way to the truth. What the cleaner story leaves out is Bell on the table. A court can name the guilty. Justice has to survive the door.
+
+Behind the safety of the bar, Mara lets go of the counter's edge one finger at a time. She does not thank Tom. She has survived too much to trade in cheap gratitude. Instead she kneels beside Bell and closes the ink-stained hand over his chest. Whatever he was to her, he was not merely a body she happened to stand above.
+
+From inside her wet dress she draws a folded leaf of foolscap. Blood has reached one corner. She places it beside Bell's hand.
+
+Arthur reads it first. His face changes as his eyes move down the page. It is in Bell's copying hand: names, sums and transfers out of Harcourt's private books, debts carried from one venture into the next after the men who incurred them could no longer inspect the accounts. Halfway down is a human being entered among cordage, anchors and spoiled timber:
+
+*Mara de Sousa — Portuguese servant — transfer pending.*
+
+Near the bottom Tom finds the entry for Harcourt's injured boatswain and the sum he already knows by heart: *eleven pounds, six shillings and fourpence.* Beside it Bell has written a smaller sentence not meant for Harcourt's ledger.
+
+*Account disputed. No discharge permitted.*
+
+At the foot is Bell's signature and a confession written without ornament: he kept accounts he knew were made not to close; he entered a woman as an article because a merchant told him the paper allowed it; tonight he meant to put the page into hands beyond Harcourt's purchase and take Mara somewhere no account named her. He names Rook too — the breaking-yard man Harcourt uses when an account will not answer ink — and writes that if Rook is sent after them, Harcourt has chosen silence over recovery. It is not innocence. It is one late act by a man who has finally understood the work his clean fingers were doing.
+
+So that is why Silas needed her dead, Carter says.
+
+That is why he needed us to do it, Maggie replies.
+
+Tom looks at the corpse, at Mara, and at his own name in Bell's hand. Can this clear the debt?
+
+Arthur shakes his head. It shows what Harcourt does. Most of what it shows him doing is lawful. That is the cleverness of it.
+
+And the murder? Maggie asks.
+
+Bell expected Rook, Arthur says. That is motive, not proof of who gave the last order. We are the proof of what Rook confessed. If we are willing to say it when the storm is gone.
+
+Nobody in the room answers quickly enough.
+
+Arthur borrows Maggie's ink and copies Bell's page twice before dawn. One copy will go to the parish officers with the body; one to Anne Bell. The first will disappear into an official bundle before the month is out. The second will be too dangerous for a widow with two children to keep. Only the blood-marked original will survive the year.
+
+Mara folds the page along its old crease and presses it into Maggie's hand. She will not carry the paper that priced her. Maggie puts it beneath the bar, in a narrow fault in the old oak where spilled ale never reaches. It is the first account the Pelican keeps against the men who keep accounts against everyone else.
+
+Only then does Mara look at Tom. One long look — not love. Recognition.
+
+She turns to Maggie and says a few quiet words in Portuguese, pointing at the ceiling.
+
+Upstairs, Maggie says, handing her a candle. First door on the right. Neither woman needs the other's language for it. In Wapping, safety may be lent for a night, never two, and both of them know Mara will be gone before first light.
+
+Tom leans against the bar, shaking too hard to lift the fresh pint Maggie has poured him. One eye is swelling shut where the backhand caught it, and he presses a rough cloth to his cut mouth. Beside his elbow, the Company's contract sits untouched in his coat. Elias gathers his coins from the table and returns to the fire. Josiah stares at his boots.
+
+Maggie comes down the length of the counter and stops in front of him. She looks at him the way a mother looks at a boy who has just announced a foolish, fatal decision — he is near enough the age of her own boy, on whatever cold deck the Swedish Crown keeps him. What are they paying you?
+
+Eighteen shillings a month, Tom says.
+
+You will see nine, Maggie counters flatly. Nine to you. Nine to Master Harcourt until your father's account is clean.
+
+Tom looks down at his boots. It is true. His father was boatswain on Harcourt's Levant ships for twenty-three years — Smyrna, Scanderoon, sometimes Venice — until the last passage took his knee. Then Harcourt charged the ruined man for what was lost in the storm that broke him: cable, two coils of running rigging, a kedge anchor. The debt is exact — eleven pounds, six shillings and fourpence — and a debt exact to the penny is a debt someone means to keep alive. Now Harcourt has put his money into the East India voyage, and the debt simply walks across to the new ledger.
+
+You are going to sign a paper that sends you round the Cape in a wooden box full of scurvy, Maggie says, her voice dropping to the cold terms of a transaction, to a place where the Portuguese and the weather and the food will all take turns trying to kill you. She shakes her head. You're going to die for a clove, Tom.
+
+Tom says nothing. He has just watched this room take a big man's story apart plank by plank, and he knows the difference in his bones: a tavern can fight a bully. The thing waiting in his coat pocket is not a bully, and he does not yet have a word for what it is.
+
+For a full hour after that, the Pelican is a silent sanctuary.
+
+---
+
+## Dutch Courage (1603)
+
+> **1603**
+>
+> *“That is the whole difference between a fight and a Company. One of the two you can win.”*
+>
+> — Hendricks, waterman, Wapping, 1603
+
+***
 
 ### I. The Dragon's Lads
 
+The pounding comes an hour into the quiet — heavy, rhythmic, a fist used to being answered.
+
+The room tenses, every face toward the entrance. Maggie picks up the mallet, walks to the door, and calls out over the wind. Who's knocking at this hour?
+
+The Dragon's lads! a hoarse, salt-stiff voice shouts back through the wood. Just up from Blackwall! Open the door, Maggie, we're freezing to the bone!
+
+Maggie lowers the mallet, slides the iron bolt, and pulls the heavy door open.
+
 ![Painted portrait of a broad, curly-haired sailor in a black oilskin coat with a stone bottle and tankard in a candlelit tavern.](assets/img/dragons-lad.png)
 
-*One of the returned men of the first fleet, converting his wages into ale — forty-three of five hundred came home. [Credit](#/credits)*
+*One of the returned men of the first fleet, converting his wages into ale. More than a hundred of the 480 who sailed were dead before the fleet rounded the Cape. [Credit](#/credits)*
 
-The door opens an hour later and the wind brings in noise and cold and the smell of the river at night. Five or six men clump in from the waterfront, loud, salt-stiff, converting their wages into ale as fast as Maggie can pour it. One of them is missing two fingers on his left hand and doesn't seem to have noticed, which tells you something about what he has noticed instead.
+The wind brings in a blast of cold and the sharp smell of the river at night, and five men clump in from the waterfront, loud, salt-stiff, eager to convert their wages into ale. The Dragon's lads, one of them announces to the exhausted room, shaking the rain from his coat. Just in. Lancaster let us go.
 
-The Dragon's lads, one of them announces to the room. Just in. Lancaster let us go.
+The twelve who have spent their evening deciding not to hang an innocent woman breathe out, slowly, by ones and twos. The newcomers notice none of it — not the tension, not the dark rectangle on the centre table where Matthew Bell lay before Ned and the parish men carried him home to Shadwell, not the blood not yet scrubbed from the boards by the door. They take the tables nearest the hearth and plunge straight into a loud, spirited argument about whether the cloves from Ternate beat the cloves from Tidore, boasting of the fortunes made and the spices sitting in the Company warehouses. They are not lying about what they saw. But they are editing — pepper and gold, not the men put into the ground before India.
 
-The room goes quieter — not silent, quieter. This is the crew of the Red Dragon. The first fleet. The men who went out and came back. Or some of them. Out of five hundred. Forty-three. Nobody says the number. Nobody needs to.
+Pell steps away from the celebrating men and walks down the bar to where Tom stands, still shaking slightly, the eye Silas Rook's backhand found gone the colour of a thundercloud. Inside Tom's coat, the Company's contract waits for the morning.
 
-They are not lying about what they saw. But they are editing. Pepper, gold, markets, colours — not the four hundred and fifty-seven men who did not walk back into a bar tonight, not the Susan breaking up off Madagascar, not the surgeon who hanged himself off the mainmast. You tell the story that makes the voyage sound worth it, because if it wasn't worth it, what were you doing out there?
+You're signing on, Pell says. It is not a question.
 
-Two of them are already arguing — loudly, and with real conviction — about whether the cloves from Ternate beat the cloves from Tidore, a question neither is remotely qualified to settle.
+Tomorrow, Tom says, his voice raw. Second fleet. Before the mast. Able enough. My father was a boatswain.
 
-The one with the missing fingers notices Tom. The paper. The hunger in his face. He's seen that look before — probably worn it himself.
+Pell nods slowly. He holds up the left hand, the one missing two fingers. Knife fight in Bantam. Over a woman, if you can believe it — a woman and a sack of pepper. Don't get into knife fights out there, lad. The climate doesn't agree with bandages.
 
-You're signing on. Not a question.
+Tom looks at the maimed hand, then at the loud, celebrating sailors by the fire. Was it worth it? The voyage.
 
-Tomorrow. Second fleet. Before the mast.
+Pell considers the question. Four hundred and eighty men sailed with us, he says, his voice dropping flat, like a man reading a manifest. More than a hundred were dead of scurvy, flux and fever before we had even reached India. He shakes his head. The Company cares about pepper. And money. And money does not bring back the dead.
 
-Able?
-
-Able enough. Coasters since I was fourteen. My father was a boatswain.
-
-The sailor reaches across without warning and throws him the heel of a bread loaf. Tom catches it one-handed despite the closing eye.
-
-Can you splice?
-
-Eye, short and long.
-
-Can you take the wheel?
-
-If the master tells me where he wants the ship.
-
-Then you are a seaman, whatever figure the clerk writes beside you. He holds up the ruined hand. Knife fight in Bantam. Over a woman, if you can believe it — a woman and a sack of pepper. Don't get into knife fights out there, lad. The climate doesn't agree with bandages.
-
-Was it worth it? Tom asks. The voyage. Was it worth it?
-
-The sailor considers this properly, the way a man considers a question he hasn't let himself ask. The pepper was good. Very good. The rest of it — ask me again in ten years. If I'm still here.
-
-Maggie brings bread and cheese to the Dragon's men. They fall on it like wolves. She watches them eat with the look of someone counting — the ones who came back, the ones who didn't, the cost of pepper measured out in men.
-
-They were lucky, she tells Tom quietly, refilling his ale. Lancaster knew what he was doing. Most captains don't.
-
-But the Company's sending the next lot anyway.
-
-Of course they are. That's what companies do. Some come back, some don't, and the Company doesn't much care which — the Company cares about pepper. And money.
-
-And money, she agrees. Money that isn't going to bring back four hundred and fifty-seven men at the bottom of the Indian Ocean.
-
-* * *
+***
 
 ### II. The Dutchman
 
-He comes in later, when the Dragon's men have moved from cloves to a louder argument about something else entirely. The door brings in a wall of cold, the candles gutter, and behind it comes a man who looks carved out of the river itself — broad, short, hands like two enormous mittens of callused flesh, the particular squint of someone who has spent more years looking at horizons than at other people.
+He tells you the truth, boy, says a voice from the shadows at the end of the bar.
 
-Hendricks. The Dutchman. Everyone in Wapping knows him. He's worked this river since before the Company existed, hauling cargo on a flat-bottomed barge, and he knows the Thames the way a priest knows his church — every channel, every sandbar, every tide.
+Nobody saw him come in behind the Dragon's men; Hendricks arrives the way the tide does, without asking anyone. A broad, short man with callused hands and the permanent squint of someone who has spent more years looking at horizons than at people. The Dutchman. Everyone in Wapping knows him: he has worked the Thames on a flat-bottomed timber barge since before the Company existed, and knows every channel, sandbar and tide. While the English drink ale, a squat stone bottle lives inside his coat — genever, juniper spirit from home — and at the end of each pint he takes one measured pull. The English at the bar call it Dutch physic and want nothing to do with it.
 
-He drinks the house ale like everyone else, but there is a squat stone bottle that lives inside his coat — genever, juniper spirit from home — and he takes one measured pull from it at the end of each pint, a private punctuation. The English at the bar call it Dutch physic and want nothing to do with it: a medicine-smelling foreign habit, like the man himself. Give it ninety years and their grandchildren will be drowning in the stuff and calling it English. Nobody in this room knows that yet either.
+He is not popular here. He says things people don't want to hear, at the worst possible moment, and he is usually right.
 
-He's not popular here. He says things people don't want to hear, at the worst possible moment, and he's usually right.
+Maggie brings him a fresh pint without being asked and without warmth, which from her is a welcome.
 
-Maggie brings him his pint without being asked and without warmth, which from her is a kind of welcome. You talk too much, Dutchman, she says. Only when the boys are listening too little, Margareta, he answers, and she does not break stride — but something in her jaw takes note of the name the rest of the room has never once heard her called. That name stayed north of the water, she says. Then it has travelled badly, he says, and drinks. They have been doing some version of this for years. She trusts him rather more than she would ever say, which is not far, but is further than she trusts most.
+You talk too much, Dutchman.
 
-Tom notices him — Tom notices everyone tonight, the way anxious young men do, and the way a boy does when one eye is closing and he wants the room to think he isn't counting the door — and carries his ale down the bar.
+Only when the boys listen too little, Margareta.
 
-You were on the river before the Company. That right?
+Something in her jaw answers to the name nobody else here has heard. That name stayed north of the water, she says.
 
-Before your Company was so much as a thought in a merchant's head — God rest your late Queen, she signed it into being with one foot in the grave. Hendricks turns his pint slowly on the wood. I was hauling timber on this river when the Portuguese owned everything east of the Cape and the English weren't allowed within a mile of it.
+Then it travelled badly, he says, and drinks. They have been doing some version of this for years.
 
-And now, Tom says.
+Tom presses the rag to his cut mouth and looks at the Dutchman. You were on the river before the Company. That right?
 
-Now your Company wants to break that. Good luck.
+Before your Company was a thought in a merchant's head. Hendricks turns his pint on the wood. I was hauling timber when the Portuguese owned everything east of the Cape and the English were not allowed within a mile of it.
 
-They already have. First fleet came back with pepper. The charter gives us fifteen years, monopoly, nobody else trading east of the Cape.
+And now our Company wants to break that, Tom says. First fleet came back with pepper. The charter gives us fifteen years. Nobody else trading east of the Cape.
 
 Hendricks makes a sound that might be a laugh. On paper. And what happens when you get to the Spice Islands and find the Dutch already sitting on them?
 
 The Dutch?
 
-The Dutch. Last year, while your first fleet was still at sea, the Dutch chartered their own. The VOC. Heard of it?
+The Dutch. Last year, while your first fleet was still at sea, they chartered their own company. The VOC. He leans forward, the juniper sharp on his breath. More capital than you. Better ships. Better guns. And they are not gentlemen arguing over pepper in a London room. They mean to take the trade while you sit here with your eighteen shillings a month, half of it promised away, and your good ale.
 
-A little.
+Lancaster was there, Tom says, defensive now. He made deals.
 
-Not enough, then. More capital than you. Better ships. Better guns. And they are not gentlemen arguing about pepper prices in a London room — they're soldiers, taking the islands by force, right now, while you sit here with your eighteen shillings a month, half of it promised away, and your good ale.
-
-Lancaster was there, Tom says. He made deals.
-
-Lancaster made deals with men the Dutch have since killed or driven out. He picks his pint back up, and his voice drops — not secrecy, just weariness, the kind that comes from watching the same story play out too many times. I've heard what they do to competitors. From Dutchmen. My own countrymen, who went out rich in their heads and came back with nothing. Or didn't come back. I had a brother go out with them — Pieter, younger than me, full up to the eyes with the islands. He came home rich in nothing but the fever, and spent the last of himself in a lodging house off the Ratcliff road, raving about punishment, about the Company's islands, about a thing he'd watched that he could never get the shape of into words. I never had the whole of it out of him before he went. Enough of it, though. Do not mistake my accent for their flag, boy. A man may know his own countrymen, and know them for wolves.
+Lancaster made deals. The Dutch made others. Hendricks picks up his pint. My brother Pieter sailed east with one of their fleets, rich in his head. He came home with a fever and died in a lodging house off the Ratcliff road, raving about the Company's islands and a thing he had watched but could not put into words. I never had the whole of it out of him. Enough, though. Do not mistake my accent for their flag, boy. A man may know his countrymen and know them for wolves.
 
 What do they do?
 
-Burn the posts. Sink the ships. Arrest the rivals on false charges and execute them — publicly, so everyone understands who owns the trade. They have a word for it. Bestraffing. Punishment.
+When two charters claim the same island? Burn the post. Take the ship. Call the rival a criminal and the taking punishment. Paper is clean. Men do the dirty part.
 
 The bar has gone properly quiet. Even the Dragon's men are listening now, pretending not to.
 
-Nine in ten, Hendricks says. That's the number I hear for your Company's men. Won't come back. And if you try to trade where the Dutch already are, they'll take the rest.
+Hendricks looks at the blackened eye and the split lip. A big man in a tavern is honest danger, boy. You can see him come. Tonight this room read one by his boots, named what he was and still watched him leave. He takes one measured pull from the stone bottle and corks it with his thumb. The thing you sign in the morning has no jaw to swell and no boots to read. No room has ever stood up to a paper. That is the whole difference between a fight and a Company. One of the two you can win.
 
-Tom stares at his ale. The brightness has gone out of his face, and what's replaced it isn't fear exactly. It's the look of a man counting backwards from nine in ten.
-
-Hendricks looks at him then — really looks, at the eye going black and the lip still weeping where Rook opened it, the whole bruised account of the story the room has already told him twice. Whatever he thinks of it, he does not let it warm his face. A big man in a tavern is honest danger, boy, he says. You can see him come. And a tavern fights back — the girl had the ale, and the room stood up, and the woman behind that bar had the only sentence the evening needed. He takes his one measured pull from the stone bottle, corks it with his thumb. The thing you sign for in the morning does not stand so near. It has no eyes to be blinded and no wrist to be broken, and no room has ever once stood up to a paper. That is the whole difference between a fight and a Company. One of the two you can win.
-
-* * *
+***
 
 ### III. The Night Before
 
-The evening wears on. The Dragon's men get loud again, the way men do when they've drunk long enough for the fear to surface but not long enough to win. Singing, badly. One of them crying quietly into his ale — the way men cry in bars: not at all, and completely. Somewhere behind them, the snow bet from earlier is being loudly re-litigated — no snow yet, and the man who staked his supper on it is being reminded of this at length and without mercy.
+Outside, the storm finally breaks, leaving a cold grey drizzle behind it. The ships at anchor are dark shapes on darker water, masts swaying, rigging making small sounds like men who cannot sleep.
 
-Maggie brings Tom bread and cheese he didn't ask for.
+Maggie comes over one last time and refills his ale.
 
-Eat. You won't eat like this for months. My second husband was at sea — told me. Salt beef till it walks off the plate.
-
-Your second husband.
-
-Died. Six years back now, off Africa. Never found the body. She says it plainly, the way you say a thing that's stopped being painful and simply become fact. That's sailors for you. You learn to pour the drinks and not wait by the window. Funny thing about the water. I spent a whole first marriage braced for it to take a fisherman off me, and a sickness got him instead, in his own bed. Then I marry a riverman — safe as houses, never out of sight of London — and the sea reaches all the way up to Africa for him. It has a humour to it. Just not a kind one.
-
-Tom eats. Outside, the ships at anchor are dark shapes on darker water, masts swaying, rigging making small sounds like men who cannot sleep.
-
-Hendricks has gone silent at his end of the bar, watching Tom the way a man watches a ship he already knows is going to sink. Not pleasure. Not pity. Just recognition. The boy will go. The boy will sign. The odds are nine in ten against him, and the boy is twenty-two, and the Dutch are still only a story.
-
-Maggie comes over one last time, refills his ale.
-
-The charter was signed on New Year's Eve, she says. Three years back. Old Queen Bess — sixty-seven she was then, and dead since the spring, and the Company she signed into being is still here, hiring. Notice that, Tom. The queen is gone. The paper isn't. Harcourt traded under the Levant seal when your father could still climb. Now he puts his money under the East India seal and your father's debt walks across with him. The companies do not even have to be the same. The man is the same. The ink is the same. Now here you are signing your own. She signs a paper. Harcourt signs a paper. You sign a paper. Somewhere between the three papers, a great many men work and die. That's how it works, Tom. The people at the top sign. The people at the bottom pay. The pepper comes back. The money comes back. The men don't.
+The charter was signed on New Year's Eve, she says. Three years back. Old Queen Bess is dead, and the Company she signed into being is still here, hiring. The queen is gone. The paper is not. Harcourt traded under the Levant seal when your father could still climb; now he puts his money under the East India seal, and your father's debt walks across with him. The companies do not even have to be the same. The man is the same. The ink is the same. She signs one. Harcourt signs one. You sign another. Somewhere between them, men work and die. The people at the top sign. The people at the bottom pay. The pepper comes back. The money comes back. The men do not.
 
 He opens his mouth. Nothing comes out.
 
-What he cannot say — because at twenty-two, in front of this woman, it would sound like a child's answer, and because it is one — is that the debt is not the whole of it. He could run from Harcourt. Men run from smaller sums every day. His father would lose the rented rooms, and perhaps his liberty, and Tom knows he will not do that; but buried inside the duty is an older and more shameful willingness. That same brown millpond in Essex, behind the granary where the mill-boys taught him the shape of a fight, had been for ten summers a stretch of water a strong man could throw a stone across, and the whole of the ocean. Later his father took him on coasters and taught his hands the names of things: sheet, brace, halyard, splice; how a deck moves under a sleeping body; how land dwindles without asking permission. Tom has wanted, for as long as he has been able to want anything, to come back through a door like this one with salt on his coat and stories no one else in the room could tell. Harcourt's paper has found the place where duty and desire are knotted together and pulled tight. There is no putting that in front of Maggie, next to forty-three men out of five hundred. It is not an answer to anything she has said. It is only the truth.
+What he cannot say is that the debt is not the whole of it. Bell's account has made Harcourt more dangerous, not less. A man who sends Silas Rook after a copyist will not forgive a debtor's son for discovering principle overnight. Tom could run from the paper — but his father would lose the rented rooms, perhaps his liberty — and buried inside the duty is an older willingness. Tom has always wanted to come through a door like this with salt on his coat and stories nobody else could tell. Harcourt's paper has found the place where fear, duty and desire are knotted together and pulled tight. It is a child's answer to a hundred dead men before the Cape. It is also the truth.
 
-Then, instead of anything he might have said, he does something instead. Reaches into his coat and comes out with the one thing in it worth more than the coat — a plain brass thimble, his mother's, the only piece of her he kept when there was nothing else worth the keeping. He sets it on the bar between them, not quite meeting her eye.
+There is nothing left in his pockets to leave her. He reaches into his coat and comes out with the one thing in it worth more than the coat itself — a plain brass thimble, his mother's. He sets it on the bar between them, not quite meeting Maggie's eye.
 
 Keep this, he says. Till I'm back.
 
-Maggie looks at the thimble, then at him, and doesn't reach for it straight away — she has held out her hand for enough of these to know what it costs a man to leave one. When she does pick it up, she doesn't make a show of it. Closes her fist around it the way she'd close a fist around a coin she meant to keep separate from the till.
+Maggie looks at the thimble. She has held out her hand for enough keepsakes to know what it costs a man to leave one. She closes her fist around it as she would a coin meant to be kept apart from the till.
 
-Till you're back, she says. Not agreeing. Not disagreeing. Just repeating it, the way you repeat a wager back to the man who's made it, so there's no confusion later about what was said.
+Till you are back, she says, repeating the wager without accepting the odds.
 
-He finishes his ale, stands, puts on his cloak.
+He finishes his ale, stands, and pulls his cloak tight around his shoulders.
 
-Hendricks stops him at the end of the bar — wordless, the stone bottle held out, uncorked. Tom hesitates, then drinks, and his eyes water on the instant, juniper and fire and something like pine resin lit, and the Dragon's lads laugh, not unkindly, at the face he makes.
+Hendricks stops him at the end of the bar and holds out the uncorked stone bottle. Tom drinks. His eyes water — juniper, fire, pine resin — and the Dragon's lads laugh, not unkindly, at his face.
 
-For the morning, Hendricks says, taking the bottle back. In the Low Countries the English soldiers beg this off us before an assault. They have a name for it — Dutch courage. They mean it as an insult. He works the cork home with his thumb. They still beg.
+For the morning, Hendricks says, taking the bottle back. Courage enough to reach the clerk. After that you will need your own.
 
 Go and sign your paper, boy.
 
-Goodnight, Maggie, he says on his way past the bar — the only man left in the room who remembers her stepping off a timber boat much like the one that will take Tom, a widow off the northern water starting the back half of a life in a city that couldn't say her name. She doesn't look up from wiping the counter, but something in her shoulders answers him — the worn ease of two people who crossed the same cold water a long time ago — that she shows no one else in this room.
+Goodnight, Maggie, Tom says on his way past the bar. She does not look up from wiping the counter.
 
-At the door he pauses, hand on the latch, and doesn't look back. The cold takes him. The dark and the mud and the river swallow him — the same as they've always been, indifferent to whether he comes back or not.
+At the door he pauses, hand on the iron latch, and does not look back. The cold takes him. The dark and the mud swallow him.
 
-The door closes. Maggie stands still behind the counter. Hendricks finishes his pint and leaves without a word. The Dragon's men are asleep, or close to it, and the fire is down to embers.
+The door closes. Maggie stands still behind the counter. Hendricks finishes his pint and goes out into the first grey of the morning. The Dragon's men are asleep at the tables. The fire is down to embers.
 
-He will sign the paper in the morning. He will get on the ship. Half his wages will begin travelling home before the ship has cleared the Downs, each month of his life entered against cable and anchor lost before the Company existed. This is how it works tonight, in this bar, on this river: a seaman hears the odds, drinks his ale, and goes anyway. The river does not keep track.
+In the quiet tavern, Maggie takes a sharp knife from her apron and bends down. Bell's folded account already rests in the narrow fault beneath the heavy oak bar. Arthur has written the dead man's full name across the outside before leaving for Shadwell, where somebody must tell Anne Bell that four facts in a ledger have become the rest of her life.
+
+Beside the paper Maggie cuts a deep notch into the wood — a fresh, pale mark joining a crowd of others in the dark, one for every young man who has sat at her bar with a paper in his pocket and walked out to give his life to the sea. She stopped counting them long ago. She keeps cutting them.
+
+It gives her hands something to do besides wait.
 
 ### IV. What Comes After
 
-Morning comes grey and wet. The river is loud enough to hear over the empty bar. Somewhere behind the tavern a cockerel crows — a farmer's bird, or an optimist's; in Wapping the distinction isn't always clear.
+Morning comes grey and wet. Somewhere behind the tavern a cockerel crows — a farmer's bird, or an optimist's; in Wapping the distinction is not always clear.
 
-The stool by the window sits empty, its crack settled into shape. On the table, a ring left by a tankard is already fading into the wood — one mark among hundreds still to come.
+The stool by the window is empty. A tankard ring fades into the table. Tom signs his name this morning in a hall in the City, under the eyes of Governor Smythe's clerks, and half of every month he serves begins travelling to Master Harcourt's ledger before the ship has cleared the Downs. He has heard the cost priced to the shilling, and he goes anyway.
 
-Maggie is alone. She takes a knife from her apron and scores a small mark into the underside of the counter, low, where you'd have to duck to see it. There's already a crowd of them down there — one for every young man who sat on that stool with a paper in his pocket and walked out toward a ship. She stopped counting them long ago. She keeps cutting them anyway. It isn't superstition. It isn't a prayer. It's the one thing she's found to do with her hands that isn't standing at the window.
+Tom's thimble goes into the gap behind the old wood, beside Matthew Bell's account, where a notch cannot be mistaken for a promise and a dead man's name cannot be reduced again to *Company clerk*. Few of the keepsakes there have been collected.
 
-Tom's thimble goes into the same gap, wedged back against the old wood where a notch can't be mistaken for a promise. She doesn't expect to see it collected. She has never once been wrong about that, and doesn't expect this morning to be the first time.
+In the City, Bell's chair does not remain empty. Another copying man sits in it before noon. Tom's contract was prepared days ago in Bell's small neat hand; the new clerk witnesses the signature and enters the wage assignment without asking why the old clerk has failed to attend. Paper does not observe a death unless someone pays to have the entry made.
 
-The charter is a piece of paper in a locked room in the City. The Company is two hundred and eighteen names and a warehouse of pepper the market has not yet agreed what to pay for. Whether the next fleet comes back at all, nobody in this bar could say. The ships go out. The boys sign. That's all that's known tonight, and it's all that needs to be.
+The charter is a piece of paper in a locked room in the City. The Company is two hundred and eighteen names and a warehouse of pepper the market has not yet agreed what to pay for. Whether the next fleet comes back, nobody in the bar can say. Matthew Bell is dead. His desk is occupied. The ships go out. The boys sign.
 
-## Part II · 1606 · Between Ships
+---
 
-The first thing Maggie recognises is the hand.
+## The Return (1612)
 
-It lies flat on the bar between two louder men, waiting for the ale they have
-ordered over it. Brown almost to the wrist, a white seam across the palm, the
-little finger pulled inward by a tendon that healed without anyone asking
-whether it had healed straight. The nails are black with work that no scrubbing
-on the Gravesend reach has shifted. Three years ago the hand had been young
-enough to empty every coin it owned onto Silas Rook's table. Now it waits without
-fidgeting.
+> **1612**
+>
+> *“Don’t come back until you remember what a human life is worth.”*
+>
+> — Maggie, keeper of the Pelican, 1612
 
-Maggie puts the ale in front of the wrong man.
+***
 
-Tom looks up.
+### I. The Changed Room
 
-For one poor instant neither of them knows what face to make.
+Nine years is a long time on the river. In the ledgers of the East India Company it is an eternity.
 
-His beard has come in redder than she remembers and been cut with a knife rather
-than a mirror. There is a healed split through one eyebrow. He has lost the soft
-part beneath the chin and something less easily named behind the eyes. But the
-eyes are his. Still earnest. Less certain that earnestness will be rewarded.
+By the winter of 1612 the Pelican has changed without anyone quite watching it happen. New flagstones near the hearth. The rushes swept away for good. A longer oak bar, to hold the swelling tide of dockworkers. The Company that hired boys out of this room for a desperate venture is a power now, trading in silk, indigo and blood; off the Surat bar its ships have just beaten a Portuguese fleet at Swally, and the Portuguese grip east of the Cape has begun, audibly, to crack.
 
-“You took your time,” Maggie says.
+While the Company grows, Wapping pays the toll.
 
-“We came by way of Ternate.”
+Elias, the old docker whose word was once law, was broken by a lifetime of other men's cargo and buried three winters past. Barnaby kept his promise: Wapping churchyard by the Whitsun of 1604, and his stool by the fire has stood empty ever since, by a treaty nobody ever said out loud. Arthur no longer drinks in the Pelican. Within a week of Matthew Bell's murder he accepted a copying place in Harcourt's house, meaning at first to learn what Bell had learned and do something cleaner with it. The Company discovered what an exact man was worth. Now he has a desk in Leadenhall Street, where he drafts the exact species of paper that traps poor boys in endless debt — timelines, penalties, wage assignments, exact to the penny. A murder opened the place. Nine years later Arthur is still filling it. Only Josiah remains precisely as he was: at the end of the bar, still complaining about the Portuguese and the Dutch, a fixture the room has long stopped hearing.
 
-“Was it farther than expected?”
+Maggie stands behind the counter, slower on her feet than she was a decade back, wiping the wood with a rag. Beneath the bar the hidden crowd of pale notches has multiplied — dozens of cuts now, one for every boy who signed a paper and never came home. Matthew Bell's folded account remains behind them, his full name on the outside, Tom's inherited debt buried inside.
 
-The man beside him laughs. Tom does too, then stops because she has not.
+There is a meat pie in the oven behind the bar — mutton and mace, the way one particular boy liked it. Word came up the river this morning that the Company fleet is in and paying off. Maggie has told herself the pie is for the house. The house knows better than to touch it.
 
-Maggie comes round the bar. She touches neither his face nor his shoulder. She
-takes hold of the bad hand, turns it palm-up and presses her thumb once along the
-drawn tendon.
+***
 
-“Who set this?”
+### II. The Boatswain
 
-“Carpenter's mate.”
+The heavy oak door opens, bringing in the sharp chill of the Thames.
 
-“He should go back to wood.”
+The man who walks in moves with the heavy, rolling balance of a deep-water sailor. Thirty-one, his face weathered to old leather by the Indian sun, a jagged white scar through one eyebrow — a Portuguese boarding pike at Swally, for anyone who knows how to read that handwriting. He wears a heavy boatswain's coat.
 
-“That was the general opinion.”
+Maggie stops wiping the bar. She looks at the scarred man, searching the hardened face for a naive twenty-two-year-old who once stood between a lynch mob and a terrified girl.
 
-She lets him go. “You're an idiot.”
+Tom, she says. Her voice is perfectly flat. Her hands grip the rag tight enough to whiten the knuckles.
 
-“I came back.”
+Maggie, Tom says. His voice has dropped an octave, scraped raw by years of shouting orders over the ocean.
 
-“Those facts are not enemies.”
+He does not walk to the bar. He crosses the new flagstones and sits down, without asking, on the stool nearest the fire. Barnaby's stool. The room lets him, and both of those things mean something.
 
-Only then does she put bread in front of him. The heel, the thick end, butter
-pressed into it while it is still warm. Tom looks down at the plate and has to
-wait before he can trust his voice.
+You survived, Maggie says, coming down the length of the counter.
 
-He has imagined this room in heat without weather, in the long dead water south
-of the line and on nights when the timbers worked so loudly every man lay awake
-listening for the sound that would mean the ship had begun to open. In those
-imaginations Maggie always looked at him and understood at once. He had not
-imagined the bread. The bread is worse.
+The Company pays me to survive now, Tom says, touching the boatswain's whistle at his neck. I keep the rigging tight and the men moving. Just like my father did.
 
-“My father?” he asks.
+And Pell? Her eyes go to the doorway behind him, as if the quiet sailor might yet be shaking out his coat. Did he come through the Portuguese guns?
 
-“Alive. The knee is worse. The temper has improved, which he resents.”
+Tom looks at the fire. The flames stand in his hardened eyes and find nothing to catch. Pell shipped out on the Ascension, four years back. They never saw battle. The scurvy got him before the Cape. His jaw tightens. They put him over the side, and the purser entered him in the ledger as cargo. Just like he said they would.
 
-Tom closes his eyes.
+Maggie closes her eyes, one brief second. Another notch under the bar.
 
-Maggie has taken a pot to the rooms in Shadwell every Sunday the weather allowed
-and some it did not. She does not tell him this. She tells him the rent is paid
-through Michaelmas and that his father cheats at cribbage with insufficient
-skill.
+***
 
-“The account?” she asks.
+### III. The Recruit
 
-Tom takes a folded sheet from inside his coat. The paper has crossed the world
-in an oilskin packet and is cleaner than the hand holding it.
+Before she can speak, the tavern door opens again. A boy steps inside, shaking the freezing rain from a thin coat. Sixteen at the most, shivering, looking around the Pelican with wide, terrified eyes. He looks exactly the way Tom looked nine years ago.
 
-Nine shillings from every month. Twenty-six months entered. Food deducted.
-Clothes deducted. A knife deducted twice, though Tom owned it before he signed.
-The damaged hand is recorded as three idle days and the three days deducted too.
-At the bottom, after all that distance and labour, Harcourt's clerk has reduced
-eleven pounds, six shillings and fourpence to four pounds, nineteen and eleven.
+Tom stands up from the fire and gestures to the empty stool beside him. Come sit by the hearth, Jack. Warm your bones.
 
-“It went down,” Tom says.
+Maggie frowns, looking from the scarred boatswain to the shivering boy. Who is this, Tom?
 
-“So did you, several times, by the look of you. Nobody calls that profit.”
+This is Jack, Tom says, and there is nothing in his voice at all — no fire, no shame, only arrangement. He signals for two pints. His father owes Carter's yard for spoiled timber. Jack goes to the City tomorrow to sign for the Company's next fleet. I told him I'd find him a berth on my crew. Put his wages against the debt.
 
-He eats. He tells her the clean stories first because those are the ones a man
-can carry through a public room: Ternate rising green out of the water; cloves
-drying in the sun; a king's boat with more carving on its stern than the whole of
-Wapping church; flying fish landing on deck and startling the watch. He gives
-her a paper twist containing six cloves. She opens it, smells them and sneezes so
-violently the nearest table turns.
+He'll sign with or without me, Tom adds when Maggie does not move. On my deck I can keep him alive.
 
-Tom smiles into his bread.
+There is always a *with or without me*, Maggie says. It is how the man holding the paper makes the man holding the boy believe there was never a choice.
 
-“Lovely,” she says, and folds the paper shut. “Nearly worth it.”
+The silence that falls over the bar is absolute.
 
-The bad stories arrive later, when the other returned men have gone looking for
-rooms or women or both. Tom tells her about the Hector at Table Bay with almost
-no hands left able to stand. He tells her what a body weighs when it is carried
-up a ladder and what it does not weigh after it goes over the side. He does not
-tell her every name. Names are the part he has not yet found a way to set down.
+Maggie stares at him. At the whistle. At the scar. At the cold, pragmatic deadness where the moral fire used to be. To survive the Company, Tom has become part of its machinery, and he is not saving this boy; he is feeding another desperate child into the same grinder that took Pell and a hundred others, and calling it a favour, exactly the way Harcourt called it work.
 
-At closing he watches Maggie reach under the counter.
+Maggie does not pour the ale.
 
-The thimble comes back blackened at one edge and otherwise exactly itself. She
-sets it on the bar.
+She reaches under the bar, into the dark gap beside the pale notches, and brings out a plain brass thimble. She walks around the counter, and drops it on the flagstones at his feet.
 
-Tom touches it with one finger.
+You're not a sailor anymore, Tom, she says, and her voice shakes with a sudden, profound disgust. You're Master Harcourt. You're Silas Rook. You're the room telling itself the next death was already decided. Another big man using paper to send somebody else's boy where you would not send your own.
 
-“We sail again in March,” he says.
+I haven't got a boy, Tom says. It comes out small, and human, and too late.
 
-Maggie's hand closes over the thimble before his can.
+No, Maggie says. The sea made certain of that too.
 
-“Then you are ashore.”
+Tom looks down at his mother's thimble shining in the firelight. He does not pick it up.
 
-“I said till I came back.”
+The door is behind you, Maggie says, turning her back on him. Don't come back until you remember what a human life is worth.
 
-“No. You said till you were back. Being ashore is not the same thing.”
+The door opens. The door closes. The cold moves through the room and settles.
 
-He looks at her. “You changed the wager.”
+Jack is still standing near the threshold, dripping, too frightened to sit. Maggie looks at him for a long moment. Then she goes to the oven and brings out the meat pie she has been telling herself all day is for the house, and sets it on the bar with a pint beside it, and nods the boy toward both. Eat, she says. Not a suggestion. The boy will sign in the morning whatever anyone in this room does tonight; the paper has him, the way papers do. But tonight he will eat like a guest in this house, not like cargo.
 
-“I kept the words better than you did.”
+When the boy has gone she stoops, picks the thimble off the flagstones, and puts it back in the gap behind the old wood, in among the notches, where she keeps what the sea owes her.
 
-She returns the thimble to the gap. Tom could object. He has crossed two oceans,
-stood watch through weather that killed better men and come home with a hand
-that will never entirely open. He is no longer the boy she patched with a bar
-cloth.
+Fourteen years will pass before Tom comes through that door again.
 
-He is also very tired.
+---
 
-“Do I still have a bed upstairs?” he asks.
+## The Man Who Came Back Wrong (1626)
 
-“You never had a bed upstairs.”
+> **1626**
+>
+> *“The charges were a formality. The questioning was procedure. The killing was the actual point.”*
+>
+> — Daniel, factor, Amboyna, 1626
 
-“There was a bed.”
-
-“There was a floor and you were unconscious.”
-
-She takes a key from her apron and puts it beside the empty plate.
-
-“Second door. The roof leaks by the window. Put a pot under it.”
-
-Tom picks up the key.
-
-Neither of them says what has begun.
-
-## Part III · 1610 · An Able Man
-
-The next time he comes through the door, Maggie knows him before she sees him.
-
-The lower shutter has been dragging for a month. It complains each morning and
-must be lifted against the frame before the bolt will take. Tom enters at noon,
-puts his sea-bag down, hears the scrape once and says, “Hinge has dropped.”
-
-“Good afternoon to you too.”
-
-He kisses her cheek.
-
-It is the first time he has done it. Maggie stands with the shutter in her hands
-and looks at him until the confidence leaves his face.
-
-“You've become foreign.”
-
-“Bantam custom.”
-
-“Liar.”
-
-But she is smiling when she turns away.
-
-Tom is twenty-nine. The third voyage has put width across his back and authority
-into the way he occupies a doorway. He is boatswain's mate now. Men older than he
-is have learned to move when he points, and he has learned the difference
-between shouting because a line must be hauled now and shouting because it feels
-good to be obeyed. Most days he remembers it.
-
-He takes the shutter off its pins before drinking his first ale. Maggie finds
-him in the yard with the hinge braced on a block, filing the bent knuckle true.
-His bad hand no longer closes properly, so he has taught the other to do more.
-
-“You could have paid a carpenter,” he says.
-
-“I was waiting for one.”
-
-“Cruel woman.”
-
-“Slow carpenter.”
-
-He laughs. The sound fills the yard more easily than it did before.
-
-His father's chair is empty in Shadwell. The old boatswain died seven months
-before Tom's ship reached the Downs, quickly enough that no one had time to send
-for a priest and slowly enough to ask three times whether his son had come up the
-stairs. Maggie had been there for the last asking. She tells Tom only that his
-father was not alone.
-
-The debt is finished. Harcourt's clerk has supplied a receipt with a red line
-through the old figure and the word *satisfied* written below. Tom carries it in
-the same oilskin that once protected the account.
-
-Maggie reads it twice.
-
-“Keep it,” she says.
-
-“I thought I might burn it.”
-
-“That is what men do when they want paper to stop being true. Keep it.”
-
-He folds it away.
-
-That evening two men from the Dragon come in and make certain the room learns
-what Tom has not told it: that off the Cape, in a night of torn canvas and green
-water, the foretop yard came down with a boy caught in the lift, and Tom went
-aloft when every sensible man was holding on below. He cut the boy clear, lost
-most of the nail from his left thumb and brought both of them down alive.
-
-Tom objects to the telling. This improves it. By the third version the sea is
-forty feet high and the boy has become twins.
-
-Maggie says nothing. She brings Tom the good pewter instead of the common cup.
-
-He notices.
-
-“What's this?”
-
-“The other ones are dirty.”
-
-Every other cup behind her is clean.
-
-Tom drinks without smiling. He has learned when not to embarrass her.
-
-Later, with the shutters closed and the repaired hinge sitting square, he tells
-her he has signed again.
-
-No Harcourt. No father's account. His name and his own mark, eighteen shillings
-plus the boatswain's mate allowance. He says it carefully, because this is the
-first voyage no debt has chosen for him.
-
-Maggie wipes the same place on the bar three times.
-
-“So now we know,” she says.
-
-“Know what?”
-
-“Which part was the chain and which part was you.”
-
-He waits for her to tell him not to go. She waits for him not to need it.
-
-“The thimble stays,” he says.
-
-“Obviously.”
-
-“Till I'm back.”
-
-“You are learning.”
-
-She packs bread and hard cheese for the morning. There is enough for three days,
-though the ship will feed him as soon as he reports aboard. Tom does not point
-this out. Maggie does not say she knows.
-
-## Part IV · 1614 · The Company Man
-
-Competence is a dangerous virtue because it produces evidence in its own
-defence.
-
-Tom comes home with evidence. Men survived his watches. Cargo reached London dry.
-Two boats returned through surf that had rolled the first. The Company's agent
-at Bantam has written that Thomas is steady, severe when required and attentive
-to stores. The last phrase would have pleased his father more than all the rest.
-
-Tom puts the letter on the bar.
-
-Maggie does not read it.
-
-There is another man at the far table. He came in before Tom and has been making
-one cup of small beer last because he has no money for the second. English coat,
-Indian cotton beneath it, one shoe tied closed where the buckle is missing. His
-name is Yusuf Reza. He worked passage from Surat as a caulker's hand and served
-under Tom for seven months. The purser withheld his final wages against a set of
-tools lost when a boat overturned in the Downs.
-
-Tom knows the account. He approved it.
-
-“Tools were issued to him,” he tells Maggie.
-
-Yusuf watches Tom say this. Not angry. Past the useful portion of anger.
-
-“The boat overturned,” Maggie says.
-
-“The tools were in his charge.”
-
-There are moments when a room changes temperature without fire or weather. Tom
-feels this one and mistakes it for challenge.
-
-“If stores vanish whenever a man says storm, there is no ship left by the end of
-the voyage.”
-
-“Your father's cable,” Maggie says.
-
-Tom's jaw tightens. “That was different.”
-
-“It generally is when the account is ours.”
-
-Yusuf looks between them. He knows none of the history and all of its shape.
-
-Tom explains that he argued the charge down. He explains that Yusuf received
-food throughout the passage and a coat after his own was spoiled. He explains
-that the purser wanted the full value and that only Tom's intervention left a
-balance the man might conceivably work off. Each fact is true. Together they
-build a wall no lie could improve.
-
-“He should be grateful?” Maggie asks.
-
-“I did not say that.”
-
-“You brought the sentence all the way home and expect me not to hear it.”
-
-Tom glances toward Yusuf. “Not in front of the hand.”
-
-Maggie becomes very still.
-
-“The hand has a name.”
-
-“I know his name.”
-
-“Then use it when you steal from him.”
-
-Tom stands. The stool strikes the floor behind him.
-
-He has imagined this return too. The good pewter. The repaired shutter still
-holding square. Maggie pretending not to examine the new scar at his temple.
-He has brought her a length of blue Gujarati cotton finer than anything sold in
-Wapping and paid for honestly from his own allowance. It lies in his sea-bag by
-the door.
-
-“You think a ship is kept by kindness,” he says.
-
-“No. I think men are kept by it. Ships require rope.”
-
-“You have never had two hundred lives answer to an order.”
-
-“And you have begun to enjoy saying that.”
-
-The words land better than Rook ever did.
-
-Tom looks at her with something close to hatred, which is one of the shapes love
-takes when it is seen too clearly and has nowhere to hide.
-
-Maggie looks back. Her face gives him no shelter from what she has said.
-
-He takes money from his coat and sets it on the bar for Yusuf.
-
-“There,” he says. “Paid.”
-
-Yusuf does not touch it.
-
-Maggie pushes the coins back toward Tom.
-
-“That is not why.”
-
-“Then I don't know what you want.”
-
-“I want you to know why.”
-
-He takes his sea-bag and leaves the cotton inside it.
-
-Maggie lets him go.
-
-After the door closes, Yusuf finishes his beer. Maggie brings food. He tells her
-the tools were good tools and that he would have returned them if the water had
-not taken the box. She says she knows.
-
-Tom does not come back the following day, nor the week after. The key to the
-upstairs room remains on its hook.
-
-Maggie does not take the thimble out of the wall.
-
-## Part V · 1626 · The True Copy
+***
 
 ### I. The Ship from Amboyna
 
@@ -737,7 +505,7 @@ A ship comes up the river on a grey afternoon, riding low, sails slack, in no hu
 
 Nobody on the dock has the whole of it yet. Just the name.
 
-By the time it reaches the tavern by the stairs, the place has changed without anyone quite watching it happen. Longer bar. Flagstones where the rushes used to be. A new sign nobody remembers the old one well enough to miss. The seaman who signed here at twenty-two has returned often enough to become part of the room's measure of time. Tom is forty-five now, his red beard going grey, repairing a serving mallet at the river window while Maggie complains that he has chosen the wrong wood. The bar has kept count of him after all, though it would deny doing anything so sentimental.
+By the time it reaches the tavern by the stairs, the place has changed without anyone quite watching it happen. Longer bar. Flagstones where the rushes used to be. A new sign nobody remembers the old one well enough to miss. The boy who signed his contract here years back, with half his wages promised against his father's debt, sailed south and came home nine years on as somebody else — a Company boatswain the keeper would not serve, shown the door with his mother's thimble at his feet. Fourteen years, now, since he was through it. The bar kept count of him after all. It keeps count of everything.
 
 The ships on the river have multiplied. The Company has factories now — Surat, Masulipatam, Agra — small English footholds on coastlines and river towns that never asked for them, each one a bet that the local ruler stays friendly and the weather stays kind.
 
@@ -745,15 +513,19 @@ Amboyna was one of those bets.
 
 Word on the dock says it didn't pay off.
 
-* * *
+***
 
 ### II. The Man Who Came Back Wrong
 
 The light has gone flat and grey, and the river is low enough to show the mud: dark, streaked, the low-tide smell of brine and rot coming in through the window.
 
-He walks in like a man not sure the ground will hold. Slow. Careful. Thin, and not hunger-thin, or not only that: he has stopped eating, because food has become a problem instead of a comfort. His clothes are English but old, and they hang wrong, cut for a bigger man than the one left inside them.
+The heavy oak door opens, bringing in the sharp chill of the Thames, and two men come through it.
 
-He sits. Doesn't order. His hands lie flat on the counter, trembling. His eyes are on the wood but not looking at it. They are looking at a room with no windows, somewhere behind them.
+The first moves with the heavy, rolling balance of a deep-water sailor: forty-five, weathered to old leather, a jagged white scar through one eyebrow, and no boatswain's whistle anywhere about him. Maggie stops wiping the counter. The silence of 1612 stands in the room between them, fourteen years wide, and neither of them puts a word into it. Whatever Tom has come back for, it is not absolution, and he does not ask for any. He is holding the second man up.
+
+The second man walks like a man not sure the ground will hold. Slow. Careful. Thin, and not hunger-thin, or not only that: he has stopped eating, because food has become a problem instead of a comfort. His clothes are English but old, and they hang wrong, cut for a bigger man than the one left inside them.
+
+Tom sets him on the stool nearest the fire — the one that was Barnaby's, then briefly his own, and nobody's for fourteen years — and takes the wall beside it, standing, like a man on watch. Daniel sits. Doesn't order. His hands lie flat on the counter, trembling. His eyes are on the wood but not looking at it. They are looking at a room with no windows, somewhere behind them.
 
 This bar has seen the look before. Men who come back changed in ways you can't quite point to. The tremor. The stillness. An attention that is really its opposite: total withdrawal, into a place nobody else can follow. The sea does this to some men. The tropics do it worse. Amboyna did it worst of all.
 
@@ -761,19 +533,23 @@ His name is Daniel Vale. Factor for the Company, stationed on one of the Spice I
 
 What he found was the Dutch.
 
-Maggie comes over, slower on her feet than she was when Tom first sat at this bar with a paper in his pocket. No man in the room has found it useful to notice, and Tom has learned not to insult her by offering help before it is needed. She sets a tankard down without asking. You don't ask a shaking man what he wants. You put ale in front of him.\n\nAt the river window, Tom puts down the split mallet. He knows the stillness in Daniel's body—not its cause, not yet, but the labour of holding still because any movement may open what has been nailed shut inside. He takes the stool beside Daniel without asking a question.
+Maggie comes over, slower on her feet than she was a generation back, when the scarred man now standing watch by the hearth was a boy at this same bar with a paper in his pocket. No man in the room has found it useful to notice, or would say so if he had. She sets a tankard down without asking. You don't ask a shaking man what he wants. You put ale in front of him.
 
 Drink, she says. Not a suggestion.
 
+She pours nothing for Tom. He does not ask. Some accounts stay open even while other business is done across them.
+
+But on the second evening a meat pie arrives in front of him without a word — mutton and mace, the way a boy at this bar liked it once, and the way nobody has asked for it in fourteen years. Tom looks at it for a long moment before he picks up the fork. No ale comes with it, and he does not ask for any. The pie is not forgiveness. It is older than forgiveness, and stubborner: the thing that went on being true the whole time the other thing was true too.
+
 He drinks. One pull, then another. The tremor slows. Doesn't stop. Slows is the best this bar can do for him this afternoon.
 
-* * *
+***
 
 ### III. The Water
 
-It takes Daniel three days to talk. Three days of sitting, drinking ale he can't taste, flinching at the door. Maggie puts food in front of him. He pushes it round the plate. The other patrons give him room. Tom sits beside him when he can, repairing small things that do not need immediate repair and leaving the silence unfilled. Sometimes Carter takes the place. The river does its business outside the window; the ale stays good; Daniel sits.
+It takes Daniel three days to talk. Three days of sitting, drinking ale he can't taste, flinching at the door. Maggie puts food in front of him. He pushes it round the plate. The other patrons give him room. The river does its business outside the window; the ale stays good; Daniel sits.
 
-On the fourth day Carter comes in. Ships' chandler: rope, tar, canvas, whatever a vessel needs before it sails. Big man, big voice, and he has known Daniel long enough to know he isn't just another broken sailor. He pulls up a stool, orders two ales, slides one across.
+On the fourth day Carter comes in. Ships' chandler now in everything: rope, tar, canvas, whatever a vessel needs before it sails — the same Carter who stood in the wall of river-men the night the room sat as a court, twenty-three years heavier in purse since. Big man, big voice, and he has known Daniel long enough to know he isn't just another broken sailor. He pulls up a stool, orders two ales, slides one across.
 
 You're Company. Amboyna.
 
@@ -789,7 +565,7 @@ The bar has gone quiet around them. Men who weren't listening are listening now.
 
 Daniel's sentence stays broken where it stopped.
 
-* * *
+***
 
 ### IV. The Room
 
@@ -803,7 +579,7 @@ Nobody who has not had it done can be told what it is. It is not like drowning; 
 
 Through the wall, for two days, he can hear Towerson. Not words. Just the fact of him — the best man Daniel has ever served under, going by lengths. On the third day the wall goes quiet, and the quiet is worse. Some days later — he has lost the count by then, the one thing he has never lost before or since — they come in and look at him the way men look at stock, and one of them says a word to the other, and the word is Batavia, and no one ever tells him why. He has been trying to work it out for three years: what he said, or didn't; what he was worth, or wasn't; why the axe for ten men and the boat for him. There is no answer. It was an entry in a ledger he will never see, made by a clerk with a patient pen, and it is the only mercy anyone showed at Amboyna, and it was not mercy. It was paperwork.
 
-* * *
+***
 
 ### V. What Came Back
 
@@ -829,6 +605,8 @@ At the far end of the bar an old Dutch skipper, grey and stringy, who has drunk 
 
 Carter watches Daniel a moment longer, and then, because he is a merchant and cannot help it even now, he starts — gently, almost kindly — to mine him. Which ports. Which of the Dutch factors gave the orders. How they took the fort, and with what, and how many soldiers it wants to hold a spice island against a company that means to have it. Not cruelty. Carter's grief is real. But grief and use live in the same room in a man like Carter, and the questions keep sliding, without his quite meaning them to, from *what did they do to you* toward *what can I do with it.* Daniel hears the turn happen. He has a good ear for it now; the men in the coral room had the same ear, turned the other way. He stops answering. Puts his sentences down where he put the others.
 
+From the wall by the hearth, Tom watches the turn happen too — the grief, and then the use arriving inside the grief, in a man he helped make rich. He says nothing. He spent twenty years as part of the machinery; he knows better than any man in the room how it sounds when it starts to turn.
+
 The Spice Islands are finished for us, he says eventually. Company's pulled out. Dutch have the forts, the soldiers, the monopoly. Nobody's fighting them for a nutmeg tree.
 
 No, Daniel says. Not there.
@@ -837,7 +615,7 @@ So the Company's pivoting. Carter leans in. India. Cotton, not cloves. He says i
 
 Daniel doesn't answer. He's back in a room in Amboyna, water in his lungs. Cotton is happening in a country he can name. Amboyna is happening behind his eyes, which is closer.
 
-* * *
+***
 
 ### VI. The Deposition
 
@@ -861,7 +639,7 @@ By the time it is done it is a true document. Every sentence in it is a thing th
 
 Walking out, he understands that he has now been drowned twice. Once in a coral room by men who wanted the truth out of him, and once in a lit English office by a mild man who wanted it kept in. The water was gentler the second time. That is the only difference he can find between them, and he looks for it a long while.
 
-* * *
+***
 
 ### VII. The Offer
 
@@ -869,13 +647,19 @@ Word travels. It always does in a bar this close to the docks. What Daniel told 
 
 The Company hears it too. Word like that always finds its way back to Leadenhall Street eventually, and Leadenhall Street does not care for it.
 
-He comes in on a Tuesday, a man Daniel's never seen before. Precise coat, precise voice, a politeness trained rather than felt. Introduces himself as Pryce, on the Company's business, and sits without being asked, the way men do when they've decided in advance that the seat is theirs.\n\nPryce has seen Tom's name in the Company's books. Before speaking to Daniel he offers Tom the berth he has worked toward for twenty-two years: boatswain entire on the next sailing, better pay, a partition of his own and authority no clerk can pretend is borrowed. The offer arrives at the precise moment accepting it would make Tom's presence beside Daniel look purchased.\n\nTom reads the paper once.\n\nWill Mr Vale be required to amend his account?\n\nClarify, Pryce says. There are political sensitivities.\n\nTom folds the offer along its existing crease and tears it once, then again. Small enough for the fire.\n\nThen find another boatswain.\n\nPryce studies him. You have mistaken your influence.\n\nOften, Tom says.\n\nMaggie polishes a cup at the other end of the bar and does not look up.
+He comes in on a Tuesday, a man Daniel's never seen before. Precise coat, precise voice, a politeness trained rather than felt. Introduces himself as Pryce, on the Company's business, and sits without being asked, the way men do when they've decided in advance that the seat is theirs.
+
+Tom comes off the wall and stands at Daniel's shoulder, arms folded, and stays there for the whole of it. He knows the Company's polite men; he has delivered boys to them. Pryce reads the shoulders, the scar, the fourteen years of Company weather on the man, and elects, precisely, not to notice him.
 
 The Company is grateful for your service, Pryce says. Batavia. Two years a prisoner, and you came home able to hold a pen and keep a ledger, which is more than some men manage after less. Surat's been good to you, I hope.
 
 Daniel says nothing. He has learned, this past year, that saying nothing is the safest answer to most sentences that start with the Company is grateful.
 
-There's a difficulty, Pryce goes on. Talk. In bars. About Amboyna. About the passes, the questioning, the numbers. The dead are not helped by accuracy, Mr. Vale — I have always found that the hardest thing to make a grieving man believe, and the truest. The living are sometimes ruined by it. It does the Company no good, and it does you no good either, dwelling on it the way you have been. We could improve your situation considerably. A better posting. A clerk's wage doubled. Whatever debts your family carries, cleared. In exchange for — Pryce chooses the word with visible care — quiet. Just quiet. Let the thing rest where it lies.
+There's a difficulty, Pryce goes on. Talk. In bars. About Amboyna. About the passes, the questioning, the numbers. The dead are not helped by accuracy, Mr. Vale — I have always found that the hardest thing to make a grieving man believe, and the truest.
+
+At the word *dead*, Maggie's rag stops on the counter. Beneath her hand, out of sight in the old wood, Matthew Bell's name has been kept for twenty-three years precisely because a dead man cannot keep it himself.
+
+The living are sometimes ruined by accuracy, Pryce continues. It does the Company no good, and it does you no good either, dwelling on it the way you have been. We could improve your situation considerably. A better posting. A clerk's wage doubled. Whatever debts your family carries, cleared. In exchange for — Pryce chooses the word with visible care — quiet. Just quiet. Let the thing rest where it lies.
 
 Daniel looks at him for a long moment. You want me to stop telling people what happened to Towerson.
 
@@ -893,9 +677,9 @@ Pryce doesn't argue. Men like Pryce never argue with an answer, only note it. He
 
 You'll have the same posting tomorrow that you had yesterday, he says. Nothing changes because of this conversation. I'd only ask you to consider how much less it costs everyone if the story simply stops being interesting.
 
-He leaves. Daniel sits a while with the offer where Pryce left it, turning it over slowly, and then sets it down for good.\n\nMaggie puts the good pewter in front of Tom, older now and dented at the rim.\n\nThe others were dirty? he asks.\n\nFilthy.\n\nEvery other cup behind her is clean.\n\nYou are still an idiot, she says.\n\nI had an excellent teacher.\n\nThat almost earns him a smile.
+He leaves. Daniel sits a while with the offer where Pryce left it, turning it over slowly, and then sets it down for good.
 
-* * *
+***
 
 ### VIII. The True Copy
 
@@ -907,11 +691,27 @@ He sets it down plainly, the thing the clerk's pen would not receive. Ten Englis
 
 Then he does not know what to do with it. He has just refused good money to keep this quiet, and here he sits having turned the quiet into an object he must now hide or burn. A true account with nowhere to go is only a heavier kind of the very thing Pryce came to buy.
 
-Maggie takes the rag off her shoulder and wipes a length of counter that does not need it, and without looking at him tips her head at the underside of the bar, where the wood has a gap a hand can just fit into. He ducks and reaches and finds it already tenanted — a crowd of small notches worn soft at the edges, and pushed back where a draught has kept it dry, something small and metal his fingers touch and, understanding it is not his to know, leave alone. She offers no account of any of it. When he looks up, her shoulders say only that what a house keeps is the house's own business, and has been longer than he has been alive.
+It is Tom who answers it. He crosses to the counter and meets Maggie's eyes properly for the first time in fourteen years, and asks for nothing; and Maggie takes the rag off her shoulder, wipes a length of counter that does not need it, and without a word tips her head at the underside of the bar, where the wood has a gap a hand can just fit into.
 
-He wedges the paper back against the old wood. It will not raise Towerson off that beach; it is not justice, nor anything with a name so large. But it is the true copy, lodged where no Company pen can reach in and stand it on its head, and that is more than the box in Leadenhall Street will ever hold. He straightens, and something in him that has been on its feet since the coral room sits down at last, a little.
+Tom guides Daniel behind the bar. Daniel ducks and reaches and finds the gap already tenanted — a crowd of small notches worn soft at the edges, dozens upon dozens, one for every boy who sat here with a paper in his pocket.
 
-* * *
+Behind them lies an older folded leaf, its edges gone brown. Across the outside, in a clerk's careful hand, are two words: *Matthew Bell.* Daniel touches it without lifting it.
+
+Who's he?
+
+The first man this house failed to keep, Maggie says.
+
+Tom looks at her. We kept his name.
+
+We let the man who killed him walk out, Maggie replies. Do not make the smaller thing large because it is the thing we managed.
+
+Daniel looks from one of them to the other, then folds his own account once more. He places the Amboyna testimony beside Bell's page rather than behind it. Two true accounts, written twenty-three years apart by men who discovered that an official record may contain every fact and still be built to bury the truth.
+
+Tom, stooping to steady him, looks into the gap once. Pushed back where a draught has kept it dry sits a plain brass thimble. Dropped at his feet once, fourteen years ago; gathered off the flagstones by the woman who threw it; kept. Not spent, not sold, not surrendered — kept, through everything he was in between. Tom straightens without touching it. Some things are not his to take back. But he has seen it, and Maggie has seen him see it, and the room is suddenly very full of things that do not need saying.
+
+The paper will not raise Towerson off that beach, any more than Bell's page brought Bell home to his wife. It is not justice, nor anything with a name so large. But it is the true copy, lodged where no Company pen can reach in and stand it on its head, and that is more than the box in Leadenhall Street will ever hold. Something in Daniel that has been on its feet since the coral room sits down at last, a little.
+
+***
 
 ### IX. The Woman Who Came Looking
 
@@ -945,7 +745,7 @@ Maggie sets down bread, cheese, something that might be stew, and leaves without
 
 Daniel eats. Nell watches him, and for the first time since he walked through that door, his hands are still.
 
-* * *
+***
 
 ### X. Cotton
 
@@ -967,9 +767,25 @@ Daniel isn't listening. He's at the end of the bar with Nell, who's come back ev
 
 The Company's factories are becoming forts — walls going up in Surat, cannon on the factor's roof, letters home that call it nothing to worry about. Carter doesn't see a problem in it. Carter sees rope orders. Daniel doesn't see it at all. He knows about the water, and about learning to be touched again by someone who loves him. That's enough history for one man to carry in one evening.
 
-* * *
+***
 
-### XI. The Walls Get Higher
+### XI. The Wager Kept
+
+On a quiet evening at the turn of the year, when the bar is down to its last patrons and the fire to its last hour, Maggie reaches under the counter.
+
+She sets the brass thimble on the bar between them, exactly where a boy set it twenty-three years ago, not quite meeting her eye.
+
+Tom looks at it a long time. He does not pick it up. Some wagers are not for taking back.
+
+Till you're back, Maggie says. As if no time has passed. As if all of it has.
+
+She returns the thimble to the gap, in among the notches and the folded truth, where the house keeps what the sea owes it. Then she picks up a rag, wipes a counter that does not need wiping, and pours Tom a fresh pint of dark ale.
+
+Nobody in the room notices anything. That is how the room knows it matters.
+
+***
+
+### XII. The Walls Get Higher
 
 Years pass. The bar fills and empties and fills again; same cycle, same ale, slowly improving. Daniel and Nell come in less often now, and when they do, it's a different quiet than the one he walked in with. Companionable. The quiet of two people who've said the worst of it out loud and are still sitting next to each other.
 
@@ -977,116 +793,236 @@ The Company keeps growing. Bigger ships, bigger warehouses, busier docks. Sir Th
 
 Just a wall, the letters say. Bricks and mortar. Nothing to worry about.
 
-## Part VI · 1657 · Till You're Back
+*Who else was in the room in 1603, and what the years did to each of them: [The Wapping Twelve — a ledger for Book One](#/read/book-one-character-bible).*
 
-The Company is permanent now.
+---
 
-That is what the young men call it, as if permanence were a technical discovery
-made in a room in London: one stock instead of a separate purse for every
-voyage, capital that does not have to come home and be counted before it can be
-sent out again. The ships may return or not. The men may return or not. The
-money has learned to stay abroad and continue.
+## The South Land (1629–1630)
 
-Tom is seventy-six and has discovered a different meaning of the word.
+> **1629**
+>
+> *“A rope is an English mercy, Commander.”*
+>
+> — Mara de Sousa, the Abrolhos, 1629
 
-The Prospect's door is lower than it was. This is plainly the building's fault.
-The step has risen too, and the bench under the river window has moved farther
-from the entrance. He reaches it with a stick he despises and sits before his
-legs can embarrass him.
+***
 
-The woman behind the bar is named Anne. Past forty, dark hair going iron at the
-temples, forearms flour-pale from bread. Maggie trained the woman who trained
-her. This is not blood and has never needed to be.
+### I. The Name in the Ledger
 
-Anne sets down ale, bread and cheese.
+The air in Batavia is thick with nutmeg, drains, wet timber and the overwhelming smell of Dutch wealth. The VOC has made a fortress of commerce here — better ships, better guns, more capital than its English rivals have ever seen in one place, exactly as a Dutchman in a Wapping tavern once warned a boy it would.
 
-“I ordered only ale.”
+In a high-windowed counting room above the harbour, Mara de Sousa sits behind a heavy teak desk.
 
-“I know.”
+She is no longer the terrified, blood-soaked captive dragged through the Pelican's door twenty-five years ago. Dressed in immaculate dark silk, she is an independent translator and intelligence broker whom the Dutch factors employ because they cannot afford not to: Cantonese, Portuguese, English, fluent Dutch — and, more valuable than all of them together, the language of paper.
 
-Tom looks at her.
+A fitting-out ledger for the *Batavia* lies open before her. The great new flagship is taking on soldiers, sailors, merchants, women, children and the usual hard men a company calls discipline when it needs violence done without wording the order.
 
-“She told you.”
+Her finger stops on a single line.
 
-“She told everybody. Red beard, bad hand, believes arrival is a form of
-punctuality.”
+*Silas Rook. Ship-breaker. Cornwall. Enforcer. Fit for heavy labour.*
 
-“My beard was red.”
+For a moment the counting room is a Wapping tavern in a freezing storm. A beard like wet rope. Matthew Bell laid across a centre table, ink in the first finger of his dead hand. A folded account with Mara entered among cordage and spoiled timber. Twelve people who found the truth and mistook finding it for finishing the work.
 
-“She allowed for weathering.”
+The clerk beside her waits for a translation.
 
-Maggie has been dead fourteen years.
+The ledger is not Mara's to amend. Her influence can make a warning reach the factor; it cannot lawfully erase a contracted man from a Dutch muster. She could perhaps purchase a delay through favours and private coin, but Rook would only sell himself to the next ship. Twenty-five years ago another clerk tried, at the last possible hour, to undo an entry he had helped make. Bell died for it. Mara will not answer that failure with a secret disappearance and call it justice.
 
-Tom was in Portsmouth when the letter reached his old lodging and aboard a
-coaster for Hull when it reached the next. By the time the news found him, she
-had been in the ground five months. He came as far as Wapping Wall and did not
-enter. Then ten more years passed with the speed peculiar to years a man believes
-he can use later.
+Instead she takes a clean sheet and writes a warning in careful Dutch.
 
-Anne reaches beneath the counter.
+*Rook is violent, practised with a blade and suspected in the murder of Matthew Bell, Company copyist, Wapping, 1603. He attempted to procure the death of the witness by false accusation. He is not to be placed over unarmed persons.*
 
-The thimble is black now. Not tarnished at one edge: black entire, except where
-generations of curious fingers have polished the rim without knowing whose it
-was. Anne puts it on the bar.
+She signs her full name. She makes a duplicate before sending the first copy upstairs.
 
-Tom opens his bad hand. The little finger has drawn almost into the palm. Anne
-places the thimble at its centre.
+The factor reads it that afternoon. Beside *not to be placed over unarmed persons*, he writes *experienced disciplinarian*. Beside *practised with a blade*, he writes *useful*. Silas sails on the *Batavia* not because Mara sends him, but because the Company reads a warning as a list of qualifications.
 
-His mother used it beside an Essex window. Maggie carried it through fires,
-floodwater, bad tenants, good sailors, one king's death, another king's head and
-all the ordinary Thursdays between. It has been kept by two women who never met
-and who, between them, account for nearly everything in Tom that did not belong
-to the Company.
+Mara keeps the duplicate.
 
-He closes his hand.
+***
 
-For a while he is twenty-two. Then twenty-five, waiting for bread. Then
-twenty-nine with a receipt in oilskin. Then thirty-three and cruel because he is
-afraid the woman at the bar is right. Then forty-five, one step below an old
-woman on a narrow stair.
+### II. The Blood on the Beach
 
-Then the hand is old again.
+In June 1629 the *Batavia* strikes a coral reef off the uncharted, sun-scoured coast of the South Land.
 
-“She said it was yours,” Anne tells him.
+What follows is one of the nightmares of the sea. Commander Francisco Pelsaert takes a longboat in search of water and rescue. In his absence, mutiny becomes rule among the survivors stranded on the low islands. Men, women and children are divided, used and murdered. More than a hundred die in the coral sand.
 
-“She said she was keeping it till I was back.”
+When Pelsaert reaches Batavia with the first news, the counting houses open their ledgers. Questions of cargo, command and blame begin before the rescue ship has taken on water. Mara shows him the warning she sent before the vessel sailed. Pelsaert reads the factor's notes in the margin and asks her to bring the duplicate aboard the *Sardam*. He needs an interpreter. He also needs somebody whose paper predates the excuses.
 
-“You are back.”
+When they return to the wreck, the beach is slick with blood.
 
-Tom looks around the room. The bar is longer. The shutter he repaired is gone.
-The good pewter has vanished into some war or debt. Nobody present knows Yusuf,
-Daniel, Rook or Mara. A boy at the third stool has a folded paper in his pocket
-and keeps touching it to make certain it remains there.
+Pelsaert sets up his tribunal beneath a canvas awning, journals open, confessions taken down in Dutch, English and the half-language of terror. Mara stands at his elbow and translates exactly. She has spent too much of her life inside other men's edited sentences to improve or soften a single word.
 
-“No,” Tom says. “But I am done going.”
+The mutineers are dragged up in heavy irons. Among them is Silas Rook.
 
-He reaches under the counter himself. His fingers find notches, more than Maggie
-cut and some cut by hands trained by hers. Behind them is the dry gap. Paper
-touches his knuckle: Daniel's true copy, though Tom cannot know it has survived.
+The ship-breaker is a broken mountain now, beard matted with salt and dried gore, skin blistering under a sun no Cornishman was built for. He served the mutiny as one of its chief executioners. His strength was always for hire; on the islands, authority paid him in permission.
 
-He puts the thimble back.
+Pelsaert lays Mara's warning beside the record of the dead.
 
-Anne watches without asking why.
+This is the same man? he asks.
 
-At the third stool the boy orders water because he has counted his coins once
-already and cannot make them larger. Tom pushes the bread and cheese down the
-bar.
+Mara looks at Silas. The years have changed him. The eyes have not.
 
-“Eat,” he says. “You won't eat like this for months.”
+The same, she says.
 
-The boy looks from the food to the old man. “Do I know you?”
+Silas looks up at the woman in dark silk. The rusted gears of his memory turn — a storm, a bolted door, pale sawdust in the welt of his boot — and recognition arrives all at once.
 
-“No.”
+Mara steps out from beneath the awning.
 
-“Then why?”
+What was the clerk's name? she asks him in English.
 
-Tom considers all the answers Maggie would refuse.
+Silas stares.
 
-“Because you are an idiot.”
+The man in the breaking shed. The man whose blood you put on me. What was his name?
 
-Anne turns away before either of them can see her smile.
+I don't remember clerks.
 
-Outside, the river goes on carrying the Company's ships toward a future none of
-the men in the room will live to see. Inside, the boy eats. Tom drinks his ale.
-The thimble stays where Maggie put it.
+Matthew Bell, Mara says. His wife was Anne. He had two daughters in Shadwell. You killed a man, not a trade.
 
+Something moves across Silas's face — annoyance before fear, as if the name itself were an imposition. Bell was a fool.
+
+Mara turns to the tribunal and translates his words precisely.
+
+The confessions continue. Men name the island dead: which child, which woman, which sick man Silas held while another struck, and which ones he killed with his own hands. The clerk records every name he can recover. The list is long. Matthew Bell stands at its beginning only because Mara is there to put him back.
+
+Pelsaert orders gibbets built from the wreck's own timbers.
+
+Wait, Mara says.
+
+The word leaves her before she has decided whether it belongs to the translator, the witness or the woman who woke for years with Silas's hand still closed around her wrist.
+
+A rope is an English mercy, Commander. A hanging ends the pain in minutes.
+
+Pelsaert studies her. What do you ask instead?
+
+Do not let him vanish into a beach grave with the rest. Take him back to Batavia in irons. Put my warning before the Council beside the names from these islands. Make the Company record what it called useful, and what that usefulness did.
+
+That is no kinder, Pelsaert says. The passage will be long. The Council's punishments are not known for speed.
+
+No, Mara says. It is not kinder.
+
+She knows what she is asking. Bell's statement had been an attempt to take one human being out of a ledger. Her answer puts another into one and closes the covers around him. She does not call the choice Bell's justice. The dead man did not live long enough to ask for it. This vengeance is hers, and she will not make him carry it.
+
+Pelsaert looks from the old warning to the new list of dead.
+
+He goes back in irons, he says.
+
+Silas begins to scream. He thrashes against the irons, begging for the rope as the guards drag him toward the *Sardam*. Mara watches him go with absolute stillness.
+
+Seven ringleaders are hanged on Long Island. Two younger mutineers, Wouter Loos and Jan Pelgrom, are later put ashore on the mainland with supplies and instructions for meeting the people whose country the Dutch have entered. Rook is carried back with the lesser offenders. In Batavia, Mara's original warning is laid beside the tribunal record, its fatal marginal notes still legible: *experienced disciplinarian; useful.* The Council condemns him. The same Company that employed his violence executes him for using it without permission.
+
+Mara does not attend. She expected the page to close and has learned better. Behind Silas walk Bell, the murdered families on the islands, and every unnamed person between Wapping and this beach whom his strength helped frighten into obedience. His death stops the addition. It cannot alter the sum.
+
+***
+
+### III. The Echo in Wapping
+
+In 1630 the rain beats against the Pelican's shutters with the force of thrown gravel. Some things on Wapping Wall do not change.
+
+A crew of Dutch sailors sits at the centre table, voices low, because the story they carry deserves low voices. The *Batavia*. The reef. The mutiny. Pelsaert's tribunal on the coral sand.
+
+They hanged seven on the islands, one sailor says in broken English. Two young mutineers were put ashore on the mainland. The rest came back in irons. One was a giant. An English ship-breaker.
+
+Behind the counter, Maggie stops wiping the wood. She is sixty-seven now, hair fully silver, hands as steady as ever.
+
+On the stool nearest the fire sits Tom, forty-nine, a fresh pint at his elbow.
+
+The sailor continues. A woman at Pelsaert's elbow asked the giant about an English clerk. Made him hear the name before they took him back. Matthew Bell. In Batavia her warning was read aloud beside the island dead. They executed him there.
+
+Tom looks up. He meets Maggie's eyes down the length of the tavern.
+
+How many did Rook kill on the islands? he asks.
+
+The Dutch sailor looks into his ale. Many. More than I can give you honest. More than a hundred died altogether.
+
+Tom's hand closes around his tankard. We had him in this room. Twelve against one.
+
+We had Mara alive and Bell dying, Maggie says. We chose where to put our hands.
+
+There were enough hands for both.
+
+Yes.
+
+Then every one after Bell came partly through our door.
+
+No, Maggie says. Do not steal Silas Rook's guilt to make our failure feel larger and therefore nobler. Those murders were his. Letting him leave was ours. Both accounts remain open.
+
+Tom sits with that.
+
+Was what she did justice? he asks at last.
+
+Justice would have been Matthew Bell walking home to Anne and his girls, Maggie says. What Mara gave Silas was a sentence. Sometimes a sentence is all the living can reach. Do not confuse it with restoring the dead.
+
+Her fingers move beneath the bar. They pass over the crowd of pale notches, then Matthew Bell's folded account, then Daniel Vale's true copy of Amboyna, and come at last to the cool metal of Tom's mother's thimble.
+
+She leaves everything where it belongs.
+
+Nobody proposes a toast. Maggie pours. The room drinks.
+
+Mara survived. Silas died. Matthew Bell remained dead. The people murdered on the islands remained dead. No arrangement of those facts makes a balance, and no clean account can be drawn beneath them.
+
+The house keeps all their names anyway.
+
+*Who was in the room the night this reckoning began, and what the years did to each of them: [The Wapping Twelve — a ledger for Book One](#/read/book-one-character-bible).*
+
+---
+
+## Last Orders (1635)
+
+> **1635**
+>
+> *“Men die, she used to say. That is why the living must keep their names.”*
+>
+> — Joan, keeper of the Pelican, 1635
+
+***
+
+A ship pays off at Blackwall on a soft grey morning in the spring of 1635, and a man in his fifties walks the river road west with his sea-bag on his shoulder, in no hurry at all.
+
+Five years since the Dutch sailors and their story. Three voyages since. His knees announce the weather now, and the scar through his eyebrow has faded to a line a stranger might miss. There is money in his coat and nothing owing against it — Harcourt's ledger closed years ago, paid out to the last exact penny, and no man has ever again been allowed to open one in his name. He walks past the stairs, past Carter's yard with its third new sign, and stops under the one sign that has not changed.
+
+The Pelican. The shutters are fast. The fire is lit. Some things on Wapping Wall do not change.
+
+He comes in with the small rain, and the room is the room: the stool by the hearth, the long counter, the smell of wet wool and ale and woodsmoke. Out of thirty years' habit his eyes go down the length of the bar, looking for a woman with a rag over her shoulder and eyes the blue-grey of a cold tide.
+
+Behind the counter stands somebody else.
+
+She is broad-shouldered and middling young, and he half-knows the face — the girl who carried trays across this room the winter Daniel Vale sat shaking by the fire, grown now into a woman who moves behind the bar the way the bar's own woman moved: pouring, wiping, watching the whole room without seeming to look at any part of it. She sees him come in. She sees him look. She sees the look not find what it is looking for, and something in her face makes room.
+
+Sit down by the fire, she says. Not a suggestion.
+
+He sits, the sea-bag at his feet, on a stool he has more right to than any man living. He watches her go to the oven, and his heart learns it from the smell before his head is told anything: mutton and mace.
+
+She sets the meat pie in front of him with a pint beside it, and stands a moment wiping her hands on her apron, a woman doing a hard thing in the right order.
+
+She left word, the keeper says. If a scarred man named Fletcher ever comes through that door — feed him first. Then tell him.
+
+Tom looks at the pie. The steam comes off it the way it came off another pie in another winter, and he already knows — has known, truly, since his eyes went down the bar and found a stranger — and he eats it anyway, slowly, every mouthful, because she left the order and the house keeps her orders. It is not so good as hers. It is the same recipe, taught by the same hands, and it is not the same, and that is the whole of grief in a dish.
+
+Two winters back, Joan says — Maggie found her the way she found most things, by deciding. Sat in the chair by the hearth of a morning, the fire laid ready, the counter wiped, the cellar squared, nothing owing to anybody. She is in the churchyard, up by the wall, a stone's toss from Barnaby and Elias — in among the boys the sea sent home to be buried, and the husbands it did not send home at all.
+
+Men die, she used to say. Joan says it the way you hand a man a tool that belonged to his father. That is why the living must keep their names. Then you pour the ale, sweep the floor and get on with it.
+
+Tom drinks. The evening fills around him — watermen, tar men, boys with papers in their pockets who do not know whose stool they are drinking near — and the room does what the room has always done, which is the point of a room.
+
+Late, when the bar is nearly empty, Joan takes the rag off her shoulder, wipes a length of counter that does not need it, and tips her head at the underside of the bar — a gesture she was left the way other women are left plate. Tom comes round, and ducks, and looks one last time.
+
+The notches, a crowd of them, worn soft at the edges. He knows now that one of them, cut in the small hours after a storm thirty years ago, is his own, and that she cut it the same night she took his wager — hope and arithmetic in the same evening, because she was never only one woman at a time.
+
+Two folded papers lie behind the cuts. The first bears *Matthew Bell* in Arthur's careful hand: the account of a copyist who helped build Harcourt's machinery and died trying, too late, to take one woman and several debts back out of it. Tom's father's name remains inside. The second bears Daniel Vale's full signature and the account of Amboyna that a Company deposition turned into a lie. The dead clerk and the surviving clerk, side by side. One wrote before the machine killed him. One wrote after it failed.
+
+Pushed back where the draught keeps all of it dry is a plain brass thimble.
+
+He reaches in and touches it once, the way you touch a thing to be sure of it, and leaves it exactly where it lies.
+
+Till I'm back, the wager ran. He is back, and she is not, and the thimble stays — because taking it would close the account, and some accounts are better kept open; this house taught him that. His mother kept it to mend with. Maggie kept it to wait with. Let it keep waiting. A thing a house holds long enough stops being kept for anybody and starts being kept for everybody, and this house has only begun.
+
+He straightens. Joan pours him one more, and one for herself, which Maggie never did, and they drink without a word, which Maggie would have approved entirely.
+
+At the door he pauses, hand on the iron latch, with an old man's habit of not looking back that he learned as a young one.
+
+Goodnight, Maggie, he says.
+
+Nobody answers. Behind him the keeper wipes the counter that does not need wiping, because the woman who taught her wiped it, and the rain comes in soft off the river, and the house stands where it has always stood, keeping what it keeps.
+
+Last orders are called in every house on the river, every night of the world. Every night, somebody's are final. The ships go out. The boys sign. The Pelican pours.
+
+*Who was in the room when all of this began, and what the years did to each of them: [The Wapping Twelve — a ledger for Book One](#/read/book-one-character-bible).*

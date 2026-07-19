@@ -1,5 +1,4 @@
-<!-- live-canon-source: nj22az/nj22az.github.io@62d14ae19f8cbb3c86c75e83ff3a376e47977e2a -->
-<!-- imported for editorial comparison; deployed reader remains unchanged -->
+<!-- live-canon-synchronised: 2026-07-19 -->
 
 # Select Bibliography
 
@@ -34,6 +33,12 @@
 *Ackroyd, Peter. London: The Biography. London: Chatto & Windus, 2000.*
 
 *Mort, Frank. The East End: 400 Years of London Life. London: Chatto & Windus, 2020.*
+
+## The *Batavia* wreck
+
+*Western Australian Museum. “Batavia's History: 1628–1963.”* https://visit.museum.wa.gov.au/batavias-history-1628-1963
+
+*Western Australian Museum. “VOC Encounters Timeline.”* https://collections.museum.wa.gov.au/themes/hanekamp/timelines/voc-encounters.html
 
 ## The Blitz and the Second World War
 
