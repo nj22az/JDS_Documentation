@@ -398,6 +398,13 @@ def check_internal_links(result):
 
             # Resolve relative to the file's directory
             target = os.path.normpath(os.path.join(file_dir, clean_path))
+
+            # EIC manuscript links use the reader's public ``assets/`` root.
+            # Resolve that publishing alias to its canonical repository source
+            # so the same Markdown works in both JDS and the built website.
+            eic_prefix = os.path.join('projects', 'literary', 'EIC') + os.sep
+            if rel_file.startswith(eic_prefix) and clean_path.startswith('assets/'):
+                target = os.path.join(REPO_ROOT, eic_prefix, 'exports', 'html', clean_path)
             checked_count += 1
 
             if not os.path.exists(target):

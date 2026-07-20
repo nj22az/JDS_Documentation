@@ -4,6 +4,15 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [Unreleased]
+
+### Fixed — EIC reader asset-link validation
+- The internal-link audit now resolves the EIC manuscript's intentional
+  `assets/` publication root to `projects/literary/EIC/exports/html/assets/`.
+  The canonical Markdown can therefore remain identical to the website source
+  without producing false broken-link errors after chapters are grouped into
+  book directories.
+
 ## [3.10.2] — 2026-07-03
 
 ### Fixed — version-check regex silently matched stale versions (CA-2026-011)
