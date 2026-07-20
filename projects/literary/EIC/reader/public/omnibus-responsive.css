@@ -1,0 +1,97 @@
+@media (max-width: 999px) {
+  .book-spreads,
+  .book-spread,
+  .book-page {
+    display: contents;
+  }
+
+  .book-page--blank {
+    display: none;
+  }
+
+  .book-page-footer {
+    display: none;
+  }
+
+  .prose .chapter-one-figure {
+    margin: 2.6em 0;
+  }
+}
+
+@media (max-width: 620px) {
+  .contents .cover {
+    grid-template-columns: minmax(105px, 34vw) minmax(0, 1fr);
+    grid-template-areas:
+      "art kicker"
+      "art title"
+      "art subtitle"
+      "action action";
+    column-gap: 1.15rem;
+    align-items: center;
+    padding-top: 1.75rem;
+  }
+
+  .contents .cover-title {
+    font-size: clamp(2rem, 10vw, 3rem);
+  }
+
+  .contents .cover-sub {
+    margin: .75rem 0 0;
+    font-size: .88rem;
+    line-height: 1.45;
+  }
+
+  .contents .btn-primary {
+    width: 100%;
+    margin-top: 1.25rem;
+    text-align: center;
+  }
+
+  .toc-heading {
+    display: block;
+  }
+
+  .toc-heading p {
+    margin-top: .3rem;
+    text-align: left;
+  }
+
+  .toc-book-row {
+    grid-template-columns: 2.35rem minmax(0, 1fr) auto;
+    gap: .65rem;
+    min-height: 78px;
+  }
+
+  .toc-book-row .toc-year {
+    display: none;
+  }
+
+  .toc-chapter-row {
+    padding-left: 3rem;
+  }
+
+  .toc-chapter-row .toc-year {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .contents .btn-primary,
+  .toc .toc-row {
+    transition: none;
+  }
+}
+
+.toc-row .toc-desc {
+  display: block;
+  margin-top: .3rem;
+  color: var(--text-3);
+  font-size: .8rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.45;
+}
+
+.toc-book-row .toc-desc {
+  font-size: .84rem;
+}

@@ -1,0 +1,301 @@
+{
+  "publication": {
+    "title": "The Front-Row Seat",
+    "subtitle": "A Six-Book Historical Omnibus",
+    "description": "A six-book historical omnibus spanning five centuries of the East India Company, told from the Prospect of Whitby on the Thames.",
+    "site_url": "https://nj22az.github.io/the-front-row-seat/",
+    "cover_id": "front-row-seat-cover",
+    "reading_speed": 250
+  },
+  "front_matter": [
+    {
+      "path": "front-matter/00-frontmatter.md",
+      "role": "frontmatter",
+      "hidden": true
+    },
+    {
+      "path": "front-matter/00a-foreword.md",
+      "role": "foreword"
+    }
+  ],
+  "books": [
+    {
+      "numeral": "I",
+      "word": "One",
+      "title": "The Venture",
+      "years": "1603–1635",
+      "landing_id": "part-one-the-venture",
+      "status": "Expanded historical novel",
+      "pages": [
+        {
+          "path": "book-1-the-venture/part-one-the-venture.md",
+          "role": "part"
+        },
+        {
+          "path": "book-1-the-venture/01-1603-the-boy-who-signed.md",
+          "role": "chapter",
+          "tagline": "A murderer asks the room for a rope; the room saves Mara, names Bell — and lets the killer leave."
+        },
+        {
+          "path": "book-1-the-venture/02-1603-dutch-courage.md",
+          "role": "chapter",
+          "tagline": "The Dragon's lads come home loud, a Dutchman prices the paper, and a thimble is left on the bar."
+        },
+        {
+          "path": "book-1-the-venture/06-1603-the-soot-and-the-roof.md",
+          "role": "chapter",
+          "tagline": "The escape the tavern never saw: bare feet on wet tiles, and a Dutchman who leaves the choice to her."
+        },
+        {
+          "path": "book-1-the-venture/20-1603-the-stewards-search.md",
+          "role": "chapter",
+          "tagline": "Harcourt's steward searches the room, and Maggie learns what can be hidden in plain sight."
+        },
+        {
+          "path": "book-1-the-venture/08-1604-the-language-of-paper.md",
+          "role": "chapter",
+          "tagline": "Mara crosses into Dutch paper and learns that a copied page can buy a lock on the inside."
+        },
+        {
+          "path": "book-1-the-venture/21-1611-the-counter-ledger.md",
+          "role": "chapter",
+          "tagline": "Maggie keeps Bell's truth beneath the bar while the years carve an account of their own."
+        },
+        {
+          "path": "book-1-the-venture/09-1612-the-teak-desk.md",
+          "role": "chapter",
+          "tagline": "Mara takes her work beyond the Company gate and makes power cross the market at her rate."
+        },
+        {
+          "path": "book-1-the-venture/03-1612-the-return.md",
+          "role": "chapter",
+          "tagline": "A square of blue cotton crosses an ocean before Tom brings the Company home in his coat."
+        },
+        {
+          "path": "book-1-the-venture/11-1613-the-boy-in-the-rigging.md",
+          "role": "chapter",
+          "tagline": "Jack learns the rigging, survives the flux, and sees ten seconds of weather before the mast falls."
+        },
+        {
+          "path": "book-1-the-venture/14-1614-the-pay-table.md",
+          "role": "chapter",
+          "tagline": "A crushed hand, a closed debt, and two correct ledgers that still cannot tell the truth."
+        },
+        {
+          "path": "book-1-the-venture/22-1614-arthur-in-the-chair.md",
+          "role": "chapter",
+          "tagline": "Arthur inherits Bell's chair and begins keeping two books in the same exact hand."
+        },
+        {
+          "path": "book-1-the-venture/15-1620-the-lone-machine.md",
+          "role": "chapter",
+          "tagline": "Orphaned at sea, Tom corrects one false tally and makes the machine stronger."
+        },
+        {
+          "path": "book-1-the-venture/17-1622-the-echo.md",
+          "role": "chapter",
+          "tagline": "Seven letters remain unsent while Tom teaches a frightened sailor without striking him."
+        },
+        {
+          "path": "book-1-the-venture/23-1622-news-from-the-sea.md",
+          "role": "chapter",
+          "tagline": "Amboyna reaches Wapping in fragments, and one missing name becomes the next handhold."
+        },
+        {
+          "path": "book-1-the-venture/10-1623-the-intersecting-web.md",
+          "role": "chapter",
+          "tagline": "Mara's web finds an English hand missing from the lists and a trail ending in Batavia."
+        },
+        {
+          "path": "book-1-the-venture/20-1621-the-factor.md",
+          "role": "chapter",
+          "tagline": "Daniel watches ordinary facts become a useful report as Amboyna's water closes around him."
+        },
+        {
+          "path": "book-1-the-venture/22-1623-the-coral-room.md",
+          "role": "chapter",
+          "tagline": "A table, a wall, and a signature turn questioning into a room built to erase truth."
+        },
+        {
+          "path": "book-1-the-venture/18-1623-amboyna.md",
+          "role": "chapter",
+          "tagline": "Three accounts reach Surat; Tom restores the names and follows the man still retained."
+        },
+        {
+          "path": "book-1-the-venture/24-1623-the-widows-years.md",
+          "role": "chapter",
+          "tagline": "Anne Bell measures the years after Matthew in bread, claims, and the truths nobody pays for."
+        },
+        {
+          "path": "book-1-the-venture/19-1625-batavia.md",
+          "role": "chapter",
+          "tagline": "Mara, Tom, and Daniel meet at one ledger, and an eighth letter finally opens the road west."
+        },
+        {
+          "path": "book-1-the-venture/02-1626-the-man-who-came-back-wrong.md",
+          "role": "chapter",
+          "tagline": "The one man Amboyna sent home, the wife who lets him be new — and a wager kept for twenty-three years."
+        },
+        {
+          "path": "book-1-the-venture/04-1629-the-south-land.md",
+          "role": "chapter",
+          "tagline": "Mara makes the Company read the warning it ignored; Silas watches the ship leave as if he could tear it apart."
+        },
+        {
+          "path": "book-1-the-venture/05-1635-last-orders.md",
+          "role": "epilogue",
+          "tagline": "Tom pays off a last ship, and the pie arrives before the news."
+        },
+        {
+          "path": "book-1-the-venture/book-one-character-bible.md",
+          "role": "reference",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "numeral": "II",
+      "word": "Two",
+      "title": "The Gallows Years",
+      "years": "1696–1701",
+      "landing_id": "part-two-the-gallows-years",
+      "pages": [
+        {
+          "path": "book-2-the-gallows-years/part-two-the-gallows-years.md",
+          "role": "part"
+        },
+        {
+          "path": "book-2-the-gallows-years/03-1696-the-price-of-a-man.md",
+          "role": "chapter",
+          "tagline": "The month six substitutes hang, a widow declines to sell her quiet lodger."
+        },
+        {
+          "path": "book-2-the-gallows-years/04-1701-good-for-business.md",
+          "role": "chapter",
+          "tagline": "Kidd hangs twice at low tide; a young writer learns which ledger is never shown."
+        }
+      ]
+    },
+    {
+      "numeral": "III",
+      "word": "Three",
+      "title": "Kings of Bengal",
+      "years": "1757–1790",
+      "landing_id": "part-three-kings-of-bengal",
+      "pages": [
+        {
+          "path": "book-3-kings-of-bengal/part-three-kings-of-bengal.md",
+          "role": "part"
+        },
+        {
+          "path": "book-3-kings-of-bengal/05-1757-a-soldiers-arithmetic.md",
+          "role": "chapter",
+          "tagline": "Plassey was bought before it was fought. Sergeant Coates goes on record anyway."
+        },
+        {
+          "path": "book-3-kings-of-bengal/06-1770-what-mulvey-saw.md",
+          "role": "chapter",
+          "tagline": "The drought was God's. The famine was the Company's. Mulvey saw the difference."
+        },
+        {
+          "path": "book-3-kings-of-bengal/07-1774-too-big-to-sink.md",
+          "role": "chapter",
+          "tagline": "A tallyman counts the bailout tea out to Boston, and writes one honest warning."
+        },
+        {
+          "path": "book-3-kings-of-bengal/08-1790-forty-seven-days.md",
+          "role": "interlude",
+          "tagline": "Davy Munro is on the list of the loyal, but not on the list of the saved."
+        }
+      ]
+    },
+    {
+      "numeral": "IV",
+      "word": "Four",
+      "title": "The Poppy",
+      "years": "1839–1880",
+      "landing_id": "part-four-the-poppy",
+      "pages": [
+        {
+          "path": "book-4-the-poppy/part-four-the-poppy.md",
+          "role": "part"
+        },
+        {
+          "path": "book-4-the-poppy/09-1839-what-pemberton-called-trade.md",
+          "role": "chapter",
+          "tagline": "Mei hears the word Lintin and understands what Pemberton's trade cost her."
+        },
+        {
+          "path": "book-4-the-poppy/10-1858-what-harding-would-not-say.md",
+          "role": "chapter",
+          "tagline": "A medal is offered if the Cawnpore story holds. Harding repeats the true number."
+        },
+        {
+          "path": "book-4-the-poppy/11-1880-the-hell-ship.md",
+          "role": "interlude",
+          "tagline": "A mate kills a seaman, a captain helps him run, and a witness weighs the telling."
+        }
+      ]
+    },
+    {
+      "numeral": "V",
+      "word": "Five",
+      "title": "The Watchman's Daughter",
+      "years": "1888–1892",
+      "landing_id": "12-1888-the-watchmans-daughter",
+      "status": "Compact edition",
+      "pages": [
+        {
+          "path": "book-5-the-watchmans-daughter/12-1888-the-watchmans-daughter.md",
+          "role": "interlude",
+          "tagline": "Su Zhang, four rules, and the autumn all of Whitechapel walks home counting footsteps."
+        }
+      ]
+    },
+    {
+      "numeral": "VI",
+      "word": "Six",
+      "title": "The Engine Room",
+      "years": "1940–2019",
+      "landing_id": "part-five-the-engine-room",
+      "pages": [
+        {
+          "path": "book-6-the-engine-room/part-five-the-engine-room.md",
+          "role": "part"
+        },
+        {
+          "path": "book-6-the-engine-room/13-1940-a-wardens-watch.md",
+          "role": "chapter",
+          "tagline": "Twenty-nine thousand bombs in one ledger, and a son inside the fires it counts."
+        },
+        {
+          "path": "book-6-the-engine-room/14-2019-what-the-suit-didnt-see.md",
+          "role": "chapter",
+          "tagline": "Albion Reach buys the debt. Hannah decides who owns the meaning."
+        },
+        {
+          "path": "book-6-the-engine-room/part-six-afterlives.md",
+          "role": "epilogue"
+        }
+      ]
+    }
+  ],
+  "back_matter": [
+    {
+      "path": "appendices/appendix-0-authors-note.md",
+      "role": "appendix"
+    },
+    {
+      "path": "appendices/appendix-1-timeline.md",
+      "role": "appendix"
+    },
+    {
+      "path": "appendices/appendix-1b-character-map.md",
+      "role": "appendix"
+    },
+    {
+      "path": "appendices/appendix-2-bibliography.md",
+      "role": "appendix"
+    }
+  ]
+}

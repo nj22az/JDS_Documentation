@@ -1,52 +1,60 @@
 # The Front-Row Seat — web reader
 
-A static React (Vite + TypeScript) reading edition of the novel, built for
-readability with an Apple-inspired design: serif reading body, comfortable
-measure, light/dark/auto appearance, adjustable text size, a cover + contents
-view, a reading-progress bar, and keyboard chapter navigation.
+A static React/Vite reading edition of the six-book historical omnibus. It offers
+grouped book and chapter contents, light/dark/automatic appearance, adjustable
+type, progress and keyboard navigation, a desktop book-spread layout, credited
+illustrations, and a crawlable no-JavaScript edition.
 
-**Live:** https://nj22az.github.io/the-front-row-seat/
+**Live:** <https://nj22az.github.io/the-front-row-seat/>
 
 ## Source of truth
 
-The **manuscript is the source of truth** (`../manuscript/*.md`). This app never
-holds its own copy of the prose. `tools/build_content.py` compiles the manuscript
-into `src/data/content.json` and copies the referenced images from the canonical
-`../exports/html/assets/` into `public/assets/`. Both of those are generated and
-git-ignored — regenerate them, don't edit them by hand.
+The reader does not own prose. It compiles the ordered YAML manuscript under
+`../manuscript/` according to `../manuscript/publishing-manifest.json`.
 
-Illustrations (heroes, inline figures, credits) are declared in
-`../exports/html/assets/data/archive-assets.json` and mapped to chapters/sections
-in `tools/build_content.py` (`HERO` and `INLINE`).
+`tools/build_content.py` produces:
+
+- `src/data/content.json` — all 48 ordered pages and credits;
+- `public/assets/` — images copied from `../exports/html/assets/`;
+- `public/omnibus-config.js` — generated book order, word counts, and taglines;
+- `public/sitemap.xml` and the SEO regions in `index.html`;
+- `../exports/the-front-row-seat.md` — compiled Markdown in reading order.
+
+These generated reader files are ignored. Do not edit them by hand. The tracked
+overlay source in `public/omnibus*.{js,css}` preserves the production reader's
+six-book contents and desktop spread treatment.
 
 ## Build
 
 ```bash
-# 1. compile content + copy images from the manuscript & canonical assets
-python3 tools/build_content.py          # needs: pip install markdown
-
-# 2. install and build the app
-npm install
-npm run build                           # -> dist/
+python3 tools/build_content.py
+npm install                 # first setup only
+npm run build               # writes dist/
 ```
 
-`dist/` is what gets deployed to `nj22az.github.io/the-front-row-seat/`.
-`base: "./"` + `HashRouter` mean it runs from any sub-path with no server config.
+The content step fails if a manuscript page is missing, unlisted, duplicated, or
+lacks the required YAML metadata. Book One should report exactly 100,000 words.
 
 ## Develop
 
 ```bash
 python3 tools/build_content.py
-npm run dev            # http://localhost:5173
+npm run dev
 ```
 
-## Deploy
+The Vite application uses a relative base and `HashRouter`, so deep reading links
+work beneath the GitHub Pages subdirectory without server rewrites.
 
-Copy the built `dist/` into the site repo at `the-front-row-seat/` and push
-(GitHub Pages, served from `main`).
+## Publish
+
+Copy the verified contents of `dist/` into `the-front-row-seat/` in a current clone
+of `nj22az/nj22az.github.io`. Preserve the separate
+`1888-motion-graphic-novel/` page, commit the reader payload, and push `main`.
+GitHub Pages deploys the live site automatically.
 
 ## Editing flow
 
-1. Edit the chapter in `../manuscript/NN-*.md`.
-2. `python3 tools/build_content.py` (recompiles content + assets).
-3. `npm run build`, then deploy `dist/`.
+1. Edit the relevant page under `../manuscript/`.
+2. Change `publishing-manifest.json` only when order or publication metadata changes.
+3. Run the content build and confirm its page count and Book One word count.
+4. Run the Vite build and publication checks before deployment.

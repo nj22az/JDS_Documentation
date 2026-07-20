@@ -1,0 +1,449 @@
+/*
+  A restrained editorial layer for the six-book reader.
+  The grid, small labels and fine rules borrow from Japanese information design;
+  the oxblood ink and book typography keep the Victorian character.
+*/
+
+.contents,
+.reader {
+  --accent: #8b3128;
+}
+
+[data-theme="dark"] .contents,
+[data-theme="dark"] .reader {
+  --accent: #d47c6f;
+}
+
+/* Cover: one compact statement, not a second landing page. */
+.contents .cover {
+  display: grid;
+  grid-template-columns: minmax(150px, 210px) minmax(0, 1fr);
+  grid-template-areas:
+    "art kicker"
+    "art title"
+    "art subtitle"
+    "art action";
+  column-gap: clamp(1.5rem, 6vw, 3.5rem);
+  align-items: end;
+  padding: clamp(2rem, 7vw, 4.5rem) 0 clamp(2.5rem, 7vw, 4rem);
+  text-align: left;
+  border-bottom: 1px solid var(--hairline-strong);
+}
+
+.contents .cover-art {
+  grid-area: art;
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  aspect-ratio: 2 / 3;
+  border: 1px solid var(--hairline-strong);
+  border-radius: 2px;
+  box-shadow: none;
+}
+
+.contents .cover-kicker {
+  grid-area: kicker;
+  margin: 0 0 .65rem;
+  color: var(--accent);
+  font-size: .68rem;
+  font-weight: 700;
+  letter-spacing: .16em;
+}
+
+.contents .cover-title {
+  grid-area: title;
+  max-width: 10ch;
+  margin: 0;
+  font-size: clamp(2.5rem, 7vw, 4.2rem);
+  line-height: .96;
+}
+
+.contents .cover-sub {
+  grid-area: subtitle;
+  max-width: 29rem;
+  margin: 1rem 0 1.4rem;
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  line-height: 1.55;
+}
+
+.contents .btn-primary {
+  grid-area: action;
+  justify-self: start;
+  padding: .62rem 1.05rem;
+  border: 1px solid var(--accent);
+  border-radius: 2px;
+  background: transparent;
+  color: var(--accent);
+  font-size: .84rem;
+  letter-spacing: .02em;
+}
+
+/* Contents: one reading order, treated as a printed ledger. */
+.toc-heading {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: .5rem 1rem;
+  align-items: end;
+  margin: 2.75rem 0 1rem;
+  padding: 0 0 .8rem;
+  border-bottom: 2px solid var(--text);
+}
+
+.toc-heading h2 {
+  margin: 0;
+  font-family: var(--font-serif);
+  font-size: 1.45rem;
+  font-weight: 600;
+  letter-spacing: -.015em;
+}
+
+.toc-heading p {
+  margin: 0;
+  color: var(--text-3);
+  font-size: .75rem;
+  line-height: 1.4;
+  text-align: right;
+}
+
+.toc .toc-row {
+  border-radius: 0;
+}
+
+.toc .toc-thumb {
+  display: none;
+}
+
+.toc .toc-chevron {
+  color: var(--text-3);
+  font-size: 1rem;
+}
+
+.toc .toc-book-row {
+  position: relative;
+  display: grid;
+  grid-template-columns: 3rem minmax(0, 1fr) auto auto;
+  gap: .9rem;
+  min-height: 88px;
+  margin: 2rem 0 0;
+  padding: 1.15rem .25rem;
+  border-top: 1px solid var(--text);
+  border-bottom: 1px solid var(--hairline);
+  background: transparent;
+}
+
+.toc li:first-child .toc-book-row {
+  margin-top: 0;
+}
+
+.toc-book-row::before {
+  content: attr(data-book);
+  display: grid;
+  align-self: stretch;
+  place-items: center;
+  border-right: 1px solid var(--accent);
+  color: var(--accent);
+  font-family: var(--font-serif);
+  font-size: 1.2rem;
+}
+
+.toc-book-row .toc-copy {
+  justify-content: center;
+}
+
+.toc-book-row .toc-kicker {
+  color: var(--accent);
+  font-size: .64rem;
+  font-weight: 700;
+  letter-spacing: .13em;
+}
+
+.toc-book-row .toc-title {
+  font-size: 1.28rem;
+  font-weight: 600;
+}
+
+.toc-book-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem;
+  margin-top: .35rem;
+  color: var(--text-3);
+  font-size: .68rem;
+  font-weight: 600;
+  letter-spacing: .05em;
+  line-height: 1.3;
+  text-transform: uppercase;
+}
+
+.toc-book-row .toc-year {
+  align-self: center;
+  color: var(--text-3);
+  font-size: .78rem;
+  white-space: nowrap;
+}
+
+.toc .toc-chapter-row {
+  min-height: 62px;
+  padding: .7rem .25rem .7rem 3.9rem;
+  border-top: 1px solid var(--hairline);
+}
+
+.toc-chapter-row .toc-kicker {
+  font-size: .61rem;
+  letter-spacing: .11em;
+}
+
+.toc-chapter-row .toc-title {
+  font-size: 1.02rem;
+}
+
+.toc-chapter-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .32rem;
+  margin-top: .24rem;
+  color: var(--text-3);
+  font-size: .62rem;
+  font-weight: 600;
+  letter-spacing: .045em;
+  line-height: 1.3;
+  text-transform: uppercase;
+}
+
+.toc-chapter-row .toc-year {
+  font-size: .75rem;
+}
+
+.toc-epilogue-row {
+  margin-top: .8rem;
+  border-top: 1px solid var(--hairline-strong);
+}
+
+.toc-epilogue-row .toc-kicker {
+  color: var(--text-3);
+}
+
+.toc .toc-meta-row {
+  min-height: 54px;
+  padding: .62rem .25rem;
+  border-top: 1px solid var(--hairline);
+}
+
+.toc-meta-row .toc-kicker {
+  font-size: .6rem;
+  letter-spacing: .11em;
+}
+
+.toc-meta-row .toc-title {
+  font-size: .94rem;
+}
+
+.toc-meta-row .toc-year {
+  display: none;
+}
+
+.toc-section-label {
+  margin-top: 2.5rem;
+  padding: .7rem .25rem;
+  border-bottom: 2px solid var(--text);
+  color: var(--accent);
+  font-size: .65rem;
+  font-weight: 700;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+}
+
+/* Reader metadata stays terse; illustrations retain a book-plate scale. */
+.prose .watchmans-plate {
+  margin: 2.8em auto;
+}
+
+.prose .watchmans-plate img {
+  width: min(100%, 30rem);
+  margin: 0 auto;
+  border-radius: 2px;
+  background: var(--surface-2);
+}
+
+.prose .watchmans-plate figcaption {
+  width: min(100%, 30rem);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.prose .chapter-one-figure img {
+  border-radius: 2px;
+}
+
+.book-page--blank {
+  display: none;
+}
+
+@media (min-width: 1000px) {
+  .reader {
+    max-width: 78rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+  }
+
+  .reader .chapter-head,
+  .reader .chapter-nav,
+  .reader .prose > p,
+  .reader .prose > h2,
+  .reader .prose > blockquote,
+  .reader .prose > hr {
+    max-width: 42rem;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .reader .prose > .fig:not(.chapter-one-figure) {
+    width: min(100%, 64rem);
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .reader--book-layout {
+    max-width: 92rem;
+  }
+
+  .reader--book-layout .hero {
+    width: min(100%, 86rem);
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .reader--book-layout .prose {
+    max-width: none;
+  }
+
+  .book-spreads {
+    width: min(100%, 86rem);
+    margin: 3.5rem auto 0;
+    counter-reset: reader-page;
+  }
+
+  .book-spread {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    align-items: stretch;
+    margin: 0 0 2.5rem;
+    border: 1px solid var(--hairline-strong);
+    background: var(--surface);
+    box-shadow: 0 18px 45px rgba(0, 0, 0, .09);
+  }
+
+  .book-page {
+    position: relative;
+    min-width: 0;
+    min-height: clamp(42rem, 72vh, 52rem);
+    padding: clamp(2.5rem, 5vw, 4.5rem);
+    counter-increment: reader-page;
+  }
+
+  .book-page::before {
+    content: attr(data-running-head);
+    position: absolute;
+    top: 1.2rem;
+    right: clamp(2.5rem, 5vw, 4.5rem);
+    left: clamp(2.5rem, 5vw, 4.5rem);
+    padding-bottom: .55rem;
+    border-bottom: 1px solid var(--hairline);
+    color: var(--text-3);
+    font-family: var(--font-ui);
+    font-size: .6rem;
+    font-weight: 600;
+    letter-spacing: .12em;
+    line-height: 1.3;
+    text-transform: uppercase;
+  }
+
+  .book-page::after {
+    content: counter(reader-page, decimal-leading-zero);
+    position: absolute;
+    right: clamp(2.5rem, 5vw, 4.5rem);
+    bottom: 1.4rem;
+    color: var(--text-3);
+    font-family: var(--font-ui);
+    font-size: .62rem;
+    letter-spacing: .12em;
+  }
+
+  .book-page--left {
+    border-right: 1px solid var(--hairline-strong);
+    box-shadow: inset -18px 0 28px -30px rgba(0, 0, 0, .35);
+  }
+
+  .book-page--left::after {
+    right: auto;
+    left: clamp(2.5rem, 5vw, 4.5rem);
+  }
+
+  .book-page--left::before {
+    text-align: left;
+  }
+
+  .book-page--right {
+    box-shadow: inset 18px 0 28px -30px rgba(0, 0, 0, .35);
+  }
+
+  .book-page--right::before {
+    text-align: right;
+  }
+
+  .book-page-footer {
+    position: absolute;
+    right: clamp(2.5rem, 5vw, 4.5rem);
+    bottom: 1.15rem;
+    left: clamp(2.5rem, 5vw, 4.5rem);
+    padding-top: .55rem;
+    border-top: 1px solid var(--hairline);
+    color: var(--text-3);
+    font-family: var(--font-ui);
+    font-size: .58rem;
+    letter-spacing: .1em;
+    line-height: 1.3;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  .book-page--blank {
+    display: block;
+    counter-increment: none;
+  }
+
+  .book-page--blank::after {
+    content: none;
+  }
+
+  .book-page--blank::before,
+  .book-page--blank .book-page-footer {
+    display: none;
+  }
+
+  .book-page > :first-child {
+    margin-top: 0;
+  }
+
+  .book-page > :last-child {
+    margin-bottom: 0;
+  }
+
+  .book-page h2 {
+    margin-top: 0;
+  }
+
+  .prose .book-page .fig {
+    margin: 1.8em 0;
+  }
+
+  .prose .book-page .fig img {
+    border-radius: 2px;
+  }
+
+  [data-theme="dark"] .book-spread,
+  [data-theme="auto"] .book-spread {
+    box-shadow: 0 18px 45px rgba(0, 0, 0, .35);
+  }
+}

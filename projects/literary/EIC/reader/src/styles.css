@@ -489,6 +489,7 @@ img { max-width: 100%; display: block; }
   .credit-item { grid-template-columns: 68px 1fr; }
   .credit-item img { width: 68px; height: 68px; }
 }
+
 @media (prefers-reduced-motion: reduce) {
   * { animation-duration: 0.001ms !important; transition-duration: 0.001ms !important; }
 }

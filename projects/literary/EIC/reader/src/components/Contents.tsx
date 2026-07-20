@@ -8,10 +8,11 @@ export default function Contents() {
     window.scrollTo(0, 0);
   }, []);
 
-  const firstChapter = book.pages.find((p) => p.kicker.startsWith("Chapter")) ?? book.pages[0];
+  const visiblePages = book.pages.filter((page) => !page.hidden);
+  const firstChapter = visiblePages.find((page) => page.kicker.startsWith("Chapter")) ?? visiblePages[0];
 
   return (
-    <main className="contents">
+    <main className="contents" lang="en">
       <section className="cover">
         {book.cover && (
           <div className="cover-art">
@@ -28,7 +29,7 @@ export default function Contents() {
 
       <nav className="toc" aria-label="Contents">
         <ol>
-          {book.pages.map((p) => (
+          {visiblePages.map((p) => (
             <li key={p.id}>
               <Link to={`/read/${p.id}`} className="toc-row">
                 {p.hero && (

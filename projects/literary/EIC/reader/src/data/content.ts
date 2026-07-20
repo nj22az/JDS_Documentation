@@ -16,6 +16,11 @@ export interface Page {
   epigraph: string;
   hero: Asset | null;
   body: string;
+  hidden: boolean;
+  role: "frontmatter" | "foreword" | "part" | "chapter" | "interlude" | "epilogue" | "reference" | "appendix";
+  book: string | null;
+  words: number;
+  tagline: string;
 }
 
 export interface Credit {

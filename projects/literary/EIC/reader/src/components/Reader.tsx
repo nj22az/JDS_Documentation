@@ -8,10 +8,13 @@ export default function Reader() {
   const [progress, setProgress] = useState(0);
   const articleRef = useRef<HTMLElement>(null);
 
-  const index = book.pages.findIndex((p) => p.id === id);
-  const page = index >= 0 ? book.pages[index] : null;
-  const prev = index > 0 ? book.pages[index - 1] : null;
-  const next = index >= 0 && index < book.pages.length - 1 ? book.pages[index + 1] : null;
+  const page = book.pages.find((candidate) => candidate.id === id) ?? null;
+  const navigationPages = book.pages.filter((candidate) => !candidate.hidden);
+  const navigationIndex = page ? navigationPages.findIndex((candidate) => candidate.id === page.id) : -1;
+  const prev = navigationIndex > 0 ? navigationPages[navigationIndex - 1] : null;
+  const next = navigationIndex >= 0 && navigationIndex < navigationPages.length - 1
+    ? navigationPages[navigationIndex + 1]
+    : null;
 
   // Reset scroll + title on chapter change
   useEffect(() => {
@@ -67,7 +70,7 @@ export default function Reader() {
         <div className="progress-fill" style={{ transform: `scaleX(${progress})` }} />
       </div>
 
-      <article className="reader" ref={articleRef}>
+      <article className="reader" lang="en" ref={articleRef}>
         {page.hero && (
           <figure className={"hero" + (page.hero.orientation === "portrait" ? " hero-portrait" : "")}>
             {page.hero.orientation === "portrait" && (

@@ -4,6 +4,38 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-20] (Book One 100,000-word sync and live-reader publication)
+
+### Manuscript
+- Replaced the stale flat 14-chapter JDS source with the current 48-page,
+  six-book YAML manuscript tree.
+- Book One, *The Venture*, now contains twenty-two numbered chapters plus
+  *Last Orders* as its epilogue and verifies at exactly **100,000 words** by
+  the inclusive manuscript count.
+- Added `manuscript/publishing-manifest.json` as the stable reading-order and
+  publication manifest. Filename and date sorting are explicitly rejected for
+  Book One. The Wapping Twelve remains a hidden, deep-linked reference page.
+- Synced the final Silas image in *The South Land*: wordless in the shallows,
+  watching the departing *Sardam* with empty hands opening and closing as if he
+  could tear the ship plank from plank.
+
+### Reader and publication tooling
+- Reworked `reader/tools/build_content.py` for recursive YAML pages, explicit
+  manifest order, semantic embedded figures, generated six-book SEO, automatic
+  word statistics, hidden-page metadata, and compiled Markdown output.
+- Preserved the existing Safari language fallback and large-screen sizing work.
+- Brought the production six-book contents and desktop spread layer back into
+  the maintained JDS reader source, with generated configuration instead of
+  hard-coded manuscript order and word counts.
+- Imported and registered the ten production illustrations used by Chapter One
+  and *The Watchman's Daughter*, raising the credited archive to 57 assets.
+- Updated the React reader so hidden pages do not appear in contents or linear
+  previous/next navigation.
+
+### Verification
+- Content build: 48 unique pages, 57 credited assets, Book One 100,000 words.
+- Production Vite build completed successfully.
+
 ## [2026-07-06] (tightening pass — Chapters 4 onward)
 
 Full consistency/chronology audit of Ch4–14 in the spirit of the Ch1–3 review.

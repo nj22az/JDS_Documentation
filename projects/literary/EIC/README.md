@@ -3,8 +3,8 @@
 | Field | Value |
 |-------|-------|
 | **Type** | Literary Project |
-| **Working Title** | The Front-Row Seat: Five Centuries of History from the Banks of the Thames |
-| **Status** | DRAFT |
+| **Title** | The Front-Row Seat: A Six-Book Historical Omnibus |
+| **Status** | Book One complete at 100,000 words; Books Two–Six in compact edition |
 | **Started** | 2026-07-01 |
 | **Author** | N. Johansson |
 
@@ -12,43 +12,70 @@
 
 ## What Is This?
 
-A historical fiction anthology-novel: the East India Company, told from one fixed
-point of view — the Prospect of Whitby (formerly the Devil's Tavern) in Wapping,
-London — across five centuries, from its 1600 charter to its 2019 afterlife as a
-tourist stop across the river from Canary Wharf. Real history (the Every manhunt,
-Kidd's hanging, the Bengal Famine, the Company's 1772 bailout and the Boston
-Tea Party, the Opium Wars, the Cutty Sark killing, Cawnpore) mixed with invented characters and, in one chapter, an invented
-resolution to a real unsolved crime (the 1888 Whitechapel murders).
+A historical-fiction cycle about the East India Company, observed from one fixed
+point on the Thames: the riverside house now called the Prospect of Whitby. The
+six books span 1603–2019. Real events and economic systems are carried by invented
+characters whose private accounts preserve what official ledgers omit.
 
-Not a JDS-numbered engineering document — this folder is non-technical creative
-writing tracked outside the JDS document numbering system, alongside other work
-output under `projects/`.
+Book One, *The Venture*, is a standalone historical novel of exactly 100,000 words
+by the project's inclusive manuscript count. It contains twenty-two numbered
+chapters and an epilogue. The later books remain the compact omnibus editions while
+their standalone expansions are developed.
 
-## Structure
+This is non-technical creative work, so it is not assigned a JDS document number.
+Git remains the controlled source under the wider JDS project structure.
 
-```
+## Source and Reading Order
+
+`manuscript/` is the source of truth for publication. Its Markdown pages use YAML
+keys (`id`, `kicker`, `year`, `title`, `hero`) that remain stable when chapter
+titles or positions change. `manuscript/publishing-manifest.json` is the only
+authoritative reading order; Book One must never be sorted by filename or year.
+
+The manifest also records book groupings, hidden pages, reader taglines, and the
+publication metadata used by the website build. The Wapping Twelve reference is
+published at a stable deep link but deliberately omitted from contents and linear
+previous/next navigation.
+
+```text
 EIC/
-├── README.md                       ← This project card
-├── CHANGELOG.md                    ← Change log
-├── manuscript/                     ← Draft chapters, in reading order (source of truth)
-│   ├── 00-frontmatter.md
-│   ├── 01-1603 ... 14-2019         ← 14 chapters, numbered chronologically
-│   └── appendix-timeline.md / appendix-bibliography.md
+├── README.md
+├── CHANGELOG.md
+├── manuscript/
+│   ├── publishing-manifest.json
+│   ├── front-matter/
+│   ├── book-1-the-venture/         # 22 chapters + Epilogue + hidden reference
+│   ├── book-2-the-gallows-years/
+│   ├── book-3-kings-of-bengal/
+│   ├── book-4-the-poppy/
+│   ├── book-5-the-watchmans-daughter/
+│   ├── book-6-the-engine-room/
+│   └── appendices/
+├── reader/                         # React/Vite illustrated reading edition
 ├── exports/
-│   ├── the-front-row-seat.md       ← Compiled single-file book (regenerate after chapter edits)
-│   └── the-front-row-seat.pdf      ← Publishable 6×9 book PDF (`python3 scripts/md2book.py projects/literary/EIC/manuscript projects/literary/EIC/exports/the-front-row-seat.pdf`)
-├── notes/
-│   └── outline-and-craft-plan.md   ← Working plan: strengths, weaknesses, next moves
-└── references/                     ← Source material, inspiration (empty so far)
+│   ├── the-front-row-seat.md      # generated single-file reading export
+│   └── html/assets/               # canonical visual archive and credits
+└── notes/                           # editorial and research notes
 ```
 
-## Status
+Private series mechanics and expansion working notes remain outside the published
+JDS manuscript tree. They must not be emitted by the website build.
 
-14 chapters drafted (1603–2019), every chapter carrying an invented protagonist
-with an active in-scene choice, connected across the centuries by three light
-background devices (the Cache under the bar, the Ashby/Hannah keeper line, and
-recurring "scar tissue" damage to the room itself). See
-`notes/outline-and-craft-plan.md` for the standing craft plan; remaining work is
-polish-level (epigraph consistency, refrain rationing, an Author's Note, and a
-full continuity read-through), not structural. Next decisions are logged there,
-not here.
+## Build and Publish
+
+From `reader/`:
+
+```bash
+python3 tools/build_content.py
+npm run build
+```
+
+The content build validates all 48 declared Markdown pages, emits the reader JSON,
+copies and credits the canonical images, generates grouped SEO/no-JavaScript
+content, writes reading statistics, and refreshes the compiled Markdown export.
+The Vite build writes the deployable site to `reader/dist/`.
+
+The live reader is published from `the-front-row-seat/` on the `main` branch of
+`nj22az/nj22az.github.io` and is available at:
+
+<https://nj22az.github.io/the-front-row-seat/>
