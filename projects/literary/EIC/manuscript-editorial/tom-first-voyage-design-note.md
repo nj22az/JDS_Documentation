@@ -110,11 +110,53 @@ the version he never tells anyone, including Maggie. That's a deliberate
 echo of the source material's own comic-tall-tale tradition without
 importing anything impossible into Book One's register.
 
-The chapter now resolves with **no new debt**: Tom returns to full
-Company service the way the design note's "Option A" proposed, hardened by
-shame and eleven days' destitution rather than by a second ledger entry.
-His father's £11 6s 4d remains the book's one load-bearing financial
-thread for Tom, uncompeted with.
+## Revision two: Tom kills a man, and gets out
+
+A third piece of source material — the verse revealing that Fritiof
+Andersson's "terrible crime" was a killing, that he served real time for
+it, and was eventually freed — asked for something heavier than shame and
+destitution. I've rewritten Section IV onward so the robbery escalates
+into a fight, Tom kills one of the three men who rob him (a struggle over
+the man's own knife, not a premeditated act — closer to the Swedish
+*dråp*, manslaughter, than to *mord*, murder), and is imprisoned by the
+Bantam Sultanate's own court, not the English or Dutch factories, since
+the dead man is a local subject and this is Javanese sovereign territory.
+
+**What's used from the source, realistically:** the killing itself, the
+imprisonment, and — because Fritiof is freed, not left to rot — a release
+that has to be earned rather than bought. **What's changed:** the source
+gives no account of *how* Fritiof gets out; I built that from the book's
+own established methods rather than inventing something foreign to it. The
+hearing before the qadi (the Sultanate's Islamic magistrate — a real,
+period-accurate office for Banten in 1605) deliberately echoes the book's
+founding device: in `01-1603-the-boy-who-signed`, Silas Rook is convicted
+by being made to *demonstrate* the killing blow, and his own grip gives
+him away. Here, the same method — *show me how you held it* — clears Tom
+instead, because his grip shows a struggle over another man's weapon, not
+an intentional killing stroke. Same forensic method, opposite verdict,
+five chapters and two years apart in the reading order. I think this is
+the strongest single thing in the revision and would want it kept even if
+other details change.
+
+**Still no new debt, structurally:** Aldous pays Tom's fine and explicitly
+refuses repayment — "put it toward the next fool who stands in that yard"
+— treating it as closed rather than owed, the same unpriced-kindness
+register the book already uses for Maggie and Anne Bell's friendship. His
+father's £11 6s 4d remains the book's one load-bearing financial thread
+for Tom.
+
+**What this raises, and is worth your explicit sign-off on:** Tom has now
+killed a man before the book's midpoint. It's self-defense, adjudicated as
+such by a formal court, and never confessed to anyone including Maggie —
+but it's real, and it's heavier than anything else proposed in this
+design note. I think it earns its weight: it gives Tom's established
+watchfulness (never sitting with his back to a door, touching the scar
+under strain, the inability to simply rest ashore in `17-1622-the-echo`) a
+harder, more specific root than "years at sea changed him," and it sits
+comfortably beside a book that already contains Amboyna's torture chapter
+and Silas Rook's own killing of Bell. But it is a bigger addition than
+anything else in this document, and I'd rather you weigh it deliberately
+than find it's gone further than you meant.
 
 ## What this gives Tom
 
@@ -150,9 +192,8 @@ approval.
 
 Delivered: a complete draft of the interlude's core action, start to
 finish — Anders's song (I), the port call with Sri (II), the ship leaving
-without Tom (III), his destitution (IV), the factor's paper (V), and his
-return to service via the chance meeting with Anders at sea (VI). Still
-open, for a later pass: the `17-1622-the-echo` callback (making explicit,
-seventeen years later, that this is why Tom cannot simply rest on shore
-leave) and the single private Maggie moment — both were designed to be
+without Tom (III), the killing (IV), his imprisonment (V), the qadi's
+hearing (VI), and his return to service via the chance meeting with
+Anders at sea (VII). Still open, for a later pass: the `17-1622-the-echo`
+callback and the single private Maggie moment — both were designed to be
 added without requiring any change to what's drafted here.

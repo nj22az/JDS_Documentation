@@ -137,70 +137,141 @@ return.
 
 ***
 
-## IV. Bantam Teaches Him Its Other Lesson
+## IV. What the Knife Decided
 
 Bantam has a use for a stranded Englishman, and it is not a kind one. Tom
 sells his knife inside the first week and his coat inside the second, and
-what the selling does not take, a pair of hands he never sees the faces of
-relieves him of outside a gaming house on his ninth night ashore — the
-whole of it, down to the buckle, while a third man holds a blade loosely
-enough at his ribs to make the point without needing to prove it. He is
-left in the lane with nothing a purser would ever enter as an asset, and
-everything a man remembers for the rest of his life as a debt owed to his
-own foolishness — the one kind of debt no clerk anywhere has ever found a
-way to collect twice.
+what the selling does not take, three men take from him outside a gaming
+house on his ninth night ashore — the whole of it, down to the buckle,
+while the one holding the blade explains, not unkindly, that a foreigner
+with nothing left to lose is the safest kind of foreigner to rob twice.
 
-He does not go to the Dutch loge. He has heard enough, secondhand, about
-what the Dutch make of Englishmen with no ship and no coin. He does not go
-to Sri either, though she would likely feed him; he has already taken more
-from that one afternoon than he has any right to take twice, and some
-shames a young man protects by making them expensive to visit again.
+He has stood at a bolted door once already in his life with nothing to
+spend but his own body, and some part of him that has spent nine days
+being nothing at all mistakes this lane for that door.
 
-He carries water for the English factory's cooperage for eleven days
-before anyone there troubles to ask his name.
+He does not remember deciding to fight. He remembers his hands closing
+over the wrist that holds the blade, and the surprise on the man's face at
+finding an Englishman with nothing left willing to spend the one thing he
+has not yet lost. The knife changes hands somewhere in the second turn of
+it, or the third — afterward Tom will never be entirely certain which of
+them meant for that to happen — and when the other two haul their friend
+up by both arms, he does not stand on his own, and does not stand at all.
 
-***
+The other two run. Tom is left in the lane with a dead man, a knife that
+is his now by the only law the lane recognizes, and the particular slow
+arithmetic of a body still deciding whether it has finished being afraid.
+He has made himself, in perhaps four seconds, the one thing worse in this
+port than a robbed Englishman: a killing one.
 
-## V. The Factor's Paper
-
-The factor is not unkind, which surprises Tom rather more than kindness
-would have. He is a narrow, tired man named Aldous, three years in the
-climate and visibly counting the fourth, who has seen enough deserters,
-drunkards and honest fools pass through his cooperage yard to have stopped
-sorting them by which they are.
-
-You're off the *Hector*, he says. Not a question. The muster's short one
-Fletcher, and a short man has a smell about him a factory learns to
-recognize.
-
-I missed the tide.
-
-The tide, or the reason for it?
-
-Tom says nothing, which the factor accepts as the whole of an answer.
-
-Aldous does not offer him coin. What he offers instead is a half-sheet, in
-his own hand, stating that Thomas Fletcher, formerly of the *Hector*,
-presented himself at the Bantam factory in want of passage and worked
-eleven days' honest labour in part payment of it — a fact, not a favour,
-and therefore nothing Tom need spend the rest of his life discharging.
-Enter it as you please when you reach a ship that will have you, Aldous
-says. I'll not have it said an Englishman starved on my ground while I had
-ink in the house.
-
-It is the plainest kindness anyone has shown him since Wapping, and it
-costs him nothing but the truth, told once, to a man who has heard worse
-and judged less.
+Bantam's watch does not ask whether the dead man drew first. They ask
+whether a foreigner has killed a subject of the Sultan's markets in a lane
+at night, and that question requires no witness at all, since Tom is
+still standing over the body, knife in hand, when the watch arrives with a
+lantern.
 
 ***
 
-## VI. Rolling Home
+## V. The Cell
+
+The cell is coral rubble and mud brick and holds three other men who
+between them speak languages Tom has no word of, and a silence the three
+of them observe with the patience of men who discovered, long before Tom
+arrived, that noise changes nothing about a locked door. There is a barred
+slit too high to reach and too narrow to matter, a covered jar, and, five
+times a day, a call to prayer that measures out what remains of his life
+into portions he cannot yet guess the number of.
+
+He does not hate the man he killed. This surprises him more than the
+killing did. He had expected, if it ever came to a killing, to feel the
+clean readiness Silas Rook's face wore in the Pelican all those years ago
+— a man certain the other one had it coming. He feels instead something
+nearer to arithmetic: an account opened on both sides of a page that will
+never balance now, not because the sum is wrong, but because one of the
+two men who might have corrected it is no longer available to be asked.
+The man was hungry and afraid and took the last thing a hungrier, more
+frightened foreigner had left. Tom was hungry and afraid and killed him
+for it. Both sentences are true. Neither is the whole of what happened,
+and no court on this coast is built to hold the part that is missing.
+
+He counts the calls to prayer instead of days, and learns, before he
+learns anything else in that cell, that time moves at exactly the same
+speed whether or not a man deserves what is happening to him.
+
+Word reaches the English factory the way word reaches factories
+everywhere — a clerk who drinks with a court scribe, a scribe who mentions
+an Englishman held on the Sultan's business that nobody at the factory has
+yet claimed. Aldous comes to the cell door himself rather than send a
+junior man, which Tom will not understand the cost of until years later,
+once he has kept enough factors waiting at enough doors himself to know
+what it takes one of them to walk somewhere in person.
+
+You're becoming an expensive man to know, Aldous says, through the bars.
+First a beggar. Now, I'm told, a murderer. I find myself curious what the
+third thing will cost me.
+
+I didn't murder him.
+
+No, Aldous agrees. You probably didn't. Which will be a great deal easier
+for me to argue on your behalf than it will be for you to prove on your
+own.
+
+***
+
+## VI. What the Qadi Found
+
+The hearing is held not quite three weeks later, in the open yard behind
+the market court, before the qadi who hears such matters for the Sultan —
+a spare, unhurried man who has judged more dead Bugis, dead Chinese, dead
+Portuguese and dead Englishmen than any single nation's grief could
+account for, and who stopped expecting the living witnesses in front of
+him to be entirely honest a long time before Tom was born.
+
+The two robbers who ran do not appear to testify against him. Whether that
+is fear of the qadi's court or a simple absence of appetite for explaining
+their own part in the evening, nobody troubles to determine. What the
+court has instead is a knife, a body, and the manner of the wound — and it
+is the manner of the wound the qadi returns to three times, turning the
+blade over in his own hands, before he asks his only real question.
+
+Show me how you held it, he says.
+
+Tom shows him — both fists closed over the one wrist, the knife driven
+back toward its own owner rather than out from Tom's own hand — and the
+qadi has him do it twice more, watching not Tom's face but his grip.
+
+A man who kills with a knife he means to kill with, the qadi says at last,
+to the court rather than to Tom, holds it his own way, in his own fist,
+and drives it where he has chosen. This Englishman held another man's
+wrist and let the blade go where the struggle sent it. That is not
+murder. That is two frightened men and one knife, and the knife did not
+care whose hand was the last one on it.
+
+Aldous, standing at the yard's edge in his factor's coat, says nothing
+throughout, which Tom understands only afterward to have been its own
+kind of testimony: an Englishman with standing in this port, present,
+watching, saying nothing that needed saying because the wound had already
+said it for him.
+
+The qadi releases him with a fine Aldous pays before Tom can learn the sum
+of it, and one sentence Tom will carry considerably further than the
+fine.
+
+Go and be robbed more carefully next time, the qadi says. Or better — go
+and be a fool nowhere at all. Bantam has knives enough of its own without
+importing an Englishman's.
+
+***
+
+## VII. Rolling Home
 
 The *Susan* takes him on a fortnight later as an ordinary hand for the
 passage to the Coromandel coast and back — wages, not articles; a working
-man's berth, not a signed boy's debt — and Aldous's half-sheet is the
-whole of what buys it, presented, read once, and returned to him folded
-exactly as he folded it himself.
+man's berth, not a signed boy's debt — and the fine Aldous paid, entered
+nowhere and mentioned only once, is the nearest thing to a debt Tom
+carries out of Bantam. Aldous will not hear of repayment. Put it toward
+the next fool who stands in that yard, he says, and I'll call the account
+closed early.
 
 Six weeks out, in the wet green weather south of the Strait, the *Susan*
 raises another sail standing the opposite course, and the two ships close
@@ -220,9 +291,11 @@ on a beach in Bantam telling himself a story.
 I heard that too, Tom says. I understand he tells it badly.
 
 Anders looks at him a long moment — the thinner face, the cheap borrowed
-shirt, the half-sheet Tom still keeps folded inside it like a man keeping
-a splinter he isn't ready to have drawn — and does not laugh, though
-laughing is plainly the thing he came aboard fully intending to do.
+shirt, something behind the eyes that nine days ashore alone could not
+have put there and that Anders, fifty-one years old and no stranger to
+what a bad season leaves in a man, recognizes without needing it
+explained — and does not laugh, though laughing is plainly the thing he
+came aboard fully intending to do.
 
 You want the berth back, it's yours to ask for, he says. Old Barlow's
 shorthanded since Coromandel and won't ask where a spare pair of hands has
@@ -240,16 +313,19 @@ your own warnings any better than I did mine.
 
 By the time the two ships part company, Tom Fletcher is entered on the
 *Hector*'s books again, in the same flat clerk's hand that once wrote him
-off it — *T. Fletcher, rejoined, Coromandel* — three words for what took
-eleven days' water-carrying, one honest half-sheet, and a debt that, for
-once in this book, nobody hands him a bill for.
+off it — *T. Fletcher, rejoined, Coromandel* — three words for what took a
+dead man, a qadi's patience, a factor's silence in a market yard, and a
+debt that, for once in this book, nobody hands him a bill for.
 
 He will tell the story differently within ten years, and differently
 again within twenty — a woman who turns, by the telling, into three women;
-a robbery that turns into a knife fight he wins; a factor's half-sheet
-that turns, eventually, into a ransom he talked his own way out of. Every
-sailor who survives a humiliation is entitled to the version that lets him
-sleep. But the true one is the one he never tells anybody, not even
-Maggie, not even at the very end: that the sea did not do this to him. The
-shore did. And the shore had never once pretended to be anything other
-than land.
+a robbery that turns into a knife fight he wins cleanly, with his own
+blade, in his own fist; a foreign cell that turns, eventually, into one
+uncomfortable night waiting on a magistrate's patience. Every sailor who
+survives what very nearly happened to him is entitled to the version that
+lets him sleep. But the true one is the one he never tells anybody, not
+even Maggie, not even at the very end: that he took a man's life in a
+Bantam lane over a knife neither of them had any right to be holding, and
+that the qadi was correct about the one part of it that mattered — the
+blade did not care whose hand was last on it, and neither, in the end, did
+the tide that started the whole of it by simply refusing to wait.
