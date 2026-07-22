@@ -48,13 +48,16 @@ clean_build() {
 configure_build() {
     # 'config/' already holds our package list, overlay and hooks; lb config
     # fills in the rest of the live-build tree around them.
+    # Short flags (-a/-b/-k/-d) are used where long names differ between
+    # live-build generations (--architectures vs --architecture etc.).
     lb config \
-        --architecture "$TARGET_ARCH" \
-        --distribution "$DEBIAN_SUITE" \
+        --mode debian \
+        -a "$TARGET_ARCH" \
+        -d "$DEBIAN_SUITE" \
         --archive-areas "$ARCHIVE_AREAS" \
         --mirror-bootstrap "$DEBIAN_MIRROR" \
-        --linux-flavours "$KERNEL_FLAVOUR" \
-        --binary-images iso-hybrid \
+        -k "$KERNEL_FLAVOUR" \
+        -b iso-hybrid \
         --debian-installer live \
         --debian-installer-gui false \
         --bootappend-live "$LIVE_BOOTAPPEND" \
@@ -65,7 +68,17 @@ configure_build() {
 
 run_build() {
     lb build
-    mv live-image-"$TARGET_ARCH".hybrid.iso "$ISO_NAME"
+    # Output name differs by live-build generation — accept either.
+    for built_iso in live-image-"$TARGET_ARCH".hybrid.iso binary.hybrid.iso binary-hybrid.iso; do
+        if [ -f "$built_iso" ]; then
+            mv "$built_iso" "$ISO_NAME"
+            break
+        fi
+    done
+    if [ ! -f "$ISO_NAME" ]; then
+        echo "error: lb build finished but no ISO was produced" >&2
+        exit 1
+    fi
     echo "OK: built $ISO_NAME"
     echo "Write to USB:  dd if=$ISO_NAME of=/dev/sdX bs=4M status=progress conv=fsync"
 }

@@ -1,0 +1,42 @@
+# Builds the Pocket Linux ISO (JDS-PRJ-SFW-003) and publishes it as a
+# workflow artifact. Manual trigger only — the build downloads ~1 GB of
+# Debian packages and takes 20-45 minutes.
+name: Build Pocket Linux ISO
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build-iso:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Build ISO in a privileged Debian bookworm container
+        run: |
+          docker run --rm --privileged \
+            -v "$GITHUB_WORKSPACE:/repo" \
+            -w /repo/projects/software/JDS-PRJ-SFW-003_pocket-linux/build \
+            debian:bookworm \
+            bash -euxc '
+              apt-get update
+              DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
+                live-build ca-certificates
+              ./build.sh
+            '
+
+      - name: Report ISO details
+        run: |
+          ls -lh projects/software/JDS-PRJ-SFW-003_pocket-linux/build/pocket-linux-*.iso
+          sha256sum projects/software/JDS-PRJ-SFW-003_pocket-linux/build/pocket-linux-*.iso
+
+      - name: Upload ISO artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pocket-linux-iso
+          path: projects/software/JDS-PRJ-SFW-003_pocket-linux/build/pocket-linux-*.iso
+          retention-days: 30
+          if-no-files-found: error
+          compression-level: 0
