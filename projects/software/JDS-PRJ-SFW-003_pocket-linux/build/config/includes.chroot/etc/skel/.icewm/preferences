@@ -19,6 +19,11 @@ AnimatedMenus=0
 MenuActivateDelay=0
 TaskBarClockLeds=0
 
+# --- Desktop background (drawn once by icewmbg; free at runtime) ------------
+DesktopBackgroundImage="/usr/share/backgrounds/pocket/wallpaper.png"
+DesktopBackgroundColor="rgb:1B/3A/5C"
+DesktopBackgroundScaled=1
+
 # --- Behaviour --------------------------------------------------------------
 TaskBarShowClock=1
 TaskBarShowAPMStatus=1

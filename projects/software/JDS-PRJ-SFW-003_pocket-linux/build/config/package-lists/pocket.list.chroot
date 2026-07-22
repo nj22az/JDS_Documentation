@@ -24,6 +24,12 @@ mousepad
 gpicview
 xarchiver
 
+# --- Look & feel (free assets from Debian main — DFSG-licensed) --------------
+greybird-gtk-theme
+elementary-xfce-icon-theme
+gtk2-engines-murrine
+dmz-cursor-theme
+
 # --- HiDPI fonts (222 DPI panel) ---------------------------------------------
 console-setup
 fonts-dejavu
@@ -39,6 +45,7 @@ openssh-client
 # --- Audio -------------------------------------------------------------------
 pulseaudio
 pavucontrol
+volumeicon-alsa
 alsa-utils
 
 # --- Applications ------------------------------------------------------------
@@ -59,3 +66,4 @@ acpi
 sudo
 less
 wget
+xdg-utils

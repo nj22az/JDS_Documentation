@@ -1,0 +1,8 @@
+#!/bin/sh
+# Pocket Linux help viewer — JDS-PRJ-SFW-003
+# Opens the quick-help page: graphically when X is up, in the pager otherwise.
+HELP_FILE=/usr/share/doc/pocket-linux/help.txt
+if [ -n "${DISPLAY:-}" ] && command -v mousepad >/dev/null 2>&1; then
+    exec mousepad "$HELP_FILE"
+fi
+exec less "$HELP_FILE"

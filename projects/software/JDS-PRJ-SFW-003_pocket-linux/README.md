@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Document No.** | JDS-PRJ-SFW-003 |
-| **Revision** | A |
+| **Revision** | B |
 | **Date** | 2026-07-22 |
 | **Status** | CURRENT |
 | **Author** | N. Johansson |
@@ -47,6 +47,23 @@ lives in version control.
 | HiDPI | Console `TER16x32` font, `Xft.dpi: 144` (1.5×) | 1600×768 on 8" is 222 DPI — unreadable at 1×, too cramped at 2× |
 | Browsers | **NetSurf** (daily) + Firefox ESR (fallback) | Honest split: NetSurf is instant on light pages; Firefox ESR works everywhere but is the heaviest thing on the machine |
 | Audio | ALSA + PulseAudio | Realtek ALC262 over Intel HDA — fully supported |
+| Look & feel | Greybird theme + elementary-xfce icons + DMZ-White 32 px cursor (all DFSG-free, from Debian main) | Light, high-contrast, cheap to draw; no downloads from asset sites, so licensing is clean by construction |
+
+## Usability Layer
+
+Everything is reachable two ways — a labelled menu entry **and** a shortcut —
+and every default is chosen so the obvious action is the right one:
+
+| Feature | How it works |
+|---------|--------------|
+| Start menu | Plain-English entries, one per task ("Web Browser", "Files", "Wi-Fi and Network", "Help"); auto-generated "All Programs" catches later installs |
+| Taskbar | Three quick-launch buttons (browser, files, terminal) + network and volume tray icons started automatically |
+| Shortcuts | `Super+Enter` terminal, `Super+E` files, `Super+W` browser, `Super+H` help; Fn volume keys mapped |
+| Built-in help | `pocket-help` (or Menu > Help) opens a one-page guide: Wi-Fi, apps, shortcuts, online video via mpv, font-size adjustment, update command |
+| Sane defaults | Links open in NetSurf, media in mpv, images in GPicView, text in Mousepad — set via `mimeapps.list`, no "choose an application" dialogs |
+| Trackpoint scrolling | Hold the middle button + move the stick to scroll (ThinkPad-style), configured in Xorg |
+| Wallpaper | Original 5 KB navy-gradient PNG (CC0, generated in-project), drawn once by icewmbg — zero runtime cost |
+| HiDPI pointer | 32 px DMZ-White cursor — a stock 24 px pointer is a speck at 222 DPI |
 
 ## Project Structure
 
@@ -119,3 +136,4 @@ updates GRUB and the initramfs. Log in and run `startx`.
 | Rev | Date | Description | Author |
 |-----|------|-------------|--------|
 | A | 2026-07-22 | Initial release: live-build config, tuning overlay, install script, hardware reference | N. Johansson |
+| B | 2026-07-22 | Usability layer: free theme/icon/cursor assets, wallpaper, start menu, shortcuts, tray applets, app defaults, trackpoint scrolling, built-in help | N. Johansson |

@@ -1,0 +1,7 @@
+# GTK2 appearance (gpicview and friends) — Pocket Linux / JDS-PRJ-SFW-003
+# Mirrors .config/gtk-3.0/settings.ini so GTK2 and GTK3 apps look the same.
+gtk-theme-name = "Greybird"
+gtk-icon-theme-name = "elementary-xfce"
+gtk-cursor-theme-name = "DMZ-White"
+gtk-cursor-theme-size = 32
+gtk-font-name = "Sans 10"

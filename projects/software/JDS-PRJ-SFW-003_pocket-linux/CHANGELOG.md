@@ -6,6 +6,36 @@ recorded here.
 
 ---
 
+## Rev B — 2026-07-22 — Usability layer & free assets
+
+**Scope:** make the desktop clear and straightforward out of the box.
+
+- **Free assets, sourced from Debian main only** (DFSG-licensed — no third-party
+  asset sites, so provenance and licences are clean by construction):
+  Greybird GTK theme, elementary-xfce icon theme, DMZ-White cursors (32 px for
+  the 222 DPI panel), murrine engine for GTK2 apps.
+- **Original wallpaper**: 1600×768 navy-gradient PNG (5.3 KB) generated
+  in-project with pure-Python PNG encoding; released CC0. Drawn once by
+  icewmbg — zero runtime cost.
+- **Clear navigation**: custom IceWM start menu with plain-English task-first
+  entries + auto-generated "All Programs" fallback; taskbar quick-launch
+  (browser / files / terminal); nm-applet + volumeicon tray applets
+  autostarted.
+- **Keyboard shortcuts**: Super+Enter/E/W/H (terminal, files, browser, help)
+  and Fn volume keys.
+- **Built-in help**: `pocket-help` command + Menu > Help + Super+H opens
+  `/usr/share/doc/pocket-linux/help.txt` (Wi-Fi, apps, shortcuts, mpv video
+  streaming, font-size adjustment, updates).
+- **Sane app defaults** via skel `mimeapps.list`: links → NetSurf, media → mpv,
+  images → GPicView, text → Mousepad, folders → PCManFM.
+- **Trackpoint scrolling**: middle-button + stick scrolling (ThinkPad-style)
+  via libinput Xorg InputClass.
+- **Consistent look**: GTK2 + GTK3 settings mirrored in skel; animations off
+  (every frame is CPU-rendered).
+- `tune-vaio-p.sh` now copies the whole overlay root (`/etc` **and** `/usr`)
+  and chowns all skel entries generically, so Path B stays byte-identical to
+  the ISO.
+
 ## Rev A — 2026-07-22 — Initial release
 
 **Scope:** first complete, reproducible build system.

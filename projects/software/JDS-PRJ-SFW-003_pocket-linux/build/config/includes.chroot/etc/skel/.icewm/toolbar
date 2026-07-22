@@ -1,0 +1,5 @@
+# Taskbar quick-launch — Pocket Linux / JDS-PRJ-SFW-003
+# The three things you actually reach for, one click each.
+prog "Web Browser" netsurf netsurf-gtk
+prog "Files" system-file-manager pcmanfm
+prog "Terminal" utilities-terminal lxterminal

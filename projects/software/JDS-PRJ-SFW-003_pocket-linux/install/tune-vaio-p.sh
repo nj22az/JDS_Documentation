@@ -52,15 +52,19 @@ install_packages() {
 }
 
 apply_overlay() {
-    # Verbatim copy of the image overlay: Xorg, sysctl, zram, GRUB, initramfs.
-    cp -rv "$OVERLAY_DIR/etc/." /etc/
+    # Verbatim copy of the whole image overlay: /etc configs plus /usr assets
+    # (wallpaper, help page, pocket-help launcher).
+    cp -rv "$OVERLAY_DIR/." /
     # skel only helps future users — also offer it to the invoking user
     invoking_user="${SUDO_USER:-}"
     if [ -n "$invoking_user" ] && [ "$invoking_user" != "root" ]; then
         invoking_home="$(getent passwd "$invoking_user" | cut -d: -f6)"
         cp -rnv "$OVERLAY_DIR/etc/skel/." "$invoking_home/"
-        chown -R "$invoking_user:$invoking_user" \
-            "$invoking_home/.xinitrc" "$invoking_home/.Xresources" "$invoking_home/.icewm"
+        for skel_entry in "$OVERLAY_DIR/etc/skel/".* "$OVERLAY_DIR/etc/skel/"*; do
+            entry_name="$(basename "$skel_entry")"
+            case "$entry_name" in .|..) continue ;; esac
+            chown -R "$invoking_user:$invoking_user" "$invoking_home/$entry_name"
+        done
     fi
 }
 

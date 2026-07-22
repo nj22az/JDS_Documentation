@@ -1,0 +1,19 @@
+# Default applications — Pocket Linux / JDS-PRJ-SFW-003
+# One obvious app per job: links open in NetSurf (fast), media in mpv,
+# images in GPicView, text in Mousepad, folders in PCManFM.
+[Default Applications]
+x-scheme-handler/http=netsurf-gtk.desktop
+x-scheme-handler/https=netsurf-gtk.desktop
+text/html=netsurf-gtk.desktop
+inode/directory=pcmanfm.desktop
+text/plain=org.xfce.mousepad.desktop
+image/png=gpicview.desktop
+image/jpeg=gpicview.desktop
+image/gif=gpicview.desktop
+image/bmp=gpicview.desktop
+video/mp4=mpv.desktop
+video/x-matroska=mpv.desktop
+video/webm=mpv.desktop
+audio/mpeg=mpv.desktop
+audio/flac=mpv.desktop
+audio/ogg=mpv.desktop

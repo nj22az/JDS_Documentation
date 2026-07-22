@@ -1,0 +1,5 @@
+#!/bin/sh
+# Tray applets started with the desktop — Pocket Linux / JDS-PRJ-SFW-003
+# Just two: network and volume. Everything else is launched on demand.
+nm-applet &
+volumeicon &

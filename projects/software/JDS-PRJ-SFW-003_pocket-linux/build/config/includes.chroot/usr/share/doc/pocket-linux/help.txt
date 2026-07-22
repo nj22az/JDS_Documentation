@@ -1,0 +1,42 @@
+POCKET LINUX — QUICK HELP  (Sony Vaio P)
+========================================
+
+FIRST THINGS
+  Start the desktop ......... log in, then type:  startx
+  Open this help ............ press Super+H, or Menu > Help
+
+KEYBOARD SHORTCUTS
+  Super+Enter ............... Terminal
+  Super+E ................... Files
+  Super+W ................... Web browser
+  Super+H ................... This help
+  Alt+Tab ................... Switch windows
+  Fn volume keys ............ Volume up / down / mute
+
+CONNECT TO WI-FI
+  Click the network icon in the tray (bottom right), pick your
+  network, type the password. Or: Menu > Wi-Fi and Network.
+
+EVERYDAY APPS                     (Menu, or taskbar buttons)
+  Web, fast ....... NetSurf       Web, full ....... Firefox ESR
+  Files ........... PCManFM       Text ............ Mousepad
+  Music ........... cmus          Video ........... mpv
+  Images .......... GPicView      Sound mixer ..... pavucontrol
+
+WATCH ONLINE VIDEO
+  Browser video is too heavy for this machine. Stream through
+  mpv instead (SD quality plays fine):
+    yt-dlp -f 'best[height<=480]' -o - 'VIDEO_URL' | mpv -
+
+UPDATE THE SYSTEM
+  sudo apt update && sudo apt upgrade
+
+TEXT TOO SMALL OR TOO BIG?
+  Edit ~/.Xresources and change "Xft.dpi: 144" — a larger number
+  means bigger text (try 168). Log out and run startx again.
+
+KEEPING IT FAST
+  - NetSurf for reading; Firefox only when a site demands it,
+    and keep it to 1-3 tabs.
+  - Never install a compositor or desktop effects.
+  - The single best hardware upgrade is an SSD in the 1.8" bay.

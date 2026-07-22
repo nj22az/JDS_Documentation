@@ -1,0 +1,9 @@
+# Keyboard shortcuts — Pocket Linux / JDS-PRJ-SFW-003
+# Documented in Help (Super+H). Volume keys work via the Fn row too.
+key "Super+Return" lxterminal
+key "Super+e" pcmanfm
+key "Super+w" netsurf-gtk
+key "Super+h" pocket-help
+key "XF86AudioRaiseVolume" amixer -q set Master 5%+
+key "XF86AudioLowerVolume" amixer -q set Master 5%-
+key "XF86AudioMute" amixer -q set Master toggle

@@ -1,0 +1,19 @@
+# Start menu — Pocket Linux / JDS-PRJ-SFW-003
+# Plain names, one entry per task, most-used first. The auto-generated
+# "All Programs" submenu at the bottom catches anything installed later.
+prog "Web Browser" netsurf netsurf-gtk
+prog "Web Browser (Firefox, heavier)" firefox-esr firefox-esr
+prog "Files" system-file-manager pcmanfm
+prog "Text Editor" accessories-text-editor mousepad
+prog "Terminal" utilities-terminal lxterminal
+separator
+prog "Music (cmus)" audio-x-generic lxterminal -e cmus
+prog "Video Player" video-x-generic mpv --player-operation-mode=pseudo-gui
+prog "Image Viewer" image-x-generic gpicview
+separator
+prog "Wi-Fi and Network" network-wireless nm-connection-editor
+prog "Sound Mixer" multimedia-volume-control pavucontrol
+prog "Task Manager" utilities-system-monitor lxterminal -e htop
+prog "Help" help-browser pocket-help
+separator
+menuprog "All Programs" folder icewm-menu-fdo

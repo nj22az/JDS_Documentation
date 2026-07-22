@@ -7,3 +7,7 @@ Xft.antialias: true
 Xft.hinting: true
 Xft.hintstyle: hintslight
 Xft.rgba: rgb
+
+! Cursor sized for 222 DPI — a 24px pointer is a speck on this panel.
+Xcursor.theme: DMZ-White
+Xcursor.size: 32
