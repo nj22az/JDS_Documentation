@@ -1,0 +1,113 @@
+#!/bin/sh
+# Pocket Linux hardware self-test — JDS-PRJ-SFW-003
+# Verifies every Sony Vaio P device is detected and its driver is bound.
+# Read-only (sysfs/procfs), safe to run as any user:  pocket-check
+# One PASS/FAIL line per device; exits non-zero if anything failed.
+
+pass_count=0
+fail_count=0
+
+report() { # report ok|fail "Device" "detail"
+    if [ "$1" = ok ]; then
+        pass_count=$((pass_count + 1))
+        printf 'PASS  %-24s %s\n' "$2" "$3"
+    else
+        fail_count=$((fail_count + 1))
+        printf 'FAIL  %-24s %s\n' "$2" "$3"
+    fi
+}
+
+check_module() { # check_module "Device" module_name "hint shown on failure"
+    if [ -d "/sys/module/$2" ]; then
+        report ok "$1" "driver $2 loaded"
+    else
+        report fail "$1" "driver $2 not loaded - $3"
+    fi
+}
+
+check_path() { # check_path "Device" glob "ok detail" "hint shown on failure"
+    device_name=$1
+    path_glob=$2
+    ok_detail=$3
+    fail_hint=$4
+    matched_path=""
+    for candidate in $path_glob; do
+        if [ -e "$candidate" ]; then
+            matched_path=$candidate
+            break
+        fi
+    done
+    if [ -n "$matched_path" ]; then
+        report ok "$device_name" "$ok_detail"
+    else
+        report fail "$device_name" "$fail_hint"
+    fi
+}
+
+echo "Pocket Linux hardware self-test (Sony Vaio P)"
+echo "----------------------------------------------"
+
+# Graphics & display
+check_module "Graphics (GMA 500)" gma500_gfx "check dmesg | grep -i gma500"
+check_path "Display device" "/dev/dri/card*" "KMS device present" "no /dev/dri/card* - KMS did not start"
+if grep -qs '1600x768' /sys/class/drm/*/modes 2>/dev/null; then
+    report ok "Panel mode" "native 1600x768 detected"
+else
+    report fail "Panel mode" "1600x768 not listed - LVDS panel not detected"
+fi
+check_path "Backlight control" "/sys/class/backlight/*" "brightness keys will work" "no backlight interface - check sony-laptop"
+
+# Sound
+check_module "Sound (Intel HDA)" snd_hda_intel "run: dmesg | grep -i hda"
+if grep -qs '\[' /proc/asound/cards 2>/dev/null; then
+    report ok "Sound card" "$(sed -n 's/^ *0 *\[\([^]]*\).*/registered: \1/p' /proc/asound/cards | head -1)"
+else
+    report fail "Sound card" "no card in /proc/asound/cards"
+fi
+check_path "Audio playback" "/dev/snd/pcmC0D0p" "playback device present" "no PCM playback device"
+
+# Input
+check_module "Keyboard" atkbd "PS/2 keyboard driver missing"
+check_module "Trackpoint" psmouse "pointer driver missing"
+check_module "Vaio hotkeys/ACPI" sony_laptop "Fn keys and battery events limited"
+
+# Network & radios
+check_module "Wi-Fi (AR9285)" ath9k "run: dmesg | grep -i ath9k"
+if ls /sys/class/net | grep -q '^wl'; then
+    report ok "Wi-Fi interface" "$(ls /sys/class/net | grep '^wl' | head -1) present"
+else
+    report fail "Wi-Fi interface" "no wlan interface - check rfkill and ath9k"
+fi
+for rfkill_dir in /sys/class/rfkill/rfkill*; do
+    [ -d "$rfkill_dir" ] || continue
+    if [ "$(cat "$rfkill_dir/hard" 2>/dev/null)" = "1" ]; then
+        report fail "Radio switch" "$(cat "$rfkill_dir/name"): hardware kill switch is ON - slide the WIRELESS switch"
+    fi
+done
+check_path "Bluetooth adapter" "/sys/class/bluetooth/hci*" "adapter registered" "no adapter - check the WIRELESS switch, then dmesg | grep -i blue"
+
+# Camera, battery, storage
+check_path "Webcam" "/dev/video*" "camera device present (test: mpv av://v4l2:/dev/video0)" "no /dev/video* - check dmesg | grep -i uvc"
+check_path "Battery" "/sys/class/power_supply/BAT*" "battery reporting works" "no battery interface - check sony-laptop/ACPI"
+check_module "Disk (PATA)" ata_piix "root disk driver missing"
+
+# Memory & protection layer
+if grep -qs zram /proc/swaps; then
+    report ok "zram swap" "$(awk '/zram/ {print $1" active, prio "$5}' /proc/swaps | head -1)"
+else
+    report fail "zram swap" "not active - systemctl status zramswap"
+fi
+if pidof earlyoom >/dev/null 2>&1; then
+    report ok "earlyoom" "out-of-memory guard running"
+else
+    report fail "earlyoom" "not running - systemctl enable --now earlyoom"
+fi
+
+echo "----------------------------------------------"
+total_count=$((pass_count + fail_count))
+if [ "$fail_count" -eq 0 ]; then
+    echo "All $total_count checks passed - every device is up."
+else
+    echo "$fail_count of $total_count checks failed - see hints above and docs/hardware-reference.md."
+fi
+exit "$fail_count"

@@ -6,6 +6,35 @@ recorded here.
 
 ---
 
+## Rev C — 2026-07-22 — Driver completeness & hardware self-test
+
+**Scope:** close every driver/userspace gap found in a full audit of the
+support matrix, and make driver health verifiable on the real machine.
+
+- **Gaps found and closed:**
+  - Bluetooth had the kernel driver (`btusb`) but **no userspace** — added
+    `bluez`, `blueman` (Menu > Bluetooth), and `pulseaudio-module-bluetooth`
+    so headphones/mice/phones pair and audio routes automatically.
+  - Brightness Fn keys did nothing in X — added `brightnessctl` and mapped
+    `XF86MonBrightness*` in the IceWM keys file.
+  - SD/SDXC cards and Windows USB disks — added `dosfstools`, `exfatprogs`,
+    `ntfs-3g`.
+  - Added `intel-microcode`, `firmware-realtek` (for future USB dongles —
+    the machine has no built-in ethernet), and diagnostics (`pciutils`,
+    `usbutils`, `rfkill`).
+- **New `pocket-check` hardware self-test** (Menu > Hardware Self-Test):
+  read-only sysfs checks, one PASS/FAIL line per device — graphics/KMS,
+  native panel mode, backlight, HDA sound + PCM device, keyboard,
+  trackpoint, sony-laptop hotkeys, ath9k + wlan interface, radio kill
+  switch, Bluetooth adapter, webcam, battery, PATA disk, zram, earlyoom —
+  each FAIL carries a fix hint; exit code = number of failures. Verified
+  the script runs cleanly (18/18 checks correctly FAIL on a cloud VM with
+  none of the hardware).
+- Help page: new "Is all my hardware working?" and Bluetooth sections;
+  brightness keys documented.
+- Hardware reference: Bluetooth/storage/backlight rows updated; new
+  "Verifying Drivers on the Real Machine" section.
+
 ## Rev B — 2026-07-22 — Usability layer & free assets
 
 **Scope:** make the desktop clear and straightforward out of the box.

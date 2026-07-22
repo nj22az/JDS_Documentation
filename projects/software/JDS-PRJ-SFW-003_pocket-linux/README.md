@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Document No.** | JDS-PRJ-SFW-003 |
-| **Revision** | B |
+| **Revision** | C |
 | **Date** | 2026-07-22 |
 | **Status** | CURRENT |
 | **Author** | N. Johansson |
@@ -62,6 +62,8 @@ and every default is chosen so the obvious action is the right one:
 | Built-in help | `pocket-help` (or Menu > Help) opens a one-page guide: Wi-Fi, apps, shortcuts, online video via mpv, font-size adjustment, update command |
 | Sane defaults | Links open in NetSurf, media in mpv, images in GPicView, text in Mousepad — set via `mimeapps.list`, no "choose an application" dialogs |
 | Trackpoint scrolling | Hold the middle button + move the stick to scroll (ThinkPad-style), configured in Xorg |
+| Hardware self-test | `pocket-check` (or Menu > Hardware Self-Test): one PASS/FAIL line per device with a fix hint — proves every driver on the actual unit |
+| Full driver coverage | Bluetooth userspace (BlueZ + blueman + PA module), brightness Fn keys (`brightnessctl`), FAT32/exFAT/NTFS media, Intel microcode, `lspci`/`lsusb`/`rfkill` diagnostics |
 | Wallpaper | Original 5 KB navy-gradient PNG (CC0, generated in-project), drawn once by icewmbg — zero runtime cost |
 | HiDPI pointer | 32 px DMZ-White cursor — a stock 24 px pointer is a speck at 222 DPI |
 
@@ -137,3 +139,4 @@ updates GRUB and the initramfs. Log in and run `startx`.
 |-----|------|-------------|--------|
 | A | 2026-07-22 | Initial release: live-build config, tuning overlay, install script, hardware reference | N. Johansson |
 | B | 2026-07-22 | Usability layer: free theme/icon/cursor assets, wallpaper, start menu, shortcuts, tray applets, app defaults, trackpoint scrolling, built-in help | N. Johansson |
+| C | 2026-07-22 | Driver completeness: Bluetooth userspace stack, brightness keys, removable-media filesystems, microcode, diagnostics tools, `pocket-check` hardware self-test | N. Johansson |

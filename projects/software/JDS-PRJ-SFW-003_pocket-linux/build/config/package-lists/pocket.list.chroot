@@ -7,6 +7,10 @@ linux-image-686-pae
 firmware-atheros
 firmware-linux-free
 firmware-misc-nonfree
+# CPU microcode + firmware for common USB dongles (ethernet/Wi-Fi) the
+# machine has no built-in ethernet, so a dongle is likely one day:
+intel-microcode
+firmware-realtek
 
 # --- Graphics stack (2D only — GMA 500) --------------------------------------
 xserver-xorg-core
@@ -48,6 +52,16 @@ pavucontrol
 volumeicon-alsa
 alsa-utils
 
+# --- Bluetooth (btusb driver is in the kernel; this is the userspace half) ---
+bluez
+blueman
+pulseaudio-module-bluetooth
+
+# --- Removable media filesystems (SD/SDXC cards, USB disks from Windows) -----
+dosfstools
+exfatprogs
+ntfs-3g
+
 # --- Applications ------------------------------------------------------------
 netsurf-gtk
 firefox-esr
@@ -63,6 +77,10 @@ earlyoom
 htop
 ncdu
 acpi
+brightnessctl
+pciutils
+usbutils
+rfkill
 sudo
 less
 wget

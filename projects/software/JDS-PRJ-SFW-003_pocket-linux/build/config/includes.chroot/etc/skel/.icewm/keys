@@ -7,3 +7,5 @@ key "Super+h" pocket-help
 key "XF86AudioRaiseVolume" amixer -q set Master 5%+
 key "XF86AudioLowerVolume" amixer -q set Master 5%-
 key "XF86AudioMute" amixer -q set Master toggle
+key "XF86MonBrightnessUp" brightnessctl -q set +10%
+key "XF86MonBrightnessDown" brightnessctl -q set 10%-

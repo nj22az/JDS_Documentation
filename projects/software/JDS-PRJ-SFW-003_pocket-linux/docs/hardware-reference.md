@@ -20,17 +20,17 @@ Menlow: Atom Z5xx + US15W "Poulsbo" chipset), so one image serves both.
 | RAM | 1–2 GB DDR2, soldered | — | Not upgradeable. zram is mandatory for comfort |
 | Storage | 1.8" PATA ZIF: 4200 rpm HDD or SSD | `ata_piix` / `libata` | Works. HDD is the single worst bottleneck in the machine — a ZIF SSD (or CF/mSATA adapter) is the best money you can spend on it |
 | Wi-Fi | Atheros AR9285 (802.11n) | `ath9k` | Works out of the box, **no firmware blob needed** |
-| Bluetooth | Alps/generic USB BT 2.1 | `btusb` | Works |
+| Bluetooth | Alps/generic USB BT 2.1 | `btusb` + BlueZ userspace | Works — pairing via Menu > Bluetooth (blueman); audio routing via `pulseaudio-module-bluetooth` |
 | WWAN | Qualcomm Gobi 2000 (option) | `qcserial`/`qmi_wwan` | Needs proprietary firmware extracted from Windows drivers (`gobi-loader`). Out of scope for the base image |
 | GPS | Via Gobi module (option) | — | Same firmware caveat as WWAN |
 | Audio | Realtek ALC262 on Intel HDA | `snd_hda_intel` | Works (playback, mic, headphone jack) |
 | Ethernet | — (none; USB or dongle only) | — | Use any USB 2.0 adapter (`asix`, `r8152` supported) |
-| SD slot | Internal reader | `sdhci-pci` / USB storage | Works |
+| SD slot | Internal reader | `sdhci-pci` / USB storage | Works — FAT32/exFAT/NTFS userspace tools included for cards and Windows-formatted USB disks |
 | Memory Stick slot | Sony MS reader | `memstick` | Works for MS; largely irrelevant today |
 | Webcam | Sony Visual Communication Camera | `uvcvideo` | Works |
 | Keyboard/pointer | Matrix keyboard + trackpoint stick | `atkbd`, `psmouse` | Works. Trackpoint speed tunable via `libinput` |
 | USB | 2× USB 2.0 (EHCI) | `ehci-pci` | Works |
-| Battery/ACPI | Sony notebook ACPI | `sony-laptop` | Battery status, brightness keys work via `sony-laptop` |
+| Battery/ACPI | Sony notebook ACPI | `sony-laptop` | Battery status works; brightness Fn keys are mapped to `brightnessctl` in the IceWM keys file |
 
 ## Known Quirks
 
@@ -54,6 +54,22 @@ Menlow: Atom Z5xx + US15W "Poulsbo" chipset), so one image serves both.
 6. **Do not enable a compositor** (picom etc.) — every window pixel is pushed
    by the CPU through the unaccelerated framebuffer; compositing doubles the
    work for zero benefit at this DPI.
+
+## Verifying Drivers on the Real Machine
+
+Driver support cannot be proven from a build machine — it is proven on the
+Vaio P itself. The image ships a self-test for exactly this:
+
+```
+pocket-check          # or: Menu > Hardware Self-Test
+```
+
+It prints one PASS/FAIL line per device (graphics, panel mode, backlight,
+sound, keyboard, trackpoint, Fn keys, Wi-Fi, radio kill switch, Bluetooth,
+webcam, battery, disk, zram, earlyoom) with a fix hint on every FAIL, and
+exits non-zero if anything is broken. Run it once after first boot; if
+everything passes, every driver in the support matrix above is confirmed
+working on your unit.
 
 ## Boot Parameters Used by the Image
 

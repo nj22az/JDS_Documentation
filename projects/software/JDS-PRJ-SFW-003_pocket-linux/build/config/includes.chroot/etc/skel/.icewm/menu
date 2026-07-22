@@ -12,8 +12,10 @@ prog "Video Player" video-x-generic mpv --player-operation-mode=pseudo-gui
 prog "Image Viewer" image-x-generic gpicview
 separator
 prog "Wi-Fi and Network" network-wireless nm-connection-editor
+prog "Bluetooth" bluetooth blueman-manager
 prog "Sound Mixer" multimedia-volume-control pavucontrol
 prog "Task Manager" utilities-system-monitor lxterminal -e htop
+prog "Hardware Self-Test" utilities-system-monitor lxterminal -e sh -c "pocket-check; echo; echo Press Enter to close; read line"
 prog "Help" help-browser pocket-help
 separator
 menuprog "All Programs" folder icewm-menu-fdo

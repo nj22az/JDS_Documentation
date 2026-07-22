@@ -12,10 +12,21 @@ KEYBOARD SHORTCUTS
   Super+H ................... This help
   Alt+Tab ................... Switch windows
   Fn volume keys ............ Volume up / down / mute
+  Fn brightness keys ........ Screen brightness up / down
+
+IS ALL MY HARDWARE WORKING?
+  Run:  pocket-check   (or Menu > Hardware Self-Test)
+  One PASS/FAIL line per device — screen, sound, Wi-Fi,
+  Bluetooth, webcam, battery — with a fix hint on any FAIL.
 
 CONNECT TO WI-FI
   Click the network icon in the tray (bottom right), pick your
   network, type the password. Or: Menu > Wi-Fi and Network.
+  No Wi-Fi at all? Check the physical WIRELESS switch first.
+
+BLUETOOTH
+  Menu > Bluetooth pairs headphones, mice, and phones.
+  Audio goes to Bluetooth headphones automatically once paired.
 
 EVERYDAY APPS                     (Menu, or taskbar buttons)
   Web, fast ....... NetSurf       Web, full ....... Firefox ESR
