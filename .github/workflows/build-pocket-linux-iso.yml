@@ -5,6 +5,15 @@ name: Build Pocket Linux ISO
 
 on:
   workflow_dispatch:
+  # Push trigger exists because the repo's GitHub App integration lacks
+  # permission to dispatch workflows; path-scoped so only build changes fire it.
+  push:
+    branches:
+      - main
+      - claude/sony-vaio-p-linux-distro-pt3bdb
+    paths:
+      - '.github/workflows/build-pocket-linux-iso.yml'
+      - 'projects/software/JDS-PRJ-SFW-003_pocket-linux/build/**'
 
 jobs:
   build-iso:
