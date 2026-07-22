@@ -134,3 +134,122 @@ this one.
 
 He has, for the first time since Wapping, nothing at all to show her in
 return.
+
+***
+
+## IV. Bantam Teaches Him Its Other Lesson
+
+Bantam has a use for a stranded Englishman, and it is not a kind one. Tom
+sells his knife inside the first week and his coat inside the second, and
+what the selling does not take, a pair of hands he never sees the faces of
+relieves him of outside a gaming house on his ninth night ashore — the
+whole of it, down to the buckle, while a third man holds a blade loosely
+enough at his ribs to make the point without needing to prove it. He is
+left in the lane with nothing a purser would ever enter as an asset, and
+everything a man remembers for the rest of his life as a debt owed to his
+own foolishness — the one kind of debt no clerk anywhere has ever found a
+way to collect twice.
+
+He does not go to the Dutch loge. He has heard enough, secondhand, about
+what the Dutch make of Englishmen with no ship and no coin. He does not go
+to Sri either, though she would likely feed him; he has already taken more
+from that one afternoon than he has any right to take twice, and some
+shames a young man protects by making them expensive to visit again.
+
+He carries water for the English factory's cooperage for eleven days
+before anyone there troubles to ask his name.
+
+***
+
+## V. The Factor's Paper
+
+The factor is not unkind, which surprises Tom rather more than kindness
+would have. He is a narrow, tired man named Aldous, three years in the
+climate and visibly counting the fourth, who has seen enough deserters,
+drunkards and honest fools pass through his cooperage yard to have stopped
+sorting them by which they are.
+
+You're off the *Hector*, he says. Not a question. The muster's short one
+Fletcher, and a short man has a smell about him a factory learns to
+recognize.
+
+I missed the tide.
+
+The tide, or the reason for it?
+
+Tom says nothing, which the factor accepts as the whole of an answer.
+
+Aldous does not offer him coin. What he offers instead is a half-sheet, in
+his own hand, stating that Thomas Fletcher, formerly of the *Hector*,
+presented himself at the Bantam factory in want of passage and worked
+eleven days' honest labour in part payment of it — a fact, not a favour,
+and therefore nothing Tom need spend the rest of his life discharging.
+Enter it as you please when you reach a ship that will have you, Aldous
+says. I'll not have it said an Englishman starved on my ground while I had
+ink in the house.
+
+It is the plainest kindness anyone has shown him since Wapping, and it
+costs him nothing but the truth, told once, to a man who has heard worse
+and judged less.
+
+***
+
+## VI. Rolling Home
+
+The *Susan* takes him on a fortnight later as an ordinary hand for the
+passage to the Coromandel coast and back — wages, not articles; a working
+man's berth, not a signed boy's debt — and Aldous's half-sheet is the
+whole of what buys it, presented, read once, and returned to him folded
+exactly as he folded it himself.
+
+Six weeks out, in the wet green weather south of the Strait, the *Susan*
+raises another sail standing the opposite course, and the two ships close
+near enough to hail before either master has quite decided whether the
+courtesy is worth the delay. She is the *Hector*, homeward the long way,
+by way of the Coromandel trade herself, and Tom stands at the rail with
+his heart doing something he has no name for and watches her boat come
+across.
+
+Anders climbs the *Susan*'s side first, because Anders has never in his
+life let another man's news arrive before his own curiosity did, and stops
+dead at the sight of the face waiting for him at the rail.
+
+Well, he says. There he is. I heard the *Hector* left a Fletcher standing
+on a beach in Bantam telling himself a story.
+
+I heard that too, Tom says. I understand he tells it badly.
+
+Anders looks at him a long moment — the thinner face, the cheap borrowed
+shirt, the half-sheet Tom still keeps folded inside it like a man keeping
+a splinter he isn't ready to have drawn — and does not laugh, though
+laughing is plainly the thing he came aboard fully intending to do.
+
+You want the berth back, it's yours to ask for, he says. Old Barlow's
+shorthanded since Coromandel and won't ask where a spare pair of hands has
+been, so long as they work.
+
+Tom asks why he'd trouble himself.
+
+Anders considers the question exactly as long as it deserves.
+
+Because I sang you the song and you didn't believe it applied to you, he
+says. That's not a crime. That's every young man who's ever heard it. He
+shrugs, the way a man shrugs off a debt he has decided not to collect.
+Ask me again when you're fifty-one and see if you've learned to believe
+your own warnings any better than I did mine.
+
+By the time the two ships part company, Tom Fletcher is entered on the
+*Hector*'s books again, in the same flat clerk's hand that once wrote him
+off it — *T. Fletcher, rejoined, Coromandel* — three words for what took
+eleven days' water-carrying, one honest half-sheet, and a debt that, for
+once in this book, nobody hands him a bill for.
+
+He will tell the story differently within ten years, and differently
+again within twenty — a woman who turns, by the telling, into three women;
+a robbery that turns into a knife fight he wins; a factor's half-sheet
+that turns, eventually, into a ransom he talked his own way out of. Every
+sailor who survives a humiliation is entitled to the version that lets him
+sleep. But the true one is the one he never tells anybody, not even
+Maggie, not even at the very end: that the sea did not do this to him. The
+shore did. And the shore had never once pretended to be anything other
+than land.

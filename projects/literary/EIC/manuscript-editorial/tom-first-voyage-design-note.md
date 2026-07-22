@@ -64,33 +64,57 @@ not a break from established Tom. That's the missing photograph of him.
 independent-woman-of-the-ports register the book already uses for Maria —
 and stays past his hour, then past his own private deadline, telling
 himself the story he's living is exactly the one he came to sea to find.
-The ship's bell rings its courtesies. He hears it, understands it, and — with
-the total confidence of a young man who has not yet been wrong about
+The ship's bell rings its courtesies. He hears it, understands it, and —
+with the total confidence of a young man who has not yet been wrong about
 himself in any way that mattered — decides the warning isn't for him. The
 *Hector* sails without him.
 
-I've deliberately ended the sample scene at that moment (Tom on the
-tideline, the ship already gone, nothing to show Sri in return) rather
-than resolving how he gets back into service. That resolution is the next
-decision, not one I want to make unilaterally:
+## Getting home: a second song, and the realistic half of it
 
-- **Option A** — he survives on his wits and Sri's help for some weeks,
-  then works passage on a later ship, arriving hardened by hardship and
-  humiliation rather than by any new debt. Cleanest; keeps his father's
-  £11 6s 4d as the book's one central debt, uncompeted with.
-- **Option B** — he has to sign new, worse articles with a Company factor
-  at Bantam to secure passage onward — a second, self-made debt layered
-  under the inherited one. Richer thematically (explains exactly *why* he
-  becomes "part of the machinery," not just that years passed) but risks
-  crowding the father's-debt plot, which is currently the book's one
-  load-bearing financial thread for Tom.
-- **Option C** — something in between: no new formal debt, but a favour
-  owed to a Company man that Tom spends the rest of the book quietly
-  aware of — an obligation, not a ledger entry.
+You sent a second Evert Taube piece — the "Fritiof Andersson" sea-yarn
+about a chance mid-ocean meeting between two ships in the monsoon, an old
+friend recognized in the rigging, and Fritiof's account of being robbed in
+Shanghai, rescued by the Swedish consul in Singapore (papers, a loan, no
+debt attached), working passage home as crew, then a wildly tall-tale
+cyclone full of escaped circus animals and a gorilla shot at the engine
+controls — with the instruction to use "the realistic things that happen
+in the song." That's a useful and specific brief, and I've split it
+exactly that way:
 
-My instinct is **A**, with the shame and the fear doing the hardening work
-rather than a second debt — but this is your call, and it determines the
-rest of the chapter.
+**Used, because they're realistic and solve the actual problem:**
+- Being robbed and left destitute in the foreign port — the concrete cost
+  of the failure, before any rescue arrives.
+- An official figure who helps with *papers, not money* — the Swedish
+  consul's passport becomes an English factor's half-sheet vouching for
+  Tom's honest labour. This is what makes "no new debt" work structurally,
+  not just as a stated rule: a documented fact costs nothing to carry,
+  where a loan or new articles would have.
+- Working passage home as an ordinary paid hand, not signing new
+  indenture — "wages, not articles; a working man's berth, not a signed
+  boy's debt."
+- The frame device itself — two ships hailing at sea, an old acquaintance
+  recognized aboard the other — which I used to bring Anders back for a
+  proper close: he's the one who ends up extending Tom the berth back,
+  turning the singer of the warning into the man who forgives Tom for not
+  heeding it.
+
+**Not used, because they're tall tale, not history:** the murderer's
+daughter, the Swedish consul's specific biography, the wild-animal cargo,
+the cyclone, the gorilla at the engine. Rather than discard this material
+outright, I gave it a second life as *Tom's own later habit* — the scene
+closes on the fact that he'll tell an increasingly embellished version of
+this story for the rest of his life (a robbery that becomes a knife fight
+he wins, a woman who becomes three), while the truth — that the sea never
+touched him, the shore did, and the shore never pretended otherwise — is
+the version he never tells anyone, including Maggie. That's a deliberate
+echo of the source material's own comic-tall-tale tradition without
+importing anything impossible into Book One's register.
+
+The chapter now resolves with **no new debt**: Tom returns to full
+Company service the way the design note's "Option A" proposed, hardened by
+shame and eleven days' destitution rather than by a second ledger entry.
+His father's £11 6s 4d remains the book's one load-bearing financial
+thread for Tom, uncompeted with.
 
 ## What this gives Tom
 
@@ -124,8 +148,11 @@ approval.
 
 ## Scope of this pass
 
-Delivered: this revised design note and one complete sample scene — the
-setup (Anders's song), the port call (Sri), and the leaving-behind itself.
-Awaiting your call on Option A/B/C above before drafting the chapter's
-remaining material: how Tom gets back into service, the `17-1622-the-echo`
-callback, and the Maggie moment.
+Delivered: a complete draft of the interlude's core action, start to
+finish — Anders's song (I), the port call with Sri (II), the ship leaving
+without Tom (III), his destitution (IV), the factor's paper (V), and his
+return to service via the chance meeting with Anders at sea (VI). Still
+open, for a later pass: the `17-1622-the-echo` callback (making explicit,
+seventeen years later, that this is why Tom cannot simply rest on shore
+leave) and the single private Maggie moment — both were designed to be
+added without requiring any change to what's drafted here.
