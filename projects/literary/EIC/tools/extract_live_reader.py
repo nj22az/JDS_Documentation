@@ -15,10 +15,12 @@ import re
 from pathlib import Path
 
 
+# Page objects end either at the closing brace (original bundle) or at the
+# metadata fields (hidden/role/book/words/tagline) added in later deployments.
 PAGE_PATTERN = re.compile(
     r'\{id:"([^"]+)",kicker:"([^"]+)",year:"([^"]*)",'
     r'title:"([^"]+)",epigraph:(?:""|`(.*?)`),'
-    r'hero:(?:null|\{.*?\}),body:`(.*?)`\}',
+    r'hero:(?:null|\{.*?\}),body:`(.*?)`(?:\}|,hidden:)',
     re.DOTALL,
 )
 

@@ -1,6 +1,6 @@
 # Corrective Action Log
 
-**Last updated:** 2026-07-03
+**Last updated:** 2026-07-22
 
 This log tracks all nonconformances and corrective actions raised under [JDS-PRO-008](../procedures/JDS-PRO-008_corrective-action.md).
 
@@ -8,7 +8,20 @@ This log tracks all nonconformances and corrective actions raised under [JDS-PRO
 
 ## Open Actions
 
-*No open corrective actions.*
+### CA-2026-012 — Book One live-canon mirror stale; mirror image links unresolvable | OPEN
+
+| | |
+|---|---|
+| **Date** | 2026-07-22 |
+| **Source** | Book One inspection (live reader vs JDS mirror) |
+| **Description** | (1) The deployed reader at `nj22az.github.io/the-front-row-seat/` now carries 23 Book One units (~100,000 words); `projects/literary/EIC/manuscript-live-canon/` holds only 8 of them, and its copies of `02-1626`/`04-1629` carry pre-expansion chapter kickers. (2) The full audit reports 46 broken image links in the mirror and live-canon export — they reference `assets/img/…`, which exists only in the Pages repository, so the validator counts faithful extractions as broken links. |
+| **Root Cause** | (1) The mirror is refreshed manually and the extractor had been broken by a bundle format change (fixed 2026-07-22), so no re-extraction happened after the Book One expansion shipped. (2) The link check has no concept of site-relative asset paths in extracted mirrors. |
+
+**Corrective Action (proposed):**
+1. Re-extract `manuscript-live-canon/` from the current bundle with the repaired `tools/extract_live_reader.py` (owner decision — the mirror is protected)
+2. Teach `scripts/jds-validate.py` to treat `assets/img/…` links inside live-canon mirrors/exports as external-site references, or vendor the images
+3. Until then, the 46 link errors are known and accounted for here
+
 
 ## Closed Actions
 
@@ -196,4 +209,4 @@ This log tracks all nonconformances and corrective actions raised under [JDS-PRO
 
 ---
 
-**Next number:** CA-2026-011
+**Next number:** CA-2026-013

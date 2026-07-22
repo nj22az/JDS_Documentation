@@ -4,6 +4,24 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-22] (Extractor repaired; Book One mirror drift documented)
+
+### Fixed
+- `tools/extract_live_reader.py` updated for the current deployed bundle
+  format (page objects now carry `hidden`/`role`/`book`/`words`/`tagline`
+  after `body`); it again recovers all 48 reader pages (~163,000 words).
+
+### Noted
+- `manuscript-live-canon/` is stale for Book One: the deployed reader now
+  carries 23 Book One units (22 chapters + epilogue + character bible,
+  ~100,000 words) while the mirror holds only 8. The 15 expansion chapters
+  (1603–1625) exist only in the deployed bundle until the mirror is
+  re-extracted. The mirror copies of `02-1626` and `04-1629` also carry
+  pre-expansion kickers ("Chapter Four"/"Chapter Five" vs the live
+  "Chapter Twenty-One"/"Chapter Twenty-Two").
+- A Book One expert skill (`.claude/skills/book-one/`) now distils the full
+  deployed text: chapter map, character ledger, motifs and voice rules.
+
 ## [2026-07-19] (Matthew Bell and the unresolved account)
 
 ### Added

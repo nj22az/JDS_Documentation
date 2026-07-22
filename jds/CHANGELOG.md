@@ -4,6 +4,22 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [3.12] — 2026-07-22
+
+### Added — Book One expert skill
+- New project skill `.claude/skills/book-one/` making Claude an expert on Book
+  One ("The Venture", 1603–1635) of *The Front-Row Seat*: full chapter map and
+  synopses for the deployed 22-chapter expanded novel, character ledger for the
+  Wapping Twelve and supporting cast, and the book's objects/motifs/voice rules.
+  Distilled from a complete read of the live reader bundle.
+
+### Fixed — live-reader extractor broken by bundle format change
+- `projects/literary/EIC/tools/extract_live_reader.py` failed against current
+  deployments (extracted 1 page instead of 48) because page objects gained
+  `hidden`/`role`/`book`/`words`/`tagline` fields after `body`. The page pattern
+  now accepts both the original and the extended object shape. Verified: 48
+  pages, ~163,000 words recovered from the current bundle.
+
 ## [3.11.1] — 2026-07-13
 
 ### Changed — Book reader reference implementation completed
