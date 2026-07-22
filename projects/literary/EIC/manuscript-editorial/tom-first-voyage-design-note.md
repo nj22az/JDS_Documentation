@@ -188,12 +188,60 @@ already covers these same silent years from Maggie's side. Placement
 proposal only — nothing renumbers the deployed reader without separate
 approval.
 
+## The scar
+
+You asked for this backstory to explain Tom's scar. One thing to flag
+before you read the rest: Tom already has a specific, established scar —
+"a jagged white scar through one eyebrow — a Portuguese boarding pike at
+Swally," stated explicitly in the deployed `03-1612-the-return` — and it
+recurs as a visual identifier across several later chapters. I didn't want
+to silently overwrite that without you seeing the choice made plainly, so
+I gave Bantam its own scar instead of reassigning the existing one:
+
+The knife fight now cuts across two fingers and the heel of his palm as
+the blade changes hands. The qadi notices the still-healing wound during
+the hearing — corroborating evidence for the struggle-grip finding, not
+just texture. And the interlude closes on the contrast directly: "a
+smaller mark than the one Swally will give him seven years from now, and
+a lower one, kept where a whistle and a boatswain's coat sleeve can cover
+it on any day he chooses, which is every day. Men who ask about the scar
+through his eyebrow get an honest answer and a battle they have heard of.
+Nobody has ever asked about his hand."
+
+That gives you two scars with two very different relationships to the
+truth — one he can tell the real story of to anyone, one he's never once
+been asked about — which I think does more work than replacing Swally
+would have. If you actually meant for this to *become* the origin of the
+eyebrow scar instead, say so and I'll make that change, but it would mean
+touching language that currently exists in the deployed reader, which is
+a bigger, different kind of edit than anything else in this document.
+
+## The Echo callback and the Maggie moment — both drafted
+
+Both are written as clearly marked proposed insertions into their
+existing deployed chapters, each showing the exact surrounding text so
+the change is fully legible:
+
+- `17-1622-the-echo-bantam-callback-insert.md` — one paragraph, placed
+  where Tom positions his cobbler's-shop stool to watch both the street
+  and the rear door. It gives that established, previously unexplained
+  habit — and the chapter's own closing line naming "door" as one of the
+  things the sea carried home in him — its root, without ever naming
+  Bantam, the qadi, or the killing outright.
+- `02-1626-maggie-bantam-tune-insert.md` — one paragraph, placed
+  immediately before the existing thimble scene in "The Wager Kept." Tom
+  hums a fragment of the Bantam tune without noticing; Maggie's hands stop
+  moving; the text gestures at her own unstated history ("her own songs
+  that arrive the same way, unbidden") without naming it, exactly matching
+  how her Swedish thread is handled everywhere else in the design. This is
+  also, quietly, what prompts her to bring out the thimble that evening —
+  available to a careful reader, confirmed to no one.
+
 ## Scope of this pass
 
-Delivered: a complete draft of the interlude's core action, start to
-finish — Anders's song (I), the port call with Sri (II), the ship leaving
-without Tom (III), the killing (IV), his imprisonment (V), the qadi's
-hearing (VI), and his return to service via the chance meeting with
-Anders at sea (VII). Still open, for a later pass: the `17-1622-the-echo`
-callback and the single private Maggie moment — both were designed to be
-added without requiring any change to what's drafted here.
+Delivered: the complete interlude (I–VII, including the two new scar
+beats), and both proposed insertions into existing deployed chapters. All
+four files are proposals; nothing has touched the deployed reader,
+`manuscript-live-canon/`, or the chapters they reference. Nothing remains
+open from the original design — the only outstanding decision is the
+scar question above, if you want it handled differently.

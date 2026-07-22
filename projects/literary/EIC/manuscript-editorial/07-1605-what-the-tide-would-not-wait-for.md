@@ -155,8 +155,10 @@ over the wrist that holds the blade, and the surprise on the man's face at
 finding an Englishman with nothing left willing to spend the one thing he
 has not yet lost. The knife changes hands somewhere in the second turn of
 it, or the third — afterward Tom will never be entirely certain which of
-them meant for that to happen — and when the other two haul their friend
-up by both arms, he does not stand on his own, and does not stand at all.
+them meant for that to happen, only that the edge finds his own fingers
+and the heel of his palm on its way to deciding anything else — and when
+the other two haul their friend up by both arms, he does not stand on his
+own, and does not stand at all.
 
 The other two run. Tom is left in the lane with a dead man, a knife that
 is his now by the only law the lane recognizes, and the particular slow
@@ -238,7 +240,9 @@ Show me how you held it, he says.
 
 Tom shows him — both fists closed over the one wrist, the knife driven
 back toward its own owner rather than out from Tom's own hand — and the
-qadi has him do it twice more, watching not Tom's face but his grip.
+qadi has him do it twice more, watching not Tom's face but his grip, and
+the healing cut that crosses two fingers and the heel of his palm, still
+pink, still telling exactly the same story his hands are telling.
 
 A man who kills with a knife he means to kill with, the qadi says at last,
 to the court rather than to Tom, holds it his own way, in his own fist,
@@ -329,3 +333,11 @@ Bantam lane over a knife neither of them had any right to be holding, and
 that the qadi was correct about the one part of it that mattered — the
 blade did not care whose hand was last on it, and neither, in the end, did
 the tide that started the whole of it by simply refusing to wait.
+
+The cut across his fingers heals pale and does not care what story he
+tells about it either. It is a smaller mark than the one Swally will give
+him seven years from now, and a lower one, kept where a whistle and a
+boatswain's coat sleeve can cover it on any day he chooses, which is every
+day. Men who ask about the scar through his eyebrow get an honest answer
+and a battle they have heard of. Nobody has ever asked about his hand.
+Nobody, in thirty years, ever will.
