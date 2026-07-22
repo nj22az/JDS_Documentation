@@ -1,6 +1,6 @@
 # Corrective Action Log
 
-**Last updated:** 2026-07-03
+**Last updated:** 2026-07-22
 
 This log tracks all nonconformances and corrective actions raised under [JDS-PRO-008](../procedures/JDS-PRO-008_corrective-action.md).
 
@@ -8,9 +8,30 @@ This log tracks all nonconformances and corrective actions raised under [JDS-PRO
 
 ## Open Actions
 
-*No open corrective actions.*
+### CA-2026-013 — EIC manuscript image assets missing from repository | OPEN
+
+| | |
+|---|---|
+| **Date** | 2026-07-22 |
+| **Source** | Full validation run during the JDS-PRJ-SFW-003 session |
+| **Description** | 46 broken image links across `projects/literary/EIC/` (manuscript-live-canon, manuscript-editorial, exports): every referenced file under `assets/img/` is absent from the repository. The folder itself does not exist. Errors pre-date this session. |
+| **Root Cause (suspected)** | The images exist only on a local working machine and were never committed, or were added while a broader ignore pattern excluded them. Cannot be fixed from this session — the binaries are not recoverable from Git history. |
+| **Action required** | Owner to commit the `projects/literary/EIC/assets/img/` folder from the machine that holds the originals, then re-run `jds-validate.py` to confirm the 46 link errors clear. |
 
 ## Closed Actions
+
+### CA-2026-012 — Repo-wide `build/` ignore silently swallowed distro build system | CLOSED
+
+| | |
+|---|---|
+| **Date** | 2026-07-22 |
+| **Source** | Pre-commit `git status` check while creating JDS-PRJ-SFW-003 (Pocket Linux) |
+| **Description** | `.gitignore` line `build/` (intended for Node build outputs) matches **any** directory named `build` anywhere in the repo. The new project's `build/` folder — which is source (live-build configuration), not output — was silently ignored; the commit would have shipped a distro project with no build system and no warning. |
+| **Root Cause** | An output-directory ignore pattern written unanchored, so it also matches legitimately-named source directories. Same failure class as the suspected cause of CA-2026-013: an over-broad ignore hides real content without any signal. |
+
+**Corrective Action:**
+1. Added a scoped re-include `!projects/software/JDS-PRJ-SFW-003_pocket-linux/build/` with an explanatory comment; verified all 14 project files are staged.
+2. Rule recorded here: any future project that keeps *source* in a folder named `build/`, `dist/` or `node_modules/`-like names must either rename the folder or add a scoped `!` re-include at creation time.
 
 ### CA-2026-011 — Version-check regex silently matched a stale version | CLOSED
 

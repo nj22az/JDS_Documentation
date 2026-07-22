@@ -23,6 +23,9 @@ node_modules/
 dist/
 dist-ssr/
 build/
+# JDS-PRJ-SFW-003 ships its distro build system in a 'build/' folder — that is
+# source, not output. Re-include it (CA-2026-012).
+!projects/software/JDS-PRJ-SFW-003_pocket-linux/build/
 *.log
 *.local
 

@@ -1,0 +1,29 @@
+# IceWM preferences — Pocket Linux / JDS-PRJ-SFW-003
+# Tuned for the Vaio P: bigger fonts for the 222 DPI panel, everything that
+# redraws or animates turned off (every pixel is pushed by the CPU).
+
+# --- Fonts (panel is 222 DPI; these are pixel sizes at Xft.dpi 144) ---------
+TitleFontNameXft="sans-serif:size=10"
+MenuFontNameXft="sans-serif:size=10"
+StatusFontNameXft="sans-serif:size=10"
+QuickSwitchFontNameXft="sans-serif:size=10"
+NormalTaskBarFontNameXft="sans-serif:size=9"
+ActiveTaskBarFontNameXft="sans-serif:size=9:bold"
+ToolTipFontNameXft="sans-serif:size=9"
+ClockFontNameXft="sans-serif:size=9"
+
+# --- Kill all eye candy (CPU-rendered framebuffer) --------------------------
+OpaqueMove=0
+OpaqueResize=0
+AnimatedMenus=0
+MenuActivateDelay=0
+TaskBarClockLeds=0
+
+# --- Behaviour --------------------------------------------------------------
+TaskBarShowClock=1
+TaskBarShowAPMStatus=1
+TaskBarShowCPUStatus=1
+TaskBarShowNetStatus=0
+TaskBarShowMailboxStatus=0
+TaskBarShowWorkspaces=1
+WorkspaceNames=" 1 ", " 2 "

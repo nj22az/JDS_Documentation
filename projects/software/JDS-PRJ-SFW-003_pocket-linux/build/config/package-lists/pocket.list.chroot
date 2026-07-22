@@ -1,0 +1,61 @@
+# Pocket Linux package manifest — JDS-PRJ-SFW-003
+# Everything the distro contains beyond the Debian base system.
+# One section per concern; keep this list lean — every package costs RAM/disk.
+
+# --- Kernel & firmware -------------------------------------------------------
+linux-image-686-pae
+firmware-atheros
+firmware-linux-free
+firmware-misc-nonfree
+
+# --- Graphics stack (2D only — GMA 500) --------------------------------------
+xserver-xorg-core
+xserver-xorg-input-libinput
+xinit
+x11-xserver-utils
+xterm
+
+# --- Desktop (IceWM, no display manager, no compositor) ----------------------
+icewm
+pcmanfm
+gvfs
+lxterminal
+mousepad
+gpicview
+xarchiver
+
+# --- HiDPI fonts (222 DPI panel) ---------------------------------------------
+console-setup
+fonts-dejavu
+fonts-terminus
+xfonts-terminus
+
+# --- Network -----------------------------------------------------------------
+network-manager
+network-manager-gnome
+wpasupplicant
+openssh-client
+
+# --- Audio -------------------------------------------------------------------
+pulseaudio
+pavucontrol
+alsa-utils
+
+# --- Applications ------------------------------------------------------------
+netsurf-gtk
+firefox-esr
+cmus
+mpv
+yt-dlp
+
+# --- Memory & disk management (the 2 GB survival kit) ------------------------
+zram-tools
+earlyoom
+
+# --- System tools ------------------------------------------------------------
+htop
+ncdu
+acpi
+sudo
+less
+wget

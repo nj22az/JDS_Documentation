@@ -1,0 +1,9 @@
+! Pocket Linux — JDS-PRJ-SFW-003
+! 1600x768 on 8" is ~222 DPI physical. 144 (1.5x) is the compromise between
+! readability and vertical space (768 px is only 512 logical px at 1.5x).
+! Bump to 168 if 144 is still too small for your eyes.
+Xft.dpi: 144
+Xft.antialias: true
+Xft.hinting: true
+Xft.hintstyle: hintslight
+Xft.rgba: rgb

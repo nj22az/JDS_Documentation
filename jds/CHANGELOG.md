@@ -4,6 +4,16 @@ All changes to the JDS documentation system itself are recorded here. This provi
 
 ---
 
+## [3.11.2] — 2026-07-22
+
+### Added — First hardware/OS project: JDS-PRJ-SFW-003 Pocket Linux
+- New software project **JDS-PRJ-SFW-003** — a reproducible custom Linux distro (Debian 12 i386 live-build respin) for the Sony Vaio P; registered in the document register.
+- `projects/index.md` gained the previously missing **Software Projects** section (SFW-001–003 were absent from the index).
+
+### Fixed — Over-broad `build/` gitignore (CA-2026-012)
+- The unanchored Node `build/` ignore silently excluded the new project's live-build source tree; added a scoped re-include and recorded the rule in the corrective-action log.
+- Raised **CA-2026-013 (OPEN)**: 46 pre-existing broken EIC image links — the `projects/literary/EIC/assets/img/` binaries were never committed and must be restored from the owner's machine.
+
 ## [3.11.1] — 2026-07-13
 
 ### Changed — Book reader reference implementation completed

@@ -1,0 +1,4 @@
+# Early KMS for GMA 500 — Pocket Linux / JDS-PRJ-SFW-003
+# Loading gma500_gfx in the initramfs brings the console up at native
+# 1600x768 immediately and avoids the blank-screen window during boot.
+gma500_gfx
