@@ -1,6 +1,8 @@
 # Builds the Pocket Linux ISO (JDS-PRJ-SFW-003) and publishes it as a
-# workflow artifact. Manual trigger only — the build downloads ~1 GB of
-# Debian packages and takes 20-45 minutes.
+# GitHub release asset (direct download link, no login, no expiry).
+# Uses no marketplace actions at all, so it works under any repository
+# actions-policy. The build downloads ~1 GB of Debian packages and takes
+# 20-45 minutes.
 name: Build Pocket Linux ISO
 
 on:
@@ -15,19 +17,26 @@ on:
       - '.github/workflows/build-pocket-linux-iso.yml'
       - 'projects/software/JDS-PRJ-SFW-003_pocket-linux/build/**'
 
+permissions:
+  contents: write
+
 jobs:
   build-iso:
     runs-on: ubuntu-latest
     timeout-minutes: 120
+    env:
+      PROJECT_DIR: projects/software/JDS-PRJ-SFW-003_pocket-linux
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
+      - name: Clone repository
+        run: |
+          git clone --depth 1 --branch "$GITHUB_REF_NAME" \
+            "https://github.com/${GITHUB_REPOSITORY}.git" repo
 
       - name: Build ISO in a privileged Debian bookworm container
         run: |
           docker run --rm --privileged \
-            -v "$GITHUB_WORKSPACE:/repo" \
-            -w /repo/projects/software/JDS-PRJ-SFW-003_pocket-linux/build \
+            -v "$PWD/repo:/repo" \
+            -w "/repo/$PROJECT_DIR/build" \
             debian:bookworm \
             bash -euxc '
               apt-get update
@@ -36,16 +45,22 @@ jobs:
               ./build.sh
             '
 
-      - name: Report ISO details
+      - name: Publish ISO as a GitHub release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          ls -lh projects/software/JDS-PRJ-SFW-003_pocket-linux/build/pocket-linux-*.iso
-          sha256sum projects/software/JDS-PRJ-SFW-003_pocket-linux/build/pocket-linux-*.iso
-
-      - name: Upload ISO artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: pocket-linux-iso
-          path: projects/software/JDS-PRJ-SFW-003_pocket-linux/build/pocket-linux-*.iso
-          retention-days: 30
-          if-no-files-found: error
-          compression-level: 0
+          iso=$(ls repo/"$PROJECT_DIR"/build/pocket-linux-*.iso)
+          checksum=$(sha256sum "$iso" | cut -d' ' -f1)
+          tag="pocket-linux-build-${GITHUB_RUN_NUMBER}"
+          api="https://api.github.com/repos/${GITHUB_REPOSITORY}"
+          release_id=$(curl -sf -X POST "$api/releases" \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            -d "{\"tag_name\":\"$tag\",\"target_commitish\":\"$GITHUB_SHA\",\"name\":\"Pocket Linux ISO (build $GITHUB_RUN_NUMBER)\",\"body\":\"Bootable/installable i386 hybrid ISO for the Sony Vaio P (JDS-PRJ-SFW-003).\n\nSHA-256: $checksum\",\"prerelease\":true}" \
+            | python3 -c 'import json,sys; print(json.load(sys.stdin)["id"])')
+          curl -sf -X POST -T "$iso" \
+            "https://uploads.github.com/repos/${GITHUB_REPOSITORY}/releases/${release_id}/assets?name=$(basename "$iso")" \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Content-Type: application/octet-stream" >/dev/null
+          echo "ISO published: https://github.com/${GITHUB_REPOSITORY}/releases/tag/$tag"
+          echo "SHA-256: $checksum"
