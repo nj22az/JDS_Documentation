@@ -4,6 +4,57 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-22b] (Mara → Maria rework; continuity web design; deployed)
+
+### Added
+- `editorial/continuity-web-and-cast-reduction.md`: the master continuity
+  design for the whole six-part cycle — authority stack, Joan Bell keeper
+  ratification, full keeper-succession reconciliation (the trade vs. the
+  lease), a disposition for every loose-end character in Books Two–Six
+  (most ruled *deliberately unconnected* — Mei above all), three new
+  narrator-only threads, a three-strata Cache reconciliation, a
+  cast-reduction ledger (the Wapping Twelve stay twelve; periphery merges
+  only), a 13-item hard-guards register, and the approved Maria rework
+  (§12).
+- `manuscript-editorial/book-one-character-bible-proposed.md`: Rev-B of
+  the deployed "Wapping Twelve" bible — Mara renamed Maria with a hidden
+  Japanese-heritage backstory (a loose, fictionalized Shōgun/Lady Mariko
+  homage, implicit on the page), new Steward and Clerk-of-the-Record
+  entries (repairing an existing steward-identity contradiction between
+  the 1603 and 1626 chapters), a Keeper's Appendix and a Counter-Ledger
+  Appendix, and a Juror 9 guard line distinguishing Elias Thorne from the
+  unrelated Kings-of-Bengal character Elias Tregowan.
+- `tools/apply_maria_update.py`: the migration script used to apply the
+  approved rework to the deployed reader (see below).
+
+### Changed — deployed reader (author-directed exception; see doc §12)
+- Global rename Mara → Maria across the live bundle (335 occurrences),
+  `omnibus-config.js` (6) and `omnibus-illustrations.js` (2).
+- `book-one-character-bible` page body replaced with the Rev-B text.
+- Authorized new beat added to `19-1625-batavia`: the ten Amboyna Japanese
+  soldiers' names, recovered through Maria without explanation, filling
+  the ten blank lines Tom's private list already kept open.
+- Five wording corrections to `appendix-1b-character-map`: the Cache's
+  "four objects... leaves it exactly where it lies" corrected to the
+  three-strata description and 2019's actual division of the hoard; the
+  1696/1701 keeper merged into one woman; Holman's wrist-injury date
+  corrected off a specific wrong year to "his Canton years"; "the Gazette
+  man" corrected to "the Member's man" (Hollis).
+- New bundle filename `app/index-h4v2n8t3.js` (old `index-m8qfiqg1.js`
+  removed); `index.html` repointed and cache-busted.
+
+### Fixed — a genuine plot discrepancy caught by this pass
+- The JDS mirror copy of `04-1629-the-south-land.md` (used to seed early
+  drafts of the Book One skill) has Silas Rook tried and executed at
+  Batavia. **The currently deployed chapter does not** — Maria persuades
+  Pelsaert to maroon him alone, without supplies, on the South Land coast
+  instead, and his fate afterward is deliberately never recorded. The
+  Book One skill references (`characters.md`, `chapters.md`) are corrected
+  to match the deployed text; two other stale-mirror errors are corrected
+  in the same pass (Juror 6 has no canon surname — "Giles Croft" was a
+  placeholder; Jack Mercer's kinship to Juror 7 Henry Mercer IS stated in
+  the live bible, not unstated).
+
 ## [2026-07-22] (Extractor repaired; Book One mirror drift documented)
 
 ### Fixed

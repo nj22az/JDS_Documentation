@@ -34,7 +34,7 @@ case (Yusuf), feeds boys before assessing them, refuses blank declarations,
 signs late and reads everything first. Writes Maggie seven letters, sends
 none; the eighth "letter" is Daniel himself, walked through her door in 1626.
 Spends fourteen months manoeuvring to Batavia to claim the retained factor;
-meets Mara ("Not love. Recognition."). Tells: touches the scar under strain;
+meets Maria ("Not love. Recognition."). Tells: touches the scar under strain;
 never sits with his back to a door; "That was not my question" (learned from
 Maggie); "Food first" carried east. 1635: reads a boy's contract without
 choosing for him; "Goodnight, Maggie."
@@ -46,8 +46,8 @@ English waterman Black ("the sea reached all the way to Africa for him").
 Rising forty in 1603, eyes "the blue-grey of a cold tide," bung mallet under
 the bar. Hendricks alone calls her Margareta. Keeper of the counter-ledger:
 notches (verdicts), keepsakes (wagers), Bell's page, then Daniel's, then
-Mara's. Insists the dead be named ("A dead man has a name. Say it again as a
-name"). Ethic: never lets rescue excuse failure ("We had Mara alive and Bell
+Maria's. Insists the dead be named ("A dead man has a name. Say it again as a
+name"). Ethic: never lets rescue excuse failure ("We had Maria alive and Bell
 dying... We chose where to put our hands"); never renames failure as victory.
 Food first — always, before questions, before news. Refuses to send Tom any
 message: "A truth sent for the purpose of producing an answer is already
@@ -56,35 +56,60 @@ hearth, everything squared, with standing orders: feed Fletcher first. "The
 moral centre of Wapping Wall... which does not make her infallible, only
 unwilling to rename failure as victory."
 
-**Mara de Sousa — the defendant, the catalyst, the survivor.** Surname is her
-captors'; taken out of the Portuguese trade routes, São Tomé to Macau, staked
-at cards, sold twice before Rook. 1603: no English; the room finds the truth
-around her; she leaves Bell's page with Maggie ("She will not carry the paper
+**Maria de Sousa — the defendant, the catalyst, the survivor.** Both names
+are other people's: the surname is her captors'; Maria is the baptismal
+name a Jesuit christening gave her in Macau, and the one gift of her
+captivity she chose to keep, because a chosen name conceals better than a
+false one. **What it conceals (internal canon layer, approved this session
+— see `projects/literary/EIC/editorial/continuity-web-and-cast-reduction.md`
+§12 — never stated on any deployed page, same class of silence as
+Maggie→Johansson):** she was born into a samurai-class Japanese Christian
+family destroyed after her father moved against a warlord; she survived
+because she had already been sent away, the sending becoming a selling
+somewhere on the water, as it did for many Kirishitan daughters in that era;
+the Portuguese trade carried her through Macau (her years there gave her
+native-grade Cantonese) and on down its circuit — São Tomé to Macau, staked
+at cards, sold twice — before Rook. She never speaks her first language
+again, not even in the 1603 trial's panic (the "mix of Cantonese and
+Portuguese" is now read as discipline, not limitation). This layer is a
+loose, fully fictionalized homage to Shōgun's Lady Mariko (baptismal name
+Maria) — the shape borrowed, the person and events original — and it is
+never to surface to any character, including the Amboyna castle's Japanese
+interpreter. **The one authorized payoff:** the ten Japanese soldiers
+executed at Amboyna, for whom Tom's private list keeps ten blank lines
+("names not yet recovered"), are recovered through Maria without
+explanation — a beat placed in the Batavia release chapter. Nobody in the
+room, including Tom, ever learns why she could get them.
+
+On the deployed page: 1603, no English; the room finds the truth around
+her; she leaves Bell's page with Maggie ("She will not carry the paper
 that priced her") and escapes over the roof. Hendricks + Joos de Vries move
-her to Amsterdam as cargo *at her own instruction* — the founding act of "the
-language of paper." Servant passage to Bantam with Lysbeth and Willem;
+her to Amsterdam as cargo *at her own instruction* — the founding act of
+"the language of paper." Servant passage to Bantam with Lysbeth and Willem;
 Pieter's coat and book ("Make another"). One month in the Dutch loge, then
 independent: the teak desk, dark silk, "I write the rate." Builds the
 intersecting web (Aminah, the Makassar bookkeeper, Iskandar the pepper
 broker, the Patani widow); rules: buy work not people, pay families first,
-names are not for sale, duplicates of everything, originals never sleep where
-she does. Languages: Portuguese, Cantonese, self-taught English, fluent
-Dutch, working Malay — "and, more valuable than all of them together, the
-language of paper." Finds Daniel by his margin note; finds Rook on the
-*Batavia* muster (1628); warns, is annotated into uselessness ("experienced
-disciplinarian; useful"); translates Pelsaert's tribunal without editing;
-sends Rook back to Batavia in irons — "the vengeance is hers, not Bell's."
-"She never again needs a room to speak for her — but she never pretends that
-power leaves her clean." Frees Daniel as arithmetic (the unclosed entry) and
-spends her one hoarded asset: "There is a room in London that reads accounts
-truly."
+names are not for sale, duplicates of everything, originals never sleep
+where she does. Languages: Portuguese, Cantonese, Dutch (learned across
+1603–1612, fully fluent by the teak-desk era), and English — always her
+weakest, "exact and slightly formal" — plus working Malay. Finds Daniel by
+his margin note; finds Rook on the *Batavia* muster (1628); warns, is
+annotated into uselessness ("experienced disciplinarian; useful");
+translates Pelsaert's tribunal without editing. **Correction: she does not
+send Rook to execution** — see the Silas Rook entry below; she argues
+successfully for marooning instead, "the vengeance is hers, not Bell's."
+"She never again needs a room to speak for her — but she never pretends
+that power leaves her clean." Frees Daniel as arithmetic (the unclosed
+entry) and spends her one hoarded asset: "There is a room in London that
+reads accounts truly."
 
 **Matthew Bell — the dead man, the compromised witness.** Shadwell; wife
 Anne, two daughters (elder: Joan). Junior copyist to Harcourt; six years
-making coercion look orderly; carried the Fletcher debt, entered Mara as
+making coercion look orderly; carried the Fletcher debt, entered Maria as
 "Portuguese servant" between cordage and spoiled timber. Asked Tom the
 question hours before dying: would you sign if you knew the account was made
-never to close? Copied the page, wrote a plain confession, tried to take Mara
+never to close? Copied the page, wrote a plain confession, tried to take Maria
 to the Dutch church; gutted by Rook in the roofed breaking shed; died on the
 Pelican's centre table saying "Anne" and "no". Never one of the Twelve —
 "the court formed around his murder while the murdered man remained outside
@@ -96,24 +121,32 @@ move him." Cornish tin-hauler turned ship-breaker; beard like wet rope;
 Harcourt's deniable muscle. Murders Bell, tries to make the room hang the
 witness; undone by wind arithmetic, his own practised grip, and pine dust in
 his boot welt; escapes because twelve people each wait one second. Sells
-himself to the VOC; entered on the *Batavia* muster 1628 despite Mara's
+himself to the VOC; entered on the *Batavia* muster 1628 despite Maria's
 warning; becomes one of the mutiny's chief executioners; at the tribunal his
 one true self-serving sentence — the Company hired him *with* the warning —
-enters the record intact. Carried back to Batavia begging for the rope;
-executed after the ignored warning is read beside the island dead. "His
-murders remain his; the room's failure to hold him remains the room's."
+enters the record intact. **Correction (verified against the current
+deployed chapter, which differs from the stale JDS mirror read early in
+this project): Rook is not executed.** At Maria's request Pelsaert has him
+put ashore alone, without supplies, on an unnamed stretch of the South Land
+coast, while two lesser mutineers are marooned nearby with supplies and
+instructions — "his sentence is the same coast as the boys', without the
+supplies, and without the instructions." The Council confirms the
+sentence in his absence. His fate afterward is deliberately never recorded:
+"whether the South Land finished him in a week or kept him twenty years,
+no ledger will ever hold the entry." "His murders remain his; the room's
+failure to hold him remains the room's."
 
 **Daniel Vale — the man who came back wrong.** Rochester merchant's clerk,
 26 when he goes east (1621); wife Nell. "Not brave... unable, physically,
 the way some men cannot carry a tune, to initial a number he watched be
 false." The rice margin note — "Not received into our store. Ask Mr Vale,
-who witnessed the unloading" — draws Mara's eye ("He names the porters").
+who witnessed the unloading" — draws Maria's eye ("He names the porters").
 Sells exact copies at the rate under the heading "Paper of my own." Counts
 the closing signs (six reasonable explanations in a row); Towerson cannot
 act on them. Tortured in the coral room; hears Towerson hold for two days
 through the wall; loses the count — permanently, in part; signs the harvested
 confession; keeps only Nell's name unsaid. Shipped to Batavia on one word;
-held ~2 years as an unclosed entry; freed by Mara + Tom; a year at a Surat
+held ~2 years as an unclosed entry; freed by Maria + Tom; a year at a Surat
 desk until the word "examined" — "I cannot." In Wapping 1626: tells the
 truth, is depositioned into "examined with some severity" ("drowned twice"),
 refuses Pryce's money ("Pay the dead men's families"), writes the true copy
@@ -144,22 +177,35 @@ stool stays empty eight years by unspoken treaty — until Tom, home and
 hardened, sits on it in 1612 "and the room lets him, and both of those
 things mean something."
 
-**Juror 6 · Giles Croft — the everyman.** First tar man; among the first to
-lift the hanging rope and the first to let it fall — "almost used, then
+**Juror 6 · the caulker — the everyman.** **Correction: the live bible
+deliberately withholds his surname** ("the house keeps his trade but not
+his surname"; earlier drafts of this reference used the placeholder "Giles
+Croft," which is not canon). First of Carter's two tar men; among the first
+to lift the hanging rope and the first to let it fall — "almost used, then
 honest." Stays at Carter's yard; by 1626 the grumbling voice of the men the
 boom is built on ("short measure being a thing a tar man knows when he
 handles it").
 
-**Juror 7 · Henry Mercer — the hedonist.** Second tar man, quicker to laugh,
-slower to stand; follows the pack in and back out "and would be the first to
-admit the order of those events." (Note: shares a surname with Jack Mercer —
-the bible calls it "a trade name older than his trade"; no kinship is stated
-in canon.)
+**Juror 7 · Henry Mercer — the hedonist.** Ship's cooper, second tar man,
+quicker to laugh, slower to stand than the caulker; follows the pack in and
+back out "and would be the first to admit the order of those events."
+**Correction: kinship to Jack IS stated in the live bible** — the
+seasoning-shed man whose arm Carter's yard crushes in 1612 (Jack's father)
+is Henry's brother, "which makes Jack Mercer... the room's own blood."
+Earlier drafts of this reference said kinship was unstated; that was wrong.
 
-**Juror 9 · Elias Thorne — the elder.** Thirty years of Wapping cargo; the
-Admiralty basket speech that silences Josiah; chair held by the legs against
-Rook. Dead by ~1609 "of a lifetime of lifting other men's goods"; "what
-Elias would have made of it" becomes the river's standard of old justice.
+**Juror 9 · Elias Thorne — the elder.** Forty years a deep-water boatswain
+and the quay work after; the Admiralty basket speech that silences Josiah;
+chair held by the legs against Rook. Dead by ~1609/1612 "of a lifetime of
+the sea's hauling and the quay's after it"; "what Elias would have made of
+it" becomes the river's standard of old justice. **Do not confuse with
+Elias Tregowan**, an unrelated Cornish shipwright (b. 1735) who appears in
+the Kings of Bengal sibling project (Vol Three, 1757–1790) and is cited by
+name in the deployed 2019 chapter's closing aside — a forward-looking
+Easter egg for the *omnibus* reader, not a link to this Elias. The live
+bible adds its own guard line under this juror for exactly this reason:
+"No kin to the Cornish shipwright a later book will seat in this room; the
+parish grows more than one Elias, and the ledger keeps them apart."
 
 **Juror 10 · Josiah Grimes — the bigot.** Tries to turn fear into a lynch
 mob; the room turns its back that night "and, in every way that matters,
@@ -188,7 +234,9 @@ occasionally one line leaning the other way."
 
 ## Recurring supporting cast
 
-**Jack Mercer.** Wapping boy, 16 in 1612; father crushed at Carter's yard.
+**Jack Mercer.** Wapping boy, 16 in 1612; **Henry Mercer's nephew** (see
+Juror 7 correction above); father — Henry's brother — crushed at Carter's
+yard.
 One voyage (1613–14): the rigging, the flux, the squall (cuts Tom free), two
 fingers crushed at the Bantam capstan, the pay-table fight. Refuses a second
 voyage; Deptford rigger; by 1626 his own shop, wife, daughter Anne (named
@@ -203,26 +251,34 @@ copies; the younger "remembers every face that has asked for money"). Burns
 the copy; defeats the steward's search with a receipt; twenty years of
 Thursday visits and the unpriceable account with Maggie; becomes Shadwell's
 paper-advocate for widows' claims. Audits Maggie's 1612 rage ("Right is not
-the same as exact"). In 1630 receives Mara's letter; on Rook: "Whatever
+the same as exact"). In 1630 receives Maria's letter; on Rook: "Whatever
 Silas felt at the end belongs to him. It does not enter my house."
 
 **Hendricks.** Dutch waterman, timber barge, permanent squint, genever in a
 stone bottle ("Dutch physic"); on the Thames "since before the Company
 existed." Calls Maggie Margareta. Brother Pieter died after sailing with the
 first Dutch wolf-fleets. Delivers the thesis line about fights and
-Companies; ferries Mara to *De Hoop*; gives her Pieter's coat, Pieter's
+Companies; ferries Maria to *De Hoop*; gives her Pieter's coat, Pieter's
 book, one pull of genever, and "Hold both." Ned inherits his stretch of the
 river by 1626. The unnamed old Dutch skipper who walks out when Carter pours
 the genever (1626) is almost certainly him — canon leaves it unnamed.
 
-**Joan (the keeper, from 1633).** "The girl who carried trays across this
-room the winter Daniel Vale sat shaking by the fire," chosen by Maggie, who
-made her count the till twice and memorise Tom's description. Adds thyme to
-the pie crust. "Joan inherits the house, the recipe and the papers, but not
-the obligation to become Maggie." Open question the canon does not settle:
-whether keeper-Joan is Anne Bell's elder daughter Joan — the name and the
-house's bond with the Bells invite it, but no chapter states it. Do not
-assert either way.
+**Joan Bell (the keeper, from 1633).** **Settled, not open:** keeper-Joan
+IS Anne and Matthew Bell's elder daughter. The deployed Character Map
+appendix (`appendix-1b-character-map.md`) states the keeper succession
+outright — "Joan Bell, Matthew and Anne's elder daughter, learns the work
+under Maggie and keeps the house after her" — and the live bible's Beyond-
+the-Twelve section gives her a full entry under "The Bell Household." An
+earlier draft of this reference called this an open question; it is not.
+She practises letters on her father's alphabet page as a girl (1603), does
+paid fair-copy and claims-advocacy work by 1623, is "the girl who carried
+trays across this room the winter Daniel Vale sat shaking by the fire"
+(1626), and inherits the Pelican in 1633: "the house, the recipe and the
+papers, but not the obligation to become Maggie." Adds thyme to the pie
+crust — inheritance, not imitation. See
+`projects/literary/EIC/editorial/continuity-web-and-cast-reduction.md` for
+the full keeper-succession design built on this ratification (Joan → the
+Restoration keeper → the Finch women → Martha → Flo → Vera → Hannah).
 
 **Nell Vale.** Daniel's wife; walked three years of dock offices on rumours
 ("told he was dead, twice"); knows him by his hands. "You write the letter...
@@ -244,28 +300,28 @@ served under"). Beheaded 1623.
 undertaking, Arthur's figures; buys quiet, never threatens, never argues —
 "only note[s]" an answer.
 
-**Lysbeth van Aalst & Willem.** Surgeon's widow and son on Mara's outbound
-voyage; Lysbeth shields Mara twice (water ration, the packet) and teaches
+**Lysbeth van Aalst & Willem.** Surgeon's widow and son on Maria's outbound
+voyage; Lysbeth shields Maria twice (water ration, the packet) and teaches
 her the grammar of ownership; refuses a Company future for Willem and sails
-home clean. Willem's signature straightens — Mara's closest thing to a son.
+home clean. Willem's signature straightens — Maria's closest thing to a son.
 
-**Iskandar.** Bantam pepper broker, first holder of a Mara duplicate;
+**Iskandar.** Bantam pepper broker, first holder of a Maria duplicate;
 becomes her fixture and conscience ("Eat. / After. / Before. A dead broker
 reads nothing").
 
-**Aminah.** Mara's hand at Amboyna; corrects both test copies, answers a job
+**Aminah.** Maria's hand at Amboyna; corrects both test copies, answers a job
 offer by raising the rate; adjectives removed, witnesses named. Warned too
 late in 1623; her desk found empty (fate unstated in canon — do not kill her
 off or rescue her without checking the later books).
 
 **Pieter.** Hendricks's brother; the journal: sailor's parts, then margins
 (hostage, burned storehouse, men struck from the ration list before dying),
-then the fever refrain "*Make another*" — the founding text of Mara's
+then the fever refrain "*Make another*" — the founding text of Maria's
 duplicate doctrine.
 
 **Joos de Vries.** Deacon of the Dutch church at Austin Friars, part-owner
 of *De Hoop*; "audited mercy is the only kind the powerful cannot later
-deny"; bonds Mara's passage and asks for nothing, which she refuses to leave
+deny"; bonds Maria's passage and asks for nothing, which she refuses to leave
 unpriced.
 
 **Others worth knowing:** Pritchard (Jack's shipboard tormentor turned
@@ -289,5 +345,22 @@ space to fear").
   · Elias d. ~1609 · Tom's father d. winter 1608 · Tom's mother d. ~1614.
 - Rupture 1612 · Jack's voyage 1613–14 · Amboyna arrests Feb 1623, executions
   1623 · Daniel released ~1625, home 1626 · Mending 1626 · Rook on *Batavia*
-  1628, wreck June 1629, executed Batavia · packet reaches Wapping 1630 ·
-  Maggie d. turn of 1633 · Epilogue spring 1635.
+  1628, wreck June 1629, marooned alone on the South Land coast (not
+  executed — corrected above) · packet reaches Wapping 1630 · Maggie d. turn
+  of 1633 · Epilogue spring 1635.
+
+## Cross-book continuity and the Maria rework
+
+This file covers Book One in isolation. For (1) the full cross-century
+lineage/ripple web tying Book One characters into Books Two–Six, (2) the
+Wapping Twelve cast-reduction ledger, and (3) the complete Maria rework
+(hidden Japanese heritage, language arc, the ten-names payoff, and the
+prose-pass rename inventory), see the approved design documents:
+- `projects/literary/EIC/editorial/continuity-web-and-cast-reduction.md`
+- `projects/literary/EIC/manuscript-editorial/book-one-character-bible-proposed.md`
+
+As of 2026-07-22 the Maria rename and the design doc's authorized additions
+(the ten-names beat, the Rev-B bible content, and five appendix-1b wording
+corrections) have been applied to the deployed reader; this file and its
+siblings (`chapters.md`, `motifs.md`, `SKILL.md`) now use "Maria"
+throughout to match.

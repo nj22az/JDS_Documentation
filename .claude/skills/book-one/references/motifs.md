@@ -22,7 +22,7 @@ A narrow fault in the old oak where spilled ale never reaches. Contents by
 4. **Daniel Vale's true copy of Amboyna** (1626) — placed *beside* Bell's
    page, not behind it. "One wrote before the machine killed him. One wrote
    after it failed."
-5. **Mara's packet** (1630) — her retained warning against Rook, the
+5. **Maria's packet** (1630) — her retained warning against Rook, the
    certified copy of the factor's margin ("experienced disciplinarian;
    useful"), and her letter: "Do not let the punishment improve the Company
    in the telling."
@@ -48,7 +48,7 @@ her own — "What she chooses to put there will belong to her time."
   hears another voice and does not mistake one woman for the other." Tom
   meets the same pattern again in a Surat bale after Amboyna.
 - **The genever stone bottle** — Hendricks's "Dutch physic." Passed to Tom
-  (1603, courage to reach the clerk), to Mara (1603, courage to reach
+  (1603, courage to reach the clerk), to Maria (1603, courage to reach
   Amsterdam; 1625 she pours it for Tom with Hendricks's exact formula), and
   poured out on the Pelican's flagstones by Carter in 1626 — after which no
   one in the house asks for it by name for a generation.
@@ -57,7 +57,7 @@ her own — "What she chooses to put there will belong to her time."
   better. / Have you? / Most days."
 - **Pieter's coat and book** — the coat given, not lent ("A given thing
   cannot be called back. You of all people should own one thing with that
-  property"); the book's refrain "*Make another*" is the seed of Mara's
+  property"); the book's refrain "*Make another*" is the seed of Maria's
   whole duplicate doctrine.
 - **The teak desk(s)** — no carving, tested with both palms, "too heavy to
   run with and too heavy for one man to take." Second desk to Aminah; the
@@ -85,14 +85,14 @@ her own — "What she chooses to put there will belong to her time."
   doing today" with Daniel.)
 - "Find the join." (Tom's splice test; becomes Jack's craft creed — "Where I
   can see both ends of the rope.")
-- "Make another." (Pieter's fever refrain → Mara's doctrine of the true
+- "Make another." (Pieter's fever refrain → Maria's doctrine of the true
   copy: "A true copy is a second witness, and the second is harder to
   kill.")
-- "Paper records power. It does not replace it." (Mara; Jack hears the
+- "Paper records power. It does not replace it." (Maria; Jack hears the
   lesson at the pay table "without knowing her.")
 - "The ships go out. The boys sign." (Chapter 2's close; the Epilogue adds
   "The Pelican pours.")
-- "Not love. Recognition." (Mara and Tom, 1603 and 1625 — the same look,
+- "Not love. Recognition." (Maria and Tom, 1603 and 1625 — the same look,
   twice, twenty-two years apart.)
 - "Not pride. Entry." / "Not approval. Entry." (Maggie's and Joan's nods —
   bookkeeping as emotion.)
@@ -105,7 +105,7 @@ her own — "What she chooses to put there will belong to her time."
 1. **A room can beat a bully; no room has ever stood up to a paper.**
    (Hendricks, Ch 2.) The 1603 trial is the one victory; everything after
    measures what paper does that fists cannot.
-2. **A verdict is not the same as justice.** The room saves Mara AND lets
+2. **A verdict is not the same as justice.** The room saves Maria AND lets
    Rook go; both accounts stay open for thirty years. Never let one cancel
    the other.
 3. **The counter-ledger.** Official records are true documents built to bury
@@ -116,7 +116,7 @@ her own — "What she chooses to put there will belong to her time."
    week — and the people converting it are never villains, which is the
    point.
 5. **The machine improves through its correctors.** Tom's fixes make the
-   Company stronger; Arthur's clarity makes harm orderly; Mara's warning
+   Company stronger; Arthur's clarity makes harm orderly; Maria's warning
    becomes a hiring qualification. Book One's tragedy of competence.
 6. **Names against numbers.** Muster vs. names — Pell entered as cargo,
    Ellis/Brown/Cooper/Venn forced into the book, ten blank lines for the

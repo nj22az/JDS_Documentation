@@ -11,11 +11,11 @@ into reading order — always follow the sequence below.
 | — | Part One | `part-one-the-venture` | The Venture | 1603–1635 | — |
 | 1 | Chapter One | `01-1603-the-boy-who-signed` | The Boy Who Signed | 1603 | Maggie |
 | 2 | Chapter Two | `02-1603-dutch-courage` | Dutch Courage | 1603 | Hendricks |
-| 3 | Chapter Three | `06-1603-the-soot-and-the-roof` | The Soot and the Roof | 1603 | Mara |
+| 3 | Chapter Three | `06-1603-the-soot-and-the-roof` | The Soot and the Roof | 1603 | Maria |
 | 4 | Chapter Four | `20-1603-the-stewards-search` | The Steward's Search | 1603 | Anne Bell |
-| 5 | Chapter Five | `08-1604-the-language-of-paper` | The Language of Paper | 1603–1604 | Mara |
+| 5 | Chapter Five | `08-1604-the-language-of-paper` | The Language of Paper | 1603–1604 | Maria |
 | 6 | Chapter Six | `21-1611-the-counter-ledger` | The Counter-Ledger | 1603–1611 | Maggie |
-| 7 | Chapter Seven | `09-1612-the-teak-desk` | The Teak Desk | 1605–1612 | Mara |
+| 7 | Chapter Seven | `09-1612-the-teak-desk` | The Teak Desk | 1605–1612 | Maria |
 | 8 | Chapter Eight | `03-1612-the-return` | The Return | 1612 | Maggie |
 | 9 | Chapter Nine | `11-1613-the-boy-in-the-rigging` | The Boy in the Rigging | 1613 | Jack |
 | 10 | Chapter Ten | `14-1614-the-pay-table` | The Pay Table | 1613–1614 | Jack |
@@ -23,14 +23,14 @@ into reading order — always follow the sequence below.
 | 12 | Chapter Twelve | `15-1620-the-lone-machine` | The Lone Machine | 1614–1620 | Tom |
 | 13 | Chapter Thirteen | `17-1622-the-echo` | The Echo | 1620–1622 | Jack |
 | 14 | Chapter Fourteen | `23-1622-news-from-the-sea` | News from the Sea | 1614–1623 | Maggie |
-| 15 | Chapter Fifteen | `10-1623-the-intersecting-web` | The Intersecting Web | 1614–1623 | Mara |
+| 15 | Chapter Fifteen | `10-1623-the-intersecting-web` | The Intersecting Web | 1614–1623 | Maria |
 | 16 | Chapter Sixteen | `20-1621-the-factor` | The Factor | 1621–1623 | (margin note) |
 | 17 | Chapter Seventeen | `22-1623-the-coral-room` | The Coral Room | 1623 | Daniel |
 | 18 | Chapter Eighteen | `18-1623-amboyna` | Amboyna | 1623 | Tom |
 | 19 | Chapter Nineteen | `24-1623-the-widows-years` | The Widow's Years | 1603–1623 | Anne Bell |
-| 20 | Chapter Twenty | `19-1625-batavia` | Batavia | 1623–1626 | Mara |
+| 20 | Chapter Twenty | `19-1625-batavia` | Batavia | 1623–1626 | Maria |
 | 21 | Chapter Twenty-One | `02-1626-the-man-who-came-back-wrong` | The Man Who Came Back Wrong | 1626 | Daniel |
-| 22 | Chapter Twenty-Two | `04-1629-the-south-land` | The South Land | 1629–1630 | Mara |
+| 22 | Chapter Twenty-Two | `04-1629-the-south-land` | The South Land | 1629–1630 | Maria |
 | — | Epilogue | `05-1635-last-orders` | Last Orders | 1635 | Joan |
 | — | Reference | `book-one-character-bible` | The Wapping Twelve | 1603–1635 | — |
 
@@ -43,7 +43,7 @@ Twenty-One and Twenty-Two.
 **Ch 1 — The Boy Who Signed (1603).** Three-day storm. Tom (22) collects his
 Company contract from Harcourt's counting room, where an unnamed copyist —
 Matthew Bell — asks whether he would sign a debt designed never to close.
-Silas Rook kicks in the Pelican's door dragging Mara, blood-soaked, accusing
+Silas Rook kicks in the Pelican's door dragging Maria, blood-soaked, accusing
 her of murdering "a Company clerk" — Bell. Tom blocks the door, takes a
 backhand, stays. The room reasons its way to the truth: Arthur's wind
 arithmetic (no scream audible over a North Sea gale), the practised underhand
@@ -53,8 +53,8 @@ Carter and Elias (the Admiralty basket threat). Ned states water-law: "she is
 owed a landing." Rook lunges, is faced down by the room, escapes into the
 storm — twelve people wait one fatal second each for another to begin. Tom and
 Ned carry Bell in from the shed; he dies on the centre table after "Anne" and
-one "no". Mara gives Bell's confession page to Maggie: names, manufactured
-debts, herself entered between cordage and spoiled timber ("Mara de Sousa —
+one "no". Maria gives Bell's confession page to Maggie: names, manufactured
+debts, herself entered between cordage and spoiled timber ("Maria de Sousa —
 Portuguese servant — transfer pending"), Tom's father's £11 6s 4d marked
 "Account disputed. No discharge permitted." Arthur names the dead man in full.
 The page goes into the fault beneath the bar. "You're going to die for a
@@ -74,11 +74,11 @@ against a widow"); tells Tom "remember there was a man at the other end of the
 ink." Tom and Arthur go to Harcourt: Harcourt's bloodless menace ("Bell's
 confusion has cost me twice"), Arthur is offered — and takes — Bell's chair,
 witnesses Tom's contract; Tom signs. Five days later the coroner's finding:
-wilful murder by Silas Rook, whereabouts unknown; Harcourt absent; Mara
+wilful murder by Silas Rook, whereabouts unknown; Harcourt absent; Maria
 reduced to "foreign female, name uncertain"; Maggie forces one added sentence
 about the common table. "The ships go out. The boys sign."
 
-**Ch 3 — The Soot and the Roof (1603).** Mara's own night: she never uses the
+**Ch 3 — The Soot and the Roof (1603).** Maria's own night: she never uses the
 bed, folds the blanket precisely (bookkeeping, not gratitude), leaves Bell's
 page below by choice, exits over the lean-to roof barefoot (one print on sill,
 one in soot). Listens for the tide, evades the watch, freezes at a crane
@@ -86,7 +86,7 @@ shaped like Rook. At the river stairs Hendricks — in dock-Portuguese — offer
 to finish the dead clerk's plan: the man at the kerk (Dutch church), a timber
 boat. "Because the keeper stood in front of you." He does not watch her
 decide. Aboard the fluyt *De Hoop*, deacon Joos de Vries won't enter a lone
-woman passenger; Mara: "Write me as cargo. This time it is I who say so."
+woman passenger; Maria: "Write me as cargo. This time it is I who say so."
 Hendricks gives her Pieter's sea-wool coat and journal packet ("Learn the
 words... Then burn it, or keep it"), one pull of genever, and the warning:
 "Know them for wolves and you will do good business. Know them only for wolves
@@ -103,8 +103,8 @@ The girls learn: Name. Master. Thing. Authority. Receipt.
 
 **Ch 5 — The Language of Paper (1603–1604).** Amsterdam: customs turns *goods*
 into *dienstmaagd* (maidservant) — two strokes carry her from cargo into
-service, and Mara files the shape. Joos bonds her passage as servant to the
-surgeon's widow Lysbeth van Aalst and son Willem (7); Mara's three conditions
+service, and Maria files the shape. Joos bonds her passage as servant to the
+surgeon's widow Lysbeth van Aalst and son Willem (7); Maria's three conditions
 (full name entered, no advance, Pieter's packet her own property). The voyage
 teaches by subtraction; she learns Dutch numbers-before-mercy, wins the
 water-ration dispute by counting the rationer's pours (five entered as six),
@@ -113,7 +113,7 @@ Willem touches the packet; "Mine" — Lysbeth backs her ownership; grammar
 lesson: *van mij, eigen, toestemming*. Pieter's book read at last: the sailor's
 parts, then the margins — a hostage, a burned storehouse, two men struck from
 the ration list before dying — and the fever's refrain "*Make another.*" At
-Bantam Mara settles the twelve-sacks pepper dispute, wins meals + bolt + her
+Bantam Maria settles the twelve-sacks pepper dispute, wins meals + bolt + her
 name beneath every translation, and makes her first defiant duplicate for the
 broker Iskandar: "This one belongs to the man whose pepper it records."
 
@@ -129,7 +129,7 @@ chalked wager fades and is washed off. The bar is lengthened; Maggie has the
 joiner preserve the old length and its fault. "The ships keep the wage. I keep
 the leaving."
 
-**Ch 7 — The Teak Desk (1605–1612).** On day 31 Mara walks out of the Dutch
+**Ch 7 — The Teak Desk (1605–1612).** On day 31 Maria walks out of the Dutch
 loge — the factor's "protection" was the price of proving useful — and sets
 her own rate from a rented room above a scale-maker (bolt on her side).
 Translates a captured Portuguese victualling dispatch knowing it dooms the
@@ -239,7 +239,7 @@ purpose of producing an answer is already becoming a bargain") and lodges no
 hearsay in the fault: "Hearsay is not a true copy, however badly the heart
 wants to keep it." Jack's standing answer if Tom comes west: "Food first."
 
-**Ch 15 — The Intersecting Web (1614–1623).** Mara builds the network: second
+**Ch 15 — The Intersecting Web (1614–1623).** Maria builds the network: second
 teak desk to Aminah at Amboyna (who answers by raising the rate), the Makassar
 bookkeeper, the Masulipatam oilskin box, the Patani widow who memorises.
 Rules: she buys work, never people; pays even when news loses to the monsoon;
@@ -313,13 +313,13 @@ pay-office waiting room, the women's shared procedure, "Is examination the
 shelf behind you?"). Her creed: "Some accounts are kept because payment is
 coming. Some are kept so nobody can say nothing was owed."
 
-**Ch 20 — Batavia (1623–1626).** Mara moves the desk to Batavia and works
+**Ch 20 — Batavia (1623–1626).** Maria moves the desk to Batavia and works
 Daniel's release as arithmetic, not mercy: "A prisoner without a charge is not
 a prisoner. He is an unclosed entry... Close it while closing is cheap." The
 fiscal requires "an English signature and an English deck." Tom has spent
 fourteen months volunteering toward the harbour line; the English council
 prices Daniel below the dead ("Ten dead men make a massacre. Nine dead men
-and a witness under water make a proceeding"). Tom and Mara finally meet —
+and a witness under water make a proceeding"). Tom and Maria finally meet —
 "One long look. Not love. Recognition." Neither spends the other's name. He
 corrects his list to *Daniel Vale* at her desk. No rate: "Some work I pay for
 myself... There is a room in London that reads accounts truly... take him
@@ -356,28 +356,35 @@ back" — returns it to the gap, and pours Tom a pint: "given by the keeper to
 a man who did wrong, heard why, changed what he could and did not come home
 to perform the changing for applause."
 
-**Ch 22 — The South Land (1629–1630).** 1630 frame: Mara's packet reaches the
+**Ch 22 — The South Land (1629–1630).** 1630 frame: Maria's packet reaches the
 Pelican addressed in four hands "For the keeper of the Pelican, Wapping
-Wall." Flashback: 1628 Batavia, Mara finds Rook on the *Batavia* muster,
+Wall." Flashback: 1628 Batavia, Maria finds Rook on the *Batavia* muster,
 files the exact warning ("He is not to be placed over unarmed persons"); the
 white-cuffed factor annotates it "experienced disciplinarian... useful" — "You
 are making the danger into a qualification." She confronts Rook at the
 gangplank. The wreck (June 1629), Cornelisz's mutiny, Hayes's coral fort,
-Pelsaert's return on the *Sardam*; Mara translates exactly — corrects herself
+Pelsaert's return on the *Sardam*; Maria translates exactly — corrects herself
 mid-word from a verb of killing to "Carried," accepting the mother's hatred:
 "A true record that serves vengeance by changing one word is the same
 instrument with a different owner." She makes Rook hear Matthew Bell's name;
 argues against the island gallows — "A rope is an English mercy, Commander" —
 not as mercy: the warning must be read beside the dead before the Council.
 Rook's half-truth ("She wrote what I was and your gentlemen hired me with
-it... *Useful.* That is their word, not mine") is translated intact. The
-Council condemns him; the factor keeps his post — "Silas alone is made to
-contain the whole meaning of Silas, because a body can be punished and a
-method cannot." 1630, Wapping: Anne and her grown daughter read the letter;
+it... *Useful.* That is their word, not mine") is translated intact. Maria
+asks Pelsaert not for the rope but to put Rook ashore alone, without
+supplies, on an unnamed stretch of the South Land coast — a fate the
+record deliberately never resolves ("whether the South Land finished him
+in a week or kept him twenty years, no ledger will ever hold the entry").
+The Council confirms the sentence in his absence; the factor keeps his
+post — "Silas alone is made to contain the whole meaning of Silas, because
+a body can be put ashore and a method cannot." (Correction: the deployed
+chapter does not execute Rook — an earlier pass of this reference,
+sourced from the stale JDS mirror copy of this chapter, said it did.)
+1630, Wapping: Anne and her grown daughter read the letter;
 Anne on Silas knowing her name: "A name may be love in one mouth and leverage
 in another." The third paper joins the fault. Maggie's twin verdicts: "Do not
 steal Silas Rook's guilt to make our failure feel larger and therefore
-nobler," and "What Mara gave Silas was a sentence... Do not confuse it with
+nobler," and "What Maria gave Silas was a sentence... Do not confuse it with
 restoring the dead."
 
 **Epilogue — Last Orders (1635).** Tom, in his fifties, debt long closed, pays
@@ -400,6 +407,6 @@ the river... The ships go out. The boys sign. The Pelican pours."
 
 **Reference — The Wapping Twelve (book-one-character-bible).** In-world
 ledger of the twelve souls of the 1603 night, "the room's own" numbering,
-plus The Defendant (Mara), The Dead Man (Bell), and the Rupture-and-Mending
+plus The Defendant (Maria), The Dead Man (Bell), and the Rupture-and-Mending
 spine. Framed to be read "the way you would read the last page of a mystery:
 afterwards." All surnames but Rook's are declared the book's own invention.
