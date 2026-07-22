@@ -28,6 +28,12 @@ BLUETOOTH
   Menu > Bluetooth pairs headphones, mice, and phones.
   Audio goes to Bluetooth headphones automatically once paired.
 
+MOBILE BROADBAND (models with a SIM slot)
+  One-time setup — the modem needs firmware from your original
+  Windows driver disc:
+    sudo pocket-gobi-firmware /media/YOUR_DISC
+  Then reboot and connect via the network tray icon.
+
 EVERYDAY APPS                     (Menu, or taskbar buttons)
   Web, fast ....... NetSurf       Web, full ....... Firefox ESR
   Files ........... PCManFM       Text ............ Mousepad

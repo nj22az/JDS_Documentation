@@ -1,0 +1,70 @@
+#!/bin/sh
+# Gobi 2000 WWAN firmware installer — Pocket Linux / JDS-PRJ-SFW-003
+#
+# The Vaio P's optional mobile-broadband/GPS module has a native Linux
+# driver, but needs three firmware files (amss.mbn, apps.mbn, UQCN.mbn)
+# that Sony ships only inside the Windows driver package. This tool finds
+# them on your mounted Windows driver disc (or any extracted driver
+# folder) and installs them for gobi-loader.
+#
+#   Usage: sudo pocket-gobi-firmware /media/DISC_OR_DRIVER_FOLDER
+#
+# The files are Sony/Qualcomm property: they stay on this machine only
+# and must never be redistributed.
+set -eu
+
+FIRMWARE_DIR=/lib/firmware/gobi
+
+usage() {
+    echo "usage: sudo pocket-gobi-firmware <path to Windows driver disc or folder>" >&2
+    echo "hint:  if the disc only has installer .exe/.cab files, unpack first:" >&2
+    echo "         7z x WWAN_DRIVER.EXE -ounpacked   then point this tool at 'unpacked'" >&2
+    exit 1
+}
+
+[ "$(id -u)" -eq 0 ] || { echo "error: run with sudo" >&2; exit 1; }
+[ $# -eq 1 ] || usage
+search_root=$1
+[ -d "$search_root" ] || usage
+
+find_one() { # find_one filename  -> prints first match or nothing
+    find "$search_root" -type f -iname "$1" 2>/dev/null | head -1
+}
+
+amss_file=$(find_one amss.mbn)
+apps_file=$(find_one apps.mbn)
+if [ -z "$amss_file" ] || [ -z "$apps_file" ]; then
+    echo "error: amss.mbn / apps.mbn not found under $search_root" >&2
+    echo "The WWAN driver may still be packed inside an installer - see the hint:" >&2
+    usage
+fi
+
+# UQCN.mbn is carrier-specific; driver packages often carry several.
+uqcn_list=$(find "$search_root" -type f -iname 'uqcn.mbn' 2>/dev/null)
+uqcn_count=$(printf '%s\n' "$uqcn_list" | grep -c . || true)
+case "$uqcn_count" in
+    0) echo "error: UQCN.mbn not found under $search_root" >&2; usage ;;
+    1) uqcn_file=$uqcn_list ;;
+    *)
+        echo "Several carrier variants of UQCN.mbn were found:"
+        printf '%s\n' "$uqcn_list" | nl -w2 -s') '
+        printf 'Pick the number matching your region/carrier (generic UMTS if unsure): '
+        read -r choice < /dev/tty
+        uqcn_file=$(printf '%s\n' "$uqcn_list" | sed -n "${choice}p")
+        [ -n "$uqcn_file" ] || { echo "error: invalid choice" >&2; exit 1; }
+        ;;
+esac
+
+mkdir -p "$FIRMWARE_DIR"
+install -m 644 "$amss_file" "$FIRMWARE_DIR/amss.mbn"
+install -m 644 "$apps_file" "$FIRMWARE_DIR/apps.mbn"
+install -m 644 "$uqcn_file" "$FIRMWARE_DIR/UQCN.mbn"
+
+echo "OK: firmware installed to $FIRMWARE_DIR"
+echo "  amss.mbn <- $amss_file"
+echo "  apps.mbn <- $apps_file"
+echo "  UQCN.mbn <- $uqcn_file"
+echo
+echo "Reboot. Then check the modem appears:   mmcli -L"
+echo "Connect: network tray icon > Mobile Broadband (or nm-connection-editor)."
+echo "These files are licensed to your machine only - do not share them."

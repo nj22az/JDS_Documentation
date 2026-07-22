@@ -6,6 +6,30 @@ recorded here.
 
 ---
 
+## Rev D — 2026-07-22 — WWAN via owner's Windows-disc firmware
+
+**Scope:** make the optional Gobi 2000 mobile-broadband/GPS module work,
+using firmware from the owner's original Windows driver discs.
+
+- Clarified the principle in the docs: Windows driver *code* is never used —
+  all drivers are native Linux. The Gobi module is a pure *data* dependency:
+  three firmware files (`amss.mbn`, `apps.mbn`, `UQCN.mbn`) that Sony ships
+  only inside the Windows package.
+- Added the WWAN stack to the image: `modemmanager`, `usb-modeswitch`,
+  `gobi-loader` (uploads firmware at boot), `p7zip-full` (unpacks installer
+  `.exe`/`.cab` archives on the disc).
+- New **`pocket-gobi-firmware`** tool: point it at the mounted disc or an
+  extracted driver folder; it locates the three files case-insensitively,
+  prompts for the carrier variant of `UQCN.mbn` when several exist, and
+  installs to `/lib/firmware/gobi/` with next-step instructions (`mmcli -L`,
+  connect via the network tray icon).
+- Licensing guard: firmware is per-machine and never redistributable —
+  `*.mbn` added to the repository `.gitignore` so it can never be committed
+  by accident; warning printed by the tool and stated in README/reference.
+- Help page and hardware reference updated (WWAN/GPS rows now "works after
+  one-time firmware install"; step-by-step extraction guide added, including
+  the no-optical-drive note: use a USB DVD drive or copy the disc to USB).
+
 ## Rev C — 2026-07-22 — Driver completeness & hardware self-test
 
 **Scope:** close every driver/userspace gap found in a full audit of the

@@ -44,3 +44,6 @@ __pycache__/
 
 # safe-to-delete/ is for temporary review files — never commit generated outputs
 safe-to-delete/
+
+# Proprietary device firmware (Gobi WWAN etc.) — licensed per-machine, never redistributable
+*.mbn

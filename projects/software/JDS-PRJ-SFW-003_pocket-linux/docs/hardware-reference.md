@@ -21,8 +21,8 @@ Menlow: Atom Z5xx + US15W "Poulsbo" chipset), so one image serves both.
 | Storage | 1.8" PATA ZIF: 4200 rpm HDD or SSD | `ata_piix` / `libata` | Works. HDD is the single worst bottleneck in the machine — a ZIF SSD (or CF/mSATA adapter) is the best money you can spend on it |
 | Wi-Fi | Atheros AR9285 (802.11n) | `ath9k` | Works out of the box, **no firmware blob needed** |
 | Bluetooth | Alps/generic USB BT 2.1 | `btusb` + BlueZ userspace | Works — pairing via Menu > Bluetooth (blueman); audio routing via `pulseaudio-module-bluetooth` |
-| WWAN | Qualcomm Gobi 2000 (option) | `qcserial`/`qmi_wwan` | Needs proprietary firmware extracted from Windows drivers (`gobi-loader`). Out of scope for the base image |
-| GPS | Via Gobi module (option) | — | Same firmware caveat as WWAN |
+| WWAN | Qualcomm Gobi 2000 (option) | `qcserial`/`qmi_wwan` + ModemManager | Works after a one-time firmware install from the owner's Windows discs — run `pocket-gobi-firmware` (see below) |
+| GPS | Via Gobi module (option) | via WWAN stack | Available once the Gobi firmware is installed (NMEA port) |
 | Audio | Realtek ALC262 on Intel HDA | `snd_hda_intel` | Works (playback, mic, headphone jack) |
 | Ethernet | — (none; USB or dongle only) | — | Use any USB 2.0 adapter (`asix`, `r8152` supported) |
 | SD slot | Internal reader | `sdhci-pci` / USB storage | Works — FAT32/exFAT/NTFS userspace tools included for cards and Windows-formatted USB disks |
@@ -54,6 +54,30 @@ Menlow: Atom Z5xx + US15W "Poulsbo" chipset), so one image serves both.
 6. **Do not enable a compositor** (picom etc.) — every window pixel is pushed
    by the CPU through the unaccelerated framebuffer; compositing doubles the
    work for zero benefit at this DPI.
+
+## Mobile Broadband: Firmware from Your Own Windows Discs
+
+Windows driver *code* (`.sys`/`.dll`) cannot run on Linux and is never
+needed — every device in the matrix above has a native Linux driver. The
+single exception is a *data* dependency: the Gobi 2000 WWAN/GPS module boots
+from three firmware files (`amss.mbn`, `apps.mbn`, `UQCN.mbn`) that Sony
+ships only inside the Windows driver package. Extracting them from the discs
+you own, for the machine they came with, is the standard route; they are
+licensed per-machine and must never be redistributed (the repo ignores
+`*.mbn` as a guard).
+
+One-time setup, entirely on Linux:
+
+1. The Vaio P has no optical drive — mount the disc via a USB DVD drive, or
+   copy its contents to a USB stick on any other computer.
+2. Run `sudo pocket-gobi-firmware /media/<disc-or-folder>`. It finds the
+   three files anywhere under that path (case-insensitive), lets you pick
+   the carrier variant of `UQCN.mbn` if there are several, and installs
+   them to `/lib/firmware/gobi/`.
+3. If the disc only holds installer `.exe`/`.cab` files, unpack first:
+   `7z x WWAN_DRIVER.EXE -ounpacked`, then point the tool at `unpacked/`.
+4. Reboot. `gobi-loader` uploads the firmware automatically; check with
+   `mmcli -L`, then connect via the network tray icon → Mobile Broadband.
 
 ## Verifying Drivers on the Real Machine
 

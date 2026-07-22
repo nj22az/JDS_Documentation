@@ -62,6 +62,14 @@ dosfstools
 exfatprogs
 ntfs-3g
 
+# --- Mobile broadband (optional Gobi 2000 WWAN/GPS module) -------------------
+# The qmi_wwan/qcserial drivers are in the kernel; gobi-loader uploads the
+# firmware that pocket-gobi-firmware extracts from the owner's Windows discs.
+modemmanager
+usb-modeswitch
+gobi-loader
+p7zip-full
+
 # --- Applications ------------------------------------------------------------
 netsurf-gtk
 firefox-esr

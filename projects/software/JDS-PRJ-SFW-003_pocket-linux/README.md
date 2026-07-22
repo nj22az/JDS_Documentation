@@ -3,7 +3,7 @@
 | Field | Value |
 |-------|-------|
 | **Document No.** | JDS-PRJ-SFW-003 |
-| **Revision** | C |
+| **Revision** | D |
 | **Date** | 2026-07-22 |
 | **Status** | CURRENT |
 | **Author** | N. Johansson |
@@ -120,8 +120,10 @@ updates GRUB and the initramfs. Log in and run `startx`.
   undocumented; anything needing OpenGL is off the table.
 - **Suspend/resume** with gma500 is historically fragile — test on your unit;
   the safe habit is shutdown/boot (boot is fast).
-- **WWAN (Gobi 2000)** needs proprietary firmware extracted from Windows drivers;
-  out of scope for the base image (see hardware reference).
+- **WWAN (Gobi 2000)** needs a one-time firmware install from your own Windows
+  driver discs — run `sudo pocket-gobi-firmware /media/<disc>`; the full ModemManager
+  stack is in the image (see hardware reference). The firmware is licensed
+  per-machine: never redistribute it or commit it to this repo (`*.mbn` is gitignored).
 - **End-of-life horizon:** Debian 12 i386 LTS runs to ≈ June 2028. After that the
   successor plan is an antiX/Void i686 rebase — tracked in the CHANGELOG.
 
@@ -140,3 +142,4 @@ updates GRUB and the initramfs. Log in and run `startx`.
 | A | 2026-07-22 | Initial release: live-build config, tuning overlay, install script, hardware reference | N. Johansson |
 | B | 2026-07-22 | Usability layer: free theme/icon/cursor assets, wallpaper, start menu, shortcuts, tray applets, app defaults, trackpoint scrolling, built-in help | N. Johansson |
 | C | 2026-07-22 | Driver completeness: Bluetooth userspace stack, brightness keys, removable-media filesystems, microcode, diagnostics tools, `pocket-check` hardware self-test | N. Johansson |
+| D | 2026-07-22 | WWAN support: ModemManager stack + `pocket-gobi-firmware` extractor for owner's Windows-disc firmware; `*.mbn` repo guard | N. Johansson |
