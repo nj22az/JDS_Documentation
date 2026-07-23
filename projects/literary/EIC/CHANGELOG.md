@@ -4,6 +4,40 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-23c] (Narrator prolepsis pass deployed to main and live)
+
+### Added
+- `tools/inject_present_tense_pass.py`: the injection tool used to deploy
+  the 23-chapter present-tense pass — strips proposal scaffolding (header
+  comment, epigraph, Editorial notes footer) from each
+  `manuscript-editorial/*-present-tense.md` file, converts the remaining
+  markdown with `inject_live_reader_pages.markdown_body`, and replaces
+  the matching page body in a working copy of the compiled bundle.
+  Verified with a full round-trip: re-extracted the injected bundle with
+  `extract_live_reader.py` and diffed every touched chapter's real
+  extracted text against its source proposal before pushing.
+
+### Changed — deployed reader (author-directed exception)
+- All 22 numbered Book One chapters + epilogue updated in place with the
+  narrator-prolepsis fixes from the full rewrite pass. Word counts in
+  `omnibus-config.js` updated to match (net −565 words across Book One).
+  New bundle `app/index-pt24601.js` in `nj22az.github.io`; old bundle
+  removed. Pushed to `main` in both repositories.
+
+### Fixed — a real bug caught before it shipped
+- The first injection attempt used a scaffolding-strip regex that only
+  matched proposal files ending in a literal `---` rule before their
+  Editorial notes section. 16 of the 23 files (everything the background
+  agents wrote) instead go straight from body text to the heading with
+  just a blank line — for those, the strip silently no-opped and the
+  entire Editorial notes section would have been injected as visible
+  chapter text. Caught by comparing word-count deltas against expectation
+  before pushing (several chapters showed anomalous +200 to +800 word
+  growth from a few sentence-level edits); fixed by splitting on the
+  heading itself rather than requiring the preceding rule, and by adding
+  a hard assertion that no cleaned body still contains the words
+  "Editorial notes" before any chapter is injected.
+
 ## [2026-07-23b] (Narrator prolepsis: remaining 22 chapters)
 
 ### Added
