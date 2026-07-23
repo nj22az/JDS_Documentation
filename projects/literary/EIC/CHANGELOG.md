@@ -4,6 +4,34 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-23b] (Narrator prolepsis: remaining 22 chapters)
+
+### Added
+Extended the pilot below to the rest of Book One, per explicit instruction
+to continue past the single-chapter review. All 22 remaining deployed
+units (21 numbered chapters + epilogue) now have present-tense proposals
+in `manuscript-editorial/` as `<chapter-id>-present-tense.md`. Deployed
+reader and `manuscript-live-canon/` untouched.
+
+- 16 "Type (a)" chapters rewritten with the same delete/convert/relocate
+  patterns as the pilot. Two relocations verified against their actual
+  payoffs: the "with or without me" line cut from `02-1603-dutch-courage`
+  and confirmed present in `03-1612-the-return`; the Amboyna
+  torture-chamber "three years later" tell cut from
+  `22-1623-the-coral-room` and confirmed dramatized in
+  `02-1626-the-man-who-came-back-wrong` and `19-1625-batavia`.
+- 6 "Type (b)" survey chapters reviewed for the structural rebuild the
+  original plan called for; all six turned out already built as dated
+  present-tense vignette sequences, needing only light fixes (5 sentences
+  across 3 of the 6 chapters — `21-1611`, `09-1612` and `23-1622` needed
+  none). `24-1623-the-widows-years` had spoiled its own Section VI climax
+  in Section V; that line is cut.
+- Cross-book seed check: the genever/gin motif in
+  `02-1626-the-man-who-came-back-wrong` (named "Narrator prolepsis" in
+  `notes/outline-and-craft-plan.md`, seeding a later book's 1696 station)
+  converted rather than deleted, into a character's own hedged joke. The
+  Maria ten-names beat in `19-1625-batavia` confirmed untouched.
+
 ## [2026-07-23] (Narrator prolepsis: present-tense pilot chapter)
 
 ### Added
