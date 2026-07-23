@@ -4,6 +4,26 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-23] (Narrator prolepsis: present-tense pilot chapter)
+
+### Added
+- `manuscript-editorial/01-1603-the-boy-who-signed-present-tense.md`: Step 0
+  of the new narrator-flash-forward workstream — a complete present-tense
+  rewrite proposal for the deployed opening chapter, per the author's
+  ruling that Book One's narrator makes too many mid-scene flash-forward
+  statements ("narrator prolepsis") and the whole deployed book is in
+  scope for removing them, except the character bible / appendix-1b
+  (already self-declared retrospectives) and chapter epigraphs (left
+  alone). Six flash-forwards identified and repaired using the three
+  agreed patterns (delete / convert to character-subjective / relocate to
+  a later payoff); none needed relocation in this chapter. One repair —
+  the fate of Bell's two hand-copied pages vs. the surviving blood-marked
+  original — was cross-checked against the counter-ledger cross-book
+  thread in `editorial/continuity-web-and-cast-reduction.md` §H before
+  converting, so the Cache's founding object still lands correctly.
+  Proposal only; the deployed reader and `manuscript-live-canon/` are
+  untouched pending the author's read of this one chapter.
+
 ## [2026-07-22b] (Mara → Maria rework; continuity web design; deployed)
 
 ### Added
