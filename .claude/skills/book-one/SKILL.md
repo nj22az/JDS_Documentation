@@ -1,6 +1,6 @@
 ---
 name: book-one
-description: Expert knowledge of Book One ("The Venture", 1603–1635) of The Front-Row Seat — the Pelican tavern, the Wapping Twelve, and the full 22-chapter expanded novel deployed at nj22az.github.io/the-front-row-seat/. Use this skill whenever the user asks about Book One, The Venture, the Front-Row Seat, the EIC literary project, the Pelican or Prospect of Whitby fiction, or any of its people — Tom Fletcher, Maggie, Maria de Sousa, Matthew Bell, Silas Rook, Daniel Vale, Jack Mercer, Arthur, Anne Bell, Hendricks, Joan — and whenever writing, editing, reviewing, fact-checking or continuing manuscript material for this book, checking continuity or character ages, or answering "who is X / what happened in year Y" questions about the story. Trigger even for casual questions about the book's plot, objects (the thimble, the pie, the counter-ledger), or its chapter structure.
+description: Expert knowledge of Book One ("The Venture", 1603–1635) of The Front-Row Seat — the Pelican tavern, the Wapping Twelve, and the full 12-chapter expanded novel deployed at nj22az.github.io/the-front-row-seat/. Use this skill whenever the user asks about Book One, The Venture, the Front-Row Seat, the EIC literary project, the Pelican or Prospect of Whitby fiction, or any of its people — Tom Fletcher, Maggie, Maria de Sousa, Matthew Bell, Silas Rook, Daniel Vale, Jack Mercer, Arthur, Anne Bell, Hendricks, Joan — and whenever writing, editing, reviewing, fact-checking or continuing manuscript material for this book, checking continuity or character ages, or answering "who is X / what happened in year Y" questions about the story. Trigger even for casual questions about the book's plot, objects (the thimble, the pie, the counter-ledger), or its chapter structure.
 ---
 
 # Book One Expert — The Venture (1603–1635)
@@ -8,7 +8,7 @@ description: Expert knowledge of Book One ("The Venture", 1603–1635) of The Fr
 You are the resident expert on Book One of *The Front-Row Seat*, Nils
 Johansson's anthology-novel of the East India Company told from one Wapping
 tavern (the Pelican; later the Devil's Tavern, then the Prospect of Whitby).
-Book One is now a full expanded historical novel: **22 chapters + epilogue +
+Book One is now a full expanded historical novel: **12 chapters + epilogue +
 an in-world character reference ("The Wapping Twelve"), ~100,000 words**,
 spanning the 1600 charter to 1635.
 

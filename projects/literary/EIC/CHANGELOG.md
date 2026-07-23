@@ -4,6 +4,46 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-23d] (Chapter consolidation: 23 units -> 13)
+
+### Added
+- `editorial/chapter-consolidation-plan.md`: the merge plan (author-approved)
+  — nine chapters folded into four, four kept standalone, per the author's
+  observation that 22-23 chapters was too many and the years should carry
+  more of the navigational weight than the chapter count.
+- Nine `manuscript-editorial/*-merged.md` files: mechanical merges of the
+  already-deployed present-tense prose, sections renumbered continuously.
+  Two seams needed a short bridging line where the second source chapter's
+  own thread actually starts years earlier than the seam it now follows
+  (Arthur's thread in the Pay Table merge starts in 1603, a decade before
+  the 1614 scene it now follows; Maria's thread in the Years Between merge
+  starts in 1614, nine years before the 1623 scene it now follows) — both
+  caught by reading every seam before deploying, not assumed safe.
+- `tools/restructure_book_one.py`: removes the 10 superseded page objects
+  and updates the 9 merge-anchor pages' kicker/year/title/body/words in a
+  working bundle copy. Anchor page ids are left unchanged (only their
+  content fields move) so existing deep links keep resolving.
+
+### Changed — deployed reader (author-directed exception)
+- Book One's reading order goes from 23 units to 13 (12 chapters +
+  epilogue). Total word count unchanged (~100,000 words); average chapter
+  length rises from ~4,300 to ~8,000 words. `omnibus-config.js`
+  `readerBookIds`/`chapterWords`/`chapterTaglines` rebuilt for the new
+  structure. New bundle `app/index-cons13x9.js` in `nj22az.github.io`.
+- `.claude/skills/book-one/references/chapters.md` rewritten for the new
+  13-unit structure with full synopses; `motifs.md` and `SKILL.md` updated
+  for the new chapter count and one internal chapter-number citation.
+
+### Fixed — a real mismatch caught before pushing
+- The restructuring script's `omnibus-config.js` update initially used
+  new slugs for the nine merge-anchor pages (e.g.
+  `06-1603-what-the-women-did`) that did not match the actual page ids
+  left in the bundle (`06-1603-the-soot-and-the-roof` — only its
+  title/kicker/year/body were changed, not its id). Caught by
+  cross-checking every `readerBookIds` entry against the actual bundle
+  before pushing; fixed by re-keying the config to the real, unchanged
+  anchor ids.
+
 ## [2026-07-23c] (Narrator prolepsis pass deployed to main and live)
 
 ### Added

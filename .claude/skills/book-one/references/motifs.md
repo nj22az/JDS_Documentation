@@ -103,7 +103,7 @@ her own — "What she chooses to put there will belong to her time."
 ## Themes (what the book is arguing)
 
 1. **A room can beat a bully; no room has ever stood up to a paper.**
-   (Hendricks, Ch 2.) The 1603 trial is the one victory; everything after
+   (Hendricks, Ch 1.) The 1603 trial is the one victory; everything after
    measures what paper does that fists cannot.
 2. **A verdict is not the same as justice.** The room saves Maria AND lets
    Rook go; both accounts stay open for thirty years. Never let one cancel
