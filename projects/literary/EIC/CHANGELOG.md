@@ -4,6 +4,28 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-23e] (Reader year-display fix)
+
+### Added
+- `tools/fix_year_display.py`: moves the chapter year into the Contents
+  overview's visible label line ("CHAPTER ONE · 1603") and strips the
+  redundant leading bold-year line from every epigraph.
+
+### Changed — deployed reader (author-directed)
+- The year was showing three times on the chapter page (grey metadata line,
+  a bold line at the top of the epigraph, and the attribution date) and was
+  effectively invisible in the Contents overview — a faint `#8e8e93` number
+  at 0.9rem pinned to the row's right edge next to the chevron, unreadable on
+  a phone. Fix: (1) overview renders the year in the kicker label line where
+  the eye lands, faint right-edge span removed; (2) the leading
+  `<p><strong>YEAR</strong></p>` stripped from all 25 epigraphs across all six
+  books for consistent styling. The grey metadata year (the single clean
+  instance) and the attribution date (a natural citation — and for several
+  chapters a deliberately *later* year, e.g. the Pay Table epigraph attributed
+  "Jack Mercer, Deptford, 1626") are kept. Chapter bodies byte-identical;
+  verified page count (38) and JS syntax before push. New bundle
+  `app/index-yr7k2p.js`.
+
 ## [2026-07-23d] (Chapter consolidation: 23 units -> 13)
 
 ### Added
