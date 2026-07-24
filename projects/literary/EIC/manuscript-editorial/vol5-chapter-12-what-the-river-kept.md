@@ -223,6 +223,26 @@ Su does not ask him about it. Not once, in the thirty-one years she has left wit
 
 She has, after all, a fog of her own.
 
+The twenties are hard on that reach in a way the war was not, and Su, who has now watched three separate decades try to shut her family's shop, watches this one come closest.
+
+The trouble is the docks. It is always the docks. Men are taken on by the half-day at the gate, in a crowd, by a foreman pointing, and in a bad year the pointing goes on for four minutes and then stops with three hundred men still standing there — and every one of those three hundred has a household, and every household has washing, and washing is the first thing a household stops paying for and the last thing it starts again.
+
+The shop's slate in 1922 is the longest it has been since 1888. Su carries it. She carries it the way her mother carried Catherine's, on the working assumption that people mean to pay and that a debt never quite settled is its own kind of relationship, and she is proved right about roughly two-thirds of it, which is a better return than any bank on the Highway was getting that year.
+
+In the May of 1926 the whole thing stops for nine days.
+
+Su has no politics, has never had any, and would tell you, asked, that a woman with a copper to draw has no time for a view. What she has instead is a shop on a street where every third household has a man out, and what she does for nine days in May is what her mother did in every crisis of her own forty years: opens at six, stops charging for anything under a penny, and says nothing whatever to anybody about the rights of it.
+
+Her son is out for the nine days with the rest of his depot. He comes home on the fourth evening and sits in the chair opposite his father's and says one sentence about it, which is that it will not work.
+
+Erik, who has four weeks left to live and does not know it, says: no.
+
+But it wants doing, her son says.
+
+Yes, says Erik.
+
+That is the entire political discussion ever conducted in that room in forty years. Su, at the counter with the book, does not look up, and has remembered every word of it since.
+
 ## V. What the Papers Still Ask
 
 The case is never solved. Su reads every fresh theory the papers print about it across the following decades, out of a discipline she has never fully explained to herself, whenever a new writer decides the old autumn is worth another column — a doctor this time, a foreign sailor the next, a madman committed quietly by a family with means, a policeman's private confession printed thirty years after the fact by a paper glad of the circulation. She lays every theory against the private ledger she has kept since a November morning in 1888 and finds, every single time, the same answer waiting for her at the bottom of the sum.

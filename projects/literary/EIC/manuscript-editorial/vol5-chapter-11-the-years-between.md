@@ -284,6 +284,30 @@ She never once says any of this to him. He never once says it to her. They are, 
 
 On his slack-tide Sundays home from the sea he rows her out on the same stretch of river that took her family across the world as freight, that drowned her question and has never once been asked to answer it, that gave her Elisabeth's grief to understand and Catherine's ending to grieve without ever knowing — and the water, which has taken everything this house has ever fed it, going all the way back to a white bowl and a boy who said *Run* on a Hong Kong pier, gives the two of them back, in exchange, one clean hour with nothing owing in it either direction. It is not much of a bargain, set against everything the river has taken. Su comes to think, over the years, that it is exactly the bargain the river has always been prepared to offer, and that the trick of a whole life is learning to take the hour and stop totting up the rest of the account.
 
+The children are three separate countries and Su has never once been able to govern any of them by the same set of laws.
+
+The eldest is her grandmother's, from about the age of four, comprehensively and without any of the three adults involved having the smallest say in it. She follows Sau-Ling round that shop from the moment she can walk, learns the counter before she learns her letters, and acquires — this is the thing that undoes Su every time she thinks about it — her grandmother's exact private English, the nine-hundred-word dialect with the tenses knocked out of it, which she speaks fluently at six and is astonished, at school, to discover nobody else does. She spends most of her seventh year translating between two versions of the same language for customers who cannot understand one and have no idea there are two.
+
+The boy is his father's and is at sea in his head from the age of five. He has the Baltic amber off the sill in his hand so often that Su eventually stops putting it back and simply lets him keep it in a pocket for two years, on the understanding that it lives on the sill and is only visiting. He wants the manifest recited. Not read to — recited: the ports, the cargoes, the eleven days in Port of Spain, his grandmother in the barrack rooms, the misspelt stone on the coast outside Stockholm. He gets it perhaps forty times between five and twelve and can do the whole thing himself at nine, in his father's flat voice, which Erik hears once, from the next room, and does not comment on to anybody.
+
+The third is nobody's. She is watchful from birth in a way that unsettles her own mother, and she does not talk until she is nearly three and then talks in whole sentences, and she takes to the listening — the crossed wrists, the twelve minutes of nothing — faster than any of them, at six, without being taught, by putting her arm against her grandfather's at the wall in a blanket. Su has never worked out where she came from. She has decided, in old age, that this is simply what a third child is: the one the family has stopped having a theory about by the time it arrives, and who therefore gets to be itself.
+
+All three go to the mission school and all three are the only Chinese in it, and all three come home with the same set of experiences in a different order, and Su handles it the same way every time, which is badly, and knows it.
+
+What she says is: you will have to be better than them.
+
+What her mother says, the one time she is present for it, is: no, she will not, she will have to be *better than that*, which is not the same thing at all — and Su, who is thirty-one and has three children and a shop and a father in the yard, is put back to about the age of nine by a single sentence at her own counter, and thinks about it for the next forty years, and has never entirely decided which of the two of them was right.
+
+They all stand in the yard. That is not negotiable and is never presented as negotiable and none of the three of them ever thinks to ask why, because by seven they have watched it every morning of their lives and being finally allowed to is a promotion.
+
+What they do not get, and what Su notices only when the eldest is about nine, is the thing she herself got, which is thirteen years of standing beside a person for whom the whole apparatus was still, in some part of him, load-bearing.
+
+Wei learned it in a family that had lost a courtyard to a war. Su learned it from him in a house two streets from the Strangers' Home in the decade of the terrible autumn. Her children are learning it in a chandlery in Limehouse from a mother who runs a solvent business, in a country their grandmother's English cannot manage and their own is native in, and for the three of them it is — Su can see this happening and cannot prevent it and eventually decides she does not want to — an inheritance rather than a necessity.
+
+She thinks about this a great deal in the middle of her life and arrives at a position she never states to anybody, which is that a family gets exactly one generation in which the art is a tool and every generation afterward in which it is a discipline, and that the whole point of the first generation's work is to produce the second kind, and that it is nevertheless a loss, and that both of those things are true at once and neither cancels the other.
+
+Her father would have had a sentence for it. She is fairly sure the sentence would have been: good.
+
 The letters are their own institution and outlast both of them.
 
 Erik writes about four times a voyage, from wherever a ship's mail can be got off, and the letters are exactly what a manifest would be if a manifest could be fond: the port, the cargo, the weather in one clause, the state of two named shipmates, and one thing seen. Always one thing seen. A whale off the Skagerrak. A church in Riga with a green roof. A man in Danzig who could juggle four eggs and had, so far as Erik could establish, no other means of support whatsoever.

@@ -82,6 +82,16 @@ Down the lane there is only dark where the woman went. Su never learns her name,
 
 Su goes to the edge of the wharf and looks down, breathing hard, tasting the fog and, under it now, her own blood where her teeth found her lip and she never felt it. There is only moving dark and the fog lying on it and nothing reaching back up; the fast water has already closed over the place. Then, and not before — before would have got her killed — she starts to shake. His grip is stamped into her collarbone in bruises that will take three weeks to fade, and she will wear high collars every one of those days, and her mother will notice, and say nothing, because Sau-Ling Zhang keeps her own ledgers and knows an entry that isn't hers to read. She stands in the fog until the shaking is a thing she is doing and not a thing being done to her. Then she gathers the spilled linen back into the basket by feel, the cold mud on every piece of it, because it is hers, and because there is one thing left in this lane she has not yet done.
 
+She got perhaps three seconds of the woman and has spent sixty years on them.
+
+Dark clothes; something over the head that came off in the struggle and was not picked up; a shape rather than a face, and no colour to anything, because there was no colour to anything in that lane that night. The one thing Su has, and has never been able to make into anything, is the sound the woman made going past her — not a scream and not a word, a single hard indrawn breath, the noise a person makes when the thing that was happening has stopped happening and the body finds out about it before the mind does.
+
+She did not stop. She should not have stopped. Su has never once, in the whole of her life, wished that she had stopped, and has wished about four thousand times that she had turned her head.
+
+Whoever she was, she went up that lane and into a city of five and a half million people and was never, so far as any record Su has ever been able to consult can establish, connected to that night by anybody. No statement. No inquest. No paragraph. She would have had every reason in the world to say nothing — a woman out at that hour in that autumn, who had been under a man's hands and got away, and who would have had to explain, to a police station full of men, what she had been doing there.
+
+Su has thought about her every year of her life. Not often; once or twice, the way you think of a person you owe something to and cannot pay. She has hoped, in a general and unfoundable way, that the woman got old.
+
 She stands there a long time. She could not afterward say how long and has always suspected it was under two minutes, because everything that night was under two minutes and her sense of it has never once agreed with the arithmetic.
 
 The fog does what fog does, which is nothing. The river does what the river does. Somewhere off toward the Pool a ship's bell goes twice, and a dog starts up behind a fence and is told to shut up by somebody who has heard nothing whatever out of the ordinary this evening and is only annoyed about the dog.

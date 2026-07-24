@@ -174,6 +174,22 @@ The rest of the day's linen goes where the rest of it always goes: to the river,
 
 She shifts the basket, and turns down toward the water, and does not yet know — how could she; it is summer, and the worst thing in the paper is still the drains — that of all the doors on the river the one she is walking toward is the one where the whole of the coming autumn is already sitting, on its usual stool, drinking its two brandies, asking after her mother's chest with what sounds exactly like kindness.
 
+The round takes two hours and ten minutes in fine weather and Su could walk it with her eyes shut, and the order of it has not changed since she was fourteen, because the order is not arbitrary: it is the shortest walk that gets the heaviest baskets off her first and finishes within sixty yards of the Prospect, where the shop's chit is settled.
+
+Out of the yard and left. Two houses on the Causeway itself — a ship's cook with four shirts a week who pays on the nail, and a widow who takes in two lodgers and whose washing is therefore three people's and is charged as two, an arrangement arrived at in 1882 and never once mentioned since by either party.
+
+Then Pennyfields, where the round is Chinese for four stops together, and where Su speaks nothing but Cantonese for eleven minutes and comes out of it, every single time, feeling faintly and unaccountably rested, in a way she has never examined and would not know how to describe.
+
+Then the Strangers' Home, which is the largest account the shop has and the one that keeps it solvent — a great barrack of an institution off the West India Dock Road for Asiatic and African sailors, with a chapel and a reading room and beds for two hundred, and a linen requirement that does not care what the weather is doing. The porter knows her. The linen goes in against a chit. In the long bare room off the entrance there are men from Bombay and Aden and Canton and Zanzibar sitting about between ships, and Su has walked through that room twice a week since she was twelve, and has heard in that time a fair proportion of the languages spoken on the surface of the earth, and has learned to say *good morning* in eleven of them and nothing else at all in any.
+
+Then Narrow Street, and the two public houses that send their table linen, and the ropewalk foreman's house, and the eel shop.
+
+Then the sufferance wharf, and the four houses behind it, one of which will want a delivery on a Thursday evening in November in a fog.
+
+Then back along the Wall to the Prospect with the last basket and the book.
+
+She does the whole of it with the basket on her right hip going out and her left coming back, changing sides at the Strangers' Home, which is the halfway point, and which she reached at the same minute of the same hour for six years without ever once owning a watch.
+
 The shop's day is a machine and Su is most of the moving parts of it.
 
 It starts with the copper, which is the whole business in one object: a great riveted vessel set in brick with a fire-hole under it, filled by hand from the yard tap two buckets at a time, and drawn — that is, lit — at ten past five, because the water wants an hour and a quarter to come up and the first sorted load wants to go in at half past six and not a minute later or the whole day runs behind itself until dark.

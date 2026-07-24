@@ -95,6 +95,32 @@ Su grew up in a house with a debt on a high shelf that could never be paid and a
 
 She thinks of the boy on the pier more than she says. Thirteen, fourteen, a ledger under one arm, gone back into a crowd before the debt could even be offered, let alone paid. Whoever he grew into, wherever the years took him, he is entered — she is quite sure of this, has been sure of it since she was old enough to understand what her father was actually telling her, twice a year, in the two different registers of joke and prayer — in some column her father keeps that has nothing to do with money at all, and everything to do with the one rule that came before the other three, the one the boy already knew before anybody had troubled to write it down: that a debt run up in a good cause does not need to be collected to be real.
 
+There is a piece of her father's life between the ship and the shop that Su has never had more than the outline of, and she has come to believe the outline is all there is, because a man who will tell you about nineteen dead on a passage and an afternoon spent counting to ten in four languages is not a man withholding the interesting parts.
+
+He was four years on the rope walks and the chandlers' benches. He learned English out of it the way everybody on that reach learned it, which is by being shouted at and getting it wrong for eighteen months, and he learned it so specifically off the water that for the whole of his life his English will have a vocabulary of about four thousand words of which perhaps six hundred concern rope.
+
+He taught nobody in those four years. That is the piece Su has asked about most and got least from. Four years in a strange country with the whole of a courtyard in his head and no yard, no student, no dawn — nothing but a bed in a lodging house on the Highway and twelve hours a day of splicing.
+
+She asked him at seventeen whether he had kept the form up.
+
+Some, he said.
+
+Where?
+
+And her father said, in the tone of a man giving a location and not a confession: in the bed.
+
+He explained it once and never again. That a person can do a very great deal of the work lying still in the dark in a room with three other men in it, if they know it well enough — the breathing, the intention, the whole shape of a movement run through without the movement — and that four years of doing it that way had taught him one thing he could not have learned any other way, which was exactly how much of the art was in his arms and exactly how much was not.
+
+He got the yard in 1873, with the shop, with the marriage, in a single arrangement that Su has always suspected was more consecutive than the family's telling of it allows.
+
+He drew a line on the flagstones the first week with a bit of chalk from the ship's chandler's, six paces by four, and stood in it, and has stood in it every dawn for fifteen years by the time this book begins, and the chalk line is long gone and the six paces by four have not moved an inch, because a person who has stood in a rectangle for fifteen years does not need it drawn.
+
+Su was born in it, more or less. She was in a basket at the wall at four months old because there was nowhere else to put her at half past four in the morning, and she has been told this so often by so many people that she has a perfectly clear memory of it which is, of course, not a memory at all.
+
+She began at seven, on a Tuesday in the October of 1876, and can tell you the day of the week and not the date, and remembers exactly two things about it: that the flagstones were colder than she had expected through her shoes, and that when she asked her father what it was for he did not answer.
+
+He did not answer that question for six years.
+
 ## II. The First Time
 
 Su is fourteen the first time she uses the art in earnest, and she remembers it now, this September, the way you remember a tool you have not needed in years and hope you will not need again — not with fear, exactly, but with the specific attentiveness of someone checking a blade is still where they left it.
