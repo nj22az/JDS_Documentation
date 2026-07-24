@@ -194,55 +194,55 @@ She confronts Tanner without allowing either of them to erase Elias, Caleb or th
 
 ## Part III — The Commission
 
-### Chapter 18 — A New Galley — 3,200 words
+### Chapter 18 — A New Galley — 3,100 words
 
 The chronology briefly returns to spring 1696. Nathaniel, then an early lodger of Esther's, takes working passage aboard Kidd's vessel and intends to sign the final articles in New York. He joins because the vessel is new, the patrons are powerful, and the commission appears safer than ordinary merchant service. The *Adventure Galley* should be rendered through practical marine detail: a hybrid of sail and oar, built quickly, expensive, and impressive enough to make risk look like advancement.
 
 The dossier's "rotting ship supplied deliberately" idea is rejected. The ship was newly built. The institutional trap is stronger when it is contractual: costs, prize expectations, impressed or lost crew, no profitable targets, and patrons who can later deny the venture.
 
-### Chapter 19 — Men Taken for the King — 3,100 words
+### Chapter 19 — Men Taken for the King — 2,900 words
 
 Royal Navy pressure strips away men or threatens to do so despite Kidd's commission. Nathaniel watches one arm of the state damage a venture authorised by another. Kidd protects his remaining crew by flight, creating the report that first teaches official paper to call him pirate.
 
 Details of the impressment episode must be established from a reliable Kidd chronology before drafting.
 
-### Chapter 20 — Shares Instead of Wages — 3,200 words
+### Chapter 20 — Shares Instead of Wages — 3,000 words
 
 The crew's bargain is explained through a quarrel over one dead man's entitlement, not exposition. If profit depends upon prizes and there are no prizes, every day at sea converts obedience into debt.
 
 Nathaniel writes Esther a letter that begins confidently and ends by asking whether his room could be held another quarter.
 
-### Chapter 21 — The Pump Watch — 3,300 words
+### Chapter 21 — The Pump Watch — 3,200 words
 
 Disease, tropical damage, leaking seams, and continuous pumping make the new ship age with unnatural speed. Nathaniel's practical knowledge lets the reader feel the difference between a vessel that was rotten when launched and a vessel consumed by hurried construction, hard service, heat, worm, and delayed repair.
 
 The supply manifests reveal cheapness and optimistic accounting, not a secret plot to poison the crew. Human decisions remain blameworthy without inventing sabotage.
 
-### Chapter 22 — The Lousy Dog — 3,200 words
+### Chapter 22 — The Lousy Dog — 3,100 words
 
 William Moore urges an unlawful attack. Kidd refuses, the quarrel exposes the venture's economic ruin, and Kidd kills Moore with the iron-bound bucket. Nathaniel helps carry Moore below and hears Kidd rely upon his friends in England.
 
 Jonah’s warning returns through action: Kidd reaches mentally for patronage after his own hand has made the body.
 
-### Chapter 23 — The Lawful Prize — 3,300 words
+### Chapter 23 — The Lawful Prize — 3,200 words
 
 The taking of the *Quedagh Merchant* is not filmed as simple triumph. Flags, language, ownership, charter, and French passes produce different legal truths depending upon who is asking. Nathaniel sees the passes and understands enough to recognise their value, not enough to predict their disappearance.
 
 The Armenian merchants, Indian owners, English captain, French protection, Kidd's commission, and Mughal political interest must all remain visible. "French papers therefore innocent" is too simple; "English captain therefore piracy" is equally simple.
 
-### Chapter 24 — The Captain's Cabin — 3,100 words
+### Chapter 24 — The Captain's Cabin — 3,000 words
 
 Kidd makes copies and seals the originals. Nathaniel assists because his hand is legible. The dramatic tension comes from ordinary acts—drying ink, matching an enclosure number, folding without tearing a seal—while the crew celebrates outside.
 
 Kidd assumes that proof speaks for itself. Nathaniel begins to understand that proof speaks only when a powerful person permits it into the room.
 
-### Chapter 25 — Saint Mary's — 3,300 words
+### Chapter 25 — Saint Mary's — 3,100 words
 
 Most of Kidd's men abandon him for Culliford. Nathaniel must choose between the plainly piratical safety of the larger company and the legal fiction of loyalty to Kidd. He remains, partly from honour and partly because changing sides in front of witnesses would destroy the story he tells himself.
 
 The current compressed seed's unidentified "Company man" taking the passes should not be treated as established history. The expanded novel will instead follow the documented transfer of Kidd's papers towards Bellomont and London, adding fictional handling only where it does not falsely turn the East India Company into the Admiralty.
 
-### Chapter 26 — Fenner — 3,300 words
+### Chapter 26 — Fenner — 3,400 words
 
 In 1699 Kidd trusts Bellomont and is arrested. Nathaniel escapes the first sweep and takes the name Fenner. A letter reaches Esther with no signature but a private phrase from their pre-departure bargain over how long she would hold his room.
 
