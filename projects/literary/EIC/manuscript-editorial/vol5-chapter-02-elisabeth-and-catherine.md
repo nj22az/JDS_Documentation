@@ -31,6 +31,40 @@ Su's father crossed his ocean with a bundle and a white bowl. Elisabeth crossed 
 
 What Elisabeth brings is never much. A bodice that has to last and is being made to. A shawl gone thin. Once, memorably, a christening-gown, yellowed, far too fine for anyone Elisabeth could have a claim on now, that she wanted brought back to white and would not say whose it was, and paid for out of a knotted corner of cloth in coin so small and so warm it had plainly been carried against her the whole walk over, and left with, folded in paper, holding it against herself in both arms on the way out the way you hold a thing and not a parcel. Su washed it as though it were only a christening-gown. It was not only a christening-gown. Su has learned, at that counter, that almost nothing that comes across it is only the thing it is.
 
+The christening-gown took four days.
+
+Su did it herself, in the evenings, after the shop was shut, because it was not work you could do beside a copper with three other things going — a hand-run gown of a fineness nobody on that reach had any business owning, thirty years old at least, the lace at the yoke worked by somebody who had been paid properly for their time. It had gone the colour of weak tea all over, evenly, which is what white linen does when it is put away clean and left, and it had one small brown mark below the left shoulder that was not dirt and never came out and never would.
+
+She did it the slow way. Cold soak, changed twice. Then lemon and salt and the little sun there was, laid out on a sheet in the yard where her father does the form, four mornings running, turned every hour, which is a thing Su has done perhaps six times in her life and only ever for something that could not be replaced.
+
+On the fourth evening it was white. Not new-white; the honest white of a thing that has been forty years in a drawer and has been persuaded, gently, to admit it. Su folded it in clean paper and tied it with tape and put it under the counter, and when Elisabeth came for it the following Monday she opened the paper right there at the counter in front of everybody, which she should not have done and clearly could not help, and looked at it for a long moment without touching it.
+
+Then she said, in the soft English: how much?
+
+Su told her. It was the ordinary price of four evenings, which is to say it was nothing like four evenings.
+
+Elisabeth undid the knotted corner of cloth and counted the small warm coins out onto the counter, all of them, and there were not enough, and she looked at what there was and then at Su and did not say anything at all.
+
+That's the price, Su said.
+
+It is not, Elisabeth said.
+
+It is today, Su said, and swept the coins into the drawer before either of them could get any further into it, and gave her the parcel, and Elisabeth went out with it held against her in both arms the way you hold a thing and not a parcel, and neither of them ever mentioned it again for the rest of Elisabeth's life.
+
+Su has thought about the brown mark below the left shoulder perhaps four hundred times since.
+
+There is a Monday in the June when a constable puts his head in for his collars while Elisabeth is at the counter.
+
+It is nothing. He is a large placid man who has been coming for his collars for six years and who says the same four things every week and is fond of Sau-Ling in the manner of a man who has decided that being fond of somebody's mother is a reasonable substitute for learning their name. He nods to Elisabeth. Elisabeth nods to him.
+
+But Su, half turned to the rack with a ticket in her hand, hears it happen: the English going flat and clipped and careful, every soft corner filed off it in the space of a single sentence, the country underneath packed away so fast and so completely that a person who had not heard the other version four hundred times would never in their life know there had been another version.
+
+He gets his collars. He goes. The bell rings shut behind him.
+
+And Elisabeth's voice comes back — all of it, the whole soft weight of it — in the middle of the very next sentence, on the word *Thursday*, and she does not appear to notice that she has done it, and Su does not say a word.
+
+Su knows that trick to the bone. Su has been doing that trick since she was five years old. There is a version of her own voice for a customer and a version for her mother and a version for a man from the customs and a version for the mission-church minister, and she moves between them without deciding to, and has never once in her life discussed it with another living soul, and now she has watched a tall Swede do the identical thing across four feet of counter in the space of a June afternoon and neither of them has said anything about it and neither of them ever will.
+
 She does not know what Elisabeth does.
 
 This is the plain fact of that summer, and Su will turn it over for the rest of her life. She knows Elisabeth is poor, because everyone who comes off the Whitechapel Road on their own feet is poor; she knows the coin comes warm and late; she knows there is no man's shirt in the bundle, ever, which on this street can mean a dozen things and which Su, nineteen and busy and fond of her, files under none of them. What Elisabeth does after dark to put the small warm coins in the knotted cloth, Su does not ask, and Elisabeth does not offer, and the shop keeps day hours, and so the two of them meet only ever in the daylight half of Elisabeth's life, which is the half with the christening-gown in it, and the soft English, and the Swede's straight back, and not the other half at all. Su is not being a child about it. She is being a daughter of the day, with a copper to tend and a father's hands to watch failing, and it simply does not cross her mind that a woman she likes this much is out, on the nights Su bolts the shop, in the exact dark the whole city is about to learn to be afraid of.
@@ -49,7 +83,7 @@ She says it often, to whoever is in the shop, the way a person says the thing th
 
 Some stories are load-bearing. Su understands this to the marrow, being the daughter of a man who keeps a bowl on a shelf he is not allowed to use and a woman who keeps a God she cannot make balance. A person is allowed one story that holds the roof up, and it does not have to be true to hold the roof up; it only has to be carried. Whatever really happened to Elisabeth on the far shore of her ocean — whatever she left there, whatever left her — she has folded it, for public wear, into a shape the neighbours can hold: a clean, nameable, enormous grief with a date on it and a band still playing. The true one, Su thinks, must be the kind you cannot wear in the street. She does not know she is right. She will find out she is right in exactly the way you least want to be proved right about a friend, and by then it will be four years too late to tell her so.
 
-On the last Monday of the summer Elisabeth comes with almost nothing — a collar, a bit of lace, a thing that is barely worth the walk — and Su understands, without either of them saying it, that the collar is an excuse and the walk was the point, that Elisabeth has come to stand for a quarter of an hour in the one shop on the whole reach where she is met in daylight and read kindly and asked nothing. Su gives her the quarter of an hour. She irons the collar she does not need to iron. Outside the window the summer is going gold and long, and the worst thing in the newspaper folded on the counter is a quarrel about the drains, and the two of them stand in the steam and the soap-smell and are, for the last time either of them will ever know it, entirely ordinary.
+On the last Monday of the summer Elisabeth comes with almost nothing — a collar, a bit of lace, a thing that is barely worth the walk — and Su understands, without either of them saying it, that the collar is an excuse and the walk was the point, that Elisabeth has come to stand for a quarter of an hour in the one shop on the whole reach where she is met in daylight and read kindly and asked nothing. Su gives her the quarter of an hour. She irons the collar she does not need to iron, and the iron goes over it the way it goes over everything, in long even passes with a wrist that has stopped registering the weight of the thing at all — eight pounds of hot metal handled the way a person handles a spoon, because a body that has been made to carry worse than eight pounds, morning after morning, for thirteen years, stops being able to tell you that eight pounds is a weight. Outside the window the summer is going gold and long, and the worst thing in the newspaper folded on the counter is a quarrel about the drains, and the two of them stand in the steam and the soap-smell and are, for the last time either of them will ever know it, entirely ordinary.
 
 Take care of yourself, Elisabeth says at the door, in the soft English, the country coming up under it for a second the way the river comes up under the fog.
 
@@ -65,6 +99,28 @@ She is small where Elisabeth is tall, quick where Elisabeth is straight-backed a
 
 She calls Su duchess, for no reason anyone in the shop has ever been able to trace to its source. Su asked her once, straight out, where it came from, and Catherine considered the question with the enormous seriousness she gives to things that do not deserve it, and said that Su stood at that counter like she owned the whole reach and was only lending it out for the afternoon, and that a woman who stands like that is a duchess whatever the parish register says, and that was the end of the matter and has been the end of the matter every Monday since. Su has stopped minding it. She has, if she is honest with the ledger she keeps of herself, come rather to like it. Nobody else in either of her languages has ever called her anything so entirely unearned and meant it so entirely as a kindness.
 
+Su's mother does not approve of Catherine, and adores her, and has never once seen any difficulty in holding both positions at the same time.
+
+The disapproval is entirely on the slate. Sau-Ling Zhang keeps that shop's book in her own hand in a system nobody else in the family has ever been able to read, and Catherine's column in it has been running behind since 1885 and has been settled in full exactly twice, and Su's mother can produce the figure from memory, to the halfpenny, at any hour of the day or night, and does, at intervals, to Su, at the copper, in the tone of a woman describing a leak.
+
+The adoration is because Catherine is the only customer in twenty years who talks to her.
+
+Not at her — at her is what everybody does, loudly and slowly, in the manner people adopt for foreigners and the deaf. Catherine talks to her, in ordinary English, at ordinary speed, about ordinary things, on the working assumption that a woman who has run a business in a country for eighteen years has probably picked up the language, and when Sau-Ling does not follow a word Catherine simply produces another word, cheerfully, without the smallest change in her voice, and goes on.
+
+There is an afternoon in that last summer when Su comes in from the yard and finds the two of them at the counter with the ledger open between them, Catherine with her chin on her fist reading her own column upside down, and her mother explaining the system.
+
+They are getting on famously. Neither of them is understanding more than about two-thirds of the other.
+
+I'm a disgrace, Su hears Catherine say, with enormous satisfaction. Look at it. There's a Christmas in there.
+
+Two Christmas, says Sau-Ling.
+
+Two, says Catherine, delighted. Two Christmases. Duchess, your mother's got me down for two Christmases.
+
+She has, Su says.
+
+And Sau-Ling shuts the book and puts it under the counter and does not press her, that day or ever, which Su understands even at nineteen is not softness but something more like accountancy of a different denomination altogether — that her mother has decided, at some point nobody witnessed, that a customer who will stand at a counter and talk to her like a person is worth more to that shop than the four shillings and eightpence will ever be, and has entered the judgement in a ledger she keeps somewhere else entirely.
+
 Catherine sings while she waits for her parcels.
 
 Not whole songs. Su has never once heard Catherine sing a song from its first word to its last, and it took her the better part of a year to understand that this is not carelessness, it is simply the shape her memory keeps things in: halves, thirds, the chorus without the verse that explains it, a single vivid line surfacing out of a tune Catherine has otherwise entirely mislaid, the way a plank surfaces out of a wreck long after the ship itself has gone down whole and unrecoverable. She sings street ballads and hymns and the sort of thing sailors bring home and forget they ever taught anybody, and she sings all of it in fragments, cheerfully, as though a fragment were the natural size a song came in and anyone who expected the whole of one was asking for more than the world generally gives.
@@ -72,6 +128,21 @@ Not whole songs. Su has never once heard Catherine sing a song from its first wo
 There is one she keeps coming back to more than the rest.
 
 It is slow, where the others are quick; it has a tune Su could not write down and would know anywhere, three notes climbing and one falling back, over and over, patient as a tide. It is about a girl waiting on a quay — that much is certain, quay and girl and waiting, said or implied in every scrap Catherine has ever given of it — and beyond that Su has pieced together, over three years of Mondays, perhaps six lines in total, none of them consecutive, and not one of them tells her how the waiting comes out.
+
+What Su has, written nowhere, kept the way she keeps everything, is this much:
+
+*And the tide come up to the quay wall, and the tide went down again* — that one is certain; Catherine sings it most often and always the same way, the three notes climbing on *tide come up* and the one falling back on *again*.
+
+*I'll not go in, I'll not go in, though the rain do wet me through* — certain, and always sung twice, and Su has never been able to decide whether the doubling is in the song or is Catherine's.
+
+*She had his name wrote on a card and the card wore out with holding* — this one arrived once, in the November before, out of nowhere, in the middle of an entirely different tune, and has never come again, and Su has waited three years for it and does not like to ask directly in case asking is what stops it.
+
+*—and the boats came home by ones and twos* — a fragment of a fragment, and plainly the beginning of the thing that matters, and Catherine has never once got further than *twos*.
+
+There are two more lines Su is fairly sure of and would not swear to.
+
+That is the whole of it. Six lines and a bit out of a song that presumably has thirty, arranged in an order Su has invented herself for want of any other, with the entire question of what happens on the quay sitting in the gap between *the boats came home by ones and twos* and nothing at all.
+
 
 I do not know the rest of it, Catherine says, the first time Su asks, and says it without embarrassment, the way you'd say you don't know the rest of a road you've never walked to the end of. It went where half of everything in my life has gone.
 
@@ -83,9 +154,29 @@ But the hop gardens will have it, she says, and says it again nearly every visit
 
 Su has come to look forward to it more than she says aloud, which is itself unusual, because Su does not, as a rule, look forward to things in any way she has not first weighed and found sound. A song is a strange thing to want that badly. She wants it anyway.
 
+There is a Monday in August with the burn-hole in it.
+
+The shawl comes in with a hole through it the size of a florin, edges gone brown and crisp, unmistakably a pipe, and Catherine puts it on the counter with the air of a woman presenting evidence at her own trial.
+
+Before you start, she says.
+
+I haven't started, Su says.
+
+You've got the face on.
+
+I haven't got any face on, Su says, and takes the shawl and turns it over and finds the second hole, smaller, further down, which Catherine had been hoping to get past her.
+
+Ah, says Catherine.
+
+Su can mend it. It will be a patch and it will show and it will be a patch on a shawl that has already been turned once, and she says so, and Catherine says that showing never killed anybody and asks how much and is told, and pays about a third of it and puts the rest on the slate that already has two Christmases in it, and sings four bars of something on her way out that Su does not recognise and does not get the rest of.
+
+The mend takes forty minutes. Su does it in the good light on the Tuesday morning and makes a considerably better job of it than a third of the price entitles anybody to, and does not examine why, and puts it on the shelf under the counter, and when Catherine collects it on the Thursday she holds it up to the window and finds the patch and says, in a completely different voice from any Su has heard her use in three years: oh, that's kind.
+
+Then she puts it round her shoulders and is herself again inside two seconds, and is gone.
+
 In September, Catherine is full of plans, the way she is always fullest of plans exactly when her circumstances least support them. She and her man are off to Kent for the hopping — weeks of clean air and farm wages, sleeping under canvas with half the East End for company, her hands stained green to the wrist by the second week and glad of it, because green hands mean paid hands. She will come back flush, she says, and settle her slate at last, see if she doesn't, and she says it laughing, and Su laughs with her, and both of them know perfectly well that the slate has outlived every promise made against it so far and will very likely outlive this one too, and that this is not a lie exactly, it is only the kind of hope poor people are allowed to keep on credit, the same way the shop keeps Catherine on credit, because a debt that is never quite paid and never quite forgiven is, Su's mother would say, its own kind of relationship, and not the worst kind going.
 
-She takes in the bodice that September — the good one, taken in twice already at the seams, worn thin enough now that a third taking-in will be its last — and pays what she can, which this month is not much, and promises the rest on her Kent wages, and Su wraps it in paper and writes the ticket and does not press her, because pressing Catherine has never once produced money and has twice produced a song Su liked, and a fair trade is a fair trade even when only one of the parties knows it is being made.
+She takes in the bodice that September — the good one, taken in twice already at the seams, worn thin enough now that a third taking-in will be its last — and pays what she can, which this month is not much, and promises the rest on her Kent wages, and Su wraps it in paper — three folds, a turn, the tape, the whole of it done in under a minute without her eyes ever leaving Catherine's face, because her hands have never once needed watching to fold a thing and she would not know how to explain to anybody why that should be worth remarking on — and writes the ticket and does not press her, because pressing Catherine has never once produced money and has twice produced a song Su liked, and a fair trade is a fair trade even when only one of the parties knows it is being made.
 
 On the last Monday of the summer she comes for the wrapped bodice and does not take it.
 
