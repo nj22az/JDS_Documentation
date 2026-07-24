@@ -1,9 +1,9 @@
-<!-- PROPOSED — Volume Five, Part One, Chapter 7 (closes Part One). Full-novel -->
-<!-- expansion. Present tense for the 1888 frame; the winter of Lee's death -->
-<!-- (eight years prior) told in past tense, as a thing Su carries rather than -->
-<!-- narrates cold. Lee has been deliberately withheld since Ch.3 so the -->
-<!-- recontextualising of Cray lands here, at the end of the ordinary summer. -->
-<!-- Not deployed. -->
+<!-- PROPOSED — Volume Five, Chapter 4 of 12 (+ epilogue). RESTRUCTURED per the -->
+<!-- author's 100k plan. Consolidates vol5-ch07-lee.md into its own chapter, -->
+<!-- split into two sections at a natural break, Book-One-style. Prose -->
+<!-- preserved near-verbatim. The withheld chapter; recontextualizes Ch.1-3's -->
+<!-- Dr. Cray. Present-tense frame; the winter of Lee's death (eight years -->
+<!-- prior) in past tense. Not deployed. -->
 
 # Lee (1888, and a winter eight years gone)
 
@@ -14,6 +14,8 @@
 > — Dr. Reginald Cray's register, the whole of what it says
 
 ***
+
+## I. The Third Night
 
 There was a brother.
 
@@ -42,6 +44,8 @@ He wrote fever in his register. It was true, as far as it went. A fever had, in 
 Lee died on the third night.
 
 Su was in the room for that part. She does not describe it, even to herself, in the years that follow — there is a wall in her own memory precisely where that hour should be, built, she suspects, by the same part of her that decides which knots are worth naming aloud and which are better left alone — but she remembers, with a clarity that has never once dimmed, the specific silence that came after, which was not the silence of a house at rest. It was the silence of a house that has just discovered how much noise a small boy's ordinary breathing had been making in it the whole time, without anyone once noticing, until it stopped.
+
+## II. What Neither Fact Would Cancel
 
 It was not murder. Su has turned this over more times than she could count and always arrives at the same honest place: it was not murder, and it was not even neglect as the parish would reckon neglect, because a doctor did come, and the fee was the fee charged to any house on that street, and the word in the register was the true word. What it was, was smaller than a crime and colder for being smaller: a man deciding, somewhere behind his own eyes, at his own street door, through his own housekeeper, what a chandler's boy off the Causeway was worth getting cold for on a bad night. That decision cost nothing in the ledger any court could read. It cost everything in the one Su's mother keeps.
 
