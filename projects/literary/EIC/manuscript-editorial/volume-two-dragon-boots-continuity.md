@@ -4,23 +4,23 @@
 
 ## Decision
 
-The Silas echo enters Volume Two through Tanner's boots in 1696: The Price of a Man.
+The Silas echo first enters Volume Two as an unexplained piece of siege equipment in Bombay in 1689, then becomes plot evidence in 1696: The Price of a Man.
 
-To a first-time reader, they are a hard-travelled soldier's strange possession and later a fair-play clue that Tanner searched Adams's room while the Company's questioner occupied Esther Finch.
+To a first-time reader, Tanner acquires a dead or missing sailor’s strange, durable boots because his own footwear is failing. Seven years later they are a fair-play clue that Tanner searched Adams's room while the Company's questioner occupied Esther Finch.
 
 To a returning reader, their scaled hide, tarred sail-twine, broad cutting, and ship-breaker's workmanship suggest an impossible continuation of Silas Rook's last South Land scene. The text never confirms that inference.
 
 ## Private authorial logic
 
-Silas survived the first attack by the great lizards surrounding him. He killed them at close quarters and worked the usable hide with the materials and violent practical skill available to a marooned seaman. At some later, unrecorded point, the boots passed into another maritime life and eventually reached Tanner.
+Silas survived the first attack by the great lizards surrounding him. He killed them at close quarters and worked the usable hide with the materials and violent practical skill available to a marooned seaman. At some later, unrecorded point, the boots pass into the maritime life of a sailor known as Van Horn. During the Bombay siege, Sillitoe enters them among abandoned effects as “foreign hide, unserviceable” and Tanner takes them because they are too sound to burn. Only this final transfer is shown; how Van Horn acquired them remains unproved.
 
 This logic governs the image but must not become exposition. The survival, making, transfer, and death or continued life of Silas all remain unproved.
 
-## Two-beat implementation
+## Three-beat implementation
 
-1. **Section III — establishment.** Tanner's high scaled boots have been repeatedly resoled in England. A boot-boy calls them dragon boots; Tanner silences him by denying dragons. A cobbler identifies tarred sail-twine and the work of a hand more familiar with rigging and ship-breaking than shoemaking.
-2. **Section III — fair-play detail.** Tanner hooks the patched right heel over the bar rail when he says the Company will supply necks.
-3. **Section VI — payoff.** While an information-taker questions Esther, Tanner searches Adams's lodging. Esther identifies him from the triangular heel repair and three nail heads left in the hearth ash. She erases the print and secures the hidden Mughal coins, turning her silence into a conscious act.
+1. **1689 — acquisition without provenance.** In the besieged Castle, Tanner’s shoes fail. Among Van Horn’s effects, Sillitoe records high boots of scaled foreign hide as unserviceable. Tanner recognises tarred sail-twine and ship-breaker’s workmanship, takes them, and asks no question the dead or missing owner cannot answer.
+2. **1696 — establishment and fair-play detail.** The boots have been repeatedly resoled in England. A boot-boy calls them dragon boots; Tanner silences him by denying dragons. A cobbler identifies the older rigging work. Tanner later hooks the triangularly repaired heel over the bar rail when he says the Company will supply necks.
+3. **1696 — payoff.** While an information-taker questions Esther, Tanner searches Adams's lodging. Esther identifies him from the triangular heel repair and three nail heads left in the hearth ash. She erases the print and secures the hidden Mughal coins, turning her silence into a conscious act.
 
 ## Standalone test
 
@@ -42,13 +42,13 @@ If the Silas connection were removed, every scene above would still work.
 - Do not confirm whether the hide came from South Land, Batavia, or elsewhere.
 - Do not alter Book One's marooning scene merely to prepare this callback.
 - Keep the boots materially possible: scaled upper leather, many replacement soles, tarred cord beneath later cobbler's work.
-- Use the motif sparingly. The current establishment and payoff are sufficient for the 1696 chapter.
+- Use the motif sparingly. The Bombay transfer, the 1696 establishment, and the ash-print payoff are sufficient.
 - Any recurrence in the 1701 Captain Kidd material should advance plot or character; it must not exist only to remind readers of Silas.
 
 ## Editorial location
 
-The complete working chapter is:
+The 1689 transfer belongs in the planned Part I chapter **The Salt-House Siege**. The complete 1696 working chapter is:
 
 projects/literary/EIC/manuscript-editorial/volume-two/03-1696-the-price-of-a-man-dragon-boots.md
 
-Its source remains the current live-canon chapter. Only the editorial working copy contains these additions.
+The 1696 source remains the current live-canon chapter. Only editorial working copies contain these additions.
