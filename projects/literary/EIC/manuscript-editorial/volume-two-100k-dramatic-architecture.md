@@ -4,7 +4,7 @@
 **Status:** Editorial development plan for author review. It does not alter the deployed reader or the read-only live-canon mirror.  
 **Target length:** 100,000 words  
 **Narrative frame:** a 1689 thematic prologue followed by the main chronology from 1686 to 1701  
-**Dramatic centre:** Esther Finch's lodging house, the Prospect, the Wapping stairs, and the immediate river edge
+**Dramatic centre:** the Pelican—its bar, Esther Finch's rooms above and behind it, Wapping Stairs, and the immediate river edge
 
 ## Governing decision
 
@@ -17,13 +17,15 @@ The research dossier should shape the novel through emotional functions rather t
 - a public execution that resolves a political problem but not a moral one;
 - quiet domestic care after the institution has declared the matter finished.
 
-Every resulting scene must be recognisably native to this cast, this period, and Wapping. No sequence should depend upon a reader recognising another novel, film, programme, or game.
+Every resulting scene must be recognisably native to this cast, this period, and Wapping. No sequence should depend upon a reader recognising another novel, film, programme, game, or historical incident used as inspiration.
+
+The Pelican is not one location among several. It is the novel's receiving house. Every off-river thread must return there carrying a person, object, paper, debt or testimony: Bombay returns Tanner, the scaled boots, Hobbs's quadrant and Miguel's list; the Every hunt returns Adams, strange coin and a broken door; Kidd's voyage returns Nathaniel and the missing enclosures; the execution returns the crowd and the testimony the official account cannot hold.
 
 The compressed 1696 and 1701 live-canon chapters remain the seed. The full novel expands the human lives that the compressed version presently summarises.
 
 ## The novel's dramatic question
 
-**Can Esther keep a house in which hunted people may remain human without allowing that house to become a refuge from moral consequence?**
+**Can Esther keep the Pelican as a house in which hunted people may remain human without allowing it to become a refuge from moral consequence?**
 
 That question prevents the novel from becoming a simple defence of pirates. Esther may refuse to sell Adams while still believing that terrible things were done aboard the *Ganj-i-Sawai*. Nathaniel may preserve evidence favourable to Kidd while admitting that Kidd killed William Moore. The institution's corruption never requires its victims to be innocent.
 
@@ -31,7 +33,7 @@ That question prevents the novel from becoming a simple defence of pirates. Esth
 
 | Character | Immediate want | Private fear | Irreversible choice | Emotional function |
 |---|---|---|---|---|
-| Esther Finch | Keep her rooms solvent and everyone under her roof alive | That necessity will make her purchasable | Refuses the Every reward, conceals Tanner's search, and later shelters Nathaniel's testimony | The Tom Fletcher temperament returned in another life: practical, unsentimental, difficult to buy |
+| Esther Finch | Keep the Pelican and its rooms solvent while everyone under its roof remains alive | That necessity will make her purchasable | Refuses the Every reward, conceals Tanner's search, and later shelters Nathaniel's testimony | The Tom Fletcher temperament returned in another life: practical, unsentimental, difficult to buy |
 | Nathaniel Cross / Fenner | Earn enough from Kidd's venture to become a man with choices | That he has mistaken obedience for honour | Records what he saw under his true name although the name may hang him | Witness, complicity, and the slow recovery of moral agency |
 | Tanner | Never again be spent cheaply by an employer | That the Company still owns the useful parts of him | Searches Adams's room for Company money, then withholds one decisive fact | Institutional injury turned into compromised service |
 | Adams | Become too ordinary to be found | That any intimacy will make another person his accomplice | Leaves Esther without confession after permitting her to understand enough | Hospitality under contamination; he is written as Every for authorial logic but never gives a clean confession |
@@ -51,7 +53,7 @@ Jonah Fletcher is born about 1625 and is sixty-four at Nevis. At the 1701 execut
 |---|---:|---:|---|
 | Prologue — The New Captain | 1689 | 4,500 | Jonah frightens the newly made Captain Kidd with the truth about commissions |
 | Part I — The Company’s War | 1686–1690 | 20,000 | Tanner experiences the Company’s western war, siege, defeat and paper reconstruction of failure |
-| Part II — The Price of a Man | 1690–1696 | 26,500 | Tanner’s return, Elias’s death, Esther’s lodging house, Adams, the Every dragnet and Esther’s refusal |
+| Part II — The Price of a Man | 1690–1696 | 26,500 | Tanner’s return to the Pelican, Elias’s death, Esther’s rooms, Adams, the Every dragnet and Esther’s refusal |
 | Part III — The Commission | 1696–1699 | 28,000 | Nathaniel joins Kidd; the legal venture becomes an economic trap; Moore dies; the French passes become dangerous evidence |
 | Part IV — The Missing Enclosures | 1700–1701 | 18,000 | Nathaniel returns as Fenner; the papers are withheld; Kidd is tried and twice hanged |
 | Epilogue — What the House Keeps | Summer 1701 | 3,000 | Esther and Nathaniel preserve testimony without pretending that preservation is victory |
@@ -110,6 +112,8 @@ Hobbs’s battery fires until heat, fouling and damaged tackle reduce its rate. 
 
 The irreversible scene is at the Castle gate. Soldiers close it while island families and Company dependants are still outside. Tanner can keep the gate open long enough for more people to enter only by exposing the retreating garrison. He obeys the closure, then recognises people he has traded with on the wrong side. The institution’s survival acquires faces before the siege has properly begun.
 
+**Current working draft:** 4,007 words. It remains entirely with Company sailors, soldiers, clerks, dependants and the communities caught at the gate.
+
 ### Chapter 4 — The Salt-House Siege — 4,500 words
 
 1689. The remaining English position contracts into the Castle and nearby defences. Grain, potable water, medicinal spirits, powder and burial cloth become separate moral economies. Vane’s records distribute scarcity in ways that protect rank while allowing each officer to claim that somebody else fixed the ration.
@@ -118,23 +122,31 @@ The old salt-house becomes a crowded ward. Miguel’s smuggling route keeps some
 
 Hobbs dies after keeping a failing battery workable long beyond reason. Tanner acquires the scaled boots from the effects of a dead or missing sailor known as Van Horn after Sillitoe enters them merely as “foreign hide, unserviceable.” No provenance is supplied. The boots are practical, ugly and too sound to burn; returning readers may infer a longer journey, but the text does not mention Silas or South Land.
 
+A small-boat action at the sea gate gives the siege a maritime pulse: Tanner cuts a fouled coir line, saves a supply boat and its people, loses part of the cargo, and watches Vane search for an account to charge. The action turns tide, tackle and water depth into character pressure rather than spectacle.
+
+**Current working draft:** 4,168 words.
+
 ### Chapter 5 — The Price of Peace — 3,500 words
 
-February to mid-1690. Sir John Child dies on 4 February while his removal remains one of the issues surrounding settlement. The chapter does not assert a theatrical mental collapse or a secret burial. His fear, illness, death and the uncertainty later surrounding his grave may be dramatised only within what the sources permit.
+February to mid-1690. Sir John Child dies on 4 February while his removal remains one of the issues surrounding settlement. The chapter does not assert a theatrical mental collapse or a secret burial. His illness, death and administrative aftermath are kept within what the sources permit.
 
-Tanner witnesses Bombay’s surrender through the garrison: terms read aloud, apologies drafted, a large payment imposed, authority passing through envoys and returning representatives. He does not personally stand before Aurangzeb unless later evidence makes a plausible escort role available. The humiliation belongs to Company policy, not to Mughal ceremony.
+No imperial-court scene is narrated. Weldon and Navarro pass beyond Tanner’s viewpoint; their negotiation returns to Bombay through letters, translated articles, money, farmans and military consequences. The story remains with EIC sailors, clerks, dependants and the material work of surrender inside the Castle. It does not detour into religious exposition.
 
-Trade resumes because the Mughal state permits it. Vane prepares a final account that turns defeat into “restoration.” Tanner leaves Bombay with the scaled boots, arrears still disputed, Hobbs and Miller absent, and enough knowledge to distrust any institution that describes survival as settlement.
+Trade resumes because the Mughal state permits it. Vane prepares a final account that turns defeat into “restoration.” Tanner leaves with the scaled boots, disputed arrears, Hobbs’s quadrant and Miguel’s unsealed human list. Anders Blom, a Göteborg-born carpenter’s mate shaped by Dutch and English service, helps carry the chest home. The chapter ends inside the Pelican, where Esther receives the quadrant and the names before the Company settles Tanner’s wages.
 
-**Part I residue:** Tanner has learned that machinery, stores and men fail differently, but paper can make all three failures resemble success. The Company did not merely betray him; it taught him methods he will later use against Esther.
+**Current working draft:** 3,926 words. Chapters 1–5 now form a continuous Part I draft of approximately 20,134 words.
+
+**Part I residue:** Tanner has learned that machinery, stores and men fail differently, but paper can make all three failures resemble success. Bombay returns physically to the Pelican through Tanner, the scaled boots, Hobbs’s quadrant, the sealed return and Miguel’s names. The Company did not merely betray him; it taught him methods he will later use against Esther.
 
 ## Part II — The Price of a Man
 
-Part II carries the novel from the Bombay aftermath through Wapping and the Every dragnet. The first three chapters give Esther, Elias and Tanner enough shared history that Tanner’s later search of her house is a personal betrayal rather than a plot mechanism.
+Part II remains anchored in the Pelican. Esther and Elias keep the house; the upper and rear rooms form the lodging business, while the bar receives sailors, widows, clerks, rumours, objects and debts from every off-river plot. The first three chapters give Esther, Elias, Tanner and Anders enough shared history that Tanner’s later search is a personal betrayal rather than a plot mechanism.
+
+Anders Blom is a Göteborg-born carpenter’s mate rather than decorative Swedish colour. Dutch and English service have made him multilingual, underpaid and technically exact. He tests fastenings, reads loaded structures and tides, and becomes one of the Pelican’s regular maritime witnesses. In Chapter 15 those skills make escape possible without turning him into an implausible fighter.
 
 ### Chapter 6 — Ten Pounds a Year — 2,400 words
 
-In 1690 Tanner returns to Wapping in scaled foreign boots. At the Prospect, a Company clerk reads a Bombay casualty and arrears list as though settling damaged cargo. Elias Finch asks after missing yard men; the clerk knows their numbers but not their names. Esther helps widows interpret stoppages while Tanner can identify injuries and last words without making the Company acknowledge them.
+After the homeward passage, Tanner is already lodged at the Pelican in scaled foreign boots. A Company clerk reads the sealed Bombay casualty and arrears list at the bar as though settling damaged cargo. Elias Finch asks after missing yard men; the clerk knows their numbers but not their names. Esther uses Miguel’s second list to help widows interpret stoppages while Tanner can identify injuries and last words without making the Company acknowledge them.
 
 Fever brings Tanner into Esther and Elias’s care. His memory of guarding Company stores from starving Company soldiers turns the domestic cup Esther gives him into both mercy and accusation.
 
@@ -142,7 +154,9 @@ Fever brings Tanner into Esther and Elias’s care. His memory of guarding Compa
 
 Elias dies in a yard accident driven by haste around a Company sailing date. The exact failed lift, shore or suspended timber must pass a marine-engineering review before prose is locked. The Company denies direct liability because a contractor paid him.
 
-Esther bargains for the return of his tools while his body remains in the house. She inventories rather than speeches, finds one tool missing and makes the clerk return for it.
+Anders inspects the failed tackle and explains the physical cause in workman’s terms: loading, lead, chafe, support and the rushed decision that made one of them fatal. His account is technically true and contractually useless.
+
+Esther bargains for the return of Elias’s tools while his body remains in the house. She inventories rather than speeches, finds one tool missing and makes the clerk return for it.
 
 ### Chapter 8 — Fifth Soles — 1,800 words
 
@@ -156,7 +170,7 @@ The worldwide proclamation for Henry Every enters Wapping as rain-soaked paper, 
 
 ### Chapter 10 — Three Months in Advance — 2,000 words
 
-Adams takes Esther’s upstairs-back room and pays with strange gold. His competence is domestic: he repairs a stair, notices a failing latch and washes his own cup. His danger is equally domestic: he sits where he can see door and window and never sleeps through a cart stopping outside.
+Adams takes the Pelican’s upstairs-back room and pays with strange gold. His competence is domestic: he repairs a stair, notices a failing latch and washes his own cup. His danger is equally domestic: he sits where he can see door and window and never sleeps through a cart stopping outside.
 
 ### Chapter 11 — The Wrong-Way Gold — 1,900 words
 
@@ -164,7 +178,7 @@ Esther tries to change a Mughal coin. Tradesmen refuse it or offer too little an
 
 ### Chapter 12 — The Court of the Bent Chair — 2,400 words
 
-After the August proclamation, the lodging-house and Prospect regulars hold a drunken mock hearing after a frightened informer mistakes a harmless seaman for Every. Louie’s chair becomes the judge’s seat. Wapping knowledge supplies the humour: bad knots, contradictory dues, false identification, dead men’s charges and witnesses who demand a mug before swearing.
+After the August proclamation, the lodging-house and Pelican regulars hold a drunken mock hearing after a frightened informer mistakes a harmless seaman for Every. Louie’s chair becomes the judge’s seat. Wapping knowledge supplies the humour: bad knots, contradictory dues, false identification, dead men’s charges and witnesses who demand a mug before swearing.
 
 Adams is drawn into the performance and reveals that he knows what knot Every would permit aboard his ship. Esther hears the mistake. Tanner sees that she heard it.
 
@@ -174,11 +188,17 @@ Esther tests Adams with false versions of the Mughal-ship attack during a card g
 
 ### Chapter 14 — Two Verdicts — 2,000 words
 
-Six of Every’s men are acquitted and then tried again on a different charge. Procedure supplies the state with the result the first jury refused. The Prospect argues over justice, English juries and Indian victims. Esther refuses both the easy defence of sailors and the easy pretence that the second proceeding is disinterested.
+Six of Every’s men are acquitted and then tried again on a different charge. Procedure supplies the state with the result the first jury refused. The Pelican argues over justice, English juries and Indian victims. Esther refuses both the easy defence of sailors and the easy pretence that the second proceeding is disinterested.
 
 ### Chapter 15 — The Door Kept Shut — 2,300 words
 
-Caleb Nix, an old caulker and friend of Elias, has repeated a story that may lead searchers to Esther’s house. While constables work the lane, he pounds at her door and she keeps the bolt drawn. He is arrested elsewhere and dies of gaol fever. Survival itself becomes morally expensive.
+Caleb Nix, an old caulker and friend of Elias, has repeated a story that may lead searchers to the Pelican. Late at night Esther sees lantern light and iron moving past the washhouse river grating: constables and hired watermen are closing the street door and river stairs while a retained Company information-taker identifies the house.
+
+She reaches Adams seconds before entry. He wakes with period pistols and is prepared to make the narrow stair cost lives; Esther refuses to let him turn sleeping lodgers into shields. Anders draws the roof-hatch pin, uses the stair door and a loose spar to delay the first searchers, and opens a route over the rear roof, through the old ship-breaking loft and down into a timber yard.
+
+Caleb pounds upon the front door as the men close around him. Esther cannot know whether he came to warn her or unknowingly led them there. Opening the door may save Caleb and expose Adams. She keeps it bolted.
+
+Adams cuts his hand crossing the wet roof and escapes with Anders by skiff on the ebb. Esther stays to answer for the Pelican. Caleb is arrested and later dies of gaol fever. The escape succeeds physically and fails morally, preserving the emotional mechanism of a surrounded-inn warning and river rescue without reproducing the Teradaya incident.
 
 ### Chapter 16 — Six Coats — 2,300 words
 
@@ -186,9 +206,9 @@ A slop-seller claims to possess clothing worn by the condemned. Most of his stoc
 
 ### Chapter 17 — Five Hundred Pounds — 2,900 words
 
-A retained information-taker occupies Esther while Tanner searches Adams’s room. Esther identifies Tanner through the triangular heel repair left in ash, erases the mark and secures the Mughal coins.
+After the night raid, a retained information-taker occupies Esther while Tanner searches Adams’s emptied room for coin, paper and the route by which he escaped. Esther identifies Tanner through the triangular heel repair left in ash, erases the mark and secures the remaining Mughal coins.
 
-She confronts Tanner without allowing either of them to erase Elias, Caleb or the fever room. Adams leaves without a clean confession. Esther refuses the reward but does not absolve him.
+She confronts Tanner without allowing either of them to erase Elias, Caleb or the fever room. Adams has already left without a clean confession. Esther refuses the reward but does not absolve him.
 
 **Part II residue:** Esther preserves a hunted man, loses a friend and discovers that care creates leverage as readily as loyalty. Her moral victory remains inseparable from guilt.
 
@@ -266,7 +286,7 @@ The exact archival fastening—stitching, tape, thread, wax, or pins—must be v
 
 ### Chapter 29 — What the Company Needs — 3,000 words
 
-Sillitoe and other Company men discuss Kidd at the Prospect. They did not necessarily remove his passes and need not have organised his prosecution. Their culpability is colder: they know a public execution will soothe Mughal relations and have no interest in disturbing it.
+Sillitoe and other Company men discuss Kidd at the Pelican. They did not necessarily remove his passes and need not have organised his prosecution. Their culpability is colder: they know a public execution will soothe Mughal relations and have no interest in disturbing it.
 
 This distinction strengthens the institutional portrait. The Crown, Admiralty, Whig patrons, Tory opponents, and East India Company can benefit from the same death for different reasons without becoming one secret committee.
 
@@ -336,11 +356,16 @@ Use precise period nouns—Hollands, geneva, docket, shallop, slops, oakum—whe
 
 Rigging, pumps, hull movement, fastenings, tides, caulking, tools, and repair should be accurate and consequential. Nathaniel sees evidence as a seaman sees a failing seam: not as abstract truth, but as a pattern of strain, previous repair, and what will part next.
 
+### 9. Every off-river thread returns to the Pelican
+
+The Pelican receives consequences rather than summaries. A voyage must return a survivor, object, paper, wound, debt or lie to the bar. The house is how the six-thousand-mile history remains human and how readers who never study the EIC can follow what it did.
+
 ## Dossier ideas adopted, transformed, or rejected
 
 | Dossier proposal | Decision | Volume Two form |
 |---|---|---|
 | A friend is "cut loose" to save the house | Adopt the emotional cost; replace the recognisable mechanism | Esther keeps the door bolted against Caleb while constables work the lane |
+| A hunted guest escapes a surrounded inn after a warning from below | Adopt the pressure pattern; rebuild every material detail | The Pelican night raid uses Esther’s washhouse warning, period officers, a roof hatch, Anders’s seamanship and an ebb-tide skiff; Caleb’s arrest is the cost |
 | A lodger falsely identifies himself as Adams | Reject | Verification problems and heroic substitution would pull focus away from Esther's choice |
 | Officers feast while Bombay soldiers rot | Transform | Tanner guards Company stores from starving Company soldiers |
 | Investors deliberately provide Kidd a rotten ship | Reject as historically false | A new ship is consumed by hurried building, hard service, disease, leaks, and an extractive prize bargain |
@@ -352,7 +377,7 @@ Rigging, pumps, hull movement, fastenings, tides, caulking, tools, and repair sh
 
 ## Historical guardrails already established
 
-- The Company's Anglo-Mughal war ended in defeat and a 1690 settlement involving apology, a large fine, and restored trade. The audience and prostration imagery must be attributed carefully rather than treated as something Tanner automatically witnessed.
+- The Company's Anglo-Mughal war ended in defeat and a 1690 settlement involving apology, a large fine, and restored trade. No imperial audience is narrated in Part I: settlement enters through EIC correspondence, money, farmans and withdrawal. The novel does not use the Bombay sequence for religious exposition.
 - Sidi Yakut Khan’s Bombay siege begins in 1689. Earlier Janjira-aligned movements may foreshadow it, but the 1686 creek chapter must not present the siege as already assembled.
 - Sir John Child dies at Bombay on 4 February 1690. A theatrical mental collapse, secret burial, or Tanner’s personal journey to Aurangzeb requires evidence and is not assumed.
 - The *Modena* was launched in 1685 and the documented western seizures involving the *Modena* and *Charles the Second* intensify in 1687.
@@ -360,6 +385,8 @@ Rigging, pumps, hull movement, fastenings, tides, caulking, tools, and repair sh
 - French passes associated with Kidd's prizes existed and were unavailable to him at trial. The surviving record supports absence or withholding; a particular East India Company thief at Saint Mary's remains fiction and should not be presented as settled fact.
 - Kidd's trial occurred on 8–9 May 1701 and his execution at Wapping on 23 May. The rope broke on the first attempt.
 - "Hollands" or "geneva" is preferable to treating the later Gin Craze as already fully developed in 1696.
+- The Pelican raid must use period constables, deputies, hired searchers or watermen as the evidence supports. It must not use the anachronistic institutional term *police*.
+- Anders’s Swedish maritime service is grounded in the international seventeenth-century labour market: Scandinavian seamen, including Swedes, served aboard Dutch vessels and moved between maritime employers.
 
 Research anchors:
 
@@ -368,13 +395,17 @@ Research anchors:
 - [University of Sheffield, New Histories: Kidd, the passes, and the trial](https://newhistories.sites.sheffield.ac.uk/volumes/2011-12/volume-3/issue-7-open-theme/the-case-of-captain-william-kidd-a-300-year-old-miscarriage-of-justice)
 - [History Today: Aurangzeb and the East India Company](https://www.historytoday.com/archive/feature/aurangzeb-versus-east-india-company)
 - [Historic UK: Josiah Child's War](https://www.historic-uk.com/HistoryUK/HistoryofBritain/Josiah-Childs-War/)
+- [Kyoto City Official Travel Guide: Teradaya Inn](https://kyoto.travel/en/destinations/teradaya-inn/)
+- [EEBO: English proclamation concerning Henry Every](https://quod.lib.umich.edu/e/eebo/A39488.0001.001)
+- [Survey of London: Blackwall Yard](https://www.british-history.ac.uk/survey-london/vols43-4/pp553-565)
+- [*Maritime Connections Across the North Sea*: Scandinavian maritime labour](https://www.sidestone.com/openaccess/9789088909863.pdf)
 
 ## Drafting order
 
 The novel should now be written in five controlled passes:
 
 1. Lock the corrected 1689 Jonah–Kidd prologue and its paper/hands/rope motifs.
-2. Draft Part I so Esther, Elias, and Tanner exist as people before the Every plot begins.
+2. Draft Part I and return Tanner physically to the Pelican so Esther, Elias, Anders and Tanner exist as people before the Every plot begins.
 3. Expand the 1696 compressed seed into Part II, beginning with the Court of the Bent Chair and Caleb's closed door.
 4. Build Nathaniel's voyage as witnessed testimony whose details return physically to Wapping.
 5. Rebuild the 1701 compressed seed around Esther and Nathaniel, then write the quiet epilogue last.
