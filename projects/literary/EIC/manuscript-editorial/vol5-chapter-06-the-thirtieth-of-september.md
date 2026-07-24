@@ -62,6 +62,12 @@ Her father closes the shutters himself that night, which he has not done with hi
 
 Su reaches past him without being asked and drives it home in one motion, ten thousand mornings folded into the single push.
 
+He does not thank her. He does not step back and let her do the second bolt either, which he could, and which would be the easier arrangement for both of them, and which would also be a sentence about his own hands that neither of them is prepared to have spoken tonight.
+
+He does the second bolt himself. It takes him rather longer.
+
+Su stands beside him in the dark shop and waits, and does not help, and understands in about four seconds that this — the waiting, the not helping, the standing there while a man who taught her everything takes eleven seconds over a bolt that used to take him one — is going to be the shape of the next ten years, and that she had better learn it now, because there is no version of the coming decade in which she gets to do the bolts for him and no version in which she gets to say so.
+
 Neither of them says anything. There is nothing to say that would not be worse than the quiet. But through the back of her own hand against his, for the length of that one motion, Su feels the exact thing Elisabeth once told her about words with floors and walls — feels it, here, in a language that needs neither of the two she owns: that her father is growing old, that she is the stronger of the two of them now in the one specific way that matters at a shop door at night, and that the night the whole East End learned to be properly afraid is the same night she found this out about her own house.
 
 She does not cry either, that night, any more than she fell down in the Prospect that afternoon. Something else happens instead, further down and considerably worse: a long, patient heat, banked the way the wash-copper banks its coals overnight, that does not gutter, and does not spread, and — this is the part that frightens her, lying awake with it, more than any fear the newspapers have managed to print all autumn — does not, however she waits for it, go out.
@@ -113,6 +119,18 @@ There was one more Monday like that, and then a third that was easier, and by th
 The song never comes back. That is the smallest item on the whole account and it is the one that ambushes her longest: the quay, the girl, the three notes climbing and the one falling back, *and the boats came home by ones and twos*, and then nothing, ever, from anybody, for the rest of the century. She asks two hoppers. She asks, over the years, perhaps a dozen people who might know it. She gets four different tunes and no second half.
 
 Catherine took the back half of it to Kent to fetch, and did not get to Kent, and the song is still, as far as Su has ever been able to establish, a front with no back to it anywhere in England.
+
+There is one more thing about that week, and Su did not understand it for eleven years.
+
+Her mother, at some point that evening — between the neighbour at the door and the pressing that got finished anyway — went upstairs alone and came down again after about a quarter of an hour, and nobody remarked on it, because a woman is entitled to a quarter of an hour on a day like that.
+
+Su found out what it had been for in 1899, on the morning of her father's death, going up to fetch her mother's shawl: a folded paper at the back of a drawer that had been Sau-Ling Zhang's private business since 1872, with two English words on it in her mother's own hand — a hand Su had seen perhaps six times in her life, because her mother did not write.
+
+The two words were the two names. Spelled correctly. Written by a woman who could not read English and must therefore have got the spelling from somebody and taken some trouble over the getting, on the evening of the day she heard they were dead, and put in a drawer, and never once mentioned to a living soul.
+
+Su put it back exactly where it was.
+
+It is in that drawer still, forty years on, and both of the people who ever knew it was there are long past being asked about it.
 
 ## II. The Rules for This
 

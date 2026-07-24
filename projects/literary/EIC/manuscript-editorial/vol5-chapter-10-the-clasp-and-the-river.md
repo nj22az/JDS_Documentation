@@ -82,6 +82,18 @@ Su reads everything, that winter and for years afterward. She learns the dates o
 
 The Prospect closes early for a week or two, that winter, the way a house does when something has passed near it without quite touching it by name. Flo pours a shorter measure and does not comment on why. The dockworker comes in once, hears that the doctor has gone missing, and says only, to nobody in particular, that he never trusted a calm that never cost a man anything, and does not elaborate, and Su, settling her chit at the far end of the bar, understands that he has said, without knowing he has said it, the whole of what either of them will ever say aloud about that November.
 
+What she does with the ledger, across the following forty years, is keep it honestly, which is harder than keeping it at all.
+
+She does not add to it. That is the discipline and she sets it in the first winter: the account closes on the evidence available in November 1888, and anything that arrives afterward — a fresh theory, a new confession, a name she has never heard — gets laid against the existing entries and is not permitted to become one. A ledger that grows to fit a conclusion is not a ledger.
+
+She re-reads the calendar perhaps twice a year for the first decade and then less. The two evenings that will not lie flat go on not lying flat. The nine that say nothing go on saying nothing. There is one winter in the middle nineties when she becomes convinced she has misremembered the date of one of the two, and spends four months trying to establish it from other people's memories without asking anybody a direct question, and gets nowhere, and enters the uncertainty in the ledger in the same hand as everything else, because that is what the ledger is for.
+
+The thing she never does is look for more.
+
+She could have. There were forty years in which a woman on that reach could have found out a great deal more about a dead man's habits than she knew in 1888, if she had been prepared to be seen wanting to know — and Su understood by about the second winter that wanting to know had, at some point she could not locate, stopped being about Elisabeth and Catherine at all and become about herself: about whether the thing she did in a lane was the thing she had told herself it was.
+
+An answer would have settled that. That is precisely why she has never gone looking for one. She took her hand off the clasp in the mud with exactly the same reasoning and she has spent sixty years declining to reach for it again, and it has not got easier at any point, and it is the single largest thing she has ever done.
+
 Su goes back to folding shirts the next morning, and the morning after that, because the shop still needs the custom and her mother still needs the help, and because that is what the women of her family have always done with the days after the worst days: they finish the pressing.
 
 She tells no one, ever. Not Flo. Not her mother, though on the first morning, working through her form beside her father in the cold yard, she feels him reading her through the crossed wrists the way he has read her since she was seven, and when they finish, his eyes are older than they were the evening before, and all he says is: your weight is back on your heels. Fix it. And she fixes it, and he never asks, and that is how two people who love each other carry a thing up a long flight of years — one landing at a time, without ever once naming what it weighs.

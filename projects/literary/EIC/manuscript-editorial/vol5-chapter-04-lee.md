@@ -88,6 +88,28 @@ She was steady that winter herself, in a way nobody in that house had any attent
 
 Lee is the entry Su scratches out first, every time she takes stock of what she owes the world and what the world owes her. His debt is real. It is owed. And it is exactly, precisely, the kind the four rules forbid her to collect — because collecting it would mean deciding, on her own authority, in her own anger, that a man's whole life could be balanced against a boy's, and her father raised her to know the difference between a ledger that is allowed to run at a loss and a ledger a person takes it upon themselves to close by force.
 
+What complicates it past any hope of resolution is that Dr. Cray went on being good to that family for eight years afterward.
+
+Not conspicuously. Not in a way anybody could point to as amends, and Su has never once believed it was meant as amends, because a man who thought he had something to make up for would have behaved differently and this man behaved exactly as he had behaved before.
+
+He asked after Sau-Ling's rheumatism, by name, correctly, every time, for eight years.
+
+He looked at Su's own hand in the spring of 1884 when a mangle roller caught two fingers, and did it in the shop doorway, and did it well, and charged the shop nothing, and said — this is the part Su has never been able to get out of the drawer — that the fingers would be perfectly serviceable and that she should keep using them, which was the correct advice and was not the advice a lazier man would have given.
+
+He recommended the Zhangs' laundry, more than once, to people who took the recommendation.
+
+And he never sent them so much as a collar. Fifteen years, two streets away, the best drying loft on the reach, and not one item of his own washing across that counter until the week after the clasp came loose in front of her — which is a fact that means nothing whatever on its own, and which Su did not even notice until she was nineteen years old and had a reason to go looking for it.
+
+Sau-Ling has never let him into the house again. That is the whole of her position and she has never once stated it. He is greeted at the door, and served at the counter, and asked after, and thanked; and in eight years he has not been past the shop, and neither he nor anybody else has ever appeared to notice the arrangement except the two women who made it without discussing it.
+
+Wei has no position at all. Su asked him once, at fifteen, straight out, whether he blamed the doctor.
+
+Her father thought about it for a long time and then said: he came in the morning.
+
+That is not an answer, Su said.
+
+No, her father agreed, and did not give her one, and went back to what he was doing — and Su understood, years afterward and not that evening, that she had asked a man who had spent his whole adult life on the wrong end of other people's arithmetic whether he blamed one person for behaving exactly as the arithmetic said he would, and that her father had declined the question because the honest answer would have obliged him to blame a great deal more than one doctor, and he had a shop to open.
+
 She carries Lee the way she carries the basket — distributed, low, close in, arranged across the whole of her so evenly that a stranger on the street would never once guess there was a weight involved at all, which is not a figure of speech and is the only way this family has ever carried anything. She will carry Dr. Cray's kindness and Dr. Cray's coldness the same way, side by side, unreconciled, for the rest of her life — and in four months' time, in a fog on the wharf, she will be given, at last, the one thing eight years of carrying it quietly never gave her: a reason to stop merely carrying the weight, and start, for one single night, to act on it.
 
 She does not know this yet. It is still summer. The newspaper on the counter still only frets about the drains, and the shop still keeps its day hours, and up on the high shelf the white bowl gathers its dust in peace, and two streets away, on his usual stool, a kind old doctor is finishing his second brandy of the evening, unhurried, as he is unhurried in everything, and asking Flo, with what sounds exactly like real interest, whether the potboy's fever ever fully cleared.

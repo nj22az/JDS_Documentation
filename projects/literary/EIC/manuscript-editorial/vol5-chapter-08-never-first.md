@@ -62,6 +62,20 @@ You'd tell me, though, Flo says. If it got to be more than tired.
 
 I'd tell you, Su says, and it is, she understands even as she says it, the first outright lie she has told in this room in three years of settling chits across this counter, and she carries the weight of the lie home with her that night folded in beside the other weight, because a person can only ever set down one account at a time, and this particular week she has not the room in her for two.
 
+She has thought since about why it was Flo, of all the people on that reach, that she came within one sentence of telling.
+
+It was not fondness, though there was fondness. It was that Flo Bishop had, by 1888, been standing behind that bar for twenty-two years, and there is no education on this river to touch it.
+
+She came to the Prospect at nineteen, in 1866, out of a household in Poplar that Su has never had a single detail of beyond the fact that Flo left it and did not go back. She was pot-girl for two years and behind the bar by twenty-one, and the keeper who trained her was a woman of about sixty who ran that house on two rules — everybody gets served, and nothing said at this bar leaves it — and who died in the back room upstairs in 1879 with Flo sitting beside her, and who left her, in a will of about four lines, the licence.
+
+In twenty-two years Flo has seen, in that room: eleven fatal accidents reported at the door, two of them her own regulars; a man arrested for a murder he had not done and released a fortnight later, whom the reach never entirely took back; four suicides off the stairs at Wapping, of which she can name three; and the Princess Alice, which is not a thing anybody on this river has to explain, and after which the Prospect served, for four days, principally as a place for people to sit down.
+
+She has never once been heard to repeat anything she was told across that counter.
+
+That is the whole reason. Su, at nineteen, in November, with a thing in her that has to go somewhere, came within one sentence of putting it into the only vessel on that reach demonstrably built to hold it, and stopped — not because she doubted Flo, but because she worked out, with the sentence already half made, that a vessel built to hold a thing is still a vessel that can be broken open by somebody else, and that what she was about to hand over was not the sort of cargo a person recovers from being made to carry.
+
+Flo, for her part, knew there was something and let it alone. Su is certain of that. She was at that bar every Friday for the next forty years and Flo never once asked, and Flo was not a woman who failed to notice things, and there is only one construction to put on twenty years of a person not asking you a question they plainly have.
+
 ## III. Never First
 
 She does not let herself decide he is the author of all five. That would be the newspapers' arithmetic, and she has no way of doing it honestly, and she knows the plain difference between what a person can count and what a person only wants very badly to count — her whole life has been kept in ledgers that had to balance to the farthing or not balance at all, and she will not now let this one close on a want dressed up as a sum.

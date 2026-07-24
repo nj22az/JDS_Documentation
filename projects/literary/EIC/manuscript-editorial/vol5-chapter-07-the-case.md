@@ -32,6 +32,12 @@ She thinks of her father's own hands, that same week, closing on the high bolt a
 
 She and Dr. Cray are, though neither of them would ever frame it this way, and though neither of them yet knows it will matter, the Company's two long echoes met in one room this whole terrible autumn: a surgeon its wars taught to be calm, and a girl its opium war washed out of Canton two generations back. The machine has been dead thirty years. Its consequences are only now, in the cold of this particular October, beginning to reach the bar in earnest.
 
+What she cannot get past, in the days afterward, is that he was right.
+
+Every single thing Dr. Cray said to her at that bar about those two deaths was correct, decent, and precisely proportioned. He did not overdo the sympathy. He did not ask her how well she had known them, which four other people asked her that week and which is a question with no good answer in it. He said the two things a person actually wants said — that they were her customers and that customers are not nothing, and that the papers would be unkind about them and that she should not read the papers — and then he let the subject go and asked after her mother's rheumatism, by name, correctly, and Su went home feeling, for about eleven minutes, better than she had felt in four days.
+
+She has turned that eleven minutes over for sixty years. It is the single most uncomfortable object in the whole account, and it is uncomfortable for a reason she has never been able to put down: that the kindest thing anybody said to her that entire autumn was said by the man she came four weeks later to believe had done it, and that she has never once been able to decide whether the kindness was a performance, or was real, or whether — and this is the possibility that has cost her the most sleep across the whole of her life — those are not in fact two different things, and never were, in anybody.
+
 ## II. The Clasp
 
 It is a raw evening in the last week of October when she sees inside the case for the first time.
