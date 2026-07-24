@@ -150,6 +150,8 @@ After the homeward passage, Tanner is already lodged at the Pelican in scaled fo
 
 Fever brings Tanner into Esther and Elias’s care. His memory of guarding Company stores from starving Company soldiers turns the domestic cup Esther gives him into both mercy and accusation.
 
+**Current working draft:** 2,970 words. The chapter uses the historical Poplar almshouse and wage levy while treating Edmund Pelling, the Pelican examination, the exact stoppages and the ten-pound allowance as fictional or composite. It joins the sealed return to Miguel’s human list, seeds Tanner’s later paid Company work and keeps all consequences physically inside the Pelican.
+
 ### Chapter 7 — February’s Plank — 2,500 words
 
 Elias dies in a yard accident driven by haste around a Company sailing date. The exact failed lift, shore or suspended timber must pass a marine-engineering review before prose is locked. The Company denies direct liability because a contractor paid him.
