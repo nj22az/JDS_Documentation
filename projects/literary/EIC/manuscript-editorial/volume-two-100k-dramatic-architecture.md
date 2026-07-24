@@ -160,6 +160,8 @@ Anders inspects the failed tackle and explains the physical cause in workman’s
 
 Esther bargains for the return of Elias’s tools while his body remains in the house. She inventories rather than speeches, finds one tool missing and makes the clerk return for it.
 
+**Current working draft:** 4,107 narrative words. The marine-engineering review fixes the casualty chain as a roughly thirty-foot green-oak lower-wale plank, two hemp slings and purchases, an unfair after lead, old chafe at the plank edge, a shore struck before the load is balanced, and no checking line bent on. When the damaged sling parts, the sound forward sling becomes a hinge and makes the after end sweep into the dock wall rather than fall vertically. Anders reconstructs the failure from the polished old fibres, pale fresh break, block-cheek scar and missing preventer. The chapter returns Elias’s body, the severed sling, the liability notice and all nine chisels to the Pelican; the recovered narrow mortising chisel then passes into Anders’s use, preserving the Chapter 15 roof-hatch continuity. The 1,607-word overrun should remain through author review because the lift, death and domestic accounting form one dramatic unit.
+
 ### Chapter 8 — Fifth Soles — 1,800 words
 
 By 1695 Esther has converted rooms into a lodging business. Tanner’s strange boots have acquired English soles and a triangular heel repair. He sometimes supplies information to Company interests and calls it repayment rather than employment.
@@ -407,6 +409,8 @@ Research anchors:
 - [Kyoto City Official Travel Guide: Teradaya Inn](https://kyoto.travel/en/destinations/teradaya-inn/)
 - [EEBO: English proclamation concerning Henry Every](https://quod.lib.umich.edu/e/eebo/A39488.0001.001)
 - [Survey of London: Blackwall Yard](https://www.british-history.ac.uk/survey-london/vols43-4/pp553-565)
+- [Royal Museums Greenwich: Blackwall’s seventeenth-century East India shipbuilding and repair](https://www.rmg.co.uk/collections/objects/rmgc-object-13352)
+- [William Sutherland, *The Ship-Builder’s Assistant* (1711), Folger catalogue](https://catalog.folger.edu/record/866739)
 - [*Maritime Connections Across the North Sea*: Scandinavian maritime labour](https://www.sidestone.com/openaccess/9789088909863.pdf)
 
 ## Drafting order
