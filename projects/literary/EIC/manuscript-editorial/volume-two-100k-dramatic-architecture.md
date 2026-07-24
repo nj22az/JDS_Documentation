@@ -190,15 +190,19 @@ Esther tests Adams with false versions of the Mughal-ship attack during a card g
 
 Six of Every’s men are acquitted and then tried again on a different charge. Procedure supplies the state with the result the first jury refused. The Pelican argues over justice, English juries and Indian victims. Esther refuses both the easy defence of sailors and the easy pretence that the second proceeding is disinterested.
 
-### Chapter 15 — The Door Kept Shut — 2,300 words
+### Chapter 15 — The Door Kept Shut — 2,300-word allocation; 4,911-word working draft
 
-Caleb Nix, an old caulker and friend of Elias, has repeated a story that may lead searchers to the Pelican. Late at night Esther sees lantern light and iron moving past the washhouse river grating: constables and hired watermen are closing the street door and river stairs while a retained Company information-taker identifies the house.
+Caleb Nix, an old caulker and friend of Elias, has repeated a story that may lead searchers to the Pelican. After late service Esther is taking a rare private bath in a coopered tub beside the wash copper. A hooded lantern crosses the ceiling; through the low river grating she sees iron and a boot placed without ordinary watermen’s noise. Constables and hired watermen are closing the street door and river stairs while a retained Company information-taker identifies the house.
 
-She reaches Adams seconds before entry. He wakes with period pistols and is prepared to make the narrow stair cost lives; Esther refuses to let him turn sleeping lodgers into shields. Anders draws the roof-hatch pin, uses the stair door and a loose spar to delay the first searchers, and opens a route over the rear roof, through the old ship-breaking loft and down into a timber yard.
+Her shift is six paces away and Adams is two flights above. Esther spends the available seconds on the warning and runs completely naked up the service stair. This is the direct Oryō-function echo selected by the author, but the prose makes it physical urgency rather than erotic display: Adams looks immediately to Esther’s face, her authority governs the response, and Anders covers her only after the warning has succeeded.
+
+Adams wakes with two period single-shot pistols and is prepared to make the narrow stair cost lives; Esther refuses to let him turn sleeping lodgers into shields. Anders draws the roof-hatch pin with one of Elias’s tools. A table, stair door and loose spar convert the landing into a mechanical obstacle. Adams fires once into the plaster beside the leading waterman, clearing the stairs in smoke without creating a heroic gun battle.
 
 Caleb pounds upon the front door as the men close around him. Esther cannot know whether he came to warn her or unknowingly led them there. Opening the door may save Caleb and expose Adams. She keeps it bolted.
 
-Adams cuts his hand crossing the wet roof and escapes with Anders by skiff on the ebb. Esther stays to answer for the Pelican. Caleb is arrested and later dies of gaol fever. The escape succeeds physically and fails morally, preserving the emotional mechanism of a surrounded-inn warning and river rescue without reproducing the Teradaya incident.
+Adams cuts his hand on broken lead while crossing the wet roof and escapes with Anders through the old ship-breaking loft and into a skiff carried downriver by the ebb. Esther never leaves the stairhead; she stays to answer for the Pelican. Caleb is arrested and later dies of gaol fever. The escape succeeds physically and fails morally.
+
+The complete draft deliberately carries 2,611 words beyond the chapter allocation. It should remain full through author review and the Part II rhythm pass; any later compression must preserve the bath warning, Caleb’s closed door, Adams’s frightening restraint, Anders’s tide work and Esther’s final return to the cold water.
 
 ### Chapter 16 — Six Coats — 2,300 words
 
@@ -206,7 +210,7 @@ A slop-seller claims to possess clothing worn by the condemned. Most of his stoc
 
 ### Chapter 17 — Five Hundred Pounds — 2,900 words
 
-After the night raid, a retained information-taker occupies Esther while Tanner searches Adams’s emptied room for coin, paper and the route by which he escaped. Esther identifies Tanner through the triangular heel repair left in ash, erases the mark and secures the remaining Mughal coins.
+After the night raid, the retained information-taker returns on the pretext of completing the inventory while Tanner makes a quieter, targeted search of Adams’s emptied room for remaining coin, paper and evidence of the escape route. Esther identifies Tanner through the triangular heel repair left in ash, erases the mark and secures the remaining Mughal coins.
 
 She confronts Tanner without allowing either of them to erase Elias, Caleb or the fever room. Adams has already left without a clean confession. Esther refuses the reward but does not absolve him.
 
@@ -365,7 +369,7 @@ The Pelican receives consequences rather than summaries. A voyage must return a 
 | Dossier proposal | Decision | Volume Two form |
 |---|---|---|
 | A friend is "cut loose" to save the house | Adopt the emotional cost; replace the recognisable mechanism | Esther keeps the door bolted against Caleb while constables work the lane |
-| A hunted guest escapes a surrounded inn after a warning from below | Adopt the pressure pattern; rebuild every material detail | The Pelican night raid uses Esther’s washhouse warning, period officers, a roof hatch, Anders’s seamanship and an ebb-tide skiff; Caleb’s arrest is the cost |
+| A hunted guest escapes a surrounded inn after a naked warning from below | Adopt Esther as the direct Oryō-function counterpart; rebuild every material detail | Esther sees the encirclement while bathing and runs naked to Adams; period officers, a roof hatch, Anders’s seamanship and an ebb-tide skiff make the escape native to the Pelican; Caleb’s arrest is the cost |
 | A lodger falsely identifies himself as Adams | Reject | Verification problems and heroic substitution would pull focus away from Esther's choice |
 | Officers feast while Bombay soldiers rot | Transform | Tanner guards Company stores from starving Company soldiers |
 | Investors deliberately provide Kidd a rotten ship | Reject as historically false | A new ship is consumed by hurried building, hard service, disease, leaks, and an extractive prize bargain |
@@ -386,6 +390,8 @@ The Pelican receives consequences rather than summaries. A voyage must return a 
 - Kidd's trial occurred on 8–9 May 1701 and his execution at Wapping on 23 May. The rope broke on the first attempt.
 - "Hollands" or "geneva" is preferable to treating the later Gin Craze as already fully developed in 1696.
 - The Pelican raid must use period constables, deputies, hired searchers or watermen as the evidence supports. It must not use the anachronistic institutional term *police*.
+- Esther’s bath is rare and labour-intensive: a coopered tub, working wash copper, carried water and fuel after closing. Her naked run is a deliberate Oryō-function echo and must remain urgent, non-erotic and governed by Esther’s authority in every revision.
+- Adams uses two single-shot period pistols. Only one is discharged in the house; no revolver rhythm or repeated firing enters the scene.
 - Anders’s Swedish maritime service is grounded in the international seventeenth-century labour market: Scandinavian seamen, including Swedes, served aboard Dutch vessels and moved between maritime employers.
 
 Research anchors:
