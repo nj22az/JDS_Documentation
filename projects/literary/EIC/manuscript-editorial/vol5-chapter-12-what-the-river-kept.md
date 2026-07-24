@@ -417,4 +417,22 @@ That, Su has concluded in old age, is the ordinary condition of teaching anythin
 
 She teaches the practice the whole rest of her life, to her own children and then to theirs, and to a scattering of other Causeway children besides, sent to her yard by parents who remember, or have heard, that the Zhangs keep something worth the keeping behind their chandlery. She never once takes payment for the teaching beyond what a fair exchange requires. She never once teaches it for show. She never once, in the whole span of her own long watch over that yard, raises her voice in it.
 
+She is asked, once, late, by a granddaughter doing something for a school in the nineteen-thirties, what the most important thing that ever happened to her was.
+
+Su thinks about it for long enough that the granddaughter, who is twelve and has four more questions on a list, begins to fidget.
+
+Then she says: I was taught something properly.
+
+The granddaughter writes down *taught to do the washing*, because that is what a twelve-year-old with a list hears, and Su lets it stand, and the paper gets a good mark and is in a drawer somewhere in that family to this day.
+
+It was the true answer. It was the truest answer available and Su gave it plainly and it went into a school exercise book as a sentence about laundry, and Su has never once regretted giving it, because the alternative was explaining, and there is no explaining it.
+
+What she means, and cannot say, is this: that she was handed, at seven, by a man who had nothing else to give her, an entire apparatus for being in the world — how to stand, how to wait, how to read a stranger across a room, how to want a thing and not take it, how to carry what cannot be put down — and that every single part of her life since has been that apparatus in use, in a shop, in a lane, in a marriage, in a raid, at four generations of small elbows; and that she has never in ninety years found any part of it that did not hold.
+
+She is not grateful in the ordinary way. Gratitude is for gifts and this was not a gift; it was closer to a trade, paid for by a boy on a Hong Kong pier who is thirty years dead by now under a name nobody in this family ever learned, and by a man who stood in a cold rectangle at half past four every morning for fifty-two years and died in it.
+
+What she is, instead, is in credit and always has been, and has spent an entire lifetime attempting to reduce the balance and has never once got it below what she started with, and has stopped expecting to.
+
+Some debts are not for closing.
+
 The watchman's daughter is the watchman now, and has been for the better part of forty years, and will go on being it a good while longer, standing in the grey light before the counter opens, a small unreasonable argument for the world's continuing, the same way a crimson flower argues for it every June from a chandlery window between two lamps, roots easy, minded against every frost that has come since, and every frost still to come.

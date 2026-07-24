@@ -328,6 +328,36 @@ They quarrel perhaps four times in a decade, always about the slate, always in C
 
 Su thinks, later, that the nineties were the best decade of her life and that she did not notice one single day of it while it was happening. There was a husband who came and went, and three children, and a father in the yard, and a mother at the counter, and a shop that paid, and nobody died in it, and that — she has come to understand, from the far side of a great many years in which somebody did — is the entire specification for a good decade, and there is no possible way of knowing you are inside one at the time.
 
+The first year is not what either of them expected and neither of them says so for about a decade.
+
+They do not get a house. That was in the manifest — *I have no house yet* — and it stays true for eleven years, and what happens instead is that Erik Johansson moves into two rooms above a laundry with his wife, his wife's mother, and his wife's father, which is an arrangement no part of his upbringing on a Swedish fishing coast had prepared him for in any particular.
+
+He is at sea for six of the first twelve months, which helps.
+
+What Su had not thought about at all, and thinks about a great deal in that first year, is that she has married a man she has only ever seen in a shop.
+
+Two years of Tuesdays is a very great deal of a person and it is also, she discovers in about the third week, almost nothing: she has never seen him tired, or ill, or wrong about something, or in a room with her father. She has no idea what he is like at four in the morning. She does not know whether he snores, whether he sulks, what he does when he is angry — and finds out, in the January, that what he does when he is angry is go and stand outside for between ten and forty minutes and come back in having finished with it, which is so exactly what her father does that Su has to leave the room.
+
+Her father and her husband arrive at their own arrangement inside a fortnight and Su is not consulted about any of it.
+
+It consists, so far as anybody can determine, of the two of them mending things. Erik can splice and Wei can splice and neither of them has ever met another man who does it the same way, and the two of them spend the whole of that first winter at the shop bench in the evenings taking turns to be quietly appalled at each other's method, in an English of about four hundred words and a great many gestures, and Su comes in one night in December to find her father laughing.
+
+She has seen her father laugh perhaps nine times.
+
+Her mother's arrangement with him is simpler and takes longer. Sau-Ling spends eight months treating Erik as a lodger of exceptionally good character, which is a considerable compliment and is not the same as family, and then one morning in the following autumn Su hears her mother tell him, in the private nine-hundred-word English, that he is putting the wet things on the wrong line and to stop.
+
+That is the ceremony. There is no other.
+
+What Su remembers best of the whole first year is a Sunday in the June — the slack tide, the hired boat, the second one they ever took — when Erik stopped rowing in the middle of the river and sat there with the oars up and said that he had been thinking about it and that he wanted to be clear about one thing.
+
+Su waited.
+
+I am not going to ask you, he said. Not about the fog, and not about anything else. Not this year and not in twenty years. I want you to know it is not because I do not want to know. It is because I have worked out that I would rather have you than the answer, and if I ask I will very likely get one and lose the other, and I am not a clever man but I am clever enough to see that from here.
+
+And then he picked the oars up again.
+
+Su has thought about that hour on the water for the rest of her life and has never once been able to decide whether it was the kindest thing anybody ever did for her or the loneliest, and has settled, in old age, on the conclusion that it was both, and that a marriage of thirty-two years is quite long enough to hold both, and that hers did.
+
 ## V. One Tuesday
 
 Because a decade is not a thing that happens, and because Su has never in her life been able to remember the nineties as a decade and can remember, entire, a Tuesday in the March of 1897, it is worth setting down that Tuesday.

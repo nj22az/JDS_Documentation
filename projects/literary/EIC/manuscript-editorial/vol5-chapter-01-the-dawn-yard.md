@@ -236,6 +236,24 @@ Sau-Ling has run that arithmetic since 1873 and has never once been more than a 
 
 Su learned the whole machine before she was twelve and has never worked anywhere else and never will. She is, by the summer of 1888, quicker at every single station in it than her mother, which neither of them has ever said aloud, and which both of them arranged around some time in the winter of 1886 by the simple expedient of Sau-Ling moving permanently to the counter.
 
+Sau-Ling Zhang is fifty-one this summer and has been in England for sixteen years and would tell you, asked, that she is from Guangdong province, and that is the entire biography anybody outside this house has ever been given.
+
+Inside the house it is not much longer. There was a village. There were three girls and Sau-Ling was the youngest. There was a year — 1868 or thereabouts, though she has never given a year and Su has assembled it out of other things — in which whatever happened happened, and after it Sau-Ling was in Hong Kong, and four years after that she was on the Highway, and neither of the other two girls was anywhere at all.
+
+That is the whole of it. Su has three facts about her aunts and will still have three facts about them at ninety.
+
+What her mother has instead of a history is a working method, and Su has watched it operate for nineteen years and could set it out in four lines.
+
+She does not raise her voice. In nineteen years Su has heard her mother shout once, at a man with a horse, about the horse.
+
+She does not explain herself. Ever. To anybody. If a thing she has done requires explaining, her position is that the person requiring it is welcome to work it out.
+
+She does not weep in front of people. She weeps, she says, the way stones weep, which she has explained precisely once and which Su did not understand until she was about thirty.
+
+And she does not close her book. That is the fourth and it is the one that matters, and it is the exact opposite of everything her husband believes: that the accounts do not come right, that they were never going to come right, that a book which balances is a book somebody has been lying to, and that the correct thing to do with a loss is to enter it honestly and leave the column open and go on trading.
+
+Su is made of both of them and has always known it: her father's four rules, every one of which exists to close a thing properly, and her mother's open ledger, which exists to refuse to. She has never once managed to reconcile them and has come, over a long life, to suspect that they are not meant to be reconciled — that a person needs one of them for the things they do and the other for the things that are done to them, and that the entire trick is knowing, at speed, in the dark, which sort of thing is currently in front of you.
+
 ## III. The Prospect
 
 The Prospect of Whitby stands where the Wall meets the water, and has stood there long enough that nobody in it can tell you truly how long — only that there was a tavern on the spot when the Company was young and the river ran browner, and that the flagstones underfoot have been walked smooth by more feet than the parish has ever counted living.

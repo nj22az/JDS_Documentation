@@ -53,6 +53,18 @@ It is today, Su said, and swept the coins into the drawer before either of them 
 
 Su has thought about the brown mark below the left shoulder perhaps four hundred times since.
 
+Su has never found out whose the gown was and has constructed, across sixty years, about four different accounts of it, none of which she has ever believed for more than a fortnight at a time.
+
+It was too fine for anybody Elisabeth could have a claim on in 1888. That is the fixed point and everything else moves around it. So either it came from the far side of the ocean, out of whatever Elisabeth was before she was a tall Swede with a story about a steamer — in which case a woman carried a hand-worked christening gown across the North Sea and through fifteen years of the sort of life that leaves a person paying for laundry in warm coin out of a knotted cloth, and did not sell it, at any point, in any of those fifteen years, which tells you something so specific about what it was that Su has never been able to look at it directly.
+
+Or it was somebody's here, and was given to her, or left with her, or entrusted, and the person it belonged to was gone by 1888 in one of the several ways people were gone in that decade.
+
+Or — and this is the one that arrives at three in the morning — it was hers, and there was a christening, and the brown mark below the left shoulder that did not come out and never would came from that day, and the whole of Elisabeth's public grief about a pleasure-steamer was a story built to stand in front of something that had no date and no band playing and no six hundred souls in it, only one.
+
+Su has never once tried to establish which. She could have asked, that summer, on any Monday, and did not; and after the summer there was nobody to ask, and there has been nobody to ask for sixty years, and the four accounts have gone on sitting side by side in her head, none of them provable, all of them the same size.
+
+That, she has come to think, is the ordinary shape of knowing another person. You get the outside, which is generally accurate, and one object you cannot account for, and then they die.
+
 There is a Monday in the June when a constable puts his head in for his collars while Elisabeth is at the counter.
 
 It is nothing. He is a large placid man who has been coming for his collars for six years and who says the same four things every week and is fond of Sau-Ling in the manner of a man who has decided that being fond of somebody's mother is a reasonable substitute for learning their name. He nods to Elisabeth. Elisabeth nods to him.
