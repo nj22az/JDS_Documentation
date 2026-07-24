@@ -58,6 +58,20 @@ And because her father raised her to read a knot from both ends, always, or not 
 
 She starts asking, all the same. Not directly — not yet, not to him, not to anyone who might carry a question back to him before she is ready for it to arrive. She asks Flo, over a delivery, how long the doctor has kept rooms nearby, and receives an answer she already knew — fifteen years, since before Flo's own time at the bar properly started — offered without any weight in it at all, the way you'd answer a question about the weather.
 
+She does not sleep that night and does not, for the whole of the following day, arrive at anything she is prepared to call a conclusion.
+
+What she does instead — at the copper, at the mangle, on the round, for about eleven days — is try, with real and deliberate effort, to make it be nothing.
+
+This is the part of the whole account that Su has been most careful to keep straight in her own telling of it, because everything afterward depends on her having done it honestly. She was not a girl who saw a shape in a bag and knew. She was a girl who saw a shape in a bag and spent a fortnight constructing, in good faith, every innocent explanation she could reach.
+
+A retired surgeon may keep his instruments. Men keep the tools of a trade they no longer practise; her father has a splicing fid in that shop he has not used in nine years and would fight a man for. A retired surgeon may keep them wrapped in oilcloth, because oilcloth is what you wrap steel in on a river. A retired surgeon may carry the case about with him from habit, because he has carried it for forty years and a man does not put down a thing he has carried for forty years merely because he has stopped being paid for it.
+
+Every one of those is true. Su can still produce all three at eighty and they are all still true and they were all still true in November.
+
+The trouble is the fourth thing, and the fourth thing is not a fact about the case at all. It is that a man does not, generally, carry a bag through the streets of Whitechapel in the autumn of 1888 that he would be unable to explain if he were stopped — and Dr. Reginald Cray, who is the most careful man Su has ever met, and who has not in fifteen years made one single error of judgement in that bar in front of her, was carrying it anyway.
+
+That is all she has. She knows it is all she has. It is the reason the case goes into the river unopened five weeks later and the reason she has never once been able to leave it there.
+
 ## III. What the Doctor Saw
 
 She goes back to the dockworker.

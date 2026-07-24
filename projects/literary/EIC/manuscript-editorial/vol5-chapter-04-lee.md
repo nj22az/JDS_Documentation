@@ -74,6 +74,20 @@ That is not a figure of speech and it is not, Su has come to believe, hardness. 
 
 Her elbows were wrong that morning. He corrected them.
 
+Su saw the register once, years later, and this is the fact about her brother's death that she has told exactly nobody.
+
+She was fifteen, standing in the passage of that house on an errand that had nothing to do with the doctor at all — his housekeeper sends her own washing to the Zhangs and always has, which is not the same thing as the doctor sending his and which Su will think about a great deal at nineteen — and the housekeeper had gone through for her money, and the book was open on a table by the door because he had been writing in it and had been called away, and Su, who reads English perfectly well and has since she was eight, did what any fifteen-year-old alive would have done and turned the pages back until she found the winter.
+
+The entry is four lines. Date. Name — the English one, spelled correctly. Age, given as seven. Cause, one word.
+
+And a fifth thing, in the margin, in the same hand: the fee, and beside it a small tick.
+
+It is the tick that Su has carried ever since. Not the word *fever*, which was true. Not the fee, which was owed and was paid and which every doctor in England records. The tick — the small pen-stroke a man makes to himself, later, in a quiet room, going through a book, confirming that a thing has been settled.
+
+She put the pages back. The housekeeper came with the linen. Su walked home.
+
+She has never once decided what the tick proves, and has come to suspect, in old age, that it proves precisely what it appears to prove, which is that the account was closed — and that the entire difficulty of her life with that man is contained in the fact that it was, and that it was closed correctly, and that a boy was dead and a book was in order and there is no line anywhere in the world's arrangements at which those two sentences are obliged to meet.
+
 ## II. What Neither Fact Would Cancel
 
 It was not murder. Su has turned this over more times than she could count and always arrives at the same honest place: it was not murder, and it was not even neglect as the parish would reckon neglect, because a doctor did come, and the fee was the fee charged to any house on that street, and the word in the register was the true word. What it was, was smaller than a crime and colder for being smaller: a man deciding, somewhere behind his own eyes, at his own street door, through his own housekeeper, what a chandler's boy off the Causeway was worth getting cold for on a bad night. That decision cost nothing in the ledger any court could read. It cost everything in the one Su's mother keeps.

@@ -34,6 +34,32 @@ She tells no one. Not Flo. Not her mother. Not — and this decision costs her m
 
 Because her father would believe her. That is exactly the trouble with telling him. He would believe her at once and without a single qualifying question, the way he has believed every true thing she has ever brought him since she was seven years old standing in a horse stance not understanding a word of what was being asked of her — and having believed her, the rules that hold the whole of him together would demand something of him in answer, one way or another, because a man who has spent forty years teaching four rules to his daughter cannot simply set them down himself the one time they become inconvenient. And he is beloved on this street, and he is foreign on this street, and this is currently a city burning foreigners for the smallest kindling it can find. Whatever is going to be carried out of this particular autumn, Su decides, standing at her own front door with her hand not yet turning the latch, is going to be carried by her, alone, because she is the one person in the household who can set the weight down again afterward without the street noticing she ever picked it up.
 
+She stands across from that station for forty minutes and she has never once been able to describe those forty minutes to herself as cowardice, and has never once been able to describe them as anything else either.
+
+The sentence is ready. She has it in the careful English, the flat clipped one, the version that gets a constable his collars without any further conversation. *I have reason to believe that a gentleman of this parish is the man you are looking for, and my reason is that I saw the inside of his case.*
+
+Twenty-two words. She has counted them.
+
+What she does instead is inventory the difficulty, standing there in the cold, with the thoroughness of a person who has been taught since the age of seven that a thing badly begun cannot be well finished.
+
+The reason is one glimpse of an oilcloth shape, seen for less than a second, by a witness who was not looking for it and is not qualified to say what it was.
+
+The witness is nineteen, female, Chinese, a laundress, and has a personal grievance against the accused going back eight years to the death of a brother, which will be established inside four questions and will end the interview.
+
+The accused is an English gentleman with a Company pension, a fifteen-year reputation on this reach, and — Su thinks of this one standing on the pavement and it is the moment she stops being able to move her feet — a professional acquaintance with the police surgeon's own trade, which means that of everybody in Wapping he is the single man best placed to explain, in the correct vocabulary, to men who will believe him, exactly why a laundry girl misunderstood what she saw in a bag.
+
+And the whole of it will be in a book, at that station, with her name and her family's address, within the hour.
+
+She thinks about her father in a doorway with his hands out.
+
+She thinks about the fortnight of arrests and about who was arrested in it.
+
+She thinks about her mother, at the counter, in a shop with a window, in a street where a report of a man coming out of Pennyfields had eighty people standing outside a door in September.
+
+And Su Zhang, nineteen years old, in possession of the only piece of information in London that might have mattered, works out — correctly, and she has never in sixty years found a flaw in the reasoning — that the most likely outcome of walking up those steps is not that a murderer is stopped. It is that her family's shop has its window put in, and her father is questioned, and the thing she saw is written down in a form that makes it useless, and the man she saw it in the hands of is told who told them.
+
+She turns round and walks home the long way, and does not cry, and gets the copper drawn by twenty past five the following morning as she does every morning of her life.
+
 ## II. What Flo Almost Asked
 
 There is one evening, in the first week of November, when Su comes closer to telling somebody than she ever comes again.

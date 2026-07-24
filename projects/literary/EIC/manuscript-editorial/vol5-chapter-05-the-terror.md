@@ -118,6 +118,32 @@ He leaves early some nights. Not most. Su could not put a number on it and does 
 
 She will take it out again in November. She will lay it against a calendar and find one pairing among them that will not lie flat, and she will still be laying it against that calendar at eighty-two, and it will still not lie flat, and it will still not prove one single thing.
 
+The name arrives at the beginning of October and changes everything, and Su watches it happen across a counter in about four days.
+
+Until then the thing has no name. It is *the murders*, or *the Whitechapel business*, or — in the mouths of people who have to walk home past it — nothing at all, a subject indicated by a tilt of the head. A thing without a name is difficult to be frightened of in an organised way. It is also, Su notices without having any framework to put the noticing in, difficult to sell newspapers about beyond a certain point.
+
+Then a letter is printed, signed, and by the end of that week there is a name on every hoarding from Aldgate to the Isle of Dogs, and the whole character of the fear changes in the space of a fortnight from a thing that has happened twice to a person who is out there.
+
+Su's own view of the letter, formed at nineteen behind a counter and never once revised in sixty years, is that it was written by a journalist.
+
+She has no evidence and never had any. What she has is a laundress's ear for a thing made to be looked at: the same instinct that tells her which of two identical collars has been got up for a wedding, applied to a piece of prose that arrived at exactly the moment the story needed it and did exactly what the story needed. Her mother, hearing it read aloud in the shop, says one word in Cantonese which Su has never found an English equivalent for and which means, approximately, *staged*.
+
+What the name does is give the fear a shape people can carry about with them, and what a shape people can carry about with them does, on a street like that one, in an autumn like that one, is get pointed at somebody.
+
+There is a fortnight in the middle of it — after the double event and before the fog closes the year — when the reach is arresting people at a rate Su has never seen before or since. Not the police, particularly; the street. A man is taken up because of a bag. A man is taken up because he was seen washing his hands, which is a thing every man on a dock does forty times a day. A Polish Jew from Berner Street is held and questioned and released and held again, and the crowds outside the station on those days are, Su is told by a carman who saw one, larger than the crowds at the inquests.
+
+Nobody who is taken up in that fortnight is English.
+
+Su does not say this out loud to anybody, and does not need to, because her father says it in one sentence at the bolt on the second Friday and her mother says nothing at all and puts the kettle over, and all three of them go on opening at six.
+
+The reward money is the other thing. There is a great deal of talk about it that autumn — subscriptions raised, sums named, a vigilance committee offering what a docker earns in three years — and Su, who has a rule against money her whole life and did not invent it, listens to a bar full of men do the arithmetic on a Friday evening and understands something about her own family's third rule that she has never quite understood before.
+
+Never for payment. It has always sounded to her, privately, a little grand — a rule for a man with a courtyard, not for a laundress on a reach where nobody is offering anybody anything.
+
+But there is money on the table now. Real money, publicly advertised, for exactly the sort of information a person might come by if they kept their eyes open in a bar; and Su, listening to the arithmetic, watches four men she has known her whole life get slightly, visibly, differently interested in their own neighbours over the course of an evening.
+
+That is what the rule is for. It is not about her. It never was. It is about what a large enough number does to the quality of what people notice, and her grandfather worked it out in a courtyard in Canton, and her father carried it four months round the Cape, and it has been sitting in a cold yard in Wapping for fifteen years waiting for the one autumn in which it would turn out to be about something.
+
 ## III. The Hands in the Doorway
 
 The word Leather Apron does something to the East End that the word Ripper, when it finally arrives, will only make worse: it gives the fear a face, and having no actual face to put to it, the fear goes looking for one among the faces the street was already a little afraid of before any of this began.
