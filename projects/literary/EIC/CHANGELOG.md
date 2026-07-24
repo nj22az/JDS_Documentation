@@ -4,6 +4,43 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-24b] (The exile as one-way letters — deployed)
+
+### Changed — deployed reader (author-directed pivot)
+- Reworked Tom's fourteen-year exile into a **one-way correspondence**: he
+  writes Maggie letters across 1612–1626 and sends nearly all of them; she
+  reads every one and never replies. He writes the mythic Fritiof sea-life and
+  asks after the Pelican, the regulars, the stool, and her health — never his
+  own good deeds (that would plead his case), never the word "love". The reader
+  sees the gap between the tall tale he writes and the lonelier man who writes
+  it. Exactly **one** letter ("You were right") is kept unsent.
+- Maggie is glad of the letters and never answers: the Wapping mail man asks
+  every packet day if she has anything going back, and she always says "nothing
+  today". She has the leaking roof mended and never tells him. Tom's love is an
+  open secret the whole Wall knows and she never acknowledges.
+- The 1626 reunion breaks with "Tom, you fucking idiot" — a look, then the
+  deployed restraint (thimble, "Till you're back"). Maggie dies (1633) with
+  nothing said. In "Last Orders" (1635) the mutton-and-mace pie Joan serves on
+  Maggie's standing order is her one reply; in the fault under the bar Tom finds
+  fourteen years of his own letters, read soft, kept with the dead men's true
+  accounts and the thimble — and understands she read every one.
+- Her heart is resolved only in kind, never in name: the pie and the kept
+  letters say what she would not, wordless and posthumous.
+
+### Scope & verification
+- Five chapters: Tom at Surat (§X "The Letter Not Sent" -> "The Letters"),
+  News from the Sea (§V rebuilt as "His Word, and the Truth of Him" + re-pointed
+  close), Batavia (§V/§VI reframed, §XII "The Eighth Letter" -> "The Last
+  Letter"), The Man Who Came Back Wrong (reunion crack), Last Orders (pie-as-
+  reply + the letters found under the bar).
+- Bundle `app/index-fo8823.js` -> `app/index-lm71qd.js`; cache-buster
+  `20260724-exileletters`. Verified: `node --check`, 117 page ids unchanged,
+  zero scaffolding, zero `<em> </em>` garble, "love" rose by exactly one (the
+  deliberately-unresolved narration line, never inside a letter), exactly one
+  letter unsent.
+- Working proposals: `manuscript-editorial/exile-sent-letters-rework-full.md`
+  and `15-1620-tom-at-surat-sent-letters-rework.md`.
+
 ## [2026-07-24] (The epic 1612 falling-out — deployed)
 
 ### Changed — deployed reader (author-directed)
