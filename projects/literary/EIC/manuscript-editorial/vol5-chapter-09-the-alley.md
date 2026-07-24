@@ -16,6 +16,28 @@
 
 ## I. The Rehearsed Quiet
 
+There is a way of telling this that Su has never once used and will not use now, and it is worth saying what it is so that its absence is not mistaken for modesty.
+
+The way of telling it is: a girl trained for thirteen years in a cold yard walked round a corner and did what she had been trained to do, and it worked.
+
+Every word of that is true and the whole of it is a lie, and the lie is in the shape rather than in any of the facts — because a sentence built like that has an ending in it, and a purpose, and a sort of tidy justice running through the middle of it, and there was none of any of that in the lane. There was a fog, and a scuffle in it, and a man who had not expected anybody, and a woman who got away, and about nine still pictures, and a river that would have taken him exactly the same way if he had slipped on that stone by himself on any night of the preceding fifteen years.
+
+Su has spent sixty years refusing that sentence, in the privacy of her own head, every time it has offered itself — and it has offered itself perhaps four thousand times, generally at three in the morning, generally with her father's voice on it, which is the thing that makes it hardest to refuse.
+
+There is one further thing to say before it, which is that Su Zhang did not know, at any point in the next two minutes, that the man in front of her had killed anybody at all.
+
+She believed it. She had believed it since the first week of October and had gone on believing it through six weeks of arithmetic, a ledger kept in her own head, a shirt read seam by seam, and forty minutes across from a police station. Belief is not knowledge and she has never once in sixty-one years allowed herself to blur the two.
+
+What she knew, in that lane, was what was in front of her: a woman against a wall, a forearm across a throat, a rehearsed quiet, and a hand going to a clasp rather than a handle.
+
+That is the whole of the warrant. Everything else — the autumn, the two Mondays, the five names, the century's capital letters — was already in her and had been for six weeks, and would have been just as present in her if the man against that wall had turned out to be a stranger off a collier with no history at all.
+
+She has thought about that harder than she has thought about anything else in her life, because it is the hinge: whether what she did in the next two minutes was done on account of what she saw, which is permitted, or on account of what she believed, which is not.
+
+She has never got a clean answer.
+
+What follows is the other way of telling it, which is what happened.
+
 The fog that comes down on the reach that night is the kind the river makes rather than the kind the weather brings, and everybody on the Causeway can tell the difference by the smell of it before they have got the door shut behind them.
 
 It comes up off the water at about four in the afternoon, thin, and by six it is a wall. By eight there is no far side to any street. The lamps do not light the fog; they sit in it, one at a time, each with a small yellow room of its own about nine feet across, and between the rooms there is nothing at all, and a person walking that reach at nine at night crosses the gaps by memory and by the feel of the kerb under one boot.
@@ -113,6 +135,14 @@ She listens for the woman down the lane and there is nothing. She listens for fo
 Then she turns round and goes back for the basket, because it is the shop's basket, and because eleven of the parcels in it are clean and paid for and belong to people who will want them in the morning.
 
 That is when she sees the case.
+
+The fan is back in her sleeve before she is aware of having put it there.
+
+She finds it there at the wharf edge, patting for it, and it is already where it lives, folded, along the inside of her left forearm under the cuff — and she stands in the fog for a moment with her hand on her own sleeve, entirely unable to account for the last four seconds of her own body's activity, and then stops trying to account for it because there is a case in the mud eleven feet away and it has begun, in the last minute, to be the only object in the world.
+
+She will find, in the morning, in daylight, in the yard, a small crack across two of the outer ribs about a third of the way down, which was not there in September.
+
+She never has it mended. There is nobody on that reach who could mend it and she would not have handed it to them if there were, and by 1897 it is worn smooth enough that nobody but a person who knew where to look would find the crack at all, and by the nineteen-thirties there is nobody alive who knows where to look except one very old woman, who checks it, without thinking about it, with her thumb, perhaps four times a year.
 
 There is one detail from that lane Su has never been able to place and has stopped trying.
 

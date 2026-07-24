@@ -42,6 +42,20 @@ The long breath she can do entire, and does, every morning, and it is the part o
 
 She has not raised her hand to anybody in fifty-one years.
 
+There is a photograph, taken in 1911 outside the shop by a man who did that sort of thing along that reach with a cart and a black cloth, and it is the only one that exists of any of them.
+
+Erik is in it, ashore for good that year, in the doorway with his hands at his sides. Su is beside him at forty-two with her sleeves down, which she has done for the photograph and would not have done otherwise. The three children are in front, arranged by somebody, all of them furious about it.
+
+Nobody is smiling, because nobody smiled at a camera in 1911, and the whole group has the stiff braced look of people being asked to stand still by a stranger for eleven seconds.
+
+Su has looked at it perhaps a thousand times across the following twenty-eight years and has never once been able to find, anywhere in it, any of the people she actually knew.
+
+It is a perfectly good photograph. It is accurate. Every face in it is the right face. And it has nothing whatever to do with a man who laughed nine times in his life, or a woman who wept the way stones weep, or a Swede who stopped rowing in the middle of a river to say that he was never going to ask — and Su has come to think, in old age, that this is not a failure of the photograph and is simply what the outsides of people are: entirely truthful, and no use at all.
+
+Which is why the yard.
+
+You cannot photograph eleven thousand mornings. There is no way to hold one up and show it to anybody. But a child who has stood in a cold rectangle at half past four beside her great-grandmother has the whole of it in her body without one word having been said about any of it, and will pass it on the same way to somebody Su will never meet, and that is the only method of keeping anything this family has ever found that works.
+
 Su has outlived nearly everyone this book has ever properly introduced.
 
 Her mother, thirty years gone now, buried beside a husband and a son in a small churchyard the mission still tends. Erik, twelve years gone, his own knees having finally refused him altogether on a quiet Tuesday afternoon in his chair by the window, the crimson flower blooming its unreasonable June argument in the same glass a season after he stopped being able to see it, which Su has never once decided whether to find cruel or only ordinary. Flo, further back than that, the Prospect itself passed twice now to keepers neither of them ever met, the short-legged chair, so far as anyone still troubles to report it, propped level still with whatever playbill happens currently to be doing the propping, left for last the way it has always been left for last, the reason as thoroughly forgotten now as it was the first year Su ever asked after it.
@@ -70,6 +84,18 @@ Catherine's bodice hangs now, has hung for the better part of forty years, in a 
 
 The white bowl stands on its own high shelf still, dusted by whichever hand in the family happens, this particular season, to be the one charged with dusting it, a duty passed down now four generations without a single one of those generations ever once questioning why a plain rice bowl from a Hong Kong tea stall deserves the keeping. Some debts are not for closing, Su's mother told her, near the very end, and Su has taught the sentence to every child who has ever stood in this yard, in both her languages, the way her father taught her the four rules before either of them, in the sentence itself, existed yet as words a child could give back.
 
+The child will ask, in about two years, what it is for.
+
+They all do, at nine or ten, once the novelty has gone and the cold has stopped being an adventure — and Su has been giving the same answer since 1902, which is her father's answer, which is no answer at all: that she will stand in it every day of her life, and that most days it will teach her nothing, and that the days it teaches her nothing are the rent she pays on the day it teaches her everything.
+
+Her father made her wait six years for anything better than that, and then gave her the four rules, and then never expanded on them again in twenty-three further years of dawns.
+
+Su has come to think he was right and has never once been able to do it as cleanly. She adds things. She has, over four generations, added a sentence here and a sentence there, and every single one of them has made it worse — because the true answer to *what is it for* is a fog and a lane and a woman against a wall and about nine still pictures with nothing between them, and there is no form of words in either of her languages that puts that in front of a nine-year-old without either frightening her or, very much worse, making it sound like something a person might want.
+
+So she gives the child the rent, and the four rules in both languages, and eleven thousand mornings, and nothing else.
+
+Whether that is enough is not a question Su is going to be alive to have answered.
+
 The great-grandchild holds the stance a moment longer than the small determined legs would naturally choose, and Su, watching from behind, feels the particular ache of an old woman's own knees answering the cold in fellow-feeling with a child's, and thinks, not for the first time this decade, that a life is a very long series of dawns in the same six paces by four, each one nearly identical to the one before it, and that the sameness, rather than being the flaw a younger woman might once have taken it for, has turned out, across the whole unlikely length of things, to be the entire point.
 
 Bridge, she says.
@@ -95,5 +121,7 @@ She listens.
 Through the small crossed wrist she can feel, the way she has felt it in four generations of dawns now, exactly where a weight is settling before the child has finished deciding to settle it there — and somewhere far off, past the wall, past the Causeway, past the whole waking business of a river that has taken everything this house has ever fed it and given back, in exchange, one clean stretch of ordinary mornings, a cart starts its iron complaint over the cobbles toward the dock, the way a cart has started that same complaint every single dawn since before any Zhang stood in this yard at all, and will, Su supposes, go on starting it every dawn after the last of them has finally, one morning, simply not come out to hear it.
 
 The fan waits in the drawer behind her, worn smooth as an old knuckle, waiting on the hand that will next need raising it.
+
+Then the counter opens, and it is Tuesday, and there is a great deal to get through.
 
 The yard has perhaps a quarter of an hour left of being only the yard.

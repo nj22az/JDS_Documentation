@@ -56,6 +56,20 @@ That is the part her mother has never once, in eight years, been able to let go 
 
 He wrote fever in his register. It was true, as far as it went. A fever had, in point of fact, killed the boy. The word cost Cray nothing and committed him to nothing and closed the account exactly as far as any account needed closing, in a parish that had buried children of fevers all winter and would bury more before the spring, and there was, in the strictest reading of it, no lie anywhere on that page.
 
+What Su did on the second night, which nobody in that house ever knew about, was go out to the yard.
+
+She was eleven. She had been sent to bed and was not sleeping and could hear her mother's feet crossing and recrossing the floor, and at some point after midnight she went down through the shop in her nightdress and out of the yard door in the sleet, and stood in the horse stance, in the dark, on the black glass of the flagstones, for as long as she could hold it.
+
+She had no theory about it. She was not bargaining with anybody and had no God to bargain with — her mother's was up the road in a building and her father's did not exist — and she was not, in any sense she could have explained then or has been able to explain since, doing anything at all.
+
+She stood in it because it was the only thing in the world she knew how to do properly, and because there was a boy upstairs burning, and because a person of eleven confronted with a situation entirely beyond them will reach, every time, for the one piece of ground under them that has never moved.
+
+She held it, she thinks, about four minutes, which was nothing like her best.
+
+Then she came in and went up and got into bed with her feet numb and did not sleep.
+
+She has never once told anybody. She told herself, for years, that it was a childish thing and slightly ridiculous — and then she was forty, and then sixty, and then she was very old, and at some point across that span she stopped finding it ridiculous at all and started finding it, on the contrary, the single most accurate thing she has ever done, before or since, about anything.
+
 Lee died on the third night.
 
 Su was in the room for that part. She does not describe it, even to herself, in the years that follow — there is a wall in her own memory precisely where that hour should be, built, she suspects, by the same part of her that decides which knots are worth naming aloud and which are better left alone — but she remembers, with a clarity that has never once dimmed, the specific silence that came after, which was not the silence of a house at rest. It was the silence of a house that has just discovered how much noise a small boy's ordinary breathing had been making in it the whole time, without anyone once noticing, until it stopped.
@@ -99,6 +113,18 @@ Her mother said: he knows which one he is.
 Which is either a statement about a boy or a statement about a God and Su has never been sure which, and suspects her mother did not much distinguish, and has never asked her father at all, because there is a version of that conversation in which she finds out that it was an oversight, and she has decided she would rather not have it.
 
 What she does instead — starting at about nineteen and continuing for seventy years, without ever having decided to start and without a single other person on earth knowing about it — is say the other name out loud, once, in the yard, in Cantonese, on the morning of the anniversary, at the end of the long breath, when there is nobody in the world awake to hear it.
+
+The yard changed after Lee and nobody in that family has ever said so out loud.
+
+Before, there were two children in it. It was noisier. There was a great deal of stopping to sort out whose fault something was, and a certain amount of open editorial comment from an eleven-year-old about a seven-year-old's elbows, and their father had a way of dealing with all of it that Su can still see and cannot reproduce and has never once managed with any child of her own.
+
+After, there was one child in it, and the one child was very good, and got better every year, and had the whole of her father's attention for the following eight years in a way she had never had it before and would not have had if the fever had gone the other way in that particular week.
+
+Su has understood since she was about twenty-five that a good part of what she is — the four rules held exactly, the thirteen years, the hands that will do a thing in a lane before her mind arrives — was built out of a vacancy, and that she is, in the plainest possible sense, the beneficiary of her brother's death.
+
+She has never once been able to work out what a person is supposed to do with that.
+
+She has decided, over a long life, that there is nothing to be done with it, and that the correct arrangement is her mother's: enter it honestly, leave the column open, go on trading. It sits in her ledger under Lee, at a loss, permanently, in a hand nobody else can read.
 
 ## II. What Neither Fact Would Cancel
 

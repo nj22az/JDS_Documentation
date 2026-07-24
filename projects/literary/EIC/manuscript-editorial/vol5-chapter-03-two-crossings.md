@@ -161,6 +161,20 @@ So he took the fourth rule out of the four days, and put it at the end of the ot
 
 And that, Su thinks — walking home, this September, with a basket on her hip and an autumn going wrong all around her — is the whole difference between her family and a great many other families on this river: not that her father was better than anybody, but that at twenty-three years of age, on his own, in a bed in a lodging house, in a country whose language he did not have, he noticed on the fourth day what was happening to him and stopped.
 
+The bowl gets dusted every day of Wei Zhang's life and Su has watched it perhaps ten thousand times and has never once seen him do it the same way twice, because he is not performing anything; he is simply a man taking a bowl off a shelf, wiping it, and putting it back, at whatever moment in the day the wiping happens to occur to him.
+
+She asked her mother, at about twelve, whether it did not strike her as strange.
+
+Sau-Ling said that her husband had one shrine in the house and had built it out of housework and had never once called it anything, and that she had a whole church up the road with a roof on it and a minister in it and had never in eighteen years got as much out of the church as he appeared to get out of that bowl, and that Su should mind her own business.
+
+Su minded her own business.
+
+She has dusted it herself since 1899 and has taught three children and two grandchildren to dust it, and every one of them has asked what it is for, and every one of them has been told the truth, which is that a woman in Hong Kong gave a young man a bowl and asked him to bring it back to her himself, and that he could not, and that this is what the family does about that.
+
+Not one of them has ever asked why the family does anything about it at all.
+
+That, Su thinks, is the whole of what an inheritance actually is: not the object and not the story, but the fact that a child who has grown up in the house has no question about the arrangement, and would find it far stranger if the bowl were not on the shelf.
+
 ## II. The First Time
 
 Su is fourteen the first time she uses the art in earnest, and she remembers it now, this September, the way you remember a tool you have not needed in years and hope you will not need again — not with fear, exactly, but with the specific attentiveness of someone checking a blade is still where they left it.

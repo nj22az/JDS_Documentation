@@ -40,6 +40,16 @@ She takes it down to the stairs at the bottom of the lane at about half past fou
 
 The case goes into the Thames after him, before first light, unopened, weighted with chain from her father's shop, the links still greasy on her palms as the water takes it — the one thing in the world that could have answered the question, wrapped and given to the only language the river speaks, which has no word for yes and no word for no.
 
+She thinks about the woman all the way home and cannot do anything with the thinking.
+
+There is no way to find her. There is no notice a person could put anywhere, and no question that could be asked in any shop on that reach, that would not immediately be a question about the lane; and a woman who got out of that lane alive has, Su understands even at nineteen with mud to her elbow, exactly one asset in the world, which is that nobody knows she was in it.
+
+So she leaves her alone. That is the second thing Su does that night that costs her something and that nobody will ever know about, and unlike the first one it goes on costing for sixty years, because the case in the river is finished and the woman is not: she is out there, somewhere, for decades, being a person, and Su has no idea which person.
+
+She has caught herself, perhaps a dozen times across her life, looking at women of about the right age in the street.
+
+She has never once had the smallest reason to think any of them was her, and has gone on doing it anyway, into her seventies, which she is entirely aware is not sensible and has never made the slightest effort to stop.
+
 There is a second disposal that night, and Su has no hand in it. She comes in through the back before first light with the river and the fight both on her: mud to the elbow, the fog still in her hair, and the doctor's blood, from a wrist that broke like green wood, dried stiff into her sleeve. She means to see to it herself, quietly, as she has meant to carry all of it, and finds she does not have to. Her mother is already up, already at the copper, the fire already drawn, the steam already rolling white off the water and smelling of lye. Sau-Ling Zhang takes the bundle out of her daughter's arms without meeting her eyes and without one word, the way she has taken ten thousand ruined things off ten thousand strangers, and does to it what a laundress of thirty years' standing knows how to do to cloth that must not be permitted to keep a history: she boils it past testimony. Blood is only one more stain to a woman who has lifted out every kind there is. By the time the shop opens the sleeve is drying on the line, clean, ordinary, one shirt among the morning's whites, and nothing has been said, and nothing across all the years to come ever will be. And Su understands, watching it steam, that her mother has kept a ledger of her own the whole time, in a hand Su was never taught to read, and has just entered in it, without a syllable, the largest sum of either of their lives — and left the column open, at a loss, on purpose, forever, because that is the only kind of book Sau-Ling Zhang has ever believed a God worth having would keep.
 
 There is a third disposal, and it is her own body, and it takes rather longer than the other two.
@@ -155,4 +165,14 @@ What she does, standing there, is the only thing she has ever been able to think
 Then she goes back up the lane.
 
 She does it for sixty-one years. She does it for the last time in the spring of 1949, at eighty, on a morning when her eldest has to come down and get her, and she does not explain then either.
+
+The chandlery keeps nine feet of light stud-link chain in the third bin under the bench for the next sixty-one years and it is never once mentioned by anybody.
+
+Su reorders it in the spring, in the ordinary way, from the ordinary supplier, in the ordinary quantity, and enters it in the book in her mother's system in her mother's hand — because her mother does the book — and her mother writes it down without comment, in February 1889, three months after boiling a sleeve past testimony at five in the morning without meeting her daughter's eyes.
+
+That entry is in a ledger in a box in that family to this day.
+
+It says: chain, 9ft, 1/2d.
+
+It is the only written record of anything that happened in the last week of November 1888, and it is entirely accurate, and there is no power on earth that could get another word out of it.
 

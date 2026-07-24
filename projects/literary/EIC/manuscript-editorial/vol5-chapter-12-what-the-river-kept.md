@@ -307,6 +307,18 @@ Yes, says Erik.
 
 That is the entire political discussion ever conducted in that room in forty years. Su, at the counter with the book, does not look up, and has remembered every word of it since.
 
+The bonesetting outlasts the laundry, in the end, and Su has always found that funny in a way nobody else in the family ever has.
+
+The copper goes cold for the last time in 1938, when the shop finally gives up the wet work altogether and becomes a chandlery with a mending counter, which is what it had been becoming for thirty years. The mangle goes to a woman in Poplar. The drying loft, which was the best on that reach and was the reason the Zhangs could promise a Tuesday in November when nobody else could, becomes a room where things are kept.
+
+And a fortnight after the copper goes cold, a man comes to the back door with a wrist.
+
+Su sets it. She is sixty-nine years old and has not been paid for laundry in fourteen days and sets a stranger's wrist on the back step in about four seconds, with a fan her grandfather carried out of Canton in a bundle with a bowl, and takes one and sixpence for it, and goes back inside.
+
+The trade her family actually crossed the world with — the thing that had no premises, no stock, no ledger and no name on any register in England — outlives by some years the trade they crossed it to practise.
+
+Nobody will ever write that down anywhere. Su thinks about it, on and off, for the rest of her life, generally while dusting a bowl.
+
 ## VI. What the Papers Still Ask
 
 The case is never solved. Su reads every fresh theory the papers print about it across the following decades, out of a discipline she has never fully explained to herself, whenever a new writer decides the old autumn is worth another column — a doctor this time, a foreign sailor the next, a madman committed quietly by a family with means, a policeman's private confession printed thirty years after the fact by a paper glad of the circulation. She lays every theory against the private ledger she has kept since a November morning in 1888 and finds, every single time, the same answer waiting for her at the bottom of the sum.
@@ -328,6 +340,18 @@ That is as close as it ever gets to the surface. She never writes to the author.
 Her own children ask her, once each, growing up, whether she was ever afraid, in the year everyone still calls the terrible autumn. She tells each of them the same true and incomplete thing: that everyone in Wapping was afraid that year, and that fear, like grief, is a thing a person learns to carry quietly rather than a thing that ever properly leaves.
 
 None of them ever learns the rest of it. She has decided, and decided again every year since, that this is the one account she will carry the whole distance herself, the way her father carried a white bowl he was never permitted to send home, on a shelf, dusted, entered nowhere a stranger could ever read the entry.
+
+She is asked, in the thirties, by a woman from a mission society compiling something about the Chinese in Limehouse, whether she has found England kind.
+
+It is meant well. It is the sort of question that is always meant well and that nobody has ever worked out how to answer.
+
+Su gives it more thought than the woman is expecting, and then says that England has been exactly as kind to her as a river is, which is not at all and not unkindly either; that it took her father's whole country off him and gave him a street; that it has buried four of her people in ground it did not have to give them; that it turned its head in a church once and put a shop's window in twice and sent her son to France; and that she has had eighty years of custom, a marriage, three children, four generations in a yard, and a shop that paid, out of the same arrangement.
+
+The woman writes down: *Mrs. Johansson expressed herself content.*
+
+Su reads it upside down, because she has been reading things upside down across a counter since she was seven, and does not correct it, because the woman is fifty-eight and has come a long way on a bus and is trying, and because there is no version of the correction that would fit in the box.
+
+She has thought since that it was, as it happens, close enough. She is content. It has simply never once had anything to do with kindness.
 
 ## VII. The Next Small Hands
 

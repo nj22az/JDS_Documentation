@@ -279,3 +279,16 @@ And she means it the ordinary amount. Not more. There is no reason yet, on this 
 The bodice stays wrapped on the shelf in the back room, ticketed, waiting.
 
 It is still there in October.
+
+Su has been asked about the two of them exactly four times in her life by people who had a right to ask, and has given the same answer every time, and the answer is eleven words long.
+
+They were my customers, and I was fond of them, and they died.
+
+It is true and it is a door, and everybody who has ever received it has recognised it as a door and has gone away, which is what it is for.
+
+What is behind the door is not a secret and is not dramatic. It is simply that Su Zhang, who has had a husband and three children and four generations in a yard, has been given, in ninety years, exactly two people outside her own family who arrived at her counter and stayed and asked her nothing and were asked nothing and were, for a quarter of an hour a week, in daylight, in the steam, entirely ordinary with her.
+
+Both of them were killed in the same seven weeks, three streets apart, by the same hand, in the autumn of 1888.
+
+That is not a thing a person recovers from and it is not a thing a person is destroyed by either. It is a thing a person carries — distributed, low, close in, arranged across the whole of them so evenly that a stranger would never once guess the weight was there at all.
+

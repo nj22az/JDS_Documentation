@@ -82,6 +82,16 @@ The trouble is the fourth thing, and the fourth thing is not a fact about the ca
 
 That is all she has. She knows it is all she has. It is the reason the case goes into the river unopened five weeks later and the reason she has never once been able to leave it there.
 
+She never once, in the whole of that autumn, considers the possibility that she is wrong about the shape in the oilcloth.
+
+That is not confidence and Su has been careful about this in her own account for sixty years. It is trade.
+
+A laundress of nineteen who has been sorting since she was seven identifies objects by their outline through cloth perhaps four hundred times a day and is wrong about it, she would estimate, once a fortnight. She can tell a folded razor from a folded knife through a coat pocket without touching either. She has found, in the linings of garments brought in for cleaning, across her working life: money, letters, a tooth, three separate sets of dice, and a small pistol; and in every single case she knew what it was before she got it out.
+
+So when Su Zhang says, at nineteen, to herself, on her knees in the dark of a back room in October, that she knows what was in that case — she is not making a claim about her intuition. She is making a claim about the one skill she actually has, exercised on the one kind of evidence she is actually qualified to read, and it is, in point of plain fact, the most reliable thing about the entire account.
+
+It is also the one part of it that could never, in 1888, in that city, have been said in front of anybody who mattered without being laughed at.
+
 ## III. What the Doctor Saw
 
 She goes back to the dockworker.
@@ -193,4 +203,16 @@ It is a scrap of paper about two inches by one with a number on it in her own ha
 It is in the tin when her father dies. It is in the tin through the war. It is in the tin in 1949.
 
 Nobody in that family has ever had the smallest reason to look at it, and nobody ever has, and it is the single piece of evidence about the whole of that autumn that survives anywhere in the world outside one woman's head — a laundry stub, correctly filed, for one gentleman's shirt, washed and returned.
+
+She works out, somewhere in that week, what she is actually going to do, and it is nothing, and it takes her three more weeks to understand that nothing is a plan and not the absence of one.
+
+The plan is this. She will not go to the police, because she has stood across from the station and done the arithmetic. She will not tell her father, because of what he would do with it. She will not follow him, because of the first rule. She will not stop settling the chit on Fridays, because a girl who stops coming to a bar is a girl who has noticed something.
+
+She will carry her grandfather's fan in her sleeve, which she has been doing since September and which requires no decision at all.
+
+And she will be in the same reach as him, doing her work, at all the ordinary hours, for as long as it takes — not looking for him, and not avoiding him either, which are the two things a person in her position would naturally do and which are both, on examination, versions of the same mistake.
+
+She is nineteen years old and she has invented, at a laundry counter in Limehouse in the November of 1888, out of four sentences her father gave her and one thing her mother does with a ledger, the only strategy actually available to somebody who knows something they cannot use.
+
+It works. That is the part nobody would believe and that Su has never had occasion to tell anybody. Six weeks later she is in a lane behind a sufferance wharf on a legitimate delivery, in a fog, at the exact moment she is needed, with a fan in her sleeve — not because she arranged it, and not because anything was owed to her, but because she went on doing her work in her own streets at her own hours for six weeks, which is the only thing in the whole of that autumn that anybody could have done that would have made any difference at all.
 

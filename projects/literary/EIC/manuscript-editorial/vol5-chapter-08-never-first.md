@@ -204,6 +204,18 @@ The banked heat under her ribs, which has not gone out once since the thirtieth 
 
 It waits for the one night the rules will finally let it be needed.
 
+She goes over the four rules that last evening, on the way to the yard door with the shawl on, the way she has gone over them ten thousand times, and they are, she notices without much interest, all perfectly intact.
+
+She has not been first. She has been offered a dozen opportunities to be first across six weeks and has declined every one of them, including one on a Friday in the second week of November at forty yards in a lane, and she is rather proud of that one and has told nobody.
+
+She has not been for show. There has been nobody to show anything to.
+
+She has not been for payment. There is money publicly advertised at this moment for exactly what she knows, a great deal of it, and she has not gone near it and will not, and this has never for one second been difficult, which is the only one of the four that has ever come easily to her.
+
+And she has not been in anger.
+
+That is the one she checks last and it is the one she is not sure about, and she has been not sure about it since the thirtieth of September, and she stands in the yard doorway for a moment in her shawl with four parcels and works out — honestly, which is the only way this family has ever worked anything out — that she does not know, that she will not know until it is put to her, and that there is no possible way of finding out in advance.
+
 She has gone over the last hour of that Thursday more often than any other hour of her life and it remains, every time, entirely ordinary.
 
 She banked the copper. She checked the loft stove, which was lit, because it was November. She counted the rack against the book and found it right. She told her mother she would take the wharf parcels because there were four of them and two were heavy, and her mother said take the shawl, and Su took the shawl.
@@ -217,4 +229,3 @@ She has never held that against either of them. It is what the last exchange bef
 The fog was at the door when she opened it.
 
 She stepped into it, and the lane took her, and the shop went out behind her at about eleven feet, and that — a laundress of nineteen with four parcels and a shawl and a folded fan in her sleeve, walking into a wall of river fog on an ordinary Thursday evening with her whole life still in front of her in the shape it had always had — is the last picture anybody will ever have of Su Zhang before the alley.
-

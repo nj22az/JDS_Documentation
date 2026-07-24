@@ -158,6 +158,18 @@ Su says she has not thought about it.
 
 Think about it now, he says, not urgently, in the unhurried way he says everything, and goes back to waiting for his coat.
 
+There is a thing Su does not do in those years and it is worth recording alongside everything she does.
+
+She does not go looking for a way to tell him.
+
+It would have been available. There were, across two years of Tuesdays and thirty-two years of marriage, perhaps a hundred moments in which a woman could have begun a sentence — over a mending, on a slack tide, in the dark of a room above a shop, on the day her father died — and Su did not begin one, and the not-beginning was a decision she took freshly, each time, for thirty-four years, and never once took automatically.
+
+That is the part she would want understood if anybody were ever going to be told any of this, which they are not. It never became easy. There was no year in which the silence stopped being a thing she was doing and became simply a thing that was the case. She chose it about a hundred times, deliberately, at the cost of the only thing she has ever wanted and not had, which was to be, once, entirely known by somebody who stayed.
+
+She had that for a quarter of an hour, in a laundry, in a March, with a tall Swede who did not speak her language, over a word neither of them had.
+
+She has thought, since, that a quarter of an hour is not nothing, and is very much less than a person needs, and that a great many people go the whole distance without either.
+
 ## IV. A Marriage
 
 He asks her properly on a slack-tide Sunday in the September of 1893, five years almost to the week since the autumn that took Elisabeth and Catherine, out on the river itself, in a hired boat he has clearly practised rowing evenly for the occasion and does not, in the event, manage to row evenly at all.
@@ -471,6 +483,26 @@ He is in the shop more. That is the visible change of that last year and it is t
 He is very good at it. He is better at it, by the end, than Su is, because a man who has spent fifty years learning to make his hands do exactly one thing at exactly one moment turns out to have been, without anybody planning it, in training for needlework the whole time.
 
 The last thing Wei Zhang ever mends is a child's coat. It goes out on the Wednesday. The child wore it for two more winters and it went to a cousin after that and there is no possibility whatever of establishing what became of it, and Su has thought about that coat, at intervals, for fifty years.
+
+He asks her one thing in that last year and it is the only question Wei Zhang ever puts to his daughter about the autumn of 1888.
+
+They are in the yard. It is the November, eleven years on, and they have finished, and he is sitting on the bench with the fan in his lap, which is where he sits now at the end of it because standing afterward has become a separate undertaking.
+
+He says: are you finished with it?
+
+Su, who has spent eleven years constructing an entire life on top of the assumption that her father does not know there is anything to be finished with, stands in the middle of a yard six paces by four and discovers that this assumption was never true and was possibly never even likely, and that a man who has read her through two crossed wrists since she was seven has known since the first morning of December 1888 that something happened in the last week of November and has said nothing for eleven years.
+
+She says: no.
+
+Will you be?
+
+No, Su says.
+
+Her father nods, once, the way he nods at a form done correctly.
+
+Good, he says. A thing you are finished with is a thing you have stopped checking.
+
+And that is all, and he gets up off the bench in the two stages it now takes him, and they go in, and the counter opens at six, and neither of them ever refers to it again for the remaining fourteen months of his life.
 
 ## VII. The Last Morning
 

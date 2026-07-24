@@ -158,6 +158,22 @@ Su says that the shop's water boils the same for everybody's linen.
 
 She says it in English, flatly, in her mother's own words, which she has heard used across that counter perhaps two hundred times and has never in her life used herself until this Friday — and the man laughs and takes his parcel and goes, and Su stands there afterward with her hands on the wood and understands that she has just become, at nineteen, in one sentence, in a shop, on the worst week of her life, the second woman in this family to keep that particular door.
 
+There is a fortnight, immediately after, in which Su considers giving the practice up altogether, and she has never told anybody that either.
+
+The reasoning is simple enough and she can still produce it. She has stood in a cold yard for twelve years learning, at enormous cost to two people's mornings, to end a thing that has already started — and a thing has now started, three streets away, and has been starting all autumn, and she has been in the same city as it the entire time with the whole apparatus loaded, and both of the women are dead.
+
+What, precisely, is it for.
+
+She takes this to nobody. She turns it over at the mangle for about ten days, and what she arrives at is not an answer and is closer to an inventory.
+
+The practice was never going to be in the right lane on the right night; nothing was, and nothing is, and the expectation that it might have been is not a thought about the art at all but a thought about herself, dressed up. It could not have saved Elisabeth. It could not have saved Catherine. It could not have saved her brother, and did not save her grandfather's courtyard, and has never in four generations prevented a single one of the large things that have happened to this family.
+
+What it has done is smaller and is not nothing: it has meant that on two afternoons five years apart, a girl on this street went home instead of not going home.
+
+Two afternoons, in twelve years, against everything else.
+
+Su stands at the mangle in the second week of October and decides that two is enough, and goes out the following morning at half past four as she has every morning of her life, and never revisits the question — not in sixty-one further years, not through a war, not at eighty, not once.
+
 ## II. The Rules for This
 
 She has not slept, and does not try to pretend otherwise, and goes out to the yard a full hour before the dawn she would ordinarily meet there, because the banked heat under her ribs has kept its own hours all night regardless of what her body wanted, and lying in the dark doing nothing with it had begun, somewhere past three in the morning, to feel like its own kind of danger.

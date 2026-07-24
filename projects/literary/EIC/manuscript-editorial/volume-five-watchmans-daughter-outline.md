@@ -95,21 +95,21 @@ totals for finished chapters; targets for the rest.
 
 | # | Chapter | Status | Words | Content |
 |---|---|---|---|---|
-| 1 | **The Dawn Yard** | ✅ done | ~6,100 | I. The Horse and the Bridge (dawn chi sau/rules/fan) · II. The Causeway (the Limehouse Chinese world) · III. The Prospect (Cray as beloved fixture, docker's-shoulder seed). |
-| 2 | **Elisabeth and Catherine** | ✅ done | ~3,500 | I. Elisabeth · II. Catherine — both customers in full; POV rule held (Su's names only, never the street names or their trade). |
-| 3 | **Two Crossings** | ✅ done | ~3,600 | I. The White Bowl (Wei's 1868 Hong Kong crossing, the boy who said *Run*) · II. The First Time (Su's own two earnest uses of the art, age 14 and 17) — paired as the family's and Su's own threshold-crossings. |
-| 4 | **Lee** | ✅ done | ~2,050 | I. The Third Night · II. What Neither Fact Would Cancel — the withheld chapter; Cray recontextualized. |
-| 5 | **The Terror** | ✅ done | ~4,350 | I. The Watch Committees · II. Leather Apron · III. The Hands in the Doorway · IV. A Monster in Every Language (**new** — the Mutiny-veteran dockworker's own flashback, first vignette). |
-| 6 | **The Thirtieth of September** | ✅ done | ~3,150 | I. The Thirtieth of September (the double event, the recognition) · II. The Rules for This (the yard exchange — "stops things, does not avenge them"). **Climax of the 1888 spring–autumn core.** |
-| 7 | **The Case** | ⏳ to draft | ~7,500 target | The clasp, the shirt, asking around, Cray's Bengal past surfacing as rumour/record only (never his head). Folds in the compact edition's §VI–§VII beats, dilated. |
-| 8 | **Never First** | ⏳ to draft | ~7,500 target | Nobody to tell (the station steps, the Polish Jew), the discipline of doing nothing, the fan in her sleeve, the fog closing in. Flo appears in Su's orbit (a moment of near-confidence declined) — not as an independent vignette; see "Su is the whole world" principle above. |
-| 9 | **The Alley** | ⏳ to draft | ~7,000 target | The confrontation and the drowning — the book's central set-piece. |
-| 10 | **The Clasp and the River** | ⏳ to draft | ~6,500 target | The case in the mud, the hand coming off it, the Thames, the boiled sleeve, no sixth. Resolves the 1888 core. |
-| 11 | **The Years Between** | ⏳ to draft | ~9,000 target | Full-life expansion: Erik Johansson's courtship in full scenes, the marriage, Wei's aging and death, years of Su teaching — the multi-decade turn (Book-One-"News-from-the-Sea"-style). |
-| 12 | **What the River Kept** | ⏳ to draft | ~9,000 target | Full-life expansion: Su as an established master; the lineage completing — grandfather→Wei→Su→the next hands; old age. |
+| 1 | **The Dawn Yard** | ✅ done | 12,235 | I. The Horse and the Bridge (dawn practice, the four rules each given its own weight, the fan, the Canton lineage, the *long breath*) · II. The Causeway (the Limehouse Chinese world, the round, the shop's working day, Sau-Ling's method) · III. The Prospect (Flo, the room, the flower, the river, Cray as beloved fixture). |
+| 2 | **Elisabeth and Catherine** | ✅ done | 7,606 | I. Elisabeth · II. Catherine — both customers in full; POV rule held absolutely (Su's names only, never the street names, never their trade). |
+| 3 | **Two Crossings** | ✅ done | 7,288 | I. The White Bowl (Wei's 1868 crossing, the boy who said *Run*, the passage, the four London years, where the fourth rule came from) · II. The First Time (Su's two earnest uses at 14 and 17, and the third that was not a time at all). |
+| 4 | **Lee** | ✅ done | 5,060 | I. The Third Night · II. What Neither Fact Would Cancel — the withheld chapter; the register and the tick; the yard after. |
+| 5 | **The Terror** | ✅ done | 8,849 | I. The Watch Committees · II. Leather Apron (the name, the arrests, the reward) · III. The Hands in the Doorway · IV. A Monster in Every Language (the Mutiny veteran's flashback, tethered to Cray). |
+| 6 | **The Thirtieth of September** | ✅ done | 6,090 | I. The Thirtieth of September (the double event, the recognition, the week after) · II. The Rules for This (the yard exchange — "stops things, does not avenge them"). **Climax of the 1888 core.** |
+| 7 | **The Case** | ✅ done | 6,076 | I. A Terrible Autumn · II. The Clasp · III. What the Doctor Saw (the dockworker's Cawnpore surgeon) · IV. The Shirt. The ledger kept in her head; the plan that is nothing. |
+| 8 | **Never First** | ✅ done | 6,398 | I. Nobody to Tell (the station steps, the twenty-two-word sentence) · II. What Flo Almost Asked · III. Never First (the night she follows him and stops; the near-telling) · IV. The Fog Comes Down. |
+| 9 | **The Alley** | ✅ done | 4,806 | I. The Rehearsed Quiet · II. Three Times. The book's central set-piece — expanded only at its edges, never in the fight itself. |
+| 10 | **The Clasp and the River** | ✅ done | 4,843 | I. The Clasp (the hand coming off it, the chain, the river, the boiled sleeve) · II. No Sixth (the winter, the rooms cleared, the ledger kept honestly for forty years). |
+| 11 | **The Years Between** | ✅ done | 14,822 | I. What the Winter Left · II. Erik Johansson · III. The Manifest · IV. A Marriage · V. One Tuesday (March 1897, by the clock) · VI. Wei's Hands · VII. The Last Morning (1899). |
+| 12 | **What the River Kept** | ✅ done | 12,726 | I. The Keeper of the Yard · II. The Open Water (1904) · III. Sau-Ling's Last Years (1908) · IV. Slack Tide (Erik ashore, and his death in 1926) · V. The Nights of the Airships (1915–19) · VI. What the Papers Still Ask · VII. The Next Small Hands. |
 | — | **Epilogue** | ⏳ to draft | ~4,000 target | A short coda, further on — mirrors Book One's "Last Orders" register. |
 
-**Running total: ~22,780 words written; ~78,000 remaining to reach ~100k across
+**Final total: 100,002 words across 12 chapters + epilogue** (epilogue 3,237). Target met.
 chapters 7–12 + epilogue.**
 
 ## The method: dilation and life-span, not invention
