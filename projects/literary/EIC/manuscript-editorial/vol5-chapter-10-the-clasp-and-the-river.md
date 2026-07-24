@@ -94,6 +94,24 @@ That is the shape of the whole thing, and it is the shape it keeps: there is no 
 
 Su reads everything, that winter and for years afterward. She learns the dates of the five deaths by heart and lays his habits against them, again and again, in the private dark, and the answer is always the same: it fits, and it does not prove. The razor cut fits, and proves nothing. The schedule fits, and proves nothing. The laundry fits — fifteen years, two streets from her family's copper, and never once so much as a collar sent in — and proves nothing. The shirt fits — the one shirt in fifteen years, sent the week after the clasp came loose in front of her, taken back with nothing to say — and proves nothing. The nights he left the bar early against his own habit fit closest of all: laid against the calendar of that autumn, there is one pairing among them she has never in all her years of trying been able to make lie flat — and it proves nothing. What she knows is one November night. He was a man who attacked one woman, once, in the dark, with a rehearsed quiet on him — a common monster, if the word common can carry it; the city has never been short of those. Whether he was also the other one, the one the century keeps its capital letters for, went into the water with the case, and the water has never once been asked a question it answered.
 
+What Su expected, and did not get, was an ending.
+
+She had assumed — without ever putting it in those words, at nineteen, in a lane, with mud to the elbow — that a thing of that size would arrive somewhere. That there would be a knock, or a paper, or a body given back and named, or at the very least a morning on which the reach would wake up and be different.
+
+There is no morning. There is December, and then there is January, and the shop opens at six.
+
+The papers go quiet by degrees rather than all at once, which is worse. Through November they are still running columns; by Christmas they are running theories; by February they are running letters from readers about the theories; and by the spring the whole enormous frightened autumn has become, in print, a subject — the kind of thing a man brings up at a bar when the conversation has died, to see what the room thinks.
+
+Su listens to that happen from behind a laundry counter over about five months and it is, she thinks afterward, the loneliest stretch of her entire life. Not November. November had a fog in it and a thing to do. It is January, with the shop warm and the copper going and two women dead who used to come in on Mondays, and the whole of London slowly and comfortably converting them into a topic.
+
+She goes on standing in the yard. Her father goes on correcting her elbow. Her mother goes on lifting the sheet.
+
+And in the middle of February, with no warning and no occasion, on an ordinary Tuesday over the mending, Sau-Ling Zhang says — not to Su, to the mending — that the Lord will want an accounting from somebody about that autumn, and that she does not expect to be present for it, and that this is the first time in her life she has been sorry about that.
+
+It is the nearest either of Su's parents ever comes to referring to what happened.
+
+Su says nothing. Her mother threads a needle. The two of them sit there in the shop light for another hour and a half and the subject does not arise again in either of their lifetimes.
+
 The Prospect closes early for a week or two, that winter, the way a house does when something has passed near it without quite touching it by name. Flo pours a shorter measure and does not comment on why. The dockworker comes in once, hears that the doctor has gone missing, and says only, to nobody in particular, that he never trusted a calm that never cost a man anything, and does not elaborate, and Su, settling her chit at the far end of the bar, understands that he has said, without knowing he has said it, the whole of what either of them will ever say aloud about that November.
 
 What she does with the ledger, across the following forty years, is keep it honestly, which is harder than keeping it at all.

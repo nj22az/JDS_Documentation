@@ -48,6 +48,24 @@ That is the particular cruelty of an ordinary autumn learning to be a frightened
 
 What Su does not tell them, and would not know how to begin telling them, is that somewhere around the third lamp she had already put her left foot half a pace wide of where a person's left foot ordinarily goes, so that if the arithmetic had come out wrong she would have been turning rather than starting to turn. She could not have told you she had done it. There is no entry for it anywhere in her account of that evening, which reads, in full: two men saw me home and were pleased with themselves.
 
+The thing Su cannot say to anybody, that whole autumn, is that she is not frightened for herself.
+
+Everybody else is. That is the entire texture of September on that reach: women in pairs, men out in twos, an eel-shop woman arriving sideways at a request for company over four hundred yards in daylight. It is the correct response and Su can see that it is correct and cannot produce it.
+
+She has tried. She has stood in the dark at the top of her own lane on purpose, twice, to see whether anything would arrive, and nothing arrived. She has read the columns and felt exactly what she felt reading about the *Princess Alice* at nine years old, which is an enormous, entirely genuine, entirely external sorrow.
+
+What she has instead, walking the dock roads at night that autumn, is something she has no name for and does not much like: a sort of steady alertness with no fear in it at all, and underneath the alertness, so far down she can go whole days without noticing it, a small and thoroughly disgraceful readiness. Not a wish. She is very clear with herself about that, at nineteen and at eighty. Not a wish for anything to happen.
+
+Only a body that has been made ready for thirteen years, in a yard, by a man who was making it ready for exactly this and has spent the entire thirteen years telling it not to want the moment — walking, night after night, through the one autumn in the history of that city in which the moment is genuinely and provably out there somewhere.
+
+She does not tell her father, because he would know what to do with it and what he would do is correct her stance for half an hour.
+
+She does not tell her mother, because there is no version of it that comes out of her mouth as anything but frightening.
+
+She does not tell Flo, because Flo would think she was being brave, and Su knows precisely how far the thing under the alertness is from bravery, and could not have borne being congratulated for it.
+
+She carries it, therefore, the way this family carries everything, and it gets heavier all autumn, and by the last week of November it will have been sitting there for nine weeks banked and unattended like a fire nobody has drawn — and then a woman will be against a wall in a lane in a fog, and every part of it will go off at once, in the correct direction, for the correct reason, and Su will spend the following sixty years unable to establish whether that was fortunate or whether it was simply what the whole autumn had been arranging.
+
 ## II. Leather Apron
 
 The first one comes at the very end of August, and for the first week it is only a name in a stop-press column, a woman found in Bucks Row with her throat opened, and the East End reads it the way it reads any bad thing that has happened to somebody it does not personally know: with the particular blend of horror and distance that lets a person finish their tea before finishing the paragraph.

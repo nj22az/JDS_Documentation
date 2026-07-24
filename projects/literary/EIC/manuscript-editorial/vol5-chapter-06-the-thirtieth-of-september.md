@@ -132,6 +132,20 @@ Su put it back exactly where it was.
 
 It is in that drawer still, forty years on, and both of the people who ever knew it was there are long past being asked about it.
 
+What the reach does that week is the thing the reach always does, which is arrange itself around a hole without ever once mentioning that there is a hole.
+
+The Prospect is quieter for four evenings and then is not. The watch committees double and go out with lanterns as well as cudgels. Two shops on Narrow Street shut at dusk for a fortnight and then stop shutting at dusk, not because anyone has decided anything is over but because a shop cannot go on losing three hours a day indefinitely and everybody understands this without saying it.
+
+A subscription is got up for one of the two funerals and Su puts in, at the counter, from the shop's own money, without asking her mother, and finds when she goes to the tin that her mother has already put in twice as much.
+
+Neither of them mentions it. It sits in the book as a line Su cannot read, in her mother's system, and is never referred to again.
+
+And on the Friday of that week a man Su has served for eleven years leans on the counter and says, in the warm confiding tone of somebody offering a kindness, that she wants to be careful about who she takes washing off, because you never know, and there are all sorts about, and a young woman on her own in a shop cannot be too particular.
+
+Su says that the shop's water boils the same for everybody's linen.
+
+She says it in English, flatly, in her mother's own words, which she has heard used across that counter perhaps two hundred times and has never in her life used herself until this Friday — and the man laughs and takes his parcel and goes, and Su stands there afterward with her hands on the wood and understands that she has just become, at nineteen, in one sentence, in a shop, on the worst week of her life, the second woman in this family to keep that particular door.
+
 ## II. The Rules for This
 
 She has not slept, and does not try to pretend otherwise, and goes out to the yard a full hour before the dawn she would ordinarily meet there, because the banked heat under her ribs has kept its own hours all night regardless of what her body wanted, and lying in the dark doing nothing with it had begun, somewhere past three in the morning, to feel like its own kind of danger.

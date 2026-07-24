@@ -95,6 +95,20 @@ Su grew up in a house with a debt on a high shelf that could never be paid and a
 
 She thinks of the boy on the pier more than she says. Thirteen, fourteen, a ledger under one arm, gone back into a crowd before the debt could even be offered, let alone paid. Whoever he grew into, wherever the years took him, he is entered — she is quite sure of this, has been sure of it since she was old enough to understand what her father was actually telling her, twice a year, in the two different registers of joke and prayer — in some column her father keeps that has nothing to do with money at all, and everything to do with the one rule that came before the other three, the one the boy already knew before anybody had troubled to write it down: that a debt run up in a good cause does not need to be collected to be real.
 
+Su has spent her whole life doing arithmetic on that boy, and the arithmetic never comes out.
+
+He was thirteen or fourteen in 1868, which makes him thirty-three or thirty-four in this September. He is therefore, in all probability, alive at this moment, somewhere, doing something, in a city on the other side of the world — a man of about her father's build who has no idea whatever that a family exists in Wapping because of four minutes of his afternoon twenty years ago.
+
+He never learned. That is the part that will not sit still. He did not know Wei Zhang's business, did not ask, did not wait at the end of the pier to find out whether the sampan had got him aboard, did not — so far as anybody has ever been able to establish — tell one single person about it afterward. He ran a mile of crowded waterfront for a stranger and then went back to whatever he had been carrying his ledger about for, and the whole transaction closed on his side that afternoon and has been open on this side for twenty years.
+
+Su's father keeps a bowl on a shelf for the tea-stall woman, who at least asked him for something. There is nothing at all on any shelf for the boy, because there is nothing that could be put there. You cannot keep a debt to a person whose name you never had.
+
+What her father does instead — and Su did not work this out until she was well into her twenties — is teach.
+
+Every child he has ever pressed into a horse stance in that yard, every Causeway boy sent round by a mother who wanted him tired, every hour of every dawn of fifteen years: that is what a man does with a debt that has no address on it. He cannot pay it back up the chain, so he pays it forward down one, into other people's children, at four in the morning, in the cold, for nothing, for the whole of his life.
+
+Su thinks about the boy most often, oddly, when she is teaching. She will go on doing so for another sixty years, in the same yard, with a fan in her hand and small elbows in front of her, and will never once say a word about it to any of them.
+
 There is a piece of her father's life between the ship and the shop that Su has never had more than the outline of, and she has come to believe the outline is all there is, because a man who will tell you about nineteen dead on a passage and an afternoon spent counting to ten in four languages is not a man withholding the interesting parts.
 
 He was four years on the rope walks and the chandlers' benches. He learned English out of it the way everybody on that reach learned it, which is by being shouted at and getting it wrong for eighteen months, and he learned it so specifically off the water that for the whole of his life his English will have a vocabulary of about four thousand words of which perhaps six hundred concern rope.
