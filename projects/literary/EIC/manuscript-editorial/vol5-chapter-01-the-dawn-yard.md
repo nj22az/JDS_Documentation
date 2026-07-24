@@ -144,6 +144,18 @@ He died in Hong Kong the year before Wei sailed. The fan came out of the bundle 
 
 That is what is actually happening in this yard every morning, and neither of the two people doing it has ever once described it that way, or would.
 
+The yard is six paces by four and Su could give you an inventory of it in the dark.
+
+It is flagged, badly, in eleven stones of five different sizes, one of which rocks and has rocked since before she was born and which both of them have learned to stand around without ever having discussed it. The wall on the river side is brick to shoulder height and boarded above, and the boards have a gap in them at the third one along through which, on a clear morning, you can see about nine feet of the lane and the bottom corner of somebody's window.
+
+There is a bench along the shop wall with the shears and the tape on it. There is the third bin, with the chain. There is a nail at head height that has had a coil of light line on it since 1879 and has never once been used for anything.
+
+There is no light. That is the important part and Su did not understand it until she was about fourteen: her father has never in fifteen years brought a lamp out to that yard, and the reason is not economy. It is that the whole of the work is done at the hour when a person cannot see properly, on purpose, because a person who can see properly will use their eyes, and the eyes are the last thing that is going to be any use to anybody in a lane in a fog.
+
+The tea comes out at twenty past five on the step. It is the same tea every morning and neither of them has ever remarked on it.
+
+And the fan is in his hand the entire time. It is not a weapon in that yard and it is not a symbol; it is a tool with one function, which is to arrive, lightly, on the exact spot where a joint has gone wrong, at the exact moment it goes wrong, so that the body learns the correction from the outside before the mind has been told there was anything to correct. Su has had it on her elbows, her wrists, the back of her knee, the point of her hip and twice, memorably, on the top of her head, and has never in thirteen years been struck hard enough to bruise, and has never once needed telling twice.
+
 What the crossed wrists are actually doing, for those eleven or twelve minutes, is a thing Su has never once heard described in English and has never tried to describe.
 
 They stand a forearm's length apart. Each of them has one arm out, bent, the wrists touching at the back where the bone is closest to the skin — and then nothing happens, for a very long time, and everything happens continuously.

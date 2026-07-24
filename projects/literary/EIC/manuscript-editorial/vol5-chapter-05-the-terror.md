@@ -216,6 +216,20 @@ He puts the bar across.
 
 It will not be us the next time, he says. That is the only thing I can tell you about it that is worth anything, and it is worth almost nothing, and I would very much rather have something better to give you.
 
+The minister at the mission church does one thing that autumn which Su has never forgotten and has never entirely forgiven either.
+
+He preaches, on the second Sunday in October, a sermon about the murders. It is a decent sermon. It is about the women, and about what a city owes the people it has made no arrangements for, and there is a passage in the middle of it — Su can still give the sense of it at eighty — about the fact that the parish had made no arrangements for either of the two women who are being talked about that month, and had had years in which to do so, and had spent those years talking about them instead.
+
+The church is fuller than usual. He is heard out.
+
+And then, in the last two minutes, having said all of that, he adds a sentence about the importance of not permitting fear to turn neighbour against neighbour, and about our friends from other lands who are as frightened as we are; and he says it while looking, with the kindest possible intention, directly at the third pew from the back on the left, where three Chinese and two Lascar seamen from the Strangers' Home are sitting.
+
+Nobody in that building means any harm by anything that happens in the following four seconds. Every single head turns.
+
+Sau-Ling Zhang keeps her eyes on the front of the church and her hands folded and does not move a muscle in her face, and afterward thanks the minister loudly for his sermon and asks after his wife, and goes home and says nothing about it for the rest of her life.
+
+Su, sitting beside her at nineteen, learns more in those four seconds about what her mother has been doing every Sunday for sixteen years than in the whole of the rest of her childhood — and understands, walking back up the Causeway, that the worst of it is not the turning heads and never was. It is that the man in the pulpit was on their side, and had said so at length, and had done it anyway, and would have been genuinely distressed to be told.
+
 ## IV. A Monster in Every Language
 
 The dockworker who fought in the Mutiny has been drinking at the Prospect since before Carter had a shop of his own, and is not, by his own account, a man given to talking about the thing that put the grey in his beard early. But he comes in one evening in the middle of that September, in the thick of the foreigner-hunting, and says, to nobody and everybody, that he doesn't hold with any of it. Never has.

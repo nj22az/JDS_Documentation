@@ -257,6 +257,18 @@ No, Su says.
 
 Good, he says, and does not ask her anything else, because he never has.
 
+She goes back to the corner three days later, in daylight, on the round, because the round goes that way and there is no reason not to.
+
+The house is shored with timber and there is a tarpaulin over what used to be the front of it, and the dresser is in the road with a good deal of other furniture, and the crockery that was in it has been swept into a heap against the kerb by somebody with a broom and a sense of order that Su finds, standing there with a basket on her hip, oddly and enormously consoling.
+
+A woman she does not know is picking the unbroken pieces out of the heap and stacking them.
+
+Su puts the basket down and helps her for about twenty minutes.
+
+They do not discuss the raid. They discuss the crockery, which is Staffordshire and is not as good as it looks and was somebody's mother's, and at the end of the twenty minutes there are nineteen unbroken pieces on the wall and a great deal of everything else still in the heap, and the woman says thank you, and Su picks up her basket and finishes the round eleven minutes late.
+
+That is the whole of her involvement with the corner of that street, in her own accounting, from beginning to end: a bad night at the arches, and a boy in Berry's, and twenty minutes with some crockery.
+
 The other thing that autumn brings is older than the airships and does not surprise her in the least.
 
 It starts, as it started in 1888, in the newspapers, and it takes almost exactly the same shape: a great deal of print about foreigners in the East End, and about what is being smoked in Limehouse and by whom, and about the general question of whether a district full of people with the wrong names can be relied upon to want the right side to win. A shop two streets over has its window put in twice in a fortnight. A man Su has done washing for since he was an apprentice crosses the road to avoid speaking to her outside the mission church, and then, three weeks later, crosses back, and buys her a great deal more soap than he needs, and neither of them ever refers to either crossing.

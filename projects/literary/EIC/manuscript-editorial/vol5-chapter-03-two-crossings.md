@@ -135,6 +135,32 @@ She began at seven, on a Tuesday in the October of 1876, and can tell you the da
 
 He did not answer that question for six years.
 
+Su asked her father once where the four rules came from, expecting a courtyard and a century and a line of teachers, and got something else entirely.
+
+He said his own father had given him three.
+
+Which three, Su said.
+
+Never first, her father said. Never for show. Never in anger.
+
+And the fourth?
+
+I put it in, he said.
+
+Su waited, and got, after a while, the only account of it she will ever have. That in the year after he landed — the four years of the rope walks, the lodging house on the Highway, the form done lying down in the dark in a bed with three other men in the room — a man on that reach found out what he could do and offered him money.
+
+Not a great deal. A regular arrangement, of the sort that has existed on every dock in the world since there have been docks: a man with interests, and a young foreigner with hands, and a weekly sum for making certain conversations go a particular way.
+
+Her father did not take it.
+
+He is entirely matter-of-fact about this and has never once presented it as a virtue, and the reason he gives, when Su presses him, is not a moral one at all. He says that he thought about it for four days, and that on the fourth day he understood that he was not going to be able to think about it for a fifth without having, in some sense, already taken it — that the thinking itself was where the thing happened, and that the man had not been offering him money so much as offering him four days.
+
+So he took the fourth rule out of the four days, and put it at the end of the other three where a person will reach it last, and has taught it in that position to every child who has ever stood in that yard.
+
+*Never for payment.*
+
+And that, Su thinks — walking home, this September, with a basket on her hip and an autumn going wrong all around her — is the whole difference between her family and a great many other families on this river: not that her father was better than anybody, but that at twenty-three years of age, on his own, in a bed in a lodging house, in a country whose language he did not have, he noticed on the fourth day what was happening to him and stopped.
+
 ## II. The First Time
 
 Su is fourteen the first time she uses the art in earnest, and she remembers it now, this September, the way you remember a tool you have not needed in years and hope you will not need again — not with fear, exactly, but with the specific attentiveness of someone checking a blade is still where they left it.

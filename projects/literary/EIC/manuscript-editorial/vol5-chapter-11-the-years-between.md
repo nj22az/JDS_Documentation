@@ -462,6 +462,16 @@ Good, her grandfather says.
 
 Su, three feet away, hears her father say *good* to a four-year-old for imitating a form badly in a blanket, and is aware of a small unreasonable pressure behind her own eyes, and turns back to her stance and finishes her count, because the counter opens at six and the copper wants drawing and there is, as there has always been on this exact patch of ground, a very great deal still to get through before the light is properly up.
 
+In the last summer he stops going out on the round with the handcart, which he has done twice a week for twenty-six years, and the way he stops is the way he does everything, which is that one Tuesday he simply does not, and nobody says anything, and it never happens again.
+
+Su takes the cart. It adds forty minutes to a day that did not have forty minutes in it. She does not mention this to anybody and reorganises the round to get twenty of them back.
+
+He is in the shop more. That is the visible change of that last year and it is the one the customers notice: Wei Zhang at the bench in the corner with the mending, all day, every day, doing the small work — buttons, tapes, the eyes on a pair of boots — with hands that can no longer be trusted with a joint but that can still, entirely, be trusted with a needle.
+
+He is very good at it. He is better at it, by the end, than Su is, because a man who has spent fifty years learning to make his hands do exactly one thing at exactly one moment turns out to have been, without anybody planning it, in training for needlework the whole time.
+
+The last thing Wei Zhang ever mends is a child's coat. It goes out on the Wednesday. The child wore it for two more winters and it went to a cousin after that and there is no possibility whatever of establishing what became of it, and Su has thought about that coat, at intervals, for fifty years.
+
 ## VII. The Last Morning
 
 Wei Zhang dies in the yard, in the last hour before dawn, in the winter of 1899, doing the one thing he has done every morning of his adult life without once missing a day for illness, weather, grief, or the ordinary reluctance that keeps most men in their beds a little longer on the coldest mornings of the year.
