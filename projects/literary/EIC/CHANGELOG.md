@@ -4,6 +4,37 @@ All notable changes to this project are recorded here.
 
 ---
 
+## [2026-07-24] (The epic 1612 falling-out — deployed)
+
+### Changed — deployed reader (author-directed)
+- Reworked §XV "With or Without Me" of "The Return" (page id
+  `21-1611-the-counter-ledger`), Book One's emotional peak. Tom's offence is
+  now concrete and a desecration of the sanctuary: he lays the Company's
+  articles on the Pelican's bar — a hand's breadth above Bell's folded page
+  and the counter-notches — and asks Maggie for the pen to take the boy's
+  mark. Maggie's response is the single rupture in her composure: the offence
+  earns anger; the fourteen-year sentence is the excess ("She could stop here.
+  ... She does not stop here."). Her language turns salty and profane (period
+  Wapping), she names Tom with Silas Rook and "the whole whoreson firm," and
+  her buried Swedish cracks the surface twice — *Fan* and *Ut ur mitt hus*,
+  each glossed for an English reader. Tom takes it whole (he was wrong, and
+  he loves her, though the word is never said); only Maggie can break him;
+  Fritiof is born on the threshold. The tragedy is the fourteen years of
+  silence a single word would have mended, which neither will cross.
+- "The Return" 8909 -> 10556 words. Verified: `node --check`, page-id count
+  matched live bundle (117), zero scaffolding leak, zero `<em>` garble,
+  round-trip re-extraction. New bundle `app/index-fo8823.js`; superseded
+  `app/index-yr7k2p.js` removed; cache-buster `20260724-fallingout`.
+
+### Source of record
+- `manuscript-editorial/21-1611-the-return-merged.md` §XV spliced with the
+  approved epic scene; `manuscript-editorial/21-1611-falling-out-EPIC.md`
+  updated to the deployed version (concrete offence + overreaction + Swedish).
+- Design locked in the Tom-as-Fritiof / Maggie-complication plan: love is
+  permanent, one-directional and unnamed; Maggie's heart stays unresolved;
+  the seven unsent letters (`editorial/tom-unsent-letters.md`) are the penance;
+  total silence across the fourteen years (no exchanged letters).
+
 ## [2026-07-23e] (Reader year-display fix)
 
 ### Added

@@ -742,119 +742,97 @@ There what is?
 
 The room inside you where grief becomes use.
 
-Carter does not yet know how many forms that room can take. He only knows she has found something inside him and dislikes being found.
+Carter does not know how many forms that room can take. He only knows she has found something in him and dislikes being found.
 
-Tom steps between them, not physically — he learned long ago that standing between is sometimes the easy part — but with the calm voice he uses when two watches are close to knives.
+Tom explains the arrangement the way he has learned to explain things: plainly, in order, leaving no place for a question to catch. Jack signs for the Company's next fleet. He goes on Tom's crew, under Tom's eye. His wage runs half to himself and half against the yard account until the four pounds are clean. There is an instruction allowance, he tells her — a thing a boatswain may enter against a rated man, two shillings the month, credited where the boatswain directs. His own goes against Carter's account until the four pounds close, and then it turns to Jack, and Jack keeps it. It is lawful. It is clean. He has read the article twice and the purser will not blink.
 
-Jack goes to the City tomorrow to sign for the Company's next fleet. I told him I would find him a berth on my crew. His wages go against the yard account until it is clean.
+He lays it out unhurried and a little proud, a man showing good work to the one person whose good opinion he has carried across nine years of ocean. For the length of it he is easy inside the Company's own tools. For the length of it he is very like a small neat clerk who once sat in a warm room above a rope warehouse and made three true accounts of one cargo.
 
-All of them? Maggie asks.
+And then he does the thing.
 
-Half. Same as mine were.
+He takes the articles from inside his coat — Jack's, drawn up already, wanting only the mark — and smooths them flat on the bar. On the counter. On the black oak that holds, a hand's breadth beneath the boy's waiting name, Bell's folded page and the crowd of notches and every account the house has ever kept against the men who keep accounts. Tom does not think about the wood. It is flat and clean and near, and he is a man who uses what is near. He turns the paper to face the boy.
 
-Were?
+Have you a pen, Maggie? The one you chalk the slate with will do. He can make his mark now and it is done, and I'll walk him down to the ship in the morning already bound.
 
-Tom's eyes flick down. The original eleven pounds is nearly paid.
+He asks it easily, the way you ask for anything in a room you have always been welcome in. He is going to take a boy's mark for the Company on the Pelican's bar, and he wants Maggie to fetch him the pen to do it with.
 
-Nearly.
+There is a silence you could stand a tankard in.
 
-There were additions.
+Maggie looks at the Company's paper lying on her counter. She does not fetch the pen.
 
-Physician's fee, she says.
+She picks the articles up — not torn, she does not tear, she is exact even now — and sets them on the stool by the fire, off her wood, the way a thing is moved that does not belong in a clean place. Then she stands with her hands empty, and the weather in the room changes.
 
-And rent advanced while I was away. Burial. Interest when a voyage ran beyond the year.
+She could stop here. She knows the fair weight of the thing to the ounce; she has weighed men fair her whole life. The fair weight is small: sweep his hiring rail off her counter, tell him to take the Company's business to the Company's floor, pour his ale, and let a slow year mend what one bad night has cracked. Tom has done a blind, stupid, ordinary wrong — the wrong of a man who has stopped seeing the room he stands in — and a blind ordinary wrong is mended by a hard word and a little time.
 
-Nine years at half wages and Harcourt still owns a piece of the month.
+She does not stop here.
 
-Not for much longer.
+Something the sea has been filing at in her for thirty years — Johan under the Baltic, the boy taken by the King's coin, Black gone all the way to Africa for it — gives way at last, tonight, over a sheet of paper on her bar, and she goes past the fair weight of the thing, and keeps going, and cannot find the place to stand and stop.
 
-Maggie points at Jack. Put his father's four pounds against your half.
+*Fan*, she says.
 
-Tom stares at her.
+Just the once, and quietly. It is Swedish, and it means the devil, and she has not let it past her teeth in this room in thirty years. Carter, who has drunk in this house twenty years and believed he knew every weather in it, goes still, because he has never once heard her reach back across the water for a word.
 
-If you are keeping him alive, she says, buy the chance with your own wages.
+You laid it on my bar. God's blood, Tom. You laid their paper on my bar and asked me for the pen.
 
-That is not how the books work.
+It closes the debt, he says. It keeps the boy —
 
-Books are made by hands.
+It is the neatest thing to come through that door since Silas Rook dragged a girl through it by the wrist with a plan to make honest men do his killing for him. You remember Silas. You stood against that door and would not let him past, and took his fist for it, and stayed. And here you are, nine years on, with your own neat paper and your own boy half-bound, asking me for the pen to finish it. God rot you. God rot the whole whoreson firm of you — Harcourt with his account built never to close, the steward who read your father his losses in the voice of a man reading weather and would not enter the leg, Silas with his rope — and now you, with your two shillings the month laid out clean on the one table in Wapping that was ever kept against exactly this. You have signed articles at last, Tom. Not the Company's. The old firm's. The one that takes boys and calls it keeping them. And you did it so neat you came here to be admired for it.
 
-I have my father's account.
+I am not Harcourt, Tom says.
 
-And Jack has his. That is very convenient for every man whose wages remain his own.
+No. And God help me, that is the worst of it. Harcourt must be told what he is. You taught yourself, and dressed it, and carried it to my bar for the marking like a boy his copybook.
 
-Jack has gone still. The knot lies unfinished between his hands.
+He has an answer ready — worn smooth on nine years of watches: that the boy signs with or without him, that on another deck Jack gets a man who sells his rations and beats him for not knowing work nobody taught him, that Tom can keep him alive and no one else in that hiring room will try. Every word of it is true. He opens his mouth to say it, and looks at her, and cannot — because she is not saying the boy will die. She is saying Tom has learned to price a boy and feel kind about it, and that is true as well, and the two truths do not cancel. They sit side by side, both entered, both correct, the way they always do in the books he has learned to keep.
 
-Tom lowers his voice. He will sign with or without me. On another deck he gets a boatswain who takes his advance, sells his rations and beats him for not knowing work nobody taught him. On mine I can keep him alive.
+He shuts his mouth. It is the first argument he has ever lost by agreeing with it.
 
-There is always a *with or without me*, Maggie says. It is how the man holding the paper makes the man holding the boy believe there was never a choice.
+Maggie comes around the counter. She does not take up the mallet. She stands in front of the scarred man in the boatswain's coat and looks at him the way she has looked, across thirty years, at men laid on the centre table — all the way, without hurry, taking the inventory that is owed.
 
-This is not Harcourt.
+There was a boy, she says, and the fury goes out of her voice, which is worse than the fury. He stood against that door with a man twice his size in front of him and would not move. I told him he would die for a clove. He stayed. I cut his mark in that wood before his ship had cleared the stairs — the one mark I ever cut before the sea had answered, because I could not make myself believe the sea would dare take him.
 
-No. Harcourt knew what he was doing.
+She is looking at Tom, and grieving, openly, a man standing in front of her and breathing.
 
-The words land harder because she does not raise her voice.
+I do not know where that boy went. But you have come back wearing his face, and you laid their paper on his table, and you asked me — me — for the pen. So I will not pretend. I have buried better men than the thing you have made of yourself, smaller men and less clever, and I said their names over them, and I am not going to stand in my own house and say yours while you are still warm.
 
-Tom turns away, then back. You think I should leave him to whichever ship takes him?
+She reaches under the bar, into the dark beside the pale notches, and brings out the brass thimble. She does not throw it down. She sets it on the flagstones at his feet, the way a thing is set down beside a grave.
 
-I think you should stop calling the taking a rescue.
+Take it or leave it. It was a wager that you would come back. You did not. Somebody in your coat did.
 
-Pell would have lived with a better boatswain.
+Tom has stood in the Portuguese guns at Swally and made no sound the sea could keep. He has taken the fever that emptied a deck around him. He took his father's death in a letter seven months cold, and Pell going over the side of the *Ascension*, and the long arithmetic of a debt built never to close, and none of it, not once, reached past the hard face to the thing behind it.
 
-Pell had Lancaster.
+This reaches it. Not loudly. The face goes the way a hull goes when the sea has finally found the seam it was always going to find — quietly, and all at once, and not to be made whole by any hand aboard.
 
-Pell had scurvy.
+He does not argue. He has nothing to argue with: she is right that he did it, and he loves her, and those two together leave a man no ground to stand on. He does not tell her the one thing that might turn her, because there is no shape he is allowed to say it in, and because it would change nothing — it would not lift the paper back off the wood.
 
-And Jack will have fever, flux, rotten water, Portuguese guns and whatever order comes down from a merchant who has never tied the knot in his hands. Which of those are you?
-
-The man who can teach him when to duck.
-
-Then teach him. Pay him. Bring him home. But do not take half his wage for Carter and name yourself kind because another man might take all of it.
-
-Carter puts both gloves on the table. The debt is lawful.
-
-So was the woman in Bell's book.
-
-That silences him.
-
-Jack looks from one adult to the next, seeing perhaps for the first time that the arrangement presented to him as weather was made by people in rooms. He pushes the unfinished knot away.
-
-I asked Tom for the berth, he says.
-
-Maggie's face softens, which is not the same as yielding. I know.
-
-My father needs it.
-
-I know that too.
-
-Then why are you angry with him?
-
-Because he knows all of this and has learned to speak as though he does not.
-
-The silence that falls over the bar is absolute.
-
-Maggie stares at Tom. At the whistle. At the scar. At the competence she was proud of an hour ago and the use he has chosen for it. To survive the Company he has become part of its machinery. That does not make every thing he does wicked; it makes every wicked thing easier to describe as necessary.
-
-Maggie does not pour the ale.
-
-She reaches under the bar, into the dark gap beside the pale notches, and brings out a plain brass thimble. She walks around the counter, and drops it on the flagstones at his feet.
-
-You're not a sailor anymore, Tom, she says, and her voice shakes with a sudden, profound disgust. You're Master Harcourt. You're Silas Rook. You're the room telling itself the next death was already decided. Another big man using paper to send somebody else's boy where you would not send your own.
-
-I haven't got a boy, Tom says. It comes out small, and human, and too late.
+I haven't got a boy, he says. It is not a defence. It is only the truth, arriving small and too late.
 
 No, Maggie says. The sea made certain of that too.
 
-Tom looks down at his mother's thimble shining in the firelight. He does not pick it up.
+He looks at the thimble on the stones. He does not pick it up. He has not earned it back, and he knows to the penny what he has and has not earned; it is the one account he keeps honestly.
 
-The door is behind you, Maggie says, turning her back on him. Don't come back until you remember what a human life is worth.
+She turns her back, because she cannot watch the rest and stay standing.
 
-The door opens. The door closes. The cold moves through the room and settles.
+*Ut*, she says.
 
-Carter collects his gloves.
+The word is not English. It is the first word of the country she left thirty years ago, and it means out, and he does not need it translated. *Ut ur mitt hus.* Out of my house. It comes up out of her because the English has run dry, because there is a grief that will only fit in the tongue a woman was a child in, and hers has come all the way up the river tonight to find her.
 
-What happens to the yard account? Maggie asks.
+Then, English again, the lid pressed back down on it, level: Don't come back until you remember what a human life is worth.
 
-The chandler looks at Jack, and for a moment the man who put a belaying pin beneath Silas Rook's boot stands inside the merchant's expensive coat.
+Tom crosses to the door he once could not be moved from, and opens it, and the cold comes up off the river. He does not look back. A man who looks back is asking to be called, and he will not put that on her — whatever she is grieving, he will not make her refuse him to his face as well.
+
+He goes out into it.
+
+The cold takes him. Wapping Wall runs east into the dark, toward the stairs and the ships and the whole turning world, and Tom walks it the way a man walks who has just learned that the one door he wanted at his back is the door now shut to him — competently, going nowhere in particular, already a little homeless in a way that has nothing to do with the sea, though the sea is where he will carry it.
+
+It does not have to be long. That is the part neither of them can see tonight, and both will see for fourteen years: a blind wrong and a grief that overran its banks are mended by one word from either side, in a season, easily. Neither will send the word. He was wrong, and has no standing, and loves her too well to ask. She went too far, and knows it, and cannot find her own way back across the thing she did. So the season passes and does not mend it, and then the year, and the not-speaking sets like a third body in the room that neither of them will be the first to lift. She was not cruel — she was, only once, and only tonight, unfair. He was not wicked — he was, only once, blind. And two people who could have been mended by a single word are going to lose fourteen years to the want of it, and know it, and lose them anyway.
+
+Behind him the door closes. The cold settles into the room and takes its time leaving.
+
+Carter collects his gloves. The articles are still on the stool by the fire where Maggie set them, and he does not touch them either.
+
+What happens to the yard account? she asks. Her voice has come back to level. It is the only thing about her that has.
+
+The chandler looks at Jack, and for a moment the man who once drove a belaying pin beneath Silas Rook's boot stands inside the merchant's expensive coat.
 
 If the boy signs, half wages until it is discharged.
 
@@ -865,6 +843,14 @@ Carter's answer takes too long.
 The steward will proceed against the rooms.
 
 Maggie nods. Not approval. Entry.
+
+When the room has emptied and the fire is low, she crosses to where the thimble lies on the flagstones and picks it up. She does not set it back on the bar. She returns it to the dark fault beside the notches, behind the folded page, where the house keeps what it is owed and what it has failed to keep. A wager is not cancelled by the keeper. Only by the sea, or by the man himself, coming back through the door as the one who left by it.
+
+She wipes the counter where the Company's paper lay, hard, twice, though nothing was spilled and paper leaves no mark. Under her hand is the notch she cut for him nine years ago, deep and pale gone dark with use. She does not cut a new one beside it. He is not dead. She only grieves as though he were, because grief was the one honest entry left to make, and Maggie has never in her life made a false one.
+
+Not once. Not even tonight — when one false entry, one small kindness against the truth, one word that was only *stay*, would have kept in the room the last thing the sea had left her.
+
+* * *
 
 ## XVI. The Meat Pie
 
