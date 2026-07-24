@@ -345,3 +345,14 @@ I'll tell her.
 And he goes back to his brandy and his ledger of the room, and Su takes up her empty basket, and that is the whole of it: a kind old doctor asking a kind question and giving good advice, on a warm evening, in a good house, in a summer when the worst thing in the newspaper is still a quarrel about the drains.
 
 She carries the basket out past the empty chair, propped level with its two-hundred-year playbill, and into the blue summer dusk, and does not look back, and has no reason on earth to. It is only later — much later, folding in the quiet, in a winter that has not yet been invented — that she will set this evening beside a certain other one, and understand that the most frightening man she would ever meet had, the whole time she knew him, exactly the manners of the kindest, and that she had been standing in the same warm room with the difference for seven years, and had filed it, and had not known the drawer.
+
+She walks home from the Prospect along the Wall with the empty basket and the book, at about a quarter to nine, on the last ordinary evening of an ordinary summer, and there is nothing whatever in her head.
+
+That is worth recording because it will not be true again for a very long time.
+
+Tomorrow there is the copper and the sorting and a delivery to the Strangers' Home; on Monday there is Elisabeth, if she comes, and Catherine, who always does; in the autumn there is the hopping and a promised half of a song; and further out than that Su has no plans at all, and has never had any, and would have told you at nineteen that a person in a chandlery in Limehouse does not particularly need them.
+
+The river is going out. The fog is four months off. Her father is fifty-eight and has eleven years, and her mother is fifty-one and has twenty, and the two women Su likes best of everybody who comes across that counter have, between them, about nine weeks.
+
+She lets herself in through the yard, because the shop door is bolted, and she stands for a moment in six paces by four in the dark out of nothing but habit, and then she goes in and up to bed, and the counter opens at six.
+

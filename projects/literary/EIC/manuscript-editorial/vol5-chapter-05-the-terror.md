@@ -162,6 +162,20 @@ But there is money on the table now. Real money, publicly advertised, for exactl
 
 That is what the rule is for. It is not about her. It never was. It is about what a large enough number does to the quality of what people notice, and her grandfather worked it out in a courtyard in Canton, and her father carried it four months round the Cape, and it has been sitting in a cold yard in Wapping for fifteen years waiting for the one autumn in which it would turn out to be about something.
 
+What nobody in any account of that autumn has ever recorded, because there was nobody in a position to record it, is what it was like to be the one household on a street who could not be frightened in the ordinary way because they were also being frightened at.
+
+Every other family on the Causeway that September had one thing to be afraid of.
+
+The Zhangs had two, and the second one was arriving through the same door as the custom, in the same voices, from the same people, on the same afternoons — a woman on the step asking whether it mightn't be safer to take her washing elsewhere until things had settled; a report about a man coming out of Pennyfields; eighty people in a street looking at a door.
+
+And the two fears do not add. That is the thing Su has never been able to get across to anybody in the whole of her life, including her own children. They interfere. A person who is afraid of a murderer and also afraid of the crowd that is looking for him cannot simply hold both; the second one takes the first one's weapons away. You cannot bolt your door early, because a bolted foreign door is remarked on. You cannot keep your daughter in, because a daughter kept in is a daughter with something to hide. You cannot stop going out after dark, because a shop that stops delivering after dark is a shop that has stopped needing the money, and everybody knows what that means.
+
+So the Zhangs went on doing everything exactly as they had done it in July, in the middle of the worst autumn that city ever had, not out of courage and not out of stubbornness but because every single available precaution had a price on it that was higher than the risk.
+
+Su's father stood in a doorway with his hands out. Her mother thanked a minister loudly for a sermon. Su walked the round.
+
+That is what those three things were. They were not defiance. They were the only arrangements left on the shelf.
+
 ## III. The Hands in the Doorway
 
 The word Leather Apron does something to the East End that the word Ripper, when it finally arrives, will only make worse: it gives the fear a face, and having no actual face to put to it, the fear goes looking for one among the faces the street was already a little afraid of before any of this began.

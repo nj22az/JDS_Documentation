@@ -240,3 +240,16 @@ Never first. Never for show. Never for payment. Never in anger.
 She has kept all four, twice, when it mattered. She tells herself, walking, that this is simply a fact about herself now, settled and proven, the way a bridge that has held two floods can be trusted, reasonably, to hold a third.
 
 She does not yet know how much harder the third time is going to be, or how much closer, on the far side of it, she will come to finding out exactly how thin the difference really is between stopping a thing and taking, at last, the payment she has spent her whole life refusing to let herself want.
+
+She thinks, walking, of the two crossings this family has actually made, and of how little either of them looked like a crossing at the time.
+
+Her father's took a hundred and thirty-one days and he has never once described it as a decision. There was a funeral and a landlord and a colony with no further use for the family trade, and then there was a pass with something wrong with it, and a boy who said one word, and a sampan at the end of a rotten pier — and the whole of the rest of everything, this shop and this street and this yard and Su herself, came out of four minutes in which Wei Zhang was not consulted about anything.
+
+Her own took under three seconds, twice, on an afternoon and an evening five years apart, and she was not consulted about those either.
+
+That is the thing she has worked out and has nobody to say it to. That a person does not cross anything. A person is standing somewhere, doing something ordinary, and then the ground they were standing on is on the other side of them, and everything afterward is spent finding out what sort of place they have arrived in.
+
+She has arrived in one already, twice, and got out of both.
+
+She does not know, walking home this September with the basket light on her hip, that there is a third one four months ahead of her, in a fog, and that it will take under two minutes, and that she will spend the following sixty-one years finding out what sort of place it was.
+

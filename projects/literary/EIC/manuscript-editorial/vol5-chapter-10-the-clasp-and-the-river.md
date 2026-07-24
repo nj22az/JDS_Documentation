@@ -70,6 +70,18 @@ And the woman says that nobody knows and that Mrs. Bell says he took nothing wit
 
 Wednesday, Su says.
 
+She dreams about the clasp for about two years and then stops, and the dream is always the same and is not what anybody would expect.
+
+In the dream she opens it.
+
+There is no horror in it and no relief either. She kneels in the mud in the fog and puts her hand on the clasp and it comes up under her fingers, and she looks inside — and then the dream simply ends, every time, at exactly that point, without ever once showing her what is in there.
+
+She wakes up in the room above the shop with her heart going and lies there and works out, every time, over the course of about a minute, that she did not open it.
+
+Her own view of the dream, arrived at somewhere in the second winter and never revised, is that it is not about the case at all. It is her own mind offering her, over and over, in the only currency a sleeping mind has, the thing she refused on her knees in the lane — and it stops, she thinks, in about 1890, not because she stopped wanting to know but because some part of her finally accepted that the offer was never going to be honoured.
+
+She has never had the dream again. She has had, perhaps four times in sixty years, a different one, in which she is standing at a counter and Elisabeth is asking her a question she cannot hear, and those she has never once tried to interpret.
+
 ## II. No Sixth
 
 There is no sixth murder.

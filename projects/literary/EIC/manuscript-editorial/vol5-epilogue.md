@@ -52,6 +52,20 @@ It fits, and it does not prove.
 
 She has stopped, some years back, being troubled by the not-proving. There was a decade, in the middle of her life, when the unclosed account sat in her the way the banked heat once sat under her ribs the whole of that terrible autumn — patient, present, demanding to be accounted for by someone, someday, in some ledger somewhere. It does not sit that way any longer. She has come, in her old age, to understand what her mother tried to tell her at the very end of her own life, on a spring morning thirty years gone, about the honest loss being worth more than the tidy lie: that some sums are permitted to stay open, on purpose, forever, and that a life spent trying to force one closed by main force is a worse life than one spent simply carrying the weight of it, evenly, the way a good basket is carried, so that a stranger passing on the street would never once guess it was there.
 
+The shop is not going to last and Su knows it, and this is the one item on the whole account that she has decided, deliberately, at sixty-nine, not to mind about.
+
+The eldest will keep it going and does. The eldest's children will not, and Su has watched that arrive from a long way off — a granddaughter in an office in the City, a grandson who has gone into engines and is very good at it and has no more use for a copper than for a horse — and has decided, and said so once, out loud, to nobody, at the counter, that a family that has kept a shop for seventy-six years and now sends its children somewhere better has not lost anything.
+
+Her father would have agreed and her mother would have argued, and Su, who is made of both of them, has had the entire argument by herself in an empty shop several times and has given her mother the last word on every occasion.
+
+What she does mind about, and has made arrangements for in the only way available to her, is the yard.
+
+She has taught four generations in it. She has taught every child that came in off the Causeway in it. And she understands perfectly well that a yard six paces by four behind a chandlery in Limehouse is not a thing that can be left to anybody in a will, and that whatever her family carries forward out of it will be carried in bodies rather than in a building — which is precisely, she has come to think, how it was carried out of a courtyard behind a herbalist's in Canton in the eighteen-forties, when a war ended and a door shut and one man walked to the coast with everything still in him.
+
+Nothing was left of that courtyard either.
+
+Everything was.
+
 Catherine's bodice hangs now, has hung for the better part of forty years, in a frame in the chandlery's back room, where it once sat wrapped in its paper on a shelf, paid for and never collected. Su could never bring herself to unpick the seams and use the cloth, and neither, in her own turn, could her mother, and the two of them settled, without ever quite deciding to settle it, on framing the thing instead — an account kept open in a shape a stranger might mistake for decoration, though anyone in the family who has ever asked after it has been told, plainly, exactly what it is and exactly whose it was.
 
 The white bowl stands on its own high shelf still, dusted by whichever hand in the family happens, this particular season, to be the one charged with dusting it, a duty passed down now four generations without a single one of those generations ever once questioning why a plain rice bowl from a Hong Kong tea stall deserves the keeping. Some debts are not for closing, Su's mother told her, near the very end, and Su has taught the sentence to every child who has ever stood in this yard, in both her languages, the way her father taught her the four rules before either of them, in the sentence itself, existed yet as words a child could give back.

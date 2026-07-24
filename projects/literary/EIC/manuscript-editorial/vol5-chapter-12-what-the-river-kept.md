@@ -448,3 +448,20 @@ What she is, instead, is in credit and always has been, and has spent an entire 
 Some debts are not for closing.
 
 The watchman's daughter is the watchman now, and has been for the better part of forty years, and will go on being it a good while longer, standing in the grey light before the counter opens, a small unreasonable argument for the world's continuing, the same way a crimson flower argues for it every June from a chandlery window between two lamps, roots easy, minded against every frost that has come since, and every frost still to come.
+
+The last entry anybody ever makes in the ledger Su has kept in her own head since 1888 is made in the winter of 1946, and it is made by somebody else, and Su is the only person alive who knows it has been made.
+
+A new theory. Another book, another decade, another confident writer with a name on a spine — and in the middle of it, offered as colour rather than as evidence, a list of men who lived within half a mile of the murders and disappeared from the parish records in the following twelve months.
+
+There are eleven names on the list. Su reads it twice.
+
+The eleventh is a retired Company surgeon, listed by profession and by street, unnamed because the writer could not establish a name, described in one clause as *of whom nothing further is known*.
+
+Of whom nothing further is known.
+
+Su, who is seventy-seven, sitting in a chandlery in Limehouse with a book in her lap and the flower doing nothing on the sill because it is February, reads that clause about nine times.
+
+Then she closes the book.
+
+It fits, and it does not prove. It has fitted and not proved for fifty-eight years, and it will go on fitting and not proving for as long as there is anybody left to lay it against anything — and the only person in the history of the world who was ever in a position to close that column has spent an entire life declining to, on her knees in the mud, on a wharf edge, in a shop, at a counter, at eighty, on purpose, every single time.
+
