@@ -284,6 +284,26 @@ She never once says any of this to him. He never once says it to her. They are, 
 
 On his slack-tide Sundays home from the sea he rows her out on the same stretch of river that took her family across the world as freight, that drowned her question and has never once been asked to answer it, that gave her Elisabeth's grief to understand and Catherine's ending to grieve without ever knowing — and the water, which has taken everything this house has ever fed it, going all the way back to a white bowl and a boy who said *Run* on a Hong Kong pier, gives the two of them back, in exchange, one clean hour with nothing owing in it either direction. It is not much of a bargain, set against everything the river has taken. Su comes to think, over the years, that it is exactly the bargain the river has always been prepared to offer, and that the trick of a whole life is learning to take the hour and stop totting up the rest of the account.
 
+The letters are their own institution and outlast both of them.
+
+Erik writes about four times a voyage, from wherever a ship's mail can be got off, and the letters are exactly what a manifest would be if a manifest could be fond: the port, the cargo, the weather in one clause, the state of two named shipmates, and one thing seen. Always one thing seen. A whale off the Skagerrak. A church in Riga with a green roof. A man in Danzig who could juggle four eggs and had, so far as Erik could establish, no other means of support whatsoever.
+
+Su reads them aloud at the counter to whoever is in the shop, because a letter in that house has never once been treated as private property, and her mother listens to every word and pronounces judgement on the weather.
+
+She writes back the same evening, always, in English, in a hand that got as far as the mission school and stopped. She tells him the shop, the children, the street, and one thing seen, because he asked for that in the second letter of the first voyage and she has never once missed it since. A barge on fire at Blackwall and everybody perfectly calm about it. A cat that has learned to open the chandlery door. A man on the Highway selling a machine that did nothing at all, very convincingly, for a fortnight.
+
+Neither of them writes anything in a letter that could not be read aloud in a shop, because both of them know it will be.
+
+There are eleven of his letters left by the time Su is old. The rest went where paper goes in a house with a copper in it. She could recite two of them entire at eighty and did, once, to a granddaughter who had asked an idle question and got rather more than she was expecting.
+
+Her mother works the counter through all of it and does not, in the whole of the nineties, take a single day off her feet.
+
+They fall into a division neither of them ever proposes. Sau-Ling has the counter and the book and the customers; Su has the copper, the loft, the round, the mending, and — from about 1896 — the ordering, because her mother's arithmetic is faultless and her mother's English is not, and there came a point at which arguing with a soap merchant in writing became a thing that needed doing in a language Sau-Ling has never consented to write.
+
+They quarrel perhaps four times in a decade, always about the slate, always in Cantonese, always at the copper where the customers cannot hear, and always to a conclusion that is a draw.
+
+Su thinks, later, that the nineties were the best decade of her life and that she did not notice one single day of it while it was happening. There was a husband who came and went, and three children, and a father in the yard, and a mother at the counter, and a shop that paid, and nobody died in it, and that — she has come to understand, from the far side of a great many years in which somebody did — is the entire specification for a good decade, and there is no possible way of knowing you are inside one at the time.
+
 ## V. Wei's Hands
 
 Her father's hands go on failing by the same slow degrees Su first noticed in the autumn of the killings, and go on failing for the better part of a decade after, the way a rope frays — not all at once, never dramatically, only ever one more strand giving way each season until the day arrives, unannounced, when the whole of it can no longer be trusted with a real weight.

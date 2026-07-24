@@ -83,6 +83,42 @@ She says it often, to whoever is in the shop, the way a person says the thing th
 
 Some stories are load-bearing. Su understands this to the marrow, being the daughter of a man who keeps a bowl on a shelf he is not allowed to use and a woman who keeps a God she cannot make balance. A person is allowed one story that holds the roof up, and it does not have to be true to hold the roof up; it only has to be carried. Whatever really happened to Elisabeth on the far shore of her ocean — whatever she left there, whatever left her — she has folded it, for public wear, into a shape the neighbours can hold: a clean, nameable, enormous grief with a date on it and a band still playing. The true one, Su thinks, must be the kind you cannot wear in the street. She does not know she is right. She will find out she is right in exactly the way you least want to be proved right about a friend, and by then it will be four years too late to tell her so.
 
+They are in the shop together exactly once, and Su has spent the rest of her life wishing she had paid better attention to eleven minutes she had no reason on earth to think were worth attending to.
+
+It is a Monday in the July. Elisabeth is at the counter over a shawl; Catherine comes in behind her with a hem, and there is the small shuffle two customers do in a narrow shop, and then they are standing side by side at the counter waiting while Su goes through to the back for a parcel.
+
+She can hear them the whole time. That is the part she has gone over.
+
+They talk about the heat. They talk about the price of a thing at a shop on the Highway. Catherine says something Su cannot make out and Elisabeth laughs — a short surprised laugh, once, the way a person laughs who was not expecting to that morning. Catherine says the word *duchess*, which means Su has been discussed, briefly, in her own back room's hearing, by two women who have never met.
+
+That is all. They do not exchange names. Su comes back with the parcel and serves Elisabeth and then serves Catherine and both of them go, separately, four minutes apart, in opposite directions up the lane.
+
+They did not know each other. Su is as certain of that as she is of anything: they were two strangers who stood at a counter and were pleasant about the weather. She has never once been able to establish that they ever met again, and there is no reason to suppose they did, and the papers, when the papers came to write about the two of them together as though they were a pair, were joining something that had been joined exactly once, for eleven minutes, in a laundry in Wapping, by a girl who went into the back for a parcel.
+
+They swap words, that summer, Elisabeth and Su, the way people do who have both had to build a second self in a borrowed language.
+
+It starts as a joke and stops being one inside a fortnight. Elisabeth gives her *hemlängtan*, which she says is not homesickness, and is not longing for home, and is a word for the ache of the place itself rather than of the person aching — the whole thing sitting in the noun where in English it has to be dragged in with an adjective. Su gives her back the Cantonese for the ache after too much of the horse stance, which is not a spiritual word at all and makes Elisabeth laugh for some time.
+
+Elisabeth gives her the word for the particular slack hour of a summer evening when the light has gone flat and nothing further is going to happen that day.
+
+Su gives her *hei* — breath, air, the thing her father spends twelve minutes at the end of every dawn arranging — and cannot translate it, and says so, and Elisabeth says: no. You should not be able to.
+
+Su has perhaps nine Swedish words at the end of that summer and has never in fifty years lost one of them, and has never once had any use for a single one, and has never met another Swede in her life except the one she married, who did not speak it either.
+
+There is a Monday in the August when Elisabeth comes in with a mark on the side of her face.
+
+It is going yellow at the edges, which means four days or five. It is the kind of mark a person gets from a door, or a fall, or a great many other things, and Elisabeth does not mention it and Su does not ask, and Su has since thought a very great deal about the not asking.
+
+What she does instead is what her mother would have done. She takes the shawl, and writes the ticket, and then says, apropos of absolutely nothing, that there is arnica in the brown bottle on the second shelf and that it is her father's own mixing and that it is better than anything the chemist on the Highway sells and that the shop has more of it than it can use.
+
+Elisabeth looks at her for a moment.
+
+Then she says: your father makes it.
+
+He does, Su says.
+
+And Elisabeth takes the bottle, and puts it in her bundle, and pays for her shawl, and goes; and the bottle never comes back, which Su did not expect it to, and Su never mentions it again, which Elisabeth plainly did not expect either.
+
 On the last Monday of the summer Elisabeth comes with almost nothing — a collar, a bit of lace, a thing that is barely worth the walk — and Su understands, without either of them saying it, that the collar is an excuse and the walk was the point, that Elisabeth has come to stand for a quarter of an hour in the one shop on the whole reach where she is met in daylight and read kindly and asked nothing. Su gives her the quarter of an hour. She irons the collar she does not need to iron, and the iron goes over it the way it goes over everything, in long even passes with a wrist that has stopped registering the weight of the thing at all — eight pounds of hot metal handled the way a person handles a spoon, because a body that has been made to carry worse than eight pounds, morning after morning, for thirteen years, stops being able to tell you that eight pounds is a weight. Outside the window the summer is going gold and long, and the worst thing in the newspaper folded on the counter is a quarrel about the drains, and the two of them stand in the steam and the soap-smell and are, for the last time either of them will ever know it, entirely ordinary.
 
 Take care of yourself, Elisabeth says at the door, in the soft English, the country coming up under it for a second the way the river comes up under the fog.

@@ -85,6 +85,20 @@ Good, her mother says. Some debts are not for closing. Your father knew that bef
 
 She dies before the following dawn, and is buried beside Lee, and beside Wei, in the small mission churchyard that has taken every Zhang this book has lost and given none of them back, and Su stands at the grave with her own three children beside her and understands, in the particular way a person only understands such things once there is nobody left standing between them and the front of the queue, that she is now the oldest Zhang on this street, and that the ledger her mother kept, the open one, the one that never once came right, is hers to keep now, whether she ever asked to inherit it or not.
 
+She is thirty-nine the year her mother dies and she becomes, in the space of one spring morning, the oldest person in her own house — which is a promotion nobody applies for and which arrives with the whole of the family's memory attached to it, unsorted, and no forwarding address for any of the questions she has not yet thought to ask.
+
+She starts, that summer, doing something she has never done before, which is asking her own children to remember things.
+
+Not the war stories and not the crossings; the small ones. What their grandmother said about the eel shop. Which of them she taught to count in Cantonese and which of them she gave up on. The song she sang at the mangle, which had four words in it that nobody now living can identify and which Su's eldest can still hum at eighty-one.
+
+She makes them repeat it back. She makes them do it more than once. She does not explain why and they do not ask, and it is only when the eldest is herself a grandmother, sitting in that same back room, catching herself doing exactly the same thing to a fidgeting child, that she works out what her mother had been up to that summer.
+
+The shop goes on. It goes on being the same shop through the whole of the Edwardian decade, while the reach around it changes in the small relentless ways a reach changes: the arches going up, the gas going in and then the electric, three shops in the same frontage across eleven years, and a steady thinning-out of the particular kind of business the Zhangs' whole trade was built on, because ships were changing and so were the men on them and so was what those men wore.
+
+Su reads the thinning correctly by about 1906 and does the arithmetic and takes, without any drama at all, the decision that keeps that family solvent for the next forty years: she stops trying to be a laundry and starts being a laundry and a chandlery and a place where a person can get a thing mended, and she moves the balance a little further toward the mending every single year until, by the war, more of the shop's income comes off her needle and her hands than out of her copper.
+
+Nobody records this. There is no moment. It is simply that a woman looked at a street for four or five years and then quietly rebuilt her family's living around what she had seen, and Su would not, asked directly, have called it a decision at all. She would have said the mending was coming in.
+
 ## III. Slack Tide
 
 Erik comes ashore for good in 1911, his knees no longer equal to a deck's pitch in heavy weather, his hair gone the same iron-grey his father's went before him on the same coast outside Stockholm, and takes, without much ceremony, to a chair by the chandlery window that becomes, within a season, unmistakably his — not because anyone declares it so, but because a house learns a returning sailor's shape the way it learned Su's father's shape at the dawn yard, by simple accumulated habit, until the chair and the man have worn each other into an agreement neither ever needed to put into words.
