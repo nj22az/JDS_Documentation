@@ -164,6 +164,22 @@ It proves nothing either way. That is the particular cruelty of this kind of wat
 
 Her arms take the heavy basket up off the floor that evening the way they have taken every basket up off that floor since she was nine, which is to say without comment from any part of her. It is a bad basket — the Thursday round, two of the parcels wet-weather heavy — and she carries it out into a lane where the air has already begun to thicken, and she is thinking, the whole of the way to the corner, about a shirt.
 
+She counts, in those last three weeks, the number of things she is doing correctly, because it is the only ledger available to her that comes out positive.
+
+She is opening the shop at six. She is drawing the copper at ten past five. She is standing the form every morning of her life beside a man who is watching her more closely than he lets on. She is not following anybody. She is not telling anybody. She is not writing anything down. She is not going back to the station. She is settling the chit on Fridays and saying good evening to a man she believes has killed four women and possibly five, in a voice that does not shake, because a voice that shakes at that bar would be remarked on by nine people inside a week.
+
+That last one costs more than all the rest put together and she does it eleven times.
+
+There is no version of the four rules that covers it. She has looked. *Never first* covers what she must not do; nothing anywhere in her father's four sentences covers what it costs to stand four feet from a man on a Friday evening and ask after his health, correctly, pleasantly, in an ordinary voice, having decided that this is the smallest available thing and therefore the required one.
+
+She works out, somewhere in the middle of November, that this is because the four rules were built by men who expected the moment to arrive quickly.
+
+A courtyard in Canton, a pier in Hong Kong, a lane behind a wharf: the whole apparatus is designed for a thing that starts and finishes inside four seconds. It has nothing at all to say about six weeks.
+
+She invents what she needs, therefore, out of the only other material in the house, which is her mother's — and what she arrives at, and never tells a living soul, and holds for the following sixty years, is not a rule at all. It is a way of keeping the book.
+
+Enter it honestly. Leave the column open. Go on trading.
+
 ## IV. The Fog Comes Down
 
 The city thickens toward the end of November the way a copper thickens toward the boil: slowly at first, in ways a person notices only afterward, and then, past some point nobody could ever quite mark in advance, all at once and entirely.

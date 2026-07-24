@@ -131,3 +131,16 @@ Su goes back to folding shirts the next morning, and the morning after that, bec
 She tells no one, ever. Not Flo. Not her mother, though on the first morning, working through her form beside her father in the cold yard, she feels him reading her through the crossed wrists the way he has read her since she was seven, and when they finish, his eyes are older than they were the evening before, and all he says is: your weight is back on your heels. Fix it. And she fixes it, and he never asks, and that is how two people who love each other carry a thing up a long flight of years — one landing at a time, without ever once naming what it weighs.
 
 The bruises at her collarbone fade inside the month. The lane behind the sufferance wharf goes back to being only a shortcut, walked without a second thought by everyone on the Causeway who has never once had cause to look at it twice. And Su Zhang, nineteen years old going on some age considerably older, carries the one question that will never close the way she has always carried everything — distributed so evenly across the whole of her that a stranger would never know the weight was there at all — into a life that has not yet finished asking what it will make of her.
+
+She goes down to the stairs at the bottom of the lane once a year for the rest of her life, and has never told anybody why, and there is nothing to see.
+
+It is not a ritual and she would object to the word. There is no date; it happens in November or it happens in January, whenever the year gets round to it. She walks down, and stands at the top of the causeway steps for about four minutes, and looks at the water, and goes back up and opens the shop.
+
+She does not pray. Her mother's God has never had any part of this and neither has her father's absence of one.
+
+What she does, standing there, is the only thing she has ever been able to think of that is neither an apology nor a defence: she goes over the two of them — a tall Swede who came on Mondays and had grief with a floor and walls in one language and none in the other, and a small quick woman from the Midlands who never once got to the end of a song — and she does it deliberately, in detail, for as long as she can hold it, because they are being forgotten everywhere else at a rate she cannot do anything about, and because this is the one stretch of the whole account where she is not required to have an opinion about herself.
+
+Then she goes back up the lane.
+
+She does it for sixty-one years. She does it for the last time in the spring of 1949, at eighty, on a morning when her eldest has to come down and get her, and she does not explain then either.
+

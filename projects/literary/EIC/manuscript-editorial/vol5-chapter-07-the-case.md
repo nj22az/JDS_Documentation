@@ -38,6 +38,16 @@ Every single thing Dr. Cray said to her at that bar about those two deaths was c
 
 She has turned that eleven minutes over for sixty years. It is the single most uncomfortable object in the whole account, and it is uncomfortable for a reason she has never been able to put down: that the kindest thing anybody said to her that entire autumn was said by the man she came four weeks later to believe had done it, and that she has never once been able to decide whether the kindness was a performance, or was real, or whether — and this is the possibility that has cost her the most sleep across the whole of her life — those are not in fact two different things, and never were, in anybody.
 
+She tries, in the first week of October, to talk herself out of the whole enterprise on the simplest ground available, which is that she is nineteen and a laundress and this is not her business.
+
+It does not work, and the reason it does not work is a piece of arithmetic she does at the counter one afternoon and has never once been able to unmake.
+
+There are, in the whole of London, perhaps a dozen people who have ever been inside both halves of Elisabeth's life — the daylight one and the other — and eleven of them are in the other half, and are frightened, and are the last people on earth any police force in 1888 is going to listen to.
+
+The twelfth is a Chinese laundress with a copper and a counter and a good memory.
+
+That is the entire case for its being her business, and it is not much of a case, and Su has never found a better one, and it held for sixty years.
+
 ## II. The Clasp
 
 It is a raw evening in the last week of October when she sees inside the case for the first time.

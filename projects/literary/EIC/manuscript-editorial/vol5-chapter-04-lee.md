@@ -127,3 +127,16 @@ No, her father agreed, and did not give her one, and went back to what he was do
 She carries Lee the way she carries the basket — distributed, low, close in, arranged across the whole of her so evenly that a stranger on the street would never once guess there was a weight involved at all, which is not a figure of speech and is the only way this family has ever carried anything. She will carry Dr. Cray's kindness and Dr. Cray's coldness the same way, side by side, unreconciled, for the rest of her life — and in four months' time, in a fog on the wharf, she will be given, at last, the one thing eight years of carrying it quietly never gave her: a reason to stop merely carrying the weight, and start, for one single night, to act on it.
 
 She does not know this yet. It is still summer. The newspaper on the counter still only frets about the drains, and the shop still keeps its day hours, and up on the high shelf the white bowl gathers its dust in peace, and two streets away, on his usual stool, a kind old doctor is finishing his second brandy of the evening, unhurried, as he is unhurried in everything, and asking Flo, with what sounds exactly like real interest, whether the potboy's fever ever fully cleared.
+
+There is one more thing about her brother and it belongs at the end because it did not happen until 1935.
+
+Su is sixty-six. She is going through a box in the back room — the sort of box that accumulates in a shop across sixty years and gets gone through once a generation — and she finds, at the bottom of it, wrapped in a piece of the shop's own tape, a spinning top.
+
+It is a cheap thing. It was cheap in 1878. The paint has gone off most of it and the point is worn to one side because it was spun ten thousand times on a stone floor by two children who did not take turns fairly.
+
+Her mother put it in that box. There is no other possibility; there is nobody else who could have, and it was done at some point between 1880 and 1908, and it was never mentioned, and Sau-Ling Zhang went to her grave having kept a dead boy's toy at the bottom of a box in a shop for twenty-eight years without one syllable to anybody.
+
+Su sits down on the floor of the back room, at sixty-six years of age, with a spinning top in her hand, and cries the way stones weep, for the first time in her life, for about eleven minutes, and then gets up and puts it back in the box, and goes and opens the counter.
+
+It is still in the box.
+

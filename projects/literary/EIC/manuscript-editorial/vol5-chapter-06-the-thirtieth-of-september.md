@@ -46,6 +46,18 @@ She does not fall down. She stands with a basket of clean shirts on her hip and 
 
 There is a second thing the same column gives her, arriving in the same flat print, in the same breath as the names, and it is this second thing, more than the first, that Su will carry longest.
 
+There is a particular species of shame that arrives with that sentence and Su has never in sixty years been able to put it down, and it is not the shame anybody would assume.
+
+It is not that she is ashamed of them. She has never for one instant in her life been ashamed of either of those women and would have said so, in 1888, in a shop, to anybody who cared to raise it.
+
+It is that she is standing in a public house at midday finding out, from a newspaper, in a room full of people, a fact about two friends that everybody else in that room appears to have known — and that the reason she did not know it is that she never once asked either of them a single question about how they lived.
+
+She had told herself, for three and a half years, that this was tact.
+
+Standing there with the basket on her hip she works out, in about four seconds, that it was not tact at all: that she had two women at her counter whom she liked better than almost anybody, and that she had arranged her acquaintance with both of them so that nothing about either of them could ever require anything of her — no knowledge that would have to be acted on, no fact that would have to be held. She kept the daylight half. She kept it deliberately. And the daylight half was real, and the quarter of an hour with Elisabeth was real, and none of that is cancelled by any of this.
+
+But she never asked. And now the asking has been done for her, by a carman with a late edition, in front of thirty people, and the answers are printed, and the two women are dead, and there is nobody left to whom the question can be put in a form that would do either of them any good.
+
 She learns, standing there, what the paper means when it calls them unfortunates. She learns, in the space of the same sentence that tells her Elisabeth and Catherine are dead, the thing she had never once in three years of Mondays and mendings thought to ask about either of them while they were living: why they were out on those streets, in that particular dark, at that particular hour, on the worst nights the worst autumn in living memory has been able to produce. It does not lessen either woman by a single farthing, this knowledge, arriving as late and as uselessly as it does. It only tells Su, with a clarity she would give a great deal not to have been given, how much of the two women she loved best of all her customers had lived their whole lives in a room she was never once shown into, under names she had never once heard spoken, in a danger she had been washing their linen straight through the middle of without ever once seeing it standing there.
 
 She thinks, walking home with the basket gone strangely heavy on her hip, of the quarter of an hour at the counter with Elisabeth — the two of them understood, briefly and exactly, in a grief with floors and walls. She thinks of Catherine's half-songs, the girl on the quay whose ending neither of them will now ever learn, because the one person carrying the missing half of it down to Kent this September did not, in the end, come home to deliver it.

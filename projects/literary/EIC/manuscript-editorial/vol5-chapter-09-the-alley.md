@@ -82,6 +82,16 @@ Down the lane there is only dark where the woman went. Su never learns her name,
 
 Su goes to the edge of the wharf and looks down, breathing hard, tasting the fog and, under it now, her own blood where her teeth found her lip and she never felt it. There is only moving dark and the fog lying on it and nothing reaching back up; the fast water has already closed over the place. Then, and not before — before would have got her killed — she starts to shake. His grip is stamped into her collarbone in bruises that will take three weeks to fade, and she will wear high collars every one of those days, and her mother will notice, and say nothing, because Sau-Ling Zhang keeps her own ledgers and knows an entry that isn't hers to read. She stands in the fog until the shaking is a thing she is doing and not a thing being done to her. Then she gathers the spilled linen back into the basket by feel, the cold mud on every piece of it, because it is hers, and because there is one thing left in this lane she has not yet done.
 
+What her body did in that lane took, from the basket leaving her hands to the water closing, somewhere under two minutes, and Su has never once been able to remember it as a sequence.
+
+She has it as about nine still pictures with nothing whatever between them. The buttress. The forearm across a throat. The basket going. His face coming round, and the thing in it that was not surprise. A wrist. The particular give of a wrist going the way a wrist does not go. The fan, which she does not remember taking out of her sleeve and which was in her hand. His shoulders. The rail.
+
+Between those nine pictures there is nothing at all. Not blankness — she was not absent, she was more present in those two minutes than she has been in any two minutes before or since — simply nothing that survived into memory, because the part of her doing the work that night had no interest in recording anything and never has.
+
+She has met one other person in her life who described it the same way, which was her son, in 1919, once, briefly, about a morning in France, and neither of them pursued it.
+
+What she does have, and has always had, and has never been able to get rid of, is the sound the fan made.
+
 She got perhaps three seconds of the woman and has spent sixty years on them.
 
 Dark clothes; something over the head that came off in the struggle and was not picked up; a shape rather than a face, and no colour to anything, because there was no colour to anything in that lane that night. The one thing Su has, and has never been able to make into anything, is the sound the woman made going past her — not a scream and not a word, a single hard indrawn breath, the noise a person makes when the thing that was happening has stopped happening and the body finds out about it before the mind does.
