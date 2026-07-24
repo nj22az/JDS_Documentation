@@ -91,11 +91,17 @@ draws from, and flags **[new]** material.
 3. **The Prospect** (~4k) — §I, §V. The tavern; Flo, the dockworker, the potboy;
    the short-legged chair left for last; **Dr. Cray introduced as the beloved
    fixture** — the docker's-shoulder scene and the *level nothing* on his face.
-4. **Long Liz** (~3.5k) — §II. Elizabeth Stride on a Monday; two ocean-crossers;
-   grief with floors and walls; the *Princess Alice* story that isn't true and is
-   load-bearing; the quarter-hour of being understood.
-5. **Kate** (~3.5k) — §II. Catherine Eddowes; *duchess*; the songs; the quay song
-   with no back half; the hopping plans; "mind yourself down there."
+4. **Elisabeth** (~3.5k) — §II. The Monday customer — a tall Swede, two
+   ocean-crossers, grief with floors and walls, the *Princess Alice* story that
+   isn't true and is load-bearing, the quarter-hour of being understood. **POV
+   rule (deployed):** Su knows her only as *Elisabeth*; the street/paper name
+   *Long Liz* (the real Elizabeth Stride) belongs to a life Su never saw, and Su
+   does not know she is a prostitute.
+5. **Catherine** (~3.5k) — §II. The mending customer — *duchess*, the songs, the
+   quay song with no back half, the hopping plans, "mind yourself down there."
+   Same POV rule: Su's name is *Catherine*; *Kate* (the real Catherine Eddowes)
+   is the world's. Su learns *what* they both were only from the murder column,
+   in Ch.12.
 6. **The White Bowl** (~3.5k) — §IV. Wei's crossing begins in the telling: the
    tea-stall woman, the bowl, *bring it back yourself*. The generational strand
    opens.

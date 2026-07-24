@@ -158,8 +158,13 @@ one room — the surgeon its wars taught to be calm, the girl its opium war wash
 out of Canton — and the machine has been dead thirty years, and its consequences
 are only now reaching the bar.
 
-**Long Liz — Elizabeth Stride**; a tall Swede with a soft accent she can put on or
-take off like a bonnet, a laundry customer on Mondays when she comes. She crossed
+**Elisabeth** (to the streets and the papers, **Long Liz** — the real Elizabeth
+Stride; the book keeps that frame in its Author's Note and character-map, but Su
+never does). To Su she is only **Elisabeth**: a tall Swede with a soft accent she
+can put on or take off like a bonnet, a laundry customer on Mondays when she
+comes. Su knows the day side of her and no other — never the street name, never
+what she did after dark to earn the farthings, never that she walked the very
+dark the whole city feared. She learns it only from the murder column, too late. She crossed
 her own ocean as Wei crossed his and remade herself in English, and knows it; once
 she and Su spent a quarter of an hour at the counter comparing the words they
 still could not feel anything in — *grief in English is only a noise; in Swedish it
@@ -171,8 +176,10 @@ load-bearing. She becomes the third name on the list on the thirtieth of Septemb
 found near Berner Street with her throat cut and nothing else done, as though
 something interrupted.
 
-**Kate — Catherine Eddowes**; small, quick, Midlands-voiced, cheerful the way a
-kettle is cheerful, loudest when things are hottest. She calls Su *duchess* for no
+**Catherine** (to the streets and the papers, **Kate** — the real Catherine
+Eddowes; frame kept in the apparatus, never in Su's mouth). To Su she is
+**Catherine**: small, quick, Midlands-voiced, cheerful the way a kettle is
+cheerful, loudest when things are hottest. She calls Su *duchess* for no
 reason anyone remembers and sings while she waits for her mending — halves of
 songs, whatever is already in the room, and one slow one about a girl waiting on a
 quay that she only ever has the front of. She promises the hop gardens will give
@@ -272,7 +279,14 @@ clasp.
 Elizabeth Stride and Catherine Eddowes were real women, murdered on 30 September
 1888. This volume treats them as people — customers, a song, a bodice never
 collected — and keeps the murders themselves at the edge of report, refusing what
-the newspapers did. The resolution (Cray, the fog, the river) is **invented**, and
+the newspapers did. **A point of view, held strictly:** the reader-facing
+apparatus (Author's Note, character-map, illustration captions) keeps the names
+history knows them by, *Long Liz* and *Kate*; but the narrative is Su's, and Su
+knew only the day side of them, under their given names — **Elisabeth** and
+**Catherine** — and never knew they were prostitutes. She learns *what* they were
+only from the murder column, in the same flat print that tells her they are dead.
+That gap between what the city knew and what Su knew is the chapter's grief, and
+it is never closed. The resolution (Cray, the fog, the river) is **invented**, and
 the book knows it: no real person is accused, and the true case is left exactly as
 history left it — open. That openness is the point. It is Sau-Ling's kind of
 ledger, and the river's, and Su's.
