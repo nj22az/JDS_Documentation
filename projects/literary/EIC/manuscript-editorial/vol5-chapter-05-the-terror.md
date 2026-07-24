@@ -26,6 +26,8 @@ The boots pick her up at the corner of Glamis Road, and for a hundred yards Su Z
 
 The basket is fourteen pounds of clean linen, still warm from the pressing, breathing soap and hot iron into the cold, and her arms know to the ounce what they can do with it. The dock road is empty where it is never empty. She shifts the basket to her hip, frees her right hand, and does not walk faster, because running tells a thing it is prey.
 
+Her weight has come forward onto the balls of her feet somewhere in the last thirty yards. She has not noticed it and would not be able to say when. It is simply how she walks, and has been how she walks since she was about nine — a gait so ordinary to her that she has never in her life watched another person cross a road and thought anything about how they were doing it.
+
 She has done this arithmetic before this autumn, in smaller ways, her whole life — a girl alone on a dock road learns early which of the world's noises are weather and which are attention — but the arithmetic has changed its character since the end of August, the way weather changes character before a storm without any single cloud you could point to and blame. It used to be background, something her body did without troubling her mind for a report. Now it is foreground. Now she is aware, with a clarity that has nothing pleasant in it, of exactly what she is deciding as she walks, and exactly how quickly she could stop deciding and start acting if the two sets of boots behind her closed the gap they are, for the moment, choosing not to close.
 
 Then a rattle goes off behind her like a wooden thunderclap, and a lantern swings up, and a voice that has been shouting at foreigners all autumn asks her — not unkindly, which is somehow worse — whose girl she is and where she is bound with that basket.
@@ -43,6 +45,8 @@ In the corner, the chair with the too-short back leg sits empty tonight, as it u
 Su settles her chit with Flo and takes up the empty basket, and Dr. Cray, on his stool at the end of the bar, asks after her mother's chest with the same unhurried courtesy he has asked after it every autumn for fifteen years, and she gives him the same answer she always gives, and there is nothing in the exchange, tonight, that a stranger walking in off the street would find remarkable in the smallest degree.
 
 That is the particular cruelty of an ordinary autumn learning to be a frightened one: it does not announce which of its familiar rooms has changed underneath its familiar furniture. It only waits, and goes on pouring ale, and lets a girl walk home past two well-meaning men with cudgels who have no idea, any more than she does yet, how close any of them are standing to the thing the whole city has started, without quite saying so aloud, to dream about.
+
+What Su does not tell them, and would not know how to begin telling them, is that somewhere around the third lamp she had already put her left foot half a pace wide of where a person's left foot ordinarily goes, so that if the arithmetic had come out wrong she would have been turning rather than starting to turn. She could not have told you she had done it. There is no entry for it anywhere in her account of that evening, which reads, in full: two men saw me home and were pleased with themselves.
 
 ## II. Leather Apron
 
@@ -64,6 +68,26 @@ A stevedore says he heard the woman was cut nearly in two. Another corrects him 
 
 She thinks nothing of it. There is nothing yet to think.
 
+The shop changes in small ways that nobody comments on and everybody obeys.
+
+Women start coming in pairs. Not announced, not arranged — simply, from about the second week of September, a thing that is happening: two women at the counter where there would have been one, waiting for each other, going out together, one of them with an errand that could plainly have waited a day. By the end of the month Su can tell you which four pairs of neighbours on that reach have quietly agreed, without ever putting it into words, that neither of them is walking anywhere alone this autumn.
+
+The evening custom stops. It does not decline; it stops, in the space of about four days, and after that the last hour of the shop's day belongs to men, and to boys sent by their mothers, and to nobody else at all.
+
+And the parcels start being collected earlier. A woman who has for six years turned up for her Thursday washing at some point between four and half past six now turns up at two, and apologises for it, and is told there is nothing to apologise for, and does it again the following Thursday.
+
+Sau-Ling responds to all of this by extending the shop's hours in the morning and saying nothing whatsoever about the evening, which is, Su thinks, watching her mother simply move the whole working day forward by ninety minutes without one word of discussion, about as close as that particular woman is ever going to come to admitting out loud that she is frightened.
+
+There is a Thursday at the end of September when the woman from the eel shop asks Su to walk back with her.
+
+She is fifty-odd and has known Su since she was born and has never in her life asked her for anything, and she does not ask now so much as arrive at it sideways, over the counter, in a long paragraph about the state of the lamps in her own lane which ends, without any change in her voice, with the words *unless you were going that way anyhow*.
+
+Su says she was going that way anyhow.
+
+They walk it. It is four hundred yards and it is a quarter to five in the afternoon and it is not, by any sane reckoning, dangerous. The woman talks the whole distance about her sister in Bow. At her own door she stops and says thank you, love, in a voice that has rather more in it than four hundred yards in daylight would ordinarily account for, and goes in.
+
+Su walks back alone and thinks nothing about the walking back, because she has been walking this reach alone since she was six, and it does not once cross her mind that she has just done for a woman of fifty exactly what two tradesmen with cudgels did for her three weeks earlier, and that only one of the two arrangements was ever any use to anybody.
+
 By the middle of September the shape of the fear has settled into a shape the whole reach recognises without anyone needing to draw it: two women dead, both of a kind the papers call unfortunates without quite explaining to a genteel reader what the word means, both killed at night, both in streets no better lit than any other street in Whitechapel, which is to say not lit at all past the second lamp from any corner. The watch committees have begun in earnest. Men who have never in their lives carried anything heavier than a ledger are carrying cudgels now, out in twos, patrolling roads they would ordinarily have crossed the river to avoid at that hour, because fear, it turns out, makes brave men of the merely frightened just as readily as it makes cowards of them, and nobody yet knows which kind of man the autumn is going to need.
 
 Su walks home each of those evenings with the basket on her hip and the arithmetic running underneath everything else she is doing, and twice already the watch has stopped her, kindly, and seen her the last stretch of the way, and both times she has thanked them in her careful English and said nothing about what she had already decided to do with either of them had the kindness turned out, at the last second, to be something else.
@@ -71,6 +95,28 @@ Su walks home each of those evenings with the basket on her hip and the arithmet
 Elisabeth still comes on her Mondays. Catherine still sings her fronts of songs and promises the backs of them from Kent. Neither of them has yet been touched by any of it, not directly, not by name — they are, to Su, still only the two customers she is fondest of, moving through a city that has grown strange and watchful around them the way weather grows strange before a storm nobody has yet agreed to call a storm.
 
 The thirtieth of September is two weeks off, and nothing in the shop, or the yard, or the long easy evenings at the Prospect, gives any sign at all of what that particular night is going to take.
+
+The Prospect that autumn is the best-informed room on the whole reach and gets almost everything wrong.
+
+It has a theory a week and holds each one with total conviction for about four days. It is a butcher, on account of the cutting. It is a sailor, on account of the coming and going. It is a Jew, on account of a chalk message on a wall that half the bar has heard about from somebody who heard it from somebody. It is a madman off the ships. It is a gentleman, this one advanced most often and with most relish, because there is a particular pleasure available on that reach in the idea that the thing frightening Whitechapel came out of the West End to do it.
+
+Flo does not permit any of it past a certain hour. She has a rule, arrived at somewhere in the second week of September and never once explained, that after nine o'clock the subject changes, and she enforces it by the simple method of putting a fresh subject on the bar in front of whoever is talking and looking at them until they take it.
+
+Dr. Cray comes in as he has come in for fifteen years, three or four evenings a week, and takes the short-legged chair at the end nobody else wants, and drinks one and sometimes two, and says, on the subject that is consuming every other mouth in that room, essentially nothing at all.
+
+Su notices this. She notices it the way she notices everything at that bar on a Friday with the shop's book in her hand — filed, not weighed. It is not, at the time, in the smallest degree remarkable. He is a retired man of sixty-odd with a Company pension and a reputation on that reach for being the only educated person in it who has never once talked down to anybody, and the reach has decided, collectively, over fifteen years, that he is theirs; and a man like that declining to speculate about murders in front of the neighbours reads, in September 1888, as exactly what it appears to be, which is good manners in a room that has stopped bothering with any.
+
+He is asked directly, once, in Su's hearing, by a lighterman who has had four and wants an authority.
+
+You'd know, doctor. What's he doing it with?
+
+And Cray says — pleasantly, without looking up, in the unhurried voice he uses for everything from a fee to a fever — that he is retired, and that the papers know more than he does, and that he would not care to add to what a family somewhere is already reading over its breakfast.
+
+Which is, the whole bar agrees afterward, entirely decent of him. Two men say so out loud. The lighterman apologises.
+
+He leaves early some nights. Not most. Su could not put a number on it and does not try, because there is no reason on earth in September 1888 for a nineteen-year-old settling a laundry chit to be counting the departures of a well-liked old doctor from a public house — but the fact goes in, the way everything goes in at that counter and that bar, unweighed and unfiled and perfectly preserved, into the same place she keeps which knots are tied wrong on which crates.
+
+She will take it out again in November. She will lay it against a calendar and find one pairing among them that will not lie flat, and she will still be laying it against that calendar at eighty-two, and it will still not lie flat, and it will still not prove one single thing.
 
 ## III. The Hands in the Doorway
 
@@ -92,7 +138,39 @@ It costs him something to do it. Su can see that too, though he would never say 
 
 Never first, Su thinks, watching him from behind the counter. Never for show. She understands, watching, that her father has found a fourth use for a rule built for three, and has not asked anyone's permission to do it.
 
+Su does no version of it at all, which is to say she does the version nobody has a name for.
+
+She goes on carrying the baskets. She goes on settling the shop's chit at the Prospect on a Friday, tray in one hand and the book in the other, in a bar that has got louder and worse-tempered every week of that autumn, threading the whole length of it between elbows and stools and men who have been discussing murder since four o'clock — and arriving at the far end with the tray level and nothing spilt, every Friday, all autumn.
+
+There is one Friday when a man goes backward off a stool into the space she is occupying, and Su is not in it any more, and the tray is not in it any more, and she has an arm under the man's shoulder before he is halfway down and has him upright and back on the stool with the tray still level in her other hand, and the bar's conversation does not break stride, and Flo, four feet away, mid-sentence, does not register that anything has happened, because from where Flo is standing nothing has: a man wobbled and did not fall.
+
+Su settles the chit. She goes home. She thinks about the evening for the length of the walk, and what she thinks about is that the bar is worse than it was in July and that she does not like it, and there is not one syllable in the whole of her thinking about the four seconds by the stool, because in Su's own account of that Friday the four seconds by the stool did not occur.
+
 Sau-Ling does her own version of the same work in a different register entirely. She has always gone to the mission church on a Sunday and always will, but this September she goes early, and stays late, and makes a point, in her furred, twenty-years-borrowed English, of being seen and heard thanking the minister loudly for his sermon, of asking after the health of every English neighbour in the pew, of being, in short, so entirely and visibly a Christian woman of the parish that a stranger would have to work very hard indeed to file her anywhere else. Su understands this for what it is too: her mother's own doorway, held the same way her father holds his, in a different coin.
+
+The Causeway gets its own night in the third week of September, and it is over in forty minutes and Su remembers it for sixty years.
+
+It starts, as these things start, with nothing: a report — never traced, never corrected, never afterward attributable to any actual mouth — that a man had been seen coming out of Pennyfields at an hour and in a state that somebody had found worth mentioning. By nine in the evening there are perhaps forty people in the street. By half past there are nearer eighty, and two constables, and the constables are doing the thing constables do when a crowd has arrived at a conclusion faster than the law can arrive at an alternative, which is to stand in front of a door and hope.
+
+The man behind the door is a laundryman from two streets over whom Su has known her whole life, who is fifty-six years old, who has a bad hip and a Baptist wife from Poplar, and who has, in point of fact, spent that entire evening exactly where he spends every evening, which is in his own back room.
+
+The crowd is not, on the whole, a mob. That is the part Su has never been able to get anybody to understand afterward. Perhaps eleven of the eighty want something to happen. The rest have come out because everybody has come out, and are standing in a street at half past nine looking at a door, and are — Su can see it in the way they are standing, and she is nineteen years old and has been reading bodies across a counter since she was six — very largely ashamed of themselves already and entirely unable to be the first to go home.
+
+Wei takes his own position at the chandlery door and holds it for the whole forty minutes with his hands folded in front of him, empty, in the light.
+
+Su stands behind him in the shop, in the dark, four feet back from the window, where she can see the street and the street cannot see her — and where, she works out much later and never once mentions to anybody, she has placed herself in the only spot in that entire room from which she could reach the door before her father could be pulled through it.
+
+Nothing happens. A sergeant arrives at ten past ten and says four sentences and the eighty become sixty and then twenty and then the street. The laundryman opens his shop the following morning at the usual hour, because there is nothing else on offer. Two of the eleven come in that week for their washing as though the evening had never occurred, and are served.
+
+What stays with Su is not the crowd. It is her father, afterward, bolting the shop door at half past ten, and saying — not to her, to the bolt — that this is the fourth time.
+
+Su asks the fourth time of what.
+
+That a street has stood outside a door on this reach in my life, Wei says, and decided what was behind it before knocking. The first time it was Irish. Then it was Jews, twice. Now it is us.
+
+He puts the bar across.
+
+It will not be us the next time, he says. That is the only thing I can tell you about it that is worth anything, and it is worth almost nothing, and I would very much rather have something better to give you.
 
 ## IV. A Monster in Every Language
 
