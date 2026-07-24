@@ -98,8 +98,11 @@ The escape therefore solves only the physical problem. It creates the personal b
 - **Adams owns the dangerous competence.**
 - **Caleb pays the immediate human cost.**
 - **Tanner owns the later institutional betrayal.**
+- **Jonas Cresswell owns the link between Company intelligence and the justice’s warrant.**
 
 Esther is the deliberate functional counterpart of Oryō in this one mechanism, not a renamed or culturally transplanted Japanese character. Adams and Anders are not one-to-one substitutions for Ryōma and Miyoshi, and no later assassination is copied.
+
+**Name continuity:** Silas Rook—also called Rock—belongs to Volume One. The information-taker is Jonas Cresswell, with no familial, symbolic or reincarnation connection to Silas.
 
 ## Historical and material checks before prose
 
