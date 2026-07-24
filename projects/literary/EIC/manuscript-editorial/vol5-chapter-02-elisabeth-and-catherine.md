@@ -190,6 +190,24 @@ But the hop gardens will have it, she says, and says it again nearly every visit
 
 Su has come to look forward to it more than she says aloud, which is itself unusual, because Su does not, as a rule, look forward to things in any way she has not first weighed and found sound. A song is a strange thing to want that badly. She wants it anyway.
 
+What Su has of Catherine's history is what Catherine gave her, which is a great deal and almost none of it in order.
+
+She is from the Midlands. Wolverhampton comes up twice and somewhere near it a third time, and the accent says the same thing without being asked. She was one of a large number of children and can be got to say the number and gives a different one twice. There was a tinplate works. There was a father in it and a brother in it and a general assumption, at some point in the sixties, that Catherine would be in it too, and Catherine was not.
+
+She came to London at about eighteen and has never once said why and has never once been asked.
+
+There was a man before this man, and he lasted years rather than months, and Catherine refers to him perhaps four times across three years and always in the past tense and always with a kind of brisk cheerfulness that Su came, eventually, to recognise as exactly the same instrument Elisabeth used on the *Princess Alice* — a thing shaped for public wear, told often enough to have worn smooth, covering something with a considerably worse shape underneath it.
+
+There were children. Su knows this and knows nothing else about it. It came out once, in the middle of an entirely different subject, in a subordinate clause, in the tense people use for things that are over — and Catherine went straight on to the end of her sentence and Su, who was twenty and had been raised by a woman who does not answer questions, did not stop her.
+
+She has thought about that subordinate clause a great deal since.
+
+The man she is with now is spoken of constantly, warmly, and without one single fact ever attaching. He is *my man*, and he is going to Kent with her, and he has views about the price of things, and he is either very good to her or is not, and the two possibilities coexist quite comfortably in Catherine's own account across three years without her ever appearing to notice the contradiction, because Catherine is not producing an account. She is producing conversation, which is a different craft with different rules, and she is extremely good at it.
+
+Su, who has watched her mother run a shop on other people's talk for fourteen years, knows the difference perfectly well, and has never once tried to convert one into the other.
+
+They are lodging, that summer, somewhere off Flower and Dean Street, in an arrangement Catherine describes as temporary and has described as temporary for three years.
+
 There is a Monday in August with the burn-hole in it.
 
 The shawl comes in with a hole through it the size of a florin, edges gone brown and crisp, unmistakably a pipe, and Catherine puts it on the counter with the air of a woman presenting evidence at her own trial.

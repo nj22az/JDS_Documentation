@@ -272,6 +272,22 @@ She does not know it this summer either. She will learn the drawer in an alley, 
 
 Tonight there is no shoulder to set, no fever to climb to. There is only the ordinary evening: the room filling, the ale going down, the river doing its enormous business a wall away. A sailor newly paid off and three drinks past his own good sense reels back from the bar just as Su crosses behind him with a tray of empty tankards, and there is, for the length of one breath, every reason to expect the whole tray to go over the flagstones in a crash the entire room will turn to look at. It does not happen. Su's free hand finds the small of his back before he has finished falling into the space she is standing in, a touch so light and so brief he will not remember it happened at all, and steadies him upright and past her in the same motion that keeps the tray level, and is three steps further on toward the bar before the man himself has fully registered that he swayed. Flo, who has watched the whole small non-event over the sailor's shoulder, says nothing about it, because there is nothing to say about it; a laundry girl carried a tray of tankards through a crowded room and nobody spilled anything, which is precisely the kind of evening the Prospect has every single night of its long life, and Su herself, setting the tray down at the bar, has already forgotten the sailor's stagger by the time her hand leaves the tray, because in her own reckoning nothing at all needed remembering.
 
+There is a flower in the window and it has been there longer than anybody.
+
+It stands between two lamps on the sill facing the river, in a clay pot that has been replaced perhaps six times and repaired more often than that, and it is a crimson thing on a leggy green stem that flowers once, extravagantly, in June, and does nothing whatever for the other eleven months and is watered regardless. Flo has it from the keeper before her, who had it from the keeper before that. Nobody in the house has any idea what it is called. Su has asked. Flo said it was called the flower.
+
+It has been split and re-split for a hundred years and given away in pots to whoever, in the judgement of whichever woman happened to be minding the sill that season, looked as though they could do with something to keep alive. There are cuttings of it in perhaps forty houses on that reach, and every single one of them came out of that window, and there is no record anywhere of any of it, and there never will be.
+
+Su has looked at it a thousand times and has never wanted one.
+
+She will want one in about four months, and will be given one without asking, by a woman who will not put a single question with it, and it will be in a chandlery window on the Causeway for the next sixty-one years, and everything that ever happens in Su Zhang's family after 1888 will happen with that flower on the sill.
+
+Beyond the window is the river, doing what the river does, which is everything.
+
+It is not scenery from that room and never has been. It is the reason the room exists: the Wall, the stairs, the tide going out at four knots past a pub that has stood on this spot since before anybody's grandfather, and every single person in that bar tonight — the lightermen, the ropewalk foreman, the widow, the collier boy, Flo, Su — is standing there because that water goes past.
+
+It took her father's country and gave him this street. It took nineteen people off a ship in 1868 and did not give any of them back. It will take, before this account is finished, a great deal more than that from this family, and will give, in exchange, one clean hour on a slack Sunday tide, repeated, for about thirty years.
+
 The room has perhaps twenty people in it at this hour and Su could tell you the trade of nineteen of them.
 
 There is the dockworker at the end of the bench, who is somewhere past sixty and was in India as a young soldier and does not discuss it, and who has been coming in four evenings a week for as long as Su can remember and has never once been drunk in her presence. There are three lightermen who arrive together and leave together and have arrived and left together since before Su was born. There is a ropewalk foreman with a bad chest. There is a widow of about fifty who comes in for one gin at seven and goes at ten past, and to whom the whole room is unfailingly, elaborately polite. There is a young man off a collier who does not know yet that he is going to be one of the regulars and will be, for the next thirty years.

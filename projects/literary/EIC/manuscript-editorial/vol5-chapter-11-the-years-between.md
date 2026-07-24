@@ -328,7 +328,49 @@ They quarrel perhaps four times in a decade, always about the slate, always in C
 
 Su thinks, later, that the nineties were the best decade of her life and that she did not notice one single day of it while it was happening. There was a husband who came and went, and three children, and a father in the yard, and a mother at the counter, and a shop that paid, and nobody died in it, and that — she has come to understand, from the far side of a great many years in which somebody did — is the entire specification for a good decade, and there is no possible way of knowing you are inside one at the time.
 
-## V. Wei's Hands
+## V. One Tuesday
+
+Because a decade is not a thing that happens, and because Su has never in her life been able to remember the nineties as a decade and can remember, entire, a Tuesday in the March of 1897, it is worth setting down that Tuesday.
+
+She is twenty-eight. The eldest is eighteen months from seven and is therefore, in the arithmetic that governs everything in that house, eighteen months from the yard. The boy is four months old. Erik is somewhere between Riga and the Sound and has been for six weeks. Her father is fifty-seven and his hands have four more years in them and nobody in the house has said so.
+
+Half past four: the yard. Cold, black, the wall wet. Her father is out ahead of her as he has been every morning of her life. She stands the horse for a count of three hundred with a four-month-old asleep in a basket by the wall and one ear on the basket the entire time, which does not, she finds, take anything at all away from the count. Then the crossed wrists. He tests her four times and she reads three of them. Then the long breath, twelve minutes, the slow part, and the sky over the wall goes from nothing to a grey you could nearly read by.
+
+Twenty past five: tea at the step. Her mother has it out. Nobody says anything. The boy wakes and is fed on the step in the cold because it is quicker than going in.
+
+Ten past five, in fact, is when the copper was drawn, by her mother, because Sau-Ling has been getting up at five since 1873 and has never once been argued out of it.
+
+Six: the shop opens. Nothing happens for forty minutes. This is normal and is the only forty minutes of the whole day in which Su sits down.
+
+Twenty to seven: the first of the ships' baskets. Sorting, which she does at the long table with the boy in the basket under it, and which takes an hour and twenty because two of the four baskets are engine-room and want going through twice.
+
+Half past eight: the eldest is awake and is a problem, having decided in the night that she is not going to school, on grounds she is not prepared to state. Sau-Ling takes this over entirely. Su has no idea what is said and the child goes to school.
+
+Nine to twelve: the copper, the tubs, the dolly, two rinses, the blue. A man comes in about a lost shirt and is dealt with in four minutes.
+
+Twelve: bread and dripping standing up. Her mother eats sitting down, at the counter, on the stool, and has done since the winter and has not remarked on it and neither has anybody else.
+
+Half past twelve to two: the mangle and the loft. It is March and it is not drying weather and the loft stove is lit, which costs, and which is the entire reason the Zhangs can promise Wednesday when the two shops on Narrow Street cannot.
+
+Two: the round. Two hours and ten minutes. The boy goes with her, strapped, because he is four months old and there is nowhere else for him to be, and Su walks the whole of that round with a basket on one hip and her son on the other and does not, at any point in the two hours and ten minutes, think about the arrangement of her own weight, which has silently reorganised itself around the two loads inside the first hundred yards and stays reorganised for two hours.
+
+Four twenty: the Prospect, the chit, the book. Flo asks after the baby. Su asks after the roof.
+
+Five: back. Irons on the range, four of them, in rotation. The eldest home and under the table and talking continuously.
+
+Half past six: her father in from the yard end of the day, and the mending basket, and the two of them at it side by side for an hour and a half in the shop light while her mother does the counter — and this is the part of the day Su will still be able to feel at eighty: her father's hands and her own doing the same small work at the same table, neither of them saying anything, the boy asleep, the eldest asleep, the copper banked, the whole apparatus of that family running at low steam and every single one of them alive.
+
+Eight: shutters. He does the first bolt. She does the second, because in 1897 it is still that way round.
+
+Half past eight: she writes to Erik. A shop, a street, three lines about the children, and one thing seen — which on this particular Tuesday is that a horse came down on the ice at the top of the lane and was got up again, unhurt, by six men and a great deal of advice.
+
+Nine: bed.
+
+Half past four the next morning: the yard.
+
+That is the whole of it, and there are perhaps three thousand of them, and it is the best decade of her life.
+
+## VI. Wei's Hands
 
 Her father's hands go on failing by the same slow degrees Su first noticed in the autumn of the killings, and go on failing for the better part of a decade after, the way a rope frays — not all at once, never dramatically, only ever one more strand giving way each season until the day arrives, unannounced, when the whole of it can no longer be trusted with a real weight.
 
@@ -390,7 +432,7 @@ Good, her grandfather says.
 
 Su, three feet away, hears her father say *good* to a four-year-old for imitating a form badly in a blanket, and is aware of a small unreasonable pressure behind her own eyes, and turns back to her stance and finishes her count, because the counter opens at six and the copper wants drawing and there is, as there has always been on this exact patch of ground, a very great deal still to get through before the light is properly up.
 
-## VI. The Last Morning
+## VII. The Last Morning
 
 Wei Zhang dies in the yard, in the last hour before dawn, in the winter of 1899, doing the one thing he has done every morning of his adult life without once missing a day for illness, weather, grief, or the ordinary reluctance that keeps most men in their beds a little longer on the coldest mornings of the year.
 
