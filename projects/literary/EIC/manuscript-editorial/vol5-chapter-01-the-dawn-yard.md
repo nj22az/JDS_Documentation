@@ -65,6 +65,21 @@ Never for payment.
 
 Never in anger.
 
+Four sentences. Eleven words in English and rather fewer in Cantonese, and Su has had every one of them since she was seven, and it has taken her most of the intervening twelve years to work out that they are not four rules but one rule said four ways for people who will only understand one of the four.
+
+*Never first* is the plain one and the one everybody thinks they understand. It is not about who throws the first blow, which is a question for magistrates. It is about arrangements. A person who has arranged to be in a particular lane at a particular hour, so that a particular thing may present itself and be dealt with, has already broken it, whatever happens afterward and whoever moves first.
+
+*Never for show* is the one Su has broken most often, in the smallest possible ways, and knows it. Not in a fight — she has been in three in her life and none of them had an audience. In the yard: a form done slightly better because somebody is watching from a window. Her father catches it every single time and does not name it and simply makes her do the thing again, badly, slowly, until whatever went into it that did not belong has come back out.
+
+*Never for payment* is the one that sounds like modesty and is not. It is a rule about what a thing becomes. A skill exercised for a fee is a skill available for a fee, and a skill available for a fee eventually belongs to whoever is paying, and Wei Zhang has spent his whole life on a river where a great many people's hands belong to whoever is paying and has been very clear with his daughter about how those hands generally end up.
+
+*Never in anger* is the fourth and Wei will not explain it.
+
+Su has asked. She asked at nine and got the rule repeated; at thirteen and got the rule repeated; at seventeen, after the man in the shop, she asked a fourth time, in Cantonese, which is the room in which he is likeliest to give her something, and her father looked at her for a while and then said that a rule a person can be talked into is a rule that can be talked back out again, and that she would either arrive at that one herself or she would not, and that he could not do it for her and would not try.
+
+She has not arrived at it yet, this summer. She thinks she has. That is not the same thing, and both of them know it, and only one of them is worried about it.
+
+
 The practice stops things, he says — *the practice*, in the same flat voice he uses for the shop's accounts, and it took her years to understand that the flat voice was not modesty and was not concealment; it was accuracy. *Gong fu* is only skill and the time you spend to get it. A man who has spent thirty years learning to cook rice has *gong fu*. What she has is *gong fu*, and it happens to be the kind that can put a man on the ground, and her father will not dress that up in a bigger word, because a bigger word would be the first step onto the road that ends with rule two. The practice stops things, he says. It does not answer them. You are not learning to win a fight. You are learning to end one that has already started, in the fewest moves that will end it, and then — and this is the part he leans on, every time, the part he considers the whole of it — to live correctly, afterward, with having ended it.
 
 Whoever holds the art, he says, carries a weapon everywhere, all her life, in her own body. His father's words, worn smooth by two crossings of the world. And a weapon that walks about all day must have better manners than a knife that stays in a drawer.
@@ -111,6 +126,24 @@ What goes with her into the shop is a thing she has never once thought to call b
 
 And Su Zhang, who can stand in a dark yard with her eyes shut and tell you through two crossed wrists which foot a man's weight is on, ties an apron over the strength nobody who buys their laundry will ever guess is there — nobody, and least of all herself, who has long since stopped being able to feel the seam where the yard ends and the shop begins — and opens the shop, on the last ordinary summer the century will let her have.
 
+The school in Canton had a name and Su has it, and there is nobody left in England to say it to.
+
+Her grandfather taught there, or under it, or beside it — the arrangement was never a thing Wei could describe in English and possibly could not have described in Cantonese either, because it was not an institution in the sense a person raised in Wapping means by the word. There was a courtyard behind a herbalist's. There was a man who taught, and men who paid him in whatever they had, and a hundred years of somebody teaching in that courtyard before him, and the whole of it existed, as far as Su has ever been able to establish, in exactly nobody's records.
+
+The art in that courtyard was Hung Ga — Hung Kuen, the fist of the Hung people, hard and low and built out of the stance upward, the horse first and everything else afterward. Her grandfather had it from a man who had it from a man, and could name four of them backward and stopped there, and told Wei once that any lineage claiming to reach further back than four names is a lineage doing something other than remembering.
+
+He had the soft work too, from a different room and a different teacher — the close-range listening the southerners call Wing Chun, the sticking hands, the whole business of learning a stranger's weight through a crossed wrist. The two arts are not the same art and were never taught as one, and Wei has been at some pains, across thirteen years, to make sure his daughter knows which half of what she does came from where, because a person who cannot say where a thing came from will eventually start saying it came from her.
+
+The courtyard shut in the eighteen-forties.
+
+There was a war. It was fought, from the Cantonese end of it, over the right of a foreign company to go on selling a drug into a country that had asked it repeatedly to stop, and it was won by the company's side, and one of the ten thousand small consequences of the winning — far too small to appear in any account of the war written in English — was that a herbalist's courtyard behind a street in Canton stopped being a place where a man could reliably be paid in vegetables to teach other men to stand correctly.
+
+Su's grandfather went to the coast and taught nobody in particular for twenty years and set bones for a living, which is how the *dit da* half of it came into the family and why there are three brown bottles on a shelf in a chandlery in Limehouse mixed to an arrangement that has never been written down.
+
+He died in Hong Kong the year before Wei sailed. The fan came out of the bundle with the white bowl. Everything else — the courtyard, the four names backward, the herbalist, the whole apparatus of a hundred years of somebody teaching in a particular square of dirt — did not come, and could not have come, and is now, in 1888, held entire in the head of one middle-aged rope-and-tar man in Wapping, who is passing it, six paces by four at a time, into the head of one nineteen-year-old laundress, who has never seen China and never will.
+
+That is what is actually happening in this yard every morning, and neither of the two people doing it has ever once described it that way, or would.
+
 ## II. The Causeway
 
 There are perhaps three hundred Chinese in the whole of London this summer, in a city of five and a half million, and Su Zhang could put a name to a good third of them.
@@ -140,6 +173,32 @@ She comes back down the Causeway with the empty basket light on her hip and turn
 The rest of the day's linen goes where the rest of it always goes: to the river, and the men on it, and the one door on the whole English side of her life where the two rooms are allowed, a little, to stand open. The sailors' shirts and the publicans' aprons and the constables' collars are all settled, by an arrangement older than Su, at the bar of the Prospect of Whitby, because half the men who owe for their washing can be found there faster than anywhere else on the reach, and because the house has kept the laundry's account, fair and slow and open, since before Su was born.
 
 She shifts the basket, and turns down toward the water, and does not yet know — how could she; it is summer, and the worst thing in the paper is still the drains — that of all the doors on the river the one she is walking toward is the one where the whole of the coming autumn is already sitting, on its usual stool, drinking its two brandies, asking after her mother's chest with what sounds exactly like kindness.
+
+The shop's day is a machine and Su is most of the moving parts of it.
+
+It starts with the copper, which is the whole business in one object: a great riveted vessel set in brick with a fire-hole under it, filled by hand from the yard tap two buckets at a time, and drawn — that is, lit — at ten past five, because the water wants an hour and a quarter to come up and the first sorted load wants to go in at half past six and not a minute later or the whole day runs behind itself until dark.
+
+Su has drawn that fire every morning since she was thirteen. She can do it in four minutes and could do it in three if her mother would let her, which her mother will not, on the grounds that a fire laid fast is a fire laid twice.
+
+Then sorting, which is the skilled part and which nobody outside the trade believes is skilled. Whites, coloureds, greasy work-clothes, and the fourth pile nobody has a name for that is anything with something on it that will set if it goes in hot. A shirt sorted wrong costs the shop the shirt. Su sorts by touch and smell as much as by eye, and can tell a dock-tar mark from an engine-oil mark with her eyes shut, and learned the difference at about seven from a mother who tested her on it the way other mothers test spelling.
+
+Then the wash: dolly-stick and posser in the tubs for the heavy stuff, the copper for the whites, soda and soft soap, and the particular arm-work of the dolly, which is the one job in that shop nobody has ever pretended is anything but punishing. Then rinsing, two waters. Then the blue — a small linen bag of ultramarine swirled through the last rinse to make white look whiter, which is a trick of the eye and not of chemistry and which every laundress in England knows and almost no customer has ever heard of. Then starch for collars and cuffs, mixed thin or thick according to who is fussy.
+
+Then the wringing, and then the mangle, which is two wooden rollers under a weighted box and which will take a woman's fingers off if she is thinking about anything else, and which Su has turned ten thousand times without once thinking about anything else, because her mother took her hand at the age of eight and held it four inches from the running rollers and said one sentence about it and never had to say it again.
+
+Then the drying, which is where the whole trade lives or dies. In fine weather, the lines in the yard and across the lane; in wet, the loft over the back room with its slatted racks and its stove, which is why the Zhangs can promise a Tuesday delivery in November when three other shops on that reach cannot.
+
+Then the irons — flat irons, four of them, heated in rotation on the range, spat on to test, wiped on a cloth kept for it, each one good for about ninety seconds of real work before it goes back and its sister comes off. There is a particular rhythm to ironing with four irons that is entirely unlike ironing with one, and Su has it so completely that she does not look at the range at all; her left hand simply puts one down and takes up the next at the moment the next is ready, and if you asked her how she knows, she would say that you can hear it, which is true and useless.
+
+Then folding, ticketing, wrapping, and the rack.
+
+Then the round.
+
+It is fourteen hours in summer and thirteen in winter, six days a week, and the sums at the end of it are these: a shirt, two pence; a collar, a halfpenny; a sheet, threepence; a week's washing for a small family, one and threepence with the mending thrown in if the mending is small. Against that: coal, soap, soda, blue, starch, the rent, and the slate — the slate being the money owed by people who mean to pay, most of whom eventually do.
+
+Sau-Ling has run that arithmetic since 1873 and has never once been more than a shilling out, and cannot read a word of English.
+
+Su learned the whole machine before she was twelve and has never worked anywhere else and never will. She is, by the summer of 1888, quicker at every single station in it than her mother, which neither of them has ever said aloud, and which both of them arranged around some time in the winter of 1886 by the simple expedient of Sau-Ling moving permanently to the counter.
 
 ## III. The Prospect
 
@@ -176,6 +235,20 @@ She filed it, at twelve, without knowing the drawer.
 She does not know it this summer either. She will learn the drawer in an alley, on the last third of a November night still four months off, and after that she will never be able to un-know it, and will spend the rest of her life unable to decide whether the not-knowing was innocence or only the mercy of a girl who had not yet been shown. For now it sits in her, that one memory, filed wrong, faintly askew, the single splinter in an otherwise whole liking. She notices it about once a season, the way you notice a stair that is a half-inch off, and steps over it, and thinks no more of it.
 
 Tonight there is no shoulder to set, no fever to climb to. There is only the ordinary evening: the room filling, the ale going down, the river doing its enormous business a wall away. A sailor newly paid off and three drinks past his own good sense reels back from the bar just as Su crosses behind him with a tray of empty tankards, and there is, for the length of one breath, every reason to expect the whole tray to go over the flagstones in a crash the entire room will turn to look at. It does not happen. Su's free hand finds the small of his back before he has finished falling into the space she is standing in, a touch so light and so brief he will not remember it happened at all, and steadies him upright and past her in the same motion that keeps the tray level, and is three steps further on toward the bar before the man himself has fully registered that he swayed. Flo, who has watched the whole small non-event over the sailor's shoulder, says nothing about it, because there is nothing to say about it; a laundry girl carried a tray of tankards through a crowded room and nobody spilled anything, which is precisely the kind of evening the Prospect has every single night of its long life, and Su herself, setting the tray down at the bar, has already forgotten the sailor's stagger by the time her hand leaves the tray, because in her own reckoning nothing at all needed remembering.
+
+The room has perhaps twenty people in it at this hour and Su could tell you the trade of nineteen of them.
+
+There is the dockworker at the end of the bench, who is somewhere past sixty and was in India as a young soldier and does not discuss it, and who has been coming in four evenings a week for as long as Su can remember and has never once been drunk in her presence. There are three lightermen who arrive together and leave together and have arrived and left together since before Su was born. There is a ropewalk foreman with a bad chest. There is a widow of about fifty who comes in for one gin at seven and goes at ten past, and to whom the whole room is unfailingly, elaborately polite. There is a young man off a collier who does not know yet that he is going to be one of the regulars and will be, for the next thirty years.
+
+There is the short-legged chair.
+
+It stands at the far end where the floor has gone out of true, propped level with a folded playbill that gets replaced perhaps twice a year by whoever notices, and it is left for last — always, invariably, by everybody, without discussion. Su asked Flo about it once, at fifteen. Flo said it had always been left for last. Su asked why. Flo said she had asked the same question of the woman before her and had got the same answer, and that as far as she was concerned that settled it.
+
+Nobody sits in it tonight and nobody will, and in fifty years' time, under two keepers neither Flo nor Su will ever meet, it will still be propped level with a playbill and still be left for last, and the reason will be exactly as thoroughly forgotten then as it is now.
+
+And there is the honest position on Dr. Cray in the summer of 1888, which Su has never afterward been able to state any other way: that there is a cold place in the middle of what she thinks about him, and that it has been there since she was eleven years old and a man counted his fee in a room with her brother in it, and that it is not suspicion of anything, and does not become suspicion of anything for another four months.
+
+And that she likes him.
 
 Su settles the last chit with Flo and is turning to go when Cray, without quite raising his voice, asks after her mother.
 
