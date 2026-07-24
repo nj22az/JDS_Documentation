@@ -10,6 +10,31 @@ rhythm that would have landed the book around 45–50k, not 100k. The author was
 interviewed on four forced choices and the answers restructured the whole
 architecture. This document reflects the **current, active structure**.
 
+## The organizing principle (author, this session)
+
+**Su is the whole world of this book.** Unlike Book One, which follows an
+ensemble (Tom, Maggie, Maria, Daniel, Arthur, Jack) with several independently
+dramatized arcs, Volume Five stays single-gravity throughout:
+
+- **The East India Company returns to the page only through Dr. Cray.** No
+  broader Company canvas, no second Company-adjacent protagonist. His Bengal
+  service, his calm, his case — that is the whole of how the machine re-enters
+  this book. (The dockworker's Mutiny testimony in Ch.5§IV is in-bounds because
+  it exists *to illuminate Cray*, heard by Su, in service of her investigation
+  — not a digression into the dockworker's own independent life.)
+- **The Prospect is vicinity, not a second cast.** Flo, the dockworker, the
+  potboy, the regulars — they are texture and support around Su, rendered
+  through her attention and her decisions. None of them gets an independent
+  flashback chapter or section built around *their* history for its own sake
+  (the kind of thing Book One does for Maria or Daniel). If a secondary
+  character appears at length, it must be in service of something Su is
+  doing, deciding, or learning — never a chapter that leaves her to follow
+  somebody else.
+- This **supersedes** the earlier "Flo vignette, second vignette" plan from the
+  restructuring interview (a standalone Flo-backstory section). Chapter 8
+  keeps Flo present and warm but does not dramatize her own life apart from
+  Su's.
+
 ## The four locked decisions
 
 1. **Time span: full-life, like Book One.** Not a single autumn plus a short
@@ -77,7 +102,7 @@ totals for finished chapters; targets for the rest.
 | 5 | **The Terror** | ✅ done | ~4,350 | I. The Watch Committees · II. Leather Apron · III. The Hands in the Doorway · IV. A Monster in Every Language (**new** — the Mutiny-veteran dockworker's own flashback, first vignette). |
 | 6 | **The Thirtieth of September** | ✅ done | ~3,150 | I. The Thirtieth of September (the double event, the recognition) · II. The Rules for This (the yard exchange — "stops things, does not avenge them"). **Climax of the 1888 spring–autumn core.** |
 | 7 | **The Case** | ⏳ to draft | ~7,500 target | The clasp, the shirt, asking around, Cray's Bengal past surfacing as rumour/record only (never his head). Folds in the compact edition's §VI–§VII beats, dilated. |
-| 8 | **Never First** | ⏳ to draft | ~7,500 target | Nobody to tell (the station steps, the Polish Jew), the discipline of doing nothing, the fan in her sleeve, the fog closing in. **New section:** Flo's own years at the Prospect — second vignette. |
+| 8 | **Never First** | ⏳ to draft | ~7,500 target | Nobody to tell (the station steps, the Polish Jew), the discipline of doing nothing, the fan in her sleeve, the fog closing in. Flo appears in Su's orbit (a moment of near-confidence declined) — not as an independent vignette; see "Su is the whole world" principle above. |
 | 9 | **The Alley** | ⏳ to draft | ~7,000 target | The confrontation and the drowning — the book's central set-piece. |
 | 10 | **The Clasp and the River** | ⏳ to draft | ~6,500 target | The case in the mud, the hand coming off it, the Thames, the boiled sleeve, no sixth. Resolves the 1888 core. |
 | 11 | **The Years Between** | ⏳ to draft | ~9,000 target | Full-life expansion: Erik Johansson's courtship in full scenes, the marriage, Wei's aging and death, years of Su teaching — the multi-decade turn (Book-One-"News-from-the-Sea"-style). |
@@ -141,10 +166,12 @@ the character bible — the year (and now the life) is lived at full length:
   horse stance, bridges, *dit da* bonesetting), real lineage transmission, no
   wire-fu, no exoticising. The one earnest use in the main timeline (the alley)
   reads as mastery under discipline, not spectacle.
-- **Secondary vignettes stay sections, not chapters** — the dockworker's
-  Mutiny flashback (Ch.5§IV, done) and Flo's own years at the Prospect (Ch.8,
-  to draft) are folded inside chapters about the main action, keeping the
-  12-chapter shape.
+- **Su is the whole world of this book** (see principle above). The Company
+  returns only through Cray; the Prospect is vicinity, not a second cast. The
+  dockworker's Mutiny testimony (Ch.5§IV, done) stays in-bounds because it
+  exists to illuminate Cray, heard by Su, in service of her investigation.
+  No secondary character gets an independent backstory chapter or section
+  built around their own life for its own sake.
 
 ## Principal cast
 
