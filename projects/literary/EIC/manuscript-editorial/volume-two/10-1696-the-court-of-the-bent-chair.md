@@ -24,11 +24,11 @@ The paper had other particulars, but rain had entered from one corner and made a
 
 By nine that evening Rafe was back.
 
-He came into the Prospect with the rope still on one wrist. They had cut the other loop because it had drawn tight, but this one he had refused to surrender.
+He came into the Pelican with the rope still on one wrist. They had cut the other loop because it had drawn tight, but this one he had refused to surrender.
 
 Evidence, he said.
 
-Of what? asked the keeper.
+Of what? Esther Finch asked from behind the bar.
 
 That I have been recognised by the Crown.
 
@@ -44,7 +44,7 @@ Too much line and nothing held.
 
 That earned Caleb a drink as well. Within half an hour the rope had passed through twelve hands and become, by common agreement, the property of the house.
 
-Esther Finch sat at the end of the bar with her account book open. Thursday was settling night, and she had four beds filled, one sheet missing, two breakfasts disputed, and a ship's cook upstairs who claimed that the blood on the bolster had already been there. She entered Rafe's first drink under charity, struck the word out, and wrote public instruction.
+Esther sat at the end of the bar with her account book open. Thursday was settling night, and she had four beds filled, one sheet missing, two breakfasts disputed, and a ship's cook upstairs who claimed that the blood on the bolster had already been there. She entered Rafe's first drink under charity, struck the word out, and wrote public instruction.
 
 Adams sat two places from her with a hand of cards he was not playing. He watched Rafe tell the story for the third time. The third telling had acquired an Admiralty clerk, two loaded pistols, and a moment in which Rafe declined five hundred pounds to confess.
 
@@ -80,7 +80,7 @@ So does justice, said Caleb.
 
 Only when fat men sit on it.
 
-The keeper slapped the bar once with her cloth.
+Esther slapped the bar once with her cloth.
 
 Nobody stands on the chair, she said. Nobody breaks the chair. If His Majesty requires candles, His Majesty pays for candles.
 
@@ -96,7 +96,7 @@ You don't, said Rafe. That's the qualification.
 
 Adams considered this and laid down his hand. Three kings and a knave, Esther noticed. He had been losing carefully all night and had just abandoned the one hand that might have betrayed him by winning.
 
-The keeper poured Hollands into a chipped measure and set it before the wig stand.
+Esther poured Hollands into a chipped measure and set it before the wig stand.
 
 For the court, she said.
 
@@ -248,7 +248,7 @@ She took the wig stand from Louie's chair and put it beneath the bar.
 
 Court is risen.
 
-The keeper saw her face and began collecting cups without asking why. Tanner rose. The stranger by the door smiled as if the evening had been worth his penny and went out before anyone could decide whether he had paid it.
+Caleb saw her face and began collecting cups without asking why. Tanner rose. The stranger by the door smiled as if the evening had been worth his penny and went out before anyone could decide whether he had paid it.
 
 The laughter did not stop at once. It failed in pieces. Rafe was last, still holding up the rope and offering to arrest anybody who looked more like himself than he did.
 
@@ -266,7 +266,7 @@ He turned the victualling account. The joke looked smaller in ink. Rafe Gulley, 
 
 The clerk had written every name.
 
-Esther tore the sheet once through the middle and handed the halves to the keeper, who fed them separately into the fire. The ink blackened before it burned. For a moment the names could be read more clearly than before.
+Esther tore the sheet once through the middle and fed the halves separately into the fire. The ink blackened before it burned. For a moment the names could be read more clearly than before.
 
 It was only sport, the clerk said.
 
@@ -286,7 +286,7 @@ That was not what I asked.
 
 No, Tanner said. It seldom is.
 
-Outside, the rain had thinned to something the river could lift and move sideways. Adams walked the two doors with her although she had not asked him. At her step he waited while she tried the latch.
+Outside, the rain had thinned to something the river could lift and move sideways. Adams walked her across the Pelican's rear yard to the lodging stair although she had not asked him. At her room door he waited while she tried the latch.
 
 Mrs Finch.
 
