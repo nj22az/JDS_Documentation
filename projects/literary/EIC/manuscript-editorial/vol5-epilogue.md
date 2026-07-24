@@ -32,6 +32,16 @@ And her eldest's, which will have it next, and which Su has watched since 1902 a
 
 The child only knows that the stance is hard, and that it is required, and that the very old woman correcting the knee has a way of saying *good* so rarely that the word, when it finally comes, seems to weigh a great deal more than one syllable ought to be able to weigh.
 
+What is left of the practice, at sixty-nine, is less than it was and is not nothing.
+
+The horse is shorter. It has been shorter every year since about 1925 and she has stopped keeping the count aloud, because a count you have to shorten is a count that has begun to be about something other than the work. She does what she can and stops when the knee says so, which is earlier every winter, and she has made her peace with that in the same way she made her peace with the shop's evening custom in 1888 and with a great many other lengths since.
+
+The bridge is entirely intact. That is the one that does not go. Whatever it is that happens in a forearm after sixty-two years of standing in a cold yard listening through somebody's wrist, it does not appear to depend on knees, and Su can still read a seven-year-old's intention through a crossed arm at the same instant she could read her father's at nineteen, and it is the single thing about her own body that has never once disappointed her.
+
+The long breath she can do entire, and does, every morning, and it is the part of the whole arrangement that has quietly become the reason she comes out at all.
+
+She has not raised her hand to anybody in fifty-one years.
+
 Su has outlived nearly everyone this book has ever properly introduced.
 
 Her mother, thirty years gone now, buried beside a husband and a son in a small churchyard the mission still tends. Erik, twelve years gone, his own knees having finally refused him altogether on a quiet Tuesday afternoon in his chair by the window, the crimson flower blooming its unreasonable June argument in the same glass a season after he stopped being able to see it, which Su has never once decided whether to find cruel or only ordinary. Flo, further back than that, the Prospect itself passed twice now to keepers neither of them ever met, the short-legged chair, so far as anyone still troubles to report it, propped level still with whatever playbill happens currently to be doing the propping, left for last the way it has always been left for last, the reason as thoroughly forgotten now as it was the first year Su ever asked after it.

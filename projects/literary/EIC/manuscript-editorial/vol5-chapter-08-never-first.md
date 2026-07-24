@@ -179,3 +179,18 @@ She takes the shortcut behind the sufferance wharf anyway, because it is late, a
 The banked heat under her ribs, which has not gone out once since the thirtieth of September, sits very still and very warm as she walks, the way a coal sits at the bottom of a grate long after the flame above it has been let die down for the night — not spent, only waiting, patient in the particular way her father's own kind of patience has taught her to recognise, because she has watched him hold exactly this stillness in the cold yard a hundred mornings of her life, and knows now, walking into the fog with her grandfather's fan warm against the inside of her wrist, that a fire banked this carefully for this long does not, in the end, go out on its own.
 
 It waits for the one night the rules will finally let it be needed.
+
+She has gone over the last hour of that Thursday more often than any other hour of her life and it remains, every time, entirely ordinary.
+
+She banked the copper. She checked the loft stove, which was lit, because it was November. She counted the rack against the book and found it right. She told her mother she would take the wharf parcels because there were four of them and two were heavy, and her mother said take the shawl, and Su took the shawl.
+
+Her father was in the back room with the mending. She said she was going. He said mm.
+
+That is the last exchange between Su Zhang and her father before the thing that divided her life in half, and it consisted of one word and it was not even a word.
+
+She has never held that against either of them. It is what the last exchange before a thing is always like, in every household on earth, and the only households in which it is otherwise are the ones that got some warning, and nobody in Wapping that autumn got any warning about anything.
+
+The fog was at the door when she opened it.
+
+She stepped into it, and the lane took her, and the shop went out behind her at about eleven feet, and that — a laundress of nineteen with four parcels and a shawl and a folded fan in her sleeve, walking into a wall of river fog on an ordinary Thursday evening with her whole life still in front of her in the shape it had always had — is the last picture anybody will ever have of Su Zhang before the alley.
+

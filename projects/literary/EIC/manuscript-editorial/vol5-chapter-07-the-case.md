@@ -130,6 +130,32 @@ And even those two, laid flat and looked at without any hope in them, come to th
 
 That is where the account stands when the shirt comes in.
 
+There is one further thing the dockworker gives her, and he gives it a fortnight later, unasked, having plainly thought about the first conversation for a fortnight.
+
+He finds her at the far end of the bar on a Friday, settling the chit, and says — without preamble, as though the fortnight had not happened — that he has been trying to remember something and has got it.
+
+At Cawnpore, he says, after. They had us clearing. And there was a surgeon there, and he had a way of going about it that I have never in my life been able to put down.
+
+Su waits.
+
+He was gentle, the dockworker says. That is the thing. He was gentle with every single one of them, the living and the other kind, and he did the work properly and he did not hurry and he never once looked away from anything, and there were men there twice his size going off behind the wall to be sick and coming back, and he never did.
+
+And we all thought he was the finest man in India for about a month.
+
+He drinks. He does not look at Su for any part of this.
+
+And then I saw him do the same thing to a man he had been told to do it to, he says. Not a wounded man. A man tied up. And he was gentle with him as well, and he did the work properly, and he did not hurry, and he did not look away.
+
+That is the whole of it. That is what took me thirty years. It was never that he was brave. He was the same the whole way through. He was exactly the same, at every hour of the day, whatever he happened to be doing — and I had been calling that a virtue because up until then he had happened to be doing good.
+
+He finishes his drink and puts it down.
+
+I would not have a man in my house who is the same the whole way through, he says. Give me one that turns his face away sometimes. That is what a face is for.
+
+Su walks home with that sentence and it does not, on that walk or on any of the several hundred walks she takes with it afterward, point at anybody.
+
+It does not point at anybody until a Thursday in November, in a fog, when she comes round a buttress and sees a man doing a thing with a rehearsed quiet on him and no expression whatever on his face — and then it points at somebody, all at once, from a fortnight and a lifetime away, and there is no time at all to do anything about it except what she does.
+
 ## IV. The Shirt
 
 It comes round by his housekeeper on the Tuesday: one shirt, good linen gone soft with decades of careful keeping, older than its owner's coats. The first washing Dr. Cray has sent the shop in fifteen years, arriving the week after his clasp came loose in front of her.

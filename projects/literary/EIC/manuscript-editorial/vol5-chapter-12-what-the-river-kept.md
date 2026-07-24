@@ -379,11 +379,41 @@ Not once does she go the further step. Not once, in ninety-odd years, does it pr
 
 There is only one person in the world who could ever have put them side by side and seen what they were, and she is the person, and she never does, and that is the exact shape of the thing.
 
+The old room empties by degrees and Su is there for all of it.
+
+Flo dies in the winter of 1921, at seventy-four, upstairs in the back room of the Prospect where the keeper before her died in 1879, with two of the lightermen's widows sitting up with her and Su in and out for four days. She leaves the licence to a nephew who keeps it eleven years and sells it to a company, and the company sends a man, and the man is perfectly pleasant and knows nobody's name, and that is the end of a particular arrangement on that reach that had lasted, in one form or another, since about 1840.
+
+Su goes on settling the shop's chit there every Friday regardless, for another eighteen years, at a bar full of people she does not know, because it is Friday and that is where the chit is settled.
+
+The dockworker goes in 1919, of influenza, in the great sweep of it that took more men off that reach than the war had — which Su has never once heard anybody on that street remark upon and which is, she thinks, one of the stranger facts about the way people arrange their grief.
+
+The short-legged chair outlasts all of them.
+
 The reach changes around her through the thirties. The chandlery outlasts two of the shops either side of it and is outlasted, in turn, by neither of the ones that replace them. The Causeway gets electric light, and buses, and a picture house, and a fresh generation of newspaper interest in what is supposedly being smoked in its back rooms, and the newspaper interest is answered, as it has been answered since 1888, by the street simply continuing to get up in the morning and go to work.
 
 Su goes on standing in the yard.
 
 The fan is old now, older than any hand that has held it, worn to a smoothness that predates every Zhang currently living by the better part of a century. Su keeps it in her own sleeve some dawns still, out of the same private habit she formed in the autumn of 1888 and never entirely broke, though she has had no earnest cause to use it in the years since a November fog and has come, slowly, to be grateful rather than restless about the long unbroken peace. Most mornings now it stays in the drawer, beside the white bowl's high shelf, two debts kept open on the same short stretch of wood — one that could never be repaid, and one that has simply never yet come due again.
+
+She has, in the whole of it, one student who is not family and not a Causeway child, and Su has never been able to account for her.
+
+She comes in 1927 — a woman of about thirty, English, from somewhere north of the river, who walks into the chandlery on an ordinary Tuesday and asks, plainly, without any story attached, whether it is true that the Zhangs teach.
+
+Su asks who told her.
+
+The woman says: somebody.
+
+Su asks why.
+
+And the woman says, in the flat voice of a person who has decided in advance to answer honestly and get it over with: because I would like, once in my life, to know what to do.
+
+Su teaches her for nine years. She never learns anything about her beyond her name and the fact that she comes on Tuesdays and Fridays and pays what a fair exchange requires and is, at thirty, too old to become anything remarkable and knows it and does not care. She stands the horse. She learns the bridge. She gets, by about 1932, competent — which in this art means something very specific and very small, and which Su has watched perhaps eleven people in her whole life arrive at.
+
+In 1936 she stops coming, and does not send word, and Su never finds out.
+
+She thinks about her more than about almost any of the others. Because the woman asked the only question that has ever been worth asking about the practice, and asked it in a chandlery in Limehouse at thirty years of age with no story attached, and Su gave her nine years of the best answer this family has, and has no idea whatsoever whether it was ever any use to her.
+
+That, Su has concluded in old age, is the ordinary condition of teaching anything: you hand a person a thing you have carried your whole life, and they take it away, and the world closes over the pair of you, and you never learn.
 
 She teaches the practice the whole rest of her life, to her own children and then to theirs, and to a scattering of other Causeway children besides, sent to her yard by parents who remember, or have heard, that the Zhangs keep something worth the keeping behind their chandlery. She never once takes payment for the teaching beyond what a fair exchange requires. She never once teaches it for show. She never once, in the whole span of her own long watch over that yard, raises her voice in it.
 
