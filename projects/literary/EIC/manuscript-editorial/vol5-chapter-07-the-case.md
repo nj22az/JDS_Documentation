@@ -36,7 +36,7 @@ She and Dr. Cray are, though neither of them would ever frame it this way, and t
 
 It is a raw evening in the last week of October when she sees inside the case for the first time.
 
-He sets it on the bar while he pays her — pays the shop's account, settled monthly, a habit as old as his stool — just for a moment, just long enough to free both hands for his coin purse, and the clasp has come slightly loose, worn at the hinge the way fifteen years of the same motion will wear anything, and Su, who has spent a childhood noticing which knots are tied wrong on which crates because a wrong knot on the docks costs somebody money, sees, for less than a second, what a leather physician's case ought to hold and does not.
+He sets it on the bar while he pays her — pays the shop's account, settled monthly, a habit as old as his stool — just for a moment, just long enough to free both hands for his coin purse, and the clasp has come slightly loose, worn at the hinge the way fifteen years of the same motion will wear anything, and Su, who has spent a childhood noticing which knots are tied wrong on which crates because a wrong knot on the docks costs somebody money — and whose eye finds the give in that clasp the way it finds a frayed hem across the width of a shop, which is to say instantly, and without being sent — sees, for less than a second, what a leather physician's case ought to hold and does not.
 
 No rolled bandages. No vials, no lint, no small dark bottles of the sort a house call wants. Something wrapped in oilcloth instead, long enough to run the case's full length, folded close, the corners tucked the particular way a careful man tucks a thing he means to keep dry and quiet both.
 
@@ -76,13 +76,47 @@ He does not say Cray's name. Su does not say it either. But she understands, wal
 
 She thinks of Lee's fever, that counted coin, the register's one flat word. She thinks of the docker's shoulder and the level nothing that set it. She thinks of the razor cut in October, the coat and the case and the clasp come loose, the oilcloth shape inside it exactly as long as a man's forearm. None of it, laid separately on her own private counter, amounts to an accusation any court in England would trouble to hear. All of it, laid together, amounts to something she has no name for in either of her languages, and does not go looking for one, because her father raised her to know that a name found too early is a name that stops a person looking any further.
 
+She asks around, that October, in the only way available to a nineteen-year-old laundress who cannot afford to be seen asking anything at all.
+
+There is no interview. There is no scene in which Su Zhang sits somebody down. What there is instead is six weeks of the ordinary conversation of a laundry counter and a Friday bar, conducted exactly as it has always been conducted, with one difference nobody could have detected: that Su now knows, before she opens her mouth, which of the eleven things she might have said is the one that will produce the sentence she wants, and says that one, and then says nothing at all for as long as it takes.
+
+It works because it is not a trick. It is only the thing she does anyway, aimed.
+
+From Flo, over five separate Fridays, without a single question ever being put: that the doctor has had the short-legged chair since before Flo's time; that he takes the same two drinks and has never once been the worse for them in fifteen years; that his account has never been a penny out; that he was a Company man in India, everyone knows that, surgeon or some such, before the whole thing was wound up; that he came home about the year the Prospect had the roof done, which Flo can date because of the roof and cannot date any other way; and that he is, in Flo's considered and freely offered opinion, the best-mannered man who has ever drunk in that house and she would say so to his face and has.
+
+From the ropewalk foreman, who has no idea he is telling her anything: that Cray's housekeeper does his marketing and always has, and that the doctor is not seen much in daylight and never has been, and that this is entirely usual in a retired man with a pension and nothing to get up for.
+
+From a lighterman: that there was a doctor's brass plate on that door years back and it came down, and he could not say when.
+
+From the parish clerk's boy, over a parcel: nothing whatever, delivered at length.
+
+And from the dockworker — who is the only one of them Su ever comes close to asking directly, and who answers her without appearing to notice that anything has been asked — the Bengal end of it, in about nine sentences, over the course of an evening, in the flat voice of a man who has been carrying his own version of that country since 1857 and would rather not have been invited to open the bag.
+
+Company surgeons. What they were for. What a good many of them did, in the years the dockworker was there, that no register anywhere records, because the register was kept by the same establishment that wanted the doing done. That the calmest man he ever saw in his life was a surgeon, and that it took him about thirty years to work out that the calm had not been courage.
+
+He does not say Cray's name. Su does not say it either. Neither of them, that evening or any evening afterward, says one single word that could be repeated to a constable, and both of them know exactly what the conversation was about, and the dockworker finishes his drink and looks at the river for a while and then says, to the window: mind, half of them were only doctors.
+
+Half of them were only doctors.
+
+Su writes nothing down, ever. This is a decision she takes in the second week of October and holds for the rest of her life: no notes, no dates on paper, no list anywhere a person could find one. What she builds instead she builds in her own head, in the back room, at night, in the same script her mother keeps her God's accounts in, which is to say a script with no letters in it and only one reader.
+
+Into it goes every date the papers have given for that autumn. Into it goes every evening she can honestly place him at the Prospect, and every evening she can honestly place him away from it, and — this is the part that takes her three weeks and very nearly defeats her — the difference between the evenings she actually remembers and the evenings she has reconstructed, because a reconstructed evening is worth nothing and she knows it, and the whole exercise is worthless the moment she starts letting the two kinds of evening sit in the same column.
+
+She is ruthless about it. She strikes out more than she keeps. By the end of October the honest ledger has in it perhaps eleven evenings she would stand behind, out of a possible sixty, and of the eleven, nine tell her nothing at all.
+
+Two do not.
+
+And even those two, laid flat and looked at without any hope in them, come to this: that on two particular nights a man of sixty-odd left a public house earlier than his own habit, and that on those same two nights something happened in Whitechapel. There are perhaps four hundred men on that reach of whom the identical two sentences are true. She knows this. She writes it into the ledger too, in the same hand, because a ledger that only records what its keeper hopes for is not a ledger, it is a wish with columns.
+
+That is where the account stands when the shirt comes in.
+
 ## IV. The Shirt
 
 It comes round by his housekeeper on the Tuesday: one shirt, good linen gone soft with decades of careful keeping, older than its owner's coats. The first washing Dr. Cray has sent the shop in fifteen years, arriving the week after his clasp came loose in front of her.
 
 Her mother takes it in at the counter as though it were a shirt, because to her mother, who was not standing at the bar the evening the clasp gave, it is only a shirt — the first in fifteen years from a good steady customer who has finally, perhaps, decided the shop's washing is worth the trying. Su washes it as though it were a shirt too, in front of her mother, in the ordinary rhythm of the ordinary morning. It is not a shirt. It is a question, put the only way a careful man can put a question without ever once having asked one out loud: *what does the laundry girl's face do, over my linen, now that she has seen what she has seen?*
 
-She reads every seam of it the way she reads a knot. Works the collar and the cuffs through her own fingers in the copper's rising steam, presses her face down once, briefly, into the wet cloth of it, the way any laundress tests for what a stain has actually been before she commits lye and effort to lifting it out.
+She reads every seam of it the way she reads a knot, which is also, exactly and without the smallest alteration, the way she reads the four hundred other garments that will cross that counter this month. The method does not change. It has never changed. The only thing different about this shirt is what is riding on the reading, and her hands, which do not know that and would not alter if they did, go over it in the same order they go over everything: collar, cuffs, the two inches behind the left shoulder where a right-handed man's work always shows first. Works the collar and the cuffs through her own fingers in the copper's rising steam, presses her face down once, briefly, into the wet cloth of it, the way any laundress tests for what a stain has actually been before she commits lye and effort to lifting it out.
 
 There is nothing.
 

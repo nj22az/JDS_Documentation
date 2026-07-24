@@ -72,13 +72,57 @@ Because those are the rules, and she keeps them now the way her mother keeps a f
 
 So she does not go looking. She takes the heat and banks it the way the copper banks its coals overnight, and goes back to folding shirts, which is the whole of what the practice is asking of her now — to do nothing, correctly, for exactly as long as nothing is what the rules require of her. It is, she thinks some evenings, the single hardest thing she has ever not done in her life, harder by a wide margin than either of the two times she has done something.
 
+The folding helps, and she does not know that it helps, and she certainly does not know why. What she would tell you, asked, is that the work wants doing. What is actually happening, in the last hour of every one of those evenings, is that a woman with a banked fire under her ribs is standing at a counter performing, four hundred times over, a small precise movement she was taught to make with her whole body rather than her arms — the same shift, the same unhurried turn out of the hips, the same finish — and that somewhere around the fortieth shirt her breathing has come down to meet it without being asked. She sleeps, most of those nights. She puts it down to being tired.
+
 She keeps back only one small thing for herself, and tells herself, doing it, that it means nothing at all.
 
 Since the killings began she has taken to carrying her grandfather's fan in her sleeve — the plain folded wooden one that has corrected her own elbow every dawn of her life, its wood gone warm against the inside of her wrist within a minute of leaving the drawer, the way a thing carried close to the skin always warms faster than a person expects. Not as a plan. Not as a hunt. For the same reason, she thinks, that her father has taken to standing in his own doorway at closing with his hands folded where the whole street can see them doing nothing threatening at all: a private steadiness, the one small living piece of the dawn yard small enough to carry with her into a city that has, this particular season, gone thoroughly and collectively frightening. She tells herself it means nothing. She is nineteen years old, and it is exactly that kind of autumn, and every woman working the dock roads between here and Whitechapel is carrying something of her own by now, tucked where a stranger's eye will not find it first.
 
 Twice in the weeks that follow the shirt she feels it, on the ordinary walk between the shop and the Prospect — not footsteps, nothing so generous to her as an actual footstep behind her in the dark. Only the particular pressure at the back of the neck that a dawn yard has taught her, over twelve years, never once to argue with, however unreasonable the hour or the empty street around her makes the feeling seem. Both times she stops at a lit window as though minding her own reflection in the glass, and reads the darker street behind her in it the way her father reads a knot he cannot see the far end of, and both times the street behind her proves, on inspection, to be only a street, empty, ordinary, entirely innocent of whatever her own neck believed it had felt.
 
+There is one night in the second week of November when she comes as close to breaking the first rule as she has ever come in her life, and the whole thing lasts about ninety seconds.
+
+She is at the Prospect on the Friday, chit in hand, and Cray leaves at twenty past eight, which is early.
+
+She is out of the door behind him inside a minute, without any part of her having decided to be. That is the honest account of it and it has never got any better with retelling: she settles the chit, and she says goodnight to Flo in an entirely ordinary voice, and she is in the lane with the cold coming off the water and a man's back forty yards ahead of her going west, and there is no moment anywhere in that sequence in which Su Zhang chose anything.
+
+She follows him to the top of the second lane.
+
+Then she stops. She stops so abruptly that a man coming the other way has to go round her, and swears at her, and she does not hear it.
+
+Because what is she doing.
+
+She is following a sixty-odd-year-old man home in the dark, at a distance of forty yards, with her grandfather's fan up her sleeve, and there are exactly two ways this ends. Either he goes to his own door and lets himself in, in which case she has learned nothing and is a girl standing in a lane; or he does not, and she follows him to wherever he does go, and then she is a person who has arranged to be present at a thing.
+
+Never first. It does not mean *do not strike first*. She has understood this since she was about twelve and has never once said it aloud, because saying it aloud makes it sound smaller than it is. It means *do not go and stand where the trouble is, having arranged your evening so that the trouble will oblige you by starting*. A person who follows a man down a lane at forty yards is not waiting to see what he does. A person who follows a man down a lane at forty yards has already decided what she hopes he does.
+
+Su turns round in the second lane and walks home the long way with her heart going like a hammer and her hands entirely steady, which is the exact combination she will meet again five nights later in a fog and will not have time to notice.
+
+She does not sleep. She stands the form at half past four in the yard beside her father with about a third of herself in it, and he corrects her elbow twice in twenty minutes, which he has not had to do since she was fifteen, and does not remark on it.
+
+She nearly tells him.
+
+Twice, in fact, across those weeks — and the second time she gets as far as his name.
+
+They are in the yard. It is the middle of November, black cold, before five. They have finished the hard work and are into the long breath, the slow part, the twelve minutes of turning circles her grandfather put on the end of it to let a body settle, and it is the only stretch of any day that autumn in which Su has been able to get her breathing down where it belongs.
+
+Father, she says.
+
+And he says: mm.
+
+And Su stands there in the dark with the whole of it loaded and ready — the case, the clasp, the two evenings that will not lie flat, the shirt, the eleven honest entries out of sixty — and she looks at the man beside her, who is fifty-eight, whose knees have begun arguing with the damp, who stood in a doorway in September for forty minutes with his hands empty in the light because a street was deciding what it thought of him, and who has exactly one child left.
+
+If she tells him, he will believe her. That is the entire problem and she sees it whole in about two seconds. He will believe her, because he has never once in her life not believed her, and then he will be a fifty-eight-year-old Chinese watchman on that reach who knows a thing about an English gentleman, and there is no version of the following six weeks in which he does nothing with it, and there is no version in which doing something with it does not end at a police station or a lane, and Su has already stood across from the police station and knows precisely what is available there to people with their faces.
+
+Nothing, she says. Your left hand is early.
+
+Her father says that his left hand has been early since 1871 and that she is welcome to fix it if she thinks she can, and they finish the twelve minutes, and the counter opens at six.
+
+That is the last time she comes near telling anybody anything, and it holds for the rest of her life.
+
 It proves nothing either way. That is the particular cruelty of this kind of watching: a stair that is a half-inch off does not stop being a hazard merely because nobody happens to fall on it tonight. By the first week of November she has understood that this — the pressure, the checked reflection, the fan gone warm against her wrist, the empty street proving nothing — is simply the shape her whole life has taken now, and will go on being its shape until one of them, herself or the thing she cannot yet properly name, makes the single mistake that finally ends the waiting one way or the other.
+
+Her arms take the heavy basket up off the floor that evening the way they have taken every basket up off that floor since she was nine, which is to say without comment from any part of her. It is a bad basket — the Thursday round, two of the parcels wet-weather heavy — and she carries it out into a lane where the air has already begun to thicken, and she is thinking, the whole of the way to the corner, about a shirt.
 
 ## IV. The Fog Comes Down
 

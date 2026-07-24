@@ -20,7 +20,7 @@
 
 The last day of September is, until its final hours, a good one.
 
-The weather has broken from its long gold summer into something crisper, a Sunday-into-Monday chill that makes the coppers welcome rather than merely tolerated, and the shop does brisk trade all through the Sunday on coats brought out early against a winter that has clearly decided to arrive ahead of its own calendar. Su spends the morning at the practice as she has every morning of her remembered life, and the afternoon on deliveries, and there is nothing in the ordinary rhythm of the day — the yard, the counter, the Prospect's chit settled at four, her mother's mending basket full of the week's small repairs — that marks this Sunday as different from the fifty-odd Sundays that came before it.
+The weather has broken from its long gold summer into something crisper, a Sunday-into-Monday chill that makes the coppers welcome rather than merely tolerated, and the shop does brisk trade all through the Sunday on coats brought out early against a winter that has clearly decided to arrive ahead of its own calendar. Su spends the morning at the practice as she has every morning of her remembered life, and the afternoon on deliveries — nine of them, two of them heavy, the whole round walked in a little over two hours with the same unhurried economy she brings to everything and has never once had cause to think about — and there is nothing in the ordinary rhythm of the day — the yard, the counter, the Prospect's chit settled at four, her mother's mending basket full of the week's small repairs — that marks this Sunday as different from the fifty-odd Sundays that came before it.
 
 Catherine's bodice is still on the shelf in the back room, wrapped in its paper, waiting on the hopping money that has not yet come home. Elisabeth has not been in for a fortnight — not an unusual gap, in itself; Su has learned not to read weather into a gap.
 
@@ -67,6 +67,52 @@ Neither of them says anything. There is nothing to say that would not be worse t
 She does not cry either, that night, any more than she fell down in the Prospect that afternoon. Something else happens instead, further down and considerably worse: a long, patient heat, banked the way the wash-copper banks its coals overnight, that does not gutter, and does not spread, and — this is the part that frightens her, lying awake with it, more than any fear the newspapers have managed to print all autumn — does not, however she waits for it, go out.
 
 She takes it to her father in the cold yard before the next day's dawn, because she has learned not to trust a fire she cannot account for, and because he is the only person she has ever known who has carried one exactly like it.
+
+The week that follows has almost nothing in it that anybody could put in a letter, and Su remembers all of it.
+
+She remembers that the shop was busy. That is the first thing, and the thing nobody warns you about: that two women you loved can be killed on a Saturday night and the Tuesday washing will still come in on the Tuesday, in the ordinary quantities, brought by people who are sorry and who also have shirts.
+
+She remembers a woman she has served for nine years standing at the counter on the Wednesday and saying, in a lowered voice, with real feeling, that it was a mercy the poor creatures had been what they were, because it meant no decent family had been left without a mother — and then paying, and taking her parcel, and going, entirely unaware that she had said anything at all.
+
+Su served her. Su has served her every week since, for the following forty years, and has never once said a word about it, and has also never once, in forty years, forgotten it.
+
+She remembers the inquests being reported at length and reading every column and learning, from the third or fourth of them, several things about Elisabeth's actual life that she had not known and had never asked about — and finding, to her own surprise, that not one of them altered anything. The woman at her counter on a wet Monday in March with a shawl in her hands and grief that had a floor and walls in one language and none in the other was the same woman all the way through, in every column, on every night of her life, and the paper's version and Su's version were not two women. They were one woman, and the paper only had the outside of her, and had it in a great deal of detail, and had put every single scrap of that detail into print for a penny.
+
+She remembers a boy selling a broadside about it at the top of the lane, singing.
+
+She remembers going into the back room on the Thursday and standing in front of the shelf.
+
+Catherine's bodice is where it has been since the last Monday in September: wrapped in its paper, ticketed in Su's own hand, third shelf from the top, behind the starch. Paid for in part. Promised on Kent wages. Left, deliberately, so it would be clean for after the hopping.
+
+Su takes it down and holds it and does not unwrap it.
+
+She has told herself, at intervals for the rest of her life, that this was for a practical reason — that unwrapping it would mean folding it again, and that paper once opened never sits the same. She has never once believed herself. The truth is that inside the paper is a thing that was taken in twice at the seams by a woman who has been dead for five days, and that the parcel is currently, in some way Su could not defend to anybody and has never tried to, the last piece of the world in which Catherine was simply going to come back for it.
+
+She puts it back on the shelf.
+
+It is still there in October, and in the November, and the following spring, and it will be there when Su is thirty and forty and fifty; and it will be moved, eventually, out of the paper and into a frame, on a wall in the back room, by two women who could neither of them bring themselves to unpick the seams and use the cloth; and it will still be there, framed, in the last decade of Su's life, and anyone in the family who has ever asked about it has been told, plainly, exactly what it is and exactly whose it was.
+
+She remembers the burials, both of which she stayed away from.
+
+She had reasons. There was the shop; there was the fact that neither burial was in a parish where a Chinese laundress from the Causeway would have been anything but a spectacle attached to a public event; there was the crowd, which was enormous at one and considerable at the other and had come, in very large part, for the reason crowds came to things that autumn. Su weighed all of it, at nineteen, with the particular thoroughness of a person constructing a case, and stayed at the counter both days.
+
+She has never decided whether she was right. That is the honest state of it, sixty years on. She has never decided, and has never stopped putting the question to herself at intervals, and it is one of perhaps four things in her whole life she has been genuinely unable to close.
+
+And she remembers the Monday.
+
+The first Monday after — the sixth or seventh of October, she has never been able to fix which — when the long slack hour came round after the sailors' baskets and before the two-o'clock tide, and Su, who had known perfectly well for eight days, stood at that counter with an iron in her hand and listened for the bell her father mended twice.
+
+It is not that she expected it. She was not confused, and she was not, in the way people sometimes mean the word, in denial about anything. It is simply that for three and a half years her body had learned a Monday, and a body does not read the newspaper.
+
+The bell went at twenty past two. It was a man about a collar.
+
+Su did the collar.
+
+There was one more Monday like that, and then a third that was easier, and by the end of the month it had stopped, and she remembers being obscurely ashamed of how quickly it stopped, and understanding — years later, at her mother's copper, with her mother eight years dead — that this is simply what a body does, and that it is not a betrayal of anybody, and that the alternative would be a life in which nothing ever stopped.
+
+The song never comes back. That is the smallest item on the whole account and it is the one that ambushes her longest: the quay, the girl, the three notes climbing and the one falling back, *and the boats came home by ones and twos*, and then nothing, ever, from anybody, for the rest of the century. She asks two hoppers. She asks, over the years, perhaps a dozen people who might know it. She gets four different tunes and no second half.
+
+Catherine took the back half of it to Kent to fetch, and did not get to Kent, and the song is still, as far as Su has ever been able to establish, a front with no back to it anywhere in England.
 
 ## II. The Rules for This
 
