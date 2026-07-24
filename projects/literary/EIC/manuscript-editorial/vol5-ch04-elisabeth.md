@@ -1,0 +1,51 @@
+<!-- PROPOSED — Volume Five, Part One, Chapter 4. Full-novel expansion. -->
+<!-- Present tense. Summer 1888, before the killings. POV rule (deployed): -->
+<!-- Su knows her only as Elisabeth, a Monday customer; never the street name -->
+<!-- Long Liz, never that she is a prostitute. Swedish + Princess Alice kept. -->
+<!-- Not deployed. -->
+
+# Elisabeth (1888)
+
+> **1888**
+>
+> *"Grief is only a noise to me in English. In Swedish it has a floor and walls."*
+>
+> — Elisabeth, at the shop counter, a summer Monday
+
+***
+
+Elisabeth comes on Mondays, when she comes.
+
+Not every Monday. There are weeks the door does not bring her, and Su has learned not to read too much into the gap, because a gap is only a gap, and a woman who lives the way Elisabeth lives — Su does not know, this summer, quite how that is, and does not think to ask — keeps a week that answers to nobody's calendar but its own. But most Mondays, somewhere in the long slack hour after the sailors' baskets have been sorted and before the afternoon rush comes up off the two-o'clock tide, the door goes, and the little bell her father mended twice goes with it, and there is Elisabeth: tall, a good half-head over Su, with a way of coming in sideways through a narrow door that tall people learn, and a bundle under her arm done up in a bit of cloth that has been a good cloth once.
+
+She is a Swede. That much Su has from her own mouth, the first spring she came, in an English so soft at the corners you could have laid your head on it. A tall Swede with an accent she can put on and take off like a bonnet — Su has heard her do it, has heard the English go flat and clipped and careful when a constable puts his head in for his collars, and heard it go soft again the moment the door shuts behind him, the way Su's own two languages change the shape of her mouth depending which room she is standing in. It is the first thing that makes them friends, though neither of them would use the word: that each of them crossed an ocean and remade herself in English on the far side of it, and each of them knows exactly how much of the first self got left on the first shore, and neither of them has anyone else to say so to.
+
+Su's father crossed his ocean with a bundle and a white bowl. Elisabeth crossed hers — Su does not know with what, and Elisabeth does not say, and there is a whole country behind her that comes out only in pieces, a word here, a saint's day there, a way of salting a thing that she mentions once and never again. But it is there. Su can feel the weight of it the way she can feel, through two crossed wrists in a dark yard, which foot a man's weight is on. Elisabeth is a woman carrying a country she cannot put down and cannot go back to, and the carrying has given her the particular straightness of people who have decided to bear a thing rather than be seen to set it down, and Su, who was raised by a man built exactly the same way, reads her at a glance and says nothing, because saying it would be like naming a knot to the man who tied it: an unkindness dressed as help.
+
+What Elisabeth brings is never much. A bodice that has to last and is being made to. A shawl gone thin. Once, memorably, a christening-gown, yellowed, far too fine for anyone Elisabeth could have a claim on now, that she wanted brought back to white and would not say whose it was, and paid for out of a knotted corner of cloth in coin so small and so warm it had plainly been carried against her the whole walk over, and left with, folded in paper, holding it against herself in both arms on the way out the way you hold a thing and not a parcel. Su washed it as though it were only a christening-gown. It was not only a christening-gown. Su has learned, at that counter, that almost nothing that comes across it is only the thing it is.
+
+She does not know what Elisabeth does.
+
+This is the plain fact of that summer, and Su will turn it over for the rest of her life. She knows Elisabeth is poor, because everyone who comes off the Whitechapel Road on their own feet is poor; she knows the coin comes warm and late; she knows there is no man's shirt in the bundle, ever, which on this street can mean a dozen things and which Su, nineteen and busy and fond of her, files under none of them. What Elisabeth does after dark to put the small warm coins in the knotted cloth, Su does not ask, and Elisabeth does not offer, and the shop keeps day hours, and so the two of them meet only ever in the daylight half of Elisabeth's life, which is the half with the christening-gown in it, and the soft English, and the Swede's straight back, and not the other half at all. Su is not being a child about it. She is being a daughter of the day, with a copper to tend and a father's hands to watch failing, and it simply does not cross her mind that a woman she likes this much is out, on the nights Su bolts the shop, in the exact dark the whole city is about to learn to be afraid of.
+
+The Monday Su keeps longest is a wet one, early — a March, the first year — when the two of them found the thing they had in common and did not have a word for.
+
+They were talking, the way you talk over a counter while the iron heats, about the English, and the ways it fails you. And Elisabeth said the thing Su has carried ever since, said it lightly, wringing her own thin shawl in her hands as if to demonstrate: that grief, in English, is only a noise to her. A word people say. *Grief.* It has no weight in it, she said. In Swedish it has a floor and walls; you can stand inside it; but the English word is a coat with nobody in it. And Su — who keeps her two languages in two rooms and goes into each of them alone, and had never once, in nineteen years, heard another living soul describe the thing she does every hour of every day — stood very still with the iron in her hand, and then gave Elisabeth something back. She gave her the word her father uses in the yard and will not translate: the one that comes out flat and small and wrong in English as *the practice*, and in her father's mouth, in the tongue he learned it in, has a weight like a stone taken up in the hand, a heft you could set against a door. She did not explain it. She only said it, the Cantonese of it, once, across the counter, into the steam.
+
+Elisabeth nodded slowly. The way you nod at a foreign coin you can tell is real money even though it cannot be spent here.
+
+That was all. That was the whole of it. For a quarter of an hour, on a wet Monday, two women who had each crossed an ocean and left a self on the far shore of it stood at a laundry counter and were, briefly and exactly, understood — not the words, the words did not cross, but the shape of the thing under the words, the fact of the two rooms and the two selves and the coat with nobody in it. It does not happen to Su often, being understood in either of her languages. She kept the quarter of an hour. She has not been given a second one like it since, from anybody, and by the time this book is over she will have stopped expecting to be.
+
+There is one thing Elisabeth says that Su knows is not true.
+
+She says it often, to whoever is in the shop, the way a person says the thing that holds them up: that she lost her husband and two of her children when the *Princess Alice* went down — six hundred souls in the Thames off Woolwich, the worst night the river ever gave this city, a pleasure-steamer cut in half by a collier on a warm September evening and the whole of it gone under before the band had finished playing. It is a true disaster. Half of Wapping lost somebody real to it, or knows a house that did. But Su, who has spent her whole life reading which knots on which crates are tied wrong because a wrong knot costs somebody money, worked out a long time ago that Elisabeth's version is not true, or is not hers — the dates do not sit right, the children change ages between tellings, the husband is sometimes two men — and has never once said so.
+
+Some stories are load-bearing. Su understands this to the marrow, being the daughter of a man who keeps a bowl on a shelf he is not allowed to use and a woman who keeps a God she cannot make balance. A person is allowed one story that holds the roof up, and it does not have to be true to hold the roof up; it only has to be carried. Whatever really happened to Elisabeth on the far shore of her ocean — whatever she left there, whatever left her — she has folded it, for public wear, into a shape the neighbours can hold: a clean, nameable, enormous grief with a date on it and a band still playing. The true one, Su thinks, must be the kind you cannot wear in the street. She does not know she is right. She will find out she is right in exactly the way you least want to be proved right about a friend, and by then it will be four years too late to tell her so.
+
+On the last Monday of the summer Elisabeth comes with almost nothing — a collar, a bit of lace, a thing that is barely worth the walk — and Su understands, without either of them saying it, that the collar is an excuse and the walk was the point, that Elisabeth has come to stand for a quarter of an hour in the one shop on the whole reach where she is met in daylight and read kindly and asked nothing. Su gives her the quarter of an hour. She irons the collar she does not need to iron. Outside the window the summer is going gold and long, and the worst thing in the newspaper folded on the counter is a quarrel about the drains, and the two of them stand in the steam and the soap-smell and are, for the last time either of them will ever know it, entirely ordinary.
+
+Take care of yourself, Elisabeth says at the door, in the soft English, the country coming up under it for a second the way the river comes up under the fog.
+
+You too, Su says.
+
+And she means it the ordinary amount — the amount you mean it when the world still seems wide enough for everyone in it to be careful in, when careful is a thing a person can simply choose to be, when the dark outside the shop is only the dark, and belongs to everybody equally, and is not yet reaching, on the far side of a wall Su cannot see, for the two women she likes best of all the ones who come across her counter.
