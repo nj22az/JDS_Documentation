@@ -37,19 +37,19 @@ That question prevents the novel from becoming a simple defence of pirates. Esth
 | Adams | Become too ordinary to be found | That any intimacy will make another person his accomplice | Leaves Esther without confession after permitting her to understand enough | Hospitality under contamination; he is written as Every for authorial logic but never gives a clean confession |
 | William Kidd | Make a commission convert violence into lawful advancement | That paper has never protected anyone without powerful friends | Continues after the venture's bargain has collapsed and trusts his patrons once too often | The difference between legal authority and expendability |
 
-Tom Fletcher appears as himself, not as a repeated personality. Esther is the deliberate echo of Tom: the name, sex, social position, and role change; the refusal to bend for money remains.
+Tom Fletcher does not appear in Volume Two. His departure from the *Pelican* in “Last Orders” remains his final scene. Esther is the deliberate echo of Tom: the name, sex, social position, and role change; the refusal to bend for money remains. Jonah Fletcher, Tom’s nephew, carries a family resemblance but has his own seafaring history, injuries and moral debts.
 
 ## Historical correction to the proposed prologue
 
 The prologue should not be set in 1668. Kidd's birth date is disputed, and his first secure appearance in the surviving record is as a Caribbean seaman in 1689; in that year he becomes captain of the *Blessed William*. Setting the meeting at Nevis in 1689 gives the scene a historical foothold and makes him a **new captain**, which is more dramatically useful than merely calling him young.
 
-Tom, born about 1581 in Volume One, is approximately 108. His age is extraordinary and remarked upon, but not explained. At the 1701 execution he is approximately 120. The novel neither calls this supernatural nor supplies a medical defence.
+Jonah Fletcher is born about 1625 and is sixty-four at Nevis. At the 1701 execution he is approximately seventy-six: exceptionally weathered but entirely human. The shared surname is enough for returning readers; Volume Two does not pause to explain Tom or reopen his completed arc.
 
 ## Word architecture
 
 | Division | Period | Words | Function |
 |---|---:|---:|---|
-| Prologue — The New Captain | 1689 | 4,500 | Tom frightens the newly made Captain Kidd with the truth about commissions |
+| Prologue — The New Captain | 1689 | 4,500 | Jonah frightens the newly made Captain Kidd with the truth about commissions |
 | Part I — The Dog on the Carpet | 1690–1695, with memories of 1686–1690 | 18,500 | Tanner returns from the Company's defeat; Esther loses her husband and learns the cost of being outside a ledger |
 | Part II — The Price of a Man | 1695–1696 | 27,000 | Adams, Mughal gold, the Every dragnet, dangerous fellowship, two trials, six hangings, and Esther's refusal |
 | Part III — The Commission | 1696–1699 | 29,000 | Nathaniel joins Kidd; the legal venture becomes an economic trap; Moore dies; the French passes become dangerous evidence |
@@ -63,13 +63,13 @@ Thirty-two main chapters, a prologue, and an epilogue give an average narrative 
 
 ### 1689, Nevis — 4,500 words
 
-Kidd has only just acquired command of the *Blessed William*. He enters a Caribbean drinking room expecting the title *captain* to change how older seamen look at him. It changes everyone except Tom Fletcher.
+Kidd has only just acquired command of the *Blessed William*. He enters a Caribbean drinking room expecting the title *captain* to change how older seamen look at him. It changes everyone except Jonah Fletcher, a sixty-four-year-old sailor whose authority comes from survival rather than office.
 
-Tom is not presented as a theatrical old pirate. His coat is clean where it must be, his hands are damaged in ways Kidd cannot read, and the room makes space for him without being asked. Men give mutually incompatible accounts of his age and history. Tom lets Kidd boast until Kidd mentions the governor's authority. He then makes Kidd read the commission's revocation language aloud.
+Jonah is not presented as a theatrical old pirate or as Tom in disguise. He is bald, black-bearded, physically damaged and independently notorious from Curaçao to Barbados. The room makes space for him without being asked. Conflicting port records disagree about his age and service, but not about the respect he commands. He makes Kidd read what the governor’s direction authorises—and notice everything it refuses to pay for.
 
-Tom's lesson is practical: a signed paper remains law only while the signer finds its bearer useful. He shows Kidd an old scar or damaged finger not as a heroic token, but while explaining the job that produced it and the employer who denied the payment. Kidd first tries charm, then rank, then threat. Tom defeats each without raising his voice.
+Jonah’s lesson is practical: permission is not protection, and a crew that makes a captain may make another. He forces Kidd to settle shares, powder, wounded-man payments and duplicate accounts before sailing. When a loaded line traps Hugh Dyer’s wrist, Jonah directs the cut that saves the hand and makes Kidd confront the fact that he reached first for the governor’s paper.
 
-The scene ends with Tom looking once at the new captain's hands and telling him that he still reaches for paper before rope. Kidd is angry because the judgement is true. He leaves almost afraid of the old man and remembers him for twelve years.
+The scene ends with Kidd carrying two papers: the governor’s direction and the crew’s bargain. Jonah tells him to keep both dry and see what men call him tomorrow. Kidd leaves almost afraid of the old sailor and remembers him for twelve years.
 
 The prologue establishes four motifs:
 
@@ -144,7 +144,7 @@ Warmth is essential. These people are funny because they know one another's weak
 
 Esther tests Adams with three false versions of the attack during a card game. He corrects none of them, which confirms that he knows she heard him. Their mutual courtesy becomes more dangerous than confrontation.
 
-News of Kidd's commission reaches the room. Adams says that a king may sign a captain's paper but cannot tie his knots. The line does not duplicate Tom's warning, but rhymes with it.
+News of Kidd's commission reaches the room. Adams says that a king may sign a captain's paper but cannot tie his knots. The line does not duplicate Jonah’s warning, but rhymes with it.
 
 ### Chapter 12 — The First Verdict — 2,350 words
 
@@ -218,7 +218,7 @@ The supply manifests reveal cheapness and optimistic accounting, not a secret pl
 
 William Moore urges an unlawful attack. Kidd refuses, the quarrel exposes the venture's economic ruin, and Kidd kills Moore with the iron-bound bucket. Nathaniel helps carry Moore below and hears Kidd rely upon his friends in England.
 
-Tom's warning returns through action: Kidd reaches mentally for patronage after his own hand has made the body.
+Jonah’s warning returns through action: Kidd reaches mentally for patronage after his own hand has made the body.
 
 ### Chapter 23 — The Lawful Prize — 3,300 words
 
@@ -278,7 +278,7 @@ On 23 May the crowd becomes an economy: windows rented, boats overloaded, pies s
 
 The first rope breaks. The crowd's response is mixed—laughter, prayer, argument, disappointment. The second ascent is worse because everyone now knows precisely what they are choosing to watch.
 
-At the back stands a very old sailor. Kidd sees Tom Fletcher and recognises, not his face at first, but the stillness around him. Tom neither saves nor forgives him. He looks at Kidd's bound hands. Kidd finally understands the warning from Nevis.
+At the back stands a weathered old sailor. Kidd sees Jonah Fletcher and recognises, not his face at first, but the stillness around him. Jonah neither saves nor forgives him. He looks at Kidd’s bound hands. Kidd finally understands the warning from Nevis.
 
 ### Chapter 32 — The True Name — 2,800 words
 
@@ -344,7 +344,7 @@ Rigging, pumps, hull movement, fastenings, tides, caulking, tools, and repair sh
 | A dealer sells the clothes of hanged men | Adopt conditionally | A possibly fraudulent slop-seller meets a widow who recognises her own stitching |
 | Nathaniel sees freshly cut stitches where passes were kept | Transform pending material research | Missing enclosure numbers and disturbed fastening in a paper bundle |
 | Esther silently gives Nathaniel a hot drink after he hides testimony | Adopt | The epilogue's final human action |
-| Kidd meets Tom's eyes when the rope breaks | Adopt with restraint | Recognition occurs through Tom's stillness and his attention to Kidd's bound hands |
+| Kidd meets Jonah’s eyes when the rope breaks | Adopt with restraint | Recognition occurs through Jonah’s stillness and his attention to Kidd’s bound hands |
 
 ## Historical guardrails already established
 
@@ -366,7 +366,7 @@ Research anchors:
 
 The novel should now be written in five controlled passes:
 
-1. Draft the 1689 Tom–Kidd prologue and lock the paper/hands/rope motifs.
+1. Lock the corrected 1689 Jonah–Kidd prologue and its paper/hands/rope motifs.
 2. Draft Part I so Esther, Elias, and Tanner exist as people before the Every plot begins.
 3. Expand the 1696 compressed seed into Part II, beginning with the Court of the Bent Chair and Caleb's closed door.
 4. Build Nathaniel's voyage as witnessed testimony whose details return physically to Wapping.
