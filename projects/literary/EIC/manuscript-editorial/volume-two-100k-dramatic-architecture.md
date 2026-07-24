@@ -3,7 +3,7 @@
 **Working title:** *The Gallows Years*  
 **Status:** Editorial development plan for author review. It does not alter the deployed reader or the read-only live-canon mirror.  
 **Target length:** 100,000 words  
-**Narrative frame:** 1689–1701, with Tanner's owned memories reaching back to the Company's war of 1686–1690  
+**Narrative frame:** a 1689 thematic prologue followed by the main chronology from 1686 to 1701  
 **Dramatic centre:** Esther Finch's lodging house, the Prospect, the Wapping stairs, and the immediate river edge
 
 ## Governing decision
@@ -50,9 +50,9 @@ Jonah Fletcher is born about 1625 and is sixty-four at Nevis. At the 1701 execut
 | Division | Period | Words | Function |
 |---|---:|---:|---|
 | Prologue — The New Captain | 1689 | 4,500 | Jonah frightens the newly made Captain Kidd with the truth about commissions |
-| Part I — The Dog on the Carpet | 1690–1695, with memories of 1686–1690 | 18,500 | Tanner returns from the Company's defeat; Esther loses her husband and learns the cost of being outside a ledger |
-| Part II — The Price of a Man | 1695–1696 | 27,000 | Adams, Mughal gold, the Every dragnet, dangerous fellowship, two trials, six hangings, and Esther's refusal |
-| Part III — The Commission | 1696–1699 | 29,000 | Nathaniel joins Kidd; the legal venture becomes an economic trap; Moore dies; the French passes become dangerous evidence |
+| Part I — The Company’s War | 1686–1690 | 20,000 | Tanner experiences the Company’s western war, siege, defeat and paper reconstruction of failure |
+| Part II — The Price of a Man | 1690–1696 | 26,500 | Tanner’s return, Elias’s death, Esther’s lodging house, Adams, the Every dragnet and Esther’s refusal |
+| Part III — The Commission | 1696–1699 | 28,000 | Nathaniel joins Kidd; the legal venture becomes an economic trap; Moore dies; the French passes become dangerous evidence |
 | Part IV — The Missing Enclosures | 1700–1701 | 18,000 | Nathaniel returns as Fenner; the papers are withheld; Kidd is tried and twice hanged |
 | Epilogue — What the House Keeps | Summer 1701 | 3,000 | Esther and Nathaniel preserve testimony without pretending that preservation is victory |
 | **Total** |  | **100,000** |  |
@@ -78,115 +78,119 @@ The prologue establishes four motifs:
 - **looking:** command exercised without noise;
 - **rope:** a tool before it becomes a sentence.
 
-## Part I — The Dog on the Carpet
+## Part I — The Company’s War
 
-### Chapter 1 — Ten Pounds a Year — 3,100 words
+Part I follows Tanner chronologically through Bombay from 1686 to 1690. The 1689 Nevis prologue remains a thematic overture; Chapter 1 deliberately resets the clock. The reader therefore knows what a commission may eventually do to Kidd before seeing the Company teach Tanner the same lesson through stores, tides, artillery, sickness and accounts.
 
-In 1690 Tanner returns to Wapping in scaled foreign boots. At the Prospect, a Company clerk reads a casualty and arrears list from Bombay as though settling damaged cargo. Elias Finch, Esther's shipwright husband, asks after three missing yard men. The clerk knows their numbers but not their names.
+### Chapter 1 — The Roadstead at Bombay — 3,500 words
 
-Tanner says Bombay was leased to the Company for ten pounds a year. Esther asks what it paid the dead. The clerk has no column for the question.
+Late 1686. Tanner watches clerks convert Bombay’s mud and dependence into claims of dominion. Master Gunner Jonathan Hobbs tends brass ordnance that the salt attacks faster than the storehouse can supply sound covers. Miller and Hawkins establish the garrison at human scale.
 
-### Chapter 2 — The Locked Store — 3,100 words
+Sir John Child orders Tanner to take a pinnace into the creek beyond Sion and burn three timber craft. Padre Miguel de Sequeira and the Koli pilot Rama report that armed Janjira-aligned boats are waiting behind them, but Ephraim Vane preserves only the part of the intelligence that supports action.
 
-Fever brings Tanner to Esther's spare room. While she and Elias keep him alive, his memory returns to the siege. The moral horror is not an officer eating exotic fruit above dying men. It is more particular: Tanner is ordered to guard sound grain, clean water, and medicinal spirits entered as Company property while soldiers receive reduced issue. Breaking the lock would be mutiny; obeying it helps men die.
+Tanner reaches the creek, finds the ambush and withdraws without firing. On his return, Vane saves his own intelligence by changing Tanner’s disobedience into an “unfavourable tide” in the official report. The chapter establishes the governing pattern: paper does not merely misdescribe the physical world; it decides which part of the world may be blamed.
 
-In Wapping, Tanner wakes fighting Esther for the cup she is trying to give him. Elias restrains him without humiliation. Their care creates the debt Tanner will later corrupt.
+**Current working draft:** 4,291 words. It should be compressed during the Part I rhythm pass rather than weakened while the cast and technical vocabulary are still being established.
 
-### Chapter 3 — The Names Under the Sum — 3,000 words
+### Chapter 2 — The Anatomy of a Blockade — 4,000 words
 
-Esther helps two widows interpret arrears papers. Fees, stoppages, missing signatures, and subcontracting erase most of what was supposedly owed. Tanner can identify the dead men's injuries and last words but cannot make the clerk acknowledge them.
+1687 to early 1689. The documented western seizures expand. Prize bottoms crowd Bombay while their cargoes spoil for lack of buyers, transport and dry storage. Vane’s green ledger converts wet pepper, rancid coconuts and detained crews into provisional value, storage charges and apparent success.
 
-This is the first full bureaucracy scene. It remains dramatic because each line of the account changes what a living woman can buy that week.
+The fictional broker Yusuf Rafiq arrives on behalf of several Surat interests after his nephew Hamid sends a message from the salt-house. His real hundi exposes the difference between liquid mercantile credit and the Company’s imaginary prize valuations. Child refuses a limited commercial settlement because accepting it would reduce sovereign coercion to a bargain.
 
-### Chapter 4 — The Emperor's Terms — 3,200 words
+Tanner, Miguel, Rama and low-level boatmen develop a clandestine economy of limes, greens, oil and firewood. Vane silently assigns Tanner to the patrol route that permits it, showing that the system survives through violations it officially forbids. Miller’s death remains on the strength return while warning fires appear beyond Sewri.
 
-Tanner describes the surrender from what he actually witnessed: the Bombay garrison's starvation, the reading of Aurangzeb's terms, the Company's public obedience, and the return of men who carried the humiliation from the imperial camp. He did not personally stand in Aurangzeb's audience chamber unless later research establishes that an escort role is plausible.
+**Current working draft:** 3,742 words. Expansion should come only where Yusuf’s leverage or Miller’s relationship with Tanner requires more breath.
 
-The prostration is not used to belittle Mughal ceremony. The humiliation lies in English directors spending other men's bodies on a war they could not win, then discovering perfect courtesy when commerce required pardon.
+### Chapter 3 — The Landing at Sewri — 4,500 words
 
-### Chapter 5 — February's Plank — 3,200 words
+February 1689. Sidi Yakut Khan’s force lands at Sewri and the long siege begins. The tactical sequence is carried through sightlines, water depth, powder supply, field of fire and retreat routes rather than retrospective military summary.
 
-Elias dies in a yard accident caused by haste around a Company sailing date. The accident may involve a suspended timber or a failed shore beneath a hull, but its precise engineering must be researched before prose is locked. The Company denies direct liability because Elias was paid through a yard contractor.
+Hobbs’s battery fires until heat, fouling and damaged tackle reduce its rate. Tanner attempts to keep a mixed militia together while Company officers issue mutually incompatible orders. Miguel brings warning from communities outside the Castle. Vane delays believing it because accepting the report requires abandoning stores already entered as defensible.
 
-Esther must bargain for the return of his tools while his body is still in the house. She does not deliver a speech. She inventories the tools, finds one missing, and makes the clerk go back for it.
+The irreversible scene is at the Castle gate. Soldiers close it while island families and Company dependants are still outside. Tanner can keep the gate open long enough for more people to enter only by exposing the retreating garrison. He obeys the closure, then recognises people he has traded with on the wrong side. The institution’s survival acquires faces before the siege has properly begun.
 
-### Chapter 6 — Fifth Soles — 2,900 words
+### Chapter 4 — The Salt-House Siege — 4,500 words
 
-By 1695 Esther has converted rooms into a lodging business. Tanner's boots have acquired English soles and the triangular heel repair. He sometimes supplies the Company with information and tells himself this is repayment, not employment.
+1689. The remaining English position contracts into the Castle and nearby defences. Grain, potable water, medicinal spirits, powder and burial cloth become separate moral economies. Vane’s records distribute scarcity in ways that protect rank while allowing each officer to claim that somebody else fixed the ration.
 
-Esther sees what he has become. She continues to feed him when he is ill and never again lets him forget that he once guarded food from starving men.
+The old salt-house becomes a crowded ward. Miguel’s smuggling route keeps some men alive but cannot become an uncomplicated rescue: every lime carried inside displaces another item, every cooperating boatman risks punishment, and Tanner decides who receives what.
 
-**Part I residue:** Esther, Tanner, and the Company are tied by real care, real debt, and a betrayal that has not yet happened.
+Hobbs dies after keeping a failing battery workable long beyond reason. Tanner acquires the scaled boots from the effects of a dead or missing sailor known as Van Horn after Sillitoe enters them merely as “foreign hide, unserviceable.” No provenance is supplied. The boots are practical, ugly and too sound to burn; returning readers may infer a longer journey, but the text does not mention Silas or South Land.
+
+### Chapter 5 — The Price of Peace — 3,500 words
+
+February to mid-1690. Sir John Child dies on 4 February while his removal remains one of the issues surrounding settlement. The chapter does not assert a theatrical mental collapse or a secret burial. His fear, illness, death and the uncertainty later surrounding his grave may be dramatised only within what the sources permit.
+
+Tanner witnesses Bombay’s surrender through the garrison: terms read aloud, apologies drafted, a large payment imposed, authority passing through envoys and returning representatives. He does not personally stand before Aurangzeb unless later evidence makes a plausible escort role available. The humiliation belongs to Company policy, not to Mughal ceremony.
+
+Trade resumes because the Mughal state permits it. Vane prepares a final account that turns defeat into “restoration.” Tanner leaves Bombay with the scaled boots, arrears still disputed, Hobbs and Miller absent, and enough knowledge to distrust any institution that describes survival as settlement.
+
+**Part I residue:** Tanner has learned that machinery, stores and men fail differently, but paper can make all three failures resemble success. The Company did not merely betray him; it taught him methods he will later use against Esther.
 
 ## Part II — The Price of a Man
 
-### Chapter 7 — The Paper on the Post — 2,450 words
+Part II carries the novel from the Bombay aftermath through Wapping and the Every dragnet. The first three chapters give Esther, Elias and Tanner enough shared history that Tanner’s later search of her house is a personal betrayal rather than a plot mechanism.
 
-The worldwide proclamation for Henry Every enters Wapping as rain-soaked paper, tavern speculation, and a reward large enough to deform ordinary relationships. The crimes aboard the *Ganj-i-Sawai* are not reduced to colour for a pirate adventure. What happened to the passengers, especially the women, remains the moral fact Esther cannot balance away.
+### Chapter 6 — Ten Pounds a Year — 2,400 words
 
-### Chapter 8 — Three Months in Advance — 2,400 words
+In 1690 Tanner returns to Wapping in scaled foreign boots. At the Prospect, a Company clerk reads a Bombay casualty and arrears list as though settling damaged cargo. Elias Finch asks after missing yard men; the clerk knows their numbers but not their names. Esther helps widows interpret stoppages while Tanner can identify injuries and last words without making the Company acknowledge them.
 
-Adams takes Esther's upstairs-back room and pays with strange gold. His competence is attractive because it is domestic: he repairs a stair, notices a failing latch, and washes his own cup. His danger is equally domestic: he sits where he can see both door and window and never sleeps through a cart stopping outside.
+Fever brings Tanner into Esther and Elias’s care. His memory of guarding Company stores from starving Company soldiers turns the domestic cup Esther gives him into both mercy and accusation.
 
-### Chapter 9 — The Wrong-Way Gold — 2,400 words
+### Chapter 7 — February’s Plank — 2,500 words
 
-Esther tries to change a Mughal coin. Three tradesmen refuse it; the fourth offers too little and asks too much. News arrives that Every's scattered men are being found through unfamiliar coin. Esther hides the remaining pieces but keeps one on her body, both insurance and accusation.
+Elias dies in a yard accident driven by haste around a Company sailing date. The exact failed lift, shore or suspended timber must pass a marine-engineering review before prose is locked. The Company denies direct liability because a contractor paid him.
 
-### Chapter 10 — The Court of the Bent Chair — 2,700 words
+Esther bargains for the return of his tools while his body remains in the house. She inventories rather than speeches, finds one tool missing and makes the clerk return for it.
 
-After the August proclamation, the lodging-house and Prospect regulars hold a drunken mock hearing after a frightened informer mistakes a harmless seaman for Every. Louie's habitual chair becomes the judge's seat and acquires its first cracked rung.
+### Chapter 8 — Fifth Soles — 1,800 words
 
-The humour comes from Wapping knowledge rather than modern jokes: contradictory harbour dues, false weights, rope sold twice, victuals charged to dead men, and witnesses who demand a mug before swearing. Adams is drawn into the performance and reveals that he knows what knot Every would permit aboard his ship. Esther hears the mistake. Tanner sees that she heard it.
+By 1695 Esther has converted rooms into a lodging business. Tanner’s strange boots have acquired English soles and a triangular heel repair. He sometimes supplies information to Company interests and calls it repayment rather than employment.
 
-Warmth is essential. These people are funny because they know one another's weaknesses, not because the novel pauses for comic relief.
+Esther sees what he has become. She still feeds him when he is ill and never lets him forget that he once guarded food from starving men.
 
-### Chapter 11 — What Was Not Printed — 2,350 words
+### Chapter 9 — The Paper on the Post — 2,100 words
 
-Esther tests Adams with three false versions of the attack during a card game. He corrects none of them, which confirms that he knows she heard him. Their mutual courtesy becomes more dangerous than confrontation.
+The worldwide proclamation for Henry Every enters Wapping as rain-soaked paper, tavern speculation and a reward large enough to deform ordinary relationships. The crimes aboard the Ganj-i-Sawai, especially against women passengers, remain the moral fact Esther cannot balance away.
 
-News of Kidd's commission reaches the room. Adams says that a king may sign a captain's paper but cannot tie his knots. The line does not duplicate Jonah’s warning, but rhymes with it.
+### Chapter 10 — Three Months in Advance — 2,000 words
 
-### Chapter 12 — The First Verdict — 2,350 words
+Adams takes Esther’s upstairs-back room and pays with strange gold. His competence is domestic: he repairs a stair, notices a failing latch and washes his own cup. His danger is equally domestic: he sits where he can see door and window and never sleeps through a cart stopping outside.
 
-Six of Every's men are acquitted of the attack on the Mughal ship. The Prospect erupts in argument: some call it honest justice; others call it proof that English juries value English sailors over Indian victims. Esther refuses both easy conclusions.
+### Chapter 11 — The Wrong-Way Gold — 1,900 words
 
-The Company question is immediate: its factories and employees remain exposed while the demanded punishment has not been supplied.
+Esther tries to change a Mughal coin. Tradesmen refuse it or offer too little and ask too much. News arrives that Every’s scattered men are being found through unfamiliar coin. Esther hides the remaining pieces but keeps one on her body, both insurance and accusation.
 
-### Chapter 13 — The Door Kept Shut — 2,700 words
+### Chapter 12 — The Court of the Bent Chair — 2,400 words
 
-Caleb Nix, an old caulker and friend of Elias, has been drinking and repeating a story that can lead searchers to Esther's house. On a freezing night he pounds at her door while constables work the lane. Esther keeps the bolt drawn.
+After the August proclamation, the lodging-house and Prospect regulars hold a drunken mock hearing after a frightened informer mistakes a harmless seaman for Every. Louie’s chair becomes the judge’s seat. Wapping knowledge supplies the humour: bad knots, contradictory dues, false identification, dead men’s charges and witnesses who demand a mug before swearing.
 
-Caleb is arrested elsewhere and dies of gaol fever weeks later. Esther saves Adams and every innocent lodger in the house, but her choice has a face. Nobody praises her. The following morning she scrubs Caleb's muddy handprint from the door and cannot remove it from the grain.
+Adams is drawn into the performance and reveals that he knows what knot Every would permit aboard his ship. Esther hears the mistake. Tanner sees that she heard it.
 
-This is the novel's "cut loose" scene. It does not use a substitute identity or a noble confession; it makes survival itself morally expensive.
+### Chapter 13 — What Was Not Printed — 1,900 words
 
-### Chapter 14 — The Trial Run Twice — 2,350 words
+Esther tests Adams with false versions of the Mughal-ship attack during a card game. He corrects none of them, confirming that he knows she heard him. News of Kidd’s commission reaches the room. Adams says a king may sign a captain’s paper but cannot tie his knots, rhyming with Jonah’s warning without duplicating it.
 
-The same six men are tried again on a different charge. The new verdict supplies the state with the answer the first jury refused. Tanner explains the procedure without claiming that procedure is justice.
+### Chapter 14 — Two Verdicts — 2,000 words
 
-Esther understands that if she sells Adams, she will sell him to an appetite, not an inquiry.
+Six of Every’s men are acquitted and then tried again on a different charge. Procedure supplies the state with the result the first jury refused. The Prospect argues over justice, English juries and Indian victims. Esther refuses both the easy defence of sailors and the easy pretence that the second proceeding is disinterested.
 
-### Chapter 15 — Six Coats — 2,250 words
+### Chapter 15 — The Door Kept Shut — 2,300 words
 
-After the executions, a slop-seller claims to possess clothing worn by the condemned and offers it back to Wapping at a profit. Whether any garment is genuine is part of the joke and the disgust. Esther identifies one coat as a fraud from its dry hem; Tanner spots a naval button sewn on that morning.
+Caleb Nix, an old caulker and friend of Elias, has repeated a story that may lead searchers to Esther’s house. While constables work the lane, he pounds at her door and she keeps the bolt drawn. He is arrested elsewhere and dies of gaol fever. Survival itself becomes morally expensive.
 
-The exchange becomes serious when a widow recognises her own repair on a sleeve. Esther bullies the seller into surrendering it without revealing that the woman is watching. Tanner's dragon boots remain beside the disputed heap: one strange garment whose history nobody can price.
+### Chapter 16 — Six Coats — 2,300 words
 
-The legal ownership and disposal of condemned prisoners' clothes requires verification before this chapter is drafted. The seller may be a fraud precisely to avoid making an unsupported institutional claim.
+A slop-seller claims to possess clothing worn by the condemned. Most of his stock is fraudulent until a widow recognises her own stitching. Esther secures the sleeve without exposing the woman. Tanner’s scaled boots stand beside the heap: another strange garment whose history nobody can price.
 
-### Chapter 16 — The Asking — 2,600 words
+### Chapter 17 — Five Hundred Pounds — 2,900 words
 
-A retained information-taker questions Esther while Tanner searches Adams's room. Esther identifies Tanner through the patched heel left in ash. She erases the mark and secures the coins.
+A retained information-taker occupies Esther while Tanner searches Adams’s room. Esther identifies Tanner through the triangular heel repair left in ash, erases the mark and secures the Mughal coins.
 
-The scene remains quiet. Its violence lies in two men assuming that her house can be opened, measured, and bought.
+She confronts Tanner without allowing either of them to erase Elias, Caleb or the fever room. Adams leaves without a clean confession. Esther refuses the reward but does not absolve him.
 
-### Chapter 17 — Five Hundred Pounds — 2,450 words
-
-Esther and Tanner confront one another without admitting the full truth. Tanner argues that the reward could free her from winter; Esther makes him name Caleb Nix. The debt from Tanner's fever room and Elias's kindness prevents either from dismissing the other.
-
-Adams leaves before spring. Esther refuses the reward but does not absolve him. She throws away the remaining gold because she will not keep the price after refusing the sale.
-
-**Part II residue:** Esther preserves a hunted man and loses a friend. Her moral victory is inseparable from guilt.
+**Part II residue:** Esther preserves a hunted man, loses a friend and discovers that care creates leverage as readily as loyalty. Her moral victory remains inseparable from guilt.
 
 ## Part III — The Commission
 
@@ -349,6 +353,9 @@ Rigging, pumps, hull movement, fastenings, tides, caulking, tools, and repair sh
 ## Historical guardrails already established
 
 - The Company's Anglo-Mughal war ended in defeat and a 1690 settlement involving apology, a large fine, and restored trade. The audience and prostration imagery must be attributed carefully rather than treated as something Tanner automatically witnessed.
+- Sidi Yakut Khan’s Bombay siege begins in 1689. Earlier Janjira-aligned movements may foreshadow it, but the 1686 creek chapter must not present the siege as already assembled.
+- Sir John Child dies at Bombay on 4 February 1690. A theatrical mental collapse, secret burial, or Tanner’s personal journey to Aurangzeb requires evidence and is not assumed.
+- The *Modena* was launched in 1685 and the documented western seizures involving the *Modena* and *Charles the Second* intensify in 1687.
 - The *Adventure Galley* was newly built for Kidd's venture; its later leaking and decay do not make it an old rotten ship supplied from the outset.
 - French passes associated with Kidd's prizes existed and were unavailable to him at trial. The surviving record supports absence or withholding; a particular East India Company thief at Saint Mary's remains fiction and should not be presented as settled fact.
 - Kidd's trial occurred on 8–9 May 1701 and his execution at Wapping on 23 May. The rope broke on the first attempt.
