@@ -65,6 +65,24 @@ Her father set his own hand down slowly on the child's shoulder instead, and lef
 
 On the second day at sea he found the white bowl, still wrapped, packed at the very bottom of his own bundle — packed the night before, so that nothing could happen to it before he had the chance to give it back.
 
+The passage took four months and eleven days, round the Cape, in a ship that carried tea one way and whatever would pay the other.
+
+Her father does not tell this part often, and when he does he tells it in about nine sentences, which Su has come to understand is not because there is nothing in it but because there is nothing in it that can be got at. Steerage in 1868 was a deck below a deck with a lamp at either end and no arrangement whatsoever for anybody's dignity, and one hundred and thirty-one days is a very long time to be in a place like that, and the specific character of the time does not survive being described; it only survives being got through.
+
+Nineteen of the people who went aboard at Hong Kong did not come off at London. Her father knows the number exactly and has never once, in Su's hearing, offered a single detail about a single one of them.
+
+What he does tell — every telling, without fail, the one piece of the four months he seems actually to want in the room — is that on the eighty-something-th day, off some coast nobody would name for him, the whole of the steerage deck spent an afternoon teaching one another to count to ten. There were four languages down there and no common one, and the counting was the only thing anybody could think of that could be got across without it, and it took the entire afternoon, and by the end of it a hundred and forty people could count to ten in four languages and could not, in any of them, have asked one another a single useful question.
+
+It was, her father says, the best afternoon of the voyage. He can still do all four. He has taught Su two of them and lost the third himself somewhere in the eighties and will not admit which.
+
+They came up the river on a February morning in weather he describes as a wet grey towel laid over the world, and the first thing Wei Zhang ever saw of England was the Isle of Dogs at low water, and the second thing was a customs officer, and the third was a boarding-house keeper on the Highway who took nine days' wages off him in advance for a bed he shared with two other men and considered himself, by the standards of that street in that decade, well used.
+
+He was at the Strangers' Home within the fortnight, and out of it inside a month with work, because a man who can splice, mend, price rope and read a hull is not unemployable in Wapping in any decade, and because — this is the part he says with the driest possible face — he arrived speaking no English whatsoever and therefore could not be argued with about wages.
+
+Sau-Ling came four years later, in 1872, and how the two of them found one another on that reach is a story with almost nothing in it: there were perhaps three hundred Chinese in the whole of London and they went to the same two streets, and somebody's cousin knew somebody, and that is the entire romance and both of them have always been perfectly content to leave it there. Su has asked twice. She got the cousin the first time and the two streets the second, and gave it up.
+
+What her mother will say, asked directly, is that she married a man who kept a bowl on a shelf, and that she knew what it was on the shelf for inside a week of meeting him, and that a woman who has crossed that particular ocean herself does not need any further character reference than that.
+
 It stands in the shop to this day, on the high shelf above the counter, wrapped still in its own cloth: never used, never sold, dusted by nobody's hand but his. Once, when Su was eight or nine, she asked him why he did not simply send it home — there were ships for Hong Kong every week from the very dock at the end of their own street, it would have cost him almost nothing, and the woman, if she still lived, would have her bowl. Her father gave the question the same weight he gives a column of figures that will not close.
 
 Because she asked me to bring it, he said. Not to send it.
@@ -81,9 +99,11 @@ She thinks of the boy on the pier more than she says. Thirteen, fourteen, a ledg
 
 Su is fourteen the first time she uses the art in earnest, and she remembers it now, this September, the way you remember a tool you have not needed in years and hope you will not need again — not with fear, exactly, but with the specific attentiveness of someone checking a blade is still where they left it.
 
+The week it happened she carried the Tuesday baskets as she carried them every Tuesday, up the Causeway and down Narrow Street and back, and could not afterward have told anybody whether they had been heavy. They had been heavy. They were heavy every Tuesday. It is simply that a fourteen-year-old who has stood in a cold yard every dawn since she was seven has no way of knowing what a basket is supposed to feel like to somebody who has not, and no reason on earth to wonder.
+
 It happens on an ordinary delivery, in broad afternoon, on a lane behind the Causeway that three dock boys have apparently decided is theirs in some way that has never once been written down anywhere but in their own heads. She has passed them before without trouble; boys of that age take an interest in a Chinese girl carrying a basket the way they take an interest in anything new enough to be worth the bother, which is to say briefly and without much conviction. This particular afternoon the interest does not stay brief. One of them steps into her path outright. Another reaches for the basket, not to steal it, she understands even at the time, but simply to see what she will do about the taking, which is its own kind of theft, the theft of a person's ordinary right to walk down a lane without being made into an experiment.
 
-She does not remember deciding anything. That is the part that has stayed with her longest, turning it over across five years: there was no moment in which fourteen-year-old Su weighed her options and chose the smallest of them. Her body had already made the choice her father spent seven years training into it, the way the horse stance makes itself without instruction once the legs have held it long enough — and by the time her conscious mind caught up with what had happened, one boy was on the ground holding his own wrist the way you hold a thing that has just told you something true and unwelcome about itself, and the second could not, in point of fact, stand up, and the third had discovered that running fast enough to escape a girl he had, thirty seconds before, considered easy sport, was rather harder than he had imagined it would be.
+She does not remember deciding anything. That is the part that has stayed with her longest, turning it over across five years: there was no moment in which fourteen-year-old Su weighed her options and chose the smallest of them. Her body had already made the choice her father spent seven years training into it, the way the horse stance makes itself without instruction once the legs have held it long enough — the way, on any ordinary morning of any ordinary week, her hands find the wringer's rhythm over a sodden sheet before her mind has finished deciding which sheet it is, and take the whole weight of it out over the rollers with a roll that starts somewhere below her waist and arrives at her wrists as an afterthought, which is not a thing Su has ever once considered worth thinking about and which is exactly the same thing — and by the time her conscious mind caught up with what had happened, one boy was on the ground holding his own wrist the way you hold a thing that has just told you something true and unwelcome about itself, and the second could not, in point of fact, stand up, and the third had discovered that running fast enough to escape a girl he had, thirty seconds before, considered easy sport, was rather harder than he had imagined it would be.
 
 She does not talk about it afterward. Not to her mother, not at first to her father either, though he knows within the hour — the Causeway tells him before she has finished the delivery, the way the Causeway tells everyone everything — and that evening in the yard he does not ask her what happened. He asks her to recite the rules.
 
@@ -96,6 +116,48 @@ Then he corrects her stance for half an hour in the cold, as though the whole in
 The second time is worse, and she is seventeen, and it happens in the shop itself, after closing, when a man who has been drinking somewhere else first will not leave when she tells him the counter is shut, and puts his hand somewhere it has no business being, with the particular confidence of a man who has never once in his life been made to answer for a hand.
 
 He leaves bent over his own wrist, walking on his toes, making a sound like a hinge in want of oil.
+It is worse for three reasons, and Su has had two years to get them into order.
+
+It is worse because it is indoors, and because indoors there is no lane to be walked away down and no third boy to run; there is a counter, and a door he is standing between her and, and eleven feet of shop.
+
+It is worse because he is not fourteen. He is a grown man of perhaps thirty-five off a ship that paid off that afternoon, and Su at seventeen weighs seven stone four, and every single thing about the encounter is decided in the first second and a half by the fact that she has stood in a cold yard every dawn for ten years and he has not.
+
+And it is worse because of what happens in her, which is the part she has never told anybody and never will.
+
+The hand arrives. Her own hand is already on his wrist — she does not remember reaching; the reaching is simply finished — with her thumb across the back of it and her fingers finding the two small bones the way they have found them ten thousand times on a fan in a cold yard, and her feet have arranged themselves without instruction into the shape that lets a small person turn a large one, and the whole of it, from the hand arriving to the man discovering what has happened to him, occupies rather less than a second.
+
+And in that second, holding a wrist she can do anything at all to, Su Zhang is aware — clearly, unmistakably, for the first time in her life — that she would like to.
+
+Not that she needs to. Not that the situation requires it. That she would *like* to, that there is something at the bottom of her that has been waiting a considerable time for exactly this, an appetite with no interest whatsoever in counters or doors or ships that paid off that afternoon.
+
+She takes him to the door instead, at the speed the wrist chooses, and puts him out into the lane, and bolts it.
+
+Her mother comes down four minutes later, having heard the bolt go over at the wrong hour, and finds her daughter standing in the middle of the shop with both hands flat on the counter and her breathing all wrong.
+
+Sau-Ling looks at her.
+
+Then she goes round the counter and puts the kettle over, and asks no question of any kind, and stands at the range with her back to the room for as long as it takes, which is about six minutes, and when she finally speaks it is to say that the tea is wet and that the man's ticket is still in the rack and will want cancelling in the morning.
+
+That is all she ever says about it. Su has thought, since, that her mother knew precisely what had happened in that second and a half, having been eighteen once herself in a country that also had ports in it, and elected, deliberately, over a kettle, not to make her daughter say it out loud.
+
+There is a third time that is not a time at all, and Su counts it anyway, and privately counts it the largest of the three.
+
+She is nineteen, and it is the June before this September, and there are four men outside the mission church after the Sunday service who have been drinking since Saturday and who have opinions, delivered at volume, about the Chinese generally and about the Zhangs of the chandlery specifically, and about what the parish is coming to.
+
+Her father is beside her. Her father is fifty-eight years old that summer and his knees have begun to argue with the damp and he is carrying a hymn book.
+
+Su has already, before the second man has finished his sentence, put her weight onto the balls of her feet and moved half a pace out from her father's left shoulder into the one position on that whole pavement from which she can reach all four of them and none of them can reach him first. She does this the way she folds a shirt. She is not aware of having done it.
+
+And then she stands there, and does nothing at all, for eleven minutes, while it goes on.
+
+They walk home. Her father says nothing until the corner of the lane, and then he says: your feet were right.
+
+Su says nothing.
+
+You did not use them, he says. That is the whole of the practice. The rest is only exercise.
+
+And Su, nineteen years old, walking home from church beside a man carrying a hymn book, discovers that she is angrier about the eleven minutes than she has ever been about either of the afternoons she actually did something — and that her father, who has just paid her the only compliment of that entire year, has no idea, and must never have any idea, how badly she wanted the four men to take one step closer.
+
 
 Her father's response, when it reaches him, is exactly the same as before, word for word close enough that Su could recite his half of it before he opens his mouth: recite the rules, both languages, again, and then half an hour in the cold correcting a stance that did not, in point of fact, need correcting. She understands the repetition now for what it is — not a failure of imagination on her father's part, but a discipline held so exactly that it does not bend even for the specific circumstance, because a rule that flexes for circumstances is a rule that has already started dying, one exception at a time, the way the Company's own rules, her father says once, seemingly apropos of nothing and entirely apropos of everything, died a clause at a time until nobody left alive could remember which version had ever been the honest one.
 
