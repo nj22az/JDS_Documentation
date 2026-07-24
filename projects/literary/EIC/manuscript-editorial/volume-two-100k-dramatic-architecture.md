@@ -134,7 +134,7 @@ No imperial-court scene is narrated. Weldon and Navarro pass beyond Tanner’s v
 
 Trade resumes because the Mughal state permits it. Vane prepares a final account that turns defeat into “restoration.” Tanner leaves with the scaled boots, disputed arrears, Hobbs’s quadrant and Miguel’s unsealed human list. Anders Blom, a Göteborg-born carpenter’s mate shaped by Dutch and English service, helps carry the chest home. The chapter ends inside the Pelican, where Esther receives the quadrant and the names before the Company settles Tanner’s wages.
 
-**Current working draft:** 3,926 words. Chapters 1–5 now form a continuous Part I draft of approximately 20,134 words.
+**Current working draft:** 3,930 words. Chapters 1–5 now form a continuous Part I draft of 20,138 words.
 
 **Part I residue:** Tanner has learned that machinery, stores and men fail differently, but paper can make all three failures resemble success. Bombay returns physically to the Pelican through Tanner, the scaled boots, Hobbs’s quadrant, the sealed return and Miguel’s names. The Company did not merely betray him; it taught him methods he will later use against Esther.
 
