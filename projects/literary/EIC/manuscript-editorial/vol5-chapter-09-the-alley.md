@@ -16,6 +16,20 @@
 
 ## I. The Rehearsed Quiet
 
+The fog that comes down on the reach that night is the kind the river makes rather than the kind the weather brings, and everybody on the Causeway can tell the difference by the smell of it before they have got the door shut behind them.
+
+It comes up off the water at about four in the afternoon, thin, and by six it is a wall. By eight there is no far side to any street. The lamps do not light the fog; they sit in it, one at a time, each with a small yellow room of its own about nine feet across, and between the rooms there is nothing at all, and a person walking that reach at nine at night crosses the gaps by memory and by the feel of the kerb under one boot.
+
+Su has walked this ground her whole life. She could do it blind and has, more or less, a dozen times in a dozen winters.
+
+The delivery is legitimate. She has thought about this for sixty years and it remains true and it remains, somehow, no comfort whatever: there was a parcel, it was owed, it was owed that night to a house on the far side of the sufferance wharf, and the shop's word is the shop's word in fog as in fine weather. Her mother would have gone if she had not. Her mother is fifty-one and has a hip.
+
+She takes the shortcut. Everybody takes the shortcut; it is a shortcut precisely because two hundred people a day have decided the lane behind the wharf is a lane and not a risk.
+
+What she is thinking about, walking it, is nothing at all to do with any of this. She is thinking about the copper, and about whether the fog will get into the drying loft and put the whole Thursday back a day, and about a torn seam in her mother's mending basket that she has been meaning to get to for a week.
+
+That is the part that has never once stopped being strange to her. Not the fog and not the lane and not what is standing in it. That in the last four minutes of the ordinary world she was thinking about a drying loft.
+
 The banked heat under her ribs has not gone out once since the thirtieth of September, and it is still sitting there, patient, coal-warm, low, when Su rounds the warehouse buttress behind the sufferance wharf and the fog thins for a moment, the way it does, unpredictably, in the lee of a wall large enough to hold a still pocket of air against the river breeze.
 
 That is when she hears it. Not a shout — there is never a shout, she will understand later; a man this practised works inside a quiet he has rehearsed. A scuffle. Cloth dragging on wet brick. The particular hush of something being done to someone that both of them have agreed, for opposite reasons, to keep quiet about.
@@ -67,3 +81,15 @@ He meets nothing but fog. His own momentum, on stone slick with the river's brea
 Down the lane there is only dark where the woman went. Su never learns her name, never sees her face in daylight, and no account of that night ever finds its way into any paper she will read. A woman with her life just handed back to her does not carry the story to a police station that has spent the autumn arresting foreigners for their faces; whatever she told whoever held her when the shaking stopped, the autumn swallowed it with everything else it swallowed.
 
 Su goes to the edge of the wharf and looks down, breathing hard, tasting the fog and, under it now, her own blood where her teeth found her lip and she never felt it. There is only moving dark and the fog lying on it and nothing reaching back up; the fast water has already closed over the place. Then, and not before — before would have got her killed — she starts to shake. His grip is stamped into her collarbone in bruises that will take three weeks to fade, and she will wear high collars every one of those days, and her mother will notice, and say nothing, because Sau-Ling Zhang keeps her own ledgers and knows an entry that isn't hers to read. She stands in the fog until the shaking is a thing she is doing and not a thing being done to her. Then she gathers the spilled linen back into the basket by feel, the cold mud on every piece of it, because it is hers, and because there is one thing left in this lane she has not yet done.
+
+She stands there a long time. She could not afterward say how long and has always suspected it was under two minutes, because everything that night was under two minutes and her sense of it has never once agreed with the arithmetic.
+
+The fog does what fog does, which is nothing. The river does what the river does. Somewhere off toward the Pool a ship's bell goes twice, and a dog starts up behind a fence and is told to shut up by somebody who has heard nothing whatever out of the ordinary this evening and is only annoyed about the dog.
+
+Her lip has begun to hurt. Her left shoulder is going to be a serious matter by morning. She is aware, in the abstract, distantly, the way you are aware of weather in another county, that she is shaking.
+
+She listens for the woman down the lane and there is nothing. She listens for footsteps behind her, from the direction of the street, somebody drawn by the basket going over on the cobbles, and there is nothing there either, and this is the moment — standing at the edge of a wharf in a fog with nobody in the world within a hundred yards of her — at which Su Zhang understands that whatever the next part of her life is going to be, she is going to be doing it alone.
+
+Then she turns round and goes back for the basket, because it is the shop's basket, and because eleven of the parcels in it are clean and paid for and belong to people who will want them in the morning.
+
+That is when she sees the case.

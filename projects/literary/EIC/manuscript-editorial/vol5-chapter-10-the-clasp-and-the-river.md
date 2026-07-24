@@ -24,9 +24,51 @@ Not because she is afraid of the answer — she tells herself this on her knees 
 
 Of the two questions the lane has left her with, only one has weight, and it is not the one the world would suppose. Why is weightless. He was killing a woman when she reached him — whatever else he was or wasn't, whatever the case does or doesn't hold, that much happened in front of her, under his hands, in that practised quiet. The practice exists for that moment and no other: a fight already started, ended in the smallest number of moves that will end it. People who were not in the lane will always have gentler moves available to them; she had a grip on her collar that was winning. If she had been slower, the woman was dead. If she had been softer, she was. Why will never once keep her awake. What she can never know — the five, the autumn, the name the papers spent a winter selling — that is the question with the weight, and she chose to carry it here, on her knees in the mud, with her hand coming off the clasp.
 
+She carries it home under her shawl with the basket on her other hip, and this is, on any honest reckoning, the most dangerous twenty minutes of her entire life, and she is too tired to be frightened by it.
+
+If anybody stops her — a constable, a watch committee, one of the eleven men in Wapping who are out at this hour for reasons of their own — she is a Chinese laundry girl in a fog at half past nine with mud to her elbow and a gentleman's leather case under her arm, and there is no sentence available to her in either of her languages that would survive the next four minutes.
+
+Nobody stops her. That is all. There is no cleverness in it and she has never once permitted herself to remember it as cleverness: the fog was thick, the reach was indoors, and a girl walked home.
+
+She goes in through the yard and not the shop.
+
+The chain is in the third bin under the bench where it has been since she was six, cut lengths of light stud-link her father sells by the fathom to lightermen who have lost theirs, and Su takes about nine feet of it in the dark without a lamp because she has known where that bin is for thirteen years and could find it in her sleep.
+
+Her hands do the wrapping. It is not fast and it is not dramatic; it is a person kneeling on cold stone in the dark passing a chain twice round a leather case and turning the free end back through itself into a hitch that will hold — the same hitch she puts in the twine on a Thursday parcel, made the same way, in the same order, with the same small tug at the finish to set it. Her arms are shaking by then and the hitch is not. There is nothing anywhere in her that registers this as remarkable, or as connected to anything, or as anything at all beyond a job of tying done in poor conditions by somebody who is very tired.
+
+She takes it down to the stairs at the bottom of the lane at about half past four, on the last of the ebb, when the water below the causeway steps is deep and going out and there is not a soul on the whole reach but the tide.
+
 The case goes into the Thames after him, before first light, unopened, weighted with chain from her father's shop, the links still greasy on her palms as the water takes it — the one thing in the world that could have answered the question, wrapped and given to the only language the river speaks, which has no word for yes and no word for no.
 
 There is a second disposal that night, and Su has no hand in it. She comes in through the back before first light with the river and the fight both on her: mud to the elbow, the fog still in her hair, and the doctor's blood, from a wrist that broke like green wood, dried stiff into her sleeve. She means to see to it herself, quietly, as she has meant to carry all of it, and finds she does not have to. Her mother is already up, already at the copper, the fire already drawn, the steam already rolling white off the water and smelling of lye. Sau-Ling Zhang takes the bundle out of her daughter's arms without meeting her eyes and without one word, the way she has taken ten thousand ruined things off ten thousand strangers, and does to it what a laundress of thirty years' standing knows how to do to cloth that must not be permitted to keep a history: she boils it past testimony. Blood is only one more stain to a woman who has lifted out every kind there is. By the time the shop opens the sleeve is drying on the line, clean, ordinary, one shirt among the morning's whites, and nothing has been said, and nothing across all the years to come ever will be. And Su understands, watching it steam, that her mother has kept a ledger of her own the whole time, in a hand Su was never taught to read, and has just entered in it, without a syllable, the largest sum of either of their lives — and left the column open, at a loss, on purpose, forever, because that is the only kind of book Sau-Ling Zhang has ever believed a God worth having would keep.
+
+There is a third disposal, and it is her own body, and it takes rather longer than the other two.
+
+Her left shoulder is the serious one. She cannot raise that arm above shoulder height for nine days and cannot do it without paying for it for a month, and she works the counter and the copper the whole of that time, and the way she manages it is by simply rearranging every motion in the shop so that the left arm is never asked. She changes which hand takes the ticket. She changes which side she stands at the mangle. She moves the flat irons to a lower shelf, at night, so that reaching them in the morning is a different reach.
+
+Her mother watches her do all of this over nine days and says one thing about it, on the fourth morning, which is: use the stool.
+
+Su uses the stool.
+
+There are the bruises at the collarbone, four of them, in the unmistakable arrangement of a man's fingers, and those she manages with a collar buttoned higher than she has ever buttoned a collar in her life, in November, in a shop full of steam, and nobody remarks on it because nobody in the history of that street has ever once looked closely at what a laundress is wearing.
+
+And there is her lip, which is the only injury anybody sees, and which she explains, on the Tuesday, to three separate customers, with the flat unbothered honesty of someone who has thought about it: she caught it on the corner of a shelf in the dark.
+
+She has never been able to decide, since, whether that was a lie. She did catch it in the dark. There was no shelf.
+
+Then there is the waiting, and the waiting is eleven days long, and the waiting is worse than any of it.
+
+She does not know how the river gives back its dead. Nobody does, exactly. She knows that some come up at Wapping inside a week and some at Greenwich a month on and some never, and that a body found is a body inspected, and that a man of sixty-odd with a broken wrist and marks on him is a different sort of item on a coroner's table from a man of sixty-odd who simply went into the water. Her father set that wrist's opposite number a hundred times. She knows exactly what a surgeon would be looking at.
+
+So for eleven days Su Zhang opens a shop at six every morning, and stands the form in the yard beside her father at half past four, and settles the chit at the Prospect on the Friday, and waits for a knock that does not come.
+
+The housekeeper reports him missing on the Wednesday. Su hears it at the counter on the Thursday, from a woman collecting a Thursday parcel, in the middle of a completely different conversation, in the tone of ordinary neighbourhood news: that the doctor has gone off somewhere and Mrs. Bell is in a state about it.
+
+Su says: gone off where?
+
+And the woman says that nobody knows and that Mrs. Bell says he took nothing with him, not so much as a bag, and that the constable was very kind and said gentlemen do wander off, and that he has likely gone to the country, and that it is all very odd, and here is her ticket, and is it the Tuesday or the Wednesday for the sheets.
+
+Wednesday, Su says.
 
 ## II. No Sixth
 
