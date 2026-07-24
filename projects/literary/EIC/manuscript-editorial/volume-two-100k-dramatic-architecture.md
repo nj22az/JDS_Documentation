@@ -192,7 +192,7 @@ Six of Every’s men are acquitted and then tried again on a different charge. P
 
 ### Chapter 15 — The Door Kept Shut — 2,300-word allocation; 4,911-word working draft
 
-Caleb Nix, an old caulker and friend of Elias, has repeated a story that may lead searchers to the Pelican. After late service Esther is taking a rare private bath in a coopered tub beside the wash copper. A hooded lantern crosses the ceiling; through the low river grating she sees iron and a boot placed without ordinary watermen’s noise. Constables and hired watermen are closing the street door and river stairs while a retained Company information-taker identifies the house.
+Caleb Nix, an old caulker and friend of Elias, has repeated a story that may lead searchers to the Pelican. After late service Esther is taking a rare private bath in a coopered tub beside the wash copper. A hooded lantern crosses the ceiling; through the low river grating she sees iron and a boot placed without ordinary watermen’s noise. Constables and hired watermen are closing the street door and river stairs while Jonas Cresswell, a Company-retained information-taker, identifies the house.
 
 Her shift is six paces away and Adams is two flights above. Esther spends the available seconds on the warning and runs completely naked up the service stair. This is the direct Oryō-function echo selected by the author, but the prose makes it physical urgency rather than erotic display: Adams looks immediately to Esther’s face, her authority governs the response, and Anders covers her only after the warning has succeeded.
 
@@ -210,7 +210,7 @@ A slop-seller claims to possess clothing worn by the condemned. Most of his stoc
 
 ### Chapter 17 — Five Hundred Pounds — 2,900 words
 
-After the night raid, the retained information-taker returns on the pretext of completing the inventory while Tanner makes a quieter, targeted search of Adams’s emptied room for remaining coin, paper and evidence of the escape route. Esther identifies Tanner through the triangular heel repair left in ash, erases the mark and secures the remaining Mughal coins.
+After the night raid, Cresswell returns on the pretext of completing the inventory while Tanner makes a quieter, targeted search of Adams’s emptied room for remaining coin, paper and evidence of the escape route. Esther identifies Tanner through the triangular heel repair left in ash, erases the mark and secures the remaining Mughal coins.
 
 She confronts Tanner without allowing either of them to erase Elias, Caleb or the fever room. Adams has already left without a clean confession. Esther refuses the reward but does not absolve him.
 
@@ -392,6 +392,7 @@ The Pelican receives consequences rather than summaries. A voyage must return a 
 - The Pelican raid must use period constables, deputies, hired searchers or watermen as the evidence supports. It must not use the anachronistic institutional term *police*.
 - Esther’s bath is rare and labour-intensive: a coopered tub, working wash copper, carried water and fuel after closing. Her naked run is a deliberate Oryō-function echo and must remain urgent, non-erotic and governed by Esther’s authority in every revision.
 - Adams uses two single-shot period pistols. Only one is discharged in the house; no revolver rhythm or repeated firing enters the scene.
+- Silas Rook—also called Rock—remains exclusive to Volume One. The 1696 information-taker is Jonas Cresswell; no familial, symbolic or reincarnation connection is intended.
 - Anders’s Swedish maritime service is grounded in the international seventeenth-century labour market: Scandinavian seamen, including Swedes, served aboard Dutch vessels and moved between maritime employers.
 
 Research anchors:
