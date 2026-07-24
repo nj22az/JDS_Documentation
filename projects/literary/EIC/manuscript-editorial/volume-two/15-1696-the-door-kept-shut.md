@@ -454,7 +454,7 @@ Mrs Finch.
 
 You have the advantage.
 
-Jonas Rook.
+Jonas Cresswell.
 
 Company?
 
@@ -468,7 +468,7 @@ Search the roof.
 
 Two men pull the press away. The hatch lifts. Rain falls through upon the folded sheets.
 
-Rook looks at Esther again.
+Cresswell looks at Esther again.
 
 You warned him.
 
@@ -480,17 +480,17 @@ Esther looks down at Anders's shirt as if only now considering it.
 
 You were moving very quickly.
 
-One of the constables laughs and turns it into a cough when Rook glances at him.
+One of the constables laughs and turns it into a cough when Cresswell glances at him.
 
 From the roof comes a shout.
 
 Blood here!
 
-Rook steps beneath the hatch.
+Cresswell steps beneath the hatch.
 
 Another voice farther away calls that the timber loft is open. Boots cross the tiles. A slate breaks and tumbles into the yard.
 
-Rook's attention sharpens. He points two men after the sound and sends another back to the river stairs.
+Cresswell's attention sharpens. He points two men after the sound and sends another back to the river stairs.
 
 Downriver, he says. Do not let the tide carry him past Blackwall.
 
@@ -656,7 +656,7 @@ Anywhere the paper arrives after I do.
 
 By dawn the Pelican has been searched three times.
 
-The constables open mattresses, empty sea-chests and thrust iron rods into the ashes. They pull boards from Adams's room and find a silver coin beneath one, broad and unfamiliar, with Persian letters across its face. Rook wraps it in cloth without touching it directly, as if piracy might pass through the skin.
+The constables open mattresses, empty sea-chests and thrust iron rods into the ashes. They pull boards from Adams's room and find a silver coin beneath one, broad and unfamiliar, with Persian letters across its face. Cresswell wraps it in cloth without touching it directly, as if piracy might pass through the skin.
 
 They find the spent pistol wadding at the stair and blood upon the roof light. They find Adams's boots beneath his bed.
 
@@ -666,7 +666,7 @@ Caleb sits tied to a post in the public room while the search continues. His nos
 
 There is nothing he can say that will make the door open sooner.
 
-At five, Rook comes down from the upper floor with rain on his coat and lime dust upon one sleeve.
+At five, Cresswell comes down from the upper floor with rain on his coat and lime dust upon one sleeve.
 
 He lays a folded paper on the bar.
 
@@ -690,7 +690,7 @@ The justice who issued the warrant.
 
 And if he dislikes the price?
 
-Rook puts on his gloves.
+Cresswell puts on his gloves.
 
 Then the King's peace has been expensive to you.
 
@@ -708,7 +708,7 @@ At the wrong moment.
 
 There it is, Esther says. The whole English law in four words.
 
-Rook studies her. In daylight he looks tired rather than sinister, which she finds worse. A cruel man may be opposed. A tired man finishing necessary work will carry anyone to prison and sleep afterwards.
+Cresswell studies her. In daylight he looks tired rather than sinister, which she finds worse. A cruel man may be opposed. A tired man finishing necessary work will carry anyone to prison and sleep afterwards.
 
 You could have opened the door, he says.
 
@@ -732,9 +732,9 @@ Five hundred pounds might have purchased a better answer.
 
 Five hundred pounds has purchased every bad answer in Wapping.
 
-Rook's eyes move towards the stair where the wet marks of Esther's feet have dried into pale soap-edged prints. They begin at the washhouse passage and climb without pause.
+Cresswell's eyes move towards the stair where the wet marks of Esther's feet have dried into pale soap-edged prints. They begin at the washhouse passage and climb without pause.
 
-You knew what he was, Rook says.
+You knew what he was, Cresswell says.
 
 Esther looks at Caleb.
 
@@ -742,7 +742,7 @@ He sits with rope biting both wrists because she kept the door shut.
 
 I knew what you were, she says.
 
-Rook takes Caleb by the arm. The constables form around them and lead him through the broken entrance into the colourless morning.
+Cresswell takes Caleb by the arm. The constables form around them and lead him through the broken entrance into the colourless morning.
 
 Caleb looks back once.
 
