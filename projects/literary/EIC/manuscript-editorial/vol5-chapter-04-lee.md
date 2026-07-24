@@ -88,6 +88,18 @@ She put the pages back. The housekeeper came with the linen. Su walked home.
 
 She has never once decided what the tick proves, and has come to suspect, in old age, that it proves precisely what it appears to prove, which is that the account was closed — and that the entire difficulty of her life with that man is contained in the fact that it was, and that it was closed correctly, and that a boy was dead and a book was in order and there is no line anywhere in the world's arrangements at which those two sentences are obliged to meet.
 
+The English name goes on the stone and the Cantonese one does not, and Su has never been able to establish whether that was a decision or an oversight.
+
+She has thought about it more than she has thought about almost any other detail of that January. The mason cut what he was given and what he was given was the name in the register, which was the name the parish had, which was the name a seven-year-old boy answered to at school and nowhere else — and the name he answered to in that yard at half past four every morning of the one year he had, in the language his grandfather taught in, is on nothing anywhere in England and never was.
+
+She asked her mother about it once, at about seventeen.
+
+Her mother said: he knows which one he is.
+
+Which is either a statement about a boy or a statement about a God and Su has never been sure which, and suspects her mother did not much distinguish, and has never asked her father at all, because there is a version of that conversation in which she finds out that it was an oversight, and she has decided she would rather not have it.
+
+What she does instead — starting at about nineteen and continuing for seventy years, without ever having decided to start and without a single other person on earth knowing about it — is say the other name out loud, once, in the yard, in Cantonese, on the morning of the anniversary, at the end of the long breath, when there is nobody in the world awake to hear it.
+
 ## II. What Neither Fact Would Cancel
 
 It was not murder. Su has turned this over more times than she could count and always arrives at the same honest place: it was not murder, and it was not even neglect as the parish would reckon neglect, because a doctor did come, and the fee was the fee charged to any house on that street, and the word in the register was the true word. What it was, was smaller than a crime and colder for being smaller: a man deciding, somewhere behind his own eyes, at his own street door, through his own housekeeper, what a chandler's boy off the Causeway was worth getting cold for on a bad night. That decision cost nothing in the ledger any court could read. It cost everything in the one Su's mother keeps.

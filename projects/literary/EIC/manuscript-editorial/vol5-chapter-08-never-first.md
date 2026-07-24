@@ -102,6 +102,14 @@ That is the whole reason. Su, at nineteen, in November, with a thing in her that
 
 Flo, for her part, knew there was something and let it alone. Su is certain of that. She was at that bar every Friday for the next forty years and Flo never once asked, and Flo was not a woman who failed to notice things, and there is only one construction to put on twenty years of a person not asking you a question they plainly have.
 
+There is a fortnight in there when she stops sleeping properly and her mother notices inside four days.
+
+Sau-Ling's response is not to ask. It is to reorganise the shop. Su comes down one morning to find that the sorting has been done, which is not her mother's job and has not been her mother's job since 1886, and that this is now simply how it is going to be for a while, and that no explanation is going to be offered or requested.
+
+It goes on for eleven days. On the twelfth, the sorting is back where it belongs and nothing is ever said.
+
+That is the entire conversation Su has with either of her parents about the state she is in that November, and it consists of a woman of fifty-one doing three-quarters of an hour of somebody else's work at half past five in the morning for eleven days running, and Su has never in her life received anything she valued more.
+
 ## III. Never First
 
 She does not let herself decide he is the author of all five. That would be the newspapers' arithmetic, and she has no way of doing it honestly, and she knows the plain difference between what a person can count and what a person only wants very badly to count — her whole life has been kept in ledgers that had to balance to the farthing or not balance at all, and she will not now let this one close on a want dressed up as a sum.

@@ -113,3 +113,16 @@ She listens for the woman down the lane and there is nothing. She listens for fo
 Then she turns round and goes back for the basket, because it is the shop's basket, and because eleven of the parcels in it are clean and paid for and belong to people who will want them in the morning.
 
 That is when she sees the case.
+
+There is one detail from that lane Su has never been able to place and has stopped trying.
+
+At some point — she cannot say where in the nine pictures it belongs, and it does not belong to any of them, and it is the only thing she has from that night that is not a picture — somebody said her name.
+
+Not *girl*, and not any of the words a man in that position might be expected to reach for. Her name, the English one, the one on the register and the mission-school roll, spoken in an ordinary voice, at conversational volume, the way it has been spoken across that bar a hundred times on a Friday evening while she was settling a chit.
+
+It may have been him. It may have been the woman, who had no possible way of knowing it. It may have been nobody at all; she was nineteen, in a fog, and had just done the thing she had spent thirteen years being trained for and told not to want, and a mind under that load is not a reliable clerk.
+
+She has decided, on the whole, across sixty years, that it was him, and that it was said in the two seconds before he came at her the third time, and that it was not a plea and not a threat.
+
+She thinks he was checking.
+

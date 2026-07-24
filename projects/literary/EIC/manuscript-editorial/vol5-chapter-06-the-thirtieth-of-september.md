@@ -226,3 +226,19 @@ She recites them.
 
 Again, he says.
 
+There is one more exchange in that yard and it is the one Su has quoted, across the following sixty years, more often than anything else her father ever said to her — though never to more than two people at a time and never with any explanation of why she was quoting it.
+
+She had asked him, at the end of the morning, whether the practice was for this.
+
+He said no.
+
+She asked him what it was for, then, if not for this.
+
+And her father, fifty-eight years old, in a cold yard, with a daughter in front of him carrying a fire he could feel through her wrists and had said nothing about, gave her the sentence.
+
+It stops things, he said. It does not avenge them. Those are different trades and only one of them is ours.
+
+Then he said: again.
+
+And they went again, and the sky over the wall came up grey, and the counter opened at six.
+

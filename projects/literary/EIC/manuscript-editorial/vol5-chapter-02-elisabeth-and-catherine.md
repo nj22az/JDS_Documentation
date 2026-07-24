@@ -139,6 +139,26 @@ You too, Su says.
 
 And she means it the ordinary amount — the amount you mean it when the world still seems wide enough for everyone in it to be careful in, when careful is a thing a person can simply choose to be, when the dark outside the shop is only the dark, and belongs to everybody equally, and is not yet reaching, on the far side of a wall Su cannot see, for the two women she likes best of all the ones who come across her counter.
 
+The quarter of an hour has one more thing in it that Su has never told anybody, and it is the reason she has been able to keep the whole of it as clearly as she has.
+
+After Elisabeth said the thing about grief having a floor and walls, and after Su gave her back the Cantonese for the practice across the steam, there was a pause of some length in which neither of them said anything at all and neither of them left.
+
+And then Elisabeth said: what is your word for this.
+
+For what.
+
+For this, Elisabeth said, and moved one hand slightly to indicate the counter, the steam, the two of them, the quarter of an hour.
+
+And Su, who has a word in each of her languages for almost everything and has spent her whole life discovering which things do not cross, stood there with the iron going cold in her hand and found that she did not have one. Not in English, where the available words were all either too small or belonged to something else. Not in Cantonese either, where there is a perfectly good word for the thing between people who have known each other since childhood and another for the thing between people who work together and nothing whatever for two women who meet on Mondays over a counter and are the only person the other one has.
+
+I do not know, Su said.
+
+No, said Elisabeth. Nor do I. In either.
+
+And they both laughed — which is a thing Su had not expected and has never been able to describe, and which is, she has come to think in old age, the actual reason the quarter of an hour has lasted her sixty years: not the being understood, which was the largest part of it at the time, but that at the end of it the two of them stood in a laundry and laughed about the fact that there was no word anywhere in three languages for what they had just done.
+
+She has looked, since. She has had sixty years and two languages and a certain amount of stubbornness, and she has never found one.
+
 ## II. Catherine
 
 Catherine comes whenever there is mending, which is always, because Catherine's whole wardrobe is a running argument with time that time is winning.

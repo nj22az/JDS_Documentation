@@ -185,3 +185,12 @@ Only afterward, wringing an unrelated sheet in the yard with considerably more f
 He is watching her now. That is the shirt's plain meaning, whatever else it does or does not say, and it cuts in both directions at once, the way the truest things always do in this particular story: because a man who needs to know what a laundry girl's face does over his own linen is a man who has begun to wonder what a laundry girl saw. And a man who wonders that has, by wondering it, told her the one thing his fifteen years of unhurried kindness never once told her on their own.
 
 That there was, after all, something in the case worth a man's wondering.
+
+She keeps the shirt's ticket stub.
+
+It is a scrap of paper about two inches by one with a number on it in her own hand and a date, and it is the only physical object connected to any of this that Su ever retains, and she retains it by accident — it goes into her apron pocket on the day and out of the apron pocket into a tin on the shelf where the shop keeps stubs, and it is still in that tin four years later when she next has occasion to look, and by then taking it out would be a decision and leaving it there is not.
+
+It is in the tin when her father dies. It is in the tin through the war. It is in the tin in 1949.
+
+Nobody in that family has ever had the smallest reason to look at it, and nobody ever has, and it is the single piece of evidence about the whole of that autumn that survives anywhere in the world outside one woman's head — a laundry stub, correctly filed, for one gentleman's shirt, washed and returned.
+
