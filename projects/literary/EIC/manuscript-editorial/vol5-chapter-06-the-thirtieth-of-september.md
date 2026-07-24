@@ -179,3 +179,24 @@ Grief and anger feel identical in the chest, he says. That is the whole trouble 
 Su stands in the yard until the sky greys properly over the wall, working through her own form beside her father's, matching his pace without either of them remarking on it, and by the time the wash-copper is lit and the first ordinary demands of the ordinary day have begun arriving — linen to sort, a docket to write, a shop to open onto a street that will, this particular Monday, be quieter and more watchful than any Monday Su has yet lived through — the banked heat under her ribs has not gone out.
 
 It has only, for the length of one cold hour in a familiar yard, agreed to wait.
+
+She asks him one more thing, that morning, and it is the only question she has ever asked her father that he has answered immediately.
+
+She asks whether he has ever wanted to.
+
+Her father does not ask her to clarify the question and does not pause over it.
+
+Yes, he says.
+
+When.
+
+Nineteen years ago, he says. In the January.
+
+And Su, who was two years old in the January nineteen years ago and has never in her life heard one word about it, understands that she has just been handed something considerably larger than she asked for, and that she is not going to be told what it was, and that the correct thing to do with it — the only thing, in this family, that has ever been done with anything of this size — is to take it, and say nothing, and carry it.
+
+Recite the rules, her father says.
+
+She recites them.
+
+Again, he says.
+

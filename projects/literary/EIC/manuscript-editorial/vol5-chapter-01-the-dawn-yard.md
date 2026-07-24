@@ -144,6 +144,26 @@ He died in Hong Kong the year before Wei sailed. The fan came out of the bundle 
 
 That is what is actually happening in this yard every morning, and neither of the two people doing it has ever once described it that way, or would.
 
+What the crossed wrists are actually doing, for those eleven or twelve minutes, is a thing Su has never once heard described in English and has never tried to describe.
+
+They stand a forearm's length apart. Each of them has one arm out, bent, the wrists touching at the back where the bone is closest to the skin — and then nothing happens, for a very long time, and everything happens continuously.
+
+Her father's arm moves and hers goes with it. That is all a person watching from the lane would see. What is actually being trained is the gap between two moments: the moment at which a weight begins to travel and the moment at which it arrives, which in an untrained person is one moment and in a trained one is two, with room to live in between.
+
+He tests her four or five times in a session. He does it without warning and without any change of expression, because a change of expression is a warning. A small dip of the shoulder that is not going anywhere. A real one that is. A pressure that increases so gradually it is designed to be accommodated rather than answered, which is the hardest of the lot and the one Su still fails at nineteen more often than she would like anybody to know.
+
+When she reads it right, nothing happens, and he says nothing.
+
+When she reads it wrong, her own balance is briefly and undeniably somewhere she did not put it, and he says nothing about that either — only resets, and waits, and they go again.
+
+In thirteen years he has praised her four times. Su can date all four.
+
+Her mother is up before either of them and has never once come out to the yard.
+
+That is not indifference and Su worked it out about the age of twelve: Sau-Ling Zhang has never watched her husband or her daughter at the practice because the practice is the one thing in that household that is entirely theirs, and a woman who has spent her whole marriage sharing a shop and a bed and a language and a dead son with a man has made a considered decision to leave him six paces by four of his own.
+
+What she does instead, every morning of the world, is have the copper coming up and the range going and tea at the step at twenty past five, and neither of the two people who come in off that yard has ever thanked her for it in Su's hearing, because it has never once occurred to any of the three of them that it is a thing that could be thanked for.
+
 ## II. The Causeway
 
 There are perhaps three hundred Chinese in the whole of London this summer, in a city of five and a half million, and Su Zhang could put a name to a good third of them.

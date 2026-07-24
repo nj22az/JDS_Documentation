@@ -49,7 +49,59 @@ He pays one and sixpence. He is, Su thinks watching him go up the lane with the 
 
 The shop keeps its custom. Sau-Ling works the counter still, slower now, her own hands gone soft at the knuckle the way hands do after fifty years of lye and hot iron, but present every morning regardless, because a woman who has buried a country and two sisters and a husband and a son does not, Su has come to understand, stop working merely because the working has grown difficult. It is, if anything, the one thing that has never once grown difficult for her mother, in a life that has made nearly everything else so.
 
-## II. Sau-Ling's Last Years
+## II. The Open Water
+
+She goes to sea once, in the summer of 1904, for eleven days, and it is the only time in ninety-odd years that Su Zhang is further from that reach than a person can walk in an afternoon.
+
+It has been an open question for twelve years by then. Erik asked it in a shop, over a mending, in his second year of Tuesdays — whether she had ever wanted to see the open water, not the river but the kind a ship crosses for weeks with nothing on any horizon — and Su said she had not thought about it, and he said *think about it now*, not urgently, and went back to waiting for his coat. He has never once raised it again. That is entirely characteristic and Su has understood for a decade that the question was left on the counter deliberately and will stay there, untouched by him, for as long as she declines to pick it up.
+
+She picks it up in the June of 1904, in the shop, at the counter, apropos of nothing, in the form: when do you sail.
+
+The arrangement takes six weeks. It is not romantic. The eldest is nine and the third is not yet two, and the whole thing rests on Sau-Ling, who is sixty-one and running that shop for eleven days on her own with a girl in from Pennyfields to help, and who receives the proposal with the enthusiasm of a woman being asked to hold a lit lamp, and says yes inside four seconds and never once, in the four years of life she has left, refers to it again.
+
+Su goes as a passenger of a sort that does not properly exist, in a cabin that is not a cabin, on a timber ship out of the Surrey Commercial to Sundsvall and back, on the strength of a master who has known her husband for nineteen years.
+
+What she remembers, afterward, is four things.
+
+The first is the leaving, which is the part she has told: the river going backward, then wider, then the two banks giving up on each other altogether somewhere past Gravesend, and the specific moment — she can place it, she was at the rail, it was about four in the afternoon — when the last thing on the horizon that was made by anybody went under it, and there was nothing left in the world but water and the ship, and Su Zhang, who had spent thirty-five years within nine hundred yards of the place she was born, discovered that she was not frightened at all and was, in fact, unaccountably and enormously relieved.
+
+The second is the noise. Nobody had told her about the noise. She had assumed the sea would be quiet and it is not remotely quiet; it is a ship's whole structure complaining continuously in about nine registers, and the water, and the wind in a rig, and a man somewhere aft doing something with a bucket at all hours, and she did not sleep properly for three nights and then slept better than she had slept since 1888.
+
+The third is her husband on a deck.
+
+She had been married ten years and had never once seen him at work. What she saw was a big unhurried man moving about a working ship with an economy so complete that it did not read as skill at all — never a wasted step, never a hand put out that was not needed, weight always where the deck was about to want it — and Su watched him for eleven days and thought, with real pleasure, that he was very good at his job.
+
+She did not think anything else. There is not one syllable anywhere in her recollection of those eleven days in which Su Zhang, standing on a moving deck at thirty-five with a hand on a stay and her own balance keeping itself under her without the smallest instruction from anybody, connects what she is watching in her husband to anything whatever about herself.
+
+The master's mate, on the fourth day, remarks to Erik that his wife has good sea legs for a laundress.
+
+Erik says: she does.
+
+And that is the whole of it. Nobody says anything more. Nobody thinks anything more. Two men agree, in passing, on a working deck, that a woman is steady on her feet, and the conversation moves on to the cargo, and there is not another word about it for the rest of the voyage or the rest of their lives.
+
+The fourth thing is the coast outside Stockholm, which they do not go to, because there is no time and no reason and the ship is going to Sundsvall.
+
+Su asks, once, standing at the rail on the passage up, roughly how far off it is.
+
+Erik tells her.
+
+Then he says, after a while: my mother's stone is cut wrong.
+
+I know, Su says. You told me. In 1893.
+
+I did not think you would have kept it, he says.
+
+And Su says the letters back to him, correctly, in the order he taught them to her over a counter eleven years before, on a moving deck in the Baltic, to a man who has not asked her for one single thing in eleven years of marriage.
+
+He does not say anything at all.
+
+They come back down the river on the eleventh day and the two banks find each other again and the last of the open water goes off the stern, and Su is at the counter by six the following morning, and her mother says: well.
+
+Well, Su agrees.
+
+And that is the entire debriefing, and the eleven days go into her the way everything goes into her, and she never goes again, and never wants to, and has told her children about the moment past Gravesend perhaps forty times.
+
+## III. Sau-Ling's Last Years
 
 She has nine years as a grandmother, and is unrecognisable in the office.
 
@@ -99,7 +151,7 @@ Su reads the thinning correctly by about 1906 and does the arithmetic and takes,
 
 Nobody records this. There is no moment. It is simply that a woman looked at a street for four or five years and then quietly rebuilt her family's living around what she had seen, and Su would not, asked directly, have called it a decision at all. She would have said the mending was coming in.
 
-## III. Slack Tide
+## IV. Slack Tide
 
 Erik comes ashore for good in 1911, his knees no longer equal to a deck's pitch in heavy weather, his hair gone the same iron-grey his father's went before him on the same coast outside Stockholm, and takes, without much ceremony, to a chair by the chandlery window that becomes, within a season, unmistakably his — not because anyone declares it so, but because a house learns a returning sailor's shape the way it learned Su's father's shape at the dawn yard, by simple accumulated habit, until the chair and the man have worn each other into an agreement neither ever needed to put into words.
 
@@ -141,7 +193,7 @@ They bury him at the mission church, in the ground that has taken every Zhang th
 
 The chair stays by the window. Nobody sits in it. It is still there, with the amber and the flower on the sill above it, when the great-grandchildren are old enough to be told whose it was, and it is still there after that.
 
-## IV. The Nights of the Airships
+## V. The Nights of the Airships
 
 The war comes to the Causeway the way everything has always come to the Causeway, which is up the river first and down the street afterward.
 
@@ -243,7 +295,7 @@ Yes, says Erik.
 
 That is the entire political discussion ever conducted in that room in forty years. Su, at the counter with the book, does not look up, and has remembered every word of it since.
 
-## V. What the Papers Still Ask
+## VI. What the Papers Still Ask
 
 The case is never solved. Su reads every fresh theory the papers print about it across the following decades, out of a discipline she has never fully explained to herself, whenever a new writer decides the old autumn is worth another column — a doctor this time, a foreign sailor the next, a madman committed quietly by a family with means, a policeman's private confession printed thirty years after the fact by a paper glad of the circulation. She lays every theory against the private ledger she has kept since a November morning in 1888 and finds, every single time, the same answer waiting for her at the bottom of the sum.
 
@@ -265,7 +317,7 @@ Her own children ask her, once each, growing up, whether she was ever afraid, in
 
 None of them ever learns the rest of it. She has decided, and decided again every year since, that this is the one account she will carry the whole distance herself, the way her father carried a white bowl he was never permitted to send home, on a shelf, dusted, entered nowhere a stranger could ever read the entry.
 
-## VI. The Next Small Hands
+## VII. The Next Small Hands
 
 She is sixty-one the winter her own eldest daughter's child stands in the yard for the first time, seven years old, uncomprehending, exact, in a horse stance held the same four-level depth her great-grandfather taught on a hillside above a harbour none of them will ever see.
 
