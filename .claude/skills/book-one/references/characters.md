@@ -29,7 +29,7 @@ Swally (1612); father's spare silver whistle. Recruits Jack, is thrown out;
 corrects Jack's articles, pays 2s/month "instruction allowance," brings him
 home alive — "none of this makes his first description of the taking honest."
 Mother dies ~1614 (letter arrives seven months late); father died winter
-1608. Surat 1614–26: the exact instrument, the double tally, the missing-bale
+1608. West 1614–17 (Virginia Company, the Indies, the 1616 crossing, Gravesend); Surat 1617–26: the exact instrument, the double tally, the missing-bale
 case (Yusuf), feeds boys before assessing them, refuses blank declarations,
 signs late and reads everything first. Writes Maggie seven letters, sends
 none; the eighth "letter" is Daniel himself, walked through her door in 1626.
@@ -343,7 +343,7 @@ space to fear").
 - Tom b. ~1581 · Maggie b. ~1563 (d. turn of 1633, aged 70) · Jack b. ~1596.
 - Bell murdered 1603 · Barnaby d. Whitsun 1604 · Pell lost 1608 (*Ascension*)
   · Elias d. ~1609 · Tom's father d. winter 1608 · Tom's mother d. ~1614.
-- Rupture 1612 · Jack's voyage 1613–14 · Amboyna arrests Feb 1623, executions
+- Rupture 1612 · Jack's voyage 1613–14 · Tom west 1614–17 (Plymouth June 1616, Gravesend March 1617) · Amboyna arrests Feb 1623, executions
   1623 · Daniel released ~1625, home 1626 · Mending 1626 · Rook on *Batavia*
   1628, wreck June 1629, marooned alone on the South Land coast (not
   executed — corrected above) · packet reaches Wapping 1630 · Maggie d. turn

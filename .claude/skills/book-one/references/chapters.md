@@ -1,7 +1,7 @@
 # Book One — The Venture (1603–1635): Chapter Ledger
 
 The live reader's Book One as deployed at `nj22az.github.io/the-front-row-seat/`
-(13 narrative units + part page + character bible, ~100,000 words). Reader order
+(14 narrative units + part page + character bible, ~108,200 words). Reader order
 is authoritative and comes from `readerBookIds` in
 `the-front-row-seat/omnibus-config.js`. Page ids are historical and do NOT sort
 into reading order — always follow the sequence below.
@@ -23,13 +23,14 @@ The South Land, and the epilogue — were left standalone.
 | 3 | Chapter Three | `08-1604-the-language-of-paper` | Maria's Passage East | 1603–1612 | Ch 5 (Language of Paper) + Ch 7 (Teak Desk) |
 | 4 | Chapter Four | `21-1611-the-counter-ledger` | The Return | 1603–1612 | Ch 6 (Counter-Ledger) + Ch 8 (The Return) |
 | 5 | Chapter Five | `11-1613-the-boy-in-the-rigging` | The Pay Table | 1603–1614 | Ch 9 (Boy in the Rigging) + Ch 10 (Pay Table) + Ch 11 (Arthur in the Chair) |
-| 6 | Chapter Six | `15-1620-the-lone-machine` | Tom at Surat | 1614–1622 | Ch 12 (Lone Machine) + Ch 13 (The Echo) |
-| 7 | Chapter Seven | `23-1622-news-from-the-sea` | The Years Between | 1614–1623 | Ch 14 (News from the Sea) + Ch 15 (Intersecting Web) |
-| 8 | Chapter Eight | `20-1621-the-factor` | Amboyna | 1621–1623 | Ch 16 (The Factor) + Ch 17 (Coral Room) |
-| 9 | Chapter Nine | `24-1623-the-widows-years` | The Widow's Years | 1603–1623 | unchanged |
-| 10 | Chapter Ten | `19-1625-batavia` | Batavia | 1623–1626 | Ch 18 (Amboyna, Tom's POV) + Ch 20 (Batavia) |
-| 11 | Chapter Eleven | `02-1626-the-man-who-came-back-wrong` | The Man Who Came Back Wrong | 1626 | unchanged |
-| 12 | Chapter Twelve | `04-1629-the-south-land` | The South Land | 1629–1630 | unchanged |
+| 6 | Chapter Six | `16-1616-the-same-ink` | The Same Ink | 1614–1617 | **new, 2026-07-31** |
+| 7 | Chapter Seven | `15-1620-the-lone-machine` | Tom at Surat | 1617–1622 | Ch 12 (Lone Machine) + Ch 13 (The Echo) |
+| 8 | Chapter Eight | `23-1622-news-from-the-sea` | The Years Between | 1614–1623 | Ch 14 (News from the Sea) + Ch 15 (Intersecting Web) |
+| 9 | Chapter Nine | `20-1621-the-factor` | Amboyna | 1621–1623 | Ch 16 (The Factor) + Ch 17 (Coral Room) |
+| 10 | Chapter Ten | `24-1623-the-widows-years` | The Widow's Years | 1603–1623 | unchanged |
+| 11 | Chapter Eleven | `19-1625-batavia` | Batavia | 1623–1626 | Ch 18 (Amboyna, Tom's POV) + Ch 20 (Batavia) |
+| 12 | Chapter Twelve | `02-1626-the-man-who-came-back-wrong` | The Man Who Came Back Wrong | 1626 | unchanged |
+| 13 | Chapter Thirteen | `04-1629-the-south-land` | The South Land | 1629–1630 | unchanged |
 | — | Epilogue | `05-1635-last-orders` | Last Orders | 1635 | unchanged |
 | — | Reference | `book-one-character-bible` | The Wapping Twelve | 1603–1635 | — |
 
@@ -119,7 +120,32 @@ Jack's questions reach across nine years. 1614: drafts the discharge clause
 that legalises Jack's eleven lost months for the next boy — "The true book
 is hidden... The other will make the harm orderly before he arrives."
 
-**Ch 6 — Tom at Surat (1614–1622).** Tom signs the Surat berth minutes after
+**Ch 6 — The Same Ink (1614–1617).** *New, 2026-07-31.* Tom does not take
+the Surat berth in 1614; he asks what else and signs a westward one under
+the Virginia Company's seal, which he does not read the foot of. The lottery
+wheel in Paul's churchyard — a paper needing only a shilling, not a hand.
+Past Wapping at four knots with a light on in the low room. The southern
+route; an anchorage where ninety people work a cane field and the man on the
+horse holds nothing, because his holding is done elsewhere on paper. The
+fort: a thousand sent, a parish standing; *unseasoned* doing the work of the
+entry; tobacco planted in the market square as the only entry that ever came
+out black. He proposes a double tally and is courteously refused — and builds
+it at Surat three years later. A passenger list with one woman under two
+names, rhyming with 1603's "foreign female, name uncertain." Nine weeks as
+crew; a chest carried; four seconds at the head of a ladder and a *thank
+you* in neither of their languages. Plymouth, June 1616: Uttamatomakkin at
+the rail cutting notches to count the English, and stopping — watched by a
+man whose keeper cuts one notch per boy the sea does not return. The party
+goes up the road to be shown to the subscribers. A letter home of fog,
+sharks and very large trees, and the roof, and nothing else. Gravesend,
+March 1617: the *George*, a boathook holding the boat off the stairs, and
+twenty-six miles of river Tom does not go up, because he can see exactly
+what he would be carrying up it. Leadenhall: he reads a page from the bottom
+and finds the same name at the foot of both charters. **He never tells
+Maggie he was at Gravesend — not in eleven more years of letters, not in
+1626, not ever.**
+
+**Ch 7 — Tom at Surat (1617–1622).** Tom signs the Surat berth minutes after
 closing his dead mother's rooms. Surat mastery: every correction
 strengthens the machine. The missing bale nearly hangs the porter Yusuf;
 Tom builds the double tally. His father dies three deaths (the bed, the

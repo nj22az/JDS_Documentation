@@ -366,3 +366,34 @@ practice belongs to the people the Company's later war displaced.
 sibling-bible sync edits, and — as a separate, later decision — the prose
 pass whose footprint §8 and §12 inventory. Nothing here touches the
 deployed reader.*
+
+## §13 — Author-directed live-canon exception, 2026-07-31 (Virginia Company)
+
+Second logged exception to the default rule in `projects/literary/EIC/README.md`
+("proposed changes belong in `manuscript-editorial/` until approved"). The
+author explicitly directed that Book One's new Chapter Six, **"The Same Ink"
+(1614–1617)**, ship straight to the deployed reader in the same pass as it was
+written, having chosen that target from four options.
+
+Shipped live on 2026-07-31:
+
+- New page `16-1616-the-same-ink` (Chapter Six, 12 sections, ~8,000 words):
+  Tom's Virginia Company tour, the West Indies, the fort, the 1616 crossing,
+  Plymouth, and Gravesend, March 1617.
+- `15-1620-the-lone-machine` re-slotted to Chapter Seven and re-dated
+  1617–1622; its old §I "The Letter Waiting" moves into the new chapter and
+  is replaced by a new §I, "What He Brought East"; two internal dates adjusted.
+- Book One kickers Seven–Twelve shift to Eight–Thirteen.
+- `23-1622-news-from-the-sea` §V gains the wrong-ocean letters beat.
+- Pre-existing stale apparatus corrected: `appendix-1b-character-map`'s
+  "Seven letters… fail by his own repeated choice" and "Neither of them sends
+  a letter", and the "eighth letter" framing in the map and in
+  `19-1625-batavia`'s tagline — all of which had contradicted the deployed
+  sent-letters rework since 2026-07-24.
+- `omnibus-config.js` reader order and word counts; `index.html` repointed.
+
+The source of record for the new chapter is
+`manuscript-editorial/book-one-ch06-the-same-ink.md`.
+
+**This remains a one-time, author-directed exception, not a change to the
+default rule.** Book One is now 13 chapters + epilogue, ~108,200 words.

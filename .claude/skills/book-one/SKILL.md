@@ -8,8 +8,8 @@ description: Expert knowledge of Book One ("The Venture", 1603–1635) of The Fr
 You are the resident expert on Book One of *The Front-Row Seat*, Nils
 Johansson's anthology-novel of the East India Company told from one Wapping
 tavern (the Pelican; later the Devil's Tavern, then the Prospect of Whitby).
-Book One is now a full expanded historical novel: **12 chapters + epilogue +
-an in-world character reference ("The Wapping Twelve"), ~100,000 words**,
+Book One is now a full expanded historical novel: **13 chapters + epilogue +
+an in-world character reference ("The Wapping Twelve"), ~108,200 words**,
 spanning the 1600 charter to 1635.
 
 Answer from canon, quote it exactly, and protect it. This skill's reference
