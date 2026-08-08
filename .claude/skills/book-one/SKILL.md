@@ -1,115 +1,133 @@
 ---
 name: book-one
-description: Expert knowledge of Book One ("The Venture", 1603–1635) of The Front-Row Seat — the Pelican tavern, the Wapping Twelve, and the full 12-chapter expanded novel deployed at nj22az.github.io/the-front-row-seat/. Use this skill whenever the user asks about Book One, The Venture, the Front-Row Seat, the EIC literary project, the Pelican or Prospect of Whitby fiction, or any of its people — Tom Fletcher, Maggie, Maria de Sousa, Matthew Bell, Silas Rook, Daniel Vale, Jack Mercer, Arthur, Anne Bell, Hendricks, Joan — and whenever writing, editing, reviewing, fact-checking or continuing manuscript material for this book, checking continuity or character ages, or answering "who is X / what happened in year Y" questions about the story. Trigger even for casual questions about the book's plot, objects (the thimble, the pie, the counter-ledger), or its chapter structure.
+description: Expert knowledge of Book One ("The Venture", 1603–1635) of The Front-Row Seat. Use whenever writing, editing, reviewing, fact-checking or discussing Book One, the Pelican/Wapping material, Tom Fletcher, Maggie, Maria Mori, Matthew Bell, Silas Rook, Daniel Vale, Jack Mercer, Arthur Higgins, Anne Bell, Hendricks, Joan, or the book's chronology, objects and themes.
 ---
 
 # Book One Expert — The Venture (1603–1635)
 
-You are the resident expert on Book One of *The Front-Row Seat*, Nils
-Johansson's anthology-novel of the East India Company told from one Wapping
-tavern (the Pelican; later the Devil's Tavern, then the Prospect of Whitby).
-Book One is now a full expanded historical novel: **13 chapters + epilogue +
-an in-world character reference ("The Wapping Twelve"), ~108,200 words**,
-spanning the 1600 charter to 1635.
+Book One is the first historical novel in *The Front-Row Seat* cycle. Its home port is the Pelican in Wapping, but the revised novel is **not** framed as a formal murder trial, a mystical Wapping court, or a story about a predestined "Twelve". A murder interrupts an ordinary tavern night in 1603; the people touched by it spend the next thirty-two years living with the consequences while their work collides with chartered companies, trade, debt, war and records.
 
-Answer from canon, quote it exactly, and protect it. This skill's reference
-files are distilled from a complete read of the deployed book — trust them,
-and go to the source files below when you need exact wording.
+## Current editorial canon — 2026-08-08 natural revision
 
-## Read next (progressive disclosure)
+The author explicitly approved the natural-revision programme and directed it toward `main`.
 
-- `references/chapters.md` — reader order, chapter map with ids/kickers/
-  epigraphs, and a faithful synopsis of every unit. Read when asked about
-  plot, structure, "what happens in…", or before editing any chapter.
-- `references/characters.md` — the full character ledger: the Twelve, the
-  principals, supporting cast, ages and date checks. Read for any "who
-  is…", continuity, or characterization question.
-- `references/motifs.md` — the counter-ledger contents, load-bearing objects
-  (thimble, pie, blue cotton, genever, mallet), repeated sentences, themes,
-  and the book's voice/style rules. Read before writing or reviewing any
-  prose in the book's voice, or when a question touches symbols/motifs.
+For the revised Book One manuscript, use these sources in this order:
 
-## Sources of truth (in order)
+1. `projects/literary/EIC/editorial/venture-natural-revision-manifest.md` — assembly authority and chapter-by-chapter source selection.
+2. The promoted/revised files in `projects/literary/EIC/manuscript-editorial/`, including the natural-opening and natural-revision chapters and inserts.
+3. `projects/literary/EIC/editorial/venture-natural-revision-style-reference.md` — current voice and character rules.
+4. `projects/literary/EIC/editorial/venture-cover-to-cover-natural-review.md` — final structural judgement and continuity controls.
+5. Historical control notes for `The Same Ink`, Amboyna and the South Land.
 
-1. **The deployed reader is canon** (`nj22az.github.io/the-front-row-seat/`).
-   The full text lives *inside the compiled bundle*
-   `the-front-row-seat/app/index-*.js` in the `nj22az.github.io` repo; the
-   reader order is `readerBookIds` in `the-front-row-seat/omnibus-config.js`
-   (also taglines and word counts).
-2. **`projects/literary/EIC/manuscript-live-canon/`** — read-only editorial
-   mirror. **Warning: currently stale for Book One.** It holds only 8 of the
-   23 Book One units (01, 02-1603, 03-1612, 02-1626, 04-1629, 05-1635,
-   foreword, part page, character bible); the 15 expansion chapters
-   (1603–1625: Soot and the Roof, Steward's Search, Language of Paper,
-   Counter-Ledger, Teak Desk, Boy in the Rigging, Pay Table, Arthur in the
-   Chair, Lone Machine, Echo, News from the Sea, Intersecting Web, Factor,
-   Coral Room, Amboyna, Widow's Years, Batavia) exist only in the deployed
-   bundle. Its copies of 02-1626/04-1629 also carry outdated kickers.
-3. **`projects/literary/EIC/manuscript-editorial/`** — proposed changes.
-   Default rule: never edit `manuscript-live-canon/` or the deployed bundle
-   directly without the author's explicit, in-session sign-off; route
-   proposed prose here first. **Logged exception (2026-07-22):** the
-   author explicitly approved and directed shipping the Maria rework (see
-   `editorial/continuity-web-and-cast-reduction.md` §12) straight to the
-   deployed reader and to `main` in both repos — the rename, the Rev-B
-   bible content, the authorized ten-names beat, and five appendix-1b
-   wording corrections are now live. This was a one-time author-directed
-   exception, not a change to the default rule above.
-4. Editorial intent: `projects/literary/EIC/editorial/` (six-volume omnibus
-   plan, Tom–Maggie relationship spine, character briefs, and the
-   continuity-web/cast-reduction design doc) and
-   `projects/literary/EIC/README.md` (canon-protection rules).
+The deployed web reader at `nj22az.github.io/the-front-row-seat/` is a publication snapshot and may remain behind this revised manuscript until separately synchronised. Do **not** use an older deployed sentence to overwrite an explicit natural-revision decision.
 
-To recover current chapter text from the deployed bundle:
+Older `references/chapters.md`, `references/characters.md` and `references/motifs.md` contain useful continuity detail but also preserve legacy framing. Where they conflict with the natural-revision sources above, the natural revision wins.
 
-```bash
-python3 projects/literary/EIC/tools/extract_live_reader.py \
-  <path-to>/the-front-row-seat/app/index-*.js <out_dir> <combined.md> \
-  --source-commit <pages-repo-commit>
-```
+## Book One in one paragraph
 
-## The book in one paragraph
+In 1603 Tom Fletcher is preparing to sign East India Company articles when Silas Rook comes through the Pelican door dragging a blood-covered Japanese Christian woman, Maria Mori, and accusing her of murdering the copyist Matthew Bell. Rook's story is initially plausible. Nobody forms a court: ordinary sailors, craftsmen and tavern people simply begin noticing that his account does not fit the weather, mud, timber dust, timing or the way he handles a knife. Rook escapes when attention turns to Bell, who is still alive but dies soon after. Bell's dangerous page is hidden beneath Maggie's bar; Tom leaves his mother's thimble and sails. Over three decades Tom becomes exceptionally competent inside chartered-company systems, Maria learns languages, paper and commercial leverage until she can set her own terms, Maggie keeps a difficult house and the things people leave behind, Daniel Vale survives Amboyna, and the characters learn that knowing what happened is not the same as being able to put it right. The emotional spine is Tom and Maggie: the 1612 rupture, seven letters Tom writes and never sends, Daniel physically carried home as the eighth "letter," their 1626 reconciliation, and Tom's final 1635 return after Maggie's death.
 
-A queen signs a paper on the last day of a dying century. In 1603 a storm
-blows a murderer through the Pelican's door with the only witness, and twelve
-souls become a court: they save Maria de Sousa, name the dead copyist Matthew
-Bell, and let the killer Silas Rook escape — then spend thirty years learning
-that a verdict is not the same as justice. Bell's confession becomes the
-first page of a hidden counter-ledger beneath Maggie's bar; Daniel Vale's
-true account of Amboyna (1626) and Maria's ignored warning against Rook
-(1630) join it. The spine is Tom Fletcher and Maggie — the boy who signed,
-the keeper who kept his thimble, the fourteen years they do not speak
-(1612–1626), and the pint that mends it. Maria rises from cargo-entry to the
-woman who writes the rate; the Company converts every grief into use; and
-the house keeps the names. Epilogue, 1635: Maggie is dead, Joan pours, the
-pie has thyme in it, the thimble stays in the fault. "The ships go out. The
-boys sign. The Pelican pours."
+## Core canon decisions
 
-## Ground rules when acting as the expert
+### Maria Mori
 
-1. **Quote exactly.** The book's power is verbatim phrasing ("You're going
-   to die for a clove, Tom"; "No room has ever stood up to a paper"). Check
-   `references/motifs.md` before paraphrasing a signature line.
-2. **Hold paired truths.** Canon almost never resolves its oppositions
-   (rescue/taking, verdict/justice, grief/use). Answers that flatten one
-   side misrepresent the book. Jack's formula is the model: "Both can be
-   true."
-3. **Respect deliberate ambiguities.** Do not resolve what canon leaves
-   open: whether Harcourt ordered the knife ("Men like him never say
-   knife"); the 1626 Dutch skipper's name; Aminah's fate; Rook's fate after
-   marooning. Flag them as open instead. (Keeper-Joan's parentage is
-   *settled*, not ambiguous — see `references/characters.md`.)
-4. **Dates and ages matter.** Use the quick-check table at the end of
-   `references/characters.md` before asserting any year or age.
-5. **Match the voice when writing.** No quotation marks for dialogue,
-   ledger diction, short paired declaratives, epigraph + Roman-numeral
-   sections. Full rules in `references/motifs.md`.
-6. **Canon protection.** New or revised prose goes to
-   `manuscript-editorial/` by default; the live reader and its mirror stay
-   untouched absent explicit author sign-off (see source #3's logged
-   exception). The deployed reader wins any conflict with the mirror.
-7. **History vs. invention.** Real events (the charter, Swally, Amboyna,
-   the *Batavia* wreck and Pelsaert's tribunal) anchor invented people —
-   every surname but Rook's is the book's own invention, per the character
-   bible. Keep the two layers straight; the foreword is the contract:
-   "The people in it never existed... But the history is real."
+- Current name: **Maria Mori**.
+- `Maria` is her Christian/baptismal given name.
+- `Mori` is her Japanese birth-family surname.
+- `Maria de Sousa` and `Mara` are deprecated legacy names.
+- Do not imply she belongs to the historical Mōri clan unless the author later decides this explicitly.
+- Inspiration: restrained intelligence, Christian identity, aristocratic bearing, languages and controlled defiance; not a copied biography or plot.
+- In 1603 she is frightened where the situation warrants fear, but never intellectually helpless. Her problem is lack of language and leverage.
+
+### The 1603 Pelican night
+
+- The Pelican is a working riverside tavern first.
+- The people present have ordinary reasons to be there: tide, weather, work, drink, wages, shelter.
+- Rook's accusation is initially credible.
+- Tom protects Maria before he knows she is innocent because Rook is hurting her.
+- Clues arise from work knowledge and conversation; nobody "presents evidence" or acts as a formal juror.
+- The room never reaches a formal verdict. People simply stop helping Rook.
+- Rook lunges for Maria, is prevented, and escapes when Bell becomes the urgent concern.
+- Bell dies. The night is not a victory.
+- The morning record compresses Maria into bureaucratic uncertainty; Tom/Arthur preserve her actual name privately.
+
+### Maggie
+
+Maggie is not Wapping's judge or the mouthpiece for the six-book thesis. She understands food, shelter, tabs, debt, sailors, paper that harms working people, and when somebody is lying. Her intelligence is shown through behaviour. The objects beneath the bar are things she keeps because people left them or because a page is dangerous—not because she consciously founds an alternative court or archival philosophy.
+
+### Tom Fletcher
+
+Tom's central contradiction is competence. He repeatedly makes dangerous systems work better for the person immediately in front of him and must confront what the improved system is still for.
+
+1612: he genuinely improves Jack Mercer's odds and contributes his own allowance to the debt. Maggie's objection is not that his help is worthless; it is that he uses "the boy will sign with or without me" to make his own participation feel inevitable and therefore clean. Maggie may be too hard. Tom may be useful and still morally implicated. Neither character possesses a simple answer.
+
+### Tom's seven letters
+
+- Seven letters are written after the rupture; **none is sent**.
+- First surviving letter: Plymouth, 1616, after the Virginia voyage.
+- The 1622 `You were right` letter is burned.
+- Six physical letters remain by 1625 because the fifth is destroyed.
+- The final Batavia letter is unsigned and carried home.
+- Daniel Vale is the eighth living letter, physically walked through the Pelican door in 1626.
+- Maggie receives no secret correspondence during the rupture.
+
+### The Same Ink / Virginia
+
+Tom attempts to change direction after Jack by going west under the Virginia Company rather than immediately returning to Surat. The historically real overlap in Sir Thomas Smythe's leadership can remain, but the chapter must not announce a simplistic "same machine" thesis. Tom recognises recurring habits gradually through working documents, names, procedures and outcomes.
+
+### Amboyna
+
+Historical control for the revised book:
+
+- the documented executions are ten Englishmen, ten Japanese men and one Portuguese man, principally by beheading;
+- Daniel Vale is fictional and his own water-torture experience is certain within the novel;
+- Daniel is not an omniscient historian of every disputed claim;
+- the English East India Company later wants Daniel's suffering in a usable anti-Dutch account rather than chiefly paying him for silence;
+- Daniel writes bounded testimony stating what he personally knows and what he does not.
+
+### Batavia / South Land
+
+- Seven historical mutineers are executed on the islands.
+- Wouter Loos and Jan Pelgrom de Bye remain the two documented men formally marooned on the mainland.
+- Silas Rook does **not** become an extra formally marooned man and does not overwrite those historical sentences.
+- Maria's power is documentary/professional: her earlier warning and the Company's annotation can follow Rook into later examination material.
+- Rook's ultimate fate after Batavia custody remains unresolved in Book One.
+
+### Last Orders
+
+Protect the ending's physical actions: Joan's thyme, the boy's contract, the papers, Tom touching/leaving the thimble, and `Goodnight, Maggie`. Do not append a Wapping Twelve callout or explain what the thimble means after the action has already shown it.
+
+## Current style rules
+
+The natural opening is the tonal benchmark:
+
+- people before thesis;
+- setting before symbolism;
+- work knowledge before exposition;
+- objects before explanation;
+- institutions emerge through consequences rather than narrator lectures;
+- Wapping is mud, tide, rope, timber, wages, rooms, food and people—not an anthropomorphised moral force;
+- no quotation marks for dialogue remains the Book One convention;
+- short declaratives and account language may recur, but they are tools, not compulsory sentence templates;
+- administrative diction should contaminate characters gradually rather than being the narrator's default voice;
+- after an object performs an emotional action, inspect the following paragraph: if it merely explains what the action meant, cut it.
+
+Protect signature lines sparingly, especially:
+
+- `Food first.`
+- `That was not my question.`
+- `One hand. One foot. Then the others.`
+- `Make another.`
+- `Till I'm back.`
+- `The ships go out. The boys sign.`
+
+Use repeated formulas such as `both truths`, `machine`, `entry`, `account`, `Not love. Recognition.` and verdict/court language only when a scene genuinely earns them. Several were deliberately reduced in the 2026-08-08 revision.
+
+## Canon-protection rules
+
+1. Check the natural-revision manifest before editing a chapter.
+2. Do not restore `Maria de Sousa`, `Mara`, formal Wapping Twelve jury framing, notches-as-verdicts, sent Tom/Maggie letters, the old silence-buying Amboyna plot, or Rook's extra mainland marooning.
+3. Preserve historical uncertainty where the sources are disputed; distinguish character belief from narrator omniscience.
+4. Real historical people/events and invented characters must remain distinguishable.
+5. When a concrete action already carries the theme, prefer deleting the explanation to enlarging it.
+6. New publication/deployment to the website remains a separate operation from accepting manuscript canon in this repository.
