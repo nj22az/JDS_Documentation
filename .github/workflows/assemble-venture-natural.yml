@@ -1,0 +1,40 @@
+name: Assemble Venture natural revision
+
+on:
+  push:
+    branches:
+      - agent/venture-natural-opening
+    paths:
+      - scripts/assemble_venture_natural.py
+      - .github/workflows/assemble-venture-natural.yml
+      - projects/literary/EIC/manuscript-editorial/**
+
+permissions:
+  contents: write
+
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out revision branch
+        uses: actions/checkout@v4
+        with:
+          ref: agent/venture-natural-opening
+          fetch-depth: 0
+
+      - name: Assemble Book One
+        run: python3 scripts/assemble_venture_natural.py
+
+      - name: Commit generated manuscript if changed
+        shell: bash
+        run: |
+          if git diff --quiet -- projects/literary/EIC/assembled; then
+            echo "Generated manuscript already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add projects/literary/EIC/assembled/the-venture-natural-revision.md \
+                  projects/literary/EIC/assembled/the-venture-natural-qc.md
+          git commit -m "Assemble Venture natural revision"
+          git push origin HEAD:agent/venture-natural-opening
