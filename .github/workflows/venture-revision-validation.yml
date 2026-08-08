@@ -11,7 +11,7 @@ on:
       - projects/literary/EIC/editorial/**
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   assemble-and-qc:
@@ -29,16 +29,11 @@ jobs:
       - name: Show QC
         run: cat projects/literary/EIC/assembled/the-venture-natural-qc.md
 
-      - name: Commit generated manuscript to revision branch
-        shell: bash
-        run: |
-          if git diff --quiet -- projects/literary/EIC/assembled; then
-            echo "Generated manuscript already current."
-            exit 0
-          fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add projects/literary/EIC/assembled/the-venture-natural-revision.md \
-                  projects/literary/EIC/assembled/the-venture-natural-qc.md
-          git commit -m "Assemble polished Venture manuscript"
-          git push origin HEAD:${{ github.head_ref }}
+      - name: Upload assembled manuscript and QC
+        uses: actions/upload-artifact@v4
+        with:
+          name: venture-natural-revision
+          path: |
+            projects/literary/EIC/assembled/the-venture-natural-revision.md
+            projects/literary/EIC/assembled/the-venture-natural-qc.md
+          if-no-files-found: error
