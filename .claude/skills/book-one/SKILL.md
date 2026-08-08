@@ -59,6 +59,8 @@ Maggie is not Wapping's judge or the mouthpiece for the six-book thesis. She und
 
 Tom's central contradiction is competence. He repeatedly makes dangerous systems work better for the person immediately in front of him and must confront what the improved system is still for.
 
+By the end of his sea career Tom is an **experienced boatswain**. In 1635 the rank still clings to him after pay-off: younger sailors call him Boatswain, men straighten when he enters, and practical instructions from him are usually obeyed rather than debated. His authority should be shown through brevity, competence and other people's reactions—not swagger or speeches.
+
 1612: he genuinely improves Jack Mercer's odds and contributes his own allowance to the debt. Maggie's objection is not that his help is worthless; it is that he uses "the boy will sign with or without me" to make his own participation feel inevitable and therefore clean. Maggie may be too hard. Tom may be useful and still morally implicated. Neither character possesses a simple answer.
 
 ### Tom's seven letters
@@ -95,7 +97,9 @@ Historical control for the revised book:
 
 ### Last Orders
 
-Protect the ending's physical actions: Joan's thyme, the boy's contract, the papers, Tom touching/leaving the thimble, and `Goodnight, Maggie`. Do not append a Wapping Twelve callout or explain what the thimble means after the action has already shown it.
+The epilogue should be **short, bittersweet and restrained**. Tom returns from his final berth as boatswain and discovers Maggie has been dead for two winters. Maggie's deliberately uncharacteristic instruction is: `If Fletcher comes in, feed him first. Then tell him.` Joan already knows Tom; the use of `Fletcher` rather than `Tom` is the emotional wound and should not be over-explained. Joan can speak plainly to him, but the chapter should not make Tom casually bantered with or diminished.
+
+Protect the ending's physical actions: Joan's thyme, the boy's contract, Tom touching/leaving the thimble, and `Goodnight, Maggie`. The boy treats Tom as an experienced boatswain and listens. Tom gives him practical contract corrections but does not choose the sea for him. At the river stairs a younger voice answers the final line-handling call; Tom does not turn. Do not append a Wapping Twelve callout or explain what the thimble means after the action has already shown it.
 
 ## Current style rules
 
