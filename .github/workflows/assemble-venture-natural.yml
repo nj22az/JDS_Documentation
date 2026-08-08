@@ -6,6 +6,7 @@ on:
       - agent/venture-natural-opening
     paths:
       - scripts/assemble_venture_natural.py
+      - scripts/assemble_venture_natural_final.py
       - .github/workflows/assemble-venture-natural.yml
       - projects/literary/EIC/manuscript-editorial/**
 
@@ -23,7 +24,7 @@ jobs:
           fetch-depth: 0
 
       - name: Assemble Book One
-        run: python3 scripts/assemble_venture_natural.py
+        run: python3 scripts/assemble_venture_natural_final.py
 
       - name: Commit generated manuscript if changed
         shell: bash
