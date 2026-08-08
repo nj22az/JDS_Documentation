@@ -1,218 +1,728 @@
-<!-- PROPOSED chapter merge for the consolidation pass. Combines 06-1603-the-soot-and-the-roof, 20-1603-the-stewards-search (already present-tense) into one chapter with continuous roman-numeral sections. Nothing here touches the deployed reader yet. -->
+<!-- PROPOSED INTEGRATED REWRITE. Follows 01-1603-the-boy-who-signed-natural-opening.md. Repairs the former trial/near-lynching framing, Hendricks continuity, and Maria Mori naming/character direction. Anne Bell's search sequence is preserved and lightly integrated. Editorial branch only. -->
 
 # 1603: What the Women Did
 
 > **1603**
 >
-> *“A door someone else holds open is still someone else's door.”*
+> *A door someone else holds open is still someone else's door.*
 >
-> — Maria, Wapping, 1603
+> — Maria Mori, Wapping, 1603
 
 ## I. The Inch of Candle
 
-The candle has an inch left when the tavern's last sounds die.
+The candle has an inch left when the tavern quiets below her.
 
-Maria has spent the other inches learning the house by ear. The keeper's tread, heavier on the left, crossing and recrossing the boards below. The scrape of the centre table being moved, and moved again, by men who cannot make it stand anywhere that undoes what happened on it. The bolt going home. The fire settling into its own ash. A house speaks plainly once it believes nobody is listening, and Maria has been carried through enough houses, holds and counting rooms to know the whole grammar of that language. It was the first one she ever had to learn.
+Maria Mori has not used the bed.
 
-She does not lie down. To lie down in a borrowed bed is to owe the bed. She sits on the floor with her back against the frame, where the straw cannot hold the shape of her, and watches the candle do its slow arithmetic, and lets her body eat the warmth the way a ship takes on water at a friendly port — quickly, thoroughly, without believing the port is hers.
+She sits on the floor with her back against its frame, knees drawn beneath Pieter-less wool that is not yet Pieter's because she has not met the coat, and listens to the house settle around a dead man.
 
-Downstairs, tonight, a room saved her life.
+The keeper crosses the boards below. One foot lands harder than the other. A chair scrapes. Somebody moves the centre table and then, a minute later, moves it again. The bolt goes across the street door. Men speak in low voices until one by one the voices leave.
 
-She turns the fact over the way she once turned unfamiliar coins. A woman with grey in her hair and a mallet under her counter stood in front of her and did not move. A boy took a blow across the face and stayed against the door. The room reasoned its way to the truth of her — in a language she does not speak, over her head, around her body — and the truth held, and the rope went back to its coil. It is the kindest thing a room has ever done for her. It changes nothing about what a room is. A room has one door. Doors have keepers. A door someone else holds open is still someone else's door.
+Maria has spent much of her life learning houses she did not choose.
 
-By the bed, without being asked, somebody has left dry shoes. Cast-offs, cracked across one toe, re-heeled once by a careful hand. That will have been the keeper. Maria holds them a long moment, because objects given without ceremony are the hardest kind to refuse, and then ties the laces together and hangs them around her neck.
+This one is different in several small ways.
 
-Bare soles tell the truth about wet tile. Leather lies.
+Nobody locked the room from outside.
 
-She folds the blanket once, precisely, and lays it on the bed she has not used, and sets the candle-end on the fold where it will be found. The fold is not gratitude. Gratitude she is keeping; it is the only thing she owns outright. The fold is bookkeeping. When the house counts what the night cost it, this room will balance.
+A plate was left with bread and cold meat. She ate both before the candle reached halfway, because the grey-haired woman had pointed at the food and made refusal more difficult than hunger.
 
-The paper — Bell's page, with her line in it between two coils of rope — stays below, in the wood, where the keeper put it. Maria thought about that longer than she thought about the shoes. A paper that names your price is a dangerous thing to leave behind. It is a worse thing to carry. Whoever holds that page holds what was done to her, and there is exactly one room in this city that has already shown her what it does with the truth. Let the room keep the account. She is taking the woman out of it.
+A pair of dry shoes waits beside the bed. Cast-offs. Cracked across one toe, carefully re-heeled. They are too large but usable.
 
-The window is small, the sill wet, the lean-to roof below pitched just enough to punish confidence. She goes through it the way she came up out of a hold the first time she was ever left unwatched: slowly, testing each purchase twice, weight low, breath even. One bare foot on the sill. The tiles take her like cold water.
+Maria lifts them, tests the leather with her thumb, and sets them beside the window.
 
-At the chimney her hand finds the warm brick and steadies there, and comes away black. One print on the sill behind her. One in the soot. She looks at her marked palm and accepts the entry. She has been a line in other people's books all her life. You cannot leave nothing. You can only leave little, and choose where.
+Downstairs a young man put himself between her and Rook before he knew anything except that Rook was hurting her. He took a blow for it. Later other men noticed things: a boot, a knife hand, weather too loud for a scream. They stopped looking at her and began looking at Rook.
 
-Then the yard, the rain-barrel, the ground.
+Then Rook ran.
+
+Then Bell died.
+
+Those are the facts.
+
+She does not improve them by arranging them.
+
+Bell's page is somewhere beneath the bar. She watched the keeper hide it. Maria knows what is written there because Bell showed her enough before the shed: Harcourt's sums, Harcourt's debts, and her own name placed where a person should not fit.
+
+The paper is dangerous.
+
+Carrying it would be more dangerous.
+
+So she leaves it.
+
+Not because she trusts rooms. Rooms burn, change keepers, acquire locks.
+
+She leaves it because Harcourt's men will search a woman before they search old oak, and because the keeper understood that without needing Maria's language.
+
+The candle shortens.
+
+Maria wrings the last damp from one sleeve, twists her hair tight at the nape of her neck and studies the window.
+
+The sill is narrow. A lean-to roof falls away beneath it. Beyond that, a yard, a wall and the dark.
+
+She folds the unused blanket once and lays it square on the bed. It is not payment. A blanket cannot be paid for by folding it.
+
+It is simply how she leaves a thing she has used less than expected.
+
+Then she ties the shoes together and hangs them around her neck.
+
+Bare feet first.
+
+Leather after the tiles.
+
+She pinches out the candle.
+
+The dark makes no difference. She already measured the room.
+
+One foot on the sill.
+
+One hand on wet brick.
+
+Weight low.
+
+Then the roof takes her.
+
+At the chimney her palm comes away black with soot. She pauses long enough to hear whether anybody below has heard the tile move.
+
+Nothing.
+
+A second tile.
+
+The gutter.
+
+Rain barrel.
+
+Yard.
+
+She lands without grace and without falling, which is enough.
+
+For the first time since Rook dragged her through the Pelican door, nobody has a hand on her and nobody is asking her to stay.
+
+She goes.
 
 * * *
 
 ## II. The Wall Before Light
 
-Wapping before dawn is a language too, and she does not speak it.
+Wapping before dawn is harder to cross than a deck because a deck admits what it is.
 
-She knows ports. Ports are all one country: tar and brine, hemp and fish-gut, the knock of moored hulls keeping their own hours. But between the river and the city runs a marsh of lanes she has seen only once, backwards, at the end of a man's arm, and the dark has rearranged all of it. She puts the shoes on under a cart and stands in the shelter of its bed, and does what she has always done in unreadable places. She stops trying to read. She listens for the water.
+It has edges. It has an aft and a forward. Men tell you where not to stand because an ignorant body in the wrong place can kill three others when a line parts.
 
-The tide is her compass. Everything in this city leans toward the river the way grain leans in wind — the streets slope to it, the smells thicken toward it, the cold comes off it in a breath she can feel on her ruined sleeve. Downhill, then. Downhill and east, toward the stairs she was dragged up a lifetime ago yesterday.
+The lanes behind Wapping Wall admit nothing.
 
-Twice she stops.
+They turn between sheds, houses, yards and walls that seem built after the streets had already lost the argument. Water lies in wheel ruts. Rain runs from eaves without warning. The river is close enough to smell and difficult to reach.
 
-Once for the watch — two men with a lantern, unhurried, their voices doing the swollen, important sound men's voices do when the night has finally given them something worth telling. She stands inside a doorway with her wet hair across her face and listens to words she cannot parse roll past, and picks out of the current the three sounds she has learned to catch the way a net catches: *Pelican*. *Rook*. *Bell*. The city is telling itself the story already, gathering versions as it goes. None of them holds her name.
+Maria puts on the dry shoes beneath a cart.
 
-Once for a shape.
+They slip at the heel.
 
-It is only a crane, in the end — a loading beam swung out over a lane, big-shouldered against the sky, dead still. She stands with her back against freezing brick and her heartbeat filling her whole body like cargo shifting, and waits for the shape to move the way he moved, and it does not, because it is timber, and he is somewhere else. The room let him go. A roomful held the truth and opened the door and let the truth's owner walk into the storm, because their law had a place to put her and no place to put him. She does not blame them for it. She has simply noted it, the way she notes everything, in the book she keeps where no clerk can reach: the kindest room in this city saved the witness and released the knife.
+She tears a strip from the hem of her already ruined underskirt, winds it around each ankle and ties the shoes tighter.
 
-The dead man had a plan. She holds the sounds of it the way she holds the shoes — given without ceremony, impossible to refuse. *Kerk*, he said, more than once, walking her through the rain with his hand light on her sleeve, the first hand in years that had asked permission by its touch. *Hout*. A church and a wood she has no map to. Keys, without doors.
+Then she listens.
 
-So: not the church. The river. Ships she understands. A deck is a country with laws she has survived before, and at this hour, at low water, there will be men making boats ready who do not ask questions of anyone willing to work. Her plan reaches exactly that far, and she knows it, and goes anyway, because the alternative to a short plan is standing still, and standing still is what property does.
+Water first.
 
-The lane gives out onto the head of the river stairs, and the sky over the far bank has begun to fail at being black, and there, at the bottom, in the first grey of the morning, a man is untying a barge.
+She has survived enough ports to know that streets lie but drainage rarely does. The ground falls toward the Thames. The air grows colder in that direction. Tar, bilge and brine strengthen with every turning.
+
+She follows them.
+
+Two watchmen come along one lane with a lantern.
+
+Maria steps into a doorway before their light reaches her.
+
+Their English runs together. She catches three sounds because she heard them repeated in the Pelican.
+
+Bell.
+
+Rook.
+
+Pelican.
+
+One man laughs at something the other says. The laugh bothers her more than the words. By sunrise the night will belong to people who were not there.
+
+She waits until the lantern has gone.
+
+At the next corner a black shape fills the lane and her body stops before her mind does.
+
+Broad shoulders.
+
+One arm raised.
+
+For half a breath it is Rook.
+
+Then the wind moves a chain and the shape answers as timber.
+
+A crane.
+
+Maria puts one hand against the wall until the shaking in it stops.
+
+She does not tell herself she is safe.
+
+Rook is somewhere in London.
+
+Bell is dead.
+
+Safety would be an inaccurate word.
+
+She continues.
+
+Bell had tried to tell her something before the shed. He had two Dutch words and one Portuguese word he pronounced badly.
+
+*Kerk.*
+
+Church.
+
+*Hout.*
+
+Wood.
+
+And a name she did not understand at all.
+
+He had meant to take her somewhere.
+
+Whatever the plan was, he died before finishing it.
+
+Maria has no intention of standing in a lane waiting for a dead man's plan to find her.
+
+She knows ships.
+
+She knows cargo.
+
+She knows that men preparing a boat before daylight are usually more interested in tide than biography.
+
+The river is therefore enough of a plan for the next ten minutes.
+
+At the head of the stairs the sky has begun to lose its black.
+
+A man below is untying a barge loaded with timber.
+
+She knows him.
+
+The quiet Dutchman from the Pelican.
 
 * * *
 
-## III. The First Grey
+## III. Hendricks
 
-She knows the voice before she knows the man. Broad and short, built like something for pulling rather than showing, with a squint screwed into his face so long ago the weather finished the carving. She heard him downstairs after the keeper sent her up: the stranger at the bar's end with the stone bottle, speaking seldom, making the English shift on their stools like men in church. Through the boards she learned the rasp of him and the soft knock of glass on wood. This is the first time she has seen his face.
+He looks up once and goes back to the line.
 
-He sees her. His hands do not stop working the line.
+Broad, short, weathered into the shape of river work. The squint is worse in daylight.
 
-You are the woman the whole Wall is looking for, he says.
+In the Pelican he had tried Dutch first, then a few words of Portuguese so poor they barely reached her. He had understood *vivo*. Alive. Enough to send Tom and Ned toward Bell.
 
-He says it in Portuguese. Dock-Portuguese, tar in the joints of it, learned in twenty years of shouting over cargo at men from Lisbon and Goa and everywhere the trade touches — a working tongue, ugly and exact. To Maria, standing at the head of the stairs with her heart still learning that the crane was only a crane, it is the first understood sentence anyone has aimed at her since the shed. She takes it like heat.
+Now he speaks Portuguese again.
 
-She measures him the way she measures every room: the distances first. The barge behind him. The lane behind her. The water, grey and wide and colder than anything, third.
+Better than last night, though not by much.
 
-I came into that room after they sent you upstairs, he says, working. I heard them tell how they came within one rope's length of hanging you, and then reasoned themselves honest, and then felt the fine feeling of it. He spits, without heat, a matter of housekeeping. And I heard how they let the big one walk out of a door a roomful could have held.
+You took the roof.
 
-Maria says nothing. Her silence has been the strongest thing she owns for years; she is not spending it on a stranger yet.
+Maria remains at the top of the stairs.
 
-The clerk who died, the Dutchman says. He came to me a week ago. Not to me — toward me; men who are frightened walk crooked. He wanted the man at the kerk, and a place in the timber, and he asked in the wrong lane in the wrong voice, and I heard of it, because everything on this Wall is heard of. He straightens and looks at her for the first time, and the squint takes her measure without appetite, the way a man prices weather. The clerk is dead. The plan is not. Plans are harder to kill than clerks. The man at the church is real. The boat is real. The tide, he says, tipping his chin at the river, is realest of all, and it will not argue with either of us for long.
+He glances at the shoes.
 
-Why, Maria says.
+Maggie's.
 
-Her first chosen word since the shed. In the room she stammered and pleaded in two languages against a wall of English; that was noise forced out of her, the way a hold groans in weather. This is a word she has selected and paid for, and it comes out level. Why finish a dead man's plan?
+Maria understands the name because the men used it downstairs.
 
-The Dutchman is quiet for a moment. Below them the barge shifts against its fender, patient, like a large animal that knows its own business best.
+The keeper?
 
-Because the keeper stood in front of you, he says at last. And I have known that woman since her name was longer than it is now, and I am old enough to want to be of use to the few people I have decided to respect. He stows the last line. And because I am tired, he says, in the flattest voice she will ever hear him use, of watching my countrymen and yours agree so easily on what a woman in a ledger is worth.
+Hendricks nods.
 
-He steps down onto the stacked timber and does not hold out his hand.
+You know where I am going? she asks.
 
-He does not watch her decide. He goes about the boat, doing the small exact things boats need, and leaves the choice standing at the head of the stairs where she is standing, entirely, insultingly, wonderfully hers. She has been taken aboard vessels four times in her life. She has never once been left to walk aboard.
+No.
 
-Maria counts. It is what she has instead of prayer. A room saved her once, and rooms cannot be carried. A plan is a door a dead man built, and doors have keepers — but a barge is a door that moves, and a language is a door nobody can hold, and the far side of the world is full of paper, and somewhere in all that paper, in a script she cannot yet imagine, is a place for what men owe her.
+Good.
 
-She comes down the stairs and steps aboard, light as an entry.
+That earns the smallest movement at one corner of his mouth.
 
-The Dutchman pushes off. Ahead, the river turns grey in earnest.
+He finishes the knot, steps into the barge and checks the sweep.
 
-*Hout*, the Dutchman says, slapping the timber she is sitting on, by way of a berth assignment.
+The clerk, he says. Bell. He asked questions in the Dutch lanes last week.
 
-Hout, Maria says back.
+Maria does not move.
 
-Her first Dutch word. It means wood. It costs nothing, weighs nothing, cannot be confiscated, and no man on any dock in the world can enter it against her in a book. There, in the first grey of the morning, she begins to acquire the language of the wolves.
+What questions?
+
+Church. Timber ship. A woman needing to leave without English papers. He did not say your name.
+
+He did not know it at first.
+
+Hendricks looks up.
+
+Name?
+
+Maria considers the river behind him.
+
+Maria Mori.
+
+He repeats it carefully.
+
+Mori.
+
+Yes.
+
+Not Portuguese.
+
+No.
+
+He waits, perhaps expecting more.
+
+None comes.
+
+Good, he says. Portuguese names are already too many on this river.
+
+Maria cannot tell whether this is humour. His face gives no assistance.
+
+The church? she asks.
+
+Austin Friars. A man there Bell hoped would help. Joos de Vries. Timber money. Dutch congregation. Cautious enough to survive being useful.
+
+Why are you here?
+
+Because this is my barge.
+
+Why are you telling me?
+
+Because Bell came looking for a door and found the handle before Rook found him.
+
+That is not an answer.
+
+Hendricks looks at her more directly.
+
+No.
+
+He rests both hands on the sweep.
+
+Maggie has known me twenty years. If I hear a dead man was trying to put a woman on a Dutch timber ship, and that woman walks out of Maggie's house before daylight and arrives at my stairs, I can either help or spend the next twenty years hearing what Maggie thinks of the other choice.
+
+Maria watches him.
+
+That sounds true.
+
+It is also not noble, Hendricks says. I prefer reasons a man can survive having.
+
+He does not offer his hand.
+
+The tide is turning. I can take you to the Pool. After that Joos decides what risk belongs to him, and you decide what belongs to you.
+
+Maria looks once over her shoulder.
+
+Nothing moves in the lane.
+
+She descends.
+
+Hendricks turns away before she reaches the last step, giving her the useful discourtesy of not watching whether she changes her mind.
+
+She steps onto the timber without assistance.
+
+The barge eases away from the stair.
+
+Hendricks taps the stack beneath her with one knuckle.
+
+*Hout*, he says.
+
+Maria looks at the timber.
+
+Hout.
+
+Her first Dutch word learned on purpose.
 
 * * *
 
-## IV. The River's Grammar
+## IV. Downriver
 
-The barge goes down on the ebb with the ease of a thing doing what it was built for, and Hendricks stands at the sweep and does almost nothing, and the almost is the whole trade.
+Hendricks works the sweep with movements so small they are difficult to see.
 
-Maria sits low against the timber and watches him work. She has been carried by water most of her life and has never once watched the carrying done well from close by. The men who moved her before did it the way they did everything — loudly, with effort worn as display. The Dutchman corrects the barge's head with two fingers' weight and lets the river do the labour, and reads the water the way Bell read his page: ahead of the place his eyes rested, already knowing what the next line held. A shiver in the current where a sandbar has moved since spring. A seam of smooth water between two roughnesses, wide as a table, which he takes without seeming to choose it.
+Maria watches because there is nothing else she trusts yet.
 
-The Wall slides past on the larboard side, low and black, its cranes like gallows that lost their nerve. Then the tavern.
+He does not fight the river. He puts the barge where the tide is already willing to take it, corrects a little, waits, corrects again. Men who want to look strong waste effort. Hendricks seems uninterested in being looked at.
 
-She knows it by the roofline, by the lean-to she crossed in the dark, by the chimney whose soot is still on her palm. From the water it is small — one house among houses, leaning companionably into its neighbours, a thread of new smoke starting from the chimney where somebody has knelt at the hearth and coaxed the fire back for the day's first customers. Inside that smallness is the table a man died on, and a page in the dark of the wood with her line in it, and a woman with grey in her hair who stood in front of a stranger with nothing in her hand but a mallet and the whole of her own life.
+The Wall passes on their left.
 
-Maria looks at the house until the river takes it, which does not require long. She does not wave, or weep, or promise it anything. She files it. There is a room in London that reads accounts truly. It is the most valuable fact she owns, and like everything valuable it is safest carried silently.
+From the river the Pelican is smaller than it felt during the night.
 
-The Tower comes and goes on the other bank, huge and pale, with its own cranes and its own meanings. Traitors' meanings, Hendricks says, tipping his head at it, in his tar-jointed Portuguese. Kings keep ledgers too. Theirs are the only ones nobody is permitted to audit.
+One roof among roofs. One chimney smoking. One lean-to with a wet patch where Maria crossed it barefoot. Someone has opened a shutter on the river side.
 
-It is the first full sentence he has given her since the stairs. She understands perhaps two-thirds of it and banks the rest, the way she banks everything now: for later, when there will be words enough to spend.
+She cannot see who.
 
-The Pool opens ahead of them, below the bridge she never reached, and it is a forest. Masts by the hundred, black against the failing dark, yards crossed like winter branches, hulls nested two and three deep along both shores with the water lanes between them narrow as alleys. The smell is her childhood and her captivity in one breath: tar, wet hemp, bilge, fish, smoke, the cold iron smell of the tide. Somewhere among these hulls men are waking to haul cargo. Somewhere among them, entered in some book or other, is every person she has ever been.
+She does not wave.
 
-Hendricks threads the lanes without hurry. Twice he lifts a hand to a shape on a deck and the shape lifts a hand back — the currency of forty years, spent in silence. Then a hull swells out of the grey ahead, round-bellied and high-sterned, pot-bodied the way no English ship is, riding light and waiting for the tide. Across her stern, in letters Maria cannot yet read, is painted *DE HOOP*.
+She remembers Maggie's hand beside the mallet.
 
-A fluyt, Hendricks says. Timber ship. Amsterdam. He looks at Maria for a moment, the squint doing its pricing. The word means hope, he says. Do not hold that against her. Ships are named by owners, not by the sea.
+Tom's split lip.
+
+Bell saying *Anne*.
+
+A folded page disappearing beneath old timber.
+
+Then the current changes the angle and the house is behind them.
+
+Hendricks says nothing about it.
+
+Good.
+
+The Tower rises further upriver, pale in the morning. Maria has seen forts in several colours and knows that stone is usually most impressive to people permitted to leave it.
+
+What is that? she asks.
+
+A place kings put people when the paperwork is finished.
+
+She looks at him.
+
+Hendricks shrugs.
+
+My English neighbours think Dutchmen speak only in proverbs. I am trying to meet expectation.
+
+The Pool opens below London Bridge into a forest of masts.
+
+That is a language Maria understands without help.
+
+Hull shape. Freeboard. Draft. Cargo boats. Men moving before officers are awake. Wet hemp. Bilge. Fish. Smoke. A boatman shouting because another boatman has occupied the precise patch of river God intended for him personally.
+
+For the first time since yesterday afternoon, Maria knows what most of the objects around her are for.
+
+Hendricks points with his chin.
+
+There.
+
+A high-sterned Dutch fluyt lies among the shipping, round-bellied and plain, built to carry more than she impresses. Timber is already moving aboard.
+
+Across the stern is a name Maria cannot yet read.
+
+*DE HOOP.*
+
+Hope, Hendricks says.
+
+Maria looks at him.
+
+The ship?
+
+The word.
+
+Do Dutch owners always name ships after things they lack?
+
+Hendricks gives her a proper smile this time.
+
+You will manage Amsterdam.
 
 * * *
 
-## V. The Man from the Church
+## V. Joos de Vries
 
-The man who looks down over the fluyt's rail is grey and narrow and dressed with the particular quietness of money that answers to a congregation. He takes in the barge, the Dutchman, the woman in the ruined dress sitting on the timber, and his face does the thing careful faces do, which is nothing.
+The man at the rail is narrow, grey and dressed with the particular neatness of somebody whose money is respectable enough not to announce itself.
 
-Joos, says Hendricks.
+Joos, Hendricks calls.
 
-Hendricks, says the man, in the tone of a ledger acknowledging an entry it had hoped was closed.
+Hendricks, the man answers, with no sign that this is welcome news.
 
-They speak in Dutch, and Maria sits still and lets the sounds pour over her and takes what she can carry. It is not much. It is more than nothing. She hears the dead clerk's name — *Bell* — surface twice in the current of it, the way a drowned thing surfaces, and watches the grey man's mouth go flat.
+His eyes move to Maria.
 
-Then, abruptly, in Portuguese nearly as good as a Lisbon factor's and far better than Hendricks's, the man addresses her directly.
+Then to the blood on her sleeve.
 
-A week ago, he says, an English clerk stood at the door of our church and asked for a man he had heard of but could not name, for a service he could not describe, in a voice that told everyone in the lane exactly what he was doing. We sent him away. It is what caution is for. He looks at her bloodless and level. On Sunday we will pray for him, and caution will not be mentioned. You are the request he could not describe?
+Then back to Hendricks.
 
-Yes, Maria says.
+Not here, Hendricks says.
 
-The man — Joos de Vries, deacon of the Dutch church at Austin Friars, part-owner of the hull under his feet and of two others like her — studies Maria for a long moment, and she recognizes the study. She has been priced before. This is adjacent to pricing but not the same act; he is not weighing what she would fetch, but what she will cost, which is at least a species of honesty.
+That much I gathered.
 
-What is she to you? he asks Hendricks, lapsing back into Dutch. Maria catches the shape of the question anyway; some questions have only one architecture.
+They speak Dutch. Maria catches nothing except Bell's name twice.
 
-Nothing, Hendricks says. That is the point of it, Joos. She is nothing to me, and the man who died for her was nothing to me, and the keeper who stood in front of her is not nothing to me, and I am asking anyway. When did the church last get a chance to do a thing this clean?
+Joos's face alters the second time.
 
-Clean, de Vries repeats. There is a body on a tavern table and half the Wall repeating a murderer's name, and the woman the coroner will want to look at is sitting on your timber. Clean.
+Then he changes to Portuguese.
 
-The coroner will find the truth without her, Hendricks says. That room does not need the witness. It kept better evidence. He nods at the east, where the light is coming up dirty over the marshes. What she needs is to be gone before the tide turns, and what you need is a reason. So: the clerk came to your door and your caution sent him away, and he is dead. The reason is standing in front of you wearing the consequences.
+His is much better than Hendricks's.
 
-It is a hard thing to say in front of the woman herself. Maria notes that he says it anyway — that he spends the deacon's guilt like coin, precisely, without apology, the way the keeper spent the room's shame at the trial. These northern people run their mercy through bookkeeping. She had thought it cold. She is beginning to see that it is the only mercy that can be audited, and that audited mercy is the only kind the powerful cannot later deny.
+A clerk came to Austin Friars six days ago, Joos says. He asked for transport without saying transport, sanctuary without saying sanctuary and secrecy in a voice that could be heard from the street. We sent him away.
 
-De Vries looks at the water for a while.
+Maria says nothing.
 
-She cannot be a passenger, he says at last, in Portuguese, to both of them. A woman alone, entered as a passenger, is a question at every customs post from here to the Texel. Questions are lanterns. I will not light one over my ship.
+Joos does not defend the choice.
 
-Then do not enter me as a passenger, Maria says.
+He died last night? he asks.
 
-Both men look at her.
+Yes.
 
-She has spent the silence learning the shape of the problem, because the problem is the oldest one she knows: what a book will hold. She points at the stacked timber in the barge, at the hold gaping amidships, at the manifest world entire.
+And the man who killed him?
 
-Write me as cargo, she says. This time it is I who say so.
+Gone.
 
-The deacon's careful face finally does something: a small contraction around the eyes, as if the sentence had a splinter in it, which it does, and he has felt it go in, which she intended.
+Joos closes his eyes briefly.
 
-Household goods, he says slowly. Consigned to Amsterdam. Unexamined, if the fees are attended to. They generally are.
+That is inconvenient.
 
-And between here and Amsterdam she works, Hendricks says. She mends. There is always mending. He glances at Maria's hands, which are steady, and have been steady through everything, a fact the whole Pelican would swear to. And she is worth more than mending, Joos, but you will find that out at your own speed, the way the rest of us did.
+Hendricks says, For Bell especially.
+
+Joos ignores him.
+
+Your name?
+
+Maria Mori.
+
+Joos repeats the surname correctly on the first attempt.
+
+Mori.
+
+Maria notices.
+
+He notices that she notices.
+
+Portuguese? he asks.
+
+The language, yes.
+
+The country?
+
+No.
+
+Joos waits.
+
+Maria does not fill silence merely because another person has made space for it.
+
+He accepts this sooner than most men do.
+
+What do you want? he asks.
+
+A ship leaving England.
+
+Where?
+
+Anywhere Harcourt does not own the paper.
+
+Joos glances at Hendricks.
+
+That is a larger geography than she thinks.
+
+Maria catches enough Dutch in his aside to know it concerns her.
+
+Say it to me.
+
+Joos returns to Portuguese.
+
+Amsterdam is possible. Safe is not a word I offer.
+
+I did not ask for safe.
+
+No. You did not.
+
+He looks down at the timber barge, then at his own ship.
+
+You cannot be entered as a passenger. A woman travelling alone produces questions at every customs point between Gravesend and the Texel. Questions make records. Records make correspondence.
+
+Then do not enter me as a passenger.
+
+Joos's expression does not change.
+
+As what?
+
+Maria looks at the timber beneath her feet.
+
+Cargo.
+
+Hendricks stops coiling a line.
+
+Joos studies her.
+
+You understand what you are asking to be written?
+
+Yes.
+
+You objected to being written as property yesterday.
+
+I objected to someone else deciding it.
+
+That answer reaches him.
+
+Household goods, he says after a moment. One lot. Consigned to Amsterdam. The cargo is not individually examined if the fees are correct.
+
+Pay the fees.
+
+With what?
+
+Maria looks at him.
+
+That is your part of the plan.
+
+Hendricks laughs once.
+
+Joos does not.
+
+But he looks less unhappy than before.
+
+You sew?
+
+Yes.
+
+Reckon?
+
+Yes.
+
+Languages?
+
+Portuguese. Cantonese.
+
+English?
+
+No.
+
+Dutch?
+
+Maria touches the timber.
+
+Hout.
+
+Hendricks says, Practically a burgomaster.
+
+Joos considers the tide, the customs boat and the woman sitting on his cargo.
+
+Then he nods.
+
+One condition. Between here and Amsterdam you work when work is needed. You remain out of sight when it is wiser. At Gravesend, Hendricks and I decide which is which.
+
+No.
+
+Joos's eyebrows rise.
+
+No?
+
+One condition from me.
+
+You are not in a strong bargaining position.
+
+Then it costs you little to hear it.
+
+Hendricks looks at the river so Joos cannot see him smile.
+
+Maria continues.
+
+My name stays mine. Whatever the manifest says, you do not sell the description onward as the person.
+
+Joos is quiet.
+
+That is not a legal distinction.
+
+It is mine.
+
+Another silence.
+
+Then Joos says, Agreed.
+
+Maria steps from Hendricks's timber to the fluyt's ladder.
+
+No one carries her aboard.
 
 * * *
 
 ## VI. Pieter's Coat
 
-The transfer is a matter of minutes — the barge alongside, a ladder of battens, timber beginning to sling aboard above her head as the fluyt's crew wakes into its work. It is when she turns to climb that Hendricks stops her, with a hand held up, not touching. He has not once touched her. She has noticed.
+Before she climbs, Hendricks raises one hand.
 
-From the locker under the sweep he brings out two things.
+Wait.
 
-The first is a coat. Sea-wool, heavy as a rolled sail, the colour weather leaves when it has taken all the others, mended at the cuffs by a hand that mended for love and not for wages. It is far too big for her. It was too big for its owner too, though she cannot say why she believes it — bought, perhaps, to make a fevered man believe he could be warm.
+From the locker beneath the sweep he takes a sea-wool coat, heavy and weather-grey, mended at both cuffs by a careful hand. It is far too large for Maria.
 
-My brother's, Hendricks says. Pieter. He went east with the first of the wolf-fleets, before your Company or mine had names. He came home with a fever and a stare, and died in a lodging house off the Ratcliff road raving about islands, and I have hauled this coat up and down this river for six years because throwing a dead man's coat in the tide is a thing I have not found the mathematics for. He holds it out flat across both arms, an offering, not a charity. It is not lent, he says. It is given. A given thing cannot be called back. You of all people should own one thing with that property.
+My brother's, Hendricks says. Pieter.
 
-Maria takes the coat. The weight of it settles onto her shoulders like a hand that asks permission.
+He went east before either Company had learned to boast properly about being a Company. Came home with fever and talked about islands until he stopped talking at all.
 
-The second thing is a packet. Oilskin, tied with tarred string, soft at the corners from years in a locker. She can feel through the skin of it that it is paper.
+He holds the coat out.
 
-His discharge, Hendricks says. His book from the voyage. The parts he wrote before the fever are a sailor's parts — wages, weather, a girl in the Texel roads. The parts he wrote after are the islands. I have had six years to get them read to me and I have not done it, and I will tell you the truth of why, because you are leaving on the tide and the truth costs me nothing tonight: I have the fever parts by heart from his own mouth, and I did not want to learn that the writing was worse.
+Maria does not take it immediately.
 
-He puts the packet into her hands and closes her fingers over it with one blunt tap, the only touch he will ever give her.
+Borrowed?
 
-Learn the words, he says. Dutch first; the wolves keep their books in it. When you can read this, you will know what is waiting for you east of everything — not the spice, not the money; the thing my brother saw and could not carry. Then burn it, or keep it. It is no use to me. It has been no use to me for six years, and it is the heaviest thing on this barge.
+Given.
 
-Maria holds the packet against her ribs, and some part of her is already learning a habit from the weight she cannot yet name.
+Why?
 
-Then he does the last thing. He takes the squat stone bottle from his coat, uncorks it, and holds it out.
+Because I have carried a dead man's coat up and down this river for six years and it has not improved either of us.
 
-Genever. Dutch physic. She has watched the English refuse it all night with their faces. She drinks. It goes down like a lit wick — juniper, fire, pine resin — and her eyes water, and on the deck above a sailor laughs, not unkindly, at her face.
+That answer she understands.
 
-For the voyage, Hendricks says, taking the bottle back and corking it with his thumb. Courage enough to reach Amsterdam. After that you will need your own. He looks at her from inside the squint, and for one moment the pricing look is gone and something older is in its place. You are sailing to my countrymen, he says. Know them for wolves and you will do good business. Know them only for wolves and you will become one. My brother could not hold both. Hold both.
+She takes the coat.
 
-He steps back to the sweep. Above them the deacon calls something about the tide, and the fluyt begins to gather herself, and the lanes of the Pool fill with the first full light.
+It is warm from the locker and smells faintly of tar, old wool and juniper.
 
-Go up, Hendricks says. Cargo stows itself aboard, in my experience, when it is the self-loading kind.
+Hendricks reaches in again and brings out an oilskin packet tied with tarred string.
 
-Maria climbs. From the fluyt's rail she watches the barge fall away astern, the broad short figure at the sweep already turned to his own business, taking the river's next sentence without looking back — and she understands that this, too, was given and not lent: he has made the parting weigh nothing so that she does not have to carry it.
+Paper.
 
-The manifest goes to the customs men at Gravesend with the fees attended to. Somewhere in its columns, between deals and battens, an entry rides in a clerk's small Dutch hand: *household goods, one lot, consigned*. Entered by her own instruction, which is a thing no ledger has a column for, and the beginning — though no clerk alive could read it there — of the language of paper.
+Maria's hand stops.
 
-All down the river to the sea, wrapped in a dead man's coat with a dead man's book against her ribs, Maria sits among the timber and collects Dutch off the wind the way gulls collect the wake. *Hout.* *Touw.* *Water.* *Thuis*, which the youngest sailor says to the horizon, twice, softly — a word for home, by the sound of it, though she cannot yet be sure — and she takes it anyway, on account, against the day she has somewhere to spend it.
+His discharge and his book, Hendricks says. Wages. Weather. Names. Then fever. He wrote about the islands after he came back. I never had the later pages read to me.
+
+Why not?
+
+Because I heard enough from his mouth.
+
+He puts the packet on top of the coat rather than into her hands.
+
+Learn Dutch before you read it. Then decide whether it deserves keeping.
+
+Maria takes the packet.
+
+The weight is slight.
+
+The reaction is not.
+
+Hendricks sees that and looks away.
+
+One last thing.
+
+He produces the squat stone bottle Maria saw beside him in the Pelican.
+
+Genever, he says. Dutch medicine for English weather and Dutch conversation.
+
+Maria smells it.
+
+Juniper.
+
+She drinks once.
+
+Fire goes down her throat and arrives behind her eyes. A sailor above them laughs when she coughs.
+
+Maria looks up at him until he finds work elsewhere.
+
+Hendricks takes the bottle back.
+
+Useful skill, he says.
+
+Which?
+
+The looking.
+
+He corks the bottle.
+
+You will meet good Dutchmen and bad Dutchmen. Most will be both before dinner. Do not waste time deciding what a whole country is.
+
+Maria looks at Joos.
+
+He is already arguing with a customs man.
+
+That seems reasonable.
+
+Go, Hendricks says. Tide.
+
+Maria puts on Pieter's coat.
+
+The sleeves cover half her hands. She folds them once.
+
+The packet goes inside against her ribs.
+
+She climbs.
+
+From the fluyt's rail she watches Hendricks's barge fall away astern. He has already turned back to the sweep.
+
+No farewell.
+
+No request that she remember him kindly.
+
+Nothing else to owe.
+
+At Gravesend the manifest will describe a lot of household goods among timber and stores.
+
+Maria Mori will not appear on that page.
+
+For the first time in years, an omission is something she chose.
 
 * * *
 
@@ -224,25 +734,39 @@ This is not luck. Luck is what men call a woman's work when they arrive after it
 
 Anne has had four hours.
 
-The first hour belongs to the dead. Matthew comes home on a door lifted flat between two parish men, his cap under Arthur's arm and one side of his coat stiff where the blood has dried. The men set him on the bed he left before supper. They ask whether she has somebody to sit with her. Anne says she has two girls asleep through the wall and a neighbour already awake. This is not an answer to their question. It is the answer they require before they can leave.
+The first hour belongs to the dead.
+
+Matthew comes home on a door lifted flat between two parish men, his cap under Arthur's arm and one side of his coat stiff where the blood has dried. The men set him on the bed he left before supper. They ask whether she has somebody to sit with her.
+
+Anne says she has two girls asleep through the wall and a neighbour already awake.
+
+This is not an answer to their question. It is the answer they require before they can leave.
 
 Arthur stays.
 
-He tells her Matthew spoke at the Pelican and that Tom heard him. He tells her about the copied page and the woman who carried the original into the Pelican. He tells her Silas Rook has gone. He begins to tell her what the room did right.
+He tells her what happened at the Pelican. He begins too neatly: Rook's accusation, Tom standing, the boots, the knife, the wind.
 
 Anne stops him.
 
-Did the man get away?
+Did Rook get away?
 
 Yes.
 
-Then tell me what the room did, not what it meant.
+Was Matthew alive when they found him?
+
+Yes.
+
+Did he die?
+
+Yes.
+
+Then tell me the night in that order, she says. You can arrange it later if you still need to.
 
 Arthur starts again.
 
-At the end, Anne asks how many sheets exist.
+At the end Anne asks how many sheets exist.
 
-Three in all. The original. One copy for the parish bundle. One for her. The original is beneath Maggie's bar unless the foreign woman has moved it since Arthur left.
+Three in all. The original. One copy for the parish bundle. One for her. The original is beneath Maggie's bar unless somebody has moved it since Arthur left.
 
 The parish copy is already out of their hands. Her copy is still inside Arthur's coat.
 
@@ -256,9 +780,13 @@ Arthur looks at Matthew on the bed. The ink bruise on his own finger is fresh en
 
 Then what do I do with it?
 
-Take me to the original.
+Bring it when I come to the Pelican.
 
-The second hour belongs to the living. Anne wakes the neighbour and carries both girls across the landing wrapped in one blanket. The elder wakes enough to ask why men have put Father's boots by the door. The younger does not wake at all. Anne tells the truth in the smallest amount that will hold until daylight.
+The second hour belongs to the living.
+
+Anne wakes the neighbour and carries both girls across the landing wrapped in one blanket. The elder wakes enough to ask why men have put Father's boots by the door. The younger does not wake at all.
+
+Anne tells the truth in the smallest amount that will hold until daylight.
 
 Your father is dead. You are safe. I am going out and coming back.
 
@@ -270,11 +798,15 @@ The third hour belongs to Harcourt.
 
 Anne knows the shape of his search because men owing him money have come to Matthew's table for six years. They arrive believing a clerk's house must contain a clerk's work. They lift the mattress first. Then the loose board beside the hearth. Then the flour crock, because a poor family is supposed to hide its treasure in food. They ask the wife whether her husband brought home papers. If she says no, they ask the children separately.
 
-She removes nothing valuable. There is almost nothing valuable to remove. She separates what is dangerous from what is merely poor.
+She removes nothing valuable. There is almost nothing valuable to remove.
+
+She separates what is dangerous from what is merely poor.
 
 Matthew's three scraps of copied names go into the fire. They are not proof of any whole account, only enough writing to let Harcourt say part of the stolen page passed through the rooms. A direction to the Dutch church goes after them. Anne watches every letter blacken before she rakes the ash apart and lays fresh coal over it.
 
-The rent receipt, the baker's tally and the pawn ticket for her winter cloak remain in the small chest. They are not secrets. They are armour.
+The rent receipt, the baker's tally and the pawn ticket for her winter cloak remain in the small chest.
+
+They are not secrets. They are armour.
 
 Inside Joan's primer she finds a narrow strip in Matthew's hand: four figures, two initials and a line drawn beneath them. The child must have taken it from his table to mark her place.
 
@@ -294,7 +826,9 @@ I know.
 
 They would not search me.
 
-They will search whatever they can make smaller than themselves.
+Anne looks at her.
+
+They will search whatever they think cannot object.
 
 The girl looks down at the younger child still sleeping against her shoulder.
 
@@ -302,7 +836,13 @@ Anne crouches so their faces are level.
 
 You do not carry paper for a dead man's courage. You carry your sister until I return. That is enough work for one morning.
 
-The fourth hour takes her to the Pelican, where she sees the table, hears Matthew's name spoken as a name, refuses Arthur's copy and burns it herself. When she walks back into Shadwell, the steward is waiting at her door with two warehouse men.
+The fourth hour takes her to the Pelican.
+
+She sees the table. She hears Matthew's name spoken. Arthur gives her the copy and explains what Bell wrote.
+
+She burns it herself in the hearth.
+
+When she walks back into Shadwell, the steward is waiting at her door with two warehouse men.
 
 The knock has not yet fallen.
 
@@ -326,7 +866,11 @@ Show you what?
 
 His authority.
 
-The steward produces a folded instruction bearing Harcourt's mark. It requires the recovery of books, memoranda, copies, seals and other effects belonging to the merchant house and lately in Matthew Bell's possession. It does not authorize a search. It assumes one.
+The steward produces a folded instruction bearing Harcourt's mark. It requires the recovery of books, memoranda, copies, seals and other effects belonging to the merchant house and lately in Matthew Bell's possession.
+
+It does not authorize a search.
+
+It assumes one.
 
 Anne reads slowly. Matthew taught her enough letters to find a sum and enough words to know when a sum has been hidden inside them. She reaches the end and gives the paper back.
 
@@ -350,7 +894,9 @@ Anne lifts the latch before he can knock.
 
 You may look. You will say aloud what you take, and one of your men will write a receipt before it leaves. My husband's goods belong to his estate. My goods belong to me. Harcourt's goods may go to Harcourt. If you cannot tell the three apart, leave them where they are.
 
-The rule is larger than the law available to her. She says it as if somebody has already judged in her favour.
+The rule is larger than the law available to her.
+
+She says it as if that need not matter.
 
 The warehouse men wipe their boots.
 
@@ -360,7 +906,11 @@ The steward does not.
 
 ## IX. The Rooms
 
-Matthew lies behind the inner curtain with a clean cloth over his face. The steward pauses when he understands what occupies the bed. Anne watches him decide whether death makes the room private. Harcourt's instruction wins.
+Matthew lies behind the inner curtain with a clean cloth over his face.
+
+The steward pauses when he understands what occupies the bed. Anne watches him decide whether death makes the room private.
+
+Harcourt's instruction wins.
 
 They begin with the table.
 
@@ -410,7 +960,11 @@ The steward closes the chest.
 
 He lifts the mattress anyway.
 
-The bed beneath Matthew's body cannot be searched without moving him. Harcourt's man stands at its foot, measuring the offence against the instruction in his hand. Anne says nothing. The dead are doing the only household labour death permits them.
+The bed beneath Matthew's body cannot be searched without moving him. Harcourt's man stands at its foot, measuring the offence against the instruction in his hand.
+
+Anne says nothing.
+
+The dead are doing the only household labour death permits them.
 
 He moves to the girls' pallet.
 
@@ -468,7 +1022,9 @@ Can you prove that?
 
 Can you prove he did not?
 
-For the first time, something like anger reaches the steward's face. He has spent a morning finding no stolen page, no secret duplicate and no frightened child willing to improve his knowledge. An empty satchel has become the only thing his visit can recover.
+For the first time, something like anger reaches the steward's face. He has spent a morning finding no stolen page, no secret duplicate and no frightened child willing to improve his knowledge.
+
+An empty satchel has become the only thing his visit can recover.
 
 It bears the house mark.
 
@@ -510,90 +1066,14 @@ That is not an answer.
 
 It is the answer your paper allows you to collect.
 
-The three men leave with the satchel. Anne closes the door after them. She waits until their steps reach the street, then draws the bolt.
+The three men leave with the satchel.
 
-The room has been opened, emptied, searched and left poorer by one useless bag. It still contains two spoons too few, rent through Candlemas, three days' flour, two living girls and one dead man whose account Master Harcourt cannot find.
+Anne closes the door after them. She waits until their steps reach the street, then draws the bolt.
+
+The room has been opened, emptied, searched and left poorer by one useless bag.
+
+It still contains two spoons too few, rent through Candlemas, three days' flour, two living girls and one dead man whose account Master Harcourt cannot find.
 
 Anne looks at the receipt.
 
 Legal eats less bread than theft.
-
-Until this morning it was something she said at supper to a husband who wanted the word *legal* to end an argument. Now it is a procedure.
-
-* * *
-
-## XI. The Door After
-
-The girls help put the pallet back together.
-
-Anne makes the elder say what the men searched. Table. Cupboard. Crock. Chest. Bed. Pallet. Hearth. She makes her say what they took. One satchel. She makes her find the three signatures on the receipt, though the child can read only the first letters.
-
-Why remember it if we have the paper? the girl asks.
-
-Because paper can leave.
-
-Why keep the paper if we remember?
-
-Because men who do not believe girls sometimes believe their own names.
-
-There is another knock.
-
-Both children freeze.
-
-Anne opens the door herself.
-
-Maggie stands outside with a covered pot under one arm, a loaf beneath the other and no speech prepared. She looks past Anne at the straw on the floor and the cupboard doors left open.
-
-Harcourt? she asks.
-
-His steward.
-
-Did he find anything?
-
-His own name, by the end.
-
-Maggie gives the pot to the elder girl. Mutton broth, onions, barley. Enough for two days if water is added tomorrow and nobody objects to honesty in soup.
-
-I did not ask for charity, Anne says.
-
-It is not charity.
-
-Then what is it?
-
-Breakfast is past. Call it dinner.
-
-The girls have already lifted the lid. Steam reaches the room before either woman can turn the food into principle.
-
-Anne sets four bowls on the table. There are only two spoons, so the girls take those. Maggie drinks from the bowl when Anne gives her one. Anne does the same. Nobody speaks of forgiveness. There is too much broth and not enough language for it.
-
-When they have eaten, Maggie asks whether Anne wants the original brought away from the tavern.
-
-No. Keep it where merchants do not look.
-
-And if they search the Pelican?
-
-Make them name what they are taking. Make them write their names beneath it. Make the search cost them daylight.
-
-Maggie considers this. I have a mallet.
-
-Use the receipt first.
-
-The elder girl listens from the pallet. Name. Master. Thing. Authority. Receipt. She repeats the five words under her breath, fitting them to her fingers.
-
-Anne hears her.
-
-Again, she says.
-
-The girl says them again.
-
-The younger joins her without understanding. By the third repetition both children know the order.
-
-Outside, carts begin the day's passage toward the river. Harcourt's warehouse opens. Arthur sits down in Bell's chair. Tom walks east with a signed paper in his coat. Maria is already beyond the rooms any English steward knows to search.
-
-In Shadwell, a widow bolts her own door and teaches two girls how to make a lawful man account for himself.
-
----
-
-## Editorial notes (proposal only — not deployed)
-
-Merge of `06-1603-the-soot-and-the-roof` + `20-1603-the-stewards-search` per the chapter-consolidation plan (`editorial/chapter-consolidation-plan.md`). Sections renumbered continuously (I–XI); prose otherwise unchanged from the already-deployed present-tense text. Epigraph kept from `06-1603-the-soot-and-the-roof`.
