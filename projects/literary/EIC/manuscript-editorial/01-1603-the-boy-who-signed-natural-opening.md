@@ -1,5 +1,3 @@
-<!-- PROPOSED STEP 4 REWRITE. Editorial branch only. Replaces the formal court / Wapping Twelve mechanism with an ordinary Pelican night that turns dangerous. Preserves downstream canon dependencies: Tom signs; Matthew Bell is murdered; Maria survives; Silas Rook escapes; Bell's page enters the fault; Tom leaves the thimble; Anne burns Arthur's copy; Arthur takes Bell's chair. -->
-
 # 1603: The Boy Who Signed
 
 > **1603**
@@ -734,12 +732,6 @@ Not after Rook.
 
 After Bell.
 
-There are enough men in the Pelican to do both things.
-
-Nobody does.
-
-That fact will survive longer than the storm.
-
 The plankway behind the tavern is slick but above the mud. It leads between stacked timber to the roofed breaking shed Rook uses when weather keeps the yard men home.
 
 Bell lies inside among stripped pine.
@@ -792,7 +784,7 @@ Carter takes the front end.
 
 Elias pushes cups aside with one arm.
 
-People who could not decide who should stop Rook now know exactly what to do with a dying man.
+People who could not decide what should happen to Rook now know exactly what to do with a dying man.
 
 It is too late.
 
@@ -864,7 +856,7 @@ Names. Sums. Transfers. Debts carried from one venture into another after the me
 
 A woman entered between material charges.
 
-*Maria de Sousa — Portuguese servant — transfer pending.*
+*Maria Mori — Portuguese servant — transfer pending.*
 
 Maria sees her name and touches it with one finger.
 
@@ -928,8 +920,6 @@ Arthur looks worse.
 
 No, he says again. Men like Harcourt do not write knife.
 
-That sentence stays in the room.
-
 Tom looks down at Bell.
 
 The man asked me if I would sign.
@@ -948,11 +938,7 @@ Then at Bell.
 
 No.
 
-Maggie nods.
-
-Not approval.
-
-Entry.
+Maggie nods once.
 
 Good, she says.
 
@@ -1010,17 +996,7 @@ There is an old fault in the oak where the join has opened just enough for spill
 
 She slides Bell’s page into it.
 
-Not ceremonially.
-
-Not as the first page of anything.
-
-Because Harcourt’s men will search pockets before they search old timber.
-
-That is all.
-
-It becomes more later.
-
-Most things do.
+Harcourt’s men will search pockets before they search old timber.
 
 ## VI. Upstairs
 
@@ -1153,10 +1129,6 @@ Maggie does not take it immediately.
 Tom puts it beside the ale.
 
 Eventually she picks it up.
-
-Not because she believes promises made by young sailors.
-
-Because small things are easier to keep than men.
 
 ## VII. Anne
 
@@ -1342,10 +1314,6 @@ Pell corrects him once and then refuses to speak again.
 
 Tom says Rook struck him, held the knife and tried to reach Maria after the room questioned his account.
 
-Nobody calls the room a court.
-
-Nobody calls what happened justice.
-
 Five days later the finding comes back.
 
 Matthew Bell, clerk, unlawfully slain.
@@ -1358,7 +1326,7 @@ The woman is described as a foreign female, name uncertain.
 
 Tom reads that line twice.
 
-Maria de Sousa, he says.
+Maria Mori, he says.
 
 Arthur is beside him.
 
@@ -1374,7 +1342,7 @@ I know.
 
 Arthur takes out his pencil and writes it in the margin of his own copy.
 
-Maria de Sousa.
+Maria Mori.
 
 It changes nothing official.
 
@@ -1459,8 +1427,6 @@ Men are shouting along the stairs.
 A boat waits to take him downriver.
 
 Maggie puts the thimble into the fault beneath the bar, beside Bell’s folded page.
-
-Two things kept for entirely different reasons.
 
 Tom shoulders his bag.
 
