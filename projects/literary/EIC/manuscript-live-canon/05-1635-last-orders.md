@@ -14,541 +14,247 @@ hero: none
 >
 > — Joan, keeper of the Pelican, 1635
 
-## I. The Road West
+## I. Paid Off
 
-A ship pays off at Blackwall on a soft grey morning in the spring of 1635.
+The ship pays off at Blackwall on a soft grey morning in the spring of 1635.
 
-Tom walks west with his sea-bag over one shoulder.
+Tom Fletcher is the last man down the gangway.
 
-His knees have begun predicting rain. The scar through his eyebrow has faded enough that a stranger might miss it. There is money in his coat, no debt attached to it and no man living with permission to open a new account in his father's name.
+Boatswain.
 
-The road is busier than he remembers and narrower for it.
+Thirty-two years after he first left Wapping with a Company paper inside his coat, men now wait for his order before they put weight on a line. The younger hands call him Boatswain even after the master has closed the book and the berth no longer belongs to anybody.
 
-Company carts take the middle. Warehouses have replaced gardens. Boys unload bales marked with ports Tom once knew only from sailors' lies: Surat, Masulipatam, Bantam. Calico goes past under canvas. Indigo stains one cart bed blue. Pepper no longer arrives as a wonder. It arrives by weight.
+One of them starts to argue with the pay clerk over a deduction.
 
-A cart with the Company's mark bears down on him and Tom steps into the ditch from habit.
+Tom looks at the figure.
 
-The cart passes.
+Wrong column, he says.
 
-He looks at the empty road behind it and laughs once at himself.
+The clerk checks.
 
-At Carter's yard a morning gang is lifting Riga pine. The tackle rises evenly. Jack Mercer's name is painted small beside the rigger's mark on the gate.
+Moves it.
 
-Tom stops across the road.
+Nobody argues after that.
 
-One load goes up.
+Tom shoulders his sea-bag and walks west.
 
-True.
+His knees predict rain. The scar through his eyebrow has gone pale. In the bag are two shirts, a knife, spare line, a packet of mace and a square of blue cotton folded around his father’s old silver whistle.
 
-He does not go in.
+He has not blown the whistle in years.
 
-There will be time, or there will not. He has learned not to make a man perform his life merely because somebody has come home to inspect it.
+A boatswain does not need to blow twice when the crew already knows his voice.
 
-The sea-bag is heavier than its contents justify.
+At Carter’s yard men are lifting Riga pine. Jack Mercer’s name is painted beside the rigger’s mark on the gate.
 
-Two shirts. Knife. Spare line. A packet of mace wrapped against damp. A length of blue cotton bought three ports ago because the pattern reminded him of another piece of cloth and because he remains, despite evidence, a man who buys gifts before checking whether anybody is alive to receive them.
+Tom watches one load rise cleanly.
 
-The Pelican sign appears beyond the next bend.
+Then keeps walking.
+
+The Pelican sign appears beyond the bend.
 
 Same bird.
 
 New paint.
 
-Tom slows without meaning to.
-
-The shutters are open. Smoke comes from the chimney. Somebody is arguing about a cask before noon.
-
-He puts one hand on the latch.
-
-Then goes in.
+Tom puts his hand on the latch and goes in.
 
 ## II. Feed Him First
 
 The room reaches him before the faces do.
 
-Ale. Wet wool. Woodsmoke. Onion. Tar brought in on somebody's coat.
+Ale. Woodsmoke. Wet wool. Tar.
 
-His eyes travel automatically to the counter.
+Then the counter.
 
 A woman stands behind it.
 
 Not Maggie.
 
-Tom knows that before he knows who the woman is.
+Tom knows Joan Bell when she turns.
 
-She is broad-shouldered, perhaps thirty, with dark hair pinned up badly because work has pulled half of it loose. He has seen the face before at another age: a girl carrying bowls while Daniel Vale sat by the hearth with both hands wrapped around a covered cup.
+She knows him too.
 
-Joan Bell.
+Her eyes go once to the scar and then to the sea-bag.
 
-She sees his eyes search the length of the bar and return to her.
-
-Neither of them pretends otherwise.
+Mr Fletcher.
 
 Tom removes his cap.
 
-Cellar still takes water on the spring tide?
+Maggie?
 
-Less since we raised the first row of casks.
+Joan does not soften the answer.
 
-Chimney?
+Turn of ’33.
 
-Draws when it feels respected.
+Tom stands very still.
 
-And Maggie?
+Chair by the hearth, Joan says. Morning. I found her.
 
-Joan reaches for a plate.
-
-Sit down.
-
-Tom remains standing.
-
-Joan looks at him.
-
-She left an order.
-
-That sits him.
-
-He takes the stool nearest the hearth. The sea-bag goes between his boots.
-
-Joan opens the oven.
-
-He smells mace.
-
-His hands close once on his knees.
-
-She sets a meat pie in front of him and a pint beside it.
-
-Steam escapes where the crust has split.
-
-Joan wipes her hands on her apron.
-
-If a scarred man named Fletcher ever comes through that door, she says, feed him first. Then tell him.
-
-Tom looks at the pie.
-
-How long?
-
-Eat.
-
-How long, Joan?
-
-She holds his eyes for a moment.
-
-Two winters.
-
-Tom looks down again.
-
-The pie is still steaming.
-
-He eats.
-
-Not because he is hungry, though he is.
-
-Because Maggie left the order and the house has kept it for two years.
-
-The filling is mutton. Mace. Onion. The gravy is thicker than Maggie's.
-
-There is thyme in the crust.
-
-Tom stops chewing.
-
-Joan, serving a pair of watermen, notices.
-
-What?
-
-Thyme.
+Was she alone?
 
 Yes.
-
-She never used thyme.
-
-I know.
-
-Tom eats the rest.
-
-By the final mouthful he is grateful for the thyme.
-
-Joan clears three cups, refuses another man credit and goes into the cellar while Tom finishes the gravy with a heel of bread.
-
-The room continues around him.
-
-That helps.
-
-When the plate is clean, Joan comes back.
-
-Turn of '33, she says. Morning. Chair by the hearth. Fire laid. Till counted twice. She had shown me where the deeds were the night before and called it housekeeping.
-
-Was she ill?
-
-Her heart had been warning her. She called it indigestion because indigestion can be worked through.
-
-Tom looks toward the chair.
-
-Who found her?
-
-I did.
-
-Alone?
-
-Yes.
-
-He nods.
 
 Churchyard?
 
 By the wall. Near Barnaby and Elias.
 
-Joan takes his empty plate.
+Tom nods.
 
-She said you would ask about the cellar before you asked about her.
+Joan puts a plate on the bar.
 
-Tom looks up.
+Mutton pie. Mace. Thyme in the crust.
 
-Did she.
+Tom looks at it.
 
-She also said you would eat the whole pie if ordered properly.
+She left an order, Joan says. If Fletcher comes back, feed him first. Then tell him anything else he asks.
 
-That sounds less charitable.
+Tom sits.
 
-She was rarely charitable before noon.
+He eats the whole pie.
 
-Tom's mouth moves.
+Halfway through he notices the thyme.
 
-Not quite a smile.
+Maggie never used thyme.
 
-He reaches into the sea-bag and takes out the packet of mace.
+No.
 
-For her, he says.
+Joan says nothing more.
 
-Joan accepts it.
+The difference belongs to her.
 
-She complained the last packet was stale.
+When the plate is clean, Tom takes the packet of mace from his bag and puts it on the counter.
 
-It crossed two oceans.
+Bought it for her.
 
-She said the oceans should have improved it.
+Joan takes it.
 
-Tom puts both hands around the pint.
+I’ll use it.
 
-Joan lets him sit.
+Tom drinks half the pint.
 
-After a while he asks, Anything else?
+Then stands.
 
-About what?
+## III. Maggie
 
-Me.
+The churchyard is wet.
 
-Joan thinks.
-
-She said if you reached for the thimble before eating, I was to hit your hand with the cask mallet.
-
-Tom looks beneath the counter.
-
-The mallet is there, darker than he remembers.
-
-That all?
-
-That was enough instruction for one man.
-
-Joan turns away to serve somebody else.
-
-Tom drinks.
-
-## III. The Stone
-
-He goes to the churchyard before the evening crowd comes in.
-
-The rain has stopped. Water stands in the lettering on the older stones.
-
-Maggie's is near the wall, exactly where Joan said.
+Maggie’s stone is exactly where Joan said.
 
 MARGARETA LINDHOLM-BLACK.
 
-The years.
-
 KEEPER OF THIS PARISH.
 
-Tom reads it twice.
+Tom reads the name once.
 
-He has spoken to dying men because dying men sometimes need orders. He has spoken to bodies before committing them to the sea because the living need to hear a name once more.
+He has spoken to men before putting them over the side. He has given orders in storms loud enough to tear words apart. He has stopped fights with one look and sent boys aloft who were frightened enough to hate him for it.
 
-Stone requires nothing.
+Stone asks nothing of him.
 
-He sets one hand on the top of the marker.
+He rests one hand on the top.
 
 Cold.
 
 Wet.
 
-The packet of blue cotton stays in his bag.
+Good afternoon, Maggie.
 
-Good afternoon, Maggie, he says.
+That is all.
 
-It sounds foolish.
+He goes back to the Pelican.
 
-He leaves it there anyway.
+## IV. The Boy
 
-Then he goes back to the Pelican.
+By evening the house is full.
 
-## IV. The Boy at the End of the Bar
+Two sailors paid off from Tom’s ship come in and see him by the hearth.
 
-By evening the room is full.
+They straighten without meaning to.
 
-Watermen. Two sailors paid off with Tom that morning. A tar burner trying unsuccessfully to reopen his credit. Men Tom does not know sitting on stools that once belonged, by habit if not law, to men now under stones.
+Boatswain.
 
-A boy sits alone at the short end of the counter.
+Tom gives them a nod.
 
-Seventeen, perhaps.
+They leave him alone.
 
-His coat belonged first to somebody with wider shoulders. A folded paper lies under his cup to keep one corner flat.
+At the short end of the bar sits a boy of perhaps seventeen with Company articles beneath his cup.
 
-Tom watches him touch it twice.
+Tom sees the paper before he sees the boy.
 
 Which ship?
 
-The boy looks up.
-
-*Discovery*.
-
-Company?
-
-The mark on the paper answers.
-
-The boy nods.
-
-Tom moves one stool closer.
-
-Who takes your wage?
-
-My mother gets four shillings a month.
-
-And the rest?
-
-Mine. Less advance and kit.
-
-How much kit?
-
-The boy looks at the paper.
-
-Reasonable cost.
+Discovery, sir.
 
 Tom holds out his hand.
 
-The boy hesitates, then gives him the contract.
+The boy gives him the paper.
 
-The hand is not Bell's. Not Arthur's either. Maybe trained by a clerk trained by Arthur. Tom cannot tell anymore.
+Tom reads.
 
-He reads.
+Kit at reasonable cost.
 
-Mattress. Chest. Knife. Shirts. Surgeon when required. Lost gear charged at valuation. Burial recovered from accrued wage.
+Lost gear at valuation.
 
-Tom taps one line.
+Surgeon when required.
 
-Ask for a number here.
+Replacement charges left open.
+
+He taps the first blank.
+
+Number.
+
+Sir?
+
+Make them put a number there.
 
 They said they cannot know until I am fitted.
 
-Then ask for a limit.
+Then they can write the most they are allowed to take.
 
-Will they give one?
+Tom taps the next.
 
-Maybe.
+And there.
 
-And if they do not?
+The boy nods.
 
-You decide whether not knowing is worth the berth.
-
-The boy studies him.
-
-Were you Company?
-
-Long enough.
-
-Did you make money?
-
-Some.
-
-Was it worth it?
-
-Tom looks toward the counter.
-
-Joan is cutting bread.
-
-The bung mallet lies where Maggie's hand used to find it.
-
-What is on land? he asks.
-
-The boy frowns.
-
-Nothing with wages.
-
-And at sea?
-
-Wages.
-
-That is an answer about money.
-
-The boy looks irritated.
-
-What answer do you want?
-
-Tom almost says it.
-
-Then hears Maggie before he does.
-
-That was not my question.
-
-The boy's expression changes.
-
-Tom puts the paper back between them.
+Tom gives the paper back.
 
 Do you want the sea?
 
-The boy looks at the contract.
+Yes, sir.
 
-Then at his hands.
+The answer comes quickly.
 
-I want the ship.
+Tom studies him.
 
-Tom nods.
+The ship, or the sea?
 
-Different thing.
+The boy thinks this time.
 
-I know.
+The sea.
 
-Good.
+Tom nods once.
 
-The boy waits for more.
+Then read everything they put between you and it.
 
-None comes.
+Joan sets stew in front of the boy.
 
-Joan puts stew in front of him.
+Food first.
 
-I did not order this.
+Tom looks at her.
 
-Food first, she says.
+For the first time that evening, something almost like a smile reaches his face.
 
-The boy looks from her to Tom as though they have arranged something against him.
+The boy begins to eat.
 
-Tom gives him back the contract.
+Tom does not tell him whether to sign.
 
-Take somebody who reads better than you when you go back. Do not let the clerk choose who.
+## V. What Stayed
 
-The boy folds it.
+After last orders Joan bolts the door.
 
-Will you come?
+Tom is still there.
 
-No.
-
-Why not?
-
-Because then you will start thinking my answer belongs on your paper.
-
-The boy considers this.
-
-Then eats.
-
-Joan looks at Tom once from behind the counter.
-
-A small nod.
-
-Nothing more.
-
-That is enough.
-
-## V. What Remained Dry
-
-Late, after the watermen leave and the tar burner has finally accepted that credit is not a natural right, Joan bolts the door.
-
-Tom is still by the fire.
-
-She wipes a length of counter that does not need wiping.
-
-He notices.
-
-Joan notices him noticing.
-
-Do not start, she says.
-
-I said nothing.
-
-Your face did.
-
-Maggie taught you that?
-
-No. Working a bar did.
-
-She bends and reaches beneath the old oak.
-
-Tom stands.
-
-The fault in the timber is narrower than he remembers.
-
-Or his hands are larger.
-
-The notches run beneath it, worn at their edges by thirty years of fingers finding them in the dark.
-
-Joan sets three folded packets on the counter.
-
-The first has Matthew Bell's name in Arthur's hand.
-
-Tom does not open it.
-
-The second carries Daniel Vale's signature.
-
-He touches the edge with one finger.
-
-The third is wrapped in oilskin.
-
-Maria Mori's hand appears on the outer sheet.
-
-Tom opens that one only far enough to recognise the factor's old annotation about Rook and Maria's retained warning beneath it.
-
-He closes it.
-
-Still dry, Joan says.
-
-Yes.
-
-Behind the papers, almost lost against the dark oak, is a brass thimble.
-
-Tom reaches in.
-
-His finger touches the rim.
-
-Thirty-two years disappear badly.
-
-His mother's hand.
-
-Maggie dropping it at his feet.
-
-Maggie picking it up after he left.
-
-The little glint in the fault in 1626 when she showed him it was still there.
-
-Tom leaves his hand inside the gap for a moment.
-
-Then withdraws it.
-
-The thimble stays.
-
-Joan says nothing.
-
-Tom looks at the three papers.
-
-You added nothing?
-
-Not yet.
-
-Good.
-
-Joan gives him a look.
-
-That was not praise.
-
-I know.
-
-She returns the papers in the same order.
+She reaches beneath the old counter and brings out three folded packets.
 
 Bell.
 
@@ -556,71 +262,73 @@ Vale.
 
 Mori.
 
-Then closes the small wooden cover Maggie had fitted years ago to keep dust out.
+Tom touches none of them at first.
 
-Tom takes the blue cotton from his sea-bag.
+Then Maria Mori’s packet. Only long enough to see the old Company annotation beside her warning.
 
-Joan unfolds it along the bar.
+Experienced disciplinarian.
 
-Red flowers climb one edge, badly aligned where the printer's block shifted.
+Useful.
 
-Table cloth, Tom says.
+He closes it.
 
-For which table?
+Behind the papers is the brass thimble.
 
-One that does not have men cutting tar on it.
+His mother’s.
 
-Then you have brought it to the wrong house.
+Maggie kept it through one voyage, then another, then through the years when Tom had made himself too useful to come home.
 
-Tom looks at her.
+He reaches into the fault.
 
-Joan smiles.
+Touches the rim.
 
-The line belongs to somebody else and not to her at all.
+Leaves it there.
 
-She knows that.
+Joan watches without comment.
 
-So does he.
+Tom puts the blue cotton on the counter.
 
-It is still funny.
+For the house.
 
-## VI. Last Orders
+Joan folds it once.
 
-Joan calls last orders.
-
-Men complain because men always complain when a keeper tells them time exists.
-
-Cups empty. Chairs scrape. Somebody loses an argument begun before Tom came in and promises to resume it tomorrow.
-
-One by one the room goes out into the damp street.
+Thank you, Mr Fletcher.
 
 Tom lifts his sea-bag.
 
-At the door he pauses with one hand on the iron latch.
+The whistle remains inside it.
 
-He has spent most of his life learning not to look back when leaving places.
+The thimble remains beneath the bar.
 
-This time he does.
+## VI. Last Orders
 
-Joan stands behind the counter with Maggie's old mallet within reach and thyme flour still caught at one cuff.
+At the door Tom pauses.
 
-The stool by the hearth is empty.
+Thirty-two years of ships have taught him to check a space before leaving it.
 
-The boy's cup ring remains at the short end of the bar. His contract is gone with him.
+Fire banked.
 
-Tom looks once toward the underside of the counter.
+Door ready.
 
-Goodnight, Maggie, he says.
+Keeper behind the bar.
 
-Nobody answers.
+No man left who needs an order.
 
-Joan lowers her eyes to the cup she is drying and gives him the privacy of not pretending somebody did.
+His eyes settle once on the empty stool by the hearth.
+
+Goodnight, Maggie.
+
+Joan lowers her eyes.
 
 Tom opens the door.
 
 The river air comes in.
 
-Outside, somewhere down the stairs, men are making a boat ready for the morning tide.
+Down at the stairs somebody calls for a line to be made fast.
+
+Tom does not turn.
+
+Another boatswain will answer.
 
 The ships go out.
 
