@@ -1,5 +1,3 @@
-<!-- PROPOSED INTEGRATED REWRITE. Historical controls recorded in editorial/venture-amboyna-historical-check.md. Removes the old court/verdict framing, corrects the Amboyna execution account, changes the EIC response from silence-buying to propaganda/use, and lets Tom/Maggie's reconciliation occur through Daniel rather than explicit accounting language. Editorial branch only. -->
-
 # 1626: The Man Who Came Back Wrong
 
 > **1626**
@@ -24,13 +22,11 @@ Then the door opens and Tom Fletcher brings him in.
 
 Maggie sees Tom first.
 
-Forty-five now. Scar through one eyebrow. Beard cut close. A sea-bag over one shoulder and no whistle at his neck.
+Forty-five now. Boatswain on the ship that brought Daniel west. Scar through one eyebrow. Beard cut close. A sea-bag over one shoulder and no whistle at his neck.
 
 She has not seen him in fourteen years.
 
 Tom has one of Daniel's arms across his shoulders.
-
-That decides what happens before either of them speaks.
 
 Food first, Maggie says.
 
@@ -252,19 +248,13 @@ No.
 
 Daniel says it immediately.
 
-The certainty belongs to him. The narrator does not need to borrow it.
-
 They questioned the Japanese soldiers first. Then the English. Towerson. Others from the factories.
 
 How?
 
 Daniel's fingers tighten on the cup.
 
-Tom stands.
-
-Not threatening Carter.
-
-Simply moving where Daniel can see him.
+Tom stands and moves into Daniel's sight.
 
 Daniel takes one breath.
 
@@ -488,9 +478,7 @@ With me.
 
 The legal man does not deny it.
 
-That is when Daniel understands what has changed.
-
-At Amboyna men wanted his confession because it completed a Dutch story.
+At Amboyna men wanted Daniel's confession because it completed a Dutch story.
 
 In London men want his suffering because it completes an English one.
 
@@ -689,8 +677,6 @@ Maggie takes Daniel's page.
 She does not read it at the bar.
 
 She puts it into the fault beneath the old oak beside Matthew Bell's folded account.
-
-That is all.
 
 Daniel watches her hand return empty.
 
@@ -892,8 +878,6 @@ Maggie says, I was angry enough to see parts that were not there.
 
 Tom looks up.
 
-That is as close as either of them comes.
-
 Maggie pushes the thimble toward him.
 
 Tom puts one finger through it.
@@ -927,7 +911,3 @@ Tom lifts the pint.
 Maggie picks up her rag.
 
 He drinks.
-
-Nothing is settled completely.
-
-Nothing needs to be said about that.
