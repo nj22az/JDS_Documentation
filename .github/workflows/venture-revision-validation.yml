@@ -1,0 +1,44 @@
+name: Validate Venture revision
+
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - scripts/assemble_venture_natural.py
+      - scripts/assemble_venture_natural_final.py
+      - projects/literary/EIC/manuscript-editorial/**
+      - projects/literary/EIC/editorial/**
+
+permissions:
+  contents: write
+
+jobs:
+  assemble-and-qc:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out revision head
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 0
+
+      - name: Assemble revised Book One
+        run: python3 scripts/assemble_venture_natural_final.py
+
+      - name: Show QC
+        run: cat projects/literary/EIC/assembled/the-venture-natural-qc.md
+
+      - name: Commit generated manuscript to revision branch
+        shell: bash
+        run: |
+          if git diff --quiet -- projects/literary/EIC/assembled; then
+            echo "Generated manuscript already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add projects/literary/EIC/assembled/the-venture-natural-revision.md \
+                  projects/literary/EIC/assembled/the-venture-natural-qc.md
+          git commit -m "Assemble polished Venture manuscript"
+          git push origin HEAD:${{ github.head_ref }}
